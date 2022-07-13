@@ -1,0 +1,1504 @@
+input_dictionary =  
+PRÜFUNGS- UND STUDIENORDNUNG FÜR DIE BACHELORSTUDIENGÄNGE  
+BETRIEBSWIRTSCHAFTSLEHRE, VOLKSWIRTSCHAFTSLEHRE, INTERNATIONALE 
+VOLKSWIRTSCHAFTSLEHRE MIT AUSRICHTUNG AUF MITTEL- UND OSTEU-
+ROPA, IMMOBILIENWIRTSCHAFT UND WIRTSCHAFTSINFORMATIK 
+AN DER UNIVERSITÄT REGENSBURG 
+ 
+VOM 11. AUGUST 2021 
+GEÄNDERT DURCH SATZUNG VOM 07.02.2022. 
+ 
+ 
+Aufgrund von Art. 13 Abs. 1 Satz 2 in Verbindung mit Art. 58 Abs. 1 Satz 1 und Art. 61 Abs. 2 Satz 
+1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Regensburg folgende Prü-
+fungs- und Studienordnung: 
+ 
+Vorbemerkung zum Sprachgebrauch:  
+Die in dieser Ordnung verwendeten Amts-, Personen- und Funktionsbezeichnungen schließen alle 
+Geschlechter (männlich, weiblich, divers) ein. Dies gilt auch, wenn nur die weibliche und männliche 
+Form angesprochen wird. 
+ 
+Inhaltsübersicht 
+ 
+I. Allgemeine Vorschriften 
+§ 1  Geltungsbereich 
+§ 2  Zweck der Prüfung, Akademischer Grad 
+§ 3  Studienbeginn, Regelstudienzeit, Gliederung des Studiums 
+§ 4  Qualifikation, Immatrikulation 
+§ 4a  Qualifikation für die „Honors“-Modulgruppe 
+§ 5  Studienberatung 
+§ 6  Leistungspunktesystem und Punktekonto 
+§ 7  Lehrveranstaltungen, Studien- und Prüfungsleistungen  
+§ 8  Module und Modulgruppen 
+§ 9  Prüfungsausschuss 
+§ 10  Prüfende und Beisitzende 
+§ 11  Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht 
+§ 12  Anrechnung von Kompetenzen 
+§ 13  Berücksichtigung besonderer Lebenssituationen 
+§ 14  Besondere Belange Studierender mit Behinderung oder chronischer Erkrankung 
+ 
+II. Spezielle Prüfungsvorschriften 
+§ 15  Bestandteile der Bachelorprüfung 
+§ 15a „Honors“-Modulgruppe 
+§ 16  Grundlagen- und Orientierungsprüfung 
+§ 17  Form und Verfahren von Bachelorprüfung und Modulprüfungen, Anwendungsbereich 
+§ 18  Prüfungstermine, Anmeldung zu Modulprüfungen 
+§ 19  Schriftliche Modulprüfungen 
+§ 20  Mündliche Modulprüfungen 
+§ 21  Bachelorarbeit 
+§ 22  Anmeldung zur Bachelorarbeit 
+§ 23  Prüfungsfristen 
+§ 24  Bewertung von Prüfungsleistungen, Bekanntgabe des Prüfungsergebnisses  
+§ 25  Wiederholbarkeit von Modulprüfungen und Bachelorarbeit 
+§ 26  Mängel im Prüfungsverfahren § 27  Versäumnis, Rücktritt, Täuschung, Ordnungsverstoß 
+§ 28  Bestehen der Bachelorprüfung, Gesamtnote  
+§ 29  Zeugnis, Bachelorurkunde, Diploma Supplement  
+§ 30  Ungültigkeit von Prüfungen 
+§ 31  Einsicht in die Prüfungsunterlagen 
+§ 32  Entzug des Grades 
+ 
+III. Schlussvorschriften 
+§ 33  In-Kraft-Treten 
+ 
+ 
+I. Allgemeine Vorschriften 
+ 
+§ 1 
+Geltungsbereich 
+ 
+1Die Universität Regensburg bietet an der Fakultät für Wirtschaftswissenschaften die Bachelorstudi-
+engänge Betriebswirtschaftslehre  (BWL),  Volkswirtschaftslehre  (VWL),  Internationale  Volkswirt-
+schaftslehre mit Ausrichtung auf Mittel- und Osteuropa (IVWL (MOE)), Immobilienwirtschaft (IMMO) 
+und Wirtschaftsinformatik (WI) an. 2Die vorliegende Prüfungs- und Studienordnung regelt den Er-
+werb von Studien- und Prüfungsleistungen sowie die Verleihung der akademischen Grade in diesen 
+Bachelorstudiengängen. 
+ 
+ 
+§ 2 
+Zweck der Prüfung, Akademischer Grad 
+ 
+(1)  1Die studienbegleitend abzulegende Bachelorprüfung bildet einen ersten berufsqualifizierenden 
+Abschluss des Studiums. 2Durch die Bachelorprüfung wird festgestellt, ob der oder die Studie-
+rende die Zusammenhänge des Faches überblickt und kritisch beurteilen kann, die Fähigkeit 
+besitzt, dessen wissenschaftliche Methoden und Erkenntnisse anzuwenden, sowie die für den 
+Übergang in die Berufspraxis notwendigen Fachkenntnisse und Schlüsselqualifikationen erwor-
+ben hat. 3Die Ziele der jeweiligen Studiengänge sind im Modulkatalog beschrieben. 
+ 
+(2)  Aufgrund der bestandenen Bachelorprüfung verleiht die Universität Regensburg den akademi-
+schen Grad eines „Bachelor of Science“ (abgekürzt: „B.Sc.“).  
+ 
+ 
+§ 3 
+Studienbeginn, Regelstudienzeit, Gliederung des Studiums 
+ 
+(1)  Das Bachelorstudium kann nur im Wintersemester aufgenommen werden.  
+ 
+(2)  Die Regelstudienzeit beträgt für alle Bachelorstudiengänge sechs Semester. 
+ 
+(3)  1Das Bachelorstudium ist modular aufgebaut. 2Das Bachelorstudium umfasst das Absolvieren 
+der vorgesehenen Module sowie weiterer Leistungen gemäß § 15 und gegebenenfalls § 15a.  
+ 
+(4)  Zum erfolgreichen Abschluss des Bachelorstudiums sind 180 ECTS-Leistungspunkte (LP) erfor-
+derlich.  
+ 
+(5)  Es wird empfohlen, einen im Rahmen des Bachelorstudiums geplanten Auslandsaufenthalt in 
+der zweiten Studienphase (§ 15) durchzuführen.  
+ 
+  2§ 4 
+Qualifikation, Immatrikulation 
+ 
+(1)  Voraussetzungen für die Aufnahme in einen der Bachelorstudiengänge sind: 
+1.  1Nachweis über die allgemeine oder einschlägige fachgebundene Hochschulreife gemäß 
+der Verordnung über die Qualifikation für ein Studium an den Hochschulen des Freistaates 
+Bayern und den staatlich anerkannten nichtstaatlichen Hochschulen in der jeweils gelten-
+den Fassung oder eine äquivalente ausländische Hochschulzugangsberechtigung oder 
+Nachweis über die Hochschulzugangsberechtigung nach Art. 45 BayHSchG. 2Für das er-
+folgreiche Absolvieren dieses Bachelorstudiengangs wird empfohlen, bereits vor Auf-
+nahme des Studiums über grundlegende Englischkenntnisse auf dem Niveau B2 des Ge-
+meinsamen Europäischen Referenzrahmens zu verfügen. 
+2.  Bei Bewerbern und Bewerberinnen, die ihre Hochschulzugangsberechtigung nicht an einer 
+deutschsprachigen  Einrichtung  erworben  haben,  ist ein  Nachweis  über  ausreichende 
+Deutschkenntnisse zu erbringen, in Form der Deutschen Sprachprüfung für den Hochschul-
+zugang (DSH) mit einem Gesamtergebnis von mindestens DSH-2 oder einem gleichwerti-
+gen Sprachnachweis. 
+ 
+(2)  1Bewerbern oder Bewerberinnen, die denselben oder einen verwandten Studiengang endgültig 
+nicht bestanden haben, wird der Zugang zum jeweiligen Studiengang versagt. 2Verwandtschaft 
+wird hergestellt, wenn die nachfolgend bezeichneten Inhalte des Zielstudienganges mit den In-
+halten des endgültig nicht bestandenen Studienganges im Wesentlichen vergleichbar sind: 
+-  Für den Studiengang BWL: Modulgruppe „Grundlagen der BWL“, § 15 Abs. 2 
+-  Für den Studiengang VWL/IVWL: Modulgruppe „Grundlagen der VWL“, § 15 Abs. 3 
+-  Für den Studiengang WI: Pflichtmodulgruppe „WI“, § 15 Abs. 5 
+-  Für den Studiengang IMMO: Modulgruppe „Grundlagen der BWL“ oder Modulgruppe „Im-
+mobilienwirtschaft I “, § 15 Abs. 6 
+3Die Feststellung, ob in diesem Sinne Verwandtschaft besteht, trifft der Prüfungsausschuss. 
+ 
+ 
+§ 4a 
+Qualifikation für die „Honors“-Modulgruppe 
+ 
+(1)  1Die „Honors“-Modulgruppe gemäß § 15a ist ein Zusatzstudium im Sinne des Art. 56 Abs. 6 
+Nr. 2 BayHSchG. 2Die Zulassung zur „Honors“-Modulgruppe setzt die Immatrikulation für einen 
+der Bachelorstudiengänge Betriebswirtschaftslehre, Volkswirtschaftslehre, IVWL (MOE) oder 
+Wirtschaftsinformatik mit einem Notendurchschnitt in der ersten Studienphase von mindestens 
+2,0 sowie eine besondere Qualifikation gemäß den Abs. 2 und 3 voraus, die in der Auswahl 
+durch den „Honors“-Prüfungsausschuss gemäß § 9 Abs. 7 überprüft wird. 
+  
+(2)  1Kandidaten und Kandidatinnen müssen eine Bewerbung mit Lebenslauf und Abiturzeugnis so-
+wie eine Zusammenstellung der Studienleistungen der ersten drei Fachsemester (erste Studien-
+phase gemäß § 15) beim „Honors“-Prüfungsausschuss einreichen. 2Auf Grundlage der von dem 
+Kandidaten oder der Kandidatin eingereichten Bewerbungsunterlagen trifft der „Honors“-Prü-
+fungsausschuss eine Vorauswahl der Bewerber und Bewerberinnen. 3Kriterien der Vorauswahl 
+sind die Durchschnittsnote des Abiturs bzw. der Hochschulzugangsberechtigung, die Durch-
+schnittsnote der ersten Studienphase (mindestens 2,0), die Ergebnisse der weiteren bisher ab-
+gelegten Modulprüfungen, nachgewiesene soziale Kompetenz, Anlagen für Führungskompe-
+tenz, nachgewiesen zum Beispiel durch verantwortliche Tätigkeiten in studentischen oder au-
+ßeruniversitären Organisationen, absolvierte Praktika, Sprachkenntnisse sowie besonderes En-
+gagement innerhalb und außerhalb des Studiums.  
+ 
+(3)  1Bewerber und Bewerberinnen, die die Vorauswahl erfolgreich durchlaufen haben, werden vom 
+„Honors“-Prüfungsausschuss  zu  einem  Vorstellungsgespräch  von  mindestens  15  Minuten 
+  3Dauer eingeladen. 2Das Vorstellungsgespräch findet in deutscher oder englischer Sprache statt. 
+3In diesem Gespräch werden insbesondere Motivation, Einsatz für persönliche und andere Ziele, 
+die Fähigkeit, Strategien zum Erreichen der Ziele zu entwickeln, soziale Kompetenz, Fachwissen, 
+Auffassungsgabe, Offenheit für alternative Denkansätze und die Fähigkeit, erlerntes Wissen in 
+einen größeren Kontext zu setzen, überprüft.  
+ 
+(4)  1Auf der Grundlage der eingereichten Bewerbungsunterlagen und des Vorstellungsgesprächs 
+entscheidet der „Honors“-Prüfungsausschuss über die Zulassung des Bewerbers oder der Be-
+werberin. 2Die Zulassung erfolgt, wenn der Bewerber oder die Bewerberin die Kriterien gemäß  
+Abs. 2 Satz 3 zum überwiegenden Teil in besonderer Weise erfüllt und im Vorstellungsgespräch 
+gemäß Abs. 3 Satz 1 die in Abs. 3 Satz 3 abgeprüften Qualifikationen deutlich unter Beweis 
+stellt. 3Bei einer Ablehnung ist eine erneute Bewerbung nicht zulässig. 
+ 
+ 
+§ 5 
+Studienberatung 
+ 
+1Den Studierenden wird sowohl eine zentrale Studienberatung als auch eine Fachstudienberatung 
+angeboten. 2Den Studierenden wird empfohlen, die  
+ 
+-  zentrale Studienberatung insbesondere  
+o  vor Aufnahme des Studiums, 
+o  im Fall von Studienfach- oder Hochschulwechsel, 
+ 
+-  die Fachstudienberatung insbesondere 
+o  in allen Fragen der Studienplanung (u.a. Auslandsaufenthalt), 
+o  bei Fragen zur Anerkennung von Studien- und Prüfungsleistungen, 
+o  nach nicht bestandenen Prüfungen, 
+ 
+beziehungsweise die Beratung des International Office, insbesondere vor einem Studienaufenthalt 
+im Ausland, in Anspruch zu nehmen. 
+ 
+ 
+§ 6 
+Leistungspunktesystem und Punktekonto 
+ 
+(1)  1Die im Rahmen des Bachelorstudiums vergebenen Leistungspunkte bemessen die für das er-
+folgreiche Ablegen eines Moduls erforderliche Arbeitslast. 2Sie werden auf Grundlage des Eu-
+ropean Credit Transfer Systems (ECTS) vergeben; danach entspricht ein Leistungspunkt (LP) ei-
+ner Arbeitsbelastung der Studierenden im Präsenz- und Selbststudium von 25 bis maximal 30 
+Stunden. 3Um die Regelstudienzeit gemäß § 3 Abs. 2 einhalten zu können, wird Studierenden 
+der Erwerb von durchschnittlich 30 LP pro Semester empfohlen.  
+ 
+(2)  1Leistungspunkte werden vorbehaltlich der in § 8 Abs. 2 vorgesehenen Regelungen für den 
+erfolgreichen Abschluss eines Moduls sowie das Anfertigen der Bachelorarbeit vergeben. 2Sie 
+können innerhalb des gewählten Studiengangs nur einmal angerechnet werden.  
+ 
+(3)  1Für alle Studierenden wird vom Prüfungssekretariat Wirtschaftswissenschaften ein Leistungs-
+punktekonto über sämtliche Module einschließlich der zu ihrem erfolgreichen Abschluss abge-
+legten Studien- und Prüfungsleistungen geführt. 2Der oder die Studierende kann über das elekt-
+ronische Prüfungsverwaltungssystem der Universität jederzeit Einblick in den Stand seines oder 
+ihres Kontos nehmen und sich auf begründeten Antrag beim Prüfungssekretariat die gewich-
+tete Durchschnittsnote ausweisen lassen. 3Bei Abbruch oder endgültigem Nichtbestehen des 
+Studiums erhält der oder die Studierende auf Antrag einen Auszug seines oder ihres Kontos als 
+  4Studiennachweis; dieser enthält die erreichten Leistungspunkte sowie die erfolgreich absolvier-
+ten Module, gegebenenfalls mit deren Noten, und lässt erkennen, ob noch ein Prüfungsan-
+spruch besteht. 
+ 
+ 
+§ 7 
+Lehrveranstaltungen, Studien- und Prüfungsleistungen 
+ 
+(1)  1Für die Vermittlung der Ziele und Inhalte des Studiums sind folgende Lehrveranstaltungsfor-
+men vorgesehen: Vorlesungen, Übungen, Seminare, Projektseminare, Praktika und Exkursio-
+nen. 2Alle Lehrveranstaltungen sind Modulen (§ 8) zugeordnet. 3Die Zuordnung ergibt sich aus 
+dem Modulkatalog (§ 8 Abs. 5). 
+ 
+(2)  1Studienleistungen im Sinne dieser Ordnung sind Aufgaben, die in der Regel im Rahmen von 
+Lehrveranstaltungen zu erbringen sind; sie können nach näherer Maßgabe von § 17 Abs. 4 
+auch als Zulassungsvoraussetzung zu einer Modulprüfung festgelegt werden, nicht aber Teil 
+der Modulprüfung sein. 2Die Studienleistungen unterliegen nicht den Bestimmungen über Prü-
+fungen gemäß Abschnitt II dieser Ordnung und sind beliebig oft wiederholbar. 3Studienleistun-
+gen können insbesondere sein: 
+-  Fallstudienarbeiten während des Semesters  
+-  Programmierarbeiten  
+-  Präsentationen (von Fallbeispielen) 
+-  Aufsätze 
+-  Inhaltliche Diskussionsbeiträge  
+-  Leistungskontrollen in schriftlicher, mündlicher, elektronischer bzw. beleglesergestützter 
+Form  
+-  Lösen von Übungsaufgaben 
+-  Entwicklung und Präsentation eines innovativen Geschäftsmodells 
+-  Regelmäßige Abgabe von Aufgabenblättern. 
+4Studienleistungen können auch in Form von Gruppenarbeiten abverlangt werden. 
+ 
+(3)  1Prüfungen bzw. Prüfungsleistungen im Sinne dieser Ordnung sind Modulprüfungen und die 
+Bachelorarbeit. 2Modulprüfungen können in mehreren Teilprüfungen abgehalten werden; es 
+gilt § 8 Abs. 3. 3Art und Umfang von Studien- und Prüfungsleitungen sind im Modulkatalog 
+geregelt. 
+ 
+ 
+§ 8 
+Module und Modulgruppen 
+ 
+(1)  1Ein Modul ist eine mit Leistungspunkten versehene, abprüfbare Einheit, die Stoffgebiete the-
+matisch auf einer bestimmten Niveaustufe zusammenschließt. 2Es soll in der Regel einen Um-
+fang von mindestens fünf LP aufweisen und kann sich über maximal zwei Semester erstrecken. 
+3Module können benotet oder unbenotet sein, benotete Module fließen nach Maßgabe von § 
+28 in die Gesamtnote der Bachelorprüfung ein. 4Grundsätzlich bestehen Module aus mindes-
+tens zwei Lehrveranstaltungen, z.B. einer Vorlesung und einer Übung, Ausnahmen sind mög-
+lich. 5Module werden zu thematisch übergreifenden Modulgruppen zusammengefasst. 
+ 
+(2)  1Für jedes Modul werden die zu vermittelnden Inhalte, die zu erwerbenden Kompetenzen ge-
+mäß § 2 Abs. 1 Satz 2 sowie die Voraussetzungen für die Vergabe der dem Modul pauschal 
+zugeordneten Leistungspunkte festgelegt. 2Für jede Modulgruppe werden modulübergreifend 
+zu erwerbenden Kompetenzen festgelegt. 3Die Vergabe der für ein Modul festgesetzten Leis-
+tungspunkte erfolgt nach dem erfolgreichen Ablegen der Modulprüfung oder nach dem erfolg-
+reichen Abschluss der Modulgruppe, der das Modul zugeordnet ist. 4Zur Feststellung des 
+  5erfolgreichen  Abschlusses  einer  Modulgruppe  wird  der  mit  Leistungspunkten  gewichtete 
+Durchschnitt der Modulprüfungsnoten gebildet. 5Eine Modulgruppe ist erfolgreich abgeschlos-
+sen, wenn kein Modul mit 5,0 und höchstens ein Modul mit 4,3 oder 4,7 bewertet wurde und 
+die nach Satz 4 ermittelte Durchschnittsnote der Modulgruppe höchstens 4,0 ergibt. 6Eine Mo-
+dulgruppe kann nicht mehr erfolgreich abgeschlossen werden, wenn nach Ausschöpfen der 
+Wiederholungsmöglichkeiten in einem zugeordneten Modul eine 5,0 oder in mehr als einem 
+der Module eine Note von jeweils 4,3 oder schlechter erreicht wurde oder wenn die nach Satz 
+4 zum erfolgreichen Abschluss erforderliche Durchschnittsnote nicht mehr erreichbar ist. 7Mit 
+erfolgreichem Abschluss einer Modulgruppe werden dem oder der Studierenden die Leistungs-
+punkte aller in der Modulgruppe absolvierten Module gutgeschrieben. 8Die Ausgleichsregelung 
+nach Satz 5 findet in der Forschungsmodulgruppe keine Anwendung. 
+ 
+(3)  1Für den erfolgreichen Abschluss eines Moduls soll in der Regel nur eine Prüfungsleistung im 
+Sinne von § 7 Abs. 3 erforderlich sein. 2In fachlich begründeten Fällen dürfen bis zu drei Prü-
+fungsleistungen pro Modul im Modulkatalog verbindlich vorgesehen werden.  
+ 
+(4)  1Das Studium umfasst Pflicht-, Wahlpflicht- und Wahlmodule und ggf. weitere Leistungen ge-
+mäß § 15. 2Pflichtmodule werden regelmäßig, mindestens einmal im Studienjahr, angeboten 
+und müssen unter Berücksichtigung von Abs. 2 Satz 3 abgelegt werden. 3Aus dem Angebot 
+der Wahlpflichtmodule einer belegten Modulgruppe können die Studierenden auswählen. 4Ein 
+Anspruch darauf, dass ein Wahlmodul bei nicht ausreichender Anzahl von Studierenden durch-
+geführt wird, besteht nicht. 5Gleiches gilt, wenn der Universität Regensburg kein geeigneter 
+Dozent oder keine geeignete Dozentin zur Verfügung steht. 6Die Studierbarkeit des Studien-
+ganges oder des angebotenen Schwerpunktes muss jedoch gewährleistet sein. 
+ 
+(5)  1Den Studierenden werden in einem Modulkatalog die Modulgruppen, die Module, die den 
+einzelnen Modulen zugeordneten Veranstaltungen, die zu vermittelnden Inhalte und die zu 
+erwerbenden Kompetenzen, die konkreten Voraussetzungen für die Vergabe der dem Modul 
+zugeordneten Leistungspunkte, die modulspezifischen Bewertungsregeln sowie gegebenenfalls 
+die empfohlenen Vorkenntnisse für die Teilnahme an einem Modul mitgeteilt. 2Eine englische 
+Kurzfassung des Modulkataloges wird zusätzlich angeboten. 3Der Modulkatalog legt weiterhin 
+Einschränkungen der Veranstaltungswahl in den Wahlmodulgruppen fest. 4Der Modulkatalog 
+wird vom Fakultätsrat der Fakultät für Wirtschaftswissenschaften verabschiedet; er kann jeweils 
+frühestens nach Ablauf von zwei Semestern geändert werden; für Sommer- und Wintersemes-
+ter können getrennte Modulkataloge vorgehalten werden. 5Die Bekanntmachung des Modul-
+katalogs erfolgt spätestens eine Woche vor Semesterbeginn auf der Internetseite der Fakultät 
+für Wirtschaftswissenschaften.  
+ 
+(6)  Seminare und Projektseminare sind Module, die zeigen sollen, dass der oder die Studierende in 
+der Lage ist, ein eng abgegrenztes Gebiet aus dem Fachgebiet seines oder ihres Studienganges 
+innerhalb einer vorgegebenen Frist nach wissenschaftlichen Methoden zu bearbeiten und die 
+Ergebnisse verständlich zu präsentieren.   
+ 
+(7)  1Vorlesungen, Übungen, Seminare und Projektseminare, die für den erfolgreichen Abschluss 
+des Bachelorstudiums belegt werden müssen, müssen in deutscher Sprache angeboten werden. 
+2Davon nicht betroffene Veranstaltungen können in englischer Sprache angeboten werden.  
+ 
+ 
+§ 9 
+Prüfungsausschuss 
+ 
+(1)  1Für die Organisation und Durchführung der Prüfungen, die Bestellung der Prüfer oder Prüfe-
+rinnen sowie die Entscheidung in Prüfungssachen wird ein Prüfungsausschuss eingesetzt. 2Der 
+Prüfungsausschuss besteht aus vier Mitgliedern, davon je einem Mitglied der Institute für 
+  6Betriebswirtschaft, Volkswirtschaftslehre, Wirtschaftsinformatik und Immobilienwirtschaft. 3Die 
+Amtszeit der Mitglieder beträgt zwei Jahre. 4Eine Wiederbestellung ist möglich. 5Die Mitglieder 
+des Prüfungsausschusses werden vom Fakultätsrat gewählt. 6Zu Mitgliedern des Prüfungsaus-
+schusses können nur Professoren oder Professorinnen der Fakultät für Wirtschaftswissenschaf-
+ten im Sinne von Art. 2 Abs. 1 Satz 1 Nr. 1 Bayerisches Hochschulpersonalgesetz (BayHSchPG) 
+gewählt werden. 
+ 
+(2)  1Der Prüfungsausschuss benennt aus seiner Mitte einen Vorsitzenden oder eine Vorsitzende 
+und eine Stellvertretung. 2Der oder die Vorsitzende, im Verhinderungsfall die Stellvertretung, 
+vertritt den Prüfungsausschuss gerichtlich und außergerichtlich. 3Er oder sie führt die laufenden 
+organisatorischen Geschäfte und beruft die Sitzungen des Prüfungsausschusses ein. 4Der Prü-
+fungsausschuss kann sich eine Geschäftsordnung geben. 5Der Prüfungsausschuss kann seine 
+Befugnisse hinsichtlich der Regelaufgaben gemäß Abs. 1 (Hilfsmittelbekanntmachungen, Bear-
+beitung von prüfungsrechtlichen Anträgen wie Fristverlängerungen, Prüfungsrücktritte generell 
+oder in einzelnen Fällen) auf den Vorsitzenden oder die Vorsitzende übertragen. 6Der oder die 
+Vorsitzende ist zudem befugt, anstelle des Prüfungsausschusses unaufschiebbare Entscheidun-
+gen und Maßnahmen allein zu treffen; davon unterrichtet er oder sie den Prüfungsausschuss 
+unverzüglich. 7Der Prüfungsausschuss kann über Satz 5 hinaus dem oder der Vorsitzenden, der 
+Stellvertretung oder dem Prüfungssekretariat Wirtschaftswissenschaften die Erledigung weite-
+rer Aufgaben übertragen. 8Die Aufgabenübertragungen sind jederzeit widerruflich. 
+ 
+(3)  1Der Prüfungsausschuss ist beschlussfähig, wenn sämtliche Mitglieder unter Einhaltung einer 
+mindestens dreitägigen Ladungsfrist geladen sind und die Mehrheit anwesend und stimmbe-
+rechtigt ist; er beschließt mit der Mehrzahl der abgegebenen Stimmen in Sitzungen. 2Stimm-
+enthaltung, geheime Abstimmung und Stimmrechtsübertragung sind nicht zulässig. 3Bei Stim-
+mengleichheit gibt die Stimme des oder der Vorsitzenden den Ausschlag. 4Über die Sitzung ist 
+ein Protokoll zu führen, welches Tag und Ort der Sitzung, die Namen der anwesenden Perso-
+nen, die behandelten Gegenstände sowie Anträge, Beschlüsse und das Abstimmungsergebnis 
+enthalten muss. 5Alternativ zu Satz 1 kommt in geeigneten Fällen eine Beschlussfassung im 
+Umlaufverfahren, auch in elektronischer Form, in Betracht. 
+ 
+(4)  Der  Prüfungsausschuss  erlässt  die nach  dieser  Prüfungsordnung  erforderlichen  Bescheide 
+schriftlich mit Begründung und Rechtsbehelfsbelehrung.  
+ 
+(5)  1Das Prüfungssekretariat Wirtschaftswissenschaften unterstützt den Prüfungsausschuss bei der 
+Organisation und Durchführung der Prüfungen. 2Geschäftsstelle des Prüfungsausschusses ist 
+das Prüfungssekretariat Wirtschaftswissenschaften. 
+ 
+(6)  Alle Anträge an den Prüfungsausschuss sind, soweit diese Prüfungs- und Studienordnung nichts 
+anderes bestimmt, unverzüglich schriftlich mit den erforderlichen Nachweisen beim Prüfungs-
+sekretariat Wirtschaftswissenschaften einzureichen.  
+ 
+(7)  1Die Zulassung zur „Honors“-Modulgruppe gemäß § 15a und die Organisation dieser Modul-
+gruppe obliegt dem „Honors“-Prüfungsausschuss. 2Der „Honors“-Prüfungsausschuss besteht 
+aus drei Mitgliedern, davon je ein Mitglied der Institute für Betriebswirtschaftslehre, Volkswirt-
+schaftslehre und Wirtschaftsinformatik. 3Abs. 1 Sätze 3 bis 6 und Abs. 2 gelten entsprechend. 
+ 
+ 
+§ 10 
+Prüfende und Beisitzende 
+ 
+(1)  1Zu Prüfern und Prüferinnen können alle nach dem BayHSchG sowie nach der Hochschulprü-
+ferverordnung (HSchPrüferV) in der jeweils geltenden Fassung zur Abnahme von Hochschul-
+prüfungen Befugte bestellt werden. 2Als Beisitzer und Beisitzerinnen können alle Mitglieder der 
+  7Universität Regensburg herangezogen werden, die einen entsprechenden oder vergleichbaren 
+wissenschaftlichen Studiengang erfolgreich abgeschlossen haben. 3Die Beisitzer oder die Beisit-
+zerinnen selbst prüfen nicht. 
+ 
+(2)  1Zu Prüfern und Prüferinnen für Bachelorarbeiten können alle Hochschullehrer oder Hochschul-
+lehrerinnen gemäß Art. 2 Abs. 3 Satz 1 BayHSchPG der Universität Regensburg bestellt werden. 
+2Die Bachelorarbeit darf in einer Einrichtung außerhalb der Universität Regensburg durchge-
+führt werden, wenn sie von einem Prüfer oder einer Prüferin, der oder die der Fakultät für 
+Wirtschaftswissenschaften der Universität Regensburg angehört, betreut wird. 
+ 
+(3)  1Scheidet ein prüfungsberechtigtes Mitglied aus der Universität Regensburg aus, so kann der 
+Prüfungsausschuss auf dessen Antrag hin beschließen, dass er oder sie noch eine angemessene 
+Zeit als Prüfender oder Prüfende tätig ist. 2In der Regel soll die Prüfungsberechtigung bis zu 
+zwei Jahre erhalten bleiben. 3Für Professoren oder Professorinnen im Ruhestand kann ein län-
+gerer Zeitraum vorgesehen werden. 
+ 
+(4)  1Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wech-
+sel des Prüfers oder der Prüferin ist zulässig.  2Der Wechsel ist vom Prüfungsausschuss zu ge-
+nehmigen und mindestens zwei Wochen vor dem Prüfungstermin bekannt zu machen. 
+ 
+ 
+§ 11 
+Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht 
+ 
+(1)  Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer Prü-
+fungstätigkeit wegen persönlicher Beteiligung bestimmt sich nach Art. 41 Abs. 2 BayHSchG. 
+  
+(2)  Die Pflicht der Mitglieder des Prüfungsausschusses, der Prüfer oder Prüferinnen, der Prüfungs-
+beisitzer oder Prüfungsbeisitzerinnen und sonstiger mit Prüfungsangelegenheiten befasster Per-
+sonen zur Verschwiegenheit bestimmt sich nach Art. 18 Abs. 2 BayHSchG. 
+ 
+ 
+§ 12 
+Anrechnung von Kompetenzen 
+ 
+(1)  1Studienzeiten, Studien- und Prüfungsleistungen, die in Studiengängen an staatlichen oder 
+staatlich anerkannten Hochschulen in der Bundesrepublik Deutschland, durch die erfolgreiche 
+Teilnahme an einer Fernstudieneinheit im Rahmen eines Studiengangs an einer staatlichen oder 
+staatlich anerkannten Hochschule in der Bundesrepublik Deutschland oder in Studiengängen 
+an ausländischen Hochschulen erbracht worden sind, sind anlässlich der Aufnahme des Studi-
+ums, der Fortsetzung des Studiums und der Ablegung von Prüfungen gemäß Satz 3 anzurech-
+nen, außer es bestehen wesentliche Unterschiede hinsichtlich der erworbenen Kompetenzen 
+(Lernergebnisse). 2Gleiches gilt für Studienzeiten, Studien- und Prüfungsleistungen, die an einer 
+staatlichen oder staatlich anerkannten Hochschule im Rahmen von sonstigen Studien nach Art. 
+56 Abs. 6 Nrn. 1 und 2 BayHSchG, in speziellen Studienangeboten nach Art. 47 Abs. 3 Satz 1 
+BayHSchG oder an der Virtuellen Hochschule Bayern erbracht worden sind. 3Abgelegte Leistun-
+gen einschließlich nicht bestandener Leistungen, die den an der Fakultät für Wirtschaftswissen-
+schaften angebotenen Modulen der ersten Studienphase des jeweiligen Studienganges gemäß 
+§ 15 inhaltlich entsprechen, werden angerechnet, weitere erbrachte Leistungen können auf 
+Antrag angerechnet werden. 4Die Überprüfung, ob ein an einer anderen Hochschule angebo-
+tenes Modul einem Modul der ersten Studienphase gemäß § 15 entspricht, erfolgt durch den 
+Prüfungsausschuss.  
+ 
+  8(2)  1Kompetenzen, die im Rahmen sonstiger weiterbildender Studien nach Art. 56 Abs. 6 Nr. 3 
+BayHSchG oder außerhalb des Hochschulbereichs erworben wurden, können angerechnet wer-
+den, wenn sie gleichwertig sind. 2Außerhalb des Hochschulbereichs erworbene Kompetenzen 
+dürfen höchstens die Hälfte der nachzuweisenden Kompetenzen ersetzen. 
+ 
+(3)  1Entspricht bei der Anrechnung im Ausland erbrachter Studien- und Prüfungsleistungen das 
+Notensystem der ausländischen Hochschule nicht § 24, so wird die Note der anzurechnenden 
+Prüfungsleistung entsprechend einem universitätsweit geltenden Notenumrechnungsschlüssel 
+ermittelt. 2Sofern im Rahmen von Partnerschaftsabkommen mit ausländischen Hochschulen ein 
+Notenumrechnungsschlüssel vereinbart worden ist, ist dieser bindend. 
+ 
+(4)  1Der oder die Studierende hat anlässlich der Aufnahme des Studiums, der Fortsetzung des Stu-
+diums oder der Ablegung von Prüfungen eine Erklärung über Studienzeiten, Studien- und Prü-
+fungsleistungen gemäß Abs. 1 Satz 1 oder 2 abzugeben. 2In der Regel wird pro abgeschlossene 
+30 LP ein Fachsemester angerechnet. 3Die Erklärung ist unter Beifügung der entsprechenden 
+Unterlagen über das Prüfungssekretariat Wirtschaftswissenschaften an den Vorsitzenden oder 
+die Vorsitzende des Prüfungsausschusses zu richten. 4Zu den einzureichenden Unterlagen ge-
+hören ein aktueller und vollständiger Notenauszug des zuvor belegten Studiengangs, die voll-
+ständige Liste von Leistungen gemäß Abs. 1  Satz 3, deren Anrechnung beantragt wird, der 
+Modulkatalog des zuvor belegten Studiengangs, aus welchem sich unter anderem die Qualifi-
+kationsziele, Lerninhalte und der Arbeitsumfang ergeben müssen, sowie das der Bewertung 
+des Moduls zugrundeliegende Notensystem. 5Die Erklärung hat innerhalb des ersten Semesters 
+nach (Wieder-) Aufnahme des Studiums an der Universität Regensburg zu erfolgen. 6Bei späte-
+rem Erwerb der Studien- und Prüfungsleistungen muss die Erklärung spätestens innerhalb des 
+Folgesemesters des Leistungserwerbs gestellt werden. 7Mit dem Antritt der zu ersetzenden Prü-
+fung ist die Anrechnung ausgeschlossen. 8Über das Vorliegen der Voraussetzungen für die An-
+erkennung entscheidet der Prüfungsausschuss unter Beachtung von Art. 63 BayHSchG.  
+ 
+ 
+§ 13 
+Berücksichtigung besonderer Lebenssituationen 
+ 
+(1)  1Auf Antrag ist bei Fristen und Terminen die Inanspruchnahme der Schutzfristen entsprechend 
+den §§ 3, 4, 5 und 6 des Mutterschutzgesetzes vom 23. Mai 2017 in der jeweils geltenden 
+Fassung sowie der Fristen des Gesetzes zum Elterngeld und zur Elternzeit vom 5. Dezember 
+2006 in der jeweils geltenden Fassung zu gewährleisten. 2Die entsprechenden Nachweise sind 
+zu führen; Änderungen in den Voraussetzungen sind unverzüglich mitzuteilen. 
+ 
+(2)  1Auf Prüfungsfristen werden auf Antrag Studienzeiten nicht angerechnet, in denen ein ord-
+nungsgemäßes Studium aus von dem oder der Studierenden nicht zu vertretenden Gründen 
+nicht oder nur sehr eingeschränkt möglich ist. 2Nicht zu vertretende Gründe sind insbesondere 
+Krankheit oder die häusliche Pflege schwer erkrankter Angehöriger. 3Die entsprechenden Nach-
+weise sind unverzüglich nach Studienbeginn beziehungsweise nach Eintritt der besonderen Le-
+benssituation zu führen, insbesondere sind ärztliche Atteste, in Zweifelsfällen amtsärztliche At-
+teste, vorzulegen. 4Änderungen in den Voraussetzungen sind unverzüglich mitzuteilen.  
+ 
+(3)  1Schwangeren kann in der Prüfung auf Antrag insbesondere eine Pause gewährt werden, wenn 
+nachgewiesen wird, dass wegen der Schwangerschaft die Prüfung nicht in der vorgesehenen 
+Dauer erbracht werden kann. 2Eine ärztliche Bescheinigung ist vorzulegen. 3§ 14 Abs. 3 gilt 
+entsprechend. 
+ 
+(4)  Es wird empfohlen, die familienfreundlichen Studien- und Prüfungsregelungen – Richtlinien der 
+Universität Regensburg – in der jeweils gültigen Fassung grundsätzlich zu berücksichtigen. 
+ 
+  9§ 14 
+Besondere Belange Studierender mit Behinderung oder chronischer Erkrankung 
+ 
+(1)  1Die besondere Lage von Studierenden mit Behinderung oder chronischer Erkrankung ist in 
+angemessener Weise zu berücksichtigen. 2Weist der oder die Studierende nach, dass er oder 
+sie wegen einer Behinderung oder chronischen Erkrankung nicht in der Lage ist, Studien- be-
+ziehungsweise Prüfungsleistungen gemäß § 7 ganz oder teilweise in der vorgesehenen Form 
+oder innerhalb der vorgegebenen Frist abzulegen, gestattet der Prüfungsausschuss die Verlän-
+gerung der Bearbeitungszeit beziehungsweise der Fristen für das Ablegen von Studien- bezie-
+hungsweise Prüfungsleistungen oder das Ablegen gleichwertiger Studien- beziehungsweise 
+Prüfungsleistungen in einer bedarfsgerechten Form.  
+ 
+(2)  Wenn absehbar ist, dass ein Studium in der vorgesehenen Form oder Zeit aufgrund von Behin-
+derung oder chronischer Erkrankung nicht durchgeführt werden kann, besteht die Möglichkeit, 
+in Absprache mit dem zuständigen Fachstudienberater oder der zuständigen Fachstudienbera-
+terin und dem Prüfungsausschuss, einen Studienplan aufzustellen, der sich an dem individuell 
+eingeschränkten Leistungsvermögen orientiert.  
+ 
+(3)  1Der Prüfungsausschuss entscheidet über Fälle gemäß Abs. 1 und 2 auf schriftlichen Antrag, 
+der unverzüglich nach Studienbeginn beziehungsweise nach Eintritt der Behinderung bezie-
+hungsweise der chronischen Erkrankung gestellt werden sollte und in der Regel spätestens acht 
+Wochen vor Prüfungsbeginn zu stellen ist, und teilt die Entscheidung dem oder der Studieren-
+den schriftlich mit. 2Im Antrag nach Satz 1 kann sich der oder die Studierende zugleich dafür 
+aussprechen, dass vor einer ablehnenden Entscheidung der oder die Senatsbeauftragte für Stu-
+dierende mit Behinderung oder chronischer Erkrankung anzuhören ist. 3Die Bescheide des Prü-
+fungsausschusses sind bei der Anmeldung und Ablegung der Prüfungen vorzulegen. 
+ 
+(4)  Zum Nachweis einer Behinderung oder chronischen Krankheit ist ein ärztliches Attest, in Zwei-
+felsfällen ein amtsärztliches Attest, vorzulegen. 
+ 
+ 
+ 
+II. Spezielle Prüfungsvorschriften 
+ 
+§ 15 
+Bestandteile der Bachelorprüfung 
+ 
+(1)  1Die Bachelorprüfung unterteilt sich in eine erste und eine zweite Studienphase. 2Sie besteht 
+aus dem Nachweis von 180 LP. 2Diese werden in den einzelnen Studiengängen erbracht durch 
+das erfolgreiche Ablegen von Modulen aus den folgenden, im Modulkatalog näher beschriebe-
+nen Modulgruppen sowie das Anfertigen der Bachelorarbeit. 
+ 
+(2)  Im Bachelorstudiengang Betriebswirtschaftslehre: 
+ 
+Erste Studienphase: 
+-  sechs Module im Umfang von je 6 LP in der Pflichtmodulgruppe „Allgemeine Grundlagen“ 
+(36 LP) 
+o  „Grundzüge des Privatrechts“ 
+o  „Grundlagen der Wirtschaftsinformatik“ 
+o  „Makroökonomik 1“ 
+o  „Makroökonomik 2“ 
+o  „Mikroökonomik 1“ 
+o  „Mikroökonomik 2“ 
+  10-  drei Module im Umfang von je 6 LP in der Pflichtmodulgruppe „Quantitative Grundlagen“ 
+(18 LP) 
+o  „Mathematik“ 
+o  „Statistik 1 für Wirtschaftswissenschaften“ 
+o  „Statistik 2 für Wirtschaftswissenschaften“ 
+-  sechs Module im Umfang von je 6 LP in der Pflichtmodulgruppe „Grundlagen der BWL“ (36 
+LP) 
+o  „Buchhaltung“ 
+o  „Externe Unternehmensberichterstattung I“ 
+o  „Finanzierung“ 
+o  „Investitionsentscheidungen“ 
+o  „Kosten- und Leistungsrechnung“ 
+o  „Marketing“. 
+ 
+Zweite Studienphase: 
+-  fünf Module im Umfang von je 6 LP in der Pflichtmodulgruppe Betriebswirtschaftslehre (30 
+LP)  
+o  „Produktionsmanagement“ 
+o  „Leistungserstellung“ 
+o  „Management und Unternehmensgründung“ 
+o  „Organisationslehre“ 
+o  „Steuerrechtliche Grundlagen“ 
+-  vier Module im Umfang von je 6 LP aus einer der beiden Schwerpunktmodulgruppen (Ma-
+jors) (24 LP) 
+o  „Wertschöpfungsmanagement“  
+o  „Internationales Management“ 
+o  „Logistik“ 
+o  „Personalmanagement“ 
+o  „Quantitative Methoden des digitalen Produktionsmanagements“ 
+o  „Strategisches Business Marketing“ 
+            oder 
+o  „Finanzmanagement und -berichterstattung“ 
+o  „Betriebswirtschaftliche Steuerlehre“ 
+o  „Corporate Finance“ 
+o  „Externe Unternehmensberichterstattung II“ 
+o  „Kapitalmarktmanagement“ 
+-  wahlweise entweder eine der Vertiefungsmodulgruppen (Minors) im Umfang von insgesamt 
+18 LP  
+o  „Immobilienwirtschaft“ 
+o   „International Studies“ 
+o  „Wirtschaftsinformatik“ oder 
+o  einer weiteren im Modulkatalog genannten Vertiefungsmodulgruppe 
+und Module im Umfang von 6 LP in der Wahlmodulgruppe oder Module im Umfang von 24 LP 
+in der Wahlmodulgruppe 
+-  die Bachelorarbeit (10 LP) und eine Einführung in wissenschaftliches Arbeiten (2 LP) in der 
+Forschungsmodulgruppe. 
+ 
+(3)  Im Bachelorstudiengang Volkswirtschaftslehre:   
+ 
+Erste Studienphase: 
+-  sechs Module im Umfang von je 6 LP in der Pflichtmodulgruppe „Allgemeine Grundlagen“ 
+(36 LP) 
+o  „Buchhaltung“ 
+o  „Externe Unternehmensberichterstattung I“ 
+  11o  „Finanzierung“ 
+o  „Grundzüge des Privatrechts“ 
+o  „Grundlagen der Wirtschaftsinformatik“ 
+o  „Investitionsentscheidungen“ 
+-  drei Module im Umfang von je 6 LP in der Pflichtmodulgruppe „Quantitative Grundlagen“ 
+(18 LP) 
+o  „Mathematik“ 
+o  „Statistik 1 für Wirtschaftswissenschaften“ 
+o  „Statistik 2 für Wirtschaftswissenschaften“ 
+-  sechs Module im Umfang von je 6 LP in der Pflichtmodulgruppe „Grundlagen der VWL“ (36 
+LP) 
+o  „Einführung in die Ökonometrie“ 
+o  „Makroökonomik 1“ 
+o  „Makroökonomik 2“ 
+o  „Methoden der Volkswirtschaftslehre“ 
+o  „Mikroökonomik 1“ 
+o  „Mikroökonomik 2“. 
+ 
+Zweite Studienphase: 
+-  eine oder zwei Schwerpunktmodulgruppen (Majors) mit jeweils 24 LP bestehend aus vier 
+Modulen zu je 6 LP (davon die in den folgenden Auflistungen jeweils erstgenannten beiden 
+als Pflichtmodul und zwei weitere als Wahlpflichtmodul) aus 
+o  „Außenwirtschaft und Entwicklungsökonomik“ (The Global Economy and Develop-
+ment) 
+o  „Außenwirtschaft und Entwicklungsökonomik 1“ 
+o  „Seminar zu Außenwirtschaft und Entwicklungsökonomik“ 
+o  „Außenwirtschaft und Entwicklungsökonomik 2“ 
+o  „Außenwirtschaft und Entwicklungsökonomik 3“ 
+o  „Außenwirtschaft und Entwicklungsökonomik 4“ 
+o  „Außenwirtschaft und Entwicklungsökonomik 5“ 
+o  „Außenwirtschaft und Entwicklungsökonomik 6“ 
+o  weitere im Modulkatalog genannte Module 
+o  „Empirische Wirtschaftsforschung“ (Empirical Economics) 
+o  „Empirische Wirtschaftsforschung 1“ 
+o  „Seminar zur Empirische Wirtschaftsforschung“ 
+o  „Empirische Wirtschaftsforschung 2“ 
+o  „Empirische Wirtschaftsforschung 3“ 
+o  „Empirische Wirtschaftsforschung 4“ 
+o  „Empirische Wirtschaftsforschung 5 
+o  „Empirische Wirtschaftsforschung 6 
+o  „Empirische Wirtschaftsforschung 7“ 
+o  weitere im Modulkatalog genannte Module 
+o   „Finanzmärkte“ (Financial Economics) 
+o  „Finanzmärkte 1“ 
+o  „Seminar zu Finanzmärkten“ 
+o  „Finanzmärkte 2“ 
+o  „Finanzmärkte 3“ 
+o  „Finanzmärkte 4“ 
+o  „Finanzmärkte 5“ 
+o  „Finanzmärkte 6 
+o  weitere im Modulkatalog genannte Module 
+o  „Immobilien- und Regionalökonomik“ (Real Estate Economics) 
+o  „Immobilien- und Regionalökonomik 1“ 
+o  „Seminar zu Immobilien- und Regionalökonomik“ 
+  12o  „Immobilien- und Regionalökonomik 2“ 
+o  „Immobilien- und Regionalökonomik 3“ 
+o  „Immobilien- und Regionalökonomik 4“ 
+o  „Immobilien- und Regionalökonomik 5“ 
+o  weitere im Modulkatalog genannte Module 
+o  „Institutionen und individuelles Verhalten“ (Institutions and Behavior) 
+o  „Institutionen und individuelles Verhalten 1“ 
+o  „Seminar zu Institutionen und individuellem Verhalten“ 
+o  „Institutionen und individuelles Verhalten 2“ 
+o  „Institutionen und individuelles Verhalten 3“ 
+o  „Institutionen und individuelles Verhalten 4“ 
+o  „Institutionen und individuelles Verhalten 5“ 
+o  „Institutionen und individuelles Verhalten 6“ 
+o  „Institutionen und individuelles Verhalten 7“ 
+o  „Institutionen und individuelles Verhalten 8“ 
+o  weitere im Modulkatalog genannte Module 
+o  „Ökonomik des öffentlichen Sektors“ (Economics of the State) 
+o  „Ökonomik des öffentlichen Sektors 1“ 
+o  „Seminar zur Ökonomik des öffentlichen Sektors“ 
+o  „Ökonomik des öffentlichen Sektors 2“ 
+o  „Ökonomik des öffentlichen Sektors 3“ 
+o  „Ökonomik des öffentlichen Sektors 4“ 
+o  „Ökonomik des öffentlichen Sektors 5“ 
+o  weitere im Modulkatalog genannte Module 
+o  „Soziales Verhalten und Marktinteraktion“ (The Social Economy) 
+o  „Soziales Verhalten und Marktinteraktion 1“ 
+o  „Seminar zu sozialem Verhalten und Marktinteraktion“ 
+o  „Soziales Verhalten und Marktinteraktion 2“ 
+o  „Soziales Verhalten und Marktinteraktion 3“ 
+o  „Soziales Verhalten und Marktinteraktion 4“ 
+o  „Soziales Verhalten und Marktinteraktion 5“ 
+o  „Soziales Verhalten und Marktinteraktion 6“ 
+o  weitere im Modulkatalog genannte Module 
+o  „Wirtschaftsbeziehungen zu Mittel- und Osteuropa“ (East & West) 
+o  „Wirtschaftsbeziehungen zu Mittel- und Osteuropa 1“ 
+o  „Seminar zu Wirtschaftsbeziehungen zu Mittel- und Osteuropa“ 
+o  „Wirtschaftsbeziehungen zu Mittel- und Osteuropa 2“ 
+o  „Wirtschaftsbeziehungen zu Mittel- und Osteuropa 3“ 
+o  „Wirtschaftsbeziehungen zu Mittel- und Osteuropa 4“ 
+o  „Wirtschaftsbeziehungen zu Mittel- und Osteuropa 5“ 
+o  weitere im Modulkatalog genannte Module 
+-  bei Belegung nur einer Schwerpunktmodulgruppe:  
+o  eine Vertiefungsmodulgruppe (Minor) mit 18 LP bestehend aus drei Modulen zu je 
+6 LP aus einer der oben genannten Schwerpunktmodulgruppen (davon jeweils das 
+erstgenannte als Pflichtmodul und zwei weitere als Wahlpflichtmodule) 
+o  entweder eine weitere Vertiefungsmodulgruppe (Minor) aus dem Lehrangebot der 
+Fakultät für Wirtschaftswissenschaften im Umfang von 18 LP und Module im Um-
+fang von 18 LP in der Wahlmodulgruppe oder Module im Umfang von 36 LP in der 
+Wahlmodulgruppe  
+-  bei Belegung zweier Schwerpunktmodulgruppen: 
+o  entweder eine Vertiefungsmodulgruppe (Minor) aus dem Lehrangebot der Fakultät 
+für Wirtschaftswissenschaften im Umfang von 18 LP und Module im Umfang von 
+12 LP in der Wahlmodulgruppe oder Module im Umfang von 30 LP in der Wahlmo-
+dulgruppe 
+  13-  die Bachelorarbeit (10 LP) und eine Einführung in wissenschaftliches Arbeiten (2 LP) in der 
+Forschungsmodulgruppe. 
+ 
+(4)  Im Bachelorstudiengang IVWL (MOE): 
+ 
+Erste Studienphase:  
+-  sechs Module im Umfang von je 6 LP in der Pflichtmodulgruppe „Allgemeine Grundlagen“ 
+(36 LP) 
+o  „Buchhaltung“ 
+o  „Externe Unternehmensberichterstattung I“ 
+o  „Finanzierung“ 
+o  „Grundzüge des Privatrechts“ 
+o  „Investitionsentscheidungen“ 
+o  Sprachmodul einer mittel- oder osteuropäischen Sprache aus dem Angebot der Sla-
+vistik oder des Zentrums für Sprache und Kommunikation (ZSK)  
+-  drei Module im Umfang von je 6 LP in der Pflichtmodulgruppe „Quantitative Grundlagen“ 
+(18 LP) 
+o  „Mathematik“ 
+o  „Statistik 1 für Wirtschaftswissenschaften“ 
+o  „Statistik 2 für Wirtschaftswissenschaften“ 
+-  sechs Module im Umfang von je 6 LP in der Pflichtmodulgruppe „Grundlagen der VWL“ (36 
+LP) 
+o  „Einführung in die Ökonometrie“ 
+o  „Makroökonomik 1“ 
+o  „Makroökonomik 2“ 
+o  „Methoden der Volkswirtschaftslehre“ 
+o  „Mikroökonomik 1“ 
+o  „Mikroökonomik 2“. 
+ 
+Zweite Studienphase: 
+-  fünf Module im Umfang von je 6 LP in der Pflichtmodulgruppe „Internationale VWL“ (30 LP) 
+bestehend aus den Pflichtmodulen 
+o  „Außenwirtschaft und Entwicklungsökonomik 1“ 
+o  „Seminar zu Außenwirtschaft und Entwicklungsökonomik“ 
+o  „Außenwirtschaft und Entwicklungsökonomik 2“ 
+o  „Außenwirtschaft und Entwicklungsökonomik 3“ 
+und einem Wahlpflichtmodul aus  
+o  „Außenwirtschaft und Entwicklungsökonomik 4“ 
+o  „Außenwirtschaft und Entwicklungsökonomik 5“ 
+o  ein weiteres im Modulkatalog festgelegtes Modul 
+-  Module im Umfang von 30 LP in einer der Schwerpunktmodulgruppen  
+o  „Geschichte und Kulturwissenschaft mit Ausrichtung auf Mittel- und Osteuropa“ 
+(Central and Eastern European Studies (History and Cultural Studies)) 
+o  „Politikwissenschaft mit Ausrichtung auf Mittel- und Osteuropa“ (Central and Eas-
+tern European Studies (Political Science)) 
+o  „Rechtswissenschaft mit Ausrichtung auf Mittel- und Osteuropa“ (Central and Eas-
+tern European Studies (Law)) 
+-  Module im Umfang von 18 LP in der Wahlmodulgruppe 
+-  die Bachelorarbeit (10 LP) und eine Einführung in wissenschaftliches Arbeiten (2 LP) in der 
+Forschungsmodulgruppe. 
+ 
+(5)  Im Bachelorstudiengang Wirtschaftsinformatik: 
+ 
+Erste Studienphase: 
+  14-  vier Module im Umfang von je 6 LP aus der Pflichtmodulgruppe „Allgemeine Grundlagen“ 
+(24 LP) (davon das erstgenannte als Pflichtmodul und drei weitere als Wahlpflichtmodule)  
+o  „Grundzüge des Privatrechts“ 
+o  „Buchhaltung“ 
+o  „Externe Unternehmensberichterstattung I“ 
+o  „Finanzierung“ 
+o  „Investitionsentscheidungen“ 
+o  „Kosten- und Leistungsrechnung“ 
+o  „Marketing“ 
+-  vier Module im Umfang von je 6 LP aus der Pflichtmodulgruppe „Quantitative Grundlagen“ 
+(24 LP), 
+o  „Mathematik“ 
+o  „Mathematik für Wirtschaftsinformatiker“ 
+o  „Statistik 1 für Wirtschaftswissenschaften“ 
+o  „Statistik 2 für Wirtschaftswissenschaften“ 
+-  vier Module im Umfang von je 6 LP aus der Pflichtmodulgruppe „Wirtschaftsinformatik“ (24 
+LP) 
+o  „Betriebliche Informationssysteme“ 
+o  „Datenbanken im Unternehmen“ 
+o  „Methoden und Management der Softwareentwicklung“ 
+o  „Unternehmensmodellierung“ 
+-  drei Module im Umfang von je 6 LP aus der Pflichtmodulgruppe „Informatik“ (18 LP) 
+o  „Algorithmen, Datenstrukturen und Programmierung“ 
+o  „Grundlagen der Informatik“ 
+o  „Objektorientierte Programmierung“. 
+ 
+Zweite Studienphase: 
+-  Drei Module (aus vier) im Umfang von je 6 LP in der Modulgruppe „Allgemeine Wirt-
+schaftsinformatik“ (18 LP) bestehend aus 
+o  „Architektur von Informationssystemen” 
+o  „Data Analytics: Methoden und Programmierung” 
+o  „Informationsmanagement“ 
+o  „Internettechnologien und Network-Computing“ 
+-  vier Module im Umfang von je 6 LP in der Schwerpunktmodulgruppe „Internet Business und 
+IT Security“ (24 LP) bestehend aus 
+o  „Internet Business I“ 
+o  „Internet Business II“ 
+o  „IT Security I” 
+o  „IT Security II” 
+-  Module im Umfang von 22 LP in der Wahlmodulgruppe (inklusive eines Pflichtpraktikums (4 
+LP) im Umfang von mindestens 6 Wochen) 
+-  ein Projektseminar (8 LP), die Bachelorarbeit (12 LP) und ein die Bachelorarbeit begleitendes 
+Seminar (6 LP) in der Forschungsmodulgruppe. 
+ 
+(6)  Im Bachelorstudiengang Immobilienwirtschaft:   
+ 
+Erste Studienphase: 
+-  zwei Module im Umfang von je 6 LP in der Pflichtmodulgruppe „Allgemeine Grundlagen“ 
+(12 LP) 
+o  „Grundzüge des Privatrechts“ 
+o  „Grundlagen der Wirtschaftsinformatik“ 
+-  drei Module im Umfang von je 6 LP in der Pflichtmodulgruppe „Quantitative Grundlagen“ 
+(18 LP) 
+o  „Mathematik“ 
+  15o  „Statistik 1 für Wirtschaftswissenschaften“ 
+o  „Statistik 2 für Wirtschaftswissenschaften“ 
+-  fünf Module im Umfang von je 6 LP in der Pflichtmodulgruppe „Grundlagen der VWL“ (30 
+LP) (davon die erstgenannten vier als Pflichtmodule und ein weiteres als Wahlpflichtmodul) 
+o  „Makroökonomik 1“ 
+o  „Makroökonomik 2“ 
+o  „Mikroökonomik 1“ 
+o  „Mikroökonomik 2“ 
+o  „Einführung in die Ökonometrie“ 
+o  „Methoden der Volkswirtschaftslehre“ 
+-  fünf Module im Umfang von je 6 LP in der Pflichtmodulgruppe „Grundlagen der BWL“ (30 
+LP) (davon die ersten vier als Pflichtmodule und ein weiteres als Wahlpflichtmodul) 
+o  „Buchhaltung“ 
+o  „Externe Unternehmensberichterstattung I“ 
+o  „Finanzierung“ 
+o  „Investition“ 
+o  „Kosten- und Leistungsrechnung“ 
+o  „Marketing“. 
+ 
+Zweite Studienphase: 
+-  vier Module im Umfang von je 6 LP in der Pflichtmodulgruppe „Immobilienwirtschaft I“ (24 
+LP) (davon die ersten drei als Pflichtmodule und ein weiteres als Wahlpflichtmodul)  
+o  „Immobilienmanagement I“ 
+o  „Immobilienfinanzierung I“ 
+o  „Immobilienökonomie I“ 
+o  „Regionalökonomie I“ 
+o  „Ökonomie der Wohnungsmärkte“ 
+-  vier Module im Umfang von je 6 LP in der Pflichtmodulgruppe „Immobilienwirtschaft II“ (24 
+LP) 
+o  „Grundzüge der Architektur“ 
+o  „Grundzüge des Bauingenieurwesens“ 
+o  „Immobilienentwicklung I“ 
+o  „Immobilienrecht und -steuern“  
+-  Module im Umfang von 24 LP in der Wahlmodulgruppe 
+-  ein Seminar im Umfang von 6 LP, die Bachelorarbeit (10 LP) und eine Einführung in wissen-
+schaftliches Arbeiten (2 LP) in der Forschungsmodulgruppe. 
+ 
+ 
+§15a  
+„Honors“-Modulgruppe 
+ 
+(1)  1Erfolgt die Zulassung zur „Honors“-Modulgruppe gemäß § 4a, so sind die Module dieser Mo-
+dulgruppe in den Bachelorstudiengängen Betriebswirtschaftslehre, Volkswirtschaftslehre, IVWL 
+(MOE) beziehungsweise Wirtschaftsinformatik zusätzlich zu den in § 15 angeführten Modulen 
+zu belegen, wobei dann das Pflichtpraktikum im Bachelorstudiengang Wirtschaftsinformatik 
+entfällt. 2Studierende, die für die „Honors“-Modulgruppe zugelassen wurden, müssen diese zu-
+sätzlich absolvieren.   
+ 
+(2)  Die „Honors“-Modulgruppe umfasst 20 LP und hat folgende Bestandteile: 
+ 
+1. „Honors“-Projekt (6 LP) 
+1Das „Honors“-Projekt kann aus einem Literaturstudium mit anschließender schriftlicher Arbeit 
+oder der Mitarbeit an einem Forschungsprojekt bestehen. 2Das „Honors“-Projekt wird von 
+  16einem Professor oder einer Professorin der Fakultät für Wirtschaftswissenschaften betreut und 
+benotet.  
+ 
+2. „Honors“-Seminar (8 LP) 
+1„Honors“-Seminare können nur von einem oder einer durch den „Honors“-Prüfungsausschuss 
+ausgewählten Dozenten oder Dozentin veranstaltet werden und sind an der Universität Re-
+gensburg abzulegen. 2Die „Honors“-Seminare befassen sich mit Themen aktueller Forschungs-
+gebiete. 3Die Inhalte werden mit dem „Honors“-Prüfungsausschuss abgestimmt. 4Die Anforde-
+rungen eines „Honors“-Seminars gehen über die Anforderungen eines üblichen Seminars hin-
+aus.  
+ 
+3. „Honors“-Praktikum (4 LP) 
+1Das „Honors“-Praktikum soll mindestens sechs Wochen dauern. 2 Die Inhalte des Praktikums 
+sind zwischen Unternehmen oder Institution, „Honors“-Prüfungsausschuss und Studierendem 
+oder Studierender schriftlich zu vereinbaren. 3Das „Honors“-Praktikum wird nicht benotet.  
+ 
+4. Teilnahme an Exkursionen, Fachvorträgen und Workshops (2 LP) 
+1Die Teilnahme an Exkursionen, Fachvorträgen und Workshops, die im Rahmen der „Honors“-
+Modulgruppe veranstaltet werden, wird mit 2 LP bewertet. 2Der „Honors“-Prüfungsausschuss 
+benennt vor Semesterbeginn die jeweils stattfindenden Veranstaltungen und gibt an, in wel-
+chem Umfang an den verpflichtenden Veranstaltungen teilzunehmen ist. 3Die Teilnahme wird 
+nicht benotet. 
+ 
+(3)  Ist die mit LP gewichtete Durchschnittsnote von „Honors“-Projekt und „Honors“-Seminar 
+schlechter als 2,0, wird das Belegen der Modulgruppe nicht im Zeugnis gemäß § 29 ausgewie-
+sen.  
+ 
+ 
+§ 16 
+Grundlagen- und Orientierungsprüfung 
+ 
+(1)  1Studierende müssen bis zum Ende des zweiten Fachsemesters eine Grundlagen- und Orientie-
+rungsprüfung ablegen. 2Die Grundlagen- und Orientierungsprüfung besteht aus sechs Modulen 
+mit insgesamt 36 LP. 3Diese sind zu erbringen: 
+-  in der Pflichtmodulgruppe „Quantitative Grundlagen“  
+und 
+-  im Bachelorstudiengang Betriebswirtschaftslehre aus der Pflichtmodulgruppe „Grundlagen 
+der BWL“, 
+-  in den Bachelorstudiengängen Volkswirtschaftslehre und IVWL (MOE) aus der Pflichtmodul-
+gruppe „Grundlagen der VWL“, 
+-  im Bachelorstudiengang Wirtschaftsinformatik aus den Pflichtmodulgruppen „Wirtschaftsin-
+formatik“ und „Informatik“, 
+-  im Bachelorstudiengang Immobilienwirtschaft aus den Pflichtmodulgruppen „Grundlagen 
+der BWL“ und „Grundlagen der VWL“.  
+ 
+4Die Grundlagen- und Orientierungsprüfung ist bestanden, wenn die Modulprüfungen gemäß 
+Satz 3 bestanden sind. 4Die Vergabe von Leistungspunkten für Module durch den erfolgreichen 
+Abschluss einer Modulgruppe gemäß § 8 Abs. 2 Satz 3 ist hierfür nicht maßgeblich.  
+ 
+(2)  1Sind die Module der Grundlagen- und Orientierungsprüfung bis zum Ende des zweiten Semes-
+ters nicht bestanden, ist die Grundlagen- und Orientierungsprüfung erstmals nicht bestanden. 
+2Sie kann bis zum Ende des Folgesemesters einmal wiederholt werden. 3Sind die Module der 
+Grundlagen- und Orientierungsprüfung bis zum Ende des Folgesemesters nicht bestanden, ist 
+die Grundlagen- und Orientierungsprüfung endgültig nicht bestanden. 4Eine endgültig nicht 
+  17bestandene Grundlagen und Orientierungsprüfung steht dem Studium eines weiteren in dieser 
+Ordnung geregelten Studiengangs entgegen (Art. 46 Nr. 3 BayHSchG). 5Es gilt § 28 Abs. 3 Satz 
+1 Nr. 1. 6Die für die Grundlagen- und Orientierungsprüfung geltenden Wiederholungsfristen 
+werden durch Exmatrikulation und Urlaubssemester nicht unterbrochen, es sei denn, die Beur-
+laubung erfolgte aufgrund eines Auslandssemesters.  
+ 
+ 
+§ 17 
+Form und Verfahren von Bachelorprüfung und Modulprüfungen, Anwendungsbereich 
+ 
+(1)  Die Bachelorprüfung erfolgt studienbegleitend in Form von erfolgreich absolvierten Modulen 
+gemäß § 8 Abs. 2 Satz 3.   
+ 
+(2)  1Modulprüfungen sind Prüfungen, deren Ergebnis nach Maßgabe von § 28 in die Gesamtnote 
+der Bachelorprüfung und in das Abschlusszeugnis eingehen. 2In der Modulprüfung soll festge-
+stellt werden, ob der oder die Studierende die im Modulkatalog konkret spezifizierten Qualifi-
+kations- und Kompetenzziele des Moduls erreicht hat. 3In fachlich begründeten Ausnahmefäl-
+len können im Rahmen der Modulprüfung bis zu drei Kompetenzbereiche des Moduls getrennt 
+voneinander abgeprüft werden; jede dieser Teilleistungen ist eine Prüfungsleistung gemäß § 8 
+Abs. 3 Satz 2. 4Modulprüfungen in Form eines Seminars bestehen in der Regel aus zwei Teil-
+prüfungen. 5Das Prüfungsergebnis wird gemäß § 24 Abs. 1 und 2 benotet.  
+ 
+(3)  1Die konkrete Ausgestaltung (Prüfungsbestandteile, Prüfungsform, jeweilige Dauer und Inhalt) 
+der Modulprüfungen wird den Studierenden im Modulkatalog bekannt gegeben. 2Die Bekannt-
+gabe des jeweils geltenden Modulkatalogs erfolgt spätestens eine Woche vor Semesterbeginn 
+auf der Internetseite der Fakultät für Wirtschaftswissenschaften. 3Enthält der Modulkatalog 
+keine eindeutige Festlegung der Prüfungsform, so wird diese vom zuständigen Prüfer oder der 
+zuständigen Prüferin zu Beginn der Vorlesungszeit in geeigneter Form bekanntgegeben.  
+ 
+(4)  1Zentrale Voraussetzung für das Ablegen einer Modulprüfung ist die Immatrikulation als Stu-
+dierender oder Studierende an der Universität Regensburg. 2Die Zulassung Studierender, die 
+nicht in einem wirtschaftswissenschaftlichen Studiengang eingeschrieben sind, kann durch den 
+Prüfer oder die Prüferin der jeweiligen Modulprüfung oder durch den Prüfungsausschuss ein-
+geschränkt werden.  
+ 
+(5)  Die Bestimmungen dieser Prüfungs- und Studienordnung gelten nach Maßgabe der nachfol-
+genden Regelungen auch für die nicht von der Fakultät für Wirtschaftswissenschaften angebo-
+tenen Module. 
+ 
+ 
+§ 18 
+Prüfungstermine, Anmeldung zu Modulprüfungen 
+ 
+(1)  1Modulprüfungen werden mindestens einmal in dem Zeitraum, in dem das Modul stattfindet, 
+abgehalten. 2Das Prüfungssekretariat Wirtschaftswissenschaften gibt durch Aushang spätes-
+tens vier Wochen vor Beginn der Modulprüfungen die Meldefristen bekannt. 3Die Prüfungsmo-
+dalitäten und insbesondere die Prüfungstermine und -räume für die einzelnen Prüfungen wer-
+den spätestens zwei Wochen vor Prüfungsbeginn in geeigneter Form bekannt gegeben. 4Ab-
+weichend davon wird die Zuweisung zu den einzelnen Prüfungsräumen jeweils am Prüfungstag 
+durch Aushang mitgeteilt. 5Die Meldefristen zu den Seminaren werden spätestens bis zum Ende 
+des vorhergehenden Semesters durch den Prüfer oder die Prüferin bekannt gegeben. 
+ 
+(2)  1Die Anmeldung zur Modulprüfung erfolgt in der Regel über das elektronische Prüfungsverwal-
+tungssystem der Universität Regensburg. 2Ist eine elektronische Anmeldung nicht möglich, ist 
+  18ein schriftlicher Antrag auf Zulassung beim Prüfungssekretariat Wirtschaftswissenschaften ein-
+zureichen.  
+ 
+(3)  Bei Seminaren muss die Anmeldung vor der Themenvergabe über das elektronische Prüfungs-
+verwaltungssystem der Universität Regensburg erfolgen. 
+ 
+ 
+§ 19 
+Schriftliche Modulprüfungen 
+ 
+(1)  1Schriftliche Modulprüfungen oder Modulteilprüfungen (gemäß § 7) können in Form von Klau-
+suren, Haus- oder Seminararbeiten erfolgen. 
+2Prüfungsleistungen können sein: 
+-  Klausuren in schriftlicher oder elektronischer bzw. beleglesergestützter Form 
+-  Seminararbeiten (schriftliche Arbeit im Rahmen eines Seminars, 10-25 Seiten) 
+-  Fallstudienarbeiten 
+-  Hausarbeiten 
+-  (Gruppen-)Projektarbeiten 
+-  Programmierarbeiten 
+-  Online-Quizzes 
+-  Präsentationen 
+-  Inhaltliche Diskussionsbeiträge 
+3Prüfungsleistungen können auch in Form von Gruppenarbeiten abverlangt werden. 
+ 
+(2)  1Wird eine schriftliche Prüfung in Form einer Klausur abgehalten, beträgt die Prüfungsdauer 
+grundsätzlich mindestens 30 und höchstens 120 Minuten. 2In begründeten Ausnahmefällen ist 
+mit Zustimmung des Prüfungsausschusses auch eine Prüfungsdauer von bis zu 240 Minuten 
+möglich. 3Über den Prüfungsverlauf ist ein Protokoll anzufertigen, in das die Namen des Proto-
+kollführers oder der Protokollführerin sowie der Prüflinge, Titel, Beginn und Ende der Prüfung 
+aufzunehmen sind. 4Dabei haben die Aufsichtsführenden die Richtigkeit des Protokolls durch 
+Unterschrift zu bestätigen. 5In das Protokoll sind alle Vorkommnisse einzutragen, welche für 
+die Feststellung der Prüfungsergebnisse von Belang sein können. 6Das Verlassen des Prüfungs-
+raumes ist nur mit Erlaubnis der Aufsichtführenden zulässig. 
+ 
+(3)  1Eine schriftliche Modulprüfung oder Modulteilprüfung kann auch in elektronischer Form ab-
+genommen werden. 2Eine elektronische Prüfung („E-Klausur“) ist eine Prüfung, deren Erstel-
+lung, Durchführung und Bewertung (mit Ausnahme der Aufgaben mit Texteingaben) compu-
+tergestützt erfolgt. 3Den Studierenden wird vor der Prüfung ausreichend Gelegenheit gegeben, 
+sich mit dem elektronischen Prüfungssystem vertraut zu machen. 4Verwendete Fragen-/Aufga-
+bentypen können sein: 
+ 
+-  Freitextaufgaben,  
+-  Lückentexte,  
+-  Zuordnungs- und Anordnungsaufgaben,  
+-  Aufgaben im Antwort-Wahl-Verfahren,  
+-  Fehlertextaufgaben,  
+-  Textteilmengenaufgaben,  
+-  Fragen mit numerischer Antwort,  
+-  ImageMap-Fragen oder geeignete Frage-/Aufgabeformen.  
+ 
+  5Auch die Erstellung der Antworten über andere Programme mit anschließendem Dateiupload 
+ist möglich. 6Die E-Klausur ist in Anwesenheit eines Protokollführers oder einer Protokollführerin 
+durchzuführen; daneben muss während der gesamten Klausurdauer die Erreichbarkeit einer 
+technisch sachkundigen Person gewährleistet sein. 7Es muss sichergestellt werden, dass die 
+  19elektronischen Daten eindeutig und dauerhaft den Studierenden zugeordnet werden können. 
+8Für den Fall einer technischen Störung wird durch entsprechende Sicherheitsmaßnahmen ge-
+währleistet, dass keine der von den Prüflingen durchgeführten Aktionen verloren geht; der da-
+mit verbundene Zeitverlust wird durch eine entsprechende Schreibverlängerung ausgeglichen. 
+9Die datenschutzrechtlichen Bestimmungen sind einzuhalten. 
+ 
+(4)   1Eine Klausur kann auch ganz oder zum Teil in Form des Antwort-Wahl-Verfahrens durchge-
+führt werden. 2Eine Prüfung im Antwort-Wahl-Verfahren liegt vor, wenn die Prüfungsleistung 
+ausschließlich im Markieren oder Zuordnen einer oder mehrerer für richtig gehaltenen Antwort-
+möglichkeiten besteht. 3Prüfungen bzw. Prüfungsfragen im Antwort-Wahl-Verfahren sind nur 
+zulässig, wenn sie dazu geeignet sind, den Nachweis zu erbringen, dass der Prüfungskandidat 
+oder die Prüfungskandidatin die Inhalte und Methoden des Moduls in den wesentlichen Zu-
+sammenhängen beherrscht und die erworbenen Kenntnisse und Fähigkeiten anwenden kann. 
+4Der Prüfer oder die Prüferin im Sinne von § 10 wählt den Prüfungsstoff aus, formuliert die 
+Fragen und legt die richtigen Antwortmöglichkeiten fest. 5Prüfungen im Antwort-Wahl-Verfah-
+ren werden als Einfach-Wahlaufgaben (1 aus n) oder Mehrfach-Wahlaufgaben (x aus n mit 
+x=2,…,n) gestellt. 6Der Abzug von Punkten innerhalb einer Prüfungsaufgabe bei Mehrfach-
+Wahlaufgaben ist zulässig. 7Die Prüfungsaufgaben müssen zweifelsfrei verständlich sein und 
+zuverlässige Prüfungsergebnisse ermöglichen. 8Der Prüfer oder die Prüferin kann auch einen 
+Pool gleichwertiger Prüfungsaufgaben erstellen, aus dem in der Prüfung jeweils unterschiedli-
+che Prüfungsfragen ausgewählt werden. 9Die Auswahl geschieht durch Zufallsprinzip. 10Die 
+Gleichwertigkeit der Prüfungsaufgaben muss sichergestellt sein. 
+ 
+(5)  1Die Prüfungsaufgaben im Antwort-Wahl-Verfahren sind vor der Feststellung des Prüfungser-
+gebnisses darauf zu überprüfen, ob sie gemessen an den Anforderungen des Absatzes 4 fehler-
+haft sind. 2Ergibt die Überprüfung, dass einzelne Prüfungsaufgaben fehlerhaft sind, sind diese 
+nachzubewerten oder bei der Feststellung des Prüfungsergebnisses nicht zu berücksichtigen. 3In 
+letzterem Fall mindert sich die Zahl der zur Ermittlung des Prüfungsergebnisses heranzuziehen-
+den Prüfungsaufgaben entsprechend. 4Bei der Bewertung der Prüfung ist von der verminderten 
+Zahl an Prüfungsaufgaben auszugehen. 5Die Verminderung der Zahl der Prüfungsaufgaben darf 
+sich nicht zum Nachteil der Studierenden auswirken. 6Bei Prüfungen, die nur teilweise im Ant-
+wort-Wahl-Verfahren durchgeführt werden, gelten die obigen Bestimmungen nur für den im 
+Antwort-Wahl-Verfahren erstellten Klausurteil und nur für den Fall, dass dieser Anteil mindes-
+tens 20% beträgt. 
+ 
+ 
+§ 20 
+Mündliche Modulprüfungen 
+ 
+(1)  1Im Rahmen einer mündlichen Prüfung weisen Studierende nach, dass sie die Zusammenhänge 
+des Prüfungsgebietes erkennen und Fragestellungen in diese Zusammenhänge einordnen kön-
+nen. 2Mündliche Prüfungen können als Einzel- oder als Gruppenprüfungen durchgeführt wer-
+den. 3Sie werden von zwei Prüfern oder Prüferinnen oder von einem Prüfer oder einer Prüferin 
+und einem Beisitzer oder einer Beisitzerin in deutscher oder englischer Sprache durchgeführt. 
+4Die Prüfungsdauer beträgt pro Kandidaten oder Kandidatin mindestens zehn und höchstens 
+45 Minuten. 
+ 
+(2)  1Über die mündliche Prüfung ist ein Protokoll anzufertigen, in das aufzunehmen sind: Titel der 
+Prüfung, Ort und Zeit sowie Dauer, Gegenstand und Ergebnis der Prüfung, die Namen der Prü-
+fer oder Prüferinnen bzw. des Prüfers oder der Prüferin und des Beisitzers oder der Beisitzerin 
+und des oder der Studierenden sowie besondere Vorkommnisse. 2Das Protokoll wird von den 
+Prüfern oder Prüferinnen bzw. dem Prüfer oder der Prüferin und dem Beisitzer oder der Beisit-
+zerin unterzeichnet. 3Die Noten für die mündlichen Prüfungsleistungen werden von den Prüfern 
+oder Prüferinnen oder von dem Prüfer oder der Prüferin gemäß § 24 festgesetzt. 
+  20§ 21 
+Bachelorarbeit 
+ 
+(1)  1Die Bachelorarbeit soll zeigen, dass der oder die Studierende die Grundlagen wissenschaftli-
+chen Arbeitens in seinem oder ihrem Fachgebiet beherrscht und selbständig auf eine begrenzte 
+Themenstellung anwenden kann. 2Die Bachelorarbeit hat einen Umfang von 10 LP beziehungs-
+weise 12 LP im Studiengang Wirtschaftsinformatik. 3Es wird empfohlen, die Bachelorarbeit im 
+letzten Studienjahr zu schreiben. 4Thematisch muss die Bachelorarbeit wie folgt zuzuordnen 
+sein: 
+ 
+-  im Bachelorstudiengang Betriebswirtschaftslehre der gewählten Schwerpunktmodulgruppe 
+(Major) gemäß § 15 Abs. 2 
+-  im Bachelorstudiengang Volkswirtschaftslehre der abgelegten bzw. einer der zwei abgeleg-
+ten Schwerpunktmodulgruppen (Major) gemäß § 15 Abs. 3 
+-  im Bachelorstudiengang IVWL (MOE) der Pflichtmodulgruppe „Internationale VWL“ (Major) 
+gemäß § 15 Abs. 4  
+-  im Bachelorstudiengang Wirtschaftsinformatik der Modulgruppe „Allgemeine Wirtschaftsin-
+formatik“ oder der Schwerpunktmodulgruppe „Internet Business und IT Security“ gemäß § 
+15 Abs. 5  
+-  im Bachelorstudiengang Immobilienwirtschaft der Modulgruppe „Immobilienwirtschaft I“ 
+oder „Immobilienwirtschaft II“ gemäß § 15 Abs. 6. 
+ 
+5Über die thematische Zuordnung gemäß Satz 4 entscheidet im Zweifelsfall der Prüfungsaus-
+schuss im Benehmen mit den zuständigen Hochschullehrern oder Hochschullehrerinnen. 
+ 
+(2)  1Das Thema der Bachelorarbeit wird von dem Prüfer oder der Prüferin vergeben. 2Der oder die 
+Studierende hat einen Antrag auf Zulassung zur Bachelorarbeit beim Prüfungssekretariat Wirt-
+schaftswissenschaften zu stellen. 3Das Prüfungssekretariat prüft die Zulässigkeit des Antrags 
+und informiert den Prüfer oder die Prüferin. 4Die Bachelorarbeit gilt mit dem Tag der Themen-
+vergabe als angemeldet.  
+ 
+(3)  1Die Bearbeitungszeit der Bachelorarbeit beträgt ab der Themenvergabe grundsätzlich 90 Tage. 
+2Die Arbeit ist so rechtzeitig abzugeben, dass der Abgabezeitpunkt vor dem Zeitpunkt aus § 23 
+Abs. 1 Satz 1 liegt. 3Weist der oder die Studierende nach, dass er oder sie aus Gründen, die er 
+oder sie nicht zu vertreten hat, an der Bearbeitung verhindert ist oder die Frist aus § 23 Abs. 1 
+Satz 1 nicht einhalten kann, wird ihm oder ihr auf Antrag beim Prüfungssekretariat durch den 
+Prüfer oder die Prüferin eine Nachfrist gewährt. 4Der schriftliche Antrag ist von dem oder der 
+Studierenden unverzüglich nach dem Auftreten des Grundes zu stellen, an den Prüfer oder die 
+Prüferin zu richten und beim Prüfungssekretariat einzureichen; § 27 Abs. 3 gilt entsprechend. 
+5Die Bachelorarbeit ist fristgerecht maschinenschriftlich und in gebundener Form in zwei 
+Exemplaren beim Prüfungssekretariat Wirtschaftswissenschaften einzureichen. 6Darüber hinaus 
+ist dem Prüfer oder der Prüferin die Arbeit in elektronischer Form zur Verfügung zu stellen. 7Das 
+Thema der Bachelorarbeit kann nicht zurückgegeben werden. 8Der Abgabezeitpunkt und die 
+Vollständigkeit gemäß Satz 5 sind aktenkundig zu machen. 9Bei nicht fristgerechter Abgabe 
+wird die Arbeit mit „nicht ausreichend“ bewertet. 
+ 
+(4)  1Die Bachelorarbeit ist in deutscher oder, mit Einverständnis des Prüfers oder der Prüferin, in 
+englischer Sprache abzufassen und soll grundsätzlich einen Umfang von 20 bis 40 Seiten haben. 
+2Sie hat am Ende eine Erklärung des Prüflings zu enthalten, dass die vorgelegten Druckexemp-
+lare und die dem Prüfer oder der Prüferin zur Verfügung gestellte elektronische Version (PDF-
+Datei) der Arbeit identisch sind und er oder sie die Arbeit selbständig verfasst, keine anderen 
+als die von ihm oder ihr angegebenen Quellen und Hilfsmittel benutzt und die Arbeit nicht 
+bereits an einer anderen Hochschule zur Erlangung eines akademischen Grades eingereicht hat. 
+  213Die Erklärung enthält eine Bestätigung des Verfassers oder der Verfasserin, dass er oder sie 
+von den in § 27 Abs. 6 vorgesehenen Rechtsfolgen Kenntnis hat. 
+ 
+(5)  1Die Bachelorarbeit ist durch den Prüfer oder die Prüferin in der Regel bis spätestens zwei Mo-
+nate nach ihrer Abgabe zu bewerten. 2Für die Festsetzung der Note der Bachelorarbeit gilt § 
+24. 3Wird die Bachelorarbeit mit „nicht ausreichend“ bewertet, ist sie von einem oder einer 
+weiteren, von dem oder der Vorsitzenden des Prüfungsausschusses bestellten Prüfer oder Prü-
+ferin zu bewerten.  
+ 
+(6)  1Wird die Bachelorarbeit durch zwei Prüfende bewertet, so ergibt sich die Note als arithmeti-
+scher Mittelwert der beiden vergebenen Noten sowie Rundung gemäß § 24. 2Die Bachelorar-
+beit ist bestanden, wenn sie mindestens mit der Note 4,0 (ausreichend) bewertet wird. 
+ 
+ 
+§ 22 
+Anmeldung zur Bachelorarbeit 
+ 
+(1)  1Der Antrag auf Zulassung zur Bachelorarbeit und Zuteilung eines Themas soll schriftlich spä-
+testens eine Woche vor ihrem geplanten Beginn beim Prüfungssekretariat Wirtschaftswissen-
+schaften eingereicht werden. 2Er ist an den Vorsitzenden oder die Vorsitzende des Prüfungs-
+ausschusses zu richten. 3Dem Antrag ist eine Erklärung darüber beizufügen, ob der oder die 
+Studierende bereits die Bachelorprüfung im Fach Betriebswirtschaftslehre, Volkswirtschafts-
+lehre, IVWL (MOE), Wirtschaftsinformatik oder Immobilienwirtschaft endgültig nicht bestanden 
+hat. 
+ 
+(2)  Voraussetzung für die Zulassung zur Bachelorarbeit ist: 
+1. die bestandene Grundlagen- und Orientierungsprüfung 
+2. der Nachweis von mindestens 120 LP 
+3.  die Immatrikulation an der Universität Regensburg. 
+ 
+(3)  Die Zulassung ist zu versagen, wenn der oder die Studierende  
+1. die in Abs. 2 genannten Voraussetzungen nicht erfüllt oder 
+2.  die Bachelorprüfung im jeweiligen oder einem verwandten Studiengang gemäß § 4 Abs. 2 
+Satz 2 an dieser oder einer anderen deutschen Hochschule bereits endgültig nicht bestanden 
+hat. 
+ 
+ 
+§ 23 
+Prüfungsfristen 
+ 
+(1)  1Hat der oder die Studierende die gemäß § 15 zum erfolgreichen Ablegen der Bachelorprüfung 
+erforderlichen 180 LP nicht bis zum Ende des siebten Fachsemesters erworben, so gilt die Ba-
+chelorprüfung als abgelegt und erstmals nicht bestanden, es sei denn, dem oder der Studieren-
+den wurde aus Gründen, die er oder sie nicht zu vertreten hat, eine Nachfrist gewährt. 2Die 
+Gründe sind von dem Kandidaten oder der Kandidatin unverzüglich geltend zu machen und 
+nachzuweisen. 3Der schriftliche Antrag ist an den Vorsitzenden oder die Vorsitzende des Prü-
+fungsausschusses zu adressieren und beim Zentralen Prüfungssekretariat einzureichen; § 27 
+Abs. 3 gilt entsprechend. 4Nach Ablauf der Frist des Satz 1 noch nicht absolvierte Module sowie 
+die Bachelorarbeit gelten als abgelegt und erstmals nicht bestanden. 
+ 
+(2)  1Können die zum erfolgreichen Ablegen der Bachelorprüfung noch ausstehenden Leistungen 
+nicht innerhalb des folgenden Semesters nachgewiesen werden, gilt die Bachelorprüfung als 
+endgültig nicht bestanden, es sei denn, dem oder der Studierenden wurde aus Gründen, die er 
+  22oder sie nicht zu vertreten hat, eine Nachfrist gewährt. 2Abs. 1 Sätze 2 und 3 sowie § 25 Abs. 
+1 Satz 7 gelten entsprechend.  
+ 
+(3)  Nach § 12 angerechnete Studienzeiten sind auf die Fristen anzurechnen.  
+ 
+ 
+§ 24 
+Bewertung von Prüfungsleistungen, Bekanntgabe des Prüfungsergebnisses 
+ 
+(1)  1Die Noten für die einzelnen Prüfungsleistungen werden von den jeweiligen Prüfern oder Prü-
+ferinnen festgesetzt. 2Die Prüfungsleistungen werden wie folgt benotet: 
+ 
+1 = sehr gut   eine hervorragende Leistung; 
+2 = gut   eine Leistung, die erheblich über den Anforderungen liegt; 
+3 = befriedigend  eine Leistung, die den Anforderungen entspricht; 
+4 = ausreichend  eine Leistung, die trotz ihrer Mängel noch den Anforderungen 
+  genügt; 
+5 = nicht ausreichend  eine Leistung, die wegen erheblicher Mängel den 
+    Anforderungen nicht mehr genügt.  
+ 
+(2)  Zur differenzierten Bewertung der Leistungen können die Noten um 0,3 erhöht oder verringert 
+werden. 2Die Noten 0,7 und 5,3 sind dabei ausgeschlossen. 
+ 
+(3)  1Besteht eine Modulprüfung aus Teilleistungen oder wird sie von mehreren Prüfern oder Prüfe-
+rinnen bewertet, so ergibt sich die Note für diese Prüfungsleistung aus dem gewichteten Durch-
+schnitt der Einzelnoten. 2Die Gewichtung ergibt sich aus dem Modulkatalog. 3Bei der Bildung 
+von Durchschnittsnoten nach Satz 1 erfolgt eine Rundung auf die nächstgelegene Note gemäß 
+Abs. 1 und 2.  
+ 
+(4)  Eine Prüfung ist bestanden, wenn die Note mindestens „4,0“ ist. 
+ 
+(5)  Das Ergebnis einer Prüfung gilt dem Prüfungsteilnehmer oder der Prüfungsteilnehmerin mit 
+Ablauf einer Woche nach Einstellung in das elektronische Prüfungsverwaltungssystem der Uni-
+versität Regensburg als bekannt gegeben. 
+ 
+(6)  Teilleistungen im Sinne von Abs. 3 Satz 1 sind nur eigenständige (Modul-)Teilprüfungen; nicht 
+selbständige Prüfungsteile, insbesondere Aufgabenteile innerhalb derselben Prüfung, werden 
+davon nicht erfasst. 
+ 
+ 
+§ 25 
+Wiederholbarkeit von Modulprüfungen und Bachelorarbeit 
+ 
+(1)  1Jede erstmals nicht bestandene Modulprüfung kann einmal wiederholt werden. 2Im Verlauf 
+des gesamten Bachelorstudiums kann auf Antrag, einmalig pro Modulgruppe eine nicht be-
+standene Prüfung ein weiteres Mal wiederholt werden, wenn ansonsten das Bachelorstudium 
+endgültig nicht bestanden ist. 3Hierzu ist ein schriftlicher Antrag an den Prüfungsausschuss zu 
+richten, der unverzüglich, spätestens vier Wochen nach Bekanntgabe des Prüfungsergebnisses, 
+beim Prüfungssekretariat Wirtschaftswissenschaften einzureichen ist. 4Die Regelung aus Satz 2 
+ist auf die Forschungsmodulgruppe nicht anwendbar. 5Besteht die Modulprüfung aus Teilleis-
+tungen gemäß § 17 Abs. 2 Satz 3, ist nur die nicht bestandene Teilleistung zu wiederholen. 
+6Die erste Wiederholungsprüfung ist spätestens im Folgesemester abzulegen, sofern nicht dem 
+oder der Studierenden wegen besonderer, von ihm oder ihr nicht zu vertretender Gründe eine 
+Nachfrist gewährt wird; § 23 Abs. 1 Sätze 2 und 3 gelten entsprechend. 7Die Frist wird durch 
+  23Exmatrikulation oder Beurlaubung nicht unterbrochen, es sei denn, die Beurlaubung erfolgte 
+aufgrund eines Auslandssemesters.  
+ 
+(2)  1Die zweite Wiederholungsprüfung ist grundsätzlich im Folgesemester der nicht bestandenen 
+ersten Wiederholungsprüfung abzulegen. 2Anstelle des ursprünglichen Prüfungsformats kann 
+die zweite Wiederholungsprüfung auch in Form einer mündlichen Prüfung stattfinden. 3Der 
+Prüfer oder die Prüferin gibt die konkrete Prüfungsform mindestens zwei Wochen vor dem 
+Prüfungstermin bekannt.  
+ 
+(3)  1Die freiwillige Wiederholung einer bestandenen Prüfungsleistung ist nicht zulässig. 2Die Wie-
+derholung einzelner Teilleistungen ist bei Bestehen der Modulprüfung nicht zulässig.  
+ 
+(4)  1Bei der Wiederholung eines nicht bestandenen Seminars muss der oder die Studierende an 
+einem neuen Seminar teilnehmen. 2Die Anmeldung zur Wiederholungsprüfung muss grund-
+sätzlich innerhalb von sechs Monaten nach Bekanntgabe des Prüfungsergebnisses erfolgen. 
+3Entgegen Abs. 1 Satz 5 ist bei einem Seminar die Wiederholung lediglich von Teilleistungen 
+nicht möglich 4Ein Anspruch auf die Wiederholung eines thematisch gleichen oder ähnlichen 
+Seminars besteht nicht. 5Die Frist gemäß Satz 2 wird durch Beurlaubung oder Exmatrikulation 
+nicht unterbrochen, es sei denn, die Beurlaubung erfolgt aufgrund eines Auslandssemesters.  
+ 
+(5)  1Wird die Bachelorarbeit mit „nicht ausreichend“ bewertet oder gilt sie gemäß § 23 Abs. 1 als 
+nicht bestanden, so ist vorbehaltlich § 27 Abs. 6 bei der Wiederholung ein neues Thema zu 
+bearbeiten. 2Die Anmeldung zur Wiederholung der Bachelorarbeit hat innerhalb von sechs Mo-
+naten nach Bekanntgabe des erstmaligen Nichtbestehens zu erfolgen. 3Die Frist wird durch 
+Exmatrikulation und Beurlaubung nicht unterbrochen, es sei denn die Beurlaubung erfolgte auf-
+grund eines Auslandssemesters. 4Bei Nichteinhaltung dieser Frist gilt die Bachelorarbeit als end-
+gültig nicht bestanden, sofern nicht der Prüfungsausschuss dem oder der Studierenden eine 
+Nachfrist gewährt; die Gründe für die Nachfrist sind unverzüglich nachzuweisen. 5Eine zweite 
+Wiederholung ist nicht möglich. 
+ 
+ 
+§ 26 
+Mängel im Prüfungsverfahren 
+ 
+(1)  War das Prüfungsverfahren mit Mängeln behaftet, die das Prüfungsergebnis beeinflusst haben, 
+ist auf Antrag eines Prüflings oder von Amts wegen anzuordnen, dass von einem bestimmten 
+oder von allen Prüflingen die Prüfung oder einzelne Teile derselben wiederholt werden. 
+ 
+(2)  Mängel des Prüfungsverfahrens müssen unverzüglich bei der oder dem Vorsitzenden des Prü-
+fungsausschusses oder bei dem Prüfer oder der Prüferin geltend gemacht werden. 
+ 
+(3)  Sechs Monate nach Abschluss der Prüfung dürfen von Amts wegen Anordnungen nach Abs. 1 
+nicht mehr getroffen werden. 
+ 
+ 
+§ 27 
+Versäumnis, Rücktritt, Täuschung, Ordnungsverstoß 
+ 
+(1)  1Der Prüfling kann sich bis zu einer Frist von einer Woche vor Beginn der Prüfung ohne Angabe 
+von Gründen von der Prüfung abmelden. 2Die Abmeldung erfolgt durch den Prüfling über das 
+elektronische Prüfungsverwaltungssystem der Universität. 3Ist eine Abmeldung über das elekt-
+ronische Prüfungsverwaltungssystem nicht möglich, muss innerhalb der Frist aus Satz 1 eine 
+schriftliche Abmeldung beim Prüfungssekretariat Wirtschaftswissenschaften erfolgen. 4Der Ter-
+min für eine spätestmögliche Abmeldung von der Seminarprüfung wird von dem Prüfer oder 
+  24der Prüferin vor der Anmeldung zum Seminar bekannt gegeben, verbindlich festgelegt und dem 
+Prüfungssekretariat Wirtschaftswissenschaften schriftlich mitgeteilt. 5Maßgeblich ist der Zeit-
+punkt des Eingangs einer entsprechenden Erklärung beim Prüfungssekretariat Wirtschaftswis-
+senschaften. 
+ 
+(2)  Erklärt der Prüfling nach Ablauf der Frist des Abs. 1 aus von ihm zu vertretenden Gründen den 
+Rücktritt von der Prüfung oder versäumt er aus von ihm zu vertretenden Gründen die ganze 
+oder einen Teil einer mehrteiligen Prüfung, so gilt die jeweilige Prüfung als abgelegt und wird 
+mit „nicht ausreichend“ (5,0) bewertet. 
+   
+(3)  1Die für das Versäumnis oder den Rücktritt geltend gemachten Gründe sind über das Prüfungs-
+sekretariat Wirtschaftswissenschaften beim Prüfungsausschuss unverzüglich schriftlich anzuzei-
+gen und nachzuweisen. 2Dasselbe gilt für eine vor oder während der Prüfung eingetretene Prü-
+fungsunfähigkeit. 3Bei krankheitsbedingter Prüfungsunfähigkeit ist ein ärztliches Attest vorzu-
+legen, das grundsätzlich auf einer Untersuchung beruhen muss, die am Tag der Prüfung erfolgt 
+ist. 4In Zweifelsfällen kann ein amtsärztliches Attest verlangt werden. 5Erkennt der Prüfungsaus-
+schuss die vorgebrachten Gründe als ausreichend an, tritt die Rechtsfolge des Abs. 2 nicht ein 
+und der Prüfling kann sich zum nächsten Prüfungstermin erneut für die Prüfung anmelden. 
+ 
+(4)  1Versucht der Prüfling das Ergebnis einer Prüfungsleistung durch Täuschung, Überschreiten der 
+Bearbeitungszeit oder Benutzung nicht zugelassener Hilfsmittel zu eigenem oder fremdem Vor-
+teil zu beeinflussen, wird die betreffende Prüfungsleistung mit „nicht ausreichend“ (5,0) bewer-
+tet. 2Eine Täuschung liegt bei Klausurarbeiten bereits dann vor, wenn nach Beginn der Prüfung 
+unerlaubte Hilfsmittel am Arbeitsplatz vorgefunden werden. 3In wiederholten oder schwerwie-
+genden Fällen kann der Prüfungsausschuss entscheiden, dass dem Prüfling keine Wiederho-
+lungsmöglichkeit gemäß § 25 Abs. 1 Satz 1 eingeräumt wird. 4Wird die Wiederholung einer 
+erstmals abgelegten Prüfung trotz Vorliegens eines schwerwiegenden Falles nicht versagt, so 
+errechnet sich die im Zeugnis auszuweisende Note als arithmetisches Mittel der Note „nicht 
+ausreichend“ (5,0) des Erstversuchs und der Note der Wiederholungsprüfung. 5Die Sätze 1 und 
+3 gelten für Anrechnungen nach § 12 entsprechend. 
+ 
+(5)  1Ein Prüfling, der den ordnungsgemäßen Ablauf der Prüfung stört, kann von dem jeweiligen 
+Prüfer oder der Prüferin oder dem oder der Aufsichtsführenden von der Fortsetzung der Prü-
+fungsleistung ausgeschlossen werden; in diesem Fall wird die betreffende Prüfungsleistung mit 
+„nicht ausreichend“ (5,0) bewertet. 2Der Prüfungsausschuss kann in schwerwiegenden Fällen 
+entscheiden, dass dem Prüfling keine Wiederholungsmöglichkeit gemäß § 25 mehr eingeräumt 
+wird. 3Wird die Wiederholung einer erstmals abgelegten Prüfung trotz Vorliegens eines schwer-
+wiegenden Falles nicht versagt, so errechnet sich die im Zeugnis auszuweisende Note als arith-
+metisches Mittel der Note „nicht ausreichend“ (5,0) des Erstversuchs und der Note der Wieder-
+holungsprüfung. 
+ 
+(6)  1Verstößt der Prüfling bei der Anfertigung einer schriftlichen Arbeit oder der Bachelorarbeit 
+gegen die Pflicht, die Arbeit selbständig zu verfassen und sämtliche Hilfsmittel und Quellen 
+kenntlich zu machen, wird die Arbeit mit „nicht ausreichend“ (5,0) bewertet. 2Der Prüfungsaus-
+schuss kann in schwerwiegenden Fällen entscheiden, dass dem Prüfling keine Wiederholungs-
+möglichkeit gemäß § 25 mehr eingeräumt wird. 3Wird die Wiederholung einer erstmals abge-
+legten Prüfung trotz Vorliegens eines schwerwiegenden Falles nicht versagt, so errechnet sich 
+die im Zeugnis auszuweisende Note als arithmetisches Mittel der Note „nicht ausreichend“ (5,0) 
+des Erstversuchs und der Note der Wiederholungsprüfung. 
+ 
+(7)  1Die Entscheidungen nach Abs. 2, 4, 5 und 6 sind dem Prüfling schriftlich mitzuteilen, zu be-
+gründen und mit einer Rechtsbehelfsbelehrung zu versehen. 2§ 9 Abs. 4 findet Anwendung. 
+ 
+ 
+  25§ 28 
+Bestehen der Bachelorprüfung, Gesamtnote 
+ 
+(1)  Die Bachelorprüfung ist bestanden, wenn die 180 LP gemäß § 15 nachgewiesen sind.  
+ 
+(2)  1Die Gesamtnote der Bachelorprüfung errechnet sich als mit Leistungspunkten gewichtete 
+Durchschnittsnote aus den Noten der Module, wobei die Gewichte der Bestandteile der ersten 
+Studienphase gemäß § 15 jeweils mit dem Faktor 1,0 multipliziert werden. 2Die Gewichte der 
+Bestandteile der zweiten Studienphase, mit Ausnahme der Bachelorarbeit, gemäß § 15 werden 
+jeweils mit dem Faktor 1,5 multipliziert. 3Das Gewicht der Bachelorarbeit wird mit Faktor 2,0 
+multipliziert. 4Die Note der Prüfungsleistung lautet dann bei einem Durchschnitt 
+ 
+-  bis 1,50   =   sehr gut 
+-  von 1,51 bis 2,50  =  gut 
+-  von 2,51 bis 3,50  =  befriedigend 
+-  von 3,51 bis 4,00  =  ausreichend 
+-  ab 4,01  =   nicht ausreichend. 
+ 
+(3)  1Die Bachelorprüfung ist endgültig nicht bestanden, wenn  
+1.  die Grundlagen und Orientierungsprüfung gemäß § 16 Abs. 1 endgültig nicht bestanden ist 
+(§ 16 Abs. 2 Satz 3), 
+2.  eine Modulgruppe nicht mehr gemäß § 8 Abs. 2 Satz 5 und 6 erfolgreich absolviert werden 
+kann, 
+3.  die Bachelorarbeit endgültig nicht bestanden ist oder 
+4. die zum Bestehen der Bachelorprüfung erforderlichen 180 LP wegen Fristablaufs gemäß § 
+23 Abs. 2 nicht mehr erbracht werden können. 
+  2Hierüber erteilt der oder die Vorsitzende des Prüfungsausschusses einen schriftlichen Bescheid, 
+der mit einer Rechtsbehelfsbelehrung zu versehen ist. 
+ 
+ 
+§ 29 
+Zeugnis, Bachelorurkunde, Diploma Supplement 
+ 
+(1)  1Hat der oder die Studierende die Bachelorprüfung bestanden, so erhält er oder sie auf Antrag 
+ein Zeugnis, in dem der absolvierte Bachelorstudiengang, der akademische Grad, die Bachelor-
+prüfungsgesamtnote und die abgelegten Modulgruppen mit den zugehörigen Leistungspunk-
+ten und Durchschnittsnoten (ermittelt gemäß § 28 Abs. 2 Satz 4) aufgeführt sind.  
+2Es werden  
+-  die Pflichtmodulgruppen der ersten Studienphase gemäß § 15 (als „Pflichtbereiche“ be-
+nannt), 
+-  in den Bachelorstudiengängen Betriebswirtschaftslehre, IVWL (MOE), Wirtschaftsinformatik 
+und Immobilienwirtschaft die Pflichtmodulgruppe der zweiten Studienphase gemäß § 15 
+(als „Pflichtbereich“ benannt),  
+-  die Schwerpunktmodulgruppe gemäß § 15 (als „Schwerpunkt“ benannt) (Major),  
+-  die Vertiefungsmodulgruppe bzw. -gruppen gemäß § 15 (als „Vertiefung“ benannt) (Minor)  
+-  die Wahlmodulgruppe gemäß § 15 (als „Wahlbereich“ benannt),  
+-  die Forschungsmodulgruppe gemäß § 15 (als „Forschung“ benannt) sowie 
+-  die „Honors“-Modulgruppe gemäß § 15a, sofern diese mit einer Note von mindestens 2,0 
+abgelegt wurde (als „Honors‘-Schwerpunkt“ benannt), 
+aufgeführt.  
+3Das Zeugnis enthält als Datum des Bestehens der Bachelorprüfung das Datum des Tages, an 
+dem die letzte Prüfungsleistung gemäß § 24 Abs. 5 erbracht wurde. 4Dem Zeugnis wird eine 
+englischsprachige Übersetzung sowie ein Diploma Supplement in englischer Sprache beigefügt, 
+welches eine Beschreibung der durch diesen Studiengang erworbenen Qualifikation enthält. 
+  265Ferner wird dem Kandidaten oder der Kandidatin mit dem Zeugnis ein Auszug seines oder 
+ihres Leistungspunktekontos als Studiennachweis ausgehändigt. 
+ 
+(2)  1Zusätzlich zum Zeugnis werden dem oder der Studierenden die Bachelorurkunde sowie eine 
+englischsprachige Übersetzung mit dem Datum des Zeugnisses ausgehändigt. 2Darin wird die 
+Verleihung des Bachelorgrades gemäß § 2 Abs. 2 beurkundet. 3Mit Aushändigung der Urkunde 
+erhält der oder die Studierende die Befugnis, den akademischen Grad zu führen. 
+ 
+(3)  1Das Zeugnis wird von dem Vorsitzenden oder der Vorsitzenden des Prüfungsausschusses, die 
+Bachelorurkunde von dem Dekan oder der Dekanin der Fakultät für Wirtschaftswissenschaften 
+unterzeichnet. 2Beide Dokumente werden mit dem Siegel der Fakultät versehen. 
+ 
+(4)  1Zusätzlich zum Zeugnis wird auf Antrag eine ECTS-Einstufungstabelle ausgegeben. 2Diese Ta-
+belle gibt für jede Stufe der Prüfungsgesamtnote nach § 24 Abs. 3 an, welcher Anteil der Ab-
+solventen und Absolventinnen des Studiengangs im Vergleichszeitraum ihr Studium mit dieser 
+Note abgeschlossen hat. 3Als Vergleichsgruppe werden die Abschlüsse des Studiengangs aus 
+den vorangegangenen zwei Semestern, jedoch mindestens 30 Abschlüsse herangezogen. 4Für 
+die Zuordnung zum jeweiligen Semester ist das Datum der letzten Leistung maßgeblich. 5Ist die 
+Mindestanzahl an Abschlüssen nicht erreicht, wird die Vergleichsgruppe sukzessive um ein Se-
+mester erweitert, bis dies der Fall ist. 6Für Abschlüsse vor Erreichen der Mindestanzahl von Ab-
+schlüssen wird auf Antrag im Nachgang eine ECTS-Einstufungstabelle ausgestellt, sobald am 
+Ende eines Semesters die Mindestanzahl an Abschlüssen erreicht ist. 7Hierfür wird auch das 
+Semester in die Vergleichsgruppe einbezogen, in dem der Abschluss erworben wurde. 8Die 
+Größe der jeweiligen Vergleichsgruppe und der zu ihrer Bildung herangezogene Zeitraum sind 
+auszuweisen. 
+ 
+ 
+§ 30 
+Ungültigkeit von Prüfungen 
+ 
+(1)  1Waren die Voraussetzungen für die Zulassung zu einer Prüfung nicht erfüllt, ohne dass der 
+oder die Studierende hierüber täuschen wollte, und wird diese Tatsache erst nach der Aushän-
+digung des Zeugnisses bekannt, so wird dieser Mangel durch das Bestehen der Prüfung geheilt. 
+2Hat der oder die Studierende die Zulassung vorsätzlich zu Unrecht erwirkt, entscheidet der 
+Prüfungsausschuss unter Beachtung der allgemeinen verwaltungsrechtlichen Grundsätze über 
+die Rücknahme rechtswidriger Verwaltungsakte. 
+ 
+(2)  Hat der oder die Studierende bei einer Prüfung getäuscht und wird diese Tatsache erst nach 
+der Aushändigung des Zeugnisses bekannt, so kann der Prüfungsausschuss nachträglich die 
+betroffenen Noten entsprechend berichtigen und die Prüfung ganz oder teilweise für nicht be-
+standen erklären. 
+ 
+(3)  1Vor einer Entscheidung gemäß Abs. 2 ist dem oder der Betroffenen Gelegenheit zu geben, 
+sich zu äußern. 2Belastende Entscheidungen sind schriftlich zu begründen und mit einer Rechts-
+behelfsbelehrung zu versehen.  
+ 
+(4)  1Das unrichtige Prüfungszeugnis ist einzuziehen und gegebenenfalls ein neues zu erteilen. 2Eine 
+Entscheidung nach Abs. 2 ist nach einer Frist von fünf Jahren ab dem Datum des Prüfungszeug-
+nisses ausgeschlossen. 
+ 
+ 
+§ 31 
+Einsicht in die Prüfungsunterlagen 
+ 
+  27(1)  1Nach Bekanntgabe eines Prüfungsergebnisses wird dem oder der Studierenden auf Antrag 
+einmalig Einsicht in seine oder ihre schriftlichen Klausuren gewährt. 2Das Prüfungssekretariat 
+Wirtschaftswissenschaften bestimmt, nach Absprache mit dem oder der Vorsitzenden des Prü-
+fungsausschusses, Ort und Zeit der Einsichtnahme. 
+ 
+(2)  1Der Antrag kann nur bis spätestens vier Wochen nach Bekanntgabe des Prüfungsergebnisses 
+über das Prüfungssekretariat Wirtschaftswissenschaften bei dem oder der Vorsitzenden des 
+Prüfungsausschusses gestellt werden. 2War der oder die Studierende ohne eigenes Verschulden 
+verhindert, diese Frist einzuhalten, gilt Art. 32 Bayerisches Verwaltungsverfahrensgesetz ent-
+sprechend.  
+ 
+(3)  1Die Einsichtnahme von korrigierten Haus-, Seminar- und Bachelorarbeiten und gegebenenfalls 
+Gutachten erfolgt bei dem Prüfer oder der Prüferin auf Antrag des oder der Studierenden. 2Be-
+züglich der Fristen gilt Abs. 2 Satz 2 entsprechend. 
+ 
+ 
+§ 32 
+Entzug des Grades 
+ 
+Die Entziehung des Abschlussgrades richtet sich nach Art. 69 BayHSchG. 
+ 
+ 
+III. Schlussvorschriften 
+ 
+§ 33 
+In-Kraft-Treten 
+ 
+1Die Satzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die ihr 
+Bachelorstudium in einem der in § 1 Satz 1 genannten Bachelorstudiengänge ab dem Wintersemes-
+ter 2021/22 aufnehmen. 
+ 
+ 
+ 
+ 
+ 
+ 
+Ausgefertigt aufgrund des Beschlusses des Senats der Universität Regensburg vom 3. Februar 2021 
+und der Genehmigung des Präsidenten der Universität Regensburg vom 11. August 2021. 
+ 
+Regensburg, den 11. August 2021 
+Universität Regensburg 
+Der Präsident 
+ 
+ 
+ 
+Prof. Dr. Udo Hebel 
+ 
+ 
+ 
+Diese Satzung wurde am 11. August 2021 in der Hochschule niedergelegt; die Niederlegung wurde 
+am 11. August 2021 durch Aushang in der Hochschule bekannt gegeben. Tag der Bekanntmachung 
+ist daher der 11. August 2021. 
+  28

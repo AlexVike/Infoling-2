@@ -1,0 +1,2375 @@
+input_dictionary = MODULKATALOG 
+DEUTSCH-ITALIENISCHE STUDIEN 
+(Bachelor of Arts) 
+Erstes und zweites Studienjahr an der Universität Regensburg 
+(ab WS 2017/18) 
+Inhaltsverzeichnis: 
+ITA SP M 01 Basismodul Italienische Sprachpraxis 1 .......................................................................... 3 
+ITA SP M 02 Basismodul Italienische Sprachpraxis 2 .......................................................................... 5 
+FRA SP M 00 Grundmodul Romanische Zusatzsprache Französisch ................................................ 7 
+FRA SP M 01 Basismodul Französische Sprachpraxis 1 ...................................................................... 9 
+SPA SP M 00 Grundmodul Romanische Zusatzsprache Spanisch ................................................... 11 
+SPA SP M01 Basismodul Spanische Sprachpraxis 1 ........................................................................... 13 
+DIS SW M 01 Basismodul Italienische Sprachwissenschaft für DIS ................................................ 15 
+DIS LW M 01 Basismodul Italienische Literaturwissenschaft für DIS ............................................. 17 
+DIS KW M 01 Basismodul Italienische Kulturwissenschaft für DIS ................................................. 19 
+DIS IN M 01 Modul Interkulturelle Sprachmittlung für DIS .............................................................. 21 
+DIS IN M 02 Praktikumsmodul für DIS .................................................................................................. 23 
+ITA SW M 02 Aufbaumodul Italienische Sprachwissenschaft ......................................................... 25 
+ITA LW M 02 Aufbaumodul Italienische Literaturwissenschaft ...................................................... 27 
+ITA KW M 02 Aufbaumodul Italienische Kulturwissenschaft .......................................................... 29 
+DIS SP M 01 Aufbaumodul Italienische Sprachpraxis ........................................................................ 31 
+DIS SP M 02 Aufbaumodul Italienische Sprache II für DIS ............................................................... 33 
+FRA SP M 02 Basismodul Französische Sprachpraxis 2 .................................................................... 35 
+SPA SP M 02 Basismodul Spanische Sprachpraxis 2.......................................................................... 37 
+DIS SP M 03 Aufbaumodul Französische Sprachpraxis ..................................................................... 39 
+DIS SP M 04 Aufbaumodul Spanische Sprachpraxis .......................................................................... 41 
+IKE SWP M 03 Schwerpunktmodul Politikwissenschaft/Geschichte .............................................. 43 
+DIS WIWI M01 Grundlagen Makroökonomie ...................................................................................... 45 
+DIS WIWI M02 Grundlagen Mikroökonomie ....................................................................................... 47 
+DIS WIWI M03 Weiterführende Makroökonomie .............................................................................. 49 
+DIS WIWI M04 Weiterführende Mikroökonomie................................................................................ 51 
+AVS M01 Basismodul I: Grundlagen und Methoden der AVS ......................................................... 53 
+AVS M02 Basismodul II: Grundlagen und Methoden der AVS ........................................................ 55 
+Grundlagen der modernen Rechtsordnung .......................................................................................... 57 
+1 Zivilrecht ...................................................................................................................................................... 59 
+Öffentliches Recht ...................................................................................................................................... 61 
+INK-M01 Informationskompetenz (information literacy) I ............................................................... 63 
+INK-M10 Informationskompetenz (information literacy) II .............................................................. 65 
+ 
+   
+2 
+ ITA SP M 01 
+ 
+1. Name des Moduls:  Basismodul Italienische Sprachpraxis 1 
+2. Fachgebiet / Verantwortlich:  Romanistik (Italienisch) / Dr. Giulia de Savorgnani 
+3. Inhalte des Moduls:  Anwendung von niveauangemessenen morpho-
+syntaktischen und lexikalischen Strukturen;  
+schriftlicher und mündlicher Ausdruck, Hör- und 
+Lese-Verständnis  
+4. Qualifikationsziele des Moduls:  Nach Abschluss des Moduls haben die Teilnehmer 
+das Niveau B2.2 des Gemeinsamen Europäischen 
+Referenzrahmens für Sprachen (GER). 
+Die Teilnehmer können die Hauptinhalte 
+komplexer Texte zu konkreten und abstrakten 
+Themen verstehen; sie verstehen im eigenen 
+Spezialgebiet auch Fachdiskussionen. Sie können 
+sich so spontan und fließend verständigen, dass 
+ein normales Gespräch mit Muttersprachlern ohne 
+größere Anstrengung auf beiden Seiten gut 
+möglich ist. Sie können sich zu einem breiten 
+Themenspektrum mündlich wie schriftlich klar und 
+detailliert ausdrücken, einen Standpunkt zu einer 
+aktuellen Frage erläutern und die Vor- und 
+Nachteile verschiedener Möglichkeiten angeben. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  Sprachkenntnisse auf dem Niveau B1 des 
+Gemeinsamen Europäischen Referenzrahmens für 
+Sprachen (GER); diese sprachlichen Vorkenntnisse 
+sind dringend empfohlen (Einstufungstest)  
+b) verpflichtende Nachweise:  keine 
+6. Verwendbarkeit des Moduls:  Bachelor (Italien. Philologie: Bachelorfach, Zweites 
+Hauptfach, Nebenfach) 
+Bachelor (Deutsch-Italienische Studien) 
+Lehramt Italienisch an Gymnasien 
+Master Romanische Kulturräume (als zweite 
+romanische Sprache) 
+7. Angebotsturnus des Moduls:  Die einzelnen Veranstaltungen werden jedes Jahr 
+angeboten. 
+8. Dauer des Moduls:  zwei Semester  
+9. Empfohlenes Fachsemester:  1-3 
+10. Gesamtarbeitsaufwand des Moduls  Arbeitsaufwand: 
+Gesamt in Stunden: 360  
+     (Workload) / Anzahl 
+davon: 
+Leistungspunkte: 
+1. Präsenzzeit: 6 SWS/ 90 Std. 
+2. Selbststudium (inkl. Prüfung): 270 Std.  
+ 
+Leistungspunkte: 12*  
+*Die LP für das Modul werden erst nach Bestehen 
+der Modulprüfung bzw. aller Modulteilprüfungen 
+vergeben. 
+3 
+  
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen 
+Leistungen erfüllt sind:   
+ 
+12. Modulbestandteile: 
+P / 
+Nr  Lehr- Themenbereich/Thema  SWS  Studienleistungen  LP 
+WP 
+form  / Std. 
+1  P  Ü  Corso di lingua italiana 1  4  Präsentation  8 
+2  P  Ü  Traduzione I-D   2  Klausur   4 
+             
+ 
+ 
+13. Modulprüfung 
+Kompetenz /  Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr. 
+Thema  Prüfung  Bemerkungen  Modulnote 
+1   (zu 1)  Klausur  90 Min.  Ende der  100 % 
+Hörverständnis,    Vorlesungszeit 
+Lese- und 
+Textverständnis, 
+Grammatik, 
+schriftlicher 
+Ausdruck, 
+thematische 
+Kenntnisse  
+14. Bemerkungen:  
+ 
+ 
+   
+4 
+ ITA SP M 02 
+ 
+1. Name des Moduls:  Basismodul  Italienische Sprachpraxis 2  
+2. Fachgebiet / Verantwortlich:  Romanistik (Italienisch) / Dr. Giulia de Savorgnani 
+3. Inhalte des Moduls:  Techniken und Strategien zur sicheren 
+Sprachbeherrschung; morphosyntaktische und 
+lexikalische Strukturen; schriftliche Texte 
+verschiedener Genres sowie mündliche Kontexte 
+und Übersetzungsübungen in die Fremdsprache.  
+4. Qualifikationsziele des Moduls:  Nach Abschluss des Moduls haben die Teilnehmer 
+  das Niveau C1.1 des Gemeinsamen Europäischen 
+Referenzrahmens für Sprachen (GER). 
+Die Teilnehmer können ein breites Spektrum 
+anspruchsvoller, längerer Texte verstehen, auch 
+wenn diese nicht klar strukturiert sind, und auch 
+implizite Bedeutungen erfassen. Sie können sich 
+spontan und fließend ausdrücken, ohne öfter 
+deutlich erkennbar nach Worten suchen zu 
+müssen. Sie können sich klar, strukturiert und 
+ausführlich zu komplexen Sachverhalten äußern 
+und dabei verschiedene Mittel zur 
+Textverknüpfung angemessen verwenden. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  Sprachkenntnisse auf dem Niveau B2.2 des 
+Europäischen Referenzrahmens GER, zu erwerben 
+z.B. durch ITA SP M01 
+b) verpflichtende Nachweise:  ITA SP M01.1 für ITA SP M02.1 
+6. Verwendbarkeit des Moduls:  Bachelor (Italien. Philologie: Bachelorfach, Zweites 
+Hauptfach)  
+Bachelor (Deutsch-Italienische Studien) 
+Lehramt Italienischan Gymnasien 
+Master Romanische Kulturräume (als zweite 
+romanische Sprache) 
+7. Angebotsturnus des Moduls:  Die einzelnen Veranstaltungen werden jedes Jahr 
+angeboten. 
+8. Dauer des Moduls:  2 Semester 
+9. Empfohlenes Fachsemester:  2-4 (Bachelor, Lehramt) 
+1-3 (Master) 
+10. Gesamtarbeitsaufwand des Moduls  Arbeitsaufwand: 
+Gesamt in Stunden: 360  
+     (Workload) / Anzahl 
+davon: 
+Leistungspunkte: 
+1. Präsenzzeit: 6 SWS/ 90 Std. 
+2. Selbststudium (inkl. Prüfung): 270 Std.  
+ 
+Leistungspunkte: 12*  
+*Die LP für das Modul werden erst nach Bestehen 
+der Modulprüfung bzw. aller Modulteilprüfungen 
+vergeben. 
+ 
+5 
+ 11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen 
+Leistungen erfüllt sind:   
+ 
+12. Modulbestandteile: 
+P / 
+Nr  Lehr- Themenbereich/Thema  SWS  Studienleistungen  LP 
+WP 
+form  / Std. 
+1  P  Ü  Corso di lingua italiana 2  4  Klausur   8 
+2  P  Ü  Traduzione 2 D-I   2  kursbegleitende schriftliche  4 
+  Beiträge 
+             
+             
+ 
+ 
+13. Modulprüfung 
+Kompetenz /  Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr 
+Thema  Prüfung  Bemerkungen  Modulnote 
+1   (zu Nr. 2)   Klausur  90 Min.  Ende der  100 % 
+  Übersetzung in die    Vorlesungszeit 
+  Fremdsprache  
+ 
+ 
+ 
+ 
+ 
+14. Bemerkungen:  
+ 
+ 
+ 
+ 
+   
+6 
+ FRA SP M 00 
+1. Name des Moduls: Grundmodul Romanische Zusatzsprache 
+Französisch 
+2. Fachgebiet / Verantwortlich: Emmanuelle Brun 
+3. Inhalte des Moduls: Erwerb von allgemeinen Sprach- und 
+Übersetzungskenntnissen auf mindestens Niveau 
+B2.1 des Europäischen Referenzrahmens für 
+Fremdsprachen 
+4. Qualifikationsziele des Moduls: Ziel des Moduls ist die gefestigte Kenntnis  
+morphosyntaktischer sowie lexikalischer 
+Strukturen in der zweiten Fremdsprache 
+(Französisch). Durch ausgewogene Arbeit in allen 
+vier Fertigkeiten (Hörverstehen, Sprechen, 
+Leseverstehen, Schreiben), Übersetzungsübungen 
+an authentischen Texten unterschiedlicher 
+Textsorten und Disziplinen wird eine Kompetenz 
+in der Zielsprache erreicht, die mindestens dem 
+Niveau B2.1 des Europäischen Referenzrahmens 
+für Fremdsprachen entspricht. 
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: keine 
+b) verpflichtende Nachweise: Mindestens Niveau B1.2 des Europäischen 
+Referenzrahmens. Die Ermittlung des  
+Sprachniveaus erfolgt im 
+Eignungsfeststellungstest. 
+6. Verwendbarkeit des Moduls: Deutsch-Italienische Studien 
+7. Angebotsturnus des Moduls: Innerhalb von zwei Semestern werden alle 
+Lehrveranstaltungen angeboten. 
+8. Dauer des Moduls: 2 Semester 
+9. Empfohlenes Fachsemester: 1-2 
+10. Gesamtarbeitsaufwand des Moduls Arbeitsaufwand: 
+Gesamt in Stunden: 360 
+     (Workload) / Anzahl 
+davon: 
+Leistungspunkte: 
+Präsenzzeit: Std: 120/8 SWS 
+Selbststudium: Std 150  
+Prüfung (inkl. Vorbereitung): Std. 90 
+Leistungspunkte: 12*  
+*Die LP für das Modul werden erst nach Bestehen
+der Modulprüfung bzw. aller Modulteilprüfungen 
+vergeben. 
+7 11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen
+Leistungen erfüllt sind: 
+12. Modulbestandteile:
+P /  Lehr- Themenbereich/Thema  SWS  Studienleistungen  LP 
+WP  form  / Std. 
+1  P  Ü  UNICert II 1/2 Französisch  4  Klausur  6 
+2  P  Ü  UNICert II 3/4 Französisch  4  Klausur  6 
+13. Modulprüfung
+Kompetenz /  Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr. 
+Thema  Prüfung  Bemerkungen  Modulnote 
+1  in 2: Vertiefung  Klausur  90 min.  Ende der  100% 
+und   Vorlesungszeit 
+Erweiterung der  
+schriftlichen  
+Sprachproduktion  
+in der romanischen 
+Zusatzsprache 
+Französisch 
+(Niveau B2.1) 
+14. Bemerkungen:
+Die Einstufung erfolgt im Eignungsverfahren oder während der Orientierungswoche. 
+8 FRA SP M 01 
+1. Name des Moduls: Basismodul Französische Sprachpraxis 1 
+2. Fachgebiet / Verantwortlich: Romanistik (Französisch) / Emmanuelle Brun 
+3. Inhalte des Moduls: morphosyntaktische sowie lexikalische Strukturen; 
+schriftlicher und mündlicher Ausdruck, Hör- und 
+Lese-Verständnis. 
+4. Qualifikationsziele des Moduls / zu Nach Abschluss des Moduls haben die Teilnehmer 
+erwerbende Kompetenzen:  das Niveau C1.1 des Gemeinsamen Europäischen 
+Referenzrahmens für Sprachen (GER). 
+Die Teilnehmer sind in der Lage, ein breites 
+Spektrum anspruchsvoller, längerer Texte zu 
+verstehen, auch wenn diese nicht klar strukturiert 
+sind, und auch implizite Bedeutungen zu erfassen. 
+Sie können sich spontan und fließend ausdrücken, 
+ohne öfter deutlich erkennbar nach Worten 
+suchen zu müssen. Sie können sich klar, 
+strukturiert und ausführlich zu komplexen 
+Sachverhalten äußern und dabei verschiedene 
+Mittel zur Textverknüpfung angemessen 
+verwenden. 
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: Sprachkenntnisse auf dem Niveau B2 des 
+Gemeinsamen Europäischen Referenzrahmens für 
+Sprachen (GER), zu erwerben z.B. durch 5 Jahre 
+Französischunterricht in der Schule;  
+diese sprachlichen Vorkenntnisse sind dringend 
+empfohlen 
+b) verpflichtende Nachweise: keine 
+6. Verwendbarkeit des Moduls: Bachelor (Franz. Philologie: Bachelorfach, Zweites  
+Hauptfach, Nebenfach)  
+Bachelor (Deutsch-Französische Studien)  
+Bachelor (Deutsch-Italienische Studien) 
+Lehramt Französisch an Gymnasien 
+Lehramt Französisch an Realschulen  
+Master Romanische Kulturräume (als zweite 
+romanische Sprache) 
+7. Angebotsturnus des Moduls: Die einzelnen Veranstaltungen werden jedes 
+Semester angeboten. 
+8. Das Modul kann absolviert werden in: 2 Semester 
+9. Empfohlenes Fachsemester: 1.-3. Fachsemester 
+10. Arbeitsaufwand des Moduls Arbeitsaufwand: 
+Gesamt in Stunden: 360 
+     (Workload) / Anzahl 
+davon: 
+Leistungspunkte: 
+1. Präsenzzeit: 6 SWS/ 90 Std.
+2. Selbststudium (inkl. Prüfung): 270 Std.
+Leistungspunkte: 12* 
+*Die LP für das Modul werden erst nach Bestehen
+9 der Modulprüfung bzw. aller Modulteilprüfungen 
+vergeben. 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen
+Leistungen erfüllt sind: 
+12. Modulbestandteile:
+P / 
+Nr  Lehr- Themenbereich/Thema  SWS  Studienleistungen  LP 
+WP 
+form  / Std. 
+1  P  Ü  Cours de Langue Française 1  4  Klausur  8 
+2  P  Ü  Traduction 1 F-D  2  kursbegleitende  4 
+Übersetzungen 
+13. Modulprüfung
+Kompetenz /  Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr 
+Thema  Prüfung  Bemerkungen  Modulnote 
+1  (zu Nr. 2)  Klausur  90 Min.  Ende der  100 % 
+Übersetzung aus  Vorlesungszeit 
+der Fremdsprache 
+14. Bemerkungen:
+10 SPA SP M 00 
+1. Name des Moduls: Grundmodul Romanische Zusatzsprache Spanisch 
+2. Fachgebiet / Verantwortlich: Pedro Alvarez 
+3. Inhalte des Moduls: Erwerb von allgemeinen Sprach- und 
+Übersetzungskenntnissen auf mindestens Niveau 
+B2.1 des Europäischen Referenzrahmens für 
+Fremdsprachen 
+4. Qualifikationsziele des Moduls: Ziel des Moduls ist die gefestigte Kenntnis  
+morphosyntaktischer sowie lexikalischer 
+Strukturen in der zweiten Fremdsprache 
+(Spanisch). Durch ausgewogene Arbeit in allen vier 
+Fertigkeiten (Hörverstehen, Sprechen, 
+Leseverstehen, Schreiben), Übersetzungsübungen 
+an authentischen Texten unterschiedlicher 
+Textsorten und Disziplinen wird eine Kompetenz 
+in der Zielsprache erreicht, die mindestens dem 
+Niveau B2.1 des Europäischen Referenzrahmens 
+für Fremdsprachen entspricht. 
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: keine 
+b) verpflichtende Nachweise: Mindestens Niveau B1.2 des Europäischen 
+Referenzrahmens. Die Ermittlung des  
+Sprachniveaus erfolgt im 
+Eignungsfeststellungstest. 
+6. Verwendbarkeit des Moduls: Deutsch-Italienische Studien 
+7. Angebotsturnus des Moduls: Innerhalb von zwei Semestern werden alle 
+Lehrveranstaltungen angeboten. 
+8. Dauer des Moduls: 2 Semester 
+9. Empfohlenes Fachsemester: 1-2 
+10. Gesamtarbeitsaufwand des Moduls Arbeitsaufwand: 
+Gesamt in Stunden: 360 
+     (Workload) / Anzahl 
+davon: 
+Leistungspunkte: 
+Präsenzzeit: Std: 120/8 SWS 
+Selbststudium: Std 150  
+Prüfung (inkl. Vorbereitung): Std. 90 
+Leistungspunkte: 12*  
+*Die LP für das Modul werden erst nach Bestehen
+der Modulprüfung bzw. aller Modulteilprüfungen 
+vergeben. 
+11 11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen
+Leistungen erfüllt sind: 
+12. Modulbestandteile:
+P /  Lehr- Themenbereich/Thema  SWS  Studienleistungen  LP 
+WP  form  / Std. 
+1  P  Ü  UNICert II 1/2 Spanisch  4  Klausur  6 
+ODER UNICert II 3/4 Spanisch 
+2  P  Ü  UNICert II 3/4 Spanisch  4  6 
+ODER Curso preparatorio 
+13. Modulprüfung
+Kompetenz /  Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr. 
+Thema  Prüfung  Bemerkungen  Modulnote 
+1  in 2: Vertiefung  Klausur in 2  90 min.  Ende der  100% 
+und   Vorlesungszeit 
+Erweiterung der  
+schriftlichen  
+Sprachproduktion  
+in der romanischen 
+Zusatzsprache 
+Spanisch 
+(Niveau B2.1) 
+14. Bemerkungen:
+Die Einstufung erfolgt im Eignungsverfahren oder während der Orientierungswoche. Bei Belegung 
+der Lehrveranstaltung UNICert II 1/2 auf Position 1 wird empfohlen, für Position 2 UNICert II 3/4 
+zu belegen. Bei Belegung der Lehrveranstaltung UNICert II 3/4  auf Position 1 wird empfohlen, für 
+Position 2 den Curso preparatorio des Instituts für Romanistik zu belegen. 
+12 SPA SP M01 
+1. Name des Moduls: Basismodul Spanische Sprachpraxis 1 
+2. Fachgebiet / Verantwortlich: Romanistik (Spanisch) / Laura Cano 
+3. Inhalte des Moduls: morphosyntaktische sowie lexikalische Strukturen; 
+schriftlicher und mündlicher Ausdruck, Hör- und 
+Lese-Verständnis. 
+4. Qualifikationsziele des Moduls: Nach Abschluss des Moduls haben die Teilnehmer 
+das Niveau B2.2 des Gemeinsamen Europäischen 
+Referenzrahmens für Sprachen (GER). 
+Die Teilnehmer können die Hauptinhalte 
+komplexer Texte zu konkreten und abstrakten 
+Themen verstehen; sie verstehen im eigenen 
+Spezialgebiet auch Fachdiskussionen. Sie können 
+sich so spontan und fließend verständigen, dass 
+ein normales Gespräch mit Muttersprachlern ohne 
+größere Anstrengung auf beiden Seiten gut 
+möglich ist. Sie können sich zu einem breiten 
+Themenspektrum mündlich wie schriftlich klar und 
+detailliert ausdrücken, einen Standpunkt zu einer 
+aktuellen Frage erläutern und die Vor- und 
+Nachteile verschiedener Möglichkeiten angeben. 
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: Sprachkenntnisse auf dem Niveau B2.1 des 
+Gemeinsamen Europäischen Referenzrahmens für 
+Sprachen (GER); diese sprachlichen Vorkenntnisse 
+sind dringend empfohlen (Einstufungstest) 
+b) verpflichtende Nachweise: keine 
+6. Verwendbarkeit des Moduls: Bachelor (Italien. Philologie: Bachelorfach, Zweites 
+Hauptfach, Nebenfach)   
+Bachelor (Deutsch-Italienische Studien) 
+Lehramt Spanisch an Gymnasien 
+Master Romanische Kulturräume (als zweite 
+romanische Sprache) 
+7. Angebotsturnus des Moduls: Die einzelnen Veranstaltungen werden jedes Jahr 
+angeboten. 
+8. Dauer des Moduls: zwei Semester 
+9. Empfohlenes Fachsemester: 1-3 
+10. Gesamtarbeitsaufwand des Moduls Arbeitsaufwand: 
+Gesamt in Stunden: 360 
+     (Workload) / Anzahl 
+davon: 
+Leistungspunkte: 
+1. Präsenzzeit: 6 SWS/ 90 Std.
+2. Selbststudium (inkl. Prüfung): 270 Std.
+Leistungspunkte: 12* 
+*Die LP für das Modul werden erst nach Bestehen
+der Modulprüfung bzw. aller Modulteilprüfungen 
+13 vergeben. 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen
+Leistungen erfüllt sind: 
+12. Modulbestandteile:
+P / 
+Nr  Lehr- Themenbereich/Thema  SWS  Studienleistungen  LP 
+WP 
+form  / Std. 
+1  P  Ü  Curso de lengua española 1  4  Präsentation  8 
+2  P  Ü  Traducción S-D  2  Klausur  4 
+13. Modulprüfung
+Kompetenz /  Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr 
+Thema  Prüfung  Bemerkungen  Modulnote 
+1  (zu Nr. 1) Lese- und  Klausur  90 Min.  Ende der  100 % 
+Textverständnis,  Vorlesungszeit 
+Grammatik, 
+schriftlicher 
+Ausdruck  
+14. Bemerkungen:
+14 DIS SW M 01 
+1. Name des Moduls: Basismodul Italienische Sprachwissenschaft für DIS 
+2. Fachgebiet / Verantwortlich: Romanistik (Italienisch) / Prof. Dr. Maria Selig 
+3. Inhalte des Moduls: Einführung in die Thematik und Erarbeitung der 
+Methodik der italienischen Sprachwissenschaft. 
+Die einführende Vorlesung sowie der 
+Einführungskurs führen in die Methoden der 
+italienischen Sprachwissenschaft ein, im 
+Proseminar findet die Umsetzung und Anwendung 
+der erworbenen Kenntnisse statt.  
+4. Qualifikationsziele des Moduls: Das Modul vermittelt grundlegende Kenntnisse 
+der italienischen Sprachwissenschaft und befähigt 
+zur Anwendung sprachwissenschaftlicher 
+Methoden im Bereich der Synchronie und 
+Diachronie.  
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: keine 
+b) verpflichtende Nachweise: keine 
+6. Verwendbarkeit des Moduls: Bachelor (Deutsch-Italienische Studien) 
+7. Angebotsturnus des Moduls: Innerhalb von zwei Semestern werden alle Kurse 
+angeboten. 
+8. Dauer des Moduls: 2 Semester 
+9. Empfohlenes Fachsemester: 1-3 
+10. Gesamtarbeitsaufwand des Moduls Arbeitsaufwand: 
+Gesamt in Stunden: 360  
+     (Workload) / Anzahl 
+davon: 
+Leistungspunkte: 
+Präsenzzeit: 105 Std. 
+Selbststudium (inkl. Prüfung): 165 
+Prüfung (inkl. Vorbereitung): 90 
+Leistungspunkte: 12* 
+*Die LP für das Modul werden erst nach Bestehen
+der Modulprüfung bzw. aller Modulteilprüfungen 
+vergeben. 
+15 11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen
+Leistungen erfüllt sind: 
+12. Modulbestandteile:
+P /  Lehr- Themenbereich/Thema  SWS  Studienleistungen  LP 
+WP  form  / Std. 
+1  P  VL  Einführende Vorlesung in die  2  Klausur  3 
+Romanische Sprachwissenschaft 
+2  P  Ü  Einführungskurs  m.  Phonetik  3  Übungsaufgabe, Klausur  4 
+3  P  PS  Italienische Sprachwissenschaft  2  Vortrag  5 
+13. Modulprüfung
+Kompetenz /  Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr. 
+Thema  Prüfung  Bemerkungen  Modulnote 
+1  Förderung des  Hausarbeit  Vgl.  i.d.R. in der  100% 
+selbständigen  in  3  kommentiertes  vorlesungsfreien Zeit 
+wissenschaftlichen  Vorlesungsver- anfertigen 
+Arbeitens und  zeichnis 
+weiterführender 
+Methodenkenntnis 
+14. Bemerkungen:
+Die Studienleistungen sind nicht verpflichtend zu absolvieren. 
+16   
+DIS LW M 01 
+ 
+1. Name des Moduls:  Basismodul Italien. Literaturwissenschaft für DIS 
+2. Fachgebiet / Verantwortlich:  Romanistik (Italienisch) / Prof. Dr. Isabella von 
+Treskow  
+3. Inhalte des Moduls:  Grundkenntnisse der Literaturwissenschaft, 
+Überblick über die italienische Literaturgeschichte 
+4. Qualifikationsziele des Moduls:  Ziel des Moduls ist die Vertrautheit mit 
+Grundfragen literaturwissenschaftlichen Arbeitens 
+und die exemplarische Anwendung auf 
+Einzelthemen (Autoren, Gattungen, Epochen etc.), 
+sowie die Einübung methodengeleiteter 
+Interpretation fiktionaler Texte und ihrer 
+kulturgeschichtlichen Kontextualisierung. 
+Außerdem bietet das Modul  
+literaturgeschichtliche Orientierung und 
+Textkenntnisse in der italienischen Literatur seit 
+den Anfängen und sensibilisiert für 
+komparatistisch-interkulturelle Besonderheiten der 
+italienischen Literatur im europäischen Kontext. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  keine 
+b) verpflichtende Nachweise:  keine 
+6. Verwendbarkeit des Moduls:  Bachelor (Deutsch-Italienische Studien) 
+7. Angebotsturnus des Moduls:  Innerhalb von zwei Semestern werden alle Kurse 
+angeboten. 
+8. Dauer des Moduls:  2 Semester 
+9. Empfohlenes Fachsemester:  1-3 
+10. Gesamtarbeitsaufwand des Moduls  Arbeitsaufwand: 
+Gesamt in Stunden: 360  
+     (Workload) / Anzahl 
+davon: 
+Leistungspunkte: 
+Präsenzzeit: 105 Std. 
+Selbststudium (inkl. Prüfung): 165 
+Prüfung (inkl. Vorbereitung): 90 
+ 
+Leistungspunkte: 12*  
+*Die LP für das Modul werden erst nach Bestehen 
+der Modulprüfung bzw. aller Modulteilprüfungen 
+vergeben. 
+ 
+   
+17 
+  
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen 
+Leistungen erfüllt sind:   
+ 
+12. Modulbestandteile: 
+  P /  Lehr- Themenbereich/Thema  SWS  Studienleistungen  LP 
+WP  form  / Std. 
+1  P  VL  Einführende Vorlesung in die  2  Klausur  3 
+Romanische 
+Literaturwissenschaft 
+2  P  Ü  Einführungskurs  3  Kurzvortrag, 2 Essays  4 
+ 
+3  P  PS  Italienische  2  Vortrag  5 
+Literaturwissenschaft 
+ 
+13. Modulprüfung 
+Kompetenz /  Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr. 
+Thema  Prüfung  Bemerkungen  Modulnote 
+1   Förderung des  Hausarbeit  Vgl.  i.d.R. in der  100% 
+selbständigen  in  3  kommentiertes  vorlesungsfreien Zeit 
+wissenschaftlichen  Vorlesungsver- anfertigen 
+Arbeitens und  zeichnis 
+weiterführender 
+Methodenkenntnis 
+14. Bemerkungen:  
+Die Studienleistungen sind nicht verpflichtend zu absolvieren. 
+   
+18 
+ DIS KW M 01 
+1. Name des Moduls: Basismodul Italien. Kulturwissenschaft für DIS 
+2. Fachgebiet / Verantwortlich: Romanistik (Italienisch) / Prof. Dr. Isabella von 
+Treskow 
+3. Inhalte des Moduls: Grundkenntnisse in italienischer 
+Kulturwissenschaft. Im Proseminar findet die 
+eigenständige Umsetzung und Anwendung der 
+erlernten Methoden auf ein begrenztes Gebiet der 
+italienischen Kultur statt. 
+4. Qualifikationsziele des Moduls: Vermittlung der Grundlagen und Methoden der 
+allgemeinen und spezifisch italienischen 
+Kulturwissenschaft.  
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: keine 
+b) verpflichtende Nachweise: keine 
+6. Verwendbarkeit des Moduls: Bachelor (Deutsch-Italienische Studien) 
+7. Angebotsturnus des Moduls: Innerhalb von zwei Semestern werden alle Kurse 
+angeboten. 
+8. Dauer des Moduls: 2 Semester 
+9. Empfohlenes Fachsemester: 1-3 
+10. Gesamtarbeitsaufwand des Moduls Arbeitsaufwand: 
+Gesamt in Stunden: 360  
+     (Workload) / Anzahl 
+davon: 
+Leistungspunkte: 
+Präsenzzeit: 105 Std. 
+Selbststudium (inkl. Prüfung): 165 
+Prüfung (inkl. Vorbereitung): 90 
+Leistungspunkte: 12* 
+*Die LP für das Modul werden erst nach Bestehen
+der Modulprüfung bzw. aller Modulteilprüfungen 
+vergeben. 
+19 11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen
+Leistungen erfüllt sind: 
+12. Modulbestandteile:
+P /  Lehr- Themenbereich/Thema  SWS  Studienleistungen  LP 
+WP  form  / Std. 
+1  P  VL  Einführende Vorlesung in die  2  Klausur  3 
+Romanische Kulturwissenschaft 
+2  P  Ü  Einführungskurs  3  Kurzvortrag, Klausur  4 
+3  P  PS  Italienische Kulturwissenschaft  2  Vortrag  5 
+13. Modulprüfung
+Kompetenz /  Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr. 
+Thema  Prüfung  Bemerkungen  Modulnote 
+1  Förderung des  Hausarbeit    Vgl.  i.d.R. in der  100% 
+selbständigen  in  3  kommentiertes  vorlesungsfreien Zeit 
+wissenschaftlichen  Vorlesungsver- anfertigen 
+Arbeitens und  zeichnis 
+weiterführender 
+Methodenkenntnis 
+14. Bemerkungen:
+Die Studienleistungen sind nicht verpflichtend zu absolvieren. 
+20  DIS IN M 01 
+1. Name des Moduls: Modul Interkulturelle Sprachmittlung für DIS 
+2. Fachgebiet / Verantwortlich: Romanistik / Prof. Dr. Maria Selig 
+3. Inhalte des Moduls: Grundlagen der Theorie, Geschichte und Praxis 
+interkultureller Kommunikation; Einblick in die 
+Forschungsfragen, Methoden und Perspektiven 
+interkultureller Kommunikation. 
+4. Qualifikationsziele des Moduls: Befähigung zur systematischen Erfassung und 
+Kategorisierung kultureller Unterschiede; 
+Befähigung zur Analyse interkultureller 
+Fragestellungen; Erwerb interkultureller 
+Kompetenz mit Schwerpunkt Deutschland-Italien: 
+Sensibilisierung für kulturell bedingte 
+Kommunikationsprobleme und 
+Konfliktsituationen, Fähigkeit zur Reflexion eigener 
+interkultureller Erfahrungen sowie zur Erarbeitung 
+von Lösungsansätzen für interkulturelle Probleme. 
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: keine 
+b) verpflichtende Nachweise: Für den Kurs 2 Sprachkenntnisse auf dem Niveau 
+C1.1 des Gemeinsamen Europäischen 
+Referenzrahmens für Sprachen (GER) 
+6. Verwendbarkeit des Moduls: Bachelor (Deutsch-Italienische Studien) 
+7. Angebotsturnus des Moduls: Innerhalb von zwei Semestern werden alle Kurse 
+angeboten. 
+8. Dauer des Moduls: 2 Semester 
+9. Empfohlenes Fachsemester: 1-4 
+10. Gesamtarbeitsaufwand des Moduls Arbeitsaufwand: 
+Gesamt in Stunden: 360 
+     (Workload) / Anzahl 
+davon: 
+Leistungspunkte: 
+Präsenzzeit: Std. 90 
+Selbststudium: Std. 210 
+Prüfung (inkl. Vorbereitung): Std. 60 
+Leistungspunkte: 12 * 
+*Die LP für das Modul werden erst nach Bestehen
+der Modulprüfung bzw. aller Modulteilprüfungen 
+vergeben. 
+21 11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen
+Leistungen erfüllt sind: 
+12. Modulbestandteile:
+P /  Lehr- Themenbereich/Thema  SWS  Studienleistungen  LP 
+WP  form  / Std. 
+1  P  VL  Wissenschaftliche  2  4 
+Grundlagen interkulturellen 
+Handelns – internationale 
+Handlungskompetenz 
+2a  WP  Ü  Capire l‘Italia – Profilo  2  Klausur  4 
+socioculturale dell’Italia 
+2b  WP  Ü  Analyse kulturell bedingter  2  Präsentation  4 
+Konfliktsituationen Italien 
+3  P  Ü  Esercitazioni di scrittura  2  4 
+13. Modulprüfung
+Kompetenz /  Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr. 
+Thema  Prüfung  Bemerkungen  Modulnote 
+1  Allgemeine  Klausur in 1  90 min.  Ende der  100% 
+Grundlagen  Vorlesungszeit 
+internationaler 
+Handlungs-
+kompetenz 
+14. Bemerkungen:
+Von den Kursen 12.2, 12.3 muss ein Kurs gewählt werden. 
+Die Studienleistungen sind nicht verpflichtend zu absolvieren. 
+22 DIS IN M 02 
+1. Name des Moduls: Praktikumsmodul für DIS 
+2. Fachgebiet / Verantwortlich: Romanistik (Italienisch) / Prof. Dr. Maria Selig 
+3. Inhalte des Moduls: Praxiserfahrung in deutschen und / oder 
+italienischen Unternehmen und Institutionen 
+4. Qualifikationsziele des Moduls: Fähigkeit zur praktischen Anwendung der in der 
+bisherigen universitären Ausbildung erworbenen 
+Kenntnisse; Einblick in ein Unternehmen oder eine 
+Institution mit Schwerpunkt auf internationalen 
+oder deutsch-italienischen Beziehungen; 
+Förderung der interkulturellen Kompetenz; 
+Gewinn erster Arbeitserfahrung sowie 
+Orientierung für die eigene berufliche Zukunft: 
+Einblick in zukünftige Tätigkeitsfelder, national 
+geprägte Unternehmensstile und 
+Verwaltungsabläufe; Fähigkeit zur Reflexion und 
+schriftlichen Aufarbeitung der eigenen 
+Erfahrungen. 
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: keine 
+b) verpflichtende Nachweise: keine 
+6. Verwendbarkeit des Moduls: Bachelor (Deutsch-Italienische Studien) 
+7. Angebotsturnus des Moduls:
+8. Dauer des Moduls: 4 Monate 
+9. Empfohlenes Fachsemester: 1-5 
+10. Gesamtarbeitsaufwand des Moduls Arbeitsaufwand: 
+Gesamt in Stunden: 600 
+     (Workload) / Anzahl 
+davon: 
+Leistungspunkte: 
+Arbeitsstunden im Praktikumsbetrieb: 560 Std. 
+Verfassen des Praktikumsberichts: 40 Std. 
+Leistungspunkte: 20 
+23 11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen
+Leistungen erfüllt sind: 
+12. Modulbestandteile:
+P / 
+Nr  Lehr- Themenbereich/Thema  SWS  Studienleistungen  LP 
+WP 
+form  / Std. 
+1  P  n.a.  Praktikum  560  18 
+2  P  n.a.  Praktikumsbericht  40  2 
+13. Modulprüfung:
+Kompe-
+Art der  Dauer  Zeitpunkt  Anteil an Modulnote 
+Nr.  tenz / 
+Prüfung 
+Thema 
+14. Bemerkungen:
+Bitte beachten Sie die Merkblätter zum Praktikum!  
+Die Dauer des Praktikums muss mindestens vier Monate betragen, wobei mindestens 
+zwei Monate im jeweils fremdsprachigen Ausland (Italienisch/Deutsch) oder an für den 
+fremdsprachigen Kontext relevanten internationalen Institutionen zu erbringen sind. 
+24 ITA SW M 02 
+1. Name des Moduls: Aufbaumodul Italien. Sprachwissenschaft 
+2. Fachgebiet / Verantwortlich: Romanistik (Italienisch) / Prof. Dr. Maria Selig 
+3. Inhalte des Moduls: Ausgewählte Problembereiche der synchronen 
+und / oder diachronen italienischen 
+Sprachwissenschaft 
+4. Qualifikationsziele des Moduls: Die Teilnehmer verfügen über vertiefte fachliche 
+und methodische Kenntnisse und sind in der Lage, 
+sprachwissenschaftliche Methoden selbständig auf 
+die Gegenwartssprache und auf frühere 
+Sprachstufen anzuwenden. Sie sind vertraut mit 
+der Geschichte der italienischen Sprache und ihrer 
+Varietäten. Sie sind in der Lage, 
+fachwissenschaftliche Methoden auf eng 
+begrenzte Forschungsfragen anzuwenden und sie 
+kritisch zu reflektieren.  
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: keine 
+b) verpflichtende Nachweise: DIS-SW-M01.3 für ITA SW M02.2 
+6. Verwendbarkeit des Moduls: Bachelor (Italien. Philologie HF)  
+Bachelor (Deutsch-Italienische Studien) 
+Lehramt Italienisch an Gymnasien 
+Master (Romanische Philologie)  
+7. Angebotsturnus des Moduls: Innerhalb von 2 Semestern werden alle Kurse 
+angeboten. 
+8. Dauer des Moduls: 2 Semester 
+9. Empfohlenes Fachsemester: 4-6 (Bachelor, Lehramt) 
+1-3 (Master) 
+10. Gesamtarbeitsaufwand des Moduls Arbeitsaufwand:  
+Gesamt in Stunden: 360 
+     (Workload) / Anzahl 
+davon: 
+Leistungspunkte: 
+1. Präsenzzeit: 4 SWS /60 Std.
+2. Selbststudium (inkl. Prüfung):: 300 Std.
+Leistungspunkte: 12 (ohne Vorlesung 8) * 
+*Die LP für das Modul werden erst nach Bestehen
+der Modulprüfung bzw. aller Modulteilprüfungen 
+vergeben. 
+25 11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen
+Leistungen erfüllt sind: 
+12. Modulbestandteile:
+P /  Lehr- Themenbereich/Thema  SWS  Studienleistungen  LP 
+WP  form  / Std. 
+1  P  VL  Italienische Sprachwissenschaft  2  Klausur  4 
+2  P  HS  Italienische Sprachwissenschaft  2  Vortrag  8 
+13. Modulprüfung
+Kompetenz /  Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr. 
+Thema  Prüfung  Bemerkungen  Modulnote 
+1  Italienische  Hausarbeit  ca. 20 Seiten   Abgabe spätestens  100% 
+Sprachwissenschaft  oder Klausur  oder 90 Min.  bis Semesterende 
+in 2  oder Ende der 
+Vorlesungszeit 
+14. Bemerkungen:
+Für Lehramt Gymnasium gilt: Nur in einem der Aufbaumodule  ITA SW M02, ITA LW M02 oder 
+ITA KW M02 muss die Vorlesung mit Studienleistung absolviert werden. 
+Für Bachelor Deutsch-Italienische Studien gilt: Die Studienleistung "Klausur" ist nicht verpflichtend 
+zu absolvieren. 
+26 ITA LW M 02 
+1. Name des Moduls: Aufbaumodul Italienische Literaturwissenschaft 
+2. Fachgebiet / Verantwortlich: Romanistik (Italienisch) / Prof. Dr. Isabella von 
+Treskow 
+3. Inhalte des Moduls: Analyse und Interpretation ausgewählter 
+italienischsprachiger Texte, Methoden der 
+italianistischen Fachgeschichte (z.B. 
+Strukturalismus, Erzähltextanalyse, Poetik); 
+typische Arbeitsformen wie Recherche, Rezension, 
+wiss. Textsorten und mündliche Präsentations-
+formen; Texte der italienischen Literatur in 
+ausgewählten Problembereichen 
+4. Qualifikationsziele des Moduls: Die Teilnehmer verfügen über vertiefte fachliche 
+und methodische Kenntnisse. Sie können 
+literaturwissenschaftliche Methoden in einem 
+Teilgebiet kritisch reflektieren und anwenden. Sie 
+sind in der Lage, fachwissenschaftliche 
+Forschungsfragen zu entwickeln, 
+fachwissenschaftliche Methoden unter Einbezug 
+von Forschungsliteratur auf begrenzte 
+Forschungsfragen eigenständig anzuwenden und 
+kennen die französische Literaturgeschichte. 
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: keine 
+b) verpflichtende Nachweise: DIS-LW-M01.3 für ITA LW M02.2 
+6. Verwendbarkeit des Moduls: Bachelor (Italien. Philologie HF)  
+Bachelor (Deutsch-Italienische Studien) 
+Lehramt Italienisch an Gymnasien 
+Master (Romanische Philologie)  
+7. Angebotsturnus des Moduls: Innerhalb von 2 Semestern werden alle Kurse 
+angeboten. 
+8. Dauer des Moduls: 2 Semester 
+9. Empfohlenes Fachsemester: 4-6 (Bachelor, Lehramt) 
+1-3 (Master) 
+10. Gesamtarbeitsaufwand des Moduls Arbeitsaufwand:  
+Gesamt in Stunden: 360 
+     (Workload) / Anzahl 
+davon: 
+Leistungspunkte: 
+1. Präsenzzeit: 4 SWS /60 Std.
+2. Selbststudium (inkl. Prüfung): 300 Std.
+Leistungspunkte: 12 (ohne Vorlesung 8) * 
+*Die LP für das Modul werden erst nach Bestehen
+der Modulprüfung bzw. aller Modulteilprüfungen 
+vergeben. 
+27 11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen
+Leistungen erfüllt sind: 
+12. Modulbestandteile:
+P /  Lehr- Themenbereich/Thema  SWS  Studienleistungen  LP 
+WP  form  / Std. 
+1  P  VL  Italienische  2  Klausur  4 
+Literaturwissenschaft 
+2  P  HS  Italienische  2  Vortrag  8 
+Literaturwissenschaft 
+13. Modulprüfung
+Kompetenz /  Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr. 
+Thema  Prüfung  Bemerkungen  Modulnote 
+1  Italienische  Hausarbeit  ca. 20 Seiten   Abgabe spätestens  100% 
+Literaturwissenscha oder Klausur  oder 90 Min.  bis Semesterende 
+ft  in 2  oder Ende der 
+Vorlesungszeit 
+14. Bemerkungen:
+Für Lehramt Gymnasium gilt: Nur in einem der Aufbaumodule  ITA SW M02, ITA LW M02 oder 
+ITA KW M02 muss die Vorlesung mit Studienleistung absolviert werden. 
+Für Bachelor Deutsch-Italienische Studien gilt: Die Studienleistung "Klausur" ist nicht verpflichtend 
+zu absolvieren. 
+28 ITA KW M 02 
+1. Name des Moduls: Aufbaumodul Italien. Kulturwissenschaft 
+2. Fachgebiet / Verantwortlich: Romanistik (Italienisch) / Prof. Dr. Isabella von 
+Treskow 
+3. Inhalte des Moduls: Theorien und Methoden der italienischen 
+Kulturwissenschaft; Fachwissen über die 
+italienische Kultur, teils im Vergleich zu 
+Deutschland.  
+4. Qualifikationsziele des Moduls: Die Teilnehmer verfügen über vertiefte Kenntnisse 
+in italienischer Kultur und Kulturwissenschaft. Sie 
+sind in der Lage, fachspezifische Methoden in 
+einem begrenzten Teilgebiet der italienischen 
+Kulturwissenschaft weitgehend selbständig 
+anzuwenden.  
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: keine 
+b) verpflichtende Nachweise: DIS-KW-M01.3 für ITA KW M02.2 
+6. Verwendbarkeit des Moduls: Bachelor (Italien. Philologie HF)  
+Bachelor (Deutsch-Italienische Studien) 
+Master (Romanische Philologie) 
+7. Angebotsturnus des Moduls: Innerhalb von 2 Semestern werden alle Kurse 
+angeboten.  
+8. Dauer des Moduls: 2 Semester 
+9. Empfohlenes Fachsemester: 4-6 (Bachelor, Lehramt) 
+1-3 (Master) 
+10. Gesamtarbeitsaufwand des Moduls Arbeitsaufwand:  
+Gesamt in Stunden: 360 
+     (Workload) / Anzahl 
+davon: 
+Leistungspunkte: 
+1. Präsenzzeit: 4 SWS /60 Std.
+2. Selbststudium (inkl. Prüfung): 300 Std.
+Leistungspunkte: 12 (ohne Vorlesung 8) * 
+*Die LP für das Modul werden erst nach Bestehen
+der Modulprüfung bzw. aller Modulteilprüfungen 
+vergeben. 
+29 11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen
+Leistungen erfüllt sind: 
+12. Modulbestandteile:
+P /  Lehr- Themenbereich/Thema  SWS  Studienleistungen  LP 
+WP  form  / Std. 
+1  P  VL  Italienische Kulturwissenschaft  2  4 
+2  P  HS  Italienische Kulturwissenschaft  2  Vortrag  8 
+13. Modulprüfung
+Kompetenz /  Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr. 
+Thema  Prüfung  Bemerkungen  Modulnote 
+1  Italienische  Hausarbeit  ca. 20 Seiten   Abgabe spätestens  100% 
+Kulturwissenschaft  oder Klausur  oder 90 Min.  bis Semesterende 
+in 2  oder Ende der 
+Vorlesungszeit 
+14. Bemerkungen:
+Für Lehramt Gymnasium gilt: Nur in einem der Aufbaumodule  ITA SW M02, ITA LW M02 oder 
+ITA KW M02 muss die Vorlesung mit Studienleistung absolviert werden. 
+Für Bachelor Deutsch-Italienische Studien gilt: Die Studienleistung "Klausur" ist nicht 
+verpflichtend zu absolvieren.
+30 DIS SP M 01 
+ 
+1. Name des Moduls:  Aufbaumodul  Italienische Sprachpraxis  
+ 
+2. Fachgebiet / Verantwortlich:  Romanistik (Italienisch) / Dr. Simona Fabellini 
+ 
+3. Inhalte des Moduls:  Arbeit mit verschiedenen mündlichen und 
+schriftlichen Textsorten; Grammatik  
+4. Qualifikationsziele des Moduls:  Nach Abschluss des Moduls haben die 
+Studierenden das Niveau C1.2 des Gemeinsamen 
+Europäischen Referenzrahmens für Sprachen 
+(GER). 
+Die Studierenden können sich schriftlich klar und 
+gut strukturiert ausdrücken und dabei 
+verschiedene Mittel zur Textverknüpfung 
+angemessen verwenden. Sie können lange und 
+komplexe Sachtexte und literarische Texte 
+verstehen und deren stilistische Merkmale 
+wahrnehmen. Sie können  sich ausführlich zu 
+komplexen Sachverhalten äußern und ihre 
+Ansichten ausführlich darstellen.   
+5. Teilnahmevoraussetzungen:   
+ 
+a) empfohlene Kenntnisse:  Sprachkenntnisse auf dem Niveau C1.1 des 
+Europäischen Referenzrahmens GER, zu erwerben 
+z.B. durch ITA SP M02  
+b) verpflichtende Nachweise:  keine 
+6. Verwendbarkeit des Moduls:  Bachelor (Deutsch-Italienische Studien)   
+7. Angebotsturnus des Moduls:  Die einzelnen Veranstaltungen werden jedes Jahr 
+angeboten.  
+8. Dauer des Moduls:  2 Semester 
+9. Empfohlenes Fachsemester:  3-4 
+10. Gesamtarbeitsaufwand des Moduls  Arbeitsaufwand: 
+Gesamt in Stunden: 360  
+     (Workload) / Anzahl 
+davon: 
+Leistungspunkte: 
+1. Präsenzzeit: 6 SWS/ 90 Std. 
+2. Selbststudium (inkl. Prüfung): 270 Std.  
+ 
+Leistungspunkte: 12*  
+*Die LP für das Modul werden erst nach Bestehen 
+der Modulprüfung bzw. aller Modulteilprüfungen 
+vergeben. 
+ 
+   
+31 
+ 11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen
+Leistungen erfüllt sind: 
+12. Modulbestandteile:
+P / 
+Nr  Lehr- Themenbereich/Thema  SWS  Studienleistungen  LP 
+WP 
+form  / Std. 
+1  P  Ü  Analisi testuale e composizione  2 
+2  P  Ü  Corso di lingua italiana 3  2  Präsentation  4 
+3a  WP  Ü  Grammatica  2  kursbegleitende schriftliche  4 
+Beiträge 
+3b  WP  Ü  Traduzione  3 (I-D)  2  kursbegleitende  4 
+Übersetzungen 
+3c  WP  Ü  Traduzione  3 (D-I)  2  kursbegleitende  4 
+Übersetzungen 
+13. Modulprüfung
+Kompetenz /  Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr 
+Thema  Prüfung  Bemerkungen  Modulnote 
+1  (zu Nr. 1)  Klausur  90 Min.  Ende der  100 % 
+Anwendung  Vorlesungszeit 
+morphosyntak-
+tischer Strukturen, 
+Lese- und 
+Textverständnis 
+14. Bemerkungen:
+Von den Kursen 12.3a, 12.3b, 12.3c muss ein Kurs gewählt werden. 
+Die Studienleistungen sind nicht verpflichtend zu absolvieren. 
+32 DIS SP M 02 
+1. Name des Moduls: Aufbaumodul Italienische Sprache II für DIS 
+2. Fachgebiet / Verantwortlich: Romanistik (Italienisch) / Dr. Giulia de Savorgnani 
+3. Inhalte des Moduls: Vertiefung und Erweiterung morphosyntaktischer 
+und lexikalischer Strukturen sowie die Perfektio-
+nierung der Übersetzungskompetenz auf der Basis 
+der bereits erworbenen Kenntnisse. Durch 
+ausgewogene Arbeit in allen vier Fertigkeiten 
+(Hörverstehen, Sprechen, Leseverstehen, 
+Schreiben) sowie anspruchsvolle Übersetzungs-
+übungen an authentischen Texten unterschied-
+licher Textsorten und Disziplinen wird eine sichere 
+Kompetenz im Italienischen erreicht, die dem 
+Niveau von C2 des Europäischen Referenzrahmens 
+für Fremdsprachen entspricht. 
+4. Qualifikationsziele des Moduls: Vertiefte schriftliche Ausdrucksfähigkeit und 
+Übersetzungskompetenz auf Niveau C2 des 
+Europäischen Referenzrahmens für 
+Fremdsprachen. 
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: keine 
+b) verpflichtende Nachweise: Sprachkenntnisse auf dem Niveau C1.2 des 
+Europäischen Referenzrahmens GER 
+6. Verwendbarkeit des Moduls: Bachelor (Deutsch-Italienische Studien) 
+7. Angebotsturnus des Moduls: Innerhalb von zwei Semestern werden alle Kurse 
+angeboten.  
+8. Dauer des Moduls: 2 Semester 
+9. Empfohlenes Fachsemester: 3-4 
+10. Gesamtarbeitsaufwand des Moduls Arbeitsaufwand: 
+Gesamt in Stunden: 360 
+     (Workload) / Anzahl 
+davon: 
+Leistungspunkte: 
+Präsenzzeit: Std. 90.  
+Selbststudium: Std. 180  
+Prüfung (inkl. Vorbereitung): Std. 90 
+Leistungspunkte: 12* 
+*Die LP für das Modul werden erst nach Bestehen
+der Modulprüfung bzw. aller Modulteilprüfungen 
+vergeben. 
+33 11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen
+Leistungen erfüllt sind: 
+12. Modulbestandteile:
+P / 
+Nr  Lehr- Themenbereich/Thema  SWS  Studien- LP 
+WP 
+form  / Std.  leistungen 
+1  P  Ü  Corso di Lingua Italiana IV  2  4 
+2  P  Ü  Attualità  2  4 
+3a  WP  Ü  Fachsprache Italienisch  2  4 
+3b  WP  Ü  Espressione orale  2  4 
+13. Modulprüfung:
+Kompetenz / Thema  Art der  Dauer  Zeitpunkt  Anteil an Modulnote 
+Prüfung 
+(zu Nr. 1)  Klausur  90 min.  Ende der  100% 
+Vertiefung und  Vorlesungszeit 
+Erweiterung der 
+schriftlichen  und 
+mündlichen 
+Sprachproduktion im 
+Italienischen (Niveau: C2) 
+14. Bemerkungen:
+Von den Kursen 12.3a, 12.3b muss ein Kurs gewählt werden. 
+Die Studienleistungen sind nicht verpflichtend zu absolvieren. 
+34 FRA SP M 02 
+1. Name des Moduls: Basismodul Französische Sprachpraxis 2 
+2. Fachgebiet / Verantwortlich: Romanistik (Französisch)/ Emmanuelle Brun 
+3. Inhalte des Moduls: Techniken und Strategien zur sicheren 
+Sprachbeherrschung; morphosyntaktische und 
+lexikalische Strukturen; schriftliche Texte 
+verschiedener Genres sowie mündliche Kontexte 
+und Übersetzungsübungen in die Fremdsprache. 
+4. Qualifikationsziele des Moduls: Nach Abschluss des Moduls haben die Teilnehmer 
+das Niveau C1.2 des Gemeinsamen Europäischen 
+Referenzrahmens für Sprachen (GER). 
+Die Teilnehmer können sich schriftlich klar und gut 
+strukturiert ausdrücken und dabei verschiedene 
+Mittel zur Textverknüpfung angemessen 
+verwenden. Sie können lange und komplexe 
+Sachtexte und literarische Texte verstehen und 
+deren stilistische Merkmale wahrnehmen. Sie 
+können  sich ausführlich zu komplexen 
+Sachverhalten äußern und ihre Ansichten 
+ausführlich darstellen.   
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: Sprachkenntnisse auf dem Niveau C1.1 des 
+Europäischen Referenzrahmens GER, zu erwerben 
+z.B. durch FRA SP M01  
+b) verpflichtende Nachweise: FRA SP M01.1 für FRA SP M02.1 
+6. Verwendbarkeit des Moduls: Bachelor (Franz. Philologie: Bachelorfach, Zweites 
+Hauptfach)  
+Bachelor (Deutsch-Französische Studien) 
+Bachelor (Deutsch-Italienische Studien) 
+Lehramt Französisch an Gymnasien 
+Lehramt Französisch an Realschulen  
+Master Romanische Kulturräume (als zweite 
+romanische Sprache) 
+7. Angebotsturnus des Moduls: Die einzelnen Veranstaltungen werden jedes 
+Semester  angeboten. 
+8. Dauer des Moduls: 2 Semester 
+9. Empfohlenes Fachsemester: 2-4 (Bachelor) 
+2-4 Lehramt) 
+1-3 (Master) 
+10. Gesamtarbeitsaufwand des Moduls Arbeitsaufwand: 
+Gesamt in Stunden: 360 
+     (Workload) / Anzahl 
+davon: 
+Leistungspunkte: 
+1. Präsenzzeit: 6 SWS/ 90 Std.
+2. Selbststudium (inkl. Prüfung): 270 Std.
+Leistungspunkte: 12* 
+*Die LP für das Modul werden erst nach Bestehen
+der Modulprüfung bzw. aller Modulteilprüfungen 
+vergeben. 
+35 11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen
+Leistungen erfüllt sind: 
+12. Modulbestandteile:
+P / 
+Nr  Lehr- Themenbereich/Thema  SWS  Studienleistungen  LP 
+WP 
+form  / Std. 
+1  P  Ü  Cours de Langue Française 2  4  mündlicher Test  8 
+2  P  Ü  Traduction 2 (D-F)  2  Klausur  4 
+13. Modulprüfung
+Kompetenz /  Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr. 
+Thema  Prüfung  Bemerkungen  Modulnote 
+1  (zu Nr. 1)  Klausur  60 Min.  Ende der  100 % 
+Grammatik  Vorlesungszeit 
+14. Bemerkungen:
+36 SPA SP M 02 
+1. Name des Moduls: Basismodul Spanische Sprachpraxis 2 
+2. Fachgebiet / Verantwortlich: Romanistik (Spanisch) / Trinidad Bonachera 
+3. Inhalte des Moduls: Techniken und Strategien zur sicheren 
+Sprachbeherrschung; morphosyntaktische und 
+lexikalische Strukturen; schriftliche Texte 
+verschiedener Genres sowie mündliche Kontexte 
+und Übersetzungsübungen in die und aus der 
+Fremdsprache.  
+4. Qualifikationsziele des Moduls: Nach Abschluss des Moduls haben die teilnehmer 
+das Niveau C1.1 des Gemeinsamen Europäischen 
+Referenzrahmens für Sprachen (GER). 
+Die Teilnehmer können ein breites Spektrum 
+anspruchsvoller, längerer Texte verstehen, auch 
+wenn diese nicht klar strukturiert sind, und auch 
+implizite Bedeutungen erfassen. Sie können sich 
+spontan und fließend ausdrücken, ohne öfter 
+deutlich erkennbar nach Worten suchen zu 
+müssen. Sie können sich klar, strukturiert und 
+ausführlich zu komplexen Sachverhalten äußern 
+und dabei verschiedene Mittel zur 
+Textverknüpfung angemessen verwenden. 
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: Sprachkenntnisse auf dem Niveau B2.2 des 
+Europäischen Referenzrahmens GER, zu erwerben 
+z.B. durch SPA SP M01 
+b) verpflichtende Nachweise: SPA SP M01.1 für SPA SP M02.1 
+6. Verwendbarkeit des Moduls: Bachelor (Span. Philologie Bachelorfach, Zweites 
+Hauptfach)  
+Bachelor (Deutsch-Italienische Studien) 
+Lehramt Spanisch an Gymnasien 
+Master Romanische Kulturräume (als zweite 
+romanische Sprache) 
+7. Angebotsturnus des Moduls: Die einzelnen Veranstaltungen werden jedes Jahr 
+angeboten. 
+8. Dauer des Moduls: zwei Semester 
+9. Empfohlenes Fachsemester: 2-4  (Bachelor, Lehramt) 
+1-3  (Master) 
+10. Gesamtarbeitsaufwand des Moduls Arbeitsaufwand: 
+Gesamt in Stunden: 360 
+     (Workload) / Anzahl 
+davon: 
+Leistungspunkte: 
+1. Präsenzzeit: 6 SWS/ 90 Std.
+2. Selbststudium (inkl. Prüfung): 270 Std.
+Leistungspunkte: 12* 
+*Die LP für das Modul werden erst nach Bestehen
+der Modulprüfung bzw. aller Modulteilprüfungen 
+vergeben. 
+37 11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen
+Leistungen erfüllt sind: 
+12. Modulbestandteile:
+P / 
+Nr  Lehr- Themenbereich/Thema  SWS  Studienleistungen  LP 
+WP 
+form  / Std. 
+1  P  Ü  Curso de lengua española  2  4  mündlicher Test  8 
+2  P  Ü  Traducción 2 D-S  2  kursbegleitende schriftl.  4 
+Beiträge 
+13. Modulprüfung:
+Kompetenz /  Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr 
+Thema  Prüfung  Bemerkungen  Modulnote 
+1  (zu Nr. 2)   Klausur  90 Min.  Ende der  100 % 
+Übersetzung in die  Vorlesungszeit 
+Fremdsprache 
+14. Bemerkungen:
+38 DIS SP M 03 
+1. Name des Moduls: Aufbaumodul Französische Sprachpraxis 
+2. Fachgebiet / Verantwortlich: Romanistik (Französisch) / Emmanuelle Brun 
+3. Inhalte des Moduls: Arbeit mit verschiedenen mündlichen und 
+schriftlichen Textsorten; Grammatik;  Präsentation 
+systematisch strukturierter Vorträge, 
+Kommentieren von Medienberichten 
+4. Qualifikationsziele des Moduls: Nach Abschluss des Moduls haben die Teilnehmer 
+das Niveau C2.1 des Gemeinsamen Europäischen 
+Referenzrahmens für Sprachen (GER). 
+Die Studierenden sind in der Lage, sich in 
+verschiedenen mündlichen und schriftlichen 
+Textsorten grammatikalisch korrekt und stilistisch 
+gewandt auszudrücken und dementsprechend 
+auch anspruchsvolle Texte den Anforderungen 
+gemäß zu übersetzen. 
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: Sprachkenntnisse auf dem Niveau C1.2 des 
+Europäischen Referenzrahmens GER, zu erwerben 
+z.B. durch FRA SP M02  
+b) verpflichtende Nachweise:
+6. Verwendbarkeit des Moduls: Bachelor (Deutsch-Italienische Studien)  
+7. Angebotsturnus des Moduls: Die einzelnen Veranstaltungen werden jedes 
+Semester angeboten.  
+8. Dauer des Moduls: 2 Semester 
+9. Empfohlenes Fachsemester: 3-4 Fachsemester 
+10. Gesamtarbeitsaufwand des Moduls Arbeitsaufwand: 
+Gesamt in Stunden: 360 
+     (Workload) / Anzahl 
+davon: 
+Leistungspunkte: 
+1. Präsenzzeit: 6 SWS/ 90 Std.
+2. Selbststudium (inkl. Prüfung): 270 Std.
+Leistungspunkte: 12* 
+*Die LP für das Modul werden erst nach Bestehen
+der Modulprüfung bzw. aller Modulteilprüfungen 
+vergeben. 
+39 11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen
+Leistungen erfüllt sind: 
+12. Modulbestandteile:
+P / 
+Nr  Lehr- Themenbereich/Thema  SWS  Studienleistungen  LP 
+WP 
+form  / Std. 
+1  P  Ü  Cours de Langue Française 3  2  Präsentation  4 
+2  P  Ü  Grammaire 3  2  Klausur  4 
+3a   WP  Ü  Traduction 3 F-D  2  Klausur  4 
+3b WP  Ü  Traduction 3 D-F  2  Klausur  4 
+13. Modulprüfung
+Kompetenz /  Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr 
+Thema  Prüfung  Bemerkungen  Modulnote 
+1  (zu Nr. 1) Komplexe  Klausur  90 Min.  Ende der  100 % 
+Texte verfassen,  Vorlesungszeit 
+zusammenfassen, 
+argumentieren 
+14. Bemerkungen:
+Von den Kursen 12.3a, 12.3b muss ein Kurs gewählt werden. 
+Die Studienleistungen sind nicht verpflichtend zu absolvieren. 
+40 DIS SP M 04 
+1. Name des Moduls: Aufbaumodul Spanische Sprachpraxis 
+2. Fachgebiet / Verantwortlich: Romanistik (Spanisch) / Eduardo Verdugo-Raab 
+3. Inhalte des Moduls: Arbeit mit verschiedenen mündlichen und 
+schriftlichen Textsorten; Grammatik  
+4. Qualifikationsziele des Moduls: Nach Abschluss des Moduls haben die 
+Studierenden das Niveau C1.2 des Gemeinsamen 
+Europäischen Referenzrahmens für Sprachen 
+(GER). 
+Die Studierenden können sich schriftlich klar und 
+gut strukturiert ausdrücken und dabei 
+verschiedene Mittel zur Textverknüpfung 
+angemessen verwenden. Sie können lange und 
+komplexe Sachtexte und literarische Texte 
+verstehen und deren stilistische Merkmale 
+wahrnehmen. Sie können sich ausführlich zu 
+komplexen Sachverhalten äußern und ihre 
+Ansichten ausführlich darstellen. 
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: Sprachkenntnisse auf dem Niveau C1.1 des 
+Europäischen Referenzrahmens GER, zu erwerben 
+z.B. durch SPA SP M02 
+b) verpflichtende Nachweise: keine 
+6. Verwendbarkeit des Moduls: Bachelor (Deutsch-Italienische Studien)  
+7. Angebotsturnus des Moduls: Die einzelnen Veranstaltungen werden jedes Jahr 
+angeboten. 
+8. Dauer des Moduls: 2 Semester 
+9. Empfohlenes Fachsemester: 3-4 Fachsemester 
+10. Gesamtarbeitsaufwand des Moduls Arbeitsaufwand: 
+Gesamt in Stunden: 360 
+     (Workload) / Anzahl 
+davon: 
+Leistungspunkte: 
+1. Präsenzzeit: 6 SWS/ 90 Std.
+2. Selbststudium (inkl. Prüfung): 270 Std.
+Leistungspunkte: 12* 
+*Die LP für das Modul werden erst nach Bestehen
+der Modulprüfung bzw. aller Modulteilprüfungen 
+vergeben. 
+41 11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen
+Leistungen erfüllt sind: 
+12. Modulbestandteile:
+P / 
+Nr  Lehr- Themenbereich/Thema  SWS  Studienleistungen  LP 
+WP 
+form  / Std. 
+1  P  Ü  Producción de textos 1  2  4 
+2a   WP  Ü  Curso de lengua española 3  2  Präsentation  4 
+2b  WP  Ü  Traducción 3 D-S  2  kursbegleitende  4 
+Übersetzungen 
+2c  WP  Ü  Traducción 3 S-D  2  kursbegleitende  4 
+Übersetzungen 
+13. Modulprüfung
+Kompetenz /  Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr 
+Thema  Prüfung  Bemerkungen  Modulnote 
+1  (zu Nr. 1)  Klausur  90 Min.  Ende der  100 % 
+Anwendung  Vorlesungszeit 
+morphosyntak-
+tischer Strukturen 
+und situationsange-
+passter Sprache, 
+schriftlicher 
+Ausdruck 
+14. Bemerkungen:
+Von den Kursen 12.2a, 12.2b, 12.2c müssen zwei Kurse gewählt werden. 
+Die Studienleistungen sind nicht verpflichtend zu absolvieren. 
+42 IKE SWP M 03 
+ 
+1. Name des Moduls:  Schwerpunktmodul Politikwissenschaft/Geschichte 
+2. Fachgebiet / Verantwortlich:  Romanistik / PD Dr. Hubert Pöppel 
+3. Inhalte des Moduls:  Vertiefung der Kenntnisse in den 
+Gesellschaftswissenschaften unter dem Aspekt des 
+internationalen Kulturkontaktes durch intensive 
+Beschäftigung mit ausgewählten Themen aus der 
+(Kultur-) Geschichte und/oder Politikwissenschaft. 
+Aufgrund des großen Auswahlangebots ständig 
+wechselnde Inhalte je nach Fachrichtung und 
+Veranstaltungsart (vgl. jeweiliges kommentiertes 
+Vorlesungsverzeichnis). 
+4. Qualifikationsziele des Moduls / zu  Weiterführende Kenntnisse politik- und/oder 
+erwerbende Kompetenzen:  (kultur-) geschichtlicher Theorien, Modelle und 
+Fragestellungen, die sich für den internationalen 
+Kulturkontakt als relevant erweisen können; 
+Befähigung zur Bearbeitung wissenschaftlicher 
+Fragestellungen aus mindestens einer anderen 
+Fachperspektive und / oder Erfahrung mit 
+praktischen Herangehensweisen und 
+Arbeitstechniken anderer 
+Wissenschaftsdisziplinen. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  Grundkenntnisse in den 
+Gesellschaftswissenschaften 
+b) verpflichtende Nachweise:  keine 
+6. Verwendbarkeit des Moduls:  Bachelor (Deutsch-Italienische Studien) 
+Master Interkulturelle Europastudien 
+7. Angebotsturnus des Moduls:  Jedes Semester 
+8. Das Modul kann absolviert werden  1 Semester 
+in:   
+9. Empfohlenes Fachsemester:  1-2 
+10. Gesamtarbeitsaufwand des Moduls  Arbeitsaufwand: 
+Gesamt in Stunden: 360 
+     (Workload) / Anzahl 
+davon: 
+Leistungspunkte: 
+Präsenzzeit: Std. 60/4 SWS 
+Selbststudium: Std. 240 
+Prüfung (inkl. Vorbereitung): Std. 60 
+ 
+Leistungspunkte: 12*  
+*Die LP für das Modul werden erst nach Bestehen 
+der Modulprüfung bzw. aller Modulteilprüfungen 
+vergeben. 
+ 
+ 
+ 
+ 
+ 
+43 
+  
+ 
+ 
+ 
+ 
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen 
+Leistungen erfüllt sind:   
+ 
+12. Modulbestandteile: 
+P / 
+Nr  Lehr- Themenbereich/Thema  SWS  Studienleistungen  LP 
+WP 
+form  / Std. 
+1  P  VL  Geschichte / Kulturgeschichte /  2  Gemäß den  6 
+ODER  Politikwissenschaft  Angaben in der 
+HS    Lehrveranstaltung  
+2  P  VL  Geschichte / Kulturgeschichte /  2  Gemäß den  6 
+ODER  Politikwissenschaft  Angaben in der 
+HS    Lehrveranstaltung 
+ 
+13. Modulprüfung: 
+Kompetenz / Thema  Art der  Dauer  Zeitpunkt  Anteil an Modulnote 
+  Prüfung 
+Vertiefung der  Klausur oder  Gemäß den  Je nach  100% 
+gesellschaftswissen- Hausarbeit in  Angaben  in  gewählter 
+schaftlichen  1 oder 2  der  Veranstaltung 
+Kenntnisse  Veranstaltung 
+14. Bemerkungen: Es sind insgesamt 2 Lehrveranstaltungen zu belegen. Eine Auswahl der 
+thematisch relevanten und belegbaren Lehrveranstaltungen wird vor Semesterbeginn 
+angeboten. Die Studienleistung in einer dieser Lehrveranstaltungen stellt gleichzeitig die 
+Modulprüfung dar. 
+44 
+ DIS WIWI M01 
+ 
+1. Name des Moduls:  Grundlagen Makroökonomie 
+2. Fachgebiet / Verantwortlich:  Fakultät für Wirtschaftswissenschaften/ 
+Prof. Dr. Lutz Arnold 
+3. Inhalte des Moduls:  Grundlegende makroökonomische Fakten und 
+Theorien 
+    - Messung wichtiger gesamtwirtschaftlicher Größen 
+wie Bruttoinlandsprodukt und Inflation 
+    - Wirtschaftswachstum 
+    - Beschäftigung und Arbeitslosigkeit 
+    - Inflation 
+    - Konjunkturschwankungen 
+    - konjunkturelle Arbeitslosigkeit 
+    - aggregierte Nachfrage 
+    - Geld- und Fiskalpolitik 
+    - Leistungsbilanz 
+    - Internationaler Konjunkturzusammenhang 
+    - Festkurssysteme 
+4. Qualifikationsziele des Moduls:  Die Studierenden werden mit zentralen 
+makroökonomischen Fakten und Institutionen vertraut 
+gemacht. 
+Sie lernen, wie sich gesamtwirtschaftliche Aggregate 
+wie das Bruttoinlandsprodukt und die Inflationsrate im 
+wechselseitigen Zusammenspiel bestimmen und wie 
+wirtschaftspolitische Maßnahmen, wie die Zentralbank 
+mit ihrer Geldpolitik sowie die öffentliche Hand mit 
+ihrer Haushaltspolitik, darauf einwirken. 
+So erwerben sie die Voraussetzungen dafür, aktuelle 
+makroökonomische Entwicklungen inhaltlich 
+eigenständig einzuordnen und zu analysieren sowie 
+die Wirkungen wirtschaftspolitischer Maßnahmen, 
+unter Berücksichtigung der internationalen Rück- und 
+Wechselwirkungen, abzuschätzen. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  keine 
+b) verpflichtende Nachweise:  keine 
+6. Verwendbarkeit des Moduls:  Bachelor (Deutsch-Italienische Studien)   
+7. Angebotsturnus des Moduls:  einmal im Studienjahr 
+8. Dauer des Moduls:  2 Semester 
+9. Empfohlenes Fachsemester:  1-2 
+45 
+ 10. Gesamtarbeitsaufwand des  Arbeitsaufwand:  
+Moduls  Gesamt in Stunden: 360  
+davon:  
+     (Workload) / Anzahl 
+Präsenzzeit: Std. 120/8 SWS 
+Leistungspunkte: 
+Selbststudium inkl. Prüfung: Std. 240 
+Leistungspunkte: 12* 
+ 
+*Die LP für das Modul werden erst nach Bestehen der 
+Modulprüfung bzw. aller Modulteilprüfungen 
+vergeben. 
+ 
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind:   
+ 
+12. Modulbestandteile: 
+Lehr
+Nr P /  SWS / 
+- Themenbereich/Thema  Studienleistungen  LP 
+.  WP  Std. 
+form 
+1  P  VL/Ü  Makroökonomik I mit Übung  4  aktive Teilnahme*; Klausur  6 
+2  P  VL/Ü  Makroökonomik II mit Übung  4  aktive Teilnahme*; Klausur  6 
+ 
+13. Modulprüfung 
+Art der  Zeitpunkt /  Anteil an 
+Nr.  Kompetenz / Thema  Dauer 
+Prüfung  Bemerkungen  Modulnote 
+1  (zu Nr. 1 oder 2)  Klausur  Gemäß den  Gemäß den  100% 
+Kenntnisse in  Angaben in der  Angaben in der 
+Makroökonomie  Vorlesung/  Vorlesung/ 
+Seminars  Seminars 
+14. Bemerkungen:  
+Die einzelnen Modulbestandteile bauen aufeinander auf und müssen in der dargestellten 
+Reihenfolge absolviert werden. Zu jeder der Vorlesungen ist die Begleitübung zu belegen. 
+ 
+Die Klausur in einer der beiden Vorlesungen stellt gleichzeitig die Modulprüfung dar. 
+ 
+*Beteiligung der Studierenden an Inhalten und Ablauf der Veranstaltung. 
+46 
+ DIS WIWI M02 
+ 
+1. Name des Moduls:  Grundlagen Mikroökonomie 
+2. Fachgebiet / Verantwortlich:  Fakultät für Wirtschaftswissenschaften/ 
+Prof. Dr. Lutz Arnold 
+3. Inhalte des Moduls:  Grundlagen der Mikroökonomie, insbesondere ein 
+Verständnis für die Entscheidungsfindungsprozesse von 
+Individuen und Unternehmen und deren Interaktion auf 
+Märkten (grundlegende Begriffe, Modellierung, 
+Analysetechniken) 
+Theorie individueller Entscheidungen (Grundlegen- des 
+Verhaltensmodell, Anwendungen auf Konsum- 
+entscheidungen, Arbeitsangebot, Sparen, 
+Entscheidungen bei Risiko) 
+Gleichgewichtstheorie (Hauptsätze der Wohlfahrts- 
+ökonomik, Adverse Selektion, Handel) 
+Theorie der Unternehmung (Produktions- und 
+Kostentheorie, Prinzipal-Agenten-Beziehungen, 
+Outsourcing versus Eigenproduktion) 
+4. Qualifikationsziele des Moduls:  Nach Abschluss des Moduls können die Studierenden 
+die grundlegenden mikroökonomischen Methoden zur 
+Analyse der Entscheidungsfindungsprozesse von 
+Individuen und Unternehmen benennen und aufzeigen, 
+wie diese zur Analyse eingesetzt werden können. 
+Darüber hinaus sind die Studierenden nach Abschluss 
+des Moduls in der Lage in Abhängigkeit der 
+betrachteten ökonomischen Rahmenbedingungen, 
+Vorhersagen über das Verhalten von Individuen und 
+Unternehmen zu machen, und die einzel- und 
+gesamtwirtschaftliche Effizienz dieser Entscheidungen 
+zu beleuchten. Die Studierenden können die erlernten 
+Techniken auf aktuelle Fragestellungen anwenden. Im 
+Weiteren weisen die Studierenden nach Abschluss des 
+Moduls durch ihre Teilnahme an den Fallstudien zur 
+experimentellen Wirtschaftsforschung nach, dass sie die 
+erarbeiteten methodischen Kenntnisse erfolgreich 
+anwenden können. Die Übung vertieft die Inhalte der 
+Vorlesung an Beispielen. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  Grundlagen der Differential- und Integralrechnung 
+b) verpflichtende Nachweise:  keine 
+6. Verwendbarkeit des Moduls:  Bachelor (Deutsch-Italienische Studien)   
+7. Angebotsturnus des Moduls:  einmal im Studienjahr 
+8. Dauer des Moduls:  2 Semester 
+9. Empfohlenes Fachsemester:  1-2 
+47 
+ 10. Gesamtarbeitsaufwand des  Arbeitsaufwand:  
+Moduls  Gesamt in Stunden: 360  
+davon:  
+     (Workload) / Anzahl 
+Präsenzzeit: Std. 120/8 SWS 
+Leistungspunkte: 
+Selbststudium inkl. Prüfung: Std. 240 
+ 
+Leistungspunkte: 12* 
+*Die LP für das Modul werden erst nach Bestehen der 
+Modulprüfung bzw. aller Modulteilprüfungen vergeben. 
+ 
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind:   
+ 
+12. Modulbestandteile: 
+Lehr
+Nr P /  SWS / 
+- Themenbereich/Thema  Studienleistungen  LP 
+.  WP  Std. 
+form 
+1  P  VL/Ü  Mikroökonomik I mit Übung  4  aktive Teilnahme*; Klausur  6 
+2  P  VL/Ü  Mikroökonomik II mit Übung  4  aktive Teilnahme*; Klausur  6 
+ 
+13. Modulprüfung 
+Art der  Zeitpunkt /  Anteil an 
+Nr.  Kompetenz / Thema  Dauer 
+Prüfung  Bemerkungen  Modulnote 
+1  (zu Nr. 1 oder 2)  Klausur  Gemäß den  Gemäß den  100% 
+Kenntnisse in  Angaben in der  Angaben in der 
+Mikroökonomie  Vorlesung/  Vorlesung/ 
+Seminars  Seminars 
+14. Bemerkungen:  
+Die einzelnen Modulbestandteile bauen aufeinander auf und müssen in der dargestellten 
+Reihenfolge absolviert werden. Zu jeder der Vorlesungen ist die Begleitübung zu belegen. 
+ 
+Die Klausur in einer der beiden Vorlesungen stellt gleichzeitig die Modulprüfung dar. 
+ 
+* Beteiligung der Studierenden an Inhalten und Ablauf der Veranstaltung. 
+ 
+ 
+ 
+ 
+   
+48 
+ DIS WIWI M03 
+ 
+1. Name des Moduls:  Weiterführende Makroökonomie 
+2. Fachgebiet / Verantwortlich:  Fakultät für Wirtschaftswissenschaften/ 
+Prof. Dr. Lutz Arnold 
+3. Inhalte des Moduls:  Theorien und Methoden der Internationalen 
+Volkswirtschaftslehre in den Teilbereichen 
+Wachstumstheorie, Geldtheorie und Geldpolitik. 
+Auf Wunsch Spezialisierung auf die 
+Wirtschaftsbeziehungen zu den MOE  
+4. Qualifikationsziele des Moduls:  Spezialisierte Kenntnisse in der Makroökonomie. 
+Deskription in verbalen, grafischen und 
+algebraischen Modellen, Analyse, Prognose, daraus 
+folgend: Handlungsempfehlungen für Politik und 
+auch in Unternehmen. 
+Je nach Wahl: Zusatzkompetenz in 
+Wirtschaftsbeziehungen zu den Ländern Mittel- und 
+Osteuropas. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  keine 
+b) verpflichtende Nachweise:  DIS WIWI M01 Grundlagen Makroökonomie oder 
+äquivalente Kenntnisse aus dem Vorstudium. 
+6. Verwendbarkeit des Moduls:  Bachelor (Deutsch-Italienische Studien)   
+7. Angebotsturnus des Moduls:  einmal im Studienjahr 
+8. Dauer des Moduls:  1-2 Semester 
+9. Empfohlenes Fachsemester:  1-2 
+10. Gesamtarbeitsaufwand des Moduls  Arbeitsaufwand:  
+Gesamt in Stunden: 360  
+     (Workload) / Anzahl Leistungspunkte: 
+ 
+davon:  
+Präsenzzeit: Std. 120/8 SWS, Std. 90/6 SWS oder 
+Std. 60/4 SWS 
+Selbststudium inkl. Prüfung: Std. 240, Std. 270 oder 
+Std. 300 
+(je nach Belegung von Vorlesungen oder 
+Seminaren) 
+ 
+Leistungspunkte: 12*  
+ 
+*Die LP für das Modul werden erst nach Bestehen 
+der Modulprüfung bzw. aller Modulteilprüfungen 
+vergeben.  
+ 
+ 
+ 
+   
+49 
+  
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind:   
+ 
+12. Modulbestandteile: 
+P /  Lehr- SWS / 
+Nr.  Themenbereich/Thema  Studienleistungen  LP 
+WP  form  Std. 
+1  WP  VL  Economic Growth  4  aktive Teilnahme*; Klausur  6 
+2  WP  VL  Monetary Theory and Policy  4  aktive Teilnahme*; Klausur  6 
+3  WP  VL  Wirtschaftspolitische  4  aktive Teilnahme*; Klausur  6 
+Institutionen der Mittel- und 
+Osteuropäischen Staaten 
+4  WP  VL  International Finance  4  aktive Teilnahme*; Klausur  6 
+5  WP  VL  Labour Economics  4  aktive Teilnahme*; Klausur  6 
+6  WP  S  Seminar zu aktuellen Fragen der  2  aktive Teilnahme*; Klausur  6 
+Geldpolitik 
+7  WP  S  Seminar zur Wirtschaft der  2  aktive Teilnahme*; Klausur  6 
+Mittel- und Osteuropäischen 
+Staaten 
+ 
+13. Modulprüfung 
+Art der  Zeitpunkt /  Anteil an 
+Nr.  Kompetenz / Thema  Dauer 
+Prüfung  Bemerkungen  Modulnote 
+1  (zu Nr. 1, 2, 3, 4, 5,  Klausur  Gemäß den  Gemäß den  100% 
+6 oder 7) Vertiefte    Angaben in der  Angaben in der 
+Kenntnisse in der  Vorlesung/  Vorlesung/ 
+Makroökonomie  Seminars  Seminars 
+14. Bemerkungen:  
+Es sind 2 der 7 Vorlesungen / Seminare zu belegen.  
+Die Klausur in einer der Vorlesungen / Seminare stellt gleichzeitig die Modulprüfung dar. 
+ 
+* Beteiligung der Studierenden an Inhalten und Ablauf der Veranstaltung. 
+ 
+ 
+ 
+   
+50 
+ DIS WIWI M04 
+ 
+1. Name des Moduls:  Weiterführende Mikroökonomie 
+2. Fachgebiet / Verantwortlich:  Fakultät für Wirtschaftswissenschaft/  
+Prof. Dr. Lutz Arnold 
+3. Inhalte des Moduls:  Theorien und Methoden der Internationalen 
+Volkswirtschaftslehre in den Teilbereichen 
+Außenhandelstheorie und –politik, Europäische 
+Wirtschaft und/oder International Finance. 
+Auf Wunsch Spezialisierung auf die 
+Wirtschaftsbeziehungen zu den MOE. 
+4. Qualifikationsziele des Moduls:  Spezialisierte Kenntnisse in der Mikroökonomie, 
+insbesondere Kenntnisse der Abläufe und des 
+Funktionierens länderübergreifender Märkte 
+(Außenhandel mit Gütern und Dienstleistungen 
+sowie internationale Finanzmärkte). Deskription in 
+verbalen, grafischen und algebraischen Modellen, 
+Analyse, Prognose, daraus folgend: 
+Handlungsempfehlungen für Politik und auch im 
+Unternehmen. 
+Je nach Wahl: Zusatzkompetenz in 
+Wirtschaftsbeziehungen zu den Ländern Mittel- und 
+Osteuropas. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  keine 
+b) verpflichtende Nachweise:  DIS WIWI M02 Grundlagen Mikroökonomie oder 
+äquivalente Kenntnisse aus dem Vorstudium. 
+6. Verwendbarkeit des Moduls:  Bachelor (Deutsch-Italienische Studien)   
+7. Angebotsturnus des Moduls:  einmal im Studienjahr 
+8. Dauer des Moduls:  1-2 Semester 
+9. Empfohlenes Fachsemester:  1-2 
+10. Gesamtarbeitsaufwand des Moduls  Arbeitsaufwand:  
+Gesamt in Stunden: 360  
+     (Workload) / Anzahl Leistungspunkte: 
+ 
+davon:  
+Präsenzzeit: Std. 120/8 SWS, Std. 90/6 SWS oder 
+Std. 60/4 SWS 
+Selbststudium inkl. Prüfung: Std. 240, Std. 270 oder 
+Std. 300 
+(je nach Belegung von Vorlesungen oder 
+Seminaren) 
+ 
+Leistungspunkte: 12*  
+ 
+*Die LP für das Modul werden erst nach Bestehen 
+der Modulprüfung bzw. aller Modulteilprüfungen 
+vergeben.  
+ 
+   
+51 
+  
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind:   
+ 
+12. Modulbestandteile: 
+P /  Lehr- SWS / 
+Nr.  Themenbereich/Thema  Studienleistungen  LP 
+WP  form  Std. 
+1  WP  VL  Außenhandelstheorie und -politik  4  aktive Teilnahme*; Klausur  6 
+2  WP  VL  Behavioural Economics  4  aktive Teilnahme*; Klausur  6 
+3  WP  VL  Europäische Wirtschaft  4  aktive Teilnahme*; Klausur  6 
+4  WP  VL  Finanzwissenschaft  4  aktive Teilnahme*; Klausur  6 
+5  WP  VL  Industrial Organization  4  aktive Teilnahme*; Klausur  6 
+6  WP  VL  Kapitalmarkttheorie  4  aktive Teilnahme*; Klausur  6 
+7  WP  VL  Mikroökonomie III  4  aktive Teilnahme*; Klausur  6 
+8  WP  VL  Regionalökonomie  4  aktive Teilnahme*; Klausur  6 
+9  WP  VL  The German Economy  4  aktive Teilnahme*; Klausur  6 
+10  WP  VL  Theory of East-West Trade  4  aktive Teilnahme*; Klausur  6 
+11  WP  VL  Umweltökonomie  4  aktive Teilnahme*; Klausur  6 
+12  WP  S  Seminar zur Mikroökonomik  2  aktive Teilnahme*; Klausur  6 
+13  WP  S  Seminar zur Wirtschaft der Mittel-  2  aktive Teilnahme*; Klausur  6 
+und Osteuropäischen Staaten 
+ 
+13. Modulprüfung 
+Art der  Zeitpunkt /  Anteil an 
+Nr.  Kompetenz / Thema  Dauer 
+Prüfung  Bemerkungen  Modulnote 
+1  (zu Nr. 1 bis 13)  Klausur  Gemäß den  Gemäß den  100% 
+Vertiefte Kenntnisse    Angaben in der  Angaben in der 
+in der  Vorlesung/  Vorlesung/ 
+Makroökonomie  Seminars  Seminars 
+14. Bemerkungen:  
+Es sind 2 der 13 Vorlesungen / Seminare zu belegen.  
+Die Klausur in einer der Vorlesungen / Seminare stellt gleichzeitig die Modulprüfung dar. 
+ 
+* Beteiligung der Studierenden an Inhalten und Ablauf der Veranstaltung. 
+ 
+ 
+ 
+   
+52 
+ AVS M01 
+ 
+1. Name des Moduls:  Basismodul I Grundlagen und Methoden der AVS 
+2. Fachgebiet / Verantwortlich:  Allgemeine und Vergleichende Sprachwissenschaft/ 
+Prof. Dr. Johannes Helmbrecht 
+3. Inhalte des Moduls:  a) Überblick über die Grundbegriffe, Gegenstände 
+und Teildisziplinen der Sprachwissenschaft; 
+b) Einführung in die Lautlehre; 
+c) Anleitung zum wissenschaftlichen Arbeiten in der 
+Linguistik 
+4. Qualifikationsziele des Moduls / zu  Die Studierenden werden in diesem Basismodul 
+erwerbende Kompetenzen:  vertraut gemacht mit den Grundbegriffen und 
+Gegenständen der Sprachwissenschaft im 
+Allgemeinen und ihren Teildisziplinen, sowie mit 
+den Grundbegriffen und wichtigsten 
+Analyseverfahren der AVS im Bereich der Phonetik 
+und Phonologie. Darüber hinaus werden die 
+Studierenden eingeführt in die Methoden des 
+wissenschaftlichen Arbeitens in der 
+Sprachwissenschaft. Nach Absolvierung des Moduls 
+hat der Studierende einen profunden Überblick 
+über die wichtigsten Forschungsfelder und die 
+Konzepte der Sprachwissenschaft und ist in der 
+Lage, Laute und Lautsysteme einer beliebigen 
+natürlichen Sprache zu analysieren und 
+entsprechend den Standards der modernen 
+Linguistik zu beschreiben. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  keine 
+b) verpflichtende Nachweise:  keine 
+6. Verwendbarkeit des Moduls:  BA AVS Hauptfach  
+BA AVS Nebenfach 
+Bachelor (Deutsch-Italienische Studien) 
+7. Angebotsturnus des Moduls:  einmal pro Studienjahr 
+8. Das Modul kann absolviert werden in: 2 Semester 
+9. Empfohlenes Fachsemester:  1 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+(Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: 300 Std 
+davon: 
+Präsenzzeit: 75 Std. 
+Selbststudium: 175 Std. 
+Prüfung (inkl. Vorbereitung): 50 Std. 
+Leistungspunkte: 12 
+53 
+   
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind:  
+ 
+12. Modulbestandteile:             
+Nr  P /  Lehr-  Themenbereich/Thema  SWS /  Studienleistungen  LP 
+WP  form  Std. 
+1  P  PS  Einführung in die  2  Aktive Teilnahme,  5 
+Sprachwissenschaft  Referat 
+2  P  PS  Phonetik und Phonologie  2  Aktive Teilnahme,  5 
+Analyseaufgaben 
+3  P  S  Anleitung zum wiss. Arbeiten  1  Aktive Teilnahme,  2 
+Rechercheaufgaben, 
+Hausarbeit 
+ 
+13. Modulprüfung             
+Kompetenz / Thema  Art der  Dauer  Zeitpunkt  Anteil an 
+Prüfung  Modulnote 
+1  Einführung in die  Klausur  Siehe kommentiertes Semesterende  50% 
+Sprachwissenschaft  Vorlesungsverzeichni
+s 
+2  Phonetik und  Klausur  Siehe kommentiertes Semesterende  50% 
+Phonologie  Vorlesungsverzeichni
+s 
+14. Bemerkungen: 
+54 
+  
+AVS M02 
+ 
+   
+1. Name des Moduls:  Basismodul II Grundlagen und Methoden der AVS 
+2. Fachgebiet / Verantwortlich:  Allgemeine und Vergleichende Sprachwissenschaft/ 
+Prof. Dr. Johannes Helmbrecht 
+3. Inhalte des Moduls:  Einführung in die vier Kernbereiche der 
+Sprachwissenschaft: 
+a) Morphologie und Syntax; 
+b) Semantik und Pragmatik 
+4. Qualifikationsziele des Moduls / zu  Die Studierenden werden in diesem zweiten 
+erwerbende Kompetenzen:  Basismodul vertraut gemacht mit den wichtigsten 
+Grundbegriffen der strukturalen und funktionalen 
+Grammatik (Morphologie und Syntax) und sind 
+nach Absolvierung desselben in der Lage 
+morphologische Strukturen und syntaktische 
+Konstruktionen in beliebigen Sprachen in 
+struktureller und funktionaler Perspektive zu 
+analysieren und zu beschreiben. Die Studierenden 
+werden in diesem Basismodul darüber hinaus 
+vertraut gemacht mit den Grundbegriffen und den 
+wichtigsten Analyseverfahren der AVS in den 
+Bereichen Semantik und Pragmatik. 
+Nach Abschluss des Moduls ist der Studierende in 
+der Lage, Bedeutungsanalysen selbständig mit den 
+Instrumentarien der modernen Semantik und 
+Pragmatik auf der lexikalischen und grammatischen 
+Ebene sowie auf Diskursebene durchzuführen. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  keine 
+b) verpflichtende Nachweise:  keine 
+6. Verwendbarkeit des Moduls:  BA AVS Hauptfach  
+BA AVS Nebenfach 
+Bachelor (Deutsch-Italienische Studien) 
+7. Angebotsturnus des Moduls:  einmal pro Studienjahr 
+8. Das Modul kann absolviert werden in:  2 Semester 
+9. Empfohlenes Fachsemester:  2 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+(Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: 350 Std 
+davon: 
+Präsenzzeit: 90 Std. 
+Selbststudium: 200 Std. 
+Prüfung (inkl. Vorbereitung): 60 Std.  55 
+  Leistungspunkte: 14 bis 16  
+ 
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile:             
+Nr  P /  Lehr-  Themenbereich/Thema  SWS /  Studienleistungen  LP 
+WP  form  Std. 
+1  P  PS  Morphologie und Syntax  2  Aktive Teilnahme,   5 
+Analyseaufgaben  
+2  P  PS  Semantik und Pragmatik  2  Aktive Teilnahme,   5 
+Analyseaufgaben 
+3  P  Ü,PS,S  Lehrveranstaltung zu den  2  Siehe kommentiertes   
+Themen Morphologie, Syntax,  Vorlesungsverzeichnis 
+Semantik und Pragmatik 
+ 
+13. Modulprüfung             
+Kompetenz / Thema  Art der Prüfung Dauer  Zeitpunkt  Anteil an 
+Modulnote 
+1  Morphologie und  Klausur  Siehe kommentiertes  Semesterende  33,3% 
+Syntax  Vorlesungsverzeichnis 
+2  Semantik und  Klausur  Siehe kommentiertes  Semesterende  33,3% 
+Pragmatik  Vorlesungsverzeichnis  
+3  Ü,PS,S zu den Themen Klausur  Siehe kommentiertes  Siehe  33,3% 
+Morphologie, Syntax,    Vorlesungsverzeichnis  Vorlesungs-
+Semantik und  verzeichnis 
+Pragmatik 
+14. Bemerkungen: 
+56 
+  
+Grundlagen der modernen Rechtsordnung 
+ 
+1. Name des Moduls:  Basismodul Grundlagen der modernen 
+Rechtsordnung I 
+2. Fachgebiet / Verantwortlich:   
+3. Inhalte des Moduls:  Im Basismodul wird ein Überblick über 
+grundlegende rechtshistorische und 
+rechtsphilosophische Entwicklungen unseres 
+heutigen Rechtssystems gegeben. Das 
+Vermittlungsinteresse ist dabei stets auf die Rolle 
+des Rechts in einem bestimmten Gemeinwesen 
+gerichtet. Philosophische und geschichtliche 
+Fundierungen des Privat- und Strafrechts kommen 
+ebenso zur Sprache wie die Ausbildung des 
+Öffentlichen Rechts. 
+4. Qualifikationsziele des Moduls:   
+5. Teilnahmevoraussetzungen:  Keine 
+a) empfohlene Kenntnisse:  Keine 
+b) verpflichtende Nachweise:  Keine 
+6. Verwendbarkeit des Moduls:  Bachelor (Deutsch-Italienische Studien) 
+7. Angebotsturnus des Moduls:  Fortlaufende Veranstaltungen, Beginn ganzjährig 
+möglich  
+8. Dauer des Moduls:  zwei Semester  
+9. Empfohlenes Fachsemester:   
+10. Gesamtarbeitsaufwand des Moduls  Arbeitsaufwand: 
+Gesamt in Stunden: 360  
+     (Workload) / Anzahl 
+davon: 
+Leistungspunkte: 
+1. Präsenzzeit: 6 SWS/ 90 Std. 
+2. Selbststudium (inkl. Prüfung): 270 Std.  
+ 
+Leistungspunkte: 12*  
+*Die LP für das Modul werden erst nach Bestehen 
+der Modulprüfung bzw. aller Modulteilprüfungen 
+vergeben. 
+ 
+   
+57 
+  
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen 
+Leistungen erfüllt sind:   
+ 
+12. Modulbestandteile: 
+P / 
+Nr  Lehr- Themenbereich/Thema  SWS  Studienleistungen  LP 
+WP 
+form  / Std. 
+1  P  V  Rechtsgeschichte I (WS)  2  Leistungsnachweis  5 
+2  P  V  Rechtsphilosophie   2  Hausarbeit   5 
+3  P  V,S,Ü  Eine weitere Veranstaltung  2    2 
+ 
+ 
+13. Modulprüfung 
+Kompetenz /  Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr. 
+Thema  Prüfung  Bemerkungen  Modulnote 
+1   zu 1.)   mündliche  15 - 45 Minuten  Ende der  50 % 
+Prüfung    Vorlesungszeit 
+oder Klausur  30 - 120 
+  Minuten  
+1  zu 2.)  mündliche  15 - 45 Minuten  Ende der  50 % 
+Prüfung    Vorlesungszeit 
+oder Klausur  30 - 120 
+  Minuten  
+14. Bemerkungen: 
+Wiederholbarkeit: Jede nicht bestandene Prüfungsleistung einmal   
+ 
+ 
+ 
+ 
+ 
+   
+58 
+  
+ 
+ 
+Zivilrecht 
+ 
+1. Name des Moduls:  Basismodul Einführung in das Zivilrecht 
+2. Fachgebiet / Verantwortlich:    
+3. Inhalte des Moduls:  Kennenlernen von Grundlagen des Privatrechts, 
+insbesondere Rechtsgeschäftslehre und 
+Vertragsrecht, sowie der juristischen Denk- und 
+Arbeitsweise. 
+4. Qualifikationsziele des Moduls:   
+5. Teilnahmevoraussetzungen:  Keine 
+a) empfohlene Kenntnisse:  Keine 
+b) verpflichtende Nachweise:  Keine 
+6. Verwendbarkeit des Moduls:  Bachelor (Deutsch-Italienische Studien) 
+7. Angebotsturnus des Moduls:  Fortlaufende Veranstaltungen, Beginn zum 
+Wintersemester  
+8. Dauer des Moduls:  zwei Semester  
+9. Empfohlenes Fachsemester:   
+10. Gesamtarbeitsaufwand des Moduls  Arbeitsaufwand: 
+Gesamt in Stunden: 420 
+     (Workload) / Anzahl 
+davon: 
+Leistungspunkte: 
+1. Präsenzzeit: 8 SWS/ 120 Std. 
+2. Selbststudium (inkl. Prüfung): 300 Std.  
+ 
+Leistungspunkte: 14*  
+*Die LP für das Modul werden erst nach Bestehen 
+der Modulprüfung bzw. aller Modulteilprüfungen 
+vergeben. 
+ 
+   
+59 
+  
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen 
+Leistungen erfüllt sind:   
+ 
+12. Modulbestandteile: 
+P / 
+Nr  Lehr- Themenbereich/Thema  SWS  Studienleistungen  LP 
+WP 
+form  / Std. 
+1  P  V  Einführung in das Privatrecht  4     
+(WS) 
+2  P  Ü  Übung zur Einführung in das  2     
+Privatrecht  
+3  P  Ü  Methodenlehre mit  2  regelmäßige Teilnahme   
+Konversationsübung 
+ 
+ 
+13. Modulprüfung 
+Kompetenz /  Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr. 
+Thema  Prüfung  Bemerkungen  Modulnote 
+1   zu 1.)   Klausur  30 -120  Ende der  100 % 
+  Minuten   Vorlesungszeit 
+14. Bemerkungen: 
+Wiederholbarkeit: Jede nicht bestandene Prüfungsleistung einmal   
+Die Anmeldung erfolgt innerhalb der Frist, die die Fakultät für Wirtschaftswissenschaften festlegt, 
+über das Prüfungsamt des jeweiligen BA.-Hauptfaches 
+ 
+ 
+   
+60 
+  
+ 
+Öffentliches Recht  
+ 
+1. Name des Moduls:  Einführung in das öffentliche Recht  
+2. Fachgebiet / Verantwortlich:   
+3. Inhalte des Moduls:  Das Modul hat das Verfassungsrecht der 
+Bundesrepublik Deutschland mit seinen 
+europäischen Bezügen zum Gegenstand. Neben 
+den Grundrechten werden Verfassungsorgane wie 
+Bundestag und Bundesverfassungsgericht, 
+Verfassungsfunktionen wie die Gesetzgebung 
+sowie Verfassungsprinzipien wie Demokratie und 
+Rechtsstaat behandelt. Das Modul bildet die 
+Grundlage für das Studium des Öffentlichen 
+Rechts. 
+4. Qualifikationsziele des Moduls:   
+5. Teilnahmevoraussetzungen:  Keine 
+a) empfohlene Kenntnisse:  Keine 
+b) verpflichtende Nachweise:  Keine 
+6. Verwendbarkeit des Moduls:  Bachelor (Deutsch-Italienische Studien) 
+7. Angebotsturnus des Moduls:  Fortlaufende Veranstaltungen, Beginn ganzjährig 
+möglich  
+8. Dauer des Moduls:  zwei Semester  
+9. Empfohlenes Fachsemester:   
+10. Gesamtarbeitsaufwand des Moduls  Arbeitsaufwand: 
+Gesamt in Stunden: 600 Std. 
+     (Workload) / Anzahl 
+davon: 
+Leistungspunkte: 
+1. Präsenzzeit: 11 SWS/ 165 Std. 
+2. Selbststudium (inkl. Prüfung): 435 Std.  
+ 
+Leistungspunkte: 20*  
+*Die LP für das Modul werden erst nach Bestehen 
+der Modulprüfung bzw. aller Modulteilprüfungen 
+vergeben. 
+ 
+   
+61 
+  
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen 
+Leistungen erfüllt sind:   
+ 
+12. Modulbestandteile: 
+P / 
+Nr  Lehr- Themenbereich/Thema  SWS  Studienleistungen  LP 
+WP 
+form  / Std. 
+1  P  V  Staatsorganisationsrecht (SS)  3     
+2  P  Ü  Konversationsübung zu 1.)  2  regelmäßige Teilnahme  10 LP 
+3  P  V  Grundrechte (WS)  4     
+4  P  Ü  Konversationsübung zu 3.)  2  regelmäßige Teilnahme  10 LP 
+ 
+ 
+13. Modulprüfung 
+Kompetenz /  Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr. 
+Thema  Prüfung  Bemerkungen  Modulnote 
+1     Klausur oder  30 -  120  Ende der  50 % 
+  Minuten  oder  Vorlesungszeit 
+mündliche  15 -45 Minuten  
+Prüfung 
+2     Klausur oder  30 -  120  Ende der  50 % 
+  Minuten  oder  Vorlesungszeit 
+mündliche  15 -45 Minuten  
+Prüfung 
+14. Bemerkungen: 
+Wiederholbarkeit: Jede nicht bestandene Prüfungsleistung einmal   
+ 
+ 
+ 
+ 
+62 
+  
+INK-M01 
+ 
+1. Name des Moduls:  Informationskompetenz (information literacy) I 
+ 
+2. Fachgebiet / Verantwortlich:  Medieninformatik (Prof. Wolff) 
+Universitätsbibliothek (Dr. Doß) 
+ 
+3. Inhalte des Moduls:  Einführung in das Spektrum der 
+Schlüsselqualifikation Informationskompetenz und 
+ihre praktischen Anwendungsmöglichkeiten in der 
+Wissensgesellschaft mit Schwerpunkt auf den 
+Serviceangeboten der Universitätsbibliothek. 
+4. Qualifikationsziele des Moduls / zu  Die Studierenden erwerben Grundlagenwissen in 
+erwerbende Kompetenzen:  Informationskompetenz, 
+den Grundzügen der Informationsinfrastruktur 
+sowie Grundlagen der Informationsaufbereitung. 
+Sie erwerben die Fähigkeit, in Fachdatenbanken 
+und im Internet vertiefe Rechercheaufgaben 
+zu lösen. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  keine 
+b) verpflichtende Nachweise:  keine 
+6. Verwendbarkeit des Moduls:  Frei kombinierbares Nebenfach;  
+Bachelor (Deutsch-Italienische Studien) 
+Master Romanische Kulturräume 
+ 
+7. Angebotsturnus des Moduls:  Jeweils zum Sommersemester 
+ 
+8. Das Modul kann absolviert werden  1 Semester 
+in:   
+9. Empfohlenes Fachsemester:  - 
+ 
+ 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+Gesamt in Stunden: 450 
+     (Workload) / Anzahl 
+davon: 
+Leistungspunkte: 
+1. Präsenzzeit: 126 Std. 
+2. Selbststudium: 174 Std. 
+3. Prüfung (inkl. Vorbereitung): 150 Std. 
+ 
+Leistungspunkte: 15*  
+*Die LP für das Modul werden erst nach Bestehen 
+der Modulprüfung bzw. aller Modulteilprüfungen 
+vergeben. 
+ 
+ 
+ 
+   
+63 
+  
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen 
+Leistungen erfüllt sind:   
+ 
+12. Modulbestandteile: 
+P / 
+Nr  Lehr- Themenbereich/Thema  SWS  Studienleistungen  LP 
+W
+form  / Std. 
+P 
+1  P  S mit Ü  Grundlagen der  2  Bearbeitung   
+Informationskompetenz sowie  praktischer 
+Informationsrecherche und  Übungsaufgaben 
+Informationsaufbereitung 
+2  P  VL / GK  im Bereich  2  Siehe   
+Informationsaufbereitung  kommentiertes 
+(Informationswissenschaft/  Vorlesungsverzeic
+Medieninformatik)  hnis 
+3  P  VL / GK  im Bereich  2  Siehe   
+Informationsaufbereitung  kommentiertes 
+(Informationswissenschaft/  Vorlesungsverzeic
+Medieninformatik)  hnis 
+ 
+ 
+13. Modulprüfung 
+Kompetenz / Thema  Art der Prüfung  Dauer  Zeitpunkt /  Anteil an 
+  Bemerkungen  Modulnote 
+Grundlagen der  Klausur  120 Min.  Einmalig zu  100% 
+Informationskompeten Semesterende 
+z 
+14. Bemerkungen:  
+Die erworbenen Leistungen können nicht ein weiteres Mal für ein anderes HF oder NF 
+angerechnet werden.  
+Studenten der Informationswissenschaft ersetzen die in diesem Modul vorgesehene 
+Pflichtveranstaltung der informationswissenschaftlichen Studiengänge jeweils durch vertiefende 
+Veranstaltungen des jeweiligen Themenbereichs. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+64 
+  
+INK-M10 
+ 
+1. Name des Moduls:  Informationskompetenz (information literacy) II 
+ 
+2. Fachgebiet / Verantwortlich:  Medieninformatik (Prof. Wolff) 
+Universitätsbibliothek (Dr. Doß) 
+ 
+3. Inhalte des Moduls:  EDV-basierte Informationsrecherche und 
+Informationsverarbeitung als Schwerpunkte 
+(Information Retrieval, Data Mining) sowie 
+Erweiterung des Fokus der 
+Informationskompetenz auf die digital humanities. 
+ 
+4. Qualifikationsziele des Moduls / zu  Die Studierenden vertiefen und bauen ihre 
+erwerbende Kompetenzen:  Kenntnisse im Bereich Informationskompetenz in 
+speziellen Teilaspekten aus. Sie vertiefen ihre 
+Grundlagen der Informationsaufbereitung und der 
+computergestützten Suche und erwerben die 
+Fähigkeit, dieses Wissen in angrenzende Bereiche 
+wie die digital humanities zu übertragen. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  keine 
+ 
+b) verpflichtende Nachweise:  keine 
+ 
+6. Verwendbarkeit des Moduls:  Frei kombinierbares Nebenfach;  
+Bachelor (Deutsch-Italienische Studien) 
+Master Romanische Philologie 
+ 
+7. Angebotsturnus des Moduls:  Jeweils zum Wintersemester 
+ 
+ 
+8. Das Modul kann absolviert werden  1 Semester 
+in:   
+ 
+9. Empfohlenes Fachsemester:  - 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+Gesamt in Stunden: 450 
+     (Workload) / Anzahl 
+davon: 
+Leistungspunkte: 
+1. Präsenzzeit: 168 Std. 
+2. Selbststudium: 182 Std. 
+3. Prüfung (inkl. Vorbereitung): 100 Std. 
+ 
+Leistungspunkte: 15*  
+*Die LP für das Modul werden erst nach Bestehen 
+der Modulprüfung bzw. aller Modulteilprüfungen 
+vergeben. 
+ 
+ 
+65 
+  
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind:   
+ 
+12. Modulbestandteile: 
+P / 
+Nr  Lehr- Themenbereich/Thema  SWS  Studienleistungen  LP 
+W
+form  / Std. 
+P 
+1  P  VL  Information Retrieval  2     
+2  P  S  Veranstaltung zur  2  Siehe   
+Informationskompetenz der  kommentiertes 
+Fächer Germanistik und/oder  Vorlesungsverzeic
+Informationswissenschaft (i. d. R.  hnis 
+ein Haupt- oder 
+Vertiefungsseminar) 
+3  P  Ü  Übung zu einem Thema aus dem  2  Siehe   
+Bereich der digital humanities  kommentiertes 
+Vorlesungsverzeic
+hnis 
+ 
+ 
+13. Modulprüfung 
+Kompetenz / Thema  Art der  Dauer  Zeitpunkt /  Anteil an 
+  Prüfung  Bemerkungen  Modulnote 
+Information Retrieval  Klausur    Semesterende  100% 
+14. Bemerkungen:  
+Die erworbenen Leistungen können nicht ein weiteres Mal für ein anderes HF oder NF angerechnet 
+werden. Studenten der Informationswissenschaft ersetzen die in diesem Modul vorgesehene 
+Pflichtveranstaltung der informationswissenschaftlichen Studiengänge jeweils durch vertiefende 
+Veranstaltungen des jeweiligen Themenbereichs. 
+ 
+ 
+ 
+ 
+   
+66 
+  
+Zusätzliche Studienleistungen (Freie Leistungspunkte) nach § 6 Abs. 2 der Prüfungsordnung 
+der Deutsch-Italienischen Studien 
+ 
+Die Gesamtzahl der in den Modulen einschließlich der Bachelorarbeit zu erbringenden Leistungspunkte 
+beträgt mindestens 180. Studierenden können jedoch freie Leistungspunkte zur Beschäftigung mit 
+weiterführenden Fragen zur deutsch-italienischen Thematik bzw. für eine eigene Schwerpunktsetzung 
+durch weitere Sprachkurse oder den Ausbau von in Modulen erworbenen Kenntnissen erwerben. Dies 
+ist insbesondere bedeutsam für den Erwerb spezifischer Qualifikationen im Hinblick auf ein 
+weiterführendes Masterstudium bzw. den Berufseinstieg. 
+Freie Leistungspunkte können beispielsweise erworben werden durch weitere Kurse in der zweiten oder 
+einer anderen Fremdsprache, durch weitere Veranstaltungen aus dem Themenbereich eines Moduls, 
+aber auch, nach Absprache mit den jeweiligen Dozenten und dem Koordinator des Studiengangs, durch 
+entsprechend relevante Veranstaltungen aus dem Kursangebot der Universität Regensburg. 
+Eine Obergrenze für zu erwerbende Freie Leistungspunkte ist nicht festgelegt. Die zusätzlichen 
+Studienleistungen werden in das Transcript of Records aufgenommen. 
+ 
+67 
+ 

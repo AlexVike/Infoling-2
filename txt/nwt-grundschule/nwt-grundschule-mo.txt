@@ -1,0 +1,359 @@
+input_dictionary =  
+  NaturWissenschaft und Technik (NWT) 
+ 
+ 
+Modulkatalog 
+für das Fach Didaktik der 
+Naturwissenschaft und Technik (NWT) 
+im Rahmen des Studiengangs 
+Lehramt Grundschule 
+   
+ab WS 21/22 
+ 
+ 
+   
+Seite 1 von 11  
+  NaturWissenschaft und Technik (NWT) 
+ 
+ 
+Inhaltsverzeichnis 
+ 
+NWT-01   Fachwissenschaftliches und fachdidaktisches Basismodul .......... 3 
+NWT-02   Fächerverbindendes Modul ............................................................ 6 
+NWT-GS 03   Fachwissenschaftliches, fachdidaktisches und 
+fächerverbindendes Aufbaumodul .................................................. 9 
+ 
+ 
+ 
+ 
+   
+Seite 2 von 11  
+  NaturWissenschaft und Technik (NWT) 
+NWT-01   Fachwissenschaftliches und fachdidaktisches Basismodul 
+ 
+1. Name des Moduls:  Fachwissenschaftliches und fachdidaktisches 
+Basismodul 
+2. Fachgebiet / Verantwortlich:  Dr. Inken Rebentrost, Prof. Dr. Arne Dittmer, Prof. Dr. 
+Oliver Tepner, Prof. Dr. Karsten Rincke 
+3. Inhalte des Moduls:  Fachliche Grundlagen und didaktische Aufbereitung 
+zu ausgewählten Themen aus den Bereichen: 
+  Naturwissenschaftliche Arbeitsweisen 
+  Organisationsformen von Pflanzen und Tieren 
+  Struktur und Funktionszusammenhänge 
+  Anatomie und Physiologie des Menschen 
+  Wechselwirkungen in Ökosystemen 
+  Fortpflanzungsbiologie 
+  Stoffe und ihre Eigenschaften 
+  Aufbau der Materie  
+  Periodensystem der Elemente 
+  Chemische Reaktionen 
+  Bewegung, Kräfte und Energie in der Mechanik 
+  Optische Phänomene 
+  Temperatur und Wärme 
+  Elektrizität (Grundlagen und Anwendung) 
+4. Qualifikationsziele des Moduls / zu  Nach Beendigung dieses Moduls sind Studierende in 
+erwerbende Kompetenzen: 
+der Lage, 
+  fachliche Inhalte nach Relevanzkriterien (Fach-, 
+Schüler- und Gesellschaftsrelevanz) begründet 
+auszuwählen und didaktisch aufzubereiten. 
+  Basiskonzepte zur Auswahl und Strukturierung 
+fachlicher Inhalte zu berücksichtigen. 
+  Experimente zu planen, durchzuführen, 
+auszuwerten und zu interpretieren. 
+  grundlegende naturwissenschaftliche 
+Sachverhalte mit Hilfe der Mathematik zu 
+beschreiben und grafisch darzustellen. 
+  mit Modellen / Analogien zu arbeiten, sie für den 
+naturwissenschaftlichen Erkenntnisprozess zu 
+nutzen und deren Bedeutung (Reichweite und 
+Grenzen) einzuschätzen 
+  mittels verschiedener Methoden und Medien 
+einen naturwissenschaftlichen Unterricht zu 
+konzipieren 
+   
+Seite 3 von 11  
+  NaturWissenschaft und Technik (NWT) 
+5. Teilnahmevoraussetzungen: 
+a) empfohlene Kenntnisse:  ----- 
+b) verpflichtende Nachweise:  ----- 
+6. Verwendbarkeit des Moduls:  Didaktikfach Naturwissenschaft und Technik für 
+Lehramt Grundschule 
+7. Angebotsturnus des Moduls:  WS, SS 
+8. Das Modul kann absolviert werden in:  2 Semestern 
+9. Empfohlenes Fachsemester:  1 bis 2 
+10. Arbeitsaufwand des Moduls  Gesamt in Stunden: 360 Std.  
+     (Workload) / Anzahl Leistungspunkte:  davon: 
+1. Präsenzzeit: 12 SWS (180 Std). 
+2. Selbststudium (inkl. Prüfungsvorbereitung / 
+Prüfung): 180 Std.  
+Leistungspunkte: 12 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt 
+sind. 
+12. Modulbestandteile 
+Nr.  P /  Lehr-  Themenbereich/Thema  SWS  Studienleistungen  LP 
+WP  form 
+NWT- P  S  Theorie-Praxis-Seminar:  4  Anwesenheitspflicht,  4 
+01.1 
+Basiskurs Biologie   Experimentportfolio (mit 
+Übungsaufgaben) 
+NWT- P  S  Theorie-Praxis-Seminar:  4  Anwesenheitspflicht,  4 
+01.2 
+Basiskurs Chemie  Experimentportfolio (mit 
+Übungsaufgaben) 
+NWT- P  S  Theorie-Praxis-Seminar:  4  Anwesenheitspflicht,  4 
+01.3 
+Basiskurs Physik  Experimentportfolio (mit 
+Übungsaufgaben) 
+ 
+13. Modulprüfung 
+Art der  Dauer  Zeitpunkt  Anteil an 
+Nr.  Kompetenz/Thema/Bereich  
+Prüfung  Modulnote 
+NWT- Fachwissenschaftliche und  Klausur   135 – 180  Ende der Vorlesungszeit oder  100 % 
+01.MP  fachdidaktische Inhalte aus  Minuten  Beginn der vorlesungsfreien 
+ 
+Biologie, Chemie und Physik  Zeit 
+ 
+ 
+Seite 4 von 11  
+  NaturWissenschaft und Technik (NWT) 
+14. Bemerkungen:  
+Entsprechend dem Veranstaltungsformat des Theorie-Praxis-Seminars beinhalten alle Lehrveranstaltungen 
+einen  laborpraktischen  Anteil.  Wegen  dessen  grundsätzlicher  Sicherheitsrelevanz  besteht 
+Anwesenheitspflicht.  In  den  genannten  Seminaren  werden  notwendige  Grundlagen  für  die  sichere 
+Durchführung biologischer, chemischer und physikalischer Experimente gelegt.  
+Die  Studienleistung  „Experimentportfolio  mit  Übungsaufgaben“  ist  teilweise  während  der 
+Seminarsitzungen  und  teilweise  zu  Hause  zu  bearbeiten.  Sie  kann  Übungsaufgaben,  Erstellen  von 
+Betriebsanweisungen/ Gefährdungsbeurteilungen, Versuchsdurchführungen, Erstellung von Protokollen 
+oder ggf. ein Kurzreferat enthalten.  
+Die Modulprüfung wird als Gesamtklausur über alle drei Modulbestandteile (NWT-01.1, NWT-01.2 und 
+NWT-01.3) abgelegt; dabei muss jeder Klausurteil (zu jedem der drei Modulbestandteile) für sich bestanden 
+sein, damit die Modulnote gebildet werden kann. 
+ 
+   
+Seite 5 von 11  
+  NaturWissenschaft und Technik (NWT) 
+NWT-02   Fächerverbindendes Modul 
+ 
+1. Name des Moduls:  Fächerverbindendes Modul 
+2. Fachgebiet / Verantwortlich:  Dr. Inken Rebentrost, Prof. Dr. Arne Dittmer, Prof. Dr. 
+Oliver Tepner, Prof. Dr. Karsten Rincke 
+3. Inhalte des Moduls: 
+  Ziele und Inhalte naturwissenschaftlicher Bildung 
+  Natur und Technik als Gegenstände des Unterrichts  
+  Kommunikation und Sprache 
+  Einführung in aktuelle 
+naturwissenschaftsdidaktische Forschungsthemen 
+und Entwicklungen  
+  Befunde naturwissenschaftsdidaktischer Bildungs- 
+und Professionsforschung 
+  Bildungsstandards und Kompetenzen 
+  Diagnose von Lernschwierigkeiten 
+  Elementarisierung komplexer Inhalte 
+  Didaktische Prinzipien für die Strukturierung von 
+Unterricht 
+  Experimentieren, Modellieren, forschendes Lernen 
+  Unterrichtsmethoden 
+  Unterrichtsmittel, Arbeitsmittel 
+  Medien und Medienkompetenz  
+  Evaluation des Unterrichtserfolgs 
+  Ausgewählte fächerverbindende Themen aus den 
+Bereichen: Kultur und Gesellschaft, 
+Technikentwicklung, Astronomie und Kosmologie, 
+Medien und Informatik, Lebewesen und ihre 
+Umwelt, Wetter und Klima, Fortbewegung, 
+Energie, Naturstoffe oder Bionik 
+4. Qualifikationsziele des Moduls / zu  Nach Beendigung dieses Moduls sind Studierende in 
+erwerbende Kompetenzen:  der Lage, 
+  selbstständig fächerverbindende Inhalte zu 
+erarbeiten 
+  Schulexperimente zu den relevanten Inhalten zu 
+planen, durchzuführen, auszuwerten und zu 
+reflektieren 
+  die fachlichen Inhalte zu rekonstruieren und 
+(multi)medial aufzubereiten 
+  naturwissenschaftlich zu recherchieren, 
+dokumentieren, interpretieren, argumentieren und 
+kommunizieren 
+  Unterricht unter Berücksichtigung fachdidaktischer 
+Theorien sowie der Kompetenzbereiche 
+Seite 6 von 11  
+  NaturWissenschaft und Technik (NWT) 
+Fachwissen, Erkenntnisgewinnung, Bewertung und 
+Kommunikation zu reflektieren 
+  zentrale naturwissenschaftsdidaktische Theorien, 
+Konzepte und Entwicklungen darzustellen und zu 
+reflektieren 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  NWT-01 
+b) verpflichtende Nachweise:  ----- 
+6. Verwendbarkeit des Moduls:  Didaktikfach Naturwissenschaft und Technik Lehramt 
+Grundschule 
+7. Angebotsturnus des Moduls:  WS (Vorlesung) bzw. WS und SS (Seminare) 
+8. Das Modul kann absolviert werden in: 
+2 Semestern 
+9. Empfohlenes Fachsemester:  3 bis 4 
+10. Arbeitsaufwand des Moduls  Gesamt in Stunden: 180 Std. 
+davon: 
+     (Workload) / Anzahl Leistungspunkte: 
+1. Präsenzzeit: 6 SWS (90 Std.) 
+2. Selbststudium (inkl. Prüfungsvorbereitung / Prüfung): 
+90 Std. 
+Leistungspunkte: 6 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt 
+sind. 
+12. Modulbestandteile    
+Nr.  P /  Lehr-  Themenbereich/Thema  SWS   Studienleistungen  LP 
+WP  form 
+NWT- P  V  Didaktik der Naturwissenschaften  2  Übungsaufgaben  2 
+02.1  (Biologie, Chemie und Physik) 
+NWT- P  S  Theorie-Praxis-Seminar  2  Anwesenheitspflicht  2 
+02.2  Phänomene in der Natur unter   
+biologischer, chemischer,   
+physikalischer und technischer 
+Perspektive I 
+NWT- P  S  Theorie-Praxis-Seminar  2  Anwesenheitspflicht  2 
+02.3 
+Phänomene in der Natur unter   
+biologischer, chemischer,   
+physikalischer und technischer 
+Perspektive II 
+ 
+ 
+ 
+Seite 7 von 11  
+  NaturWissenschaft und Technik (NWT) 
+13. Modulprüfung 
+Nr.  Kompetenz/Thema/Bereich  Art der  Bearbeitun Zeitpunkt  Anteil an 
+Prüfung  gsdauer/  Modulnote 
+Umfang 
+NWT- Didaktische Aufbereitung  Portfolio  4 Wochen  In der vorlesungsfreien Zeit  ----- 
+02.MP  und Reflexion  15 – 20 
+fächerverbindender  Seiten 
+Themen 
+14. Bemerkungen:  
+Entsprechend dem Veranstaltungsformat des Theorie-Praxis-Seminars beinhalten alle Lehrveranstaltungen 
+einen  laborpraktischen  Anteil.  Wegen  dessen  grundsätzlicher  Sicherheitsrelevanz  besteht 
+Anwesenheitspflicht.  
+Die Modulprüfung „Portfolio“ umfasst die schriftliche Ausarbeitung und Reflexion der im Kursverlauf 
+behandelten Inhalte. Sie wird nach Wahl des oder der Studierenden nur in einem der beiden Seminare 
+abgelegt und ist nicht benotet. 
+In der Lehrveranstaltung Didaktik der Naturwissenschaften wird auf eine angemessene Verteilung der drei 
+Bereiche Biologie, Chemie und Physik geachtet. In der Vorlesung ist damit für jedes der drei Teilgebiete 
+ein Workload von mindestens 0,5 LP vorgesehen. 
+ 
+Entsprechendes gilt für die Theorie-Praxis-Seminare (siehe auch Modul NWT-GS 03), so dass insgesamt 
+eine angemessene Verteilung und ein Umfang von mindestens 6 LP pro Teilbereich gewährleistet ist. 
+ 
+ 
+ 
+   
+Seite 8 von 11  
+  NaturWissenschaft und Technik (NWT) 
+NWT-GS 03   Fachwissenschaftliches, fachdidaktisches und 
+fächerverbindendes Aufbaumodul 
+ 
+1. Name des Moduls:  Fachwissenschaftliches, fachdidaktisches 
+und fächerverbindendes Aufbaumodul 
+2. Fachgebiet / Verantwortlich:  Dr. Inken Rebentrost, Prof. Dr. Arne Dittmer, Prof. 
+Dr. Oliver Tepner, Prof. Dr. Karsten Rincke 
+3. Inhalte des Moduls: 
+  Elementarisierung von 
+fachwissenschaftlichen Inhalten 
+  Modellbegriff und Nutzung von Modellen 
+  Unterrichtsmethoden 
+  Medien 
+  Evaluation des Unterrichtserfolgs  
+Sowie fachliche Vertiefung und didaktische 
+Aufbereitung zu ausgewählten Themen aus den 
+Bereichen: 
+  Naturwissenschaftliche Arbeitsweisen 
+  Ökologie 
+  Genetik 
+  Evolution 
+  Chemische Reaktionen 
+  Stoffklassen der organischen und 
+anorganischen Chemie 
+  Mechanik 
+  Elektrik 
+  Optik 
+4. Qualifikationsziele des Moduls / zu  Nach Beendigung dieses Moduls sind Studierende 
+erwerbende Kompetenzen:  in der Lage, 
+  fachliche und fachdidaktische Inhalte komplexer 
+Themen anzuwenden 
+  naturwissenschaftlichen Unterricht unter 
+Berücksichtigung der 
+naturwissenschaftsdidaktischen Vorstellungs-, 
+Interessens- und Motivationsforschung 
+verbundenen Planungsaufgaben zu benennen 
+und in Ansätzen zu erfüllen sowie darüber zu 
+reflektieren 
+  fachdidaktische Literatur selbstständig zu 
+recherchieren und in eigenständig verfassten 
+Texten (Seminararbeit) zu zitieren, 
+  Lernumgebungen unter Berücksichtigung 
+fachdidaktischer Literatur zu gestalten, mit 
+Seite 9 von 11  
+  NaturWissenschaft und Technik (NWT) 
+Schülerinnen und Schülern durchzuführen, zu 
+evaluieren und zu reflektieren 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  Modul NWT-02 
+b) verpflichtende Nachweise:  Abgeschlossenes Modul NWT-01 und NWT-02.1 
+6. Verwendbarkeit des Moduls:  Didaktikfach Naturwissenschaft und Technik für 
+Grundschule 
+7. Angebotsturnus des Moduls:  WS oder SS (NWT-GS 03.1) bzw. WS und SS (NWT-
+GS 03.4) 
+8. Das Modul kann absolviert werden in: 
+2 Semestern 
+9. Empfohlenes Fachsemester:  5 bis 6 
+10. Arbeitsaufwand des Moduls  Gesamt in Stunden: 180 Std. 
+davon: 
+     (Workload) / Anzahl Leistungspunkte: 
+1. Präsenzzeit: 5 SWS (75 Std.) 
+2. Selbststudium (inkl. Prüfungsvorbereitung / 
+Prüfung): 105 Std. 
+Leistungspunkte: 6 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt 
+sind. 
+12. Modulbestandteile 
+Nr.  P /  Lehr-  Themenbereich/Thema  SWS   Studienleistungen  LP 
+WP  form 
+NWT- P  S  Theorie-Praxis-Seminar:  2  Anwesenheitspflicht,  2 
+GS 
+Vertiefung zu ausgewählten Themen aus  Experimentportfolio 
+03.1 
+Biologie, Chemie, Physik und Technik  (mit 
+Übungsaufgaben) 
+NWT- P  S  Theorie-Praxis-Seminar:  3  Planung,  4 
+GS  Planung, Durchführung und Reflexion von  Durchführung und 
+03.4 
+Unterricht im Lernlabor  Reflexion einer 
+Unterrichtseinheit 
+ 
+13. Modulprüfung 
+Nr.  Kompetenz/Thema/Bereich  Art der  Bearbeitung Zeitpunkt  Anteil an 
+Prüfung  sdauer/Umf Modulnote 
+ang 
+NWT-  Planung, Durchführung  Seminararbei 4 Wochen  In der vorlesungsfreien  100 % 
+GS  und Reflexion von  t   20 – 25  Zeit 
+03MP 
+Unterricht  Seiten 
+Seite 10 von 11  
+  NaturWissenschaft und Technik (NWT) 
+14. Bemerkungen:  
+Entsprechend dem Veranstaltungsformat des Theorie-Praxis-Seminars beinhalten alle Lehrveranstaltungen 
+einen laborpraktischen Anteil. Wegen dessen grundsätzlicher Sicherheitsrelevanz besteht 
+Anwesenheitspflicht.  
+Die  Studienleistung  „Experimentportfolio  mit  Übungsaufgaben“  ist  teilweise  während  der 
+Seminarsitzungen  und  teilweise  zu  Hause  zu  bearbeiten.  Sie  kann  Übungsaufgaben,  Erstellen  von 
+Betriebsanweisungen/ Gefährdungsbeurteilungen, Versuchsdurchführungen, Erstellung von Protokollen 
+oder ggf. ein Kurzreferat umfassen.  
+Ergänzend wird auf freiwilliger Basis ein Vertiefungsseminar zur Prüfungsvorbereitung angeboten (1 SWS). 
+ 
+In den Theorie-Praxis-Seminaren wird auf eine angemessene Verteilung der drei Bereiche Biologie, Chemie 
+und Physik geachtet, so dass insgesamt über alle Module hinweg eine angemessene Verteilung und ein 
+Umfang von mindestens 6 LP pro Teilbereich gewährleistet ist. 
+ 
+Seite 11 von 11 

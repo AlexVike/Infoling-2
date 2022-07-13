@@ -1,0 +1,240 @@
+input_dictionary = MUS-LA-URS-011
+1.Name des Moduls: Musikpraxis 1: Individuelle künstlerische Entwicklung 
+(Lehramt Realschule, Musik als Unterrichtsfach) 
+2.Fachgebiet / Verantwortlich: Musikpädagogik 
+(Prof. Gaul) 
+3.Inhalte / Lehrziele: Entwicklung künstlerischer Fähigkeiten 
+4.Voraussetzungen:
+a)allgemeiner Art Bestehen einer Eignungsprüfung vor Beginn des 
+Studiums gem. QualV 
+b)vorausgesetzte universitäre Veranstaltungen:  -
+5.Bedingungen:
+- verwendbar in:  Lehramt Realschule, Musik als Unterrichtsfach 
+- nicht verwendbar in / nicht kombinierbar mit: 
+6.Wie häufig wird das Modul angeboten? Mindestens drei Veranstaltungen pro Semester 
+7.In welcher Zeit kann das Modul absolviert werden?   6 Semester
+8.Zusammensetzung:
+Nr.  Veranstaltungen  SWS  LP 
+1  Übung: Gesang/ Sprechen  6 
+2  Übung: Instrument  *  6 
+3  Übung: Schulpraktisches Instrumentalspiel  6 
+Summe   *)  18 
+*) In den Fächern Gesang, Instrument und Schulpraktisches Instrumentalspiel wird Einzelunterricht in 
+Einheiten zu je 45 min/Woche erteilt. Die Studierenden erhalten die Möglichkeit, im Rahmen des 
+Studiums insgesamt 15 solcher Einheiten zu belegen und je nach Bedarf auf diese drei Fächer zu 
+verteilen. 
+9.Die Veranstaltungen sind im Rahmen der für die Prüfungen gesetzten Fristen und des
+Gesamtbudgets für Einzelunterricht (siehe oben) wiederholbar. Die Modulprüfung in den 
+Veranstaltungen Nr. 1 bzw. Nr. 2 ist einmal wiederholbar. 
+10.Inhaltliche Anforderungen/Modulprüfungen:
+Veranstaltungen: Studienbegleitend zu erbringende Leistungen.  
+Modulprüfung: Die  Studierenden legen in dem Gebiet, das nicht Gegenstand der Ersten 
+Staatsprüfung sein soll (vgl. § 52 LPO, Abs 2, Ziff. 1 a), eine Modulprüfung ab (Wahlpflicht: Gesang 
+oder Instrument). 
+Gesang: Praktische Prüfung (Dauer 20 Minuten): Vortrag von Vokalstücken mit Begleitung (darunter 
+eine Arie oder ein Klavierlied), Vortrag von Vokalstücken ohne Begleitung (darunter mindestens ein 
+deutschsprachiges Volkslied); Vortrag eines selbst gewählten Sprechtextes. 
+oder 
+Instrument: Praktische Prüfung (Dauer 20 Minuten): Vortrag von drei Stücken mittlerer 
+Schwierigkeit aus jeweils verschiedenen Epochen und/oder Stilrichtungen. 
+(Die Note der Modulprüfung MUS-LA-URS-011 geht zu 11,25 % in die Fachnote ein). MUS-LA-URS-012
+1.Name des Moduls: Musikpraxis 2: Erweiterungsfächer 
+(Lehramt Realschule, Musik als Unterrichtsfach) 
+2.Fachgebiet / Verantwortlich: Musikpädagogik 
+(Prof. Gaul) 
+3.Inhalte / Lehrziele: Erwerb berufsfeldspezifischer musikpraktischer Fähigkeiten 
+4.Voraussetzungen:
+a)allgemeiner Art Bestehen einer Eignungsprüfung vor Beginn des 
+Studiums gem. QualV 
+b)vorausgesetzte universitäre Veranstaltungen:
+5.Bedingungen:
+- verwendbar in:  Lehramt Realschule, Musik als Unterrichtsfach 
+- nicht verwendbar in / nicht kombinierbar mit: 
+6.Wie häufig wird das Modul angeboten? Mindestens drei Veranstaltungen pro Semester 
+7.In welcher Zeit kann das Modul absolviert werden?  2 Semester
+8.Zusammensetzung:
+Nr.  Veranstaltungen  SWS  LP 
+1  Übung: Chor, Vokalensemble  4 4
+2  Übung: Rhythmik, Percussion  2 2
+3  Übung: Praxis Populärer Musik   2 2
+Summe   8  8 
+10.Inhaltliche Anforderungen:
+Studienbegleitend zu erbringende Leistungen.  MUS-LA-URS-013
+1.Name des Moduls: Musikpraxis 3: Basismodul Dirigieren 
+(Lehramt Realschule, Musik als Unterrichtsfach) 
+2.Fachgebiet / Verantwortlich: Musikpädagogik 
+(Prof. Gaul) 
+3.Inhalte / Lehrziele: Erwerb berufsfeldspezifischer musikpraktischer Fähigkeiten 
+4.Voraussetzungen:
+a)allgemeiner Art Bestehen einer Eignungsprüfung vor Beginn des 
+Studiums gem. QualV 
+b)vorausgesetzte universitäre Veranstaltungen:
+5.Bedingungen:
+- verwendbar in:  Lehramt Grund-, Haupt-, Realschule (Musik als 
+Unterrichtsfach) 
+- nicht verwendbar in / nicht kombinierbar mit: 
+6.Wie häufig wird das Modul angeboten? Mindestens eine Veranstaltung pro Semester 
+7.In welcher Zeit kann das Modul absolviert werden?  4 Semester
+8.Zusammensetzung:
+Nr.  Veranstaltungen  SWS  LP 
+1  Übungen: Ensembleleitung I-IV  8 8
+Summe   8  8 
+9.Die Veranstaltungen sind im Rahmen der für die Prüfungen gesetzten Fristen wiederholbar.
+10.Inhaltliche Anforderungen:
+Studienbegleitend zu erbringende Leistungen  MUS-LA-URS-021
+1.Name des Moduls: Basismodul Musiktheorie und Gehörbildung 
+(Lehramt Realschule, Musik als Unterrichtsfach) 
+2.Fachgebiet / Verantwortlich: Musikpädagogik 
+(Prof. Gaul) 
+3.Inhalte / Lehrziele: Erwerb von Kenntnissen und Fähigkeiten in den Bereichen 
+Tonsatz, Analyse und Gehörbildung 
+4.Voraussetzungen:
+a)allgemeiner Art Bestehen einer Eignungsprüfung vor Beginn des 
+Studiums gem. QualV 
+b)vorausgesetzte universitäre Veranstaltungen:
+5.Bedingungen:
+- verwendbar in:  Lehramt Grund-, Haupt-, Realschule (Musik als 
+Unterrichtsfach) 
+- nicht verwendbar in / nicht kombinierbar mit: 
+6.Wie häufig wird das Modul angeboten? 3 Veranstaltungen pro Semester 
+7.In welcher Zeit kann das Modul absolviert werden?  2 Semester
+8.Zusammensetzung:
+Nr.  Veranstaltungen  SWS  LP 
+1  Übungen: Gehörbildung I und II  2 2
+2  Übungen: Tonsatz I und II  2 3
+3  Übung/Seminar: Musikalische Analyse  2 3
+Summe   6  8 
+9.Die Veranstaltungen sind im Rahmen der für die Prüfungen gesetzten Fristen wiederholbar.
+10.Inhaltliche Anforderungen/Modulprüfungen:
+Veranstaltungen: Studienbegleitend zu erbringende Leistungen. 
+Modulprüfung im Fach Nr. 2 Tonsatz: Schriftliche Prüfung (Dauer: 60 min). 
+(Die Note der Modulprüfung MUS-LA-URS-021 geht in die Fachnote Musik zu 3,75 % ein). MUS-LA-URS-022
+1.Name des Moduls: Aufbaumodul Musiktheorie und Gehörbildung 
+(Lehramt Realschule, Musik als Unterrichtsfach) 
+2.Fachgebiet / Verantwortlich: Musikpädagogik 
+(Prof. Gaul) 
+3.Inhalte / Lehrziele: Erweiterung von Kenntnissen und Fähigkeiten in den Bereichen 
+Tonsatz, Analyse und Gehörbildung 
+4.Voraussetzungen:
+a)allgemeiner Art Bestehen einer Eignungsprüfung vor Beginn des 
+Studiums gem. QualV 
+b)vorausgesetzte universitäre Veranstaltungen:  Modulprüfung URS-021
+5.Bedingungen:
+- verwendbar in:  Lehramt Grund-, Haupt-, Realschule (Musik als 
+Unterrichtsfach) 
+- nicht verwendbar in / nicht kombinierbar mit: 
+6.Wie häufig wird das Modul angeboten? 3 Veranstaltungen pro Semester 
+7.In welcher Zeit kann das Modul absolviert werden?  2 Semester
+8.Zusammensetzung:
+Nr.  Veranstaltungen  SWS  LP 
+1  Übungen: Gehörbildung III und IV   2 2
+2  Übungen: Tonsatz III und IV   2 3
+3  Übung/Seminar: Musikalische Analyse  2 3
+Summe   6  8 
+9.Die Veranstaltungen sind im Rahmen der für die Prüfungen gesetzten Fristen wiederholbar.
+10.Inhaltliche Anforderungen/Modulprüfung:
+Veranstaltungen: Studienbegleitend zu erbringende Leistungen.  
+Modulprüfung im Fach Nr. 2 Tonsatz: Schriftliche Prüfung (Dauer: 60 min). 
+(Die Note der Modulprüfung MUS-LA-URS-022 geht in die Fachnote Musik zu 4,5 % ein). MUS-LA-URS-023
+1.Name des Moduls: Basismodul Historische Musikwissenschaft 
+(Lehramt Realschule, Musik als Unterrichtsfach) 
+2.Fachgebiet / Verantwortlich: Musikwissenschaft 
+(Prof. Horn) 
+3.Inhalte / Lehrziele: Erwerb von musikhistorischem Überblickswissen 
+4.Voraussetzungen:
+a)allgemeiner Art
+b)vorausgesetzte universitäre Veranstaltungen:
+5.Bedingungen:
+- verwendbar in:  Lehramt Grund-, Haupt-, Realschule (Musik als 
+Unterrichtsfach) 
+- nicht verwendbar in / nicht kombinierbar mit: 
+6.Wie häufig wird das Modul angeboten? Mindestens 4 Veranstaltungen pro Semester 
+7.In welcher Zeit kann das Modul absolviert werden?  2 Semester
+8.Zusammensetzung:
+Nr.  Veranstaltungen  SWS  LP 
+1  Veranstaltung zur Historischen Musikwissenschaft 1  2 2
+2  Veranstaltung zur Historischen Musikwissenschaft 2  2 2
+3  Veranstaltung zur Historischen Musikwissenschaft 3  2 3
+Summe   6  7 
+9.Die Veranstaltungen sind im Rahmen der für die Prüfungen gesetzten Fristen wiederholbar.
+10.Inhaltliche Anforderungen/Modulprüfung
+Veranstaltungen: Studienbegleitend zu erbringende Leistungen. 
+Modulprüfung: Mündliche Prüfung in Musikgeschichte (Dauer: 20 min). 
+(Die Note der Modulprüfung MUS-LA-URS-023 geht in die Fachnote Musik zu 8,25 % ein). MUS-LA-URS-024 
+1.Name des Moduls: Basismodul Empirische Grundlagen  
+(Lehramt Realschule, Musik als Unterrichtsfach) 
+2.Fachgebiet / Verantwortlich: Musikpädagogik 
+(Prof. Gaul) 
+3.Inhalte / Lehrziele: Erwerb von Grundkenntnissen empirisch arbeitender 
+Fachwissenschaften 
+4.Voraussetzungen:
+a)allgemeiner Art Bestehen einer Eignungsprüfung vor Beginn des 
+Studiums gem. QualV 
+b)vorausgesetzte universitäre Veranstaltungen:
+5.Bedingungen:
+- verwendbar in:  Lehramt Grundschule, Hauptschule, Realschule, 
+(Musik als Unterrichtsfach) 
+- nicht verwendbar in / nicht kombinierbar mit: 
+6.Wie häufig wird das Modul angeboten? 1 Veranstaltung pro Semester 
+7.In welcher Zeit kann das Modul absolviert werden?  2 Semester
+8.Zusammensetzung:
+Nr.  Veranstaltungen  SWS  LP 
+1  Vorlesung oder Seminar: Stimmphysiologie  1   1 
+2  Vorlesung oder Seminar: Musikpsychologie/-soziologie  2 2
+Summe   3  3 
+9.Die Veranstaltungen sind im Rahmen der für die Prüfungen gesetzten Fristen wiederholbar.
+10.Inhaltliche Anforderungen/Modulprüfungen:
+Veranstaltungen: Studienbegleitend zu erbringende Leistungen.  
+Modulprüfung: Schriftliche Prüfung in Stimmphysiologie (Dauer: 45 min).  
+(Die Note der Modulprüfung MUS-LA-URS-024 geht in die Fachnote Musik zu 2,25 % ein). MUS-LA-URS-031
+1.Name des Moduls: Basismodul Musikpädagogik und Musikdidaktik 
+(Lehramt Realschule, Musik als Unterrichtsfach) 
+2.Fachgebiet / Verantwortlich: Musikpädagogik 
+(Prof. Gaul) 
+3.Inhalte / Lehrziele: Erwerb grundlegender musikpädagogischer und 
+musikdidaktischer Kenntnisse  
+4.Voraussetzungen:
+a)allgemeiner Art Bestehen einer Eignungsprüfung vor Beginn des 
+Studiums gem. QualV 
+b)vorausgesetzte universitäre Veranstaltungen:
+5.Bedingungen:
+- verwendbar in:  Lehramt Grundschule, Hauptschule, Realschule, 
+(Musik als Unterrichtsfach) 
+- nicht verwendbar in / nicht kombinierbar mit: 
+6.Wie häufig wird das Modul angeboten? 1-2 Veranstaltungen pro Semester 
+7.In welcher Zeit kann das Modul absolviert werden?  1-2 Semester
+8.Zusammensetzung:
+Nr.  Veranstaltungen  SWS  LP 
+1  Vorlesung/ Übung/Seminar: Einführung in die  2 2
+Musikpädagogik und Musikdidaktik 
+2  Übung: Musikbezogene Medienpädagogik I  1 1
+Summe   3  3 
+9.Die Veranstaltungen sind im Rahmen der für die Prüfungen gesetzten Fristen  wiederholbar.
+10.Inhaltliche Anforderungen
+Nr. 1 und 2: Studienbegleitend zu erbringende Leistungen MUS-LA-URS-032
+1.Name des Moduls: Aufbaumodul Musikpädagogik und Musikdidaktik 
+(Lehramt Realschule, Musik als Unterrichtsfach) 
+2.Fachgebiet / Verantwortlich: Musikpädagogik 
+(Prof. Gaul) 
+3.Inhalte / Lehrziele: Erwerb musikdidaktischer Kenntnisse 
+4.Voraussetzungen:
+a)allgemeiner Art Bestehen einer Eignungsprüfung vor Beginn des 
+Studiums gem. QualV 
+b)vorausgesetzte universitäre Veranstaltungen:
+5.Bedingungen:
+- verwendbar in:  Lehramt Realschule, Hauptschule (Musik als 
+Unterrichtsfach) 
+- nicht verwendbar in / nicht kombinierbar mit: 
+6.Wie häufig wird das Modul angeboten? Mindestens zwei Veranstaltungen pro Semester 
+7.In welcher Zeit kann das Modul absolviert werden?  1-2 Semester
+8.Zusammensetzung:
+Nr.  Veranstaltungen  SWS  LP 
+1  Seminar: Didaktik des Singens  2 2
+2  Seminar: Musikunterricht in der Sekundarstufe   2 2
+3  Seminare/Übungen: Musik und Jugend  4 6
+Summe   8  10 
+9.Die Veranstaltungen sind im Rahmen der für die Prüfungen gesetzten Fristen  wiederholbar.
+10.Inhaltliche Anforderungen/Modulprüfung
+Veranstaltungen: Studienbegleitend zu erbringende Leistungen. 
+Modulprüfung: Mündliche/praktische Prüfung in Fachdidaktik (Dauer: 20 min.).  
+(Die Modulprüfungsnote MUS-LA-URS-032 geht zu 10 % in die Fachnote ein). 

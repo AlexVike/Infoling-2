@@ -1,0 +1,1794 @@
+input_dictionary =  
+ 
+ 
+ 
+ 
+ 
+Modulhandbuch 
+ 
+ 
+ 
+ 
+ 
+Bachelor of Science  
+Psychologie  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+gültig ab Wintersemester 2020/21  
+ 
+ 
+ Inhaltsverzeichnis 
+ 
+Module 
+ 
+Modul: PSY-BSc-M01: Statistik ....................................................................................................... 3 
+Modul: PSY-BSc-M02: Einführung in empirisch-wissenschaftliches Arbeiten .................................. 5 
+Modul: PSY-BSc-M03: Empirisch-experimentelles Projektseminar ................................................. 7 
+Modul: PSY-BSc-M04: Grundlagen der Diagnostik ......................................................................... 9 
+Modul: PSY-BSc-M05: Sozialpsychologie ..................................................................................... 11 
+Modul: PSY-BSc-M06: Allgemeine Psychologie I .......................................................................... 13 
+Modul: PSY-BSc-M07: Allgemeine Psychologie II ......................................................................... 15 
+Modul: PSY-BSc-M08: Biologische Psychologie ........................................................................... 17 
+Modul: PSY-BSc-M09: Entwicklungspsychologie .......................................................................... 19 
+Modul: PSY-BSc-M10: Differentielle Psychologie und Persönlichkeitspsychologie ....................... 22 
+Modul: PSY-BSc-M11: Klinische Psychologie: Störungslehre ....................................................... 24 
+Modul: PSY-BSc-M12: Basismodul Klinische Psychologie: Gesundheitsförderung und 
+Neuropsychologie ............................................................................................ 26 
+Modul: PSY-BSc-M13: Basismodul Pädagogische Psychologie .................................................... 28 
+Modul: PSY-BSc-M14: Basismodul Arbeits-, Organisations- und Wirtschaftspsychologie ............. 30 
+Modul: PSY-BSc-M15: Basismodul Angewandte Kognitionsforschung ......................................... 32 
+Modul: PSY-BSc-M16: Aufbaumodul Klinische Psychologie und Neuropsychologie: Allgemeine 
+Verfahrenslehre ............................................................................................... 34 
+Modul: PSY-BSc-M17: Aufbaumodul Pädagogische Psychologie ................................................. 36 
+Modul: PSY-BSc-M18: Aufbaumodul Arbeits-, Organisation- und Wirtschaftspsychologie ............ 38 
+Modul: PSY-BSc-M19: Aufbaumodul Angewandte Kognitionsforschung ....................................... 40 
+Modul: PSY-BSc-M20: Praktikum ................................................................................................. 42 
+Modul: PSY-BSc-M21: Ergänzende Kompetenzen zur Klinischen Psychologie und Psychotherapie
+ ........................................................................................................................ 44 
+ 
+  
+ 
+PSY-BSc-M01: Statistik 
+Gültig ab WS20/21 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13. 
+1. Name des Moduls:  Statistik 
+2. Fachgebiet / Verantwortlich:  Dr. Jobst (Wirtschaftswissenschaften) 
+3. Inhalte des Moduls:  In diesem Modul werden grundlegende Verfahren der be-
+schreibenden und der schließenden Statistik sowie statisti-
+sche Methoden der Evaluationsforschung behandelt. Die 
+Verfahren werden im weiteren Studium für die Auswertung 
+eigener Daten (z. B. Praktika, Bachelorarbeit) benötigt. 
+4. Qualifikationsziele des Moduls /   Nach Abschluss des Moduls sind Studierende in der 
+Lage, eigene Daten statistisch auszuwerten und fremde 
+    zu erwerbende Kompetenzen: 
+Datenanalysen zu verstehen. 
+Sie sind in der Lage, die Auswirkungen von Forschungs-
+methoden auf Untersuchungspopulationen zu beurteilen 
+und deskriptive und inferenzstatistische Methoden sowie 
+weitere statistische Verfahren zur Auswertung von Ergeb-
+nissen grundlagen- und anwendungsbezogener Studien 
+in verschiedenen Bereichen der psychologischen und 
+psychotherapeutischen Forschung anzuwenden. 
+5. Teilnahmevoraussetzungen: 
+a) empfohlene Kenntnisse:  keine 
+b) verpflichtende Nachweise:  keine 
+6. Verwendbarkeit des Moduls:  B.Sc. Psychologie 
+7. Angebotsturnus des Moduls:  jährlich 
+8. Das Modul kann absolviert werden in:  2 Semestern 
+9. Empfohlenes Fachsemester:  1 bis 2 
+10. Gesamtaufwand des Moduls            Arbeitsaufwand:  
+(Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: 360 
+davon: 
+1. Präsenzzeit: 90 Stunden (6 SWS) 
+2. Selbststudium (inkl. Prüfungsvorbereitung/ 
+Prüfung): 270 Stunden 
+ 
+Leistungspunkte: 12 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller 
+in den Nrn. 11 und 12 aufgeführten Leistungen. 
+11. Modulbestandteile: 
+Nr  P/W Lehrform  Themenbereich/Thema  SWS/  LP  Studienleistungen 
+P  Std. 
+PSY-BSc- Pflicht  Vorlesung  Statistik I  3  6   
+M01.1 
+PSY-BSc- Pflicht  Vorlesung  Statistik II  3  6   
+M01.2 
+12. Modulprüfung: 
+3 
+  
+Nr  Kompetenz / Thema  Art der Prüfung  Dauer  Zeitpunkt /  Anteil an 
+Bemerkungen  Modulnote 
+PSY-BSc- Statistik I  Klausur  90 Minuten  Ende des  1/2 
+M01.1  Veranstaltungszeitraums 
+PSY-BSc- Statistik II  Klausur  90 minuten  Ende des  1/2 
+M01.2  Veranstaltungszeitraums 
+13. Bemerkungen: 
+ 
+Jede Teilprüfung muss als bestanden bewertet sein, um mit der Note der anderen Teilleistung verrechnet 
+ 
+werden zu können. Im Falle einer nicht bestandenen Teilleistung ist nur diese zu wiederholen.  
+   
+Zusätzliches freiwilliges Lehrangebot: PSY-BSc-M01.3: Begleitübung zu Statistik I und PSY-BSc-M01.4: 
+Begleitübung zu Statistik II.  
+Nach Abschluss des Moduls haben die Studierenden zugleich Kenntnisse und Kompetenzen im Umfang 
+von 10 der insgesamt geforderten mindestens 15 ECTS-Punkte aus dem Bereich „Wissenschaftliche Me-
+thodenlehre“ gemäß Nr. 9 der Anlage 1 zur Approbationsordnung für Psychotherapeutinnen und Psycho-
+therapeuten (PsychTh-ApprO) erworben. 
+   
+ 
+ 
+4 
+  
+ 
+ 
+PSY-BSc-M02: Einführung in empirisch-wissenschaftliches Arbeiten 
+Gültig ab WS20/21 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13. 
+1. Name des Moduls:  Einführung in empirisch-wissenschaftliches Arbei-
+ten 
+2. Fachgebiet / Verantwortlich:  PD Dr. Gregor Volberg, Prof. Dr. Mark Greenlee 
+In diesem Modul werden die Geschichte der Psycholo-
+3. Inhalte des Moduls: 
+gie und Psychotherapie, Methoden und wissenschaftli-
+che Konzepte für die Erforschung menschlichen Verhal-
+tens und Erlebens einschließlich epidemiologischer 
+Forschung, Planung und Durchführung wissenschaftli-
+cher, insbesondere experimenteller Studien sowie Da-
+tenerhebung und Datenanalyse unter Nutzung digitaler 
+Technologien vermittelt.  
+4. Qualifikationsziele des Moduls /   Nach Abschluss des Moduls sind Studierende in der 
+Lage,  selbständig  empirische-experimentelle  For-
+    zu erwerbende Kompetenzen: 
+schungsarbeiten durchzuführen, Methoden der quanti-
+tativen Forschung anzuwenden, die Ergebnisse wis-
+senschaftlicher Arbeiten zu verstehen, kritisch zu re-
+flektieren und relevante Gebiete der Wissenschaftsge-
+schichte  zu  beschreiben.  Die  Studierende  lernen 
+Grundbegriffe der qualitativen Forschung kennen. 
+Sie können die historische Entwicklung der Psycholo-
+gie und Psychotherapie sowie ihre Beziehung zu be-
+nachbarten Gebieten angemessen beschreiben, die 
+historische Entwicklung der Psychologie und Psycho-
+therapie in Bezug zur heutigen Versorgungslandschaft 
+bringen und die Wissenschaftsgeschichte und Erkennt-
+nistheorie mit Bezug auf die Psychologie und Psycho-
+therapie  einschließlich  ihrer  Hauptströmungen  und 
+Forschungsmethoden angemessen erläutern. 
+Des Weiteren können sie Begriffe, Methoden und Er-
+gebnisse der qualitativen und quantitativen Forschung 
+in der psychologischen Grundlagen- und Anwendungs-
+forschung anwenden, wissenschaftliche Untersuchun-
+gen  planen,  durchführen  und  auswerten,  und  Pro-
+jekterfahrungen in die Planung und Durchführung von 
+wissenschaftlichen Studien sowie in die Auswertung 
+und Darstellung von eigenen Forschungsergebnissen 
+einfließen lassen. 
+5. Teilnahmevoraussetzungen: 
+a) empfohlene Kenntnisse:  Grundkenntnisse Statistik 
+b) verpflichtende Nachweise:  keine 
+6. Verwendbarkeit des Moduls:  B.Sc. Psychologie 
+7. Angebotsturnus des Moduls:  jährlich 
+8. Das Modul kann absolviert werden in:  2 Semestern 
+9. Empfohlenes Fachsemester:  2 bis 4 
+5 
+  
+ 
+10. Gesamtaufwand des Moduls   Arbeitsaufwand:  
+(Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: 
+180 davon: 
+1. Präsenzzeit: 45 Stunden (3 SWS) 
+2. Selbststudium (inkl. Prüfungsvorberei-
+tung/ Prüfung): 135 Stunden 
+ 
+Leistungspunkte: 6 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren 
+aller in den Nrn. 11 und 12 aufgeführten Leistungen. 
+11. Modulbestandteile: 
+Nr  P/W Lehrform  Themenbereich/Thema  SWS/  LP  Studienleistungen 
+P  Std. 
+PSY-BSc- Pflicht  Seminar  Grundlagen empirisch-  1  2   
+M02.1  experimentellen Arbeitens 
+PSY-BSc- Pflicht  Seminar  Quantitative Methoden in der  2  4   
+M02.2  Psychologie 
+12. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der Prüfung  Dauer  Zeitpunkt /  Anteil an 
+Bemerkungen  Modulnote 
+PSY-BSc- Quantitative Methoden  Klausur  90 Minuten  Letzte Sitzung der  1 
+M02  in der Psychologie  Veranstaltung 
+13. Bemerkungen: 
+Nach Abschluss des Moduls haben die Studierenden zugleich Kenntnisse und Kompetenzen im Umfang 
+von 5 der insgesamt geforderten mindestens 15 ECTS-Punkte aus dem Bereich „Wissenschaftliche Me-
+thodenlehre“ gemäß Nr. 9 der Anlage 1 zur Approbationsordnung für Psychotherapeutinnen und Psy-
+chotherapeuten (PsychTh-ApprO) erworben. 
+ 
+ 
+   
+6 
+  
+ 
+ 
+PSY-BSc-M03: Empirisch-experimentelles Projektseminar 
+Gültig ab WS20/21 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13. 
+1. Name des Moduls:  Empirisch-experimentelles Projektseminar 
+2. Fachgebiet / Verantwortlich:  Psychologie / alle Lehrstühle 
+3. Inhalte des Moduls:  Das Modul vermittelt an Forschungseinrichtungen der Uni-
+versität praktische Kenntnisse zur Durchführung von psy-
+chologischen Experimenten und zur Kommunikation von 
+deren Ergebnissen. 
+4. Qualifikationsziele des Moduls /   Nach Abschluss des Moduls sind Studierende in der Lage, 
+selbständig empirische Daten zu erheben und die Ergeb-
+    zu erwerbende Kompetenzen: 
+nisse darzustellen. Sie sind befähig, Studien zur systemati-
+schen und kontrollierten Erfassung menschlichen Verhal-
+tens und Erlebens sowie der menschlichen Entwicklung 
+einschließlich der sozialen Einflüsse und biologischen 
+Komponenten in der Grundlagen- und der Anwendungsfor-
+schung der Psychologie wissenschaftlich fundiert zu pla-
+nen, umzusetzen, objektiv auszuwerten, schriftlich aufzu-
+bereiten und die Ergebnisse zu präsentieren.  
+Projektseminar I und Projektseminar II beinhalten verschie-
+dene Themen und Methoden. 
+5. Teilnahmevoraussetzungen: 
+a) empfohlene Kenntnisse:  Grundkenntnisse Statistik 
+b) verpflichtende Nachweise:  mindestens eine erfolgreich absolvierte Studien- oder Prü-
+fungsleistung aus Modul PSY-M01 
+6. Verwendbarkeit des Moduls:  B.Sc. Psychologie 
+7. Angebotsturnus des Moduls:  jährlich 
+8. Das Modul kann absolviert werden in:  2 Semestern 
+9. Empfohlenes Fachsemester:  3 bis 4 
+10. Gesamtaufwand des Moduls  Arbeitsaufwand:  
+(Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: 480 
+davon: 
+1. Präsenzzeit: 90 Stunden (6 SWS) 
+2. Selbststudium (inkl. Prüfungsvorbereitung/ 
+Prüfung): 390 Stunden 
+ 
+Leistungspunkte: 16 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller 
+in den Nrn. 11 und 12 aufgeführten Leistungen. 
+11. Modulbestandteile: 
+Nr  P/W Lehrform  Themenbereich/Thema  SWS LP  Studienleistungen 
+P  / Std. 
+PSY-BSc- Pflicht  Seminar  Experimentalpsychologisches  3  8  regelmäßige Teilnahme, Projektbericht 
+M03.1  Projektseminar I 
+7 
+  
+ 
+PSY-BSc- Pflicht  Seminar  Experimentalpsychologisches  3  8  regelmäßige Teilnahme, Projektbericht 
+M03.2  Projektseminar II 
+12. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der Prüfung  Dauer  Zeitpunkt /  Anteil an 
+Bemerkungen  Modulnote 
+13. Bemerkungen: 
+Nach § 5 Abs. 2 PsychTh-ApprO ist in den beiden Pflichtseminaren Anwesenheit (regelmäßige Teilnahme) 
+erforderlich.  
+Abgabetermin für den Projektbericht ist jeweils spätestens 3 Wochen nach Ende der Vorlesungszeit. 
+Das Modul ist unbenotet. 
+ 
+Nach Abschluss des Moduls haben die Studierenden zugleich Kenntnisse und Kompetenzen im Umfang der 
+geforderten mindestens 6 ECTS-Punkte aus dem Bereich berufspraktische Einsätze, konkret „Forschungsori-
+entiertes Praktikum I - Grundlagen der Forschung“ gemäß § 13 der PsychTh-ApprO für Psychotherapeutin-
+nen und Psychotherapeuten (PsychTh-ApprO) erworben.  
+Die Seminare als Bestandteil des Forschungsorientierten Praktikums I werden gemäß § 13 PsychTh-ApprO 
+unter qualifizierter Anleitung und in Kleingruppen durchgeführt.  
+ 
+ 
+ 
+   
+   
+8 
+  
+ 
+ 
+PSY-BSc-M04: Grundlagen der Diagnostik 
+Gültig ab WS20/21 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13. 
+1. Name des Moduls:  Grundlagen der Diagnostik 
+2. Fachgebiet / Verantwortlich:  Prof. Dr. Brigitte M. Kudielka 
+3. Inhalte des Moduls:  Das Modul umfasst Methoden zur Sammlung psycholo-
+gisch bedeutsamer Informationen und zum Fällen von in-
+formierten Entscheidungen sowie deren theoretische Fun-
+dierung. Ergänzend werden ausgewählte diagnostische 
+Verfahren behandelt, z.B. Tests zur Persönlichkeitsdiag-
+nostik, Leistungsdiagnostik oder zur klinischen Diagnostik. 
+Es umfasst weiterhin: 
+Diagnostische Methoden und Verfahren einschließlich Be-
+obachtungsmethoden, Indikationen und diagnostische 
+Prozesse bei Menschen aller Altersgruppen;  
+Kennzeichen von Klassifikationssystemen, Fehlerquellen; 
+Psychometrische Grundlagen des Messens (Testtheorie 
+und Testkonstruktion);  
+Psychische und psychopathologische Befunde unter Be-
+rücksichtigung differentialdiagnostischer Aspekte;  
+Sprache und Interaktion im diagnostischen Prozess, Ge-
+sprächsführungsmethoden 
+4. Qualifikationsziele des Moduls /    Nach Abschluss des Moduls haben Studierende grundle-
+gende Fachkenntnisse über Prinzipien, Methoden und 
+    zu erwerbende Kompetenzen: 
+Verfahren der psychologischen Diagnostik erlangt und er-
+lernt, grundlegende Problemstellungen der Psychologi-
+schen Diagnostik zu verstehen. Darüber hinaus haben sie 
+Grundkompetenzen sowohl in der Konstruktion von psy-
+chologischen Tests als auch zur Beurteilung und Auswahl 
+diagnostischer Methoden im Rahmen von Forschungs- 
+und Anwendungskontexten erlangt. 
+5. Teilnahmevoraussetzungen: 
+a) empfohlene Kenntnisse:  keine 
+b) verpflichtende Nachweise:  mindestens eine erfolgreich absolvierte Studien- oder Prü-
+fungsleistung aus Modul PSY-M01 
+6. Verwendbarkeit des Moduls:  B.Sc. Psychologie 
+7. Angebotsturnus des Moduls:  jährlich 
+8. Das Modul kann absolviert werden in:  2 Semestern 
+9. Empfohlenes Fachsemester:  3 bis 4 
+9 
+  
+ 
+10. Gesamtaufwand des Moduls  Arbeitsaufwand:  
+(Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: 360 
+davon: 
+1. Präsenzzeit: 90 Stunden (6 SWS) 
+2. Selbststudium (inkl. Prüfungsvorbereitung/ 
+Prüfung): 270 Stunden 
+ 
+Leistungspunkte: 12 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller 
+in den Nrn. 11 und 12 aufgeführten Leistungen. 
+11. Modulbestandteile: 
+Nr  P/WP  Lehrform  Themenbereich/Thema  SWS LP  Studienleistungen 
+/ Std. 
+PSY-BSc- Pflicht  Vorlesung  Einführung in die Psychologische  2  4   
+M04.1  Diagnostik 
+PSY-BSc- Pflicht  Vorlesung  Grundlagen der Testtheorie und  2  4   
+M04.2  Testkonstruktion 
+PSY-BSc- Pflicht  Seminar  Seminar zur Praxis psy- 2  4  regelmäßige Teilnahme,  
+M04.3  chologischer Untersu- Referat oder Hausarbeit 
+chungsverfahren 
+12. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der Prüfung  Dauer  Zeitpunkt /  Anteil an 
+Bemerkungen  Modulnote 
+PSY-BSc- Einführung in die Psy- Klausur  90 Minuten  Ende des  1/2 
+M04.1  chologische Diagnostik  Veranstaltungszeitraums 
+PSY-BSc- Grundlagen der Testtheo- Klausur  90 Minuten  Ende des  1/2 
+M04.2  rie und Testkonstruk- Veranstaltungszeitraums 
+ti  
+13. Bemerkungen: 
+Jede Teilprüfung muss als bestanden bewertet sein, um mit der Note der anderen Teilleistung verrechnet 
+werden zu können.  
+Im Falle einer nicht bestandenen Teilleistung ist nur diese zu wiederholen. 
+Die Form der im Rahmen des Seminars jeweils zu erbringenden Studienleistung (Referat oder Hausarbeit) 
+wird zu Semesterbeginn durch den jeweiligen Dozenten oder die jeweilige Dozentin bekannt gegeben. 
+Nach § 5 Abs. 2 PsychTh-ApprO ist in dem Pflichtseminar Anwesenheit (regelmäßige Teilnahme) erfor-
+derlich. 
+Nach Abschluss des Moduls haben die Studierenden zugleich Kenntnisse und Kompetenzen im Umfang 
+der geforderten mindestens 12 ECTS-Punkte aus dem Bereich „Psychologische Diagnostik“ gemäß Nr. 6 
+der Anlage 1 zur Approbationsordnung für Psychotherapeutinnen und Psychotherapeuten (PsychTh-Ap-
+prO) erworben. 
+   
+   
+ 
+10 
+  
+ 
+ 
+PSY-BSc-M05: Sozialpsychologie 
+Gültig ab WS20/21 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13. 
+1. Name des Moduls:  Sozialpsychologie 
+2. Fachgebiet / Verantwortlich:  Prof. Dr. Peter Fischer 
+3. Inhalte des Moduls:  In diesem Modul wird derjenige Anteil des Erlebens und 
+Verhaltens von Personen betrachtet, der durch soziale 
+Bedingungen verursacht wird. Die Verarbeitung sozialer 
+Informationen (über andere, das Selbst, Gruppenzuge-
+hörigkeit und Rollen) weist Besonderheiten auf. Da Indi-
+viduen in sozialen Kontexten handeln, ist das Modul 
+wichtig für das Verständnis von psychischen Prozessen 
+in natürlichen Situationen. 
+4. Qualifikationsziele des Moduls /   Nach Abschluss des Moduls besitzen Studierende ein 
+grundlegendes Verständnis der Inhalte und Vorgehens-
+    zu erwerbende Kompetenzen: 
+weisen der Sozialpsychologie. Sie können soziale An-
+teile des Erlebens und Verhaltens beschreiben und er-
+klären sowie Erfahrungen und Beobachtungen vor dem 
+Hintergrund sozialpsychologischer Theorien und Metho-
+den einordnen, reflektieren und bei der Bewertung von 
+Veränderungsvorschlägen berücksichtigen. 
+5. Teilnahmevoraussetzungen: 
+a) empfohlene Kenntnisse:  keine 
+b) verpflichtende Nachweise:  keine 
+6. Verwendbarkeit des Moduls:  B.Sc. Psychologie 
+7. Angebotsturnus des Moduls:  jährlich 
+8. Das Modul kann absolviert werden in:  2 Semestern 
+9. Empfohlenes Fachsemester:  1 bis 2 
+10. Gesamtaufwand des Moduls  Arbeitsaufwand:  
+(Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: 240 
+davon: 
+1. Präsenzzeit: 60 Stunden (4 SWS) 
+2. Selbststudium (inkl. Prüfungsvorbereitung/ 
+Prüfung): 180 Stunden 
+ 
+Leistungspunkte: 8 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller 
+in den Nrn. 11 und 12 aufgeführten Leistungen. 
+11. Modulbestandteile: 
+Nr  P/WP  Lehrform  Themenbereich/Thema  SWS LP  Studienleistungen 
+/ Std. 
+PSY-BSc- Pflicht  Vorlesung  Sozialpsychologie  2  4   
+M05.1 
+PSY-BSc- Pflicht  Vorlesung  Angewandte Sozialpsychologie  2  4  Klausur 
+M05.2 
+11 
+  
+ 
+12. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der Prüfung  Dauer  Zeitpunkt /  Anteil an 
+Bemerkungen  Modulnote 
+PSY-BSc- Sozialpsychologie  Klausur  60 Minuten  Letzte Sitzung  1 
+M05.1  der Veranstaltung 
+13. Bemerkungen: 
+Nach Abschluss des Moduls haben die Studierenden zugleich Kenntnisse und Kompetenzen im Um-
+fang von 4 der insgesamt geforderten mindestens 25 ECTS-Punkte aus dem Bereich „Grundlagen der 
+Psychologie“ gemäß Nr. 1 der Anlage 1 zur Approbationsordnung für Psychotherapeutinnen und Psy-
+chotherapeuten (PsychTh-ApprO) erworben. 
+    
+12 
+  
+ 
+ 
+PSY-BSc-M06: Allgemeine Psychologie I 
+Gültig ab WS20/21 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13. 
+1. Name des Moduls:  Allgemeine Psychologie I 
+2. Fachgebiet / Verantwortlich:  Prof. Dr. Mark Greenlee 
+3. Inhalte des Moduls:  Gegenstand des Moduls sind die Geschichte der Psycho-
+logie sowie Aufbau und Funktion der Sinnes- und Wahr-
+nehmungsprozesse und kognitive Prozesse beim Men-
+schen. Außerdem werden ausgewählte neurologische 
+Störungen behandelt. Die in diesem Modul vermittelten 
+Inhalte betreffen Grundlagen der menschlichen Informati-
+onsverarbeitung inklusive Sprache. Sie sind daher für alle 
+Anwendungsfelder der Psychologie relevant. 
+4. Qualifikationsziele des Moduls /   Nach Abschluss des Moduls kennen Studierende die 
+Grundlagen der Wahrnehmungs- und Kognitionspsycho-
+    zu erwerbende Kompetenzen: 
+logie. Das erworbene Wissen dient ihnen als Grundlage 
+für ein besseres Verständnis von menschlichem Verhal-
+ten in gesunden und erkrankten Personen. Studierende 
+wissen, wie Wahrnehmungs- und kognitive Prozesse auf-
+gebaut sind und verstehen die grundlegenden Hirnstruk-
+turen und Hirnprozesse. Darüber hinaus sind die Modu-
+labsolventen/innen in der Lage, die Wirkung von Erkran-
+kungen des Gehirns auf die Wahrnehmung und Kognition 
+einzuschätzen und besitzen Verständnis für die Entwick-
+lung der Psychologie. 
+5. Teilnahmevoraussetzungen: 
+a) empfohlene Kenntnisse:  keine 
+b) verpflichtende Nachweise:  keine 
+6. Verwendbarkeit des Moduls:  B.Sc. Psychologie 
+7. Angebotsturnus des Moduls:  jährlich 
+8. Das Modul kann absolviert werden in:  2 Semestern 
+9. Empfohlenes Fachsemester:  1 bis 2 
+10. Gesamtaufwand des Moduls  Arbeitsaufwand:  
+(Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: 240 
+davon: 
+1. Präsenzzeit: 60 Stunden (4 SWS) 
+2. Selbststudium (inkl. Prüfungsvorbereitung/ 
+Prüfung): 180 Stunden 
+ 
+Leistungspunkte: 8 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller 
+in den Nrn. 11 und 12 aufgeführten Leistungen. 
+11. Modulbestandteile: 
+13 
+  
+ 
+Nr  P/W Lehrform  Themenbereich/Thema  SWS/  LP  Studienleistungen 
+P  Std. 
+PSY-BSc- Pflicht  Vorlesung  Sinnessysteme und  2  4   
+M06.1  Wahrnehmungsprozesse 
+PSY-BSc- Pflicht  Vorlesung  Kognitive Systeme  2  4   
+M06.2 
+12. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der Prüfung  Dauer  Zeitpunkt /  Anteil an 
+Bemerkungen  Modulnote 
+PSY-BSc- Sinnessysteme  Klausur  90 Minuten  Letzte Sitzung  1/2 
+M06.1  und Wahrnehmung- der Veranstaltung 
+ 
+PSY-BSc- Kognitive Systeme  Klausur  90 Minuten  Letzte Sitzung  1/2 
+M06.2  der Veranstaltung 
+13. Bemerkungen: 
+Jede Teilprüfung muss als bestanden bewertet sein, um mit der Note der anderen Teilleistung verrechnet 
+werden zu können. Im Falle einer nicht bestandenen Teilleistung ist nur diese zu wiederholen.  
+Zusätzliches freiwilliges Lehrangebot:  
+PSY- M 06.3: Übung zur Vorlesung PSY-BSc-M06.1 und PSY-BSc-M06.4: Übung zur Vorlesung PSY-
+BSc-M06.2 
+Nach Abschluss des Moduls haben die Studierenden zugleich Kenntnisse und Kompetenzen im Umfang 
+von 5 der insgesamt geforderten mindestens 25 ECTS-Punkte aus dem Bereich „Grundlagen der Psycho-
+logie“ und im Umfang von 1 der insgesamt geforderten mindestens 4 ECTS-Punkte aus dem Bereich 
+„Grundlagen der Medizin“ gemäß Nr. 1 bzw. Nr. 3 der Anlage 1 zur Approbationsordnung für Psychothera-
+           
+ 
+ 
+14 
+  
+ 
+ 
+PSY-BSc-M07: Allgemeine Psychologie II 
+Gültig ab WS20/21 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13. 
+1. Name des Moduls:  Allgemeine Psychologie II 
+2. Fachgebiet / Verantwortlich:  Prof. Dr. Gesine Dreisbach 
+3. Inhalte des Moduls:  Es werden Theorien und Methoden der Lern-, Emoti-
+ons- und Motivationspsychologie vermittelt. Dabei wer-
+den experimentelle und neurowissenschaftliche Metho-
+den berücksichtigt und die Anwendungsmöglichkeiten 
+der empirischen Befunde diskutiert. 
+4. Qualifikationsziele des Moduls /   Nach Abschluss des Moduls haben Studierende Ba-
+siswissen im Bereich der Lern-, Emotions- und Moti-
+    zu erwerbende Kompetenzen: 
+vationspsychologie und Verständnis für die in diesem 
+Bereich 
+verwendeten wissenschaftlichen Methoden erworben.  
+Sie sind in der Lage, dieses Wissen bei der Einordnung 
+und Beurteilung empirischer Studien anzuwenden. 
+5. Teilnahmevoraussetzungen: 
+a) empfohlene Kenntnisse:  keine 
+b) verpflichtende Nachweise:  keine 
+6. Verwendbarkeit des Moduls:  B.Sc. Psychologie 
+7. Angebotsturnus des Moduls:  jährlich 
+8. Das Modul kann absolviert werden in:  2 Semestern 
+9. Empfohlenes Fachsemester:  1 bis 2 
+10. Gesamtaufwand des Moduls  Arbeitsaufwand:  
+(Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: 240 
+davon: 
+1. Präsenzzeit: 60 Stunden (4 SWS) 
+2. Selbststudium (inkl. Prüfungsvorbereitung/ 
+Prüfung): 180 Stunden 
+ 
+Leistungspunkte: 8 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller 
+in den Nrn. 11 und 12 aufgeführten Leistungen. 
+11. Modulbestandteile: 
+Nr  P/WP  Lehrform  Themenbereich/Thema  SWS LP  Studienleistungen 
+/ Std. 
+PSY-BSc- Pflicht  Vorlesung  Allgemeine Psychologie II / Teil 1  2  4   
+M07.1 
+PSY-BSc- Pflicht  Vorlesung  Allgemeine Psychologie II / Teil 2  2  4  Klausur 
+M07.2 
+12. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der Prüfung  Dauer  Zeitpunkt /  Anteil an 
+Bemerkungen  Modulnote 
+15 
+  
+ 
+PSY-BSc- Allgemeine Psychologie II /  Klausur  90 Minuten  Ende des  1 
+M07.1  Teil 1  Veranstaltungszeitraums 
+13. Bemerkungen: 
+Jede Teilprüfung muss als bestanden bewertet sein, um mit der Note der anderen Teilleistung verrechnet 
+werden zu können. Im Falle einer nicht bestandenen Teilleistung ist nur diese zu wiederholen.  
+Zusätzliches freiwilliges Lehrangebot:  
+PSY-BSc-M07.3: Übung zur Vorlesung PSY-BSc-M07.1 und  
+PSY-BSc-M07.4: Übung zur Vorlesung PSY-BSc-M07.2. 
+Nach Abschluss des Moduls haben die Studierenden zugleich Kenntnisse und Kompetenzen im Um-
+fang von 4 der insgesamt geforderten mindestens 25 ECTS-Punkte aus dem Bereich „Grundlagen der 
+Psychologie“ gemäß Nr. 1 der Anlage 1 zur Approbationsordnung für Psychotherapeutinnen und Psy-
+chotherapeuten (PsychTh-ApprO) erworben. 
+ 
+16 
+  
+ 
+ 
+PSY-BSc-M08: Biologische Psychologie 
+Gültig ab WS20/21 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13. 
+1. Name des Moduls:  Biologische Psychologie 
+2. Fachgebiet / Verantwortlich:  Prof. Dr. Klaus Lange 
+3. Inhalte des Moduls:  Es werden biologische (neuroanatomische, neurophysi-
+ologische und neurochemische) Grundlagen (Aufbau 
+und Funktion des Nervensystems, biologische Kompo-
+nenten psychischer Störungen) sowie Prinzipien der 
+neuropharmakologischen Beeinflussung von Verhalten 
+und Kognition bei Mensch und Tier vermittelt. 
+Nach Abschluss des Moduls verfügen Studierende über 
+4. Qualifikationsziele des Moduls /  
+ein breites biopsychologisches und neurobiologisches 
+    zu erwerbende Kompetenzen: 
+Grundwissen sowie über grundlegende Kenntnisse aus-
+gewählter körperliche Prozesse, Krankheiten und Behin-
+derungen mit Bezug zu neuronalen Systemen. Sie verfü-
+gen über grundlegende Kenntnisse pharmakologischer 
+Beeinflussung der Signalübertragung im Gehirn durch 
+Medikamente. Diese Kenntnisse bilden die Grundlage da-
+für, Ergebnisse weiterführender biopsychologischer For-
+schung einzuordnen und zu bewerten und sie bei der 
+Ausübung von Psychotherapie zu berücksichtigen. 
+5. Teilnahmevoraussetzungen: 
+a) empfohlene Kenntnisse:  keine 
+b) verpflichtende Nachweise:  keine 
+6. Verwendbarkeit des Moduls:  B.Sc. Psychologie 
+7. Angebotsturnus des Moduls:  jährlich 
+8. Das Modul kann absolviert werden in:  2 Semestern 
+9. Empfohlenes Fachsemester:  1 bis 2 
+10. Gesamtaufwand des Moduls  Arbeitsaufwand:  
+(Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: 360 
+davon: 
+1. Präsenzzeit: 90 Stunden (6 SWS) 
+2. Selbststudium (inkl. Prüfungsvorbereitung/ 
+Prüfung): 270 Stunden 
+ 
+Leistungspunkte: 12 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller 
+in den Nrn. 11 und 12 aufgeführten Leistungen. 
+11. Modulbestandteile: 
+Nr  P/WP  Lehrform  Themenbereich/Thema  SWS LP  Studienleistungen 
+/ Std. 
+PSY-BSc- Pflicht  Vorlesung  Biologische Psychologie und  2  4   
+M08.1  Neuropsychologie 
+17 
+  
+ 
+PSY-BSc- Pflicht  Seminar  Biologische Psychologie und  2  4  Referat 
+M08.2  Neuropsychologie I 
+PSY-BSc- Pflicht  Seminar  Biologische Psychologie und  2  4  Referat 
+M08.3  Neuropsychologie II 
+12. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der Prüfung  Dauer  Zeitpunkt /  Anteil an 
+Bemerkungen  Modulnote 
+PSY-BSc- Biologische Psychol- Klausur  60 Minuten  Ende des   1 
+M08.MP  ogie  Veranstaltungszeitraums 
+13. Bemerkungen: 
+Zusätzliches freiwilliges Lehrangebot: weitere Seminare zum Themengebiet Biologische Psychologie und 
+Neuropsychologie (M08.4). 
+Nach Abschluss des Moduls haben die Studierenden zugleich Kenntnisse und Kompetenzen im Umfang 
+von 5 der insgesamt geforderten mindestens 25 ECTS-Punkte aus dem Bereich „Grundlagen der Psycho-
+logie“, im Umfang von 1 der insgesamt geforderten mindestens 4 ECTS-Punkte aus dem Bereich „Grund-
+lagen der Medizin“ und im Umfang von 1 der mindestens geforderten 2 ECTS-Punkte aus dem Bereich 
+„Grundlagen der Pharmakologie“ gemäß Nr. 1 bzw. Nr. 3 der  Anlage 1 zur Approbationsordnung für Psy-
+chotherapeutinnen und Psychotherapeuten (PsychTh-ApprO) erworben. 
+ 
+ 
+18 
+  
+ 
+ 
+PSY-BSc-M09: Entwicklungspsychologie 
+Gültig ab WS20/21 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13. 
+1. Name des Moduls:  Entwicklungspsychologie 
+2. Fachgebiet / Verantwortlich:  Prof. Dr. Karl-Heinz Bäuml 
+3. Inhalte des Moduls:  In diesem Modul wird ein Überblick über die verschiede-
+nen Teilgebiete der Entwicklungspsychologie, unter be-
+sonderer Berücksichtigung aktueller Theorien und experi-
+menteller Forschungsparadigmen, gegeben. Konkret wird 
+die Entwicklung biologischer Prozesse, kognitiver Pro-
+zesse wie auch sozioemotionaler Prozesse über die Le-
+bensspanne hinweg behandelt.  
+Dieses Wissen wird in Seminaren vertieft. 
+4. Qualifikationsziele des Moduls /   Nach Abschluss des Moduls verfügen Studierende 
+über ein breites Wissen über die biologische, kognitive 
+    zu erwerbende Kompetenzen: 
+und sozioemotionale Entwicklung des Menschen sowie 
+über zentrale zugrundeliegende Entwicklungsmecha-
+nismen. Sie kennen und verstehen relevante Theorien 
+der Entwicklung über die gesamte Lebensspanne hin-
+weg, sowohl auf biologischer als auch auf Verhaltens-
+ebene. Diese Kenntnisse bilden die Grundlage dafür, 
+weiterführende entwicklungspsychologische Forschung 
+über die gesamte Lebensspanne sowohl in Theorie als 
+auch Anwendung zu verstehen, einzuordnen und zu 
+bewerten. 
+5. Teilnahmevoraussetzungen: 
+a) empfohlene Kenntnisse:  keine 
+b) verpflichtende Nachweise:  keine 
+6. Verwendbarkeit des Moduls:  B.Sc. Psychologie 
+7. Angebotsturnus des Moduls:  jährlich 
+8. Das Modul kann absolviert werden in:  2 Semestern 
+9. Empfohlenes Fachsemester:  1 bis 2 
+10. Gesamtaufwand des Moduls  Arbeitsaufwand:  
+(Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: 240 
+davon: 
+1. Präsenzzeit: 60 Stunden (4 SWS) 
+2. Selbststudium (inkl. Prüfungsvorbereitung/ 
+Prüfung): 180 Stunden 
+ 
+Leistungspunkte: 8 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller 
+in den Nrn. 11 und 12 aufgeführten Leistungen. 
+11. Modulbestandteile: 
+Nr  P/WP  Lehrform  Themenbereich/Thema  SWS LP  Studienleistungen 
+/ Std. 
+19 
+  
+ 
+PSY-BSc- Pflicht  Vorlesung  Experimentelle Entwicklungs- 2  4   
+M09.1  psychologie 
+PSY-BSc- Pflicht  Seminar  Experimentelle Entwicklungs- 2  4  Referat 
+M09.2  psychologie   
+12. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der Prüfung  Dauer  Zeitpunkt /  Anteil an 
+Bemerkungen  Modulnote 
+PSY-BSc- Experimentelle  Klausur  90 Minuten  Ende des  1 
+M09.1  Entwicklungspsy- Veranstaltungszeitraums 
+h l i  
+13. Bemerkungen: 
+Nach Abschluss des Moduls haben die Studierenden zugleich Kenntnisse und Kompetenzen im Um-
+fang von 3 der insgesamt geforderten mindestens 25 ECTS-Punkte aus dem Bereich „Grundlagen der 
+Psychologie“ gemäß Nr. 1 der Anlage 1 zur Approbationsordnung für Psychotherapeutinnen und Psy-
+chotherapeuten (PsychTh-ApprO) erworben. 
+ 
+20 
+  
+ 
+ 
+PSY-BSc-M10: Differentielle Psychologie und Persönlichkeitspsycholo-
+gie 
+Gültig ab WS20/21 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13. 
+1. Name des Moduls:  Differentielle Psychologie und 
+Persönlichkeitspsychologie 
+2. Fachgebiet / Verantwortlich:  Prof. (apl.) Dr. Stefan Wüst 
+3. Inhalte des Moduls:  In diesem Modul werden grundlegende Fachkenntnisse 
+über Fragestellungen, Methoden und Theorien der Per-
+sönlichkeitspsychologie vermittelt. Es werden wesentli-
+che Theorien zur Intelligenz- und Persönlichkeitsstruktur 
+präsentiert und hierbei historisch einflussreiche Ansätze 
+sowie aktuelle Befunde berücksichtigt. Auch werden 
+Grundlagen zu biologischen Korrelaten der Persönlich-
+keit vermittelt Im Modul werden ferner Grundlagen der 
+Genetik und Verhaltensgenetik vermittelt sowie die Be-
+deutung von Gen-Umwelt-Effekten für das individuelle 
+Erleben und Verhalten. 
+4. Qualifikationsziele des Moduls /    Nach Abschluss des Moduls verfügen Studierende 
+über breites persönlichkeitspsychologisches Grundla-
+    zu erwerbende Kompetenzen: 
+genwissen. Sie kennen wesentliche Theorien zur Ent-
+stehung und Struktur persönlichkeitsrelevanter interin-
+dividueller Unterschiede, haben ein grundlegendes 
+Verständnis für Methoden zur Erforschung dieser Un-
+terschiede entwickelt und können auf dieser Grundlage 
+konkurrierende Ansätze kritisch bewerten. Ferner kön-
+nen sie die Bedeutung persönlichkeitspsychologischer 
+Konzepte für verschiedene Anwendungsfächer der 
+Psychologie einordnen. Sie haben grundlegende 
+Kenntnisse über körperliche Prozesse, Krankheiten, 
+und Behinderungen mit Bezug zu Genetik und Verhal-
+tensgenetik. 
+5. Teilnahmevoraussetzungen: 
+a) empfohlene Kenntnisse:  keine 
+b) verpflichtende Nachweise:  mindestens eine erfolgreich absolvierte Studien- oder Prü-
+fungsleistung aus Modul PSY-M01 
+6. Verwendbarkeit des Moduls:  B.Sc. Psychologie 
+7. Angebotsturnus des Moduls:  jährlich 
+8. Das Modul kann absolviert werden in:  1 Semester 
+9. Empfohlenes Fachsemester:  1 bis 3 
+22 
+  
+ 
+10. Gesamtaufwand des Moduls  Arbeitsaufwand:  
+(Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: 180 
+davon: 
+1. Präsenzzeit: 60 Stunden (4 SWS) 
+2. Selbststudium (inkl. Prüfungsvorbereitung/ 
+Prüfung): 120 Stunden 
+ 
+Leistungspunkte: 6 
+ 
+ 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller 
+in den Nrn. 11 und 12 aufgeführten Leistungen. 
+11. Modulbestandteile: 
+Nr  P/WP  Lehrform  Themenbereich/Thema  SWS LP  Studienleistungen 
+/ Std. 
+PSY-BSc- Pflicht  Vorlesung  Einführung in die differentielle  2  4   
+M10.1  Psychologie 
+PSY-BSc- Pflicht  Übung  Einführung in die differentielle  2  2    
+M10.2  Psychologie 
+12. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der Prüfung  Dauer  Zeitpunkt /  Anteil an 
+Bemerkungen  Modulnote 
+PSY-BSc- Differentielle Psycholo- Klausur  90 Minuten  Ende des  1 
+M10.1  gie und Persönlich- Veranstaltungszeitraums 
+ 
+13. Bemerkungen: 
+Nach Abschluss des Moduls haben die Studierenden zugleich Kenntnisse und Kompetenzen im Umfang von 
+4 der insgesamt geforderten mindestens 25 ECTS-Punkte aus dem Bereich „Grundlagen der Psychologie“ 
+und im Umfang von 1 der insgesamt geforderten mindestens 4 ECTS-Punkte aus dem Bereich „Grundlagen 
+der Medizin“ gemäß Nr. 1 bzw. Nr. 3 der Anlage 1 zur Approbationsordnung für Psychotherapeutinnen und 
+Psychotherapeuten (PsychTh-ApprO) erworben. 
+ 
+   
+23 
+  
+ 
+ 
+PSY-BSc-M11: Klinische Psychologie: Störungslehre 
+Gültig ab WS20/21 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13. 
+1. Name des Moduls:  Klinische Psychologie: Störungslehre 
+Prof. Dr. Andreas Mühlberger, N.N. 
+2. Fachgebiet / Verantwortlich: 
+3. Inhalte des Moduls:  Inhalte sind die allgemeine und spezielle Krankheits-
+lehre psychischer und psychisch mitbedingter Erkran-
+kungen über die Lebensspanne (Kinder-und Jugendli-
+chenbereich einschließlich des Säuglings- und Klein-
+kindalters, Erwachsenenbereich einschließlich des hö-
+heren Lebensalters); Epidemiologie und Komorbidität, 
+klinisch-psychologische Diagnostik und Klassifikation, 
+Modelle über Entstehung, Aufrechterhaltung und Ver-
+lauf psychischer und psychisch mitbedingter Erkrankun-
+gen im Kindes-, Jugend- und Erwachsenenalter ein-
+schließlich des Säuglings-, Kleinkind- und höheren Le-
+bensalters  unter  Berücksichtigung  der  unterschiedli-
+chen Störungsmodelle der  wissenschaftlich geprüfte 
+und anerkannte Psychotherapieverfahren und -metho-
+den. 
+Nach Abschluss des Moduls können Studierende die 
+4. Qualifikationsziele des Moduls /  
+Erscheinungsformen, Klassifikation und charakterisie-
+    zu erwerbende Kompetenzen: 
+renden Merkmale, die Entwicklung und den Verlauf von 
+psychischen Störungen und von psychischen Aspekten 
+bei körperlichen Erkrankungen erklären.  
+Sie können die verschiedenen Theorien und Modelle 
+einschließlich der Modellannahmen der unterschiedli-
+chen wissenschaftlich geprüften und anerkannten psy-
+chotherapeutischen Verfahren und Methoden sowie der 
+ihnen zugeordneten empirischen Befunde zur Erklärung 
+der Entstehung und Aufrechterhaltung von psychischen 
+Störungen sowie von psychischen Aspekten bei körper-
+lichen Erkrankungen anwenden, 
+Sie erkennen, diagnostizieren und klassifizieren psychi-
+sche Erkrankungen unter angemessener Nutzung von 
+ausgewählten  standardisierten  diagnostischen  Be-
+obachtungs-, Mess- und Beurteilungsinstrumenten. Sie 
+sind dadurch auch in der Lage, Interventionsmaßnah-
+men zu bewerten. 
+ 
+5. Teilnahmevoraussetzungen: 
+keine 
+a) empfohlene Kenntnisse: 
+jeweils mindestens eine erfolgreich absolvierte Studien- 
+b) verpflichtende Nachweise: 
+oder Prüfungsleistung aus den Modulen PSY-M01 und 
+PSY-M08 
+B.Sc. Psychologie 
+6. Verwendbarkeit des Moduls: 
+jährlich 
+7. Angebotsturnus des Moduls: 
+2 Semestern 
+8. Das Modul kann absolviert werden in: 
+3 bis 4 
+9. Empfohlenes Fachsemester: 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+Gesamt in Stunden: 240 
+     (Workload) / Anzahl Leistungspunkte: 
+davon: 
+24 
+  
+ 
+1. Präsenzzeit: 60 Stunden (4 SWS) 
+2. Selbststudium (inkl. Prüfungsvorbereitung/Prü-
+fung): 180 Stunden 
+ 
+Leistungspunkte: 8 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller 
+in den Nrn. 11 und 12 aufgeführten Leistungen. 
+11. Modulbestandteile: 
+P / 
+Nr.  Lehr- Themenbereich /  SWS /  LP  Studienleistungen 
+WP / 
+form  Thema  Std. 
+W 
+PSY- Pflicht  Vorlesung  Klinische Psychologie  1  2   
+BSc- Störungslehre 
+M11.1   
+PSY- Pflicht  Seminar  Klinische Psychologie  3  6  Referat oder Hausarbeit  
+BSc- Störungslehre 
+M11.2 
+12. Modulprüfung: 
+Kompetenz / Thema  Art der Prüfung  Dauer  Zeitpunkt / Be- Anteil an 
+Nr. 
+/ Bereich  merkungen  Modulnote 
+PSY- Klinische Psychologie  Klausur  60 Minuten  Ende des  1 
+BSc- Störungslehre  Veranstaltungszeitraums 
+M11.1 
+13. Bemerkungen:  
+Die Form der im Rahmen des Seminars jeweils zu erbringenden Studienleistung (Referat oder Hausarbeit) 
+wird zu Semesterbeginn durch den jeweiligen Dozenten oder die jeweilige Dozentin bekannt gegeben. 
+ 
+Zusätzliches freiwilliges Lehrangebot: Seminar zur Klinischen Psychologie (M11.3). 
+ 
+Nach Abschluss des Moduls haben die Studierenden zugleich Kenntnisse und Kompetenzen im Um-
+fang der geforderten mindestens 8 ECTS-Punkte aus dem Bereich „Störungslehre“ gemäß Nr. 5 der 
+Anlage 1 zur Approbationsordnung für Psychotherapeutinnen und Psychotherapeuten (PsychTh-Ap-
+prO) erworben. 
+25 
+  
+ 
+ 
+PSY-BSc-M12: Basismodul Klinische Psychologie: Gesundheitsförde-
+rung und Neuropsychologie 
+Gültig ab WS20/21 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13. 
+1. Name des Moduls:  Basismodul Klinische Psychologie: Gesundheits-
+förderung und Neuropsychologie 
+2. Fachgebiet / Verantwortlich:  Prof. Dr. Klaus Lange 
+3. Inhalte des Moduls:  Das Modul vermittelt Kenntnisse über Probleme bei der 
+Diagnostik, Prävention und Rehabilitation von Krankhei-
+ten unter besonderer Berücksichtigung von Gesundheits-
+förderung und Neuropsychologie. 
+4. Qualifikationsziele des Moduls /   Nach Abschluss des Moduls sind die Studierenden in der 
+    zu erwerbende Kompetenzen:  Lage, auf der Basis empirisch-experimenteller Befunde ge-
+sundheitsbezogene präventive und rehabilitative Maßnah-
+men unter besonderer Berücksichtigung neuropsychologi-
+scher Störungen zu bewerten und auf alltagsrelevante Fra-
+gestellungen anzuwenden. 
+5. Teilnahmevoraussetzungen: 
+a) empfohlene Kenntnisse:  keine 
+b) verpflichtende Nachweise:  jeweils mindestens eine erfolgreich absolvierte Studien- 
+oder Prüfungsleistung aus den Modulen PSY-M01 und 
+PSY-M08 
+6. Verwendbarkeit des Moduls:  B.Sc. Psychologie 
+7. Angebotsturnus des Moduls:  jährlich 
+8. Das Modul kann absolviert werden in:  2 Semestern 
+9. Empfohlenes Fachsemester:  3 bis 4 
+10. Gesamtaufwand des Moduls  Arbeitsaufwand:  
+(Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: 240 
+davon: 
+1. Präsenzzeit: 60 Stunden (4 SWS) 
+2. Selbststudium (inkl. Prüfungsvorbereitung/ 
+Prüfung): 180 Stunden 
+ 
+Leistungspunkte: 8 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller 
+in den Nrn. 11 und 12 aufgeführten Leistungen. 
+11. Modulbestandteile: 
+Nr  P/WP  Lehrform  Themenbereich/Thema  SWS LP  Studienleistungen 
+/ Std. 
+PSY-BSc- Pflicht  Vorlesung  Klinische Psychologie und  1  2   
+M12.1  Neuropsychologie I 
+PSY-BSc- Pflicht  Seminar  Klinische Psychologie und  3  6  Referat  
+M12.2  Neuropsychologie I 
+26 
+  
+ 
+12. Modulprüfung: 
+Nr  Kompetenz /  Art der Prüfung  Dauer  Zeitpunkt /  Anteil an 
+Thema  Bemerkungen  Modulnote 
+PSY-BSc- Klinische Psychologie und  Klausur  60 Minuten  Letzte Woche des  1 
+M12.MP  Neuropsychologie I  Veranstaltungszeitraums 
+13. Bemerkungen: 
+Zusätzliches freiwilliges Lehrangebot:  
+Seminar (PSY-BSc-M12.3) und/oder Praktikum (PSY-BSc-M12.4) zum Themengebiet "Klinische 
+Psychologie und Neuropsychologie I" 
+27 
+  
+ 
+ 
+PSY-BSc-M13: Basismodul Pädagogische Psychologie 
+Gültig ab WS20/21 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13. 
+1. Name des Moduls:  Basismodul Pädagogische Psychologie 
+2. Fachgebiet / Verantwortlich:  Prof. Dr. Christof Kuhbandner 
+3. Inhalte des Moduls:  Das Modul vermittelt Kenntnisse über die psychologischen 
+Grundlagen pädagogischen Handelns.  
+Dabei werden folgende Themen behandelt: 
+- Psychologische Theorien und Befunde aus verschiede-
+nen Bereichen der Psychologie (Motivation, Emotion, Kog-
+nition, inklusive entwicklungspsychologischer und persön-
+lichkeitspsychologischer Dynamiken), die pädagogische 
+Sachverhalte und Ereignisse beschreiben, erklären und 
+vorhersagen können. 
+- Biologische und soziologische Rahmenbedingungen des 
+Erlebens und Verhaltens, die den Veränderungsspielraum 
+psychologisch-pädagogischer Einflussnahmen beeinflus-
+sen. 
+- Normative Grundlagen hinsichtlich der Absicht, Erleben 
+und Verhalten mittels psychologisch-pädagogischer Ein-
+flussnahmen zu verbessern und zu optimieren. 
+4. Qualifikationsziele des Moduls /   Nach Abschluss des Moduls haben Studierende erwor-
+ben: 
+    zu erwerbende Kompetenzen: 
+- Wissen zu psychologischen Theorien und empirischen 
+Befunden zu den oben genannten Themen, das zur Ver-
+besserung und Optimierung pädagogischen Handelns 
+verwendet werden kann 
+- die Fähigkeit, mit Hilfe dieses Wissens pädagogische 
+Sachverhalte und Ereignisse differenziert wahrzunehmen 
+und systematisch zu analysieren 
+- die Fähigkeit, Theorien und empirische Befunde 
+und daraus abgeleitete Optimierungs- und 
+Interventionsvorschläge methodenkritisch zu bewerten 
+5. Teilnahmevoraussetzungen: 
+a) empfohlene Kenntnisse:  Grundlagenwissen der Psychologie 
+b) verpflichtende Nachweise:  jeweils mindestens eine erfolgreich absolvierte Studien- 
+oder Prüfungsleistung aus den Modulen PSY-M01, PSY-
+M09 und PSY-M11 
+6. Verwendbarkeit des Moduls:  B.Sc. Psychologie 
+7. Angebotsturnus des Moduls:  jährlich 
+8. Das Modul kann absolviert werden in:  2 Semestern 
+9. Empfohlenes Fachsemester:  3 bis 4 
+28 
+  
+ 
+ 
+ 
+10. Gesamtaufwand des Moduls  Arbeitsaufwand:  
+(Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: 240 
+davon: 
+1. Präsenzzeit: 60 Stunden (4 SWS) 
+2. Selbststudium (inkl. Prüfungsvorbereitung/ 
+Prüfung): 180 Stunden 
+ 
+Leistungspunkte: 8 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller 
+in den Nrn. 11 und 12 aufgeführten Leistungen. 
+11. Modulbestandteile: 
+Nr  P/WP  Lehrform  Themenbereich/Thema  SWS LP  Studienleistungen 
+/ Std. 
+PSY-BSc- Pflicht  Vorlesung  Einführung in die Pädagogische  2  4   
+M13.1  Psychologie 
+PSY-BSc- Pflicht  Seminar  Pädagogische Psychologie  2  4  Referat oder Hausarbeit  
+M13.2 
+12. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der Prüfung  Dauer  Zeitpunkt /  Anteil an 
+Bemerkungen  Modulnote 
+PSY-BSc- Pädagogische Psy- Klausur  90 Minuten  Ende des  1 
+M13.MP  chologie  Veranstaltungszeitraums 
+13. Bemerkungen: 
+Die Form der im Rahmen des Seminars jeweils zu erbringenden Studienleistung (Referat oder Hausarbeit) 
+wird zu Semesterbeginn durch den jeweiligen Dozenten oder die jeweilige Dozentin bekannt gegeben. 
+29 
+  
+ 
+ 
+PSY-BSc-M14: Basismodul Arbeits-, Organisations- und Wirtschaftspsy-
+chologie 
+Gültig ab WS20/21 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13. 
+1. Name des Moduls:  Basismodul Arbeits-, Organisations- und Wirt-
+schaftspsychologie 
+2. Fachgebiet / Verantwortlich:  Prof. Dr. Peter Fischer 
+3. Inhalte des Moduls:  In diesem Modul werden psychologische Erklärungen für Erleben 
+ 
+und Verhalten von Individuen am Arbeitsplatz, in Teams und Orga-
+ 
+nisationen sowie als Teilnehmende an Märkten und gesamtwirt-
+ 
+schaftlichen Prozessen betrachtet und psychologische Verände-
+ 
+  rungstreatments begründet. Es werden auch psychologische Prä-
+  ventionsmaßnahmen bezogen auf psychische und körperliche Er-
+  krankungen sowie deren Entwicklung und Evaluation behandelt. 
+ 
+Hierbei stehen u.a. im Fokus: a) Merkmale und Funktion von Prä-
+ 
+vention und Rehabilitation unter Berücksichtigung der Belange un-
+ 
+terschiedlicher Alters- und Patientengruppen und b) Präventionspro-
+ 
+  gramme und Rehabilitationsansätze unter Berücksichtigung der Be-
+ lange unterschiedlicher Alters- und Patientengruppen. 
+4. Qualifikationsziele des  Nach Abschluss des Moduls kennen Studierende die Aufgaben und 
+Moduls / zu erwerbende  Tätigkeitsfelder von Wirtschafts- und Organisationspsychologen/in-
+Kompetenzen:  nen und verfügen außerdem über Wissen und Verständnis von Theo-
+rien und Modellen aus der Wirtschafts- und Organisationspsycholo-
+gie. Die Studierenden können das Erleben und Verhalten am Arbeits-
+platz, in Teams und Organisationen sowie von Teilnehmenden an 
+Märkten und gesamtwirtschaftlichen Prozessen beschreiben und er-
+klären sowie bei der Bewertung und Entwicklung von Veränderungs-
+vorschlägen berücksichtigen.  
+Studierende verfügen darüber hinaus über Wissen und Verständnis zu 
+psychologischer Prävention sowie über grundlegende Kompetenzen 
+zur empirischen Präventionsforschung. Dies umfasst Kennzeichen, 
+Ziele, Aufgaben, Indikationen und Methoden von Prävention und Re-
+habilitation sowie Präventionsprogramme und Rehabilitationsansätze 
+unter besonderer Berücksichtigung der Belange unterschiedlicher Al-
+tersgruppen. Dabei sollen die Studierenden u.a. folgendes erlernen: 
+(a) Beurteilen der Wirksamkeit von verhaltens- und verhältnisorientier-
+ten Präventions-, lnterventions- und Rehabilitationsmerkmalen und -
+konzepten deren Nutzen zum Erhalt oder zur Wiederherstellung von 
+Gesundheit oder zur Verminderung von Gesundheitsbeeinträchtigun-
+gen in Organisationen dienen; b) Erkennen gesundheitsrelevanter As-
+pekte in verschiedenen Lebenswelten einschließlich der vorhandenen 
+Ressourcen und Resilienzfaktoren; c) Nutzen der Schnittstellen und 
+Kooperationsmöglichkeiten von Lebens-, Versorgungs- oder Organisa-
+tionsbereichen; und d) Erlangung von Grundkenntnissen der sozial-
+rechtlichen, zivilrechtlichen und weiteren einschlägigen Vorschriften 
+zum Kinderschutz in/durch Organisationen sowie der angrenzenden 
+Rechtsgebiete. 
+30 
+  
+ 
+5. Teilnahmevoraussetzungen: 
+a) empfohlene Kenntnisse:  erfolgreicher Abschluss der Module PSY-M01, PSY-M06, PSY-M07 
+und PSY-M11 
+b) verpflichtende Nachweise:  jeweils mindestens eine erfolgreich absolvierte Studien- oder Prü-
+fungsleistung aus den Modulen PSY-M01 und PSY-M11 
+6. Verwendbarkeit des Moduls:  B.Sc. Psychologie 
+7. Angebotsturnus des Moduls:  jährlich 
+8. Das Modul kann absolviert wer- 2 Semestern 
+den in: 
+9. Empfohlenes Fachsemester:  3 bis 4 
+10. Gesamtaufwand des  Arbeitsaufwand:  
+Moduls (Workload) / An- Gesamt in Stunden: 240 davon: 
+zahl Leistungspunkte:  1. Präsenzzeit: 60 Stunden (4 SWS) 
+2. Selbststudium (inkl. Prüfungsvorbereitung/ Prüfung): 
+180 Stunden 
+ 
+Leistungspunkte: 8 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller 
+in den Nrn. 11 und 12 aufgeführten Leistungen. 
+ 
+11. Modulbestandteile: 
+Nr  P/WP  Lehrform  Themenbereich/Thema  SWS LP  Studienleistungen 
+/ Std. 
+PSY-BSc- Pflicht  Vorlesung  Arbeits-, Organisations- und  2  4   
+M14.1  Wirtschaftspsychologie 
+PSY-BSc- Wahlpflicht Seminar   Arbeitspsychologie  2  4  Referat,  
+M14.2  Klausur 
+PSY-BSc- Wahlpflicht Seminar  Organisationspsychologie  2  4  Referat,  
+M14.3  Klausur 
+PSY-BSc- Wahlpflicht Seminar  Ausgewählte Themen der  2  4  Referat,  
+M14.4  Arbeits- und Organisati- Klausur 
+onspsychologie 
+12. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der Prüfung  Dauer  Zeitpunkt /  Anteil an 
+Bemerkungen  Modulnote 
+PSY-BSc- Arbeits-, Organisati- Klausur  60 Minuten  Letzte Sitzung  1 
+M14.1  ons- und Wirtschafts- der Veranstaltung 
+h l i  
+13. Bemerkungen: 
+ Es ist eines der drei angebotenen Seminare zu besuchen. 
+Zusätzliches freiwilliges Lehrangebot: M14.5: Seminar Coaching. 
+Nach Abschluss des Moduls haben die Studierenden zugleich Kenntnisse und Kompetenzen im Umfang 
+der geforderten mindestens 2 ECTS-Punkte aus dem Bereich „Präventive und rehabilitative Konzepte psy-
+chotherapeutischen Handelns“ gemäß Nr. 8 der Anlage 1 zur Approbationsordnung für Psychotherapeutin-
+nen und Psychotherapeuten (PsychTh-ApprO) erworben. 
+ 
+31 
+  
+ 
+ 
+PSY-BSc-M15: Basismodul Angewandte Kognitionsforschung 
+Gültig ab WS20/21 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13. 
+1. Name des Moduls:  Basismodul Angewandte Kognitionsforschung 
+2. Fachgebiet / Verantwortlich:  Prof. Dr. Karl-Heinz Bäuml / Prof. Dr. Gesine 
+Dreisbach / Prof. Dr. Mark Greenlee 
+3. Inhalte des Moduls:  In diesem Modul wird vertieftes Wissen aus dem Bereich 
+der grundlagenorientierten Gedächtnis-, Emotions-, Moti-
+vations- und Wahrnehmungsforschung vermittelt.  
+4. Qualifikationsziele des Moduls /   Nach Abschluss des Moduls verstehen die Studierenden, 
+wie auf Basis empirisch- experimenteller Befunde theore-
+    zu erwerbende Kompetenzen: 
+tische Modellvorstellungen entwickelt werden und können 
+diese auf alltagsrelevante Fragestellungen (z.B. Gedächt-
+nisleistungen, Emotions- und Motivationskontrolle, multi-
+sensorische Wahrnehmung) anwenden. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  Modul PSY-M06 und PSY-M07 
+b) verpflichtende Nachweise:  jeweils mindestens eine erfolgreich absolvierte Studien- 
+oder Prüfungsleistung aus den Modulen PSY-M01, PSY-
+M06 und PSY-M07 
+6. Verwendbarkeit des Moduls:  B.Sc. Psychologie 
+7. Angebotsturnus des Moduls:  jährlich 
+8. Das Modul kann absolviert werden in:  2 Semestern 
+9. Empfohlenes Fachsemester:  3 bis 4 
+10. Gesamtaufwand des Moduls  Arbeitsaufwand:  
+(Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: 240 
+davon: 
+1. Präsenzzeit: 60 Stunden (4 SWS) 
+2. Selbststudium (inkl. Prüfungsvorbereitung/ 
+Prüfung): 180 Stunden 
+ 
+Leistungspunkte: 8 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller 
+in den Nrn. 11 und 12 aufgeführten Leistungen. 
+11. Modulbestandteile: 
+Nr  P/W Lehrform  Themenbereich/Thema  SWS LP  Studienleistungen 
+P  / Std. 
+PSY-BSc- Pflicht  Vorlesung  Gedächtnis  2  4  Klausur 
+M15.1 
+PSY-BSc- Pflicht  Seminar  Gedächtnis / Sinnessysteme und  2  4  Referat oder Hausarbeit 
+M15.2  Wahrnehmungsprozesse / Emotion 
+und Motivation 
+12. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der Prüfung  Dauer  Zeitpunkt /  Anteil an 
+Bemerkungen  Modulnote 
+32 
+  
+ 
+PSY-BSc- Gedächtnis / Sinnessys- Klausur  90 Minuten  Ende des  1 
+M15.2  teme und Wahrneh- Veranstaltungszeitraums 
+mungsprozesse / Emo-
+ti   d M ti ti  
+13. Bemerkungen: 
+Die Form der im Rahmen des Seminars jeweils zu erbringenden Studienleistung (Referat oder Hausarbeit) 
+wird zu Semesterbeginn durch den jeweiligen Dozenten oder die jeweilige Dozentin bekannt gegeben. 
+   
+ 
+   
+33 
+  
+ 
+ 
+PSY-BSc-M16: Aufbaumodul Klinische Psychologie und Neuropsycholo-
+gie: Allgemeine Verfahrenslehre 
+Gültig ab WS20/21 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13. 
+1. Name des Moduls:  Aufbaumodul Klinische Psychologie und 
+Neuropsychologie: Allgemeine Verfah-
+renslehre 
+2. Fachgebiet / Verantwortlich:  Prof. Dr. Andreas Mühlberger, N.N. 
+Das Modul beinhaltet die Allgemeine Verfahrenslehre der 
+3. Inhalte des Moduls: 
+Psychotherapie inklusive Neuropsychologie, insbeson-
+dere Kennzeichen, Historie, Wirksamkeit, Methoden und 
+Indikationsstellung von allen wissenschaftlich geprüften 
+und anerkannten psychotherapeutischen Verfahren und 
+Methoden für unterschiedlichen Altersbereiche und von 
+Neuentwicklungen. Es beinhaltet auch Methoden sowie 
+die wissenschaftliche Evidenzbewertung psychotherapeu-
+tischer Behandlungsansätze. 
+Nach Abschluss des Moduls können Studierende die 
+4. Qualifikationsziele des Moduls /  
+Wirkungsweise und Einsetzbarkeit der wissenschaftlich 
+    zu erwerbende Kompetenzen: 
+geprüften und anerkannten psychotherapeutischen Ver-
+fahren und Methoden sowie von evidenzbasierten Neu-
+entwicklungen unter Einbeziehung der jeweiligen histori-
+schen Entwicklung, der Indikationsgebiete und der Wirk-
+samkeit, der Ätiologie und Störungsmodelle und der den 
+Verfahren und Methoden zugehörigen psychotherapeuti-
+schen Techniken beurteilen. Sie können bei der Indikati-
+onsstellung und der Behandlungsplanung die der Alters- 
+und Patientengruppe angemessenen anerkannten Be-
+handlungsleitlinien unter Beachtung des üblichen Vorge-
+hens, der Qualitätssicherung sowie von Stärken und 
+Schwächen in der Leitlinienentwicklung anwenden und 
+Patientinnen und Patienten und andere beteiligte oder zu 
+beteiligende Personen angemessen über anerkannte Be-
+handlungsleitlinien aufklären. 
+5. Teilnahmevoraussetzungen:   
+ 
+a) empfohlene Kenntnisse:  Basismodul PSY-M11 oder PSY-M12 
+ 
+b) verpflichtende Nachweise:  jeweils mindestens eine erfolgreich absolvierte Studien- 
+oder Prüfungsleistung aus den Modulen PSY-M01 und 
+PSY-M12 oder aus den Modulen PSY-M01 und PSY-
+M11 
+6. Verwendbarkeit des Moduls:  B.Sc. Psychologie 
+7. Angebotsturnus des Moduls:  jährlich 
+8. Das Modul kann absolviert werden in:  2 Semestern 
+9. Empfohlenes Fachsemester:  5 bis 6 
+34 
+  
+ 
+10. Gesamtaufwand des Moduls  Arbeitsaufwand:  
+(Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: 240 
+davon: 
+1. Präsenzzeit: 60 Stunden (4 SWS) 
+2. Selbststudium (inkl. Prüfungsvorbereitung/ 
+Prüfung): 180 Stunden 
+ 
+Leistungspunkte: 8 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller 
+in den Nrn. 11 und 12 aufgeführten Leistungen. 
+ 11. Modulbestandteile: 
+Nr  P/W Lehrform  Themenbereich/Thema  SWS LP  Studienleistungen 
+P  / Std. 
+PSY-BSc- Pflicht  Vorlesung  Klinische Psychologie und  1  2   
+M16.1  Neuropsychologie II 
+PSY-BSc- Pflicht  Seminar  Klinische Psychologie und  3  6  regelmäßige Teilnahme, 
+M16.2  Neuropsychologie II  Referat oder Hausarbeit  
+12. Modulprüfung:   
+Nr  Kompetenz / Thema  Art der Prüfung  Dauer  Zeitpunkt /  Anteil an 
+Bemerkungen  Modulnote 
+PSY-BSc- Klinische Psychologie und  Klausur  60 Minuten  Letzte Woche des  1 
+M16.1  Neuropsychologie II  Veranstaltungszeitraums 
+13. Bemerkungen: 
+Die Form der im Rahmen des Seminars jeweils zu erbringenden Studienleistung (Referat oder Hausarbeit) 
+wird zu Semesterbeginn durch den jeweiligen Dozenten oder die jeweilige Dozentin bekannt gegeben. 
+Nach § 5 Abs. 2 PsychTh-ApprO ist in dem Pflichtseminar Anwesenheit (regelmäßige Teilnahme) erforder-
+lich.  
+Zusätzliches freiwilliges Lehrangebot: Seminar (M16.3) zu "Klinische Psychologie und Neuropsychologie: 
+Allgemeine Verfahrenslehre" 
+Nach Abschluss des Moduls haben die Studierenden zugleich Kenntnisse und Kompetenzen im Umfang der 
+geforderten mindestens 8 ECTS-Punkte aus dem Bereich „Allgemeine Verfahrenslehre“ gemäß Nr. 7 der 
+Anlage 1 zur Approbationsordnung für Psychotherapeutinnen und Psychotherapeuten (PsychTh-ApprO) er-
+worben. 
+35 
+  
+ 
+ 
+PSY-BSc-M17: Aufbaumodul Pädagogische Psychologie 
+Gültig ab WS20/21 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13. 
+1. Name des Moduls:  Aufbaumodul Pädagogische Psychologie 
+2. Fachgebiet / Verantwortlich:  Prof. Dr. Christof Kuhbandner 
+3. Inhalte des Moduls:  Das Modul vermittelt Kenntnisse über die anwendungs- 
+und handlungsbezogene Aufbereitung psychologischer 
+Theorien für pädagogische Sachverhalte und Ereignisse. 
+Dabei werden folgende Themen behandelt: 
+-  Aufbereitung psychologischer Wissensbestände für Auf-
+gabengebiete der psychologisch-pädagogischen Praxis. 
+- Methodische Grundlagen anwendungsbezogener 
+Forschung im Bereich der pädagogischen Psycholo-
+gie. 
+ 4. Qualifikationsziele des Moduls /   Durch die Lehrveranstaltungen des Moduls erwerben die 
+Studierenden: 
+     zu erwerbende Kompetenzen: 
+- Wissen über die methodischen Grundlagen anwendungs-
+bezogener Forschung im Bereich der pädagogischen Psy-
+chologie. 
+- Die Fähigkeit, aufbauend auf psychologischem Wissen 
+pädagogische Anwendungsmöglichkeiten theoriebezogen 
+abzuleiten, zu reflektieren, zu begründen und empirisch zu 
+überprüfen. 
+5. Teilnahmevoraussetzungen:             
+       
+a) empfohlene Kenntnisse:  keine 
+ 
+b) verpflichtende Nachweise:  mindestens eine erfolgreich absolvierte Studien- oder Prü-
+fungsleistung aus Modul PSY-M13 
+6. Verwendbarkeit des Moduls:  B.Sc. Psychologie 
+7. Angebotsturnus des Moduls:  jährlich 
+8. Das Modul kann absolviert werden in:  2 Semestern 
+9. Empfohlenes Fachsemester:  5 bis 6 
+10. Gesamtaufwand des Moduls  Arbeitsaufwand:  
+(Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: 240 
+davon: 
+1. Präsenzzeit: 60 Stunden (4 SWS) 
+2. Selbststudium (inkl. Prüfungsvorbereitung/ 
+Prüfung): 180 Stunden 
+ 
+Leistungspunkte: 8 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller 
+in den Nrn. 11 und 12 aufgeführten Leistungen. 
+11. Modulbestandteile: 
+Nr  P/WP  Lehrform  Themenbereich/Thema  SWS LP  Studienleistungen 
+/ Std. 
+36 
+  
+ 
+PSY-BSc- Pflicht  Seminar  Psychologische Grundlagen  2  4  Referat 
+M17.1  von Erziehungs-, Unterrichts- 
+und Sozialisationsprozessen: 
+Theoretische Grundlagen 
+PSY-BSc- Pflicht  Seminar  Psychologische Grundlagen  2  4  Referat  
+M17.2  von Erziehungs-, Unterrichts- 
+und Sozialisationsprozessen: 
+Empirische Methoden 
+12. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der Prüfung  Dauer/  Zeitpunkt /   Anteil an 
+Umfang  Bemerkungen  Modulnote 
+PSY-BSc- Psychologische Grund- Hausarbeit   Dauer: vier  Mitte und Ende des   1/2 
+Wochen; 
+M17.1  lagen von Erziehungs-,  oder Klausur    Veranstaltungszeitraums 
+Unterrichts- und Soziali- Umfang: 15-
+ 
+sationsprozessen: The- 20 Textseiten 
+PSY-BSc- Psycholog ische Grund - Hausarbeit   Dauer: vier  Mitte und Ende des  1/2 
+Wochen; 
+M17.2  lagen von Erziehungs-,  oder Klausur    Veranstaltungszeitraums 
+Unterrichts- und Soziali- Umfang: 15-
+ 
+sationsprozessen: Em- 20 Textseiten 
+ii h  M th d  
+13. Bemerkungen: 
+Jede Teilprüfung muss als bestanden bewertet sein, um mit der Note der anderen Teilleistung verrech-
+net werden zu können. Im Falle einer nicht bestandenen Teilleistung ist nur diese zu wiederholen. 
+Die Form der jeweils zu erbringenden Prüfungsleistung (Hausarbeit oder Klausur) wird zu Semesterbeginn 
+durch den jeweiligen Dozenten oder die jeweilige Dozentin bekannt gegeben. 
+ 
+37 
+  
+ 
+ 
+PSY-BSc-M18: Aufbaumodul Arbeits-, Organisation- und Wirtschaftspsy-
+chologie 
+Gültig ab WS20/21 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13. 
+1. Name des Moduls:  Aufbaumodul Arbeits-, Organisation- und 
+Wirtschaftspsychologie 
+2. Fachgebiet / Verantwortlich:  Prof. Dr. Peter Fischer 
+3. Inhalte des Moduls:  In diesem Modul werden Entscheidungen im wirtschaftli-
+chen Kontext behandelt. Dazu gehören Berufswahlent-
+scheidungen, betriebliche Entscheidungen (Führung, 
+Management) und Entscheidungen von Individuen als 
+Marktteilnehmende (Konsum, Investition, Börse). 
+4. Qualifikationsziele des Moduls /   Nach Abschluss des Moduls verfügen Studierende über 
+vertieftes Wissen in den Aufgaben- und Tätigkeitsfel-
+    zu erwerbende Kompetenzen: 
+dern der Wirtschafts- und Organisationspsychologie. Sie 
+können typische Probleme bei wirtschaftlichen Entschei-
+dungen benennen und analysieren sowie Entscheidun-
+gen unterstützen. 
+5. Teilnahmevoraussetzungen: 
+a) empfohlene Kenntnisse:  erfolgreicher Abschluss der Module PSY-M01, PSY-M02, 
+PSY-M06, PSY-M07, PSY-M11 und PSY-M14 
+b) verpflichtende Nachweise:  erfolgreich absolvierte Prüfungsleistung aus Modul PSY-
+M14 (PSY-M14.1) 
+6. Verwendbarkeit des Moduls:  B.Sc. Psychologie 
+7. Angebotsturnus des Moduls:  jährlich 
+8. Das Modul kann absolviert werden in:  2 Semestern 
+9. Empfohlenes Fachsemester:  5 bis 6 
+10. Gesamtaufwand des Moduls  Arbeitsaufwand:  
+(Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: 240 
+davon: 
+1. Präsenzzeit: 60 Stunden (4 SWS) 
+2. Selbststudium (inkl. Prüfungsvorbereitung/ 
+Prüfung): 180 Stunden 
+ 
+Leistungspunkte: 8 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller 
+in den Nrn. 11 und 12 aufgeführten Leistungen. 
+11. Modulbestandteile: 
+Nr  P/WP  Lehr- Themenbereich/Thema  SWS LP  Studienleistungen 
+form  / Std. 
+PSY-BSc- Wahlpflicht  Seminar  Personalauswahl  2  4  Referat,  
+M18.1  Klausur (1b falls unbenotet) 
+PSY-BSc- Wahlpflicht  Seminar  Personalentwicklung  2  4   Referat,  
+M18.2  Klausur (2b falls unbenotet) 
+PSY-BSc- Wahlpflicht  Seminar  Führung  2  4  Referat,  
+M18.3  Klausur (3b falls unbenotet) 
+38 
+  
+ 
+PSY-BSc- Wahlpflicht  Seminar  Marktforschung  2  4  Referat,  
+M18.4  Klausur (4b falls unbenotet) 
+PSY-BSc- Wahlpflicht  Seminar  AOW (Arbeits-, Organisations-,  2  4  Referat,  
+M18.5  Wirtschaftspsychologie) For- Klausur (5b falls unbenotet) 
+schungsseminar 
+PSY-BSc- Wahlpflicht  Seminar  Ausgewählte Themen der  2  4  Referat,  
+M18.6  Wirtschaftspsychologie  Klausur (6b falls unbenotet) 
+12. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der Prüfung  Dauer  Zeitpunkt /  Anteil an 
+Bemerkungen  Modulnote 
+PSY-BSc- Personalauswahl (benotet)  Klausur  60 Minuten  Ende des  1 
+M18.1a  Veranstaltungszeitraums 
+PSY-BSc- Personalentwicklung (beno- Klausur  60 Minuten  Ende des  1 
+M18.2a  tet)  Veranstaltungszeitraums 
+PSY-BSc- Führung (benotet)  Klausur  60 Minuten  Ende des  1 
+M18.3a  Veranstaltungszeitraums 
+PSY-BSc- Marktforschung (benotet)  Klausur  60 Minuten  Ende des  1 
+M18.4a  Veranstaltungszeitraums 
+PSY-BSc- AOW Forschungsseminar (be- Klausur  60 Minuten  Ende des  1 
+M18.5a  notet)  Veranstaltungszeitraums 
+PSY-BSc- Ausgewählte Themen  Klausur  60 Minuten  Ende des  1 
+M18.6a  der Wirtschaftspsychologie  Veranstaltungszeitraums 
+(b t t) 
+13. Bemerkungen: 
+Es müssen zwei Klausuren aus den Veranstaltungen M18.1 – M18.6 absolviert werden, davon ist eine 
+Leistung unbenotet (M18.1-6 b), die andere Leistung bildet die Modulnote (M18.1-6 a).  
+Es besteht freie Wahl, welches Seminar benotet sein soll. Dies muss mit der Prüfungsanmeldung fest-
+gelegt werden (benotete Leistung jeweils unter "a"; unbenotete Leistung jeweils unter "b" anmelden). 
+Alle weiteren Klausuren werden ohne Benotung bewertet.  
+Zusätzliches freiwilliges Lehrangebot: PSY-BSc-M18.6: Seminar Coaching 
+39 
+  
+ 
+ 
+PSY-BSc-M19: Aufbaumodul Angewandte Kognitionsforschung 
+Gültig ab WS20/21 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13. 
+1. Name des Moduls:  Aufbaumodul Angewandte Kognitionsforschung 
+2. Fachgebiet / Verantwortlich:  Prof. Dr. Karl-Heinz Bäuml / Prof. Dr. Gesine Dreisbach / 
+Prof. Dr. Mark Greenlee 
+3. Inhalte des Moduls:  In diesem Modul erwerben Studierende vertieftes Wissen 
+aus dem Bereich der höheren kognitiven Prozesse, wie 
+sie in der Entscheidungs-, Wahrnehmungs- und Hand-
+lungspsychologie untersucht werden.  
+4. Qualifikationsziele des Moduls /   Nach Abschluss des Moduls sind Studierende in der 
+Lage, Erkenntnisse aus der aktuellen Forschung zu 
+    zu erwerbende Kompetenzen: 
+Entscheiden, Problemlösen und Handlungssteuerung auf 
+alltagsrelevante Fragestellungen anzuwenden. Sie kön-
+nen so das erlernte Wissen auf komplexe alltagsrele-
+vante Fragestellungen wie z.B. Blickbewegungen in der 
+Werbeforschung, komplexe Entscheidungsprozesse, Ge-
+staltung von Mensch-Maschine-Schnittstellen anwenden. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  Modul PSY-M15 
+b) verpflichtende Nachweise:  mindestens eine erfolgreich absolvierte Studien- oder Prü-
+fungsleistung aus Modul PSY-M15 
+6. Verwendbarkeit des Moduls:  B.Sc. Psychologie 
+7. Angebotsturnus des Moduls:  jährlich 
+8. Das Modul kann absolviert werden in:  2 Semestern 
+9. Empfohlenes Fachsemester:  5 bis 6 
+10. Gesamtaufwand des Moduls   Arbeitsaufwand:  
+(Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: 240 
+davon: 
+1. Präsenzzeit: 60 Stunden (4 SWS) 
+2. Selbststudium (inkl. Prüfungsvorbereitung/ 
+Prüfung): 180 Stunden 
+ 
+Leistungspunkte: 8 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller 
+in den Nrn. 11 und 12 aufgeführten Leistungen. 
+11. Modulbestandteile: 
+Nr  P/WP  Lehr- Themenbereich/Thema  SWS/  LP  Studienleistungen 
+form  Std. 
+PSY-BSc- Wahlpflicht  Seminar  Rationales Entscheiden  2  4  Referat, 
+M19.1  Klausur (1b falls unbenotet) 
+PSY-BSc- Wahlpflicht  Seminar  Menschliches Entscheiden  2  4  Referat,  
+M19.2  Klausur (2b falls unbenotet) 
+PSY-BSc- Wahlpflicht  Seminar  Kognitive Neurowissenschaften  2  4  Referat,  
+M19.3  Klausur (3b falls unbenotet) 
+40 
+  
+ 
+PSY-BSc- Wahlpflicht  Seminar  Mensch-Maschine-Interatkion I  2  4  Referat,  
+M19.4  Klausur (4b falls unbenotet) 
+PSY-BSc- Wahlpflicht  Seminar  Mensch-Maschine-Interaktion II  2  4  Referat,  
+M19.5  Klausur (5b falls unbenotet) 
+12. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der Prüfung  Dauer /  Zeitpunkt /  Anteil an 
+Umfang  Bemerkungen  Modulnote 
+PSY-BSc- Rationales Entscheiden (be- Klausur  90 Minuten  Mitte und Ende des  1 
+M19.1a  notet)  Veranstaltungszeitraums 
+PSY-BSc- Menschliches Entscheiden (be- Klausur  90 Minuten  Ende des   1 
+M19.2a  notet)  Veranstaltungszeitraums 
+PSY-BSc- Kognitive Neurow- Klausur  90 Minuten  Ende des   1 
+M19.3a  issenschaf- Veranstaltungszeitraums 
+   
+PSY-BSc- Mensch-Ma- Klausur  90 Minuten  Ende des   1 
+M19.4a  schine- Interak- Veranstaltungszeitraums 
+    
+PSY-BSc- Mensch-Ma- Klausur  90 Minuten  Ende des   1 
+M19.5a  schine- Interak- Veranstaltungszeitraums 
+ti  II (b t t) 
+13. Bemerkungen: 
+Es müssen zwei Klausuren aus den Veranstaltungen PSY-BSc-M19.1 – 5 absolviert werden, davon ist eine 
+Leistung unbenotet (PSY-BSc-M 19.1-5 b), die andere Leistung bildet die Modulnote (PSY-BSc-M19.1-5 a).  
+Es besteht freie Wahl, welches Seminar benotet sein soll. Dies muss mit der Prüfungsanmeldung festgelegt 
+werden (benotete Leistung jeweils unter "a", unbenotete Leistung jeweils unter "b" anmelden).  
+Alle weiteren Klausuren werden ohne Benotung bewertet. 
+41 
+  
+ 
+ 
+PSY-BSc-M20: Praktikum 
+Gültig ab WS20/21 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13. 
+1. Name des Moduls:  Praktikum 
+2. Fachgebiet / Verantwortlich:  Vorsitzende/r des Prüfungsausschusses des Bachelor- 
+Studiengangs Psychologie 
+3. Inhalte des Moduls:  Mitarbeit/Assistenz in einer Einrichtung (z.B. Klinik) oder 
+Firma unter der Anleitung eines/einer akademisch ge-
+schulten Psychologen/in. 
+Falls eine Konformität der Leistung nach der PsychTh- 
+ApprO angestrebt wird, ermöglicht das Praktikum grund-
+legende Einblicke in die institutionellen, rechtlichen und 
+strukturellen Rahmenbedingungen der psychotherapeuti-
+schen Einrichtungen der Gesundheitsversorgung. 
+4. Qualifikationsziele des Moduls /   Nach Abschluss des Moduls haben sich Studierende Er-
+fahrungswissen in psychologischen Berufsfeldern ange-
+    zu erwerbende Kompetenzen: 
+eignet.  
+Ziel ist auch die Überprüfung des im Studium erworbenen 
+Wissens auf seine Anwendung hin sowie die kritische 
+Analyse der praktischen Erfahrungen. 
+Falls eine Konformität der Leistung nach der PsychTh- 
+ApprO angestrebt wird, sind Studierende nach Abschluss 
+des Moduls außerdem in der Lage, die Rahmenbedingun-
+gen der und die Aufgabenverteilung in der interdisziplinä-
+ren Zusammenarbeit zu erkennen und entsprechend der 
+Aufgabenverteilung angemessen mit den verschiedenen 
+Berufsgruppen zusammenzuarbeiten. Sie haben grundle-
+gende Kompetenzen in der Kommunikation mit Patien-
+ten/innen und anderen beteiligten Personen oder Berufs-
+gruppen entwickelt und angewendet. 
+5. Teilnahmevoraussetzungen: 
+a) empfohlene Kenntnisse:   
+b) verpflichtende Nachweise:  Nachweis von mindestens 60 LP aus dem Bachelorstudi-
+engang Psychologie 
+6. Verwendbarkeit des Moduls:  B.Sc. Psychologie 
+7. Angebotsturnus des Moduls:  jedes Semester 
+8. Das Modul kann absolviert werden in:  1 Semester 
+9. Empfohlenes Fachsemester:  3 bis 5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+42 
+  
+ 
+10. Gesamtaufwand des Moduls  Arbeitsaufwand:  
+(Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: 270 
+davon: 
+1. Präsenzzeit: 240 Stunden 
+2. Selbststudium (inkl. Prüfungsvorbereitung/ Prü-
+fung): 30 Stunden 
+ 
+Leistungspunkte: 9 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller 
+in den Nrn. 11 und 12 aufgeführten Leistungen. 
+11. Modulbestandteile: 
+Nr  P/W Lehr- Themenbereich/Thema  SWS/  LP Studienleistungen 
+P  form  Std. 
+PSY-BSc- Pflicht  Praktikum  Mitarbeit/Assistenz in einer Einrich-     240      9  regelmäßige Teilnahme, 
+M20.1  tung (z.B. Klinik) oder Firma unter  Praktikumsbericht, 
+der Anleitung eines/einer akade-  
+misch geschulten Psychologen/in 
+12. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der Prüfung  Dauer  Zeitpunkt /  Anteil an 
+Bemerkungen  Modulnote 
+-  -  -  -  -  - 
+13. Bemerkungen: 
+Das Modul ist unbenotet.  
+Nach § 5 Abs. 2 PsychTh-ApprO ist in dem Pflichtpraktikum Anwesenheit (regelmäßige Teilnahme) erfor-
+derlich. 
+Zusätzliches freiwilliges Lehrangebot: M20.2: Es kann ein zweites Praktikum absolviert werden. Dieses Prak-
+tikum kann ebenfalls so ausgestaltet sein, dass es den Anforderungen des § 15 der Approbationsordnung 
+für Psychotherapeutinnen und Psychotherapeuten (PsychTh-ApprO) entspricht. 
+Falls eine entsprechende Praktikumsstelle und entsprechende Praktikumsinhalte nachgewiesen werden, ha-
+ben die Studierenden nach Abschluss des Moduls zugleich Kenntnisse und Kompetenzen im Umfang der 
+geforderten mindestens 8 ECTS-Punkte aus dem Bereich berufspraktische Einsätze, konkret „Berufsqualifi-
+zierende Tätigkeit I – Einstieg in die Praxis der Psychotherapie“ gemäß § 15 der Approbationsordnung für 
+Psychotherapeutinnen und Psychotherapeuten (PsychTh-ApprO) erworben. 
+Für den Nachweis der „Berufsqualifizierenden Tätigkeit I – Einstieg in die Praxis der Psychotherapie“ nach 
+§ 15 PsychTh-ApprO ist erforderlich, dass an der Praktikumsstelle ein (Psychologischer) Psychotherapeut 
+oder eine (Psychologisches) Psychotherapeutin oder ein Kinder- und Jugendpsychotherapeut oder eine Kin-
+der- und Jugendpsychotherapeutin beschäftigt ist. Studierende müssen nach Absolvieren des Praktikums 
+eine Bescheinigung der Praktikumsstelle über die ordnungsgemäße Durchführung des Praktikums vorlegen, 
+aus der sich ergibt, ob eine im Sinne des § 15 Abs. 5 PsychTh-ApprO geeignete Person das Praktikum 
+betreut hat.  
+ 
+Praktikumsleitfaden:  
+https://www.uni-regensburg.de/psychologie-paedagogik-sport/psychologie/studium/bachelor/index.html 
+ 
+   
+43 
+  
+ 
+ 
+PSY-BSC-M21: Ergänzende Kompetenzen zur Klinischen Psychologie und 
+Psychotherapie 
+Gültig ab WS20/21 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13. 
+Ergänzende Kompetenzen zur Klinischen Psycholo-
+1. Name des Moduls: 
+gie und Psychotherapie 
+Prof. Dr. Andreas Mühlberger, N.N. 
+2. Fachgebiet / Verantwortlich: 
+Im Orientierungspraktikum werden erste praktische Er-
+3. Inhalte des Moduls: 
+fahrungen in allgemeinen Bereichen der gesundheitli-
+chen Versorgung zum Erleben interdisziplinärer Zusam-
+menarbeit bei Beachtung berufsethischer Prinzipien so-
+wie der institutionellen, rechtlichen und strukturellen 
+Rahmenbedingungen erworben. Es wird absolviert in ei-
+nem interdisziplinären Bereich der gesundheitlichen 
+Versorgung.  
+Es werden pädagogischen Grundlagen zu Erziehung 
+und Bildung, zur Bedeutung sozialer und kultureller Fak-
+toren für Bildungs- und Erziehungsprozesse, zu päda-
+gogischen Interventionen und Interventionssettings, so-
+wie rechtliche und familien- und sozialpolitische Rege-
+lungen mit Auswirkungen auf pädagogische und psy-
+chologische Interventionen vermittelt. 
+Inhalte sind auch Ethik in Forschung und Praxis, berufs-
+rechtliche Vorgaben des psychotherapeutischen Han-
+delns und sozialrechtliche Vorgaben der psychothera-
+peutischen Versorgung. 
+Außerdem werden zusätzliche für Klinische Psychologie 
+und Psychotherapie relevante medizinische und phar-
+makologische Grundlagen, insbesondere zur menschli-
+chen Anatomie, zu ausgewählten internistischen, ortho-
+pädischen und pädiatrischen Krankheitsbildern und so-
+matischen Differentialdiagnosen sowie zu Pharmakoki-
+netik, Pharmakodynamik, Psychopharmaka und Phar-
+makotherapie vermittelt.  
+Nach Abschluss des Moduls sind Studierende mit we-
+4. Qualifikationsziele des Moduls /  
+sentlichen  medizinischen,  pharmakologischen,  rechtli-
+    zu erwerbende Kompetenzen: 
+chen, ethischen und pädagogischen Aspekten, die für 
+Klinische Psychologie und Psychotherapie relevant sind, 
+vertraut und in der Lage, fachlich mit anderen Disziplinen 
+im Gesundheitsbereich zu kommunizieren.  
+Sie können Bedingungen, Prozesse und Konsequenzen 
+der Sozialisation und des Lernens in nicht-institutionellen 
+und institutionellen Bildungs- und Erziehungskontexten 
+in ihre Entscheidungsfindung einbeziehen. 
+Die Studierenden können ethische Prinzipien für wissen-
+schaftliches  und  praktisches  Handeln  benennen,  ein-
+schätzen, anwenden und Verstöße gegen ethische Prin-
+zipien im wissenschaftlichen und praktischen Handeln er-
+kennen und Maßnahmen ergreifen, um diesen Verstößen 
+in geeigneter Weise entgegenzusteuern.  
+Außerdem können sie die Indikationsstellung und Wirk-
+samkeit  pharmakologischer  Behandlungen  auf  der 
+Grundlage physiologischer Wirkweisen und der mögli-
+chen Interaktion mit psychotherapeutischen Prozessen 
+nachvollziehen und können diese Kenntnis angemessen 
+44 
+  
+ 
+in ihrer Entscheidungsfindung berücksichtigen.  
+Sie können Patient*innen oder andere beteiligte oder zu 
+beteiligende Personen über die wissenschaftlich fundier-
+ten lndikationsgebiete von Psychopharmaka, über deren 
+Wirkungsweise sowie über den zu erwartenden Nutzen 
+und die Nebenwirkungsrisiken informieren. 
+Des Weiteren können sie biologische Komponenten psy-
+chischer Störungen und somatische Differenzialdiagno-
+sen in Entscheidungsprozesse einzubeziehen. 
+Außerdem  können  die  Studierenden  grundlegende 
+Kenntnisse zu körperlichen Prozessen, Krankheiten, Be-
+hinderungen und medizinische Behandlungsverfahren, 
+die im Zusammenhang mit der Ausübung von Psycho-
+therapie von Bedeutung sind, sowie zu neuropharmako-
+logischen  Beeinflussung  der  Signalübertragung  durch 
+Medikamente im psychotherapeutischen Kontext anwen-
+den.  
+ 
+5. Teilnahmevoraussetzungen: 
+jeweils mindestens eine erfolgreich absolvierte Studien- 
+a) empfohlene Kenntnisse: 
+oder Prüfungsleistung aus den Modulen PSY-M06, 
+PSY-M08 und PSY-M10 
+keine 
+b) verpflichtende Nachweise: 
+B.Sc. Psychologie 
+6. Verwendbarkeit des Moduls: 
+jährlich 
+7. Angebotsturnus des Moduls: 
+2 Semestern 
+8. Das Modul kann absolviert werden in: 
+4 bis 5 
+9. Empfohlenes Fachsemester: 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+Gesamt in Stunden: 390 
+     (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit: 60 Stunden (4 SWS) und 150 Stun-
+den (Praktikum) 
+2. Selbststudium (inkl. Prüfungsvorbereitung): 180 
+Stunden 
+ 
+Leistungspunkte: 13 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller 
+in den Nrn. 11 und 12 aufgeführten Leistungen. 
+11. Modulbestandteile: 
+P / 
+Nr.  Lehr- Themenbereich / Thema  SWS /  LP  Studienleistungen 
+WP / 
+form  Std. 
+W 
+PSY-BSc- Pflicht  Praktikum  Orientierungspraktikum  150  5  regelmäßige Teilnahme, 
+M21.1    Praktikumsbericht 
+PSY-BSc- Pflicht  Vorlesung  Pädagogische Grundlagen für die Klini- 2  4   
+M21.2  sche Psychologie und Psychotherapie 
+PSY-BSc- Pflicht  Seminar   Ergänzende, medizinische, pharmakolo- 2  4  Referat oder Hausarbeit  
+M21.3  gische, juristische und berufsethische 
+Grundlagen für die Klinische Psychologie 
+und Psychotherapie 
+12. Modulprüfung: 
+Kompetenz / Thema /  Art der  Dauer  Zeitpunkt / Be- Anteil an Mod-
+Nr. 
+Bereich  Prüfung  merkungen  ulnote 
+PSY-BSc- Ergänzende Kompetenzen zur  Klausur  60 Minuten  Ende des  unbenotet 
+M21  Klinischen Psychologie und  Veranstaltungs- (bestanden/ 
+Psychotherapie  zeitraums  nichtbestanden) 
+45 
+  
+ 
+13. Bemerkungen:  
+Die Klausur muss als bestanden gewertet werden. Das Modul selbst ist jedoch unbenotet. 
+Die Form der im Rahmen des Seminars jeweils zu erbringenden Studienleistung (Referat oder Hausarbeit) 
+wird zu Semesterbeginn durch den jeweiligen Dozenten oder die jeweilige Dozentin bekannt gegeben. 
+Nach § 5 Abs. 2 PsychTh-ApprO ist im Pflichtpraktikum Anwesenheit (regelmäßige Teilnahme) erforderlich. 
+Das Ziel des Praktikums ist der Erwerb erster praktischer Erfahrungen in allgemeinen Bereichen mit Bezug 
+zur Gesundheits- und Patientenversorgung. Das Praktikum kann etwa in interdisziplinären Einrichtungen der 
+Gesundheitsversorgung, z. B. Kliniken oder Rehabilitationseinrichtungen absolviert werden. An der Einrich-
+tung muss während des Praktikums ein (Psychologischer) Psychotherapeut oder eine (Psychologische) Psy-
+chotherapeutin bzw. ein Kinder- und Jugendlichenpsychotherapeut oder eine Kinder- und Jugendlichenpsy-
+chotherapeutin tätig sein; dies ist durch eine entsprechende Bescheinigung der Praktikumsstelle nachzuwei-
+sen. Es hat eine Mindestdauer von 150 Stunden. 
+Nach Abschluss des Moduls haben die Studierenden zugleich Kenntnisse und Kompetenzen im Umfang der 
+geforderten mindestens 4 ECTS-Punkte aus dem Bereich „Grundlagen der Pädagogik“, im Umfang der ge-
+forderten mindestens 2 ECTS-Punkte aus dem Bereich „Berufsethik und Berufsrecht“, im Umfang von 1 der 
+geforderten mindestens 2 ECTS-Punkte aus dem Bereich „Grundlagen der Pharmakologie“ und im Umfang 
+von 1 der geforderten mindestens 4 ECTS-Punkte aus dem Bereich „Grundlagen der Medizin“ gemäß Nr. 10, 
+Nr. 2 bzw. Nr. 4 der Anlage 1 zur Approbationsordnung für Psychotherapeutinnen und Psychotherapeuten 
+(PsychTh-ApprO) sowie der geforderten mindestens 5 ECTS-Punkte aus dem Bereich berufspraktische Eins-
+ätze, konkret „Orientierungspraktikum“ gemäß § 14 der Approbationsordnung für Psychotherapeutinnen und 
+Psychotherapeuten (PsychTh-ApprO) erworben. 
+ 
+46 
+ 

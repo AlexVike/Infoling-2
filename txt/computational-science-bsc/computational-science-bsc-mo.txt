@@ -1,0 +1,1497 @@
+input_dictionary =   Universität Regensburg 
+ 
+ 
+CS-B-Gen1 
+ 
+1. Name des Moduls:   Genomik und Bioinformatik I 
+2. Fachgebiet / Verantwortlich:   Prof. Spang/ Dr. Lottaz/ Dr. Engelmann 
+3. Inhalte des Moduls:   In Wechsel werden einführende Themen der 
+Biologie sowie der Biostatistik und Bioinformatik 
+aufgegriffen. Aus biologischer Sicht wird ein 
+Überblick über die Ebenen biologischer Interaktion 
+und Regulation vom Gen zum Organismus gegeben. 
+Dabei nimmt das Verstehen genomischer Daten wie 
+Sequenz- und Molekülstrukturdaten eine zentrale 
+Rolle ein. Probleme der Interpretation dieser Daten 
+werden herausgearbeitet. Hier setzen dann 
+Bioinformatik und Biostatistik ein. Die zugrunde 
+liegenden Theorien werden anhand genomischer 
+Daten entwickelt. Dabei stehen im ersten Semester 
+diskrete Modelle aus Statistik und Algorithmik im 
+Vordergrund. 
+ 
+4. Qualifikationsziele des Moduls:   Die Studierenden sollen die Grundprinzipien der 
+Zellbiologie und Genomik kennen lernen und 
+zeitgleich verstehen, welche Rolle der Computer in 
+der modernen Genomforschung spielt. In den 
+begleitenden Übungen im CIP-Pool sollen die 
+Studierenden die Analyse genomischer Daten 
+praktisch üben. 
+ 
+5. Teilnahmevoraussetzungen:    
+a) empfohlene Kenntnisse:   Einführung in das Programmieren 
+b) verpflichtende Nachweise:   keine  
+6. Verwendbarkeit des Moduls:   BSc Computational Science, Nebenfach 
+Bioinformatik, Studienbegleitende IT-Ausbildung 
+7. Angebotsturnus des Moduls:   Jährlich, im SS 
+8. Dauer des Moduls:   1 Semester  
+9. Empfohlenes Fachsemester:   Ab 2. Semester  
+10. Gesamtarbeitsaufwand des Moduls   210 Std. (120 Std. Präsenzzeit, 60 Std. 
+(Workload) / Anzahl Leistungspunkte:  Eigenstudium, 30 Std. Prüfungsvorbereitung) / 7 
+Leistungspunkte* 
+*Die LP für das Modul werden erst nach Bestehen der Modulprüfung bzw. aller Modulteilprüfungen 
+vergeben. 
+ 
+11.  Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen  
+  erfüllt sind:   
+  a) Modulbestandteile: 
+P /  Lehr-
+Nr  Themenbereich/Thema  SWS / Std.  Studienleistungen 
+WP*  form 
+1  P  V  Genomik und Bioinformatik I  4 SWS (60 Std.)   
+2  P  Ü  Genomik und Bioinformatik I  4 SWS (60 Std.)   
+* P = Pflichtveranstaltung; WP = Wahlpflichtveranstaltung 
+Modulkatalog Bachelor Computational Science - Entwurf  Stand: 04.06.2013   Universität Regensburg 
+ 
+ 
+  b) Modulprüfung 
+Kompetenz / Thema  Art der Prüfung  Dauer  Zeitpunkt  Anteil an Modulnote 
+Genomik und 
+Klausur  90 min.  Ende des Moduls.  Benotet 7/7 = 100% 
+Bioinformatik 
+ 
+ 
+ 
+12. Sonstiges:  
+Die Übungen sind unterteilt in zwei SWS (Übungen anlehnend an die Vorlesungen) und zwei SWS mit 
+allgemeinen Anleitungen zum Programmieren in der Bioinformatik 
+ 
+Modulkatalog Bachelor Computational Science - Entwurf  Stand: 04.06.2013   Universität Regensburg 
+ 
+ 
+CS-B-Gen2 
+ 
+1. Name des Moduls:   Genomik und Bioinformatik II 
+2. Fachgebiet / Verantwortlich:   Prof. Spang/ Dr. Lottaz/ Dr. Engelmann 
+3. Inhalte des Moduls:   Es werden im Wechsel Themen der Biomedizin und 
+Bioinformatik dargestellt. Im Zentrum stehen 
+krankhafte und physiologische Störungen der 
+Organfunktion, die damit einhergehenden 
+Störungen von Signalwegen und deren genetischen 
+Ursachen. Der biomedizinische Kanon wird ergänzt 
+durch Verfahren der medizinischen Bioinformatik 
+und Biostatistik mit einem Schwerpunkt auf 
+kontinuierlichen statistischen Modellen. 
+ 
+4. Qualifikationsziele des Moduls:   Die Studierenden sollen die Grundprinzipien der 
+Zellbiologie und Genomik kennen lernen und 
+zeitgleich verstehen, welche Rolle der Computer in 
+der modernen Genomforschung spielt. In den 
+begleitenden Übungen im CIP-Pool sollen die 
+Studierenden die Analyse genomischer Daten 
+praktisch üben. 
+5. Teilnahmevoraussetzungen:    
+a) empfohlene Kenntnisse:   keine 
+b) verpflichtende Nachweise:   Genomik und Bioinformatik I  
+6. Verwendbarkeit des Moduls:   BSc Computational Science, Nebenfach 
+Bioinformatik, Studienbegleitende IT-Ausbildung 
+7. Angebotsturnus des Moduls:   Jährlich, im WS 
+8. Dauer des Moduls:   1 Semester  
+9. Empfohlenes Fachsemester:   Ab 3. Semester  
+10. Gesamtarbeitsaufwand des Moduls   210 Std. (120 Std. Präsenzzeit, 60 Std. 
+(Workload) / Anzahl Leistungspunkte:  Eigenstudium, 30 Std. Prüfungsvorbereitung) / 7 
+Leistungspunkte* 
+*Die LP für das Modul werden erst nach Bestehen der Modulprüfung bzw. aller Modulteilprüfungen 
+vergeben. 
+ 
+11.  Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen  
+  erfüllt sind:   
+  a) Modulbestandteile: 
+P /  Lehr-
+Nr  Themenbereich/Thema  SWS / Std.  Studienleistungen 
+WP*  form 
+1  P  V  Genomik und Bioinformatik II  4 SWS (60 Std.)   
+2  P  Ü  Genomik und Bioinformatik II  4 SWS (60 Std.)   
+* P = Pflichtveranstaltung; WP = Wahlpflichtveranstaltung 
+Modulkatalog Bachelor Computational Science - Entwurf  Stand: 04.06.2013   Universität Regensburg 
+ 
+ 
+  b) Modulprüfung 
+Kompetenz / Thema  Art der Prüfung  Dauer  Zeitpunkt  Anteil an Modulnote 
+Genomik und 
+Klausur  90 min.  Ende des Moduls.  Benotet 7/7 = 100% 
+Bioinformatik 
+ 
+ 
+ 
+12. Sonstiges:  
+Die Übungen sind unterteilt in zwei SWS (Übungen anlehnend an die Vorlesungen) und zwei SWS mit 
+allgemeinen Anleitungen zum Programmieren in der Bioinformatik 
+ 
+Modulkatalog Bachelor Computational Science - Entwurf  Stand: 04.06.2013   Universität Regensburg 
+ 
+ 
+CS-B-Gen3 
+ 
+1. Name des Moduls:   Bioanalytik 
+2. Fachgebiet / Verantwortlich:   Dr. Dettmer  
+3. Inhalte des Moduls:   Das Modul gliedert sich in eine Chemievorlesung 
+und die Bioanalytik. In der Chemievorlesung werden 
+die Grundlagen aus anorganischer, organischer und 
+physikalischer Chemie vermittelt, die zum 
+Verständnis der Bioanalytik in diesem Modul und 
+der Biochemie im 5. Semester benötigt werden. Im 
+Modulteil Bioanalytik werden grundlegenden 
+Methoden zur Isolierung. Anreicherung, 
+Manipulation, Trennung und Bestimmung von 
+Biomolekülen (Nucleinsäuren, Proteinen, Peptiden, 
+Lipiden und Stoffwechselprodukten) vermittelt. Dies 
+schließt die Berücksichtigung von präanalytischen 
+Variablen sowie analytischen Kenngrößen in der 
+Auswertung der Daten ein.  
+Wesentliche Inhalte sind Isolierung, Anreicherung, 
+und Konzentrationsbestimmung von Nucleinsäuren 
+und Proteinen, Gel- und Kapillarelektrophorese, 
+PCR, Sequenzierung von Nucleinsäuren und 
+Peptiden, Flüssig- und Gaschromatographie, sowie 
+spektroskopische Methoden. Ausgewählte 
+Methoden werden im praktischen Teil von den 
+Studenten im Labor erlernt. 
+4. Qualifikationsziele des Moduls:   Die Studierenden sollen die chemischen Grundlagen 
+zum Verständnis der Bioanalytik und der 
+weiterführenden Biochemie-Vorlesung beherrschen. 
+Weiterhin sollen die Studenten die Grundprinzipien 
+der Isolierung, Anreicherung, Manipulation, 
+Trennung und Bestimmung von Bioanalyten kennen 
+lernen und grundlegende bioanalytische 
+Arbeitsweisen verstehen und praktisch anwenden. 
+5. Teilnahmevoraussetzungen:    
+a) empfohlene Kenntnisse:    
+b) verpflichtende Nachweise:   keine  
+6. Verwendbarkeit des Moduls:   BSc Computational Science 
+7. Angebotsturnus des Moduls:   Beginn jährlich, im WS 
+8. Dauer des Moduls:   2 Semester  
+9. Empfohlenes Fachsemester:   3. Semester  
+10. Gesamtarbeitsaufwand des Moduls   150 Std. (90 Std. Präsenzzeit, 100 Std. 
+(Workload) / Anzahl Leistungspunkte:  Eigenstudium, 40 Std. Prüfungsvorbereitung) / 8 
+Leistungspunkte* 
+*Die LP für das Modul werden erst nach Bestehen der Modulprüfung bzw. aller Modulteilprüfungen 
+vergeben. 
+ 
+Modulkatalog Bachelor Computational Science - Entwurf  Stand: 07.11.2013   Universität Regensburg 
+ 
+ 
+11.  Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen  
+  erfüllt sind:   
+  a) Modulbestandteile: 
+P /  Lehr-
+Nr  Themenbereich/Thema  SWS / Std.  Studienleistungen 
+WP*  form 
+1  P  V  Chemie für CoS (WS)  2 SWS (30 Std.)   
+2  P  V  Bioanalytik (SS)  2 SWS (30 Std.)   
+Testat zum Versuchsbeginn 
+3  P  P  Bioanalytik (SS)  2 SWS (30 Std.) 
+Versuchsprotokolle 
+* P = Pflichtveranstaltung; WP = Wahlpflichtveranstaltung 
+  b) Modulprüfung 
+Kompetenz / Thema  Art der Prüfung  Dauer  Zeitpunkt  Anteil an Modulnote 
+Bioanalytik  Klausur  90 min.  Ende des Moduls.  Benotet 8/8 = 100% 
+ 
+12. Sonstiges:  
+ 
+Modulkatalog Bachelor Computational Science - Entwurf  Stand: 07.11.2013   Universität Regensburg 
+ 
+ 
+CS-B-Gen4 
+ 
+1. Name des Moduls:   Praktische Bioinformatik I 
+2. Fachgebiet / Verantwortlich:   Prof. Spang / Dr. Lottaz / Dr. Engelmann  
+3. Inhalte des Moduls:   Programmierprojekte zur Sequenanalyse 
+(Alignment, Multiples Alignment, 
+Sequenzdatenbanksuche, Homologie-Modellierung, 
+Phylogenie), zur Strukturanalyse (RNA-
+Sekundärstruktur-Vorhersage, Proteinstruktur-
+Vorhersage, Threading, Mutationsanalyse) und zur 
+Expressionsanalyse (Clustering, Class-Finding, 
+Klassifikation, Netzwerkrekonstruktion) 
+4. Qualifikationsziele des Moduls:   Die Studierenden sollen lernen, existierende 
+Werkzeuge zu nutzen und Ergebnisse zu bewerten, 
+sowie algorithmische Prinzipien wie Dynamische 
+Programmierung als auch Verfahren der 
+statistischen Modellierung wie Neuronale 
+Netzwerke und Hidden-Markov-Modelle an 
+Beispielen biologischer Anwendungsprobleme 
+kennen lernen. 
+5. Teilnahmevoraussetzungen:    
+a) empfohlene Kenntnisse:   keine 
+b) verpflichtende Nachweise:   Genomik und Bioinformatik I 
+6. Verwendbarkeit des Moduls:   BSc Computational Science, Nebenfach 
+Bioinformatik 
+7. Angebotsturnus des Moduls:   Jährlich, im SS 
+8. Dauer des Moduls:   1 Semester  
+9. Empfohlenes Fachsemester:   4. Semester  
+10. Gesamtarbeitsaufwand des Moduls   350 Std. (120 Std. Präsenzzeit, 180 Std. 
+(Workload) / Anzahl Leistungspunkte:  Eigenstudium, 50 Std. Prüfungsvorbereitung) / 12 
+Leistungspunkte* 
+*Die LP für das Modul werden erst nach Bestehen der Modulprüfung bzw. aller Modulteilprüfungen 
+vergeben. 
+ 
+11.  Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen  
+  erfüllt sind:   
+  a) Modulbestandteile: 
+P /  Lehr-
+Nr  Themenbereich/Thema  SWS / Std.  Studienleistungen 
+WP*  form 
+1  P  V  Praktische Bioinformatik I  2 SWS (30 Std.)   
+2  P  P  Praktische Bioinformatik I  6 SWS (90 Std.)   
+* P = Pflichtveranstaltung; WP = Wahlpflichtveranstaltung 
+Modulkatalog Bachelor Computational Science - Entwurf  Stand: 04.06.2013   Universität Regensburg 
+ 
+ 
+  b) Modulprüfung 
+Kompetenz / Thema  Art der Prüfung  Dauer  Zeitpunkt  Anteil an Modulnote 
+Praktische  Abschlussbericht 
+30 min.  Ende des Moduls.  Benotet 12/12 = 100% 
+Bioinformatik I  mit Vortrag 
+Bemerkungen: 
+ 
+ 
+ 
+12. Sonstiges:  
+ 
+ 
+Modulkatalog Bachelor Computational Science - Entwurf  Stand: 04.06.2013   Universität Regensburg 
+ 
+ 
+CS-B-Gen5 
+ 
+1. Name des Moduls:   Praktische Bioinformatik II 
+2. Fachgebiet / Verantwortlich:   Prof. Spang / Dr. Lottaz / Dr. Engelmann  
+3. Inhalte des Moduls:   Programmierprojekte zur Sequenanalyse 
+(Alignment, Multiples Alignment, 
+Sequenzdatenbanksuche, Homologie-Modellierung, 
+Phylogenie), zur Strukturanalyse (RNA-
+Sekundärstruktur-Vorhersage, Proteinstruktur-
+Vorhersage, Threading, Mutationsanalyse) und zur 
+Expressionsanalyse (Clustering, Class-Finding, 
+Klassifikation, Netzwerkrekonstruktion) 
+4. Qualifikationsziele des Moduls:   Die Studierenden sollen lernen, existierende 
+Werkzeuge zu nutzen und Ergebnisse zu bewerten, 
+sowie algorithmische Prinzipien wie Dynamische 
+Programmierung als auch Verfahren der 
+statistischen Modellierung wie Neuronale 
+Netzwerke und Hidden-Markov-Modelle an 
+Beispielen biologischer Anwendungsprobleme 
+kennen lernen. 
+5. Teilnahmevoraussetzungen:    
+a) empfohlene Kenntnisse:   keine 
+b) verpflichtende Nachweise:   Praktische Bioinformatik I 
+6. Verwendbarkeit des Moduls:   BSc Computational Science, Nebenfach 
+Bioinformatik 
+7. Angebotsturnus des Moduls:   Jährlich, im WS 
+8. Dauer des Moduls:   1 Semester  
+9. Empfohlenes Fachsemester:   5. Semester  
+10. Gesamtarbeitsaufwand des Moduls   280 Std. (90 Std. Präsenzzeit, 145 Std. 
+(Workload) / Anzahl Leistungspunkte:  Eigenstudium, 45 Std. Prüfungsvorbereitung) / 10 
+Leistungspunkte* 
+*Die LP für das Modul werden erst nach Bestehen der Modulprüfung bzw. aller Modulteilprüfungen 
+vergeben. 
+ 
+11.  Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen  
+  erfüllt sind:   
+  a) Modulbestandteile: 
+P /  Lehr-
+Nr  Themenbereich/Thema  SWS / Std.  Studienleistungen 
+WP*  form 
+1  P  S  Praktische Bioinformatik II  1 SWS (15 Std.)   
+  P  P  Praktische Bioinformatik II  5 SWS (75 Std.)   
+* P = Pflichtveranstaltung; WP = Wahlpflichtveranstaltung 
+Modulkatalog Bachelor Computational Science - Entwurf  Stand: 04.06.2013   Universität Regensburg 
+ 
+ 
+  b) Modulprüfung 
+Kompetenz / Thema  Art der Prüfung  Dauer  Zeitpunkt  Anteil an Modulnote 
+Praktische  Abschlussbericht 
+30 min.  Ende des Moduls.  Benotet 10/10 = 100% 
+Bioinformatik II  mit Vortrag 
+Bemerkungen: 
+ 
+ 
+ 
+12. Sonstiges:  
+ 
+ 
+Modulkatalog Bachelor Computational Science - Entwurf  Stand: 04.06.2013   Universität Regensburg 
+ 
+ 
+ 
+CS-B-Gen6 
+ 
+ 
+1. Name des Moduls:   Sequencing 
+2. Fachgebiet / Verantwortlich:   Dr. Engelmann  
+3. Inhalte des Moduls:   Alignment-Algorithmen für große Datensätze mit 
+kurzen Sequenzen, Genexpressionsanlyse mit 
+Sequenzdaten, Finden von Mutationen 
+(resequencing), Genom-Annotation 
+4. Qualifikationsziele des Moduls:   Kennenlernen und anwenden von Algorithmen für 
+die Analyse großer Sequenzdatensätze 
+5. Teilnahmevoraussetzungen:    
+a) empfohlene Kenntnisse:   R, Linux Basiswissen 
+b) verpflichtende Nachweise:   Genomik und Bioinformatik I 
+6. Verwendbarkeit des Moduls:   BSc Computational Science, Nebenfach 
+Bioinformatik 
+7. Angebotsturnus des Moduls:   Alle 2 Jahre im WS 
+8. Dauer des Moduls:   1 Semester  
+9. Empfohlenes Fachsemester:   5. Semester  
+10. Gesamtarbeitsaufwand des Moduls   150 Std. (60 Std. Präsenzzeit, 60 Std. Eigenstudium, 
+(Workload) / Anzahl Leistungspunkte:  30 Std. Prüfungsvorbereitung) / 5 Leistungspunkte* 
+*Die LP für das Modul werden erst nach Bestehen der Modulprüfung bzw. aller Modulteilprüfungen 
+vergeben. 
+ 
+11.  Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen  
+  erfüllt sind:   
+  a) Modulbestandteile: 
+P /  Lehr-
+Nr  Themenbereich/Thema  SWS / Std.  Studienleistungen 
+WP*  form 
+1  P  V  Sequencing  2 SWS (30 Std.)   
+2  P  Ü  Sequencing  2 SWS (30 Std.)   
+* P = Pflichtveranstaltung; WP = Wahlpflichtveranstaltung 
+  b) Modulprüfung 
+Kompetenz / Thema  Art der Prüfung  Dauer  Zeitpunkt  Anteil an Modulnote 
+Sequencing  Klausur  60 min.  Ende des Moduls.  Benotet 5/5 = 100% 
+Bemerkungen: 
+ 
+Modulkatalog Bachelor Computational Science - Entwurf  Stand: 04.06.2013   Universität Regensburg 
+ 
+ 
+ 
+ 
+ 
+12. Sonstiges:  
+ 
+ 
+Modulkatalog Bachelor Computational Science - Entwurf  Stand: 04.06.2013   Universität Regensburg 
+ 
+ 
+ 
+CS-B-Gen7 
+ 
+ 
+1. Name des Moduls:   Netzwerk-Biologie 
+2. Fachgebiet / Verantwortlich:   Prof. Dr. R. Spang 
+3. Inhalte des Moduls:   Netzwerke in der Biologie, Charakteristika 
+biologischer Netwerke, Motive in biologischen 
+Netzwerken, Netzwerkerkonstruktion, 
+Genregulationsnetzwerke, Bedingte 
+Unabhängigkeit, PC-Algorithmus, Kausale 
+Netzwerke, Perturbation, Nested Effect Models, 
+Unknown-Unknowns   
+ 
+4. Qualifikationsziele des Moduls:   Die Studenten sollen moderne statistische Konzepte 
+kennen und anwenden lernen mit denen sich 
+biologische Netzwerke rekonstruieren und 
+verstehen lassen 
+5. Teilnahmevoraussetzungen:   Genomische Bioinformatik I + II 
+a) empfohlene Kenntnisse:   keine 
+b) verpflichtende Nachweise:   Genomik und Bioinformatik I + II 
+6. Verwendbarkeit des Moduls:   BSc Computational Science, Nebenfach 
+Bioinformatik 
+7. Angebotsturnus des Moduls:   Alle 2 Jahre im WS 
+8. Dauer des Moduls:   1 Semester  
+9. Empfohlenes Fachsemester:   5. oder 6. Semester  
+10. Gesamtarbeitsaufwand des Moduls   150 Std. (60 Std. Präsenzzeit, 60 Std. Eigenstudium, 
+(Workload) / Anzahl Leistungspunkte:  30 Std. Prüfungsvorbereitung) / 5 Leistungspunkte* 
+*Die LP für das Modul werden erst nach Bestehen der Modulprüfung bzw. aller Modulteilprüfungen 
+vergeben. 
+ 
+11.  Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen  
+  erfüllt sind:   
+  a) Modulbestandteile: 
+P /  Lehr-
+Nr  Themenbereich/Thema  SWS / Std.  Studienleistungen 
+WP*  form 
+1  P  V  Netzwerk Biologie  2 SWS (30 Std.)   
+2  P  S  Netzwerk Biologie  2 SWS (30 Std.)   
+* P = Pflichtveranstaltung; WP = Wahlpflichtveranstaltung 
+  b) Modulprüfung 
+Modulkatalog Bachelor Computational Science - Entwurf  Stand: 04.06.2013   Universität Regensburg 
+ 
+ 
+ 
+Kompetenz / Thema  Art der Prüfung  Dauer  Zeitpunkt  Anteil an Modulnote 
+Netzwerk Biologie  Mündl. Prüfung  30 min.  Ende des Semesters  Benotet 5/5 
+ 
+ 
+ 
+12. Sonstiges:  
+ 
+ 
+Modulkatalog Bachelor Computational Science - Entwurf  Stand: 04.06.2013      
+  Universität Regensburg 
+ 
+ 
+CS-B-Gen8 
+ 
+1. Name des Moduls:  Computational Biochemistry I 
+2. Fachgebiet / Verantwortlich:  Prof. Dr. W. Gronwald / Prof. Dr. G. Meister 
+3. Inhalte des Moduls:  Aminosäuren, Struktur und Funktion von Proteinen; Enzyme 
+(Kinetik und ausgewählte Mechanismen); Struktur und Funk-
+tion von Nucleinsäuren, Lipiden und Kohlenhydraten; Ther-
+modynamische Grundlagen biochemischer Reaktionen; Lipo-
+lyse und β-Oxidation; Glycolyse; Citratzyklus; Oxidative Phos-
+phorylierung; Gluconeogenese; Proteinabbau; Aminosäu-
+restoffwechsel; Glycogenstoffwechsel; Membranarchitektur; 
+Molekül- und Ionentransport durch Membranen; Ionenkanä-
+le; Membran- und Aktionspotenzial; Liganden-gesteuerte 
+Ionenkanäle.  
+ 
+Typische Fragestellungen in der Metabolomik, optimale Ver-
+suchsplanung (study design) von metabolomischen Studien, 
+Probenarten und Probenvorbereitung, Verständnis der 
+Grundlagen der NMR-Spektroskopie, ein- und mehrdimensi-
+onale NMR-Spektren , computergestützte Aufnahme und 
+Prozessierung von Spektren, manuelle und automatische 
+quantitative Analyse von metabolomischen NMR-Spektren, 
+statistische Datenauswertung inklusive Vorverarbeitung der 
+Daten, supervised und non-supervised Datenanalyse, Daten-
+interpretation   
+4. Qualifikationsziele des Moduls:  Die Studierenden haben einen Überblick über die chemischen 
+Eigenschaften und Reaktionsfähigkeiten der wichtigsten 
+Stoffklassen in der Biochemie gewonnen. Sie verstehen die 
+Energiegewinnung und Regulation des Katabolismus und 
+verstehen dabei die grundlegenden Motive. 
+Die Studierenden haben einen Überblick über die typischen 
+Schritte der computergestützten Durchführung und Auswer-
+tung von metabolomischen Studien gewonnen. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  Grundlegende Kenntnisse der Organischen Chemie (Reakti-
+onsmechanismen) 
+b) verpflichtende Nachweise:  Chemie für CoS 
+6. Verwendbarkeit des Moduls:  BSc Computational Science 
+7. Angebotsturnus des Moduls:  Jährlich, im WS 
+8. Dauer des Moduls:  1 Semester 
+9. Empfohlenes Fachsemester:  Ab 3. Fachsemester 
+10. Gesamtarbeitsaufwand des   300 Stunden (120 Std. Präsenzzeit, 130 Std. Eigenstudium 50 
+Moduls (Workload) / Anzahl  Std. Prüfungsvorbereitung) / 10 Leistungspunkte 
+Leistungspunkte: 
+ 
+Modulkatalog Bachelor Computational Science    Stand: 04.06.2013   Universität Regensburg 
+ 
+ 
+11.  Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen  
+  erfüllt sind:   
+  a) Modulbestandteile: 
+P /  Lehr-
+Nr  Themenbereich/Thema  SWS / Std.  Studienleistungen 
+WP*  form 
+1  P  V  Vorlesung Biochemie – Teil A  4 SWS (60 Std.)   
+2  P  Ü  Übungen zu Nr. 1  1 SWS (15 Std.)   
+3  P  V  Computational Metabolomics  2 SWS (30 Std.)   
+Computational NMR-based 
+4  P  S  1 SWS (15 Std)   
+Metabolomics (Lit. Sem) 
+* P = Pflichtveranstaltung; WP = Wahlpflichtveranstaltung 
+  b) Modulprüfung 
+Kompetenz / Thema  Art der Prüfung  Dauer  Zeitpunkt  Anteil an Modulnote 
+Computational Meta-
+Klausur  90 min.  Ende des Semesters  10/10 
+bolomics 
+Bemerkungen: 
+ 
+ 
+12. Sonstiges:  
+ 
+ 
+Modulkatalog Bachelor Computational Science    Stand: 04.06.2013      
+  Universität Regensburg 
+ 
+ 
+CS-B-Gen9 
+ 
+1. Name des Moduls:  Computational Biochemisty II 
+2. Fachgebiet / Verantwortlich:  Prof. W. Gronwald / Prof. Dr. Gunter Meister 
+3. Inhalte des Moduls:  Nucleotide und Nucleinsäuren; Struktur der Nucleinsäuren; 
+Nucleotidmetabolismus; DNA-Replikation, -Reparatur und 
+Rekombination; Transkription und RNA-Prozessierung; Regu-
+lation der Transkription; Proteinbiosynthese (Translation); 
+Regulation der Proteinbiosynthese.  
+ 
+Experimentelle Verfahren zur 3D Strukturbestimmung von 
+Makromolekülen (NMR, X-ray, Elektronenmikroskpie), 3D-
+Strukturmodellierung von Makromolekülen, (Kraftfelder, Op-
+timierungsverfahren), Dynamik von Makromolekülen, Analyse 
+von intermolekularen Wechselwirkungen mit experimentellen 
+und computergestützten Verfahren, Validierung von  3D-
+Einzelstrukturen und makromolekularen Komplexen. 
+4. Qualifikationsziele des Moduls:  Die Studierenden haben einen Einblick in die Chemie der 
+Nukleinsäuren erhalten. Sie verstehen die Replikation, Tran-
+skription und Translation der genetischen Information auf 
+molekularer Ebene.  
+Die Studierenden haben einen Einblick in die wichtigsten 
+Verfahren der 3D Strukturbestimmung und Berechnung von  
+Makromolekülen bekommen. Zusätzlich bekommen sie einen 
+Einblick, dass viele der verwendeten rechnergestützten Ver-
+fahren auf eine Vielzahl von Fragestellungen in Technik und 
+Wissenschaft angewendet werden können. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  Grundlegende Kenntnisse der Organischen Chemie (Reakti-
+onsmechanismen) 
+b) verpflichtende Nachweise:  Computational Biochemisty I 
+6. Verwendbarkeit des Moduls:  BSc Computational Science 
+7. Angebotsturnus des Moduls:  Jährlich, im SS 
+8. Dauer des Moduls:  1 Semester 
+9. Empfohlenes Fachsemester:  Ab 3. Fachsemester 
+10. Gesamtarbeitsaufwand des   280 Stunden (105 Std. Präsenzzeit, 125 Std. Eigenstudium 50 
+Moduls (Workload) / Anzahl  Std. Prüfungsvorbereitung) / 10 Leistungspunkte 
+Leistungspunkte: 
+ 
+11.  Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen  
+  erfüllt sind:   
+  a) Modulbestandteile: 
+Modulkatalog Bachelor Computational Science    Stand: 04.06.2013 
+   Universität Regensburg 
+ 
+ 
+P /  Lehr-
+Nr  Themenbereich/Thema  SWS / Std.  Studienleistungen 
+WP*  form 
+1  P  V  Vorlesung Biochemie – Teil B  3 SWS (45 Std.)   
+2  P  V  Computational Proteomics  2 SWS (30 Std.)   
+Computational Protein structure 
+3  P  S  1 SWS (15 Std)   
+analysis (Lit. Sem) 
+4  P  P  Database researches (Fraunhofer)  1 SWS (15 Std)   
+* P = Pflichtveranstaltung; WP = Wahlpflichtveranstaltung 
+  b) Modulprüfung 
+Kompetenz / Thema  Art der Prüfung  Dauer  Zeitpunkt  Anteil an Modulnote 
+Computational Prote-
+Klausur  90 min.  Ende des Semesters   10/10 
+omics 
+Bemerkungen: 
+ 
+ 
+12. Sonstiges:  
+ 
+ 
+Modulkatalog Bachelor Computational Science    Stand: 04.06.2013 
+ CS-B-Math1 
+ 
+1. Name des Moduls:  CS-B-Math1: Analysis auf Mannigfaltigkeiten 
+2. Fachgebiet / Verantwortlich:  Mathematik/ Fakultät für Mathematik 
+3. Inhalte des Moduls:  Analysis auf Mannigfaltigkeiten 
+4. Qualifikationsziele des Moduls / zu  Die Fähigkeit zur selbständigen Übertragung, 
+erwerbende Kompetenzen:  Verallgemeinerung und Abstraktion der erlernten 
+Beschreibungs- und Lösungsmethoden auf 
+fortgeschrittene Problemstellungen. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  Analysis I, II, III, Lineare Algebra 
+b) verpflichtende Nachweise:  Keine 
+6. Verwendbarkeit des Moduls:  BSc. Computational Science. 
+7. Angebotsturnus des Moduls:  Jährlich 
+8. Das Modul kann absolviert werden in:  1 Semester 
+9. Empfohlenes Fachsemester:  Ab 4. Semester 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+Gesamt in Stunden: 9 LP x 30 = 270 Std. 
+     (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit: 1 Sem. x 15 Wo x 6 SWS = 90 Std. 
+2. Selbststudium, Prüfungsvorbereitung: = 180 Std. 
+ 
+Leistungspunkte: 9 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+P / WP 
+Nr.  Lehr- Themenbereich/Thema  SWS / Std.  Studienleistungen 
+form 
+1  P  Vorl.  Analysis auf Mannigfaltigkeiten  4   
+Übung  2  Übungsaufgaben 
+Weitere Informationen geben die Dozenten zu Vorlesungsbeginn bekannt.  
+13. Modulprüfung 
+Kompetenz / 
+Art der  Dauer  Zeitpunkt  Anteil an Modulnote 
+Thema/Bereich 
+Prüfung 
+ 
+1  Thema aus 12)  mündlich   mündlich  Vorlesungszeit bis  benotet, 100% 
+  20-35 min ,  Semesterende 
+oder    
+   
+schriftlich  schriftlich  
+105 min bis 
+135 min oder 
+210 min (falls aus 
+zwei Teilen 
+bestehend) 
+14. Bemerkungen:  
+Die erfolgreiche Teilnahme an den Übungen ist Zulassungsvoraussetzung für die Klausur. 
+ CS-B-Math2 
+ 
+1. Name des Moduls:  CS-B-Math2: Lineare Algebra II 
+2. Fachgebiet / Verantwortlich:  Mathematik/ Fakultät für Mathematik 
+3. Inhalte des Moduls:  Weiterführende Aspekte der Linearen Algebra 
+4. Qualifikationsziele des Moduls / zu  Vertiefte Kenntnisse der Linearen Algebra und von 
+erwerbende Kompetenzen:  grundlegenden mathematischen Techniken. Die 
+Fähigkeit zur selbständigen Übertragung, 
+Verallgemeinerung und Abstraktion der erlernten 
+Beschreibungs- und Lösungsmethoden auf 
+fortgeschrittene Problemstellungen. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  Lineare Algebra I 
+b) verpflichtende Nachweise:  Keine 
+6. Verwendbarkeit des Moduls:  BSc. Computational Science. 
+7. Angebotsturnus des Moduls:  Jährlich 
+8. Das Modul kann absolviert werden in:  1 Semester 
+9. Empfohlenes Fachsemester:  Ab 2. Semester 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+Gesamt in Stunden: 10 LP x 30 = 300 Std. 
+     (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit: 1 Sem. x 15 Wo x 8 SWS = 120 Std. 
+2. Selbststudium, Prüfungsvorbereitung: = 180 Std. 
+ 
+Leistungspunkte: 10 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+P / WP 
+Nr.  Lehr- Themenbereich/Thema  SWS /  Studienleistungen 
+form  Std. 
+1  P  Vorl.  Lineare Algebra II  4   
+Übung  2  Übungsaufgaben 
+Zentral- 2 
+übung 
+Weitere Informationen geben die Dozenten zu Vorlesungsbeginn bekannt.  
+13. Modulprüfung 
+Kompetenz / 
+Art der  Dauer  Zeitpunkt  Anteil an 
+Thema/Bereich 
+Prüfung  Modulnote 
+ 
+1  Thema aus 12)  mündlich   mündlich  Vorlesungszeit bis  benotet, 100% 
+  20-35 min ,  Semesterende 
+oder   schriftlich  
+  105 min bis 
+schriftlich  135 min oder 
+210 min (falls aus zwei 
+Teilen bestehend) 
+14. Bemerkungen:  
+Die erfolgreiche Teilnahme an den Übungen ist Zulassungsvoraussetzung für die Klausur. 
+ CS-B-Math3 
+ 
+1. Name des Moduls:  CS-B-Math3: Höhere Numerik und Optimierung 
+2. Fachgebiet / Verantwortlich:  Mathematik / Fakultät für Mathematik 
+3. Inhalte des Moduls:  Themen der numerischen Mathematik und der 
+Optimierung. 
+4. Qualifikationsziele des Moduls / zu 
+erwerbende Kompetenzen:  Vertiefte Kenntnisse der Angewandten Mathematik 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  Analysis I – II, Lineare Algebra 
+b) verpflichtende Nachweise:  Keine 
+6. Verwendbarkeit des Moduls:  BSc. Computational Science 
+7. Angebotsturnus des Moduls:  Jedes Semester 
+8. Das Modul kann absolviert werden in:  1 Semester 
+9. Empfohlenes Fachsemester:  ab 4. Semester 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+Gesamt in Stunden: 9 LP x 30 = 270 Std. 
+     (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit: 1Sem. x 15 Wo x 6 SWS = 90 Std. 
+2. Selbststudium, Prüfungsvorbereitung:    180 Std. 
+ 
+Leistungspunkte: 9 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind:   
+ 
+12. Modulbestandteile: 
+P / WP 
+Nr  Lehr- Themenbereich/Thema  SWS / Std.  Studienleistungen 
+form 
+1  P  Vorl.  s.u.verschiedene Themen der  4   
+Übung  höheren Numerik und  2  Übungsaufgaben 
+Optimierung. Details regelt das 
+Vorlesungsverzeichnis. 
+s.u. 
+Es können beispielsweise die Veranstaltungen Numerik II, Optimierung, Optimale Kontrolle, Numerik 
+partieller Differentialgleichungen besucht werden. 
+13. Modulprüfung 
+Kompetenz / 
+Art der  Dauer  Zeitpunkt  Anteil an Modulnote 
+Thema/Bereich 
+Prüfung 
+ 
+Thema aus 12)  mündlich   Mündlich 20-35 min ,  Vorlesungszeit  Benotet, 100 % 
+  schriftlich   bis   
+oder   105 min bis  Semesterende 
+  135 min oder 
+schriftlich  210 min (falls aus zwei 
+Teilen bestehend) 
+ 
+ CS-B-Math4 
+ 
+1. Name des Moduls:  CS-B-Math4: Angewandte Analysis 
+2. Fachgebiet / Verantwortlich:  Mathematik / Fakultät für Mathematik 
+3. Inhalte des Moduls:  Themen der Angewandten Analysis, die für den 
+Bereich Computational Science relevant sind. 
+4. Qualifikationsziele des Moduls / zu 
+erwerbende Kompetenzen:  Vertiefte Kenntnisse der Angewandten Mathematik 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  Analysis I – III, Lineare Algebra 
+b) verpflichtende Nachweise:  Keine 
+6. Verwendbarkeit des Moduls:  MSc. Computational Science 
+7. Angebotsturnus des Moduls:  Jedes Semester 
+8. Das Modul kann absolviert werden in:  1 Semester 
+9. Empfohlenes Fachsemester:  Ab 5. Semester 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+Gesamt in Stunden: 9 LP x 30 = 270 Std. 
+     (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit: 1Sem. x 15 Wo x 6 SWS = 90 Std. 
+2. Selbststudium, Prüfungsvorbereitung:    180 Std. 
+ 
+Leistungspunkte: 9 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind:   
+ 
+12. Modulbestandteile: 
+P / WP 
+Nr  Lehr- Themenbereich/Thema  SWS /  Studienleistungen 
+form  Std. 
+1  P  Vorl.  s.u.  4   
+Übung  s.u.  2  Übungsaufgaben 
+Es können wahlweise die Veranstaltungen Partielle Differentialgleichungen I, Partielle 
+Differentialgleichungen II, Funktionalanalysis, Optimierung, Optimale Kontrolle, Mathematische 
+Modellierung besucht werden. 
+13. Modulprüfung 
+Kompetenz / 
+Art der  Dauer  Zeitpunkt  Anteil an Modulnote 
+Thema/Bereich 
+Prüfung 
+ 
+Thema aus 12)  mündlich   Mündlich 20-35 min ,  Vorlesungszeit bis  Benotet, 100 % 
+  schriftlich   Semesterende   
+oder   105 min bis 
+  135 min oder 
+schriftlich  210 min (falls aus zwei 
+Teilen bestehend) 
+ CS-B-P10 
+ 
+1. Name des Moduls:  CS-B-P10 Computer Architektur für Scientific 
+Applications  
+2. Fachgebiet / Verantwortlich:  Fakultät für Physik, Der Studiendekan 
+3. Inhalte des Moduls:  Fundamentals in computer design, performance 
+models, computing devices architectures and 
+technologies,  pipelining and instruction level 
+parallelism, instruction set architectures, instruction 
+scheduling, memory hierarchy, bus technologies, 
+reliability/availability/serviceability, parallel 
+architectures, network architectures and technologies, 
+storage technologies and parallel file systems, power 
+consumption 
+4. Qualifikationsziele des Moduls / zu  Grundkenntnisse von Rechnerarchitekturen und 
+erwerbende Kompetenzen:  relevanten aktuellen Technologien 
+  
+5. Teilnahmevoraussetzungen: 
+a) empfohlene Kenntnisse:  CS-B-P6 Einführung in das Programmieren 
+b) verpflichtende Nachweise:  keine. 
+6. Verwendbarkeit des Moduls:  BSc. Computational Science  
+7. Angebotsturnus des Moduls:  Jährlich 
+8. Das Modul kann absolviert werden in:  2 Semester 
+9. Empfohlenes Fachsemester:  ab 4. Semester 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+Gesamt in Stunden: 5 LP x 30 = 150 Std.  
+     (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit: Blockkurse =  50 Std. 
+2. Selbststudium, Prüfungsvorbereitung: = 100 Std. 
+Leistungspunkte: 5  
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt 
+sind:   
+ 
+12. Modulbestandteile: 
+P / WP 
+Nr.  Lehr- Themenbereich/Thema  SWS /  Studienleistungen 
+form  Std. 
+1  P  Vorlesung  Computer Architectures for  Blockkurs  Übungsaufgaben 
+  Scientific Applications I  2 SWS   
+Übungen  Computer Architectures for  Blockkurs  Übungsaufgaben 
+Scientific Applications II  2 SWS 
+Weitere Informationen geben die Dozenten zu Veranstaltungsbeginn bekannt.  
+ 
+13. Modulprüfung 
+Kompetenz / 
+Art der  Dauer  Zeitpunkt  Anteil an Modulnote 
+Thema/Bereich 
+Prüfung 
+ 
+a)  Bereich 1  Klausur     Am Ende jedes Blocks  benotet, 4/4   = 100 % 
+14. Bemerkungen:  
+ 
+ CS-B-P14 
+ 
+1. Name des Moduls:  CS-B-P14: Analysis 
+2. Fachgebiet / Verantwortlich:  Mathematik / Fakultät für Mathematik 
+3. Inhalte des Moduls:  Differentialrechung, Integralrechnung und 
+gewöhnliche Differentialgleichungen 
+4. Qualifikationsziele des Moduls / zu  Grundkenntnisse der Analysis. 
+erwerbende Kompetenzen:  Die Fähigkeit zur selbstständigen Übertragung, 
+Verallgemeinerung und Abstraktion der erlernten 
+Beschreibungs- und Lösungsmethoden auf 
+mathematische Problemstellungen. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  Keine 
+b) verpflichtende Nachweise:  Keine 
+6. Verwendbarkeit des Moduls:  BSc. Computational Science 
+7. Angebotsturnus des Moduls:  Jährlich 
+8. Das Modul kann absolviert werden in:  2 Semestern 
+9. Empfohlenes Fachsemester:  ab 1. Semester 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+Gesamt in Stunden: 18 LP x 30 = 540 Std. 
+     (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit: 1 Sem. x 15 Wo x 8 SWS = 120 Std., 
+1 Sem. X 15 Wo x 6 SWS = 90 Std. 
+2. Selbststudium, Prüfungsvorbereitung:    330 Std. 
+ 
+Leistungspunkte: 18 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind:   
+ 
+12. Modulbestandteile: 
+P / WP 
+Nr  Lehr- Themenbereich/Thema  SWS /  Studienleistungen 
+form  Std. 
+1  P  Vorl.  Analysis I  4   
+Übung  Analysis I  2  Übungsaufgaben 
+Zentral- Analysis I  2 
+übung 
+2a  WP  Vorl.  Analysis II  4   
+Übung  Analysis II  2  Übungsaufgaben 
+2b  WP  Vorl.  Analysis II für Physiker  4   
+Übung  Analysis II für Physiker  2  Übungsaufgaben 
+Es können wahlweise 2a oder 2b besucht werden.   
+13. Modulprüfung 
+Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr  Kompetenz / Thema 
+Prüfung  Bemerkungen  Modulnote 
+1  Bestehen einer Klausur  Klausur  105 min oder  Vorlesungszeit bis  0%;  
+aus Abschnitt 12   135 min oder  Semesterende  die Prüfung muss 
+  210 min (falls aus  bestanden 
+zwei Teilen  werden. 
+bestehend)  
+2  Themen aus  Abschnitt  mündlich  25 bis 35 min  i.d.R. Ende der  benotet, 100% 
+12.1 und 12.2a bzw .    Vorlesungszeit des 2. 
+12.1 und 12.2b  Fachsemesters bis 
+Semesterende 
+  CS-B-P16 
+ 
+1. Name des Moduls:  CS-B-P16: Numerik I  CS 
+2. Fachgebiet / Verantwortlich:  Mathematik/ Fakultät für Mathematik 
+3. Inhalte des Moduls:  Numerische Mathematik 
+4. Qualifikationsziele des Moduls / zu  Einführung in praxisnahe Problemstellungen, 
+erwerbende Kompetenzen:  algorithmisches Denken und Umsetzen in 
+Computerprogramme; Programmiererfahrung. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  Analysis I, II, Lineare Algebra 
+b) verpflichtende Nachweise:  Keine 
+6. Verwendbarkeit des Moduls:  BSc. Computational Science. 
+7. Angebotsturnus des Moduls:  Jährlich 
+8. Das Modul kann absolviert werden in:  1 Semester 
+9. Empfohlenes Fachsemester:  3. Semester 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+Gesamt in Stunden: 10 LP x 30 = 300 Std. 
+     (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit: 1 Sem. x 15 Wo x 8 SWS = 120 Std. 
+2. Selbststudium, Prüfungsvorbereitung: = 180 Std. 
+ 
+Leistungspunkte: 10 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+P / WP 
+Nr.  Lehr- Themenbereich/Thema  SWS /  Studienleistungen 
+form  Std. 
+1  P  Vorl.  Numerik I  4   
+Übung  2  Übungsaufgaben 
+Zentral- 2  Übungsaufgaben 
+übung 
+Weitere Informationen geben die Dozenten zu Vorlesungsbeginn bekannt.  
+13. Modulprüfung 
+Kompetenz /  Art der  Dauer  Zeitpunkt  Anteil an 
+Thema/Bereich  Prüfung  Modulnote 
+1  Thema aus 12)  mündlich   Mündlich 20-35 min  Vorlesungszeit bis  benotet, 100% 
+    Semesterende 
+oder   schriftlich  
+  105 min bis 135 min oder 
+schriftlich  210 min (falls aus zwei Teilen 
+bestehend)  
+14. Bemerkungen:  
+Die erfolgreiche Teilnahme an den Übungen ist Zulassungsvoraussetzung für die Klausur. 
+ CS-B-P17 
+ 
+1. Name des Moduls:  CS-B-P17: Analysis III 
+2. Fachgebiet / Verantwortlich:  Mathematik / Fakultät für Mathematik 
+3. Inhalte des Moduls:  Methoden der höheren Analysis und insbesondere der 
+Funktionentheorie 
+4. Qualifikationsziele des Moduls / zu  Die Fähigkeit zur selbstständigen Übertragung, 
+erwerbende Kompetenzen:  Verallgemeinerung und Abstraktion der erlernten 
+Beschreibungs- und Lösungsmethoden auf 
+fortgeschrittene Problemstellungen. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  Analysis I, II 
+b) verpflichtende Nachweise:  Keine 
+6. Verwendbarkeit des Moduls:  BSc. Computational Science. 
+7. Angebotsturnus des Moduls:  Jährlich 
+8. Das Modul kann absolviert werden in:  1 Semester 
+9. Empfohlenes Fachsemester:  3. Semester 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+Gesamt in Stunden: 9 LP x 30 = 270 Std. 
+     (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit: 1 Sem. x 15 Wo x 8 SWS = 120 Std. 
+2. Selbststudium, Prüfungsvorbereitung: = 150 Std. 
+ 
+Leistungspunkte: 9 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+P / WP 
+Nr.  Lehr- Themenbereich/Thema  SWS /  Studienleistungen 
+form  Std. 
+1a  WP  Vorl.  Maß- und Funktionentheorie  4   
+Übung    2  Übungsaufgaben 
+Zentral- 2 
+übung 
+1b  WP  Vorl.  Analysis III für Physiker  4   
+Übung  2  Übungsaufgaben 
+Zentral- 2 
+übung 
+Es kann wahlweise eine der Veranstaltungen 1a oder 1b besucht werden. Weitere Informationen geben 
+die Dozenten zu Vorlesungsbeginn bekannt.   
+13. Modulprüfung 
+Kompetenz / Thema/Bereich  Art der  Dauer  Zeitpunkt  Anteil an Modulnote 
+  Prüfung 
+1  Thema aus 12.1a) oder  mündlich   mündlich  Vorlesungszeit bis  benotet, 100% 
+12.1b)  oder  20-35 min ,  Semesterende 
+schriftlich  105 min bis 
+  135 min oder 
+210 min (falls 
+aus zwei Teilen 
+bestehend)  
+14. Bemerkungen:  
+Die erfolgreiche Teilnahme an den Übungen ist Zulassungsvoraussetzung für die Klausur. 
+ CS-B-P18 
+ 
+1. Name des Moduls:  CS-B-P18: Einführung in die 
+Wahrscheinlichkeitstheorie und Statistik 
+2. Fachgebiet / Verantwortlich:  Mathematik/ Fakultät für Mathematik 
+3. Inhalte des Moduls:  Einführung in die Wahrscheinlichkeitstheorie und 
+Statistik. Einführung in praxisnahe Problemstellungen, 
+Erlernen von stochastischen Methoden und 
+Grundlagen der Statistik 
+ 
+4. Qualifikationsziele des Moduls / zu  Die Fähigkeit zur selbstständigen Übertragung, 
+erwerbende Kompetenzen:  Verallgemeinerung und Abstraktion der erlernten 
+Beschreibungs- und Lösungsmethoden auf 
+fortgeschrittene Problemstellungen 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  Analysis I, II, III, Lineare Algebra 
+b) verpflichtende Nachweise:  Keine 
+6. Verwendbarkeit des Moduls:  BSc. Computational Science. 
+7. Angebotsturnus des Moduls:  Jährlich 
+8. Das Modul kann absolviert werden in:  1 Semester 
+9. Empfohlenes Fachsemester:  Ab 4. Semester 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+Gesamt in Stunden: 9 LP x 30 = 270 Std. 
+     (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit: 1 Sem. x 15 Wo x 6 SWS = 90 Std. 
+2. Selbststudium, Prüfungsvorbereitung: = 180 Std. 
+ 
+Leistungspunkte: 9 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+P / WP 
+Nr.  Lehr- Themenbereich/Thema  SWS  Studienleistungen 
+form  / Std. 
+1  P  Vorl.  Einführung in die Wahrscheinlich- 4   
+Übung  keitstheorie und Statistik  2  Übungsaufgaben 
+Weitere Informationen geben die Dozenten zu Vorlesungsbeginn bekannt.  
+13. Modulprüfung 
+Kompetenz / 
+Art der  Dauer  Zeitpunkt  Anteil an Modulnote 
+Thema/Bereich 
+Prüfung 
+ 
+1  Thema aus 12)  mündlich   mündlich  Vorlesungszeit bis  benotet, 100% 
+oder   20-35 min ,  Semesterende 
+schriftlich  schriftlich  
+105 min bis 
+135 min oder 
+210 min (falls aus zwei 
+Teilen bestehend)  
+14. Bemerkungen:  
+Die erfolgreiche Teilnahme an den Übungen ist Zulassungsvoraussetzung für die Klausur. 
+ CS-B-P1  
+ 
+1. Name des Moduls:  CS-B-P1: Experimentalphysik A 
+2. Fachgebiet / Verantwortlich:  Physik / Fakultät, der Studiendekan  
+3. Inhalte des Moduls:  CS-B-P1a: Experimentalphysik Aa: Mechanik  
+•  Grundbegriffe der Bewegung  
+•  Die Newton'sche Gesetze  
+•  Die Erhaltung von Energie und Impuls  
+•  Die rotierende Bewegung  
+•  Schwingungen  
+•  Nichtlineare Dynamik und Chaos  
+•  Mechanische Wellen  
+•  Die feste Materie  
+•  Flüssigkeiten  
+ 
+CS-B-P1b: Experimentalphysik Ab: 
+Elektrodynamik  
+•  Grundlagen der Elektrostatik  
+•  Anwendungen der Elektrostatik  
+•  Isolatoren im elektrischen Feld  
+•  Elektrischer Strom  
+•  Magnetostatik  
+•  Magnetische Induktion  
+•  Wechselstromlehre  
+•  Magnetische Materie  
+•  Elektromagnetische Wellen  
+ 
+4. Qualifikationsziele des Moduls / zu  Grundkenntnisse über Begriffe, Phänomene und 
+erwerbende Kompetenzen:  Konzepte der klassischen Mechanik und 
+Elektrodynamik. 
+Die Fähigkeit zur selbstständigen Übertragung, 
+Verallgemeinerung und Abstraktion der erlernten 
+Beschreibungs- und Lösungsmethoden auf 
+fortgeschrittene physikalische Problemstellungen. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  Keine 
+b) verpflichtende Nachweise:  Keine 
+6. Verwendbarkeit des Moduls:  BSc. Physik, BSc. Computational Science, Lehramt 
+Gymnasium Physik. Für weitere Details, insbesondere 
+zur Verwendung von Modulteilen, s. Homepage der 
+Fakultät. 
+7. Angebotsturnus des Moduls:  Jährlich 
+8. Das Modul kann absolviert werden in:  2 Semestern 
+9. Empfohlenes Fachsemester:  ab 1. Semester 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+Gesamt in Stunden: 14 LP x 30 = 420 Std. 
+     (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit: 2 Sem. x 15 Wo x 6 SWS = 180 Std. 
+2. Selbststudium, Prüfungsvorbereitung: = 240 Std. 
+ Leistungspunkte: 14 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+P / WP 
+Nr.  Lehr- Themenbereich/Thema  SWS /  Studienleistungen 
+form  Std. 
+1  P  Vorl.  Exp.-physik I: Mechanik  4   
+Übung  Exp.-physik I: Mechanik  2  Übungsaufgaben 
+2  P  Vorl.  Exp.-physik II: Elektrodynamik  4   
+Übung  Exp.-physik II: Elektrodynamik  2  Übungsaufgaben 
+Weitere Informationen geben die Dozenten zu Veranstaltungsbeginn bekannt.  
+ 
+13. Modulprüfung 
+Kompetenz / Thema/Bereich  Art der Prüfung  Dauer  Zeitpunkt  Anteil an Modulnote 
+1  ein Thema aus 12)  Klausur  105 min oder  Vorlesungszeit bis  benotet, 7/ 14   = 50 
+135 min oder  Semesterende  % 
+210 min (falls 
+aus zwei Teilen 
+bestehend) 
+2  alle Themen aus 12)  mündlich  30 min  i.d.R. Ende der  benotet, 7 / 14 = 50 % 
+Vorlesungszeit des 
+2. Fachsemesters 
+bis Semesterende 
+14. Bemerkungen:  
+Die erfolgreiche Teilnahme an den Übungen ist Zulassungsvoraussetzung für die jeweilige Klausur. 
+ CS-B-P25 
+ 
+1. Name des Moduls:  CS-B-P25 Bachelorarbeit 
+2. Fachgebiet / Verantwortlich:  Physik / Fakultät, der Studiendekan  
+3. Inhalte des Moduls:  Forschungsorientierte Thematik aus den Bereichen der 
+Arbeitsgruppen an der Fakultät für Physik oder der 
+Fakultät für Mathematik oder der Fakultät für Medizin, 
+die sich mit Themen der Computational Science 
+befassen.  
+4. Qualifikationsziele des Moduls / zu  Durch die Bachelorarbeit soll der/die Studierende in die 
+erwerbende Kompetenzen:  Lage versetzt werden, ein begrenztes Problem aus 
+einem Gebiet der Computational Science nach 
+wissenschaftlichen Methoden zu bearbeiten und 
+seine/ihre Ergebnisse in angemessener Weise sachlich 
+einwandfrei und verständlich darzulegen. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:   
+b) verpflichtende Nachweise:  siehe Prüfungsordnung.  
+6. Verwendbarkeit des Moduls:  B.Sc. Computational Science 
+7. Angebotsturnus des Moduls:  jedes Semester 
+8. Das Modul kann absolviert werden in:  einem Semester 
+9. Empfohlenes Fachsemester:  6. Semester 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+Gesamt in Stunden: 12 LP x 30 = 360 Std. 
+     (Workload) / Anzahl Leistungspunkte: 
+ 
+Leistungspunkte: 12 
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+P / 
+Nr  Lehr- Themenbereich/Thema  SWS /  Studienleistungen 
+WP 
+form  Std. 
+1  P    Bachelorarbeit  350   
+Std. 
+2  P  Seminar  Thema der Arbeit  10  Seminarvortrag 
+Std. 
+ 
+ 
+13. Modulprüfung 
+Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr  Kompetenz / Thema 
+Prüfung  Bemerkungen  Modulnote 
+1    Abschluss- —  —  100% 
+arbeit 
+14. Bemerkungen:   
+ CS-B-P4 
+ 
+1. Name des Moduls:  CS-B-P4: Experimentalphysik A/P 
+2. Fachgebiet / Verantwortlich:  Physik / Fakultät, der Studiendekan  
+3. Inhalte des Moduls:  CS-B-P4a: Experimentalphysik Aa: Mechanik  
+•  Grundbegriffe der Bewegung  
+•  Die Newton'sche Gesetze  
+•  Die Erhaltung von Energie und Impuls  
+•  Die rotierende Bewegung  
+•  Schwingungen  
+•  Nichtlineare Dynamik und Chaos  
+•  Mechanische Wellen  
+•  Die feste Materie  
+•  Flüssigkeiten  
+ 
+CS-B-P4b: Experimentalphysik Ab: 
+Elektrodynamik  
+•  Grundlagen der Elektrostatik  
+•  Anwendungen der Elektrostatik  
+•  Isolatoren im elektrischen Feld  
+•  Elektrischer Strom  
+•  Magnetostatik  
+•  Magnetische Induktion  
+•  Wechselstromlehre  
+•  Magnetische Materie  
+•  Elektromagnetische Wellen  
+ 
+CS-B-P4c: Grundpraktikum Physik CS 
+•  Schwingungen und Wellen 
+•  RLC-Kreis 
+•  Ferromagnetismus und Hall-Effekt 
+•  Spektroskopie 
+ 
+4. Qualifikationsziele des Moduls / zu  Grundkenntnisse über Begriffe, Phänomene und 
+erwerbende Kompetenzen:  Konzepte der klassischen Mechanik und 
+Elektrodynamik. 
+Die Fähigkeit zur selbstständigen Übertragung, 
+Verallgemeinerung und Abstraktion der erlernten 
+Beschreibungs- und Lösungsmethoden auf 
+fortgeschrittene physikalische Problemstellungen. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  Keine 
+b) verpflichtende Nachweise:  Keine 
+6. Verwendbarkeit des Moduls:  BSc. Computational ScienceFür weitere Details, 
+insbesondere zur Verwendung von Modulteilen, s. 
+Homepage der Fakultät. 
+7. Angebotsturnus des Moduls:  Jährlich 
+8. Das Modul kann absolviert werden in:  3 Semestern 
+9. Empfohlenes Fachsemester:  ab 1. Semester 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand:      (Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: 17 LP x 30 = 510 Std. 
+davon: 
+1. Präsenzzeit: 2 Sem. x 15 Wo x 6 SWS + 20 SWS = 
+200 Std. 
+2. Selbststudium, Prüfungsvorbereitung: = 240 Std. 
+3. Protokollerstellung 70 Std. 
+ 
+Leistungspunkte: 17 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+P / WP 
+Nr.  Lehr- Themenbereich/Thema  SWS /  Studienleistungen 
+form  Std. 
+1  P  Vorl.  Exp.-physik I: Mechanik  4 SWS   
+Übung  Exp.-physik I: Mechanik  2 SWS  Übungsaufgaben 
+2  P  Vorl.  Exp.-physik II: Elektrodynamik  4 SWS   
+Übung  Exp.-physik II: Elektrodynamik  2 SWS  Übungsaufgaben 
+3  P  Praktikum  Grundpraktikum Physik für CS  20 Std.  Versuchsprotokolle 
+Weitere Informationen geben die Dozenten zu Veranstaltungsbeginn bekannt.  
+ 
+13. Modulprüfung 
+Kompetenz / Thema/Bereich  Art der Prüfung  Dauer  Zeitpunkt  Anteil an Modulnote 
+1  ein Thema aus 12.1 oder  Klausur  105 min oder  Vorlesungszeit bis  benotet, 7/ 14   = 50 
+12.2  135 min oder  Semesterende  % 
+210 min (falls 
+aus zwei Teilen 
+bestehend) 
+2  Alle Themen aus 12)  mündlich  30 min  i.d.R. Ende der  benotet, 7 / 14 = 50 % 
+Vorlesungszeit des 
+2. Fachsemesters 
+bis Semesterende 
+14. Bemerkungen:  
+Die erfolgreiche Teilnahme an den Übungen ist Zulassungsvoraussetzung für die jeweilige Klausur. 
+ CS-B-P6 
+ 
+1. Name des Moduls:  CS-B-P6 Einführung in das Programmieren  
+2. Fachgebiet / Verantwortlich:  Fakultät für Physik, Der Studiendekan 
+3. Inhalte des Moduls:  •  Bedienung der UNIX-Kommandozeile 
+•  Handhabung einer modernen Skriptsprache 
+•  Elementare Programmierkonzepte (Variablen, 
+Schleifen, Verzweigungen, Unterprogramme) 
+•  Ein-/Ausgabekonzepte,   
+•  Typen, Variablen, Konstanten, Operatoren, 
+Kontrollstrukturen, Arrays, Funktionen, 
+lokale/globale Variablen, Abgeleitete Datentypen  
+•  Die Sprache C und der C-Präprozessor, 
+Dateibearbeitung, Zeiger, dynamische 
+Speicherverwaltung   
+•   Fortgeschrittene Programmiertechniken (z.B. 
+verkettete Listen, generische Funktionen)  
+•  erste Schritte der objektorientierten 
+Programmierung mit mit C++. 
+4. Qualifikationsziele des Moduls / zu  Die Teilnehmer sind am Ende in der Lage, auch 
+erwerbende Kompetenzen:  umfangreichere wissenschaftliche Algorithmen am 
+Computer zu implementieren.  
+  
+5. Teilnahmevoraussetzungen: 
+a) empfohlene Kenntnisse:  keine. 
+b) verpflichtende Nachweise:  keine. 
+6. Verwendbarkeit des Moduls:  BSc. Computational Science  
+7. Angebotsturnus des Moduls:  jährlich 
+8. Das Modul kann absolviert werden in:  1 Semester 
+9. Empfohlenes Fachsemester:  ab 1. Semester 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+Gesamt in Stunden: 5 LP x 30 = 150 Std.  
+     (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit: 1 Sem. x 15 Wo x 4 SWS plus Blockkurs =  
+60 Std. + 30 Std.= 90 Std. 
+2. Selbststudium, Prüfungsvorbereitung: = 60 Std. 
+Leistungspunkte: 5  
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt 
+sind:   
+ 
+12. Modulbestandteile: 
+P / WP 
+Nr.  Lehrform  Themenbereich/Thema  SWS / Std.  Studienleistungen 
+1  P  Vorlesung  Einführung in das Programmieren  2   
+    Übung    2   
+           
+2  P  Praktikum  Programmieren in C und C++  Blockv.  Übungsaufgaben  
+Entsprechend  4 SWS   
+Weitere Informationen geben die Dozenten zu Veranstaltungsbeginn bekannt.  
+ 
+13. Modulprüfung 
+Kompetenz /  Art der  Dauer  Zeitpunkt  Anteil an Modulnote 
+Nr. 
+Thema/Bereich  Prüfung 
+1  Alle Gebiete von  Projekt  Ca. 10  Am Ende des Kurses  (Modul unbenotet) 
+12.2)    Stunden    
+14. Bemerkungen:  
+ CS-B-P7 
+ 
+1. Name des Moduls:  CS-B-P7 Algorithmen und Datenstrukturen  
+2. Fachgebiet / Verantwortlich:  Fakultät für Physik, Der Studiendekan 
+3. Inhalte des Moduls:  •  Komplexitätsanalyse : Modelle zur Laufzeit- und 
+Speicherplatzanalyse, Best-, Average- und 
+Worst Case Analyse,  
+•  Komplexitätsklassen, Asymptotische 
+Komplexität 
+•  Entwurfsmethoden, Divide and Conquer,  
+•  Dynamische Programmierung, Greedy-
+Algorithmen,  
+•  Backtracking 
+•  Elementare undfortgeschrittene 
+Sortierverfahren,  
+•  Datenstrukturen zur Verwaltung von Mengen 
+(z.B. binäre Suchbäume, balancierte Bäume, 
+Queues), 
+•   Graph-Algorithmen (z.B. Tiefen- und 
+Breitensuche, kürzeste Pfade, minimale 
+Spannbäume), 
+•    
+ 
+4. Qualifikationsziele des Moduls / zu   
+erwerbende Kompetenzen:  Kenntnis grundlegender Entwurfsmethoden für Algorithmen 
+, Verständnis der Komplexitätsanalyse (Laufzeit / 
+Speicherplatz) von Algorithmen, Beherrschung von 
+effizienten Datenstrukturen und Algorithmen für 
+Standardprobleme (z.B. Suchen, Sortieren), Fähigkeit zur 
+Implementierung der erlernten algorithmischen, Methoden  
+ 
+  
+5. Teilnahmevoraussetzungen: 
+a) empfohlene Kenntnisse:  keine. 
+b) verpflichtende Nachweise:  keine. 
+6. Verwendbarkeit des Moduls:  BSc. Computational Science  
+7. Angebotsturnus des Moduls:  jährlich 
+8. Das Modul kann absolviert werden in:  1 Semester 
+9. Empfohlenes Fachsemester:  ab 2. Semester 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+Gesamt in Stunden: 8 LP x 30 = 240 Std.  
+     (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit: 1 Sem. x 15 Wo x 6 SWS =  90 Std. 
+2. Selbststudium, Prüfungsvorbereitung: = 150 Std. 
+Leistungspunkte: 8  
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt 
+sind:   
+ 
+12. Modulbestandteile: 
+P / WP 
+Nr.  Lehrform  Themenbereich/ SWS /  Studienleistungen 
+Thema  Std. 
+1  P  Vorlesung  Algorithmen und  2   
+  Datenstrukturen     
+       
+Übungen  Algorithmen und  4  Programmieraufgaben 
+Datenstrukturen 
+Weitere Informationen geben die Dozenten zu Veranstaltungsbeginn bekannt.  
+ 
+13. Modulprüfung 
+Kompetenz / 
+Art der Prüfung  Dauer  Zeitpunkt  Anteil an Modulnote 
+Thema/Bereich 
+ 
+a)  Bereich 12.1  Klausur   105 min oder     
+  135 min oder  Vorlesungszeit bis  Benotet 100% 
+  210 min (falls  Semesterende   
+oder  aus zwei Teilen     
+  bestehend)     
+    Benotet 100% 
+Projekt  Am Semesterende   
+14. Bemerkungen:   
+Die erfolgreiche Teilnahme an den Übungen ist Zulassungsvorrausetzung für die Modulprüfung. 
+ 
+ CS-B-P8 
+ 
+1. Name des Moduls:  CS-B-P8 Numerische Methoden  
+2. Fachgebiet / Verantwortlich:  Fakultät für Physik, Der Studiendekan 
+3. Inhalte des Moduls:  Ausgesuchte Kapitel aus dem Standardlehrbuch  
+Numerical Recipes von Press, Teukolsky, Vetterling 
+und Flannery (u.a. Lösungsverfahren für lineare und 
+nichtlineare Gleichungssysteme, Interpolations- und 
+Extrapolationsverfahren, Numerische Integration und 
+Differentiation, Eigenwerte und Eigenvektoren, 
+Fouriertransformation und FFT, Ausgleichsrechnung 
+und statistische Verfahren, numerische Integration 
+gewöhnlicher Differentialgleichungen)   
+4. Qualifikationsziele des Moduls / zu  Kenntnisse grundlegender numerischer Algorithmen für 
+erwerbende Kompetenzen:  ein breites Spektrum von Anwendungen 
+5. Teilnahmevoraussetzungen:    
+a) empfohlene Kenntnisse:  Mathematische Grundlagen, Grundkenntnisse in einer 
+Programmiersprache 
+b) verpflichtende Nachweise:  keine. 
+6. Verwendbarkeit des Moduls:  BSc. Computational Science  
+7. Angebotsturnus des Moduls:  Jährlich 
+8. Das Modul kann absolviert werden in:  1 Semester 
+9. Empfohlenes Fachsemester:  ab 3. Semester 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+Gesamt in Stunden: 8 LP x 30 = 240 Std.  
+     (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit: 1 Sem. x 15 Wo x 8 SWS =  120 Std. 
+2. Selbststudium, Prüfungsvorbereitung: = 120 Std. 
+Leistungspunkte: 8  
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt 
+sind:   
+ 
+12. Modulbestandteile: 
+P / WP 
+Nr.  Lehr- Themenbereich/Thema  SWS /  Studienleistungen 
+form  Std. 
+1  P  Vorlesung  Numerische Methoden  4   
+     
+Übungen  Numerische Methoden  2 
+     
+Compter    2 
+Praktikum  Numerische Methoden  
+Weitere Informationen geben die Dozenten zu Veranstaltungsbeginn bekannt.  
+ 
+13. Modulprüfung 
+Kompetenz / 
+Art der  Dauer  Zeitpunkt  Anteil an Modulnote 
+Thema/Bereich 
+Prüfung 
+ 
+a)  Bereich 1  Programmier    Programmieraufgaben  benotet, 8/8   = 100 % 
+aufgaben  verteilt über das 
+und/oder  Semester, Klausur am 
+Klausur*  Semesterende* 
+14. Bemerkungen  
+zu 13.: * wird vom jeweiligen Dozenten bei Veranstaltungsbeginn festgelegt. 
+ 
+ CS-B-P9 
+ 
+1. Name des Moduls:  CS-B-P9 Paralleles Programmieren  
+2. Fachgebiet / Verantwortlich:  Fakultät für Physik, Der Studiendekan 
+3. Inhalte des Moduls:  Einführung in die Programmierung paralleler 
+Rechnerarchitekturen mit OpenMP und MPI 
+ 
+Analyse und Behebung typischer Probleme bei der 
+Parallelisierung: Amdahl’s Law, Auflösung von 
+Datenabhängigkeiten, Sychronisation von Daten 
+ 
+Benutzung von Parallelrechnern (Shell-Skripting) 
+4. Qualifikationsziele des Moduls / zu  Kenntnisse des Programmierens von Parallelrechnern 
+erwerbende Kompetenzen:  und ihrer effizienten Nutzung für typische 
+Problemstellungen 
+ 
+5. Teilnahmevoraussetzungen: 
+a) empfohlene Kenntnisse:  C/C++ oder Fortran 
+b) verpflichtende Nachweise:  keine. 
+6. Verwendbarkeit des Moduls:  BSc. Computational Science  
+7. Angebotsturnus des Moduls:  Jährlich 
+8. Das Modul kann absolviert werden in:  1 Semester 
+9. Empfohlenes Fachsemester:  ab 4. Semester 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+Gesamt in Stunden: 6 LP x 30 = 180 Std.  
+     (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit: 1 Sem. x 15 Wo x 6 SWS =  90 Std. 
+2. Selbststudium, Prüfungsvorbereitung: = 90 Std. 
+Leistungspunkte: 6  
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind:   
+ 
+12. Modulbestandteile: 
+P / WP 
+Nr.  Lehr- Themenbereich/Thema  SWS /  Studienleistungen 
+form  Std. 
+1  P  Vorlesung  Paralleles Programmieren  4   
+     
+Übungen  Paralleles Programmieren  2 
+Weitere Informationen geben die Dozenten zu Veranstaltungsbeginn bekannt.  
+ 
+13. Modulprüfung 
+Kompetenz / 
+Art der  Dauer  Zeitpunkt  Anteil an Modulnote 
+Thema/Bereich 
+Prüfung 
+ 
+a)  Bereich 1  Programmier    Programmieraufgaben  benotet, 6/6   = 100 % 
+aufgaben  verteilt über das 
+und/oder  Semester, Klausur am 
+Klausur*  Semesterende* 
+14. Bemerkungen: zu 13.: * wird vom jeweiligen Dozenten bei Veranstaltungsbeginn festgelegt. 
+ 
+ 
+ 

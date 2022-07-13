@@ -1,0 +1,234 @@
+input_dictionary = Modulhandbuch
+Lehramt Mittelschule - Evangelische
+Religion (Didaktikfach) - ab WS 10/11
+gültig ab Wintersemester 2010/11 Inhaltsverzeichnis
+Module
+EVR-HSDD-M16: Basismodul: Die Bibel, der christliche Glaube und ihre Didaktik 2
+EVR-HSDD-M17: Aufbaumodul 1: Fachdidaktik Evangelische Religionslehre 4
+EVR-HSDD-M18: Aufbaumodul 2: Theologische Themen in der Sekundarstufe I 6
+EVR-HSDD-M19: Vocatiomodul: Theorie und Praxis des Religionsunterrichts 8Modul: EVR-HSDD-M16
+Modul: EVR-HSDD-M16 
+Gültig ab WS10/11 
+1.Name des Moduls: Basismodul: Die Bibel, der christliche Glaube und ihre
+Didaktik
+2.Fachgebiet / Verantwortlich: Prof. Dr. Matthias Heesch
+3.Inhalte des Moduls: Einführung in die Disziplinen und Methoden der
+Evangelischen Theologie. Überblick über Epochen,
+bedeutende Personen und zentrale Fragestellungen.
+Grundkenntnisse der Bibelwissenschaft.
+4.Qualifikationsziele des Moduls / zu Disziplinen und Methoden der Evangelischen  Theologie
+erwerbende Kompetenzen: differenzieren können. Über Grundkenntnisse bzgl.
+des wissenschaftlichen Umgangs mit biblischen Texten
+verfügen.
+5.Teilnahmevoraussetzungen:
+a)empfohlene Kenntnisse: keine
+b)verpflichtende Nachweise: keine
+6.Verwendbarkeit des Moduls: Lehramtsstudiengang Evangelische Theologie
+Didaktikfach HS
+7.Angebotsturnus des Moduls: jährlich
+8.Das Modul kann absolviert werden in: 2 Semestern
+9.Empfohlenes Fachsemester: 1 bis 4
+10.Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 330
+davon:
+1.Präsenzzeit: 8 SWS
+2.Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 210 Std.
+Leistungspunkte: 11
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+2Modul: EVR-HSDD-M16
+11.Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+EVR-H Pflicht Seminar Einführung in das Studium der 2 or- und Nachbereitung der Sitzungen,
+SDD- evangelischen Theologie qualifizierte Diskussionsbeiträge, Referat
+M 16.1
+EVR-H Pflicht Vorlesung Einführung in das Alte Testament 2 Vor- und Nachbereitung der Sitzungen
+SDD-
+M 16.2
+EVR-H Pflicht Vorlesung Einführung in das Neue Testament 2 Vor- und Nachbereitung der Sitzungen
+SDD-
+M 16.3
+EVR-H Pflicht Vorlesung Systematische Theologie I 2 Vor- und Nachbereitung der Sitzungen
+SDD-
+M 16.4
+12.Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+EVR-H Über Grundkenntnisse zur Klausur 90 Minuten am Ende der 1/3
+SDD- Entstehung und Theologie Lehrveranstaltung
+M 16.2 des AT und NT verfügen.
+Über Grundkenntnisse in der
+Systematischen Theologie verfügen
+(Einführung in das Alte Testament)
+EVR-H Über Grundkenntnisse zur Klausur 90 Minuten am Ende der 1/3
+SDD- Entstehung und Theologie Lehrveranstaltung
+M 16.3 des AT und NT verfügen.
+Über Grundkenntnisse in der
+Systematischen Theologie verfügen
+(Einführung in das Neue Testament)
+EVR-H Über Grundkenntnisse zur Mündlich 20 Dauer: 15-20 Minuten am 1/3
+SDD- Entstehung und Theologie Ende der Lehrveranstaltung
+M 16.4 des AT und NT verfügen.
+Über Grundkenntnisse in der
+Systematischen Theologie verfügen
+(Systematische Theologie I)
+3Modul: EVR-HSDD-M17
+Modul: EVR-HSDD-M17 
+Gültig ab WS10/11 
+1.Name des Moduls: Aufbaumodul 1: Fachdidaktik Evangelische
+Religionslehre
+2.Fachgebiet / Verantwortlich: Prof. Dr. Matthias Heesch
+3.Inhalte des Moduls: Grundkenntnisse zu Bildung und Religion, Verständnis
+und Begründung des Religionsunterrichts in der Schule,
+Aspekten der Berufsrolle von Religionslehrerinnen und
+-lehrern, Theorien der Glaubensentwicklung und der
+religiösen Sozialisation, Grundkenntnisse der Didaktik und
+Methodik des Religionsunterrichts.
+4.Qualifikationsziele des Moduls / zu Über Grundwissen bezüglich religionspädago-gischer
+erwerbende Kompetenzen: Bildungsprozesse verfügen und kritisch reflektieren
+können sowie Voraussetzungen, Inhalte und Methoden
+religiösen Lernens und Lehrens identifizieren und
+nachvollziehen können.
+5.Teilnahmevoraussetzungen:
+a)empfohlene Kenntnisse: Basismodul M 16
+b)verpflichtende Nachweise: keine
+6.Verwendbarkeit des Moduls: Lehramtsstudiengang Evangelische Theologie
+Didaktikfach HS
+7.Angebotsturnus des Moduls: jährlich
+8.Das Modul kann absolviert werden in: 2 Semestern
+9.Empfohlenes Fachsemester: 5 bis 7
+10.Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 180
+davon:
+1.Präsenzzeit: 4 SWS
+2.Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 120 Std.
+Leistungspunkte: 6
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+11.Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+EVR-H Pflicht Vorlesung Einführung in die 2 Vor- und Nachbereitung der Sitzungen
+SDD- Religionspädagogik
+M 17.1
+EVR-H Pflicht Seminar Themen und Methoden im 2 Vor- und Nachbereitung der Sitzungen,
+SDD- Religionsunterricht I qualifizierte Diskussionsbeiträge, schriftliche
+M 17.2 Hausaufgaben
+4Modul: EVR-HSDD-M17
+12.Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+EVR-H Über Grundwissen bezüglich Klausur 90 Minuten am Ende der 1/1
+SDD- religionspädagogischer Lehrveranstaltung
+M 17.1 Bildungsprozesse verfügen und
+kritisch reflektieren können sowie
+Voraussetzungen, Inhalte und
+Methoden religiösen Lernens
+und Lehrens identifizieren
+und nachvollziehen können
+(Einführung in die Religionsp
+5Modul: EVR-HSDD-M18
+Modul: EVR-HSDD-M18
+Gültig ab WS10/11 / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1.Name des Moduls: Aufbaumodul 2: Theologische Themen in der
+Sekundarstufe I
+2.Fachgebiet / Verantwortlich: Prof. Dr. Matthias Heesch
+3.Inhalte des Moduls: Grundkenntnisse der Didaktik und Methodik des
+Religionsunterrichts
+4.Qualifikationsziele des Moduls / zu Theologische Fragestellungen identifizieren und mit
+erwerbende Kompetenzen: Blick auf den Religionsunterricht in der Sekundarstufe I
+exemplarisch didaktisch transformieren und bearbeiten
+können.
+5.Teilnahmevoraussetzungen:
+a)empfohlene Kenntnisse: Basismodul M 17
+b)verpflichtende Nachweise: keine
+6.Verwendbarkeit des Moduls: Lehramtsstudiengang Evangelische Theologie
+Didaktikfach HS
+7.Angebotsturnus des Moduls: jährlich
+8.Das Modul kann absolviert werden in: 2 Semestern
+9.Empfohlenes Fachsemester: 5 bis 7
+10.Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 150
+davon:
+1.Präsenzzeit: 4 SWS
+2.Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 90 Std.
+Leistungspunkte: 5
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+11.Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+EVR-H Pflicht Vorlesung Glaubensthemen im 2 Vor- und Nachbereitung der Sitzungen
+SDD- Seminar Religionsunterricht
+M 18.1
+EVR-H Pflicht Seminar Kirchengeschichtsdidaktik 2 Vor- und Nachbereitung der Sitzungen,
+SDD- oder ein anderes Thema der qualifizierte Diskussionsbeiträge
+M 18.2 Religionsdidaktik
+6Modul: EVR-HSDD-M18
+12.Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+EVR-H Theologische Fragestellungen Hausarbeit 15 Seiten, Abgabetermin 1/1
+SDD- identifizieren und mit Blick auf spätestens zu Beginn
+M 18.2 den Religionsunterricht in der der Vorlesungszeit
+Sekundarstufe I exemplarisch des Folgesemesters
+didaktisch transformieren
+und bearbeiten können
+13.Bemerkungen:
+Seminararbeitsnote ermittelt. 
+7Modul: EVR-HSDD-M19
+Modul: EVR-HSDD-M19
+Gültig ab WS10/11 / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1.Name des Moduls: Vocatiomodul: Theorie und Praxis des
+Religionsunterrichts
+2.Fachgebiet / Verantwortlich: Prof. Dr. Michael Fricke
+3.Inhalte des Moduls: Praktische und theoretische didaktisch-methodische
+Kenntnisse
+4.Qualifikationsziele des Moduls / zu Exemplarisch Religionsunterricht eigenständig
+erwerbende Kompetenzen: vorbereiten, durchführen und reflektieren können.
+5.Teilnahmevoraussetzungen:
+a)empfohlene Kenntnisse: Basismodul M17
+b)verpflichtende Nachweise: keine
+6.Verwendbarkeit des Moduls: Lehramtsstudiengang Evangelische Theologie
+Didaktikfach MS
+7.Angebotsturnus des Moduls: jährlich
+8.Das Modul kann absolviert werden in: 2 Semestern
+9.Empfohlenes Fachsemester: 5 bis 7
+10.Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 150
+davon:
+1.Präsenzzeit: SWS
+2.Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 60 Std.
+Leistungspunkte: 5
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+11.Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+EVR-H Pflicht Praktikum Studienbegleitendes Mind. ein Kurzversuch und eine
+SDD- fachdidaktisches Praktikum Unterrichtsvorführung im Laufe des
+M 19.1 Praktikums
+EVR-H Pflicht Seminar Didaktisch-methodisches Seminar 2 Vor- und Nachbereitung der Sitzungen,
+SDD- (unterrichtsbegleitend) qualifizierte Diskussionsbeiträge, schriftl.
+M 19.2 Unterrichtsausarbeitung: 15 Seiten,
+Abgabetermin spätestens zu Beginn
+der Vorlesungszeit des Folgesemesters
+(Exemplarisch Religionsunterricht
+eigenständig vorbereiten, durchführen und
+reflektieren können.)
+12.Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+8Modul: EVR-HSDD-M19
+13.Bemerkungen:
+Bei Studierenden, welche die Lehrbefugnis zur Erteilung von Evangelischem Religionsunterricht (Vocatio)
+erwerben möchten, wird die Absolvierung dieses Moduls vorausgesetzt. Die Anrechnung der 5 LP erfolgt
+entweder unter "zusätzliche Pflichtpunkte" im Fach "Didaktiken einer Fächergruppe der Hauptschule/
+Mittelschule" oder im EWS Modul – Bereich Gesellschaftswissenschaften (EVR – EWS – M 20). Die
+Präsenzzeit beträgt im Praktikum ca. 60 Stunden und in der Begleitveranstaltung 2 SWS.
+9

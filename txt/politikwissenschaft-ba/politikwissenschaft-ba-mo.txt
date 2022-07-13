@@ -1,0 +1,1779 @@
+input_dictionary =  
+ 
+ 
+Bachelor-Studiengang Politikwissenschaft  
+an der Universität Regensburg 
+ 
+ 
+Modulkatalog 
+ 
+ 
+ 
+ 
+Inhalt: 
+A) Einführungsmodule S. 2 
+B) Basismodule S. 6 
+C) Aufbaumodule S. 18 
+D) Ergänzungsmodul S. 38 
+E) Praxismodul S. 41 
+ 
+ 
+ 
+ 
+1 
+  
+A) EINFÜHRUNGSMODULE 
+ 
+POL-BA-10a 
+ 1. Name des Moduls:  Einführungsmodul (B.A.-Fach / 2. Hauptfach) 
+ 2. Fachgebiet / Verantwortlich:  Politikwissenschaft / Prof. Dr. Melanie Walter-Rogg  
+ 3. Inhalte des Moduls:  - Vorstellung der Teilbereiche der Politikwissenschaft 
+- Analyse politikwissenschaftlicher Texte (pol. Philosophie und                 
+Theorie, vergleichende Regierungslehre, internationale Politik) 
+- Verfassen von wissenschaftlichen Arbeiten (Formalia, Aufbau, 
+Gliederung, Zitierweise, Literatur- und Quellenverzeichnis, Daten-
+banken und Internet-Recherche) 
+- Einführung in die qualitativen und quantitativen Methoden der                   
+Politikwissenschaft sowie in die statistische Datenanalyse  
+4. Qualifikationsziele des Moduls  Im Rahmen des Moduls sollen die Studierenden sowohl fachspezifi-
+sche Qualifikationen als auch Schlüsselkompetenzen erwerben. 
+Kenntnisse (Wissen):  Die Studierenden erlangen Kenntnisse über die wichtigsten Grund-
+begriffe der Politikwissenschaft und ihre Bedeutung; hierzu gehören 
+Kenntnisse über die Analyse politischer Strukturen (polity), politi-
+scher Prozesse (politics) und von Politikinhalten (policies). Die Stu-
+dierenden erlangen Grundkenntnisse des wissenschaftlichen Arbei-
+tens für das Studium der Politikwissenschaft. Sie erlernen ein ange-
+messenes politikwissenschaftliches, methodologisches und metho-
+disches Fachvokabular sowie grundlegende Kenntnisse der Daten-
+analyse. 
+Fertigkeiten:  Die Studierenden können auf Basis der wichtigsten erkenntnis- und 
+messtheoretischen Grundlagen einfache politikwissenschaftliche 
+Fragestellungen bearbeiten. Sie können entscheiden, wann welche 
+Erhebungsmethode zur Beantwortung welcher Forschungsfragen 
+adäquat eingesetzt werden kann und wie die entsprechenden Infor-
+mationen aufbereitet bzw. analysiert werden. 
+Kompetenzen:  Die Studierenden sind in der Lage, die erkenntnis- und messtheore-
+tische Anlage von politikwissenschaftlichen Arbeiten zu verstehen 
+und deren Qualität einzuschätzen. Sie haben Kenntnis über Anwen-
+dung, Durchführung und methodische Stärken und Schwächen qua-
+litativer und quantitativer Erhebungsmethoden. Sie verfügen über 
+Grundwissen zu zentralen Forschungsdesigns und Erhebungsver-
+fahren aus dem Methodenkanon der Politikwissenschaft sowie der 
+statistischen Datenanalyse. 
+Schlüsselkompetenzen:   - Fähigkeit zum abstrakten Denken  
+- kommunikative Kompetenz (schriftlich und mündlich)  
+ 
+- Argumentationsfähigkeit  
+- Methodenkenntnisse und statistische Analysefähigkeiten 
+ 
+5. Teilnahmevoraussetzungen:                        
+a) Empfohlene Kenntnisse:  Keine 
+b) Verpflichtende Nachweise:  Keine  
+ 6. Verwendbarkeit des Moduls:  Politikwissenschaft (B.A.-Fach, 2. Hauptfach) 
+ 7. Angebotsturnus des Moduls:  Alle Kurse werden mindestens jährlich angeboten.  
+ 8. Das Modul kann absolviert      
+in zwei Semestern  
+werden in: 
+2 
+  9. Empfohlenes Fachsemester:  1.-3. Fachsemester 
+     
+10. Arbeitsaufwand des Moduls  ca. 360 h davon: 
+   
+     (Workload) / Anzahl Leis-
+1. Präsenzzeit:  90 h   
+tungspunkte: 
+2. Selbststudium/Prüfung (inkl. Vorbereitung):   270 h   
+   
+Leistungspunkte:  12 
+11. Das Modul ist erfolgreich absolviert, wenn die folgenden Leistungen erfüllt sind: 
+12. Modulbestandteile: 
+Nr.  P/WP  Lehrform  Themenbereich/Thema  SWS / Std.  LP  Studienleistungen 
+Einführung in die   Schriftliche  
+1  P  Propädeutikum   2  2 
+Politikwissenschaft  Erfolgskontrolle 
+Einführung in die Methoden   Schriftliche  
+2  P  Vorlesung   2  4 
+der Politikwissenschaft  Erfolgskontrolle 
+3  P  Grundkurs (GK)   E   i n  f ü  h  rung in die Datenanalyse   2  6  Projektarbeit 
+13. Modulprüfung  
+Art der                    Anteil an                         
+Kompetenz / Thema / Bereich  Dauer / Umfang  Zeitpunkt 
+Prüfung  Modulnote 
+25.000 Zeichen Text                
+Hausarbeit  Abgabetermin: 
+Statistische Datenanalyse  inkl. Leerzeichen,                    100 % 
+im GK  30.3/30.9 
+exkl. Anhang/Literatur 
+14. Bemerkungen 
+Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Veranstaltung zum Gesamtauf-
+wand des Moduls. Die LP werden erst mit Bestehen der Modulprüfung vergeben. 
+Studienbeginn WS: Es wird empfohlen, im 1. Semester das Propädeutikum, im 2. Semester die Methoden-
+vorlesung und im 3. Semester den Grundkurs zu absolvieren. Möglich ist es auch, die Methodenvorlesung 
+sowie den Grundkurs im 2. Semester zu absolvieren.  
+Studienbeginn SS: Es wird empfohlen, im 1. Semester das Propädeutikum und die Methodenvorlesung 
+sowie im 2. Semester den Grundkurs zu absolvieren. 
+Schriftliche Erfolgskontrollen werden vom Dozenten oder der Dozentin festgelegt und zu Beginn der Lehr-
+veranstaltung bekanntgegeben. Diese sind in der Regel Klausuren, sie können aber auch in Form von Pro-
+tokollen, Berichten, Reviews, Essays oder Übungsaufgaben abgelegt werden.  
+Die Projektarbeit bezieht sich auf die konkrete Ausarbeitung eines forschungspraktischen Problems, das 
+mithilfe qualitativer und quantitativer Analyseverfahren bearbeitet und mit geeigneten Visualisierungshilfen 
+(Poster, Analyseraster, Ergebnistabellen, Schaubilder, Filme usw.) dargestellt wird. 
+ 
+   
+3 
+ POL-BA-10b 
+ 1. Name des Moduls:  Einführungsmodul (Nebenfach) 
+ 2. Fachgebiet / Verantwortlich:  Politikwissenschaft / Prof. Dr. Melanie Walter-Rogg  
+ 
+ 3. Inhalte des Moduls:  - Vorstellung der Teilbereiche der Politikwissenschaft 
+- Analyse politikwissenschaftlicher Texte (pol. Philosophie und               
+Theorie, vergleichende Regierungslehre, internationale Politik) 
+- Verfassen von wissenschaftlichen Arbeiten (Formalia, Aufbau, 
+Gliederung, Zitierweise, Literatur- und Quellenverzeichnis, Daten-
+banken und Internet-Recherche) 
+- Einführung in die qualitativen und quantitativen Methoden der              
+Politikwissenschaft sowie der statistischen Datenanalyse.
+ 
+4. Qualifikationsziele des Moduls  Im Rahmen des Moduls sollen die Studierenden sowohl fachspezifi-
+sche Qualifikationen als auch Schlüsselkompetenzen erwerben. 
+Kenntnisse (Wissen):  Die Studierenden erlangen Kenntnisse über die wichtigsten Grund-
+begriffe der Politikwissenschaft und ihre Bedeutung; hierzu gehören 
+Kenntnisse über die Analyse politischer Strukturen (polity), politi-
+scher Prozesse (politics) und von Politikinhalten (policies). Die Stu-
+dierenden erlangen Grundkenntnisse des wissenschaftlichen Arbei-
+tens für das Studium der Politikwissenschaft. Sie erlernen ein ange-
+messenes politikwissenschaftliches, methodologisches und metho-
+disches Fachvokabular sowie grundlegende Kenntnisse der Daten-
+analyse. 
+Fertigkeiten:  Die Studierenden können auf Basis der wichtigsten erkenntnis- und 
+messtheoretischen Grundlagen einfache politikwissenschaftliche 
+Fragestellungen bearbeiten. Sie können entscheiden, wann welche 
+Erhebungsmethode zur Beantwortung welcher Forschungsfragen 
+adäquat eingesetzt werden kann und wie die entsprechenden Infor-
+mationen aufbereitet bzw. analysiert werden. 
+Kompetenzen:  Die Studierenden sind in der Lage, die erkenntnis- und messtheore-
+tische Anlage von politikwissenschaftlichen Arbeiten zu verstehen 
+und deren Qualität einzuschätzen. Sie haben Kenntnis über Anwen-
+dung, Durchführung und methodische Stärken und Schwächen qua-
+litativer und quantitativer Erhebungsmethoden. Sie verfügen über 
+Grundwissen zu zentralen Forschungsdesigns und Erhebungsver-
+fahren aus dem Methodenkanon der Politikwissenschaft sowie der 
+Datenanalyse. 
+Schlüsselkompetenzen:   - Fähigkeit zum abstrakten Denken  
+- kommunikative Kompetenz (schriftlich und mündlich)  
+ 
+- Argumentationsfähigkeit  
+- Methodenkenntnisse und Analysefähigkeiten 
+ 
+5. Teilnahmevoraussetzungen: 
+a) Empfohlene Kenntnisse:  Keine 
+b) Verpflichtende Nachweise:  Keine  
+6. Verwendbarkeit des Moduls:  Politikwissenschaft (Nebenfach)  
+7. Angebotsturnus des Moduls:  Alle Kurse werden mindestens jährlich angeboten.  
+8. Das Modul kann absolviert               
+in zwei Semestern  
+werden in: 
+9. Empfohlenes Fachsemester:  1.-3. Fachsemester 
+4 
+      
+10. Arbeitsaufwand des Moduls  ca.180 h davon: 
+   
+     (Workload) / Anzahl              
+1. Präsenzzeit:  60 h   
+Leistungspunkte: 
+2. Selbststudium/Prüfung (inkl. Vorbereitung):   120 h   
+ 
+Leistungspunkte:  6 
+11. Das Modul ist erfolgreich absolviert, wenn die folgenden Leistungen erfüllt sind: 
+12. Modulbestandteile: 
+Nr.  P / WP  Lehrform  Themenbereich / Thema  SWS / Std.  LP  Studienleistungen 
+Einführung in die   Schriftliche  
+1  P  Propädeutikum   2  2 
+Politikwissenschaft  Erfolgskontrolle 
+Einführung in die Methoden  
+2  P  Vorlesung   2  4  - 
+der Politikwissenschaft 
+13. Modulprüfung  
+Anteil an                         
+Kompetenz / Thema / Bereich  Art der Prüfung  Dauer / Umfang  Zeitpunkt 
+Modulnote 
+Letzte Sitzung  
+Grundwissen Methoden  Klausur  60 Minuten  100 % 
+im Semester 
+14. Bemerkungen 
+ 
+Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Veranstaltung zum Gesamtauf-
+wand des Moduls. Die LP werden erst mit Bestehen der Modulprüfung vergeben. 
+Schriftliche Erfolgskontrollen werden vom Dozenten oder der Dozentin festgelegt und zu Beginn der Lehr-
+veranstaltung bekanntgegeben. Diese sind in der Regel Klausuren, sie können aber auch in Form von Pro-
+tokollen, Berichten, Reviews, Essays oder Übungsaufgaben abgelegt werden. 
+ 
+5 
+ B) BASISMODULE 
+ 
+POL-BA-11 
+ 1. Name des Moduls:  Basismodul Politische Philosophie und Ideengeschichte 
+ 2. Fachgebiet / Verantwortlich:  Politikwissenschaft / Prof. Dr. Karlfriedrich Herb  
+ 
+ 3. Inhalte des Moduls:  - Überblick über Geschichte und Systematik der Politischen Philoso-
+phie und Theorie von der Antike bis zur Gegenwart  
+- Überblick über Grundprobleme und Grundkonzepte der politischen 
+Ideengeschichte: Institutionen, Normen, Entstehung und Begrün-
+dung politischer Ordnung  
+- Basiswissen über Selbstverständnis und Methodik der Politikwis-
+senschaft 
+- Einführung in die fachgebietsspezifische Arbeitsweise und Metho-
+dik (Textanalyse, Hermeneutik) 
+ 
+4. Qualifikationsziele des Moduls  Im Rahmen des Moduls sollen die Studierenden sowohl fachspezifi-
+sche Qualifikationen als auch Schlüsselkompetenzen erwerben. 
+Kenntnisse (Wissen):  Die Studierenden sind mit den grundlegenden Denkern, Werken und                
+Begriffen der politischen Philosophie und Theorie vertraut. 
+Fertigkeiten:  Auf den Grundkenntnissen aufbauend können die Studierenden die 
+jeweiligen Ansätze zusammenfassen, beschreiben, fachspezifische 
+Texte analysieren und interpretieren. Sie können Begriffe einordnen 
+und hinterfragen und verfügen über die Fähigkeit zur Reflexion auf 
+die Politikwissenschaft als positive und normative Wissenschaft. 
+Kompetenzen:  Die Studierenden kennen grundlegende Probleme aus der Ge-
+schichte des Politischen Denkens und sind in der Lage, sich kritisch 
+mit ihnen auseinanderzusetzen und zwischen verschiedenen Lö-
+sungsansätzen abzuwägen. Sie besitzen die Fähigkeit, in schriftli-
+cher und mündlicher Form theoriegeleitet zu argumentieren, zu 
+strukturieren, Stellung zu beziehen und Ergebnisse zu präsentieren. 
+Die Studierenden sind dazu fähig, die erlernten Inhalte eigenständig 
+in eine konkrete Forschungsfrage zu transferieren, welche sie dann 
+in fachlich angemessener Terminologie und Methodik sowie unter 
+Zuhilfenahme der einschlägigen Primär- und Forschungsliteratur im 
+Rahmen eines kleinen Forschungsprojekts (Hausarbeit) beantwor-
+ten. 
+Schlüsselkompetenzen:   - Fähigkeit zum abstrakten Denken 
+  - kommunikative Kompetenz (schriftlich und mündlich) 
+- Argumentationsfähigkeit 
+- Demokratische Urteilskompetenz 
+ 
+5. Teilnahmevoraussetzungen: 
+a) Empfohlene Kenntnisse:  grundlegende Englischkenntnisse auf dem Niveau GER A2  
+(Französisch-, Latein- und Altgriechischkenntnisse von Vorteil) 
+b) Verpflichtende Nachweise:  Keine  
+ 6. Verwendbarkeit                       
+Politikwissenschaft (B.A.-Fach, 2. Hauptfach) 
+des Moduls: 
+ 7. Angebotsturnus des Moduls:  Alle Kurse werden mindestens jährlich angeboten.  
+ 8. Das Modul kann absolviert    
+in zwei Semestern  
+werden in: 
+ 9. Empfohlenes Fachsemester:  1.-3. Fachsemester 
+ 
+6 
+ 10. Arbeitsaufwand des Moduls  ca. 300 h davon:     
+     (Workload) / Anzahl                       1. Präsenzzeit:  60 h   
+Leistungspunkte:  2. Selbststudium / Prüfung (inkl. Vorbereitung):   240 h 
+Leistungspunkte:       10   
+11. Das Modul ist erfolgreich absolviert, wenn die folgenden Leistungen erfüllt sind:    
+12. Modulbestandteile: 
+Nr.  P / WP  Lehrform  Themenbereich / Thema  SWS / Std.  LP  Studienleistungen 
+Einführung in die   Schriftliche  
+1  P  Vorlesung   2  4 
+Politische Philosophie  Erfolgskontrolle 
+Grundkurs  Einführung in die   Referat oder schriftliche 
+2  P  2  6 
+(GK)  Politische Philosophie  Erfolgskontrolle* 
+13. Modulprüfung  
+Art der                    Anteil an                         
+Kompetenz / Thema / Bereich  Dauer / Umfang  Zeitpunkt 
+Prüfung  Modulnote 
+25.000 Zeichen Text, inkl. 
+konzeptionelles Arbeiten,   Hausarbeit  Abgabetermin: 
+Leerzeichen, exkl. An- 100 % 
+Fähigkeit zur Analyse  im GK  30.3. / 30.9 
+hang/Literatur 
+14. Bemerkungen 
+Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Veranstaltung zum Gesamtauf-
+wand des Moduls. Die LP werden erst mit Bestehen der Modulprüfung vergeben. 
+Schriftliche Erfolgskontrollen werden vom Dozenten oder der Dozentin festgelegt und zu Beginn der Lehr-
+veranstaltung bekanntgegeben. Diese sind in der Regel Klausuren, sie können aber auch in Form von Pro-
+tokollen, Berichten, Reviews, Essays oder Übungsaufgaben abgelegt werden. 
+*Der oder die Studierende hat die Wahl, ob als Studienleistung in der Veranstaltung Nr. 12.2 ein Referat    
+ gehalten oder eine schriftliche Erfolgskontrolle absolviert wird.  
+   
+7 
+ POL-BA-12 
+1. Name des Moduls:  Basismodul Westliche Regierungssysteme 
+2. Fachgebiet / Verantwortlich:  Politikwissenschaft / Prof. Dr. Martin Sebaldt 
+3. Inhalte des Moduls:  - Vergleichende Analyse westlicher Regierungssysteme (insb. 
+Deutschland, Frankreich, Großbritannien, Italien, Spanien, USA)  
+- Inhaltliche Schwerpunkte: Typen der Regierungssysteme, Verfas-
+sungsgerichtsbarkeit, Föderalismus und Regionalisierung, Wahl-
+systeme, direkte Demokratie, Parteien und Verbände 
+4. Qualifikationsziele des Moduls  Im Rahmen des Moduls sollen die Studierenden sowohl fachspezifi-
+sche Qualifikationen als auch Schlüsselkompetenzen erwerben. 
+Die Studierenden erwerben Kenntnisse über die wesentlichen Fra-
+Kenntnisse (Wissen): 
+gestellungen des politikwissenschaftlichen Systemvergleichs und die 
+Grundzüge westlicher Regierungssysteme (insb. Deutschland, 
+Frankreich, Großbritannien, Italien, Spanien, USA) hinsichtlich der 
+Themen Typen der Regierungssysteme, Verfassungsgerichtsbarkeit, 
+Föderalismus und Regionalisierung, Wahlsysteme, direkte Demokra-
+tie, Parteien und Verbände.  
+Fertigkeiten:  Die Studierenden können westliche Regierungssysteme mit Hilfe 
+von Grundkategorien der politikwissenschaftlichen Komparatistik 
+einordnen und analysieren. 
+Kompetenzen:  Die Studierenden kennen die historischen und gegenwärtigen Be-
+sonderheiten der politischen Entwicklung westlicher Regierungs-  
+systeme und sind in der Lage, in einer Hausarbeit eine eigenständi-
+ge, politikwissenschaftliche, auf die genannten Inhalte bezogene 
+Fragestellung aufzuarbeiten. 
+Schlüsselkompetenzen:   - Fähigkeit zum abstrakten Denken 
+  - kommunikative Kompetenz (schriftlich und mündlich) 
+- Argumentationsfähigkeit 
+- Demokratische Urteilskompetenz 
+ 
+5. Teilnahmevoraussetzungen: 
+a) Empfohlene Kenntnisse:  Gute Englischkenntnisse auf dem Niveau GER B1 
+b) Verpflichtende Nachweise:  Keine  
+ 6. Verwendbarkeit des Moduls:  Politikwissenschaft (B.A.-Fach, 2. Hauptfach) 
+ 7. Angebotsturnus des Moduls:  Alle Kurse werden mindestens jährlich angeboten.  
+ 8. Das Modul kann absolviert  
+in zwei Semestern  
+werden in: 
+ 9. Empfohlenes Fachsemester:  1.-3. Fachsemester 
+10. Arbeitsaufwand des Moduls  ca. 300 h davon:       
+ 
+     (Workload) / Anzahl                       1 . Präsenzzeit:  60 h   
+Leistungspunkte:  2. Selbststudium / Prüfung (inkl. Vorbereitung):   240 h   
+ 
+Leistungspunkte:       10   
+ 
+   
+8 
+ 11. Das Modul ist erfolgreich absolviert, wenn die folgenden Leistungen erfüllt sind: 
+12. Modulbestandteile: 
+Nr.  P / WP  Lehrform  Themenbereich / Thema  SWS / Std.  LP  Studienleistungen 
+Schriftliche  
+1  P  Vorlesung   Westliche Demokratien  2  4 
+Erfolgskontrolle 
+Grundkurs  Einführung in den Vergleich  Referat oder schriftliche 
+2  P  2  6 
+(GK)   westl. Regierungssysteme  Erfolgskontrolle* 
+13. Modulprüfung  
+Art der                    Anteil an                         
+Kompetenz / Thema / Bereich  Dauer / Umfang  Zeitpunkt 
+Prüfung  Modulnote 
+25.000 Zeichen Text, inkl. 
+konzeptionelles Arbeiten,   Hausarbeit  Abgabetermin: 
+Leerzeichen, exkl. An- 100 % 
+Fähigkeit zur Analyse  im GK  30.3. / 30.9 
+hang/Literatur 
+14. Bemerkungen 
+Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Veranstaltung zum Gesamtauf-
+wand des Moduls. Die LP werden erst mit Bestehen der Modulprüfung vergeben. 
+Schriftliche Erfolgskontrollen werden vom Dozenten oder der Dozentin festgelegt und zu Beginn der Lehr-
+veranstaltung bekanntgegeben. Diese sind in der Regel Klausuren, sie können aber auch in Form von Pro-
+tokollen, Berichten, Reviews, Essays oder Übungsaufgaben abgelegt werden. 
+*Der oder die Studierende hat die Wahl, ob als Studienleistung in der Veranstaltung Nr. 12.2 ein Referat    
+ gehalten oder eine schriftliche Erfolgskontrolle absolviert wird. 
+ 
+ 
+ 
+   
+9 
+ POL-BA-13 
+1. Name des Moduls:  Basismodul Politische Systeme Mittel- und Osteuropas 
+2. Fachgebiet / Verantwortlich:  Politikwissenschaft / Prof. Dr. Jerzy Maćków   
+3. Inhalte des Moduls:  Grundkenntnisse über Mittel- und Osteuropa auf folgenden Gebie-
+ten: 
+- Politische Geographie und Geschichte  
+- Totalitarismus und Posttotalitarismus 
+- Parlamentarismus  
+- Europäische Integration 
+4. Qualifikationsziele des Moduls  Im Rahmen des Moduls sollen die Studierenden sowohl fachspezi-
+fische Qualifikationen als auch Schlüsselkompetenzen erwerben. 
+ 
+Kenntnisse (Wissen):  Die Studierenden erwerben Kenntnisse über die wesentlichen Fra-
+gestellungen des politikwissenschaftlichen Systemvergleichs und 
+die Grundzüge politischer Systeme Mittel- und Osteuropas hin-
+sichtlich der Themen Politische Geographie und Geschichte, Tota-
+litarismus und Posttotalitarismus, Parlamentarismus und Europäi-
+sche Integration. 
+Fertigkeiten:  Die Studierenden können mittel- und osteuropäische Regierungs-
+systeme mit Hilfe von Grundkategorien der politikwissenschaftli-
+chen Komparatistik einordnen und analysieren. 
+Kompetenzen:  Die Studierenden kennen die historischen und gegenwärtigen Be-
+sonderheiten der politischen Entwicklung mittel- und osteuropäi-
+scher Regierungssysteme – auch im gesamteuropäischen Kontext 
+– und sind in der Lage, in einer Hausarbeit eine eigenständige, 
+politikwissenschaftliche, auf die genannten Inhalte bezogene Fra-
+gestellung aufzuarbeiten. 
+Schlüsselkompetenzen:   - Fähigkeit zum abstrakten Denken 
+- kommunikative Kompetenz (schriftlich und mündlich) 
+- Argumentationsfähigkeit 
+- Komparative Urteilskompetenz 
+ 
+5. Teilnahmevoraussetzungen: 
+a) Empfohlene Kenntnisse:  Grundlegende Englischkenntnisse auf dem Niveau A2 
+b) Verpflichtende Nachweise:  Keine  
+ 6. Verwendbarkeit des Moduls:  Politikwissenschaft (B.A.-Fach, 2. Hauptfach) 
+ 7. Angebotsturnus des Moduls:  Alle Kurse werden mindestens jährlich angeboten.  
+ 8. Das Modul kann absolviert  
+in zwei Semestern  
+werden in: 
+ 9. Empfohlenes Fachsemester:  2.-4. Fachsemester 
+10. Arbeitsaufwand des Moduls  ca. 300 h davon:       
+ 
+1. Präsenzzeit:  60 h   
+2. Selbststudium / Prüfung (inkl. Vorbereitung):   240 h   
+Leistungspunkte:       10    
+ 
+   
+10 
+ 11. Das Modul ist erfolgreich absolviert, wenn die folgenden Leistungen erfüllt sind: 
+12. Modulbestandteile: 
+Nr.  P / WP  Lehrform  Themenbereich / Thema  SWS / Std.  LP  Studienleistungen 
+Länderstudien Mittel und Osteu-
+ropas / politische Systeme, Völker 
+Schriftliche  
+1  P  Vorlesung   und Nationen, gesellschaftliche  2  4 
+Erfolgskontrolle 
+und politische Entwicklung                 
+Mittel- und Osteuropas 
+Grundkurs  Einführung in die politischen       Referat oder schriftli-
+2  P  2  6 
+(GK)   Systeme Mittel- und Osteuropas  che Erfolgskontrolle* 
+13. Modulprüfung  
+Art der                    Anteil an                         
+Kompetenz / Thema / Bereich  Dauer / Umfang  Zeitpunkt 
+Prüfung  Modulnote 
+25.000 Zeichen Text, inkl. 
+konzeptionelles Arbeiten,   Hausarbeit  Abgabetermin: 
+Leerzeichen, exkl. An- 100 % 
+Fähigkeit zur Analyse  im GK  30.3. / 30.9 
+hang/Literatur 
+14. Bemerkungen 
+Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Veranstaltung zum Gesamtauf-
+wand des Moduls. Die LP werden erst mit Bestehen der Modulprüfung vergeben. 
+Schriftliche Erfolgskontrollen werden vom Dozenten oder der Dozentin festgelegt und zu Beginn der Lehr-
+veranstaltung bekanntgegeben. Diese sind in der Regel Klausuren, sie können aber auch in Form von Pro-
+tokollen, Berichten, Reviews, Essays oder Übungsaufgaben abgelegt werden. 
+*Der oder die Studierende hat die Wahl, ob als Studienleistung in der Veranstaltung Nr. 12.2 ein Referat    
+ gehalten oder eine schriftliche Erfolgskontrolle absolviert wird. 
+ 
+ 
+ 
+ 
+   
+11 
+ POL-BA-14 
+1. Name des Moduls:  Basismodul Internationale Politik  
+2. Fachgebiet / Verantwortlich:  Politikwissenschaft / Prof. Dr. Stephan Bierling  
+3. Inhalte des Moduls:  - Grundlagen des Fachs Internationale Politik  
+- Theorien der internationalen Politik  
+- Außen- und Sicherheitspolitik wichtiger Akteure (BRD, USA, EU)  
+- Entwicklung und Funktionsweise zentraler internationaler Organi-
+sationen (UNO, NATO)  
+- zentrale regionale und funktionale Konfliktfelder 
+4. Qualifikationsziele des Moduls  Im Rahmen des Moduls sollen die Studierenden sowohl fachspezifi-
+sche Qualifikationen als auch Schlüsselkompetenzen erwerben. 
+ 
+Kenntnisse (Wissen):  Die Studierenden erwerben Grundkenntnisse in den Bereichen The-
+orien der internationalen Politik, Außen- und Sicherheitspolitik wich-
+tiger Akteure (BRD, USA, EU), Entwicklung und Funktionsweise 
+zentraler internationaler Organisationen (UNO, NATO), zentrale 
+regionale und funktionale Konfliktfelder. 
+Fertigkeiten:  Die Studierenden können die Grundlagen des Faches Internationale 
+Politik einordnen und analysieren.  
+Kompetenzen:  Die Studierenden erkennen auf Basis des erlernten Faktenwissens 
+selbständig ein wissenschaftliches Problem der internationalen           
+Politik. Sie sind in der Lage, daraus eine Forschungsfrage abzuleiten 
+und diese anhand einer theoriebasierten Hypothese systematisch 
+und nach den wissenschaftlichen Standards des Faches zu beant-
+worten. 
+Schlüsselkompetenzen:   - Fähigkeit zum abstrakten Denken 
+- kommunikative Kompetenz (schriftlich und mündlich) 
+- Argumentationsfähigkeit 
+- Fähigkeit zur rationalen Urteilsbildung 
+ 
+5. Teilnahmevoraussetzungen: 
+a) Empfohlene Kenntnisse:  Gute Englischkenntnisse auf dem Niveau GER B1 
+b) Verpflichtende Nachweise:  Keine  
+ 6. Verwendbarkeit des Moduls:  Politikwissenschaft (B.A.-Fach, 2. Hauptfach) 
+ 7. Angebotsturnus des Moduls:  Alle Kurse werden mindestens jährlich angeboten.  
+ 8. Das Modul kann absolviert  
+in zwei Semestern  
+werden in: 
+ 9. Empfohlenes Fachsemester:  1.-3. Fachsemester 
+10. Arbeitsaufwand des Moduls  ca. 300 h davon:       
+ 
+1. Präsenzzeit:  60 h   
+2. Selbststudium / Prüfung (inkl. Vorbereitung):   240 h   
+Leistungspunkte:       10    
+ 
+   
+12 
+ 11. Das Modul ist erfolgreich absolviert, wenn die folgenden Leistungen erfüllt sind: 
+12. Modulbestandteile: 
+Nr.  P / WP  Lehrform  Themenbereich / Thema  SWS / Std.  LP  Studienleistungen 
+Einführung in die   Schriftliche  
+1  P  Vorlesung   2  4 
+Internationale Politik   Erfolgskontrolle 
+Grundkurs  Einführung in die   Referat oder schriftliche 
+2  P  2  6 
+(GK)   Internationale Politik   Erfolgskontrolle* 
+13. Modulprüfung  
+Art der                    Anteil an                         
+Kompetenz / Thema / Bereich  Dauer / Umfang  Zeitpunkt 
+Prüfung  Modulnote 
+25.000 Zeichen Text, inkl. 
+konzeptionelles Arbeiten,   Hausarbeit  Abgabetermin: 
+Leerzeichen, exkl. An- 100 % 
+Fähigkeit zur Analyse  im GK  30.3. / 30.9 
+hang/Literatur 
+14. Bemerkungen 
+Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Veranstaltung zum Gesamtauf-
+wand des Moduls. Die LP werden erst mit Bestehen der Modulprüfung vergeben. 
+Schriftliche Erfolgskontrollen werden vom Dozenten oder der Dozentin festgelegt und zu Beginn der Lehr-
+veranstaltung bekanntgegeben. Diese sind in der Regel Klausuren, sie können aber auch in Form von Pro-
+tokollen, Berichten, Reviews, Essays oder Übungsaufgaben abgelegt werden. 
+*Der oder die Studierende hat die Wahl, ob als Studienleistung in der Veranstaltung Nr. 12.2 ein Referat    
+ gehalten oder eine schriftliche Erfolgskontrolle absolviert wird. 
+ 
+ 
+ 
+13 
+ POL-BA-31a 
+1. Name des Moduls:  Basismodul I Nebenfach 
+2. Fachgebiet / Verantwortlich:  Politikwissenschaft / Geschäftsführende/r Professor/in   
+3. Inhalte des Moduls:  - Überblick über Geschichte und Systematik der Politischen Philoso-
+phie und Theorie von der Antike bis zur Gegenwart  
+- Überblick über Grundprobleme und Grundkonzepte der politischen 
+Ideengeschichte: Institutionen, Normen, Entstehung und Begrün-
+dung politischer Ordnung  
+- Theorien der internationalen Politik 
+- Außen- und Sicherheitspolitik BRD, USA, EU 
+- Entwicklung und Funktionsweise zentraler internationaler Organi-
+sationen (UNO, NATO) 
+4. Qualifikationsziele des Moduls  Im Rahmen des Moduls sollen die Studierenden sowohl fachspezifi-
+sche Qualifikationen als auch Schlüsselkompetenzen erwerben. 
+Kenntnisse (Wissen):  Die Studierenden sind mit den grundlegenden Denkern, Werken und           
+Begriffen der politischen Philosophie und Theorie vertraut. Sie er-
+werben Grundkenntnisse in den Bereichen Theorien der internatio-
+nalen Politik, Außen- und Sicherheitspolitik wichtiger Akteure (BRD, 
+USA, EU), Entwicklung und Funktionsweise zentraler internationaler 
+Organisationen (UNO, NATO), zentrale regionale und funktionale 
+Konfliktfelder. 
+Fertigkeiten:  Auf den Grundkenntnissen aufbauend können die Studierenden, die 
+jeweiligen Ansätze zusammenfassen, beschreiben, fachspezifische 
+Texte analysieren und interpretieren. Sie können Begriffe einordnen 
+und hinterfragen und verfügen über die Fähigkeit zur Reflexion auf 
+die Politikwissenschaft als positive und normative Wissenschaft. Die 
+Studierenden können die Grundlagen des Faches Internationale 
+Politik einordnen und analysieren. 
+Kompetenzen:  Die Studierenden kennen grundlegende Probleme aus der Ge-
+schichte des Politischen Denkens und sind in der Lage, sich kritisch 
+mit ihnen auseinanderzusetzen und zwischen verschiedenen            
+Lösungsansätzen abzuwägen. Sie besitzen die Fähigkeit, in schriftli-
+cher und mündlicher Form theoriegeleitet zu argumentieren, zu 
+strukturieren, Stellung zu beziehen und Ergebnisse zu präsentieren. 
+Die Studierenden sind dazu fähig, die erlernten Inhalte eigenständig 
+in eine konkrete Forschungsfrage zu transferieren, welche sie dann 
+in fachlich angemessener Terminologie und Methodik sowie unter 
+Zuhilfenahme der einschlägigen Primär- und Forschungsliteratur im 
+Rahmen eines kleinen Forschungsprojekts (Hausarbeit) beantwor-
+ten. 
+Die Studierenden erkennen auf Basis des erlernten Faktenwissens                 
+selbständig ein wissenschaftliches Problem der internationalen Poli-
+tik. Sie sind in der Lage, daraus eine Forschungsfrage abzuleiten 
+und diese  anhand einer theoriebasierten Hypothese systematisch 
+und nach den wissenschaftlichen Standards des Faches zu beant-
+worten. 
+Schlüsselkompetenzen:   - Fähigkeit zum abstrakten Denken 
+  - kommunikative Kompetenz (schriftlich und mündlich) 
+- Argumentationsfähigkeit 
+- Demokratische und rationale Urteilskompetenz 
+ 
+5. Teilnahmevoraussetzungen: 
+a) Empfohlene Kenntnisse:  Gute Englischkenntnisse auf dem Niveau GER B1  
+b) Verpflichtende Nachweise:  Keine  
+14 
+ 6. Verwendbarkeit des Moduls:  Politikwissenschaft (Nebenfach)  
+7. Angebotsturnus des Moduls:  Alle Kurse werden mindestens jährlich angeboten.  
+8. Das Modul kann absolviert    
+in zwei Semestern  
+werden in: 
+9. Empfohlenes Fachsemester:  1.-4. Fachsemester 
+10. Arbeitsaufwand des Moduls  ca. 300 h davon:        
+     (Workload) / Anzahl                      1. Präsenzzeit:  60 h   
+Leistungspunkte:  2. Selbststudium / Prüfung (inkl. Vorbereitung):   240 h 
+Leistungspunkte:       10   
+11. Das Modul ist erfolgreich absolviert, wenn die folgenden Leistungen erfüllt sind: 
+12. Modulbestandteile: 
+Nr.  P / WP  Lehrform  Themenbereich / Thema  SWS / Std.  LP  Studienleistungen 
+Einführung Politische  
+Schriftliche  
+1  P  Vorlesung   Philosophie oder Einführung   2  4 
+Erfolgskontrolle 
+Internationale Politik 
+Einführung Politische  
+Grundkurs  Referat oder schriftliche 
+2  P  Philosophie oder Einführung   2  6 
+(GK)  Erfolgskontrolle* 
+Internationale Politik 
+13. Modulprüfung  
+Art der                    Anteil an                         
+Kompetenz / Thema / Bereich  Dauer / Umfang  Zeitpunkt 
+Prüfung  Modulnote 
+25.000 Zeichen Text, inkl. 
+konzeptionelles Arbeiten,   Hausarbeit  Abgabetermin: 
+Leerzeichen, exkl. An- 100 % 
+Fähigkeit zur Analyse  im GK  30.3. / 30.9 
+hang/Literatur 
+14. Bemerkungen 
+Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Veranstaltung zum Gesamtauf-
+wand des Moduls. Die LP werden erst mit Bestehen der Modulprüfung vergeben. 
+Die zwei im Rahmen des Moduls belegten Veranstaltungen müssen die beiden Teildisziplinen Politische  
+Philosophie und Internationale Politik abdecken. 
+Schriftliche Erfolgskontrollen werden vom Dozenten oder der Dozentin festgelegt und zu Beginn der Lehr-
+veranstaltung bekanntgegeben. Diese sind in der Regel Klausuren, sie können aber auch in Form von Pro-
+tokollen, Berichten, Reviews, Essays oder Übungsaufgaben abgelegt werden.  
+*Der oder die Studierende hat die Wahl, ob als Studienleistung in der Veranstaltung Nr. 12.2 ein Referat    
+ gehalten oder eine schriftliche Erfolgskontrolle absolviert wird. 
+ 
+15 
+ POL-BA-31b 
+1. Name des Moduls:  Basismodul II Nebenfach 
+ 2. Fachgebiet / Verantwortlich:  Politikwissenschaft / Geschäftsführende/r Professor/in  
+ 3. Inhalte des Moduls:  - Vergleichende Analyse westlicher Regierungssysteme (insb. 
+Deutschland, Frankreich, Großbritannien, Italien, Spanien, USA).  
+- Typen der Regierungssysteme, Verfassungsgerichtsbarkeit, Föde-
+ralismus und Regionalisierung, Wahlsysteme, direkte Demokratie 
+Parteien und Verbände. 
+- Überblick über Theorien des Totalitarismus und Posttotalitarismus, 
+des Parlamentarismus und der europäischen Integration 
+- Abriss der Geographie und Geschichte Mittel- und Osteuropas 
+4. Qualifikationsziele des Moduls  Im Rahmen des Moduls sollen die Studierenden sowohl fachspezifi-
+sche Qualifikationen als auch Schlüsselkompetenzen erwerben. 
+Kenntnisse (Wissen):  Die Studierenden erwerben Kenntnisse über die wesentlichen Fra-
+gestellungen des politikwissenschaftlichen Systemvergleichs und die 
+Grundzüge westlicher Regierungssysteme (insb. Deutschland, 
+Frankreich, Großbritannien, Italien, Spanien, USA) hinsichtlich der 
+Themen Typen der Regierungssysteme, Verfassungsgerichtsbarkeit, 
+Föderalismus und Regionalisierung, Wahlsysteme, direkte Demokra-
+tie, Parteien und Verbände sowie die Grundzüge politischer               
+Systeme Mittel- und Osteuropas hinsichtlich der Themen Politische 
+Geographie und Geschichte, Totalitarismus und Posttotalitarismus, 
+Parlamentarismus und Europäische Integration. 
+Fertigkeiten:  Die Studierenden können westliche sowie mittel- und osteuropäi-
+sche Regierungssysteme mit Hilfe von Grundkategorien der politik-
+wissenschaftlichen Komparatistik einordnen und analysieren.  
+Kompetenzen:  Die Studierenden kennen die historischen und gegenwärtigen Be-
+sonderheiten der politischen Entwicklung westlicher, mittel- und ost-
+europäischer Regierungssysteme und sind in der Lage, in einer 
+Hausarbeit eine eigenständige, politikwissenschaftliche, auf die ge-
+nannten Inhalte bezogene Fragestellung aufzuarbeiten.  
+Schlüsselkompetenzen:   - Fähigkeit zum abstrakten Denken 
+  - kommunikative Kompetenz (schriftlich und mündlich) 
+- Argumentationsfähigkeit 
+- Komparative Urteilskompetenz 
+ 
+5. Teilnahmevoraussetzungen: 
+a) Empfohlene Kenntnisse:  Grundlegende Englischkenntnisse auf dem Niveau GER A2  
+b) Verpflichtende Nachweise:  Keine  
+ 6. Verwendbarkeit des Moduls:  Politikwissenschaft (Nebenfach)  
+ 7. Angebotsturnus des Moduls:  Alle Kurse werden mindestens jährlich angeboten.  
+ 8. Das Modul kann absolviert 
+in zwei Semestern  
+werden in: 
+ 9. Empfohlenes Fachsemester:  1.-4. Fachsemester 
+10. Arbeitsaufwand des Moduls  ca. 300 h davon:     
+     (Workload) / Anzahl                       1 . Präsenzzeit:  60 h     
+Leistungspunkte:  2. Selbststudium / Prüfung (inkl. Vorbereitung):   240 h 
+Leistungspunkte:       10   
+ 
+16 
+ 11. Das Modul ist erfolgreich absolviert, wenn die folgenden Leistungen erfüllt sind: 
+12. Modulbestandteile: 
+Nr.  P / WP  Lehrform  Themenbereich / Thema  SWS / Std.  LP  Studienleistungen 
+Einführung in westliche  
+Regierungssysteme   Schriftliche  
+1  P  Vorlesung   2  4 
+oder Einführung in politische   Erfolgskontrolle 
+Systeme Mittel- und Osteuropas 
+Einführung in westliche  
+Grundkurs  Regierungssysteme oder   Referat oder schriftliche 
+2  P  2  6 
+(GK)   Einführung in politische   Erfolgskontrolle* 
+Systeme Mittel- und Osteuropas 
+13. Modulprüfung  
+Art der                    Anteil an                         
+Kompetenz / Thema / Bereich  Dauer / Umfang  Zeitpunkt 
+Prüfung  Modulnote 
+25.000 Zeichen Text, inkl. 
+konzeptionelles Arbeiten,   Hausarbeit  Abgabetermin: 
+Leerzeichen, exkl. An- 100 % 
+Fähigkeit zur Analyse  im GK  30.3. / 30.9 
+hang/Literatur 
+14. Bemerkungen 
+Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Veranstaltung zum Gesamtauf-
+wand des Moduls. Die LP werden erst mit Bestehen der Modulprüfung vergeben. 
+Die zwei im Rahmen des Moduls belegten Veranstaltungen müssen die beiden Teildisziplinen Westliche 
+Regierungssysteme und Politische Systeme Mittel- und Osteuropas abdecken.  
+Schriftliche Erfolgskontrollen werden vom Dozenten oder der Dozentin festgelegt und zu Beginn der Lehr-
+veranstaltung bekanntgegeben. Diese sind in der Regel Klausuren, sie können aber auch in Form von Pro-
+tokollen, Berichten, Reviews, Essays oder Übungsaufgaben abgelegt werden.  
+*Der oder die Studierende hat die Wahl, ob als Studienleistung in der Veranstaltung Nr. 12.2 ein Referat    
+ gehalten oder eine schriftliche Erfolgskontrolle absolviert wird. 
+ 
+ 
+   
+17 
+ C) AUFBAUMODULE 
+ 
+POL-BA-21a 
+1. Name des Moduls:  Aufbaumodul Politische Philosophie (B.A.-Fach) 
+2. Fachgebiet / Verantwortlich:  Politikwissenschaft / Prof. Dr. Karlfriedrich Herb  
+3. Inhalte des Moduls:  - Vertieftes Studium der Klassiker des Politischen Denkens  
+- Intensive Auseinandersetzung mit Grundproblemen der normativen 
+Politikwissenschaft, z.B. Modelle politischer Gerechtigkeit, Theorien 
+des Gesellschaftsvertrages, Konzeptionen des Bürgerbegriffs  
+- wissenschaftstheoretische Verortung der Politikwissenschaft im 
+Verhältnis zu ihren Nachbardisziplinen Anthropologie, Recht und 
+Ethik  
+- differenzierte Einübung der fachgebietsspezifischen Arbeitsweise 
+und Methodik (Textanalyse, Hermeneutik) 
+4. Qualifikationsziele des Moduls  Im Rahmen des Moduls sollen die Studierenden sowohl fachspezifi-
+sche Qualifikationen als auch Schlüsselkompetenzen erwerben. 
+Kenntnisse (Wissen):  Aufbauend auf den im Basismodul erworbenen Grundlagen vertiefen 
+die Studierenden ihre Kenntnisse der Klassiker des Politischen Den-
+kens. 
+Die Studierenden sind in der Lage zur eigenständigen Analyse und 
+Fertigkeiten: 
+Einordnung einzelner Denker und Werke in verschiedene Strömun-
+gen der Politischen Philosophie. Hinzu kommt die Vertrautheit mit   
+aktuellen Formen der Theorieentwicklung und mit praxisorientierten 
+Aspekten der Politischen Philosophie (Politikberatung, Wirtschafts-
+ethik, interkulturelles Orientierungswissen). 
+Die Studierenden verfügen über die Fähigkeit zu kritischer Reflexion 
+Kompetenzen: 
+sowie zur fundierten Darstellung eigener Ergebnisse. Komplexe 
+Zusammenhänge innerhalb des Teilbereiches, aber auch innerhalb 
+der Politikwissenschaft im Ganzen werden von ihnen erfasst und 
+eigenständig in einem umfassenderen Problemhorizont eingeordnet. 
+Sie sind fähig, eine umfassende Literaturbasis für Referat und 
+schriftliche Hausarbeit zu recherchieren, systematisch zu erschlie-
+ßen und die Ergebnisse in einen weiteren Forschungskontext einzu-
+binden. Abschließend verfügen die Studierenden über alle notwen-
+digen Fähigkeiten zur erfolgreichen Durchführung eines eigenen 
+Forschungsprojekts.  
+Schlüsselkompetenzen:   - Transferfähigkeit  
+  - Fähigkeit zur Kommunikation wissenschaftlicher Inhalte  
+- Fähigkeit zur rationalen Urteilsbildung  
+- Demokratische und ethische Urteilskompetenz 
+- Interkulturelle Kompetenz 
+ 
+5. Teilnahmevoraussetzungen: 
+a) Empfohlene Kenntnisse:  Grundlegende Englischkenntnisse auf dem Niveau GER A2  
+(Französisch-, Latein- und Altgriechischkenntnisse von Vorteil)  
+b) Verpflichtende Nachweise:  Erfolgreicher Abschluss des Propädeutikums (POL-BA-10a, Nr. 
+12.1) und des Moduls POL-BA-11 
+ 6. Verwendbarkeit des Moduls:  Politikwissenschaft (B.A.-Fach)  
+ 7. Angebotsturnus des Moduls:  Alle Kurse werden mindestens jährlich angeboten.  
+ 8. Das Modul kann absolviert 
+in zwei Semestern  
+werden in: 
+ 
+18 
+  9. Empfohlenes Fachsemester:  4.-6. Fachsemester 
+10. Arbeitsaufwand des Moduls  ca. 420 h davon:     
+     (Workload) / Anzahl                       1. Präsenzzeit:  60 h     
+Leistungspunkte:  2. Selbststudium / Prüfung (inkl. Vorbereitung):   360 h 
+Leistungspunkte:     14 
+11. Das Modul ist erfolgreich absolviert, wenn die folgenden Leistungen erfüllt sind:    
+12. Modulbestandteile: 
+Nr.  P / WP  Lehrform  Themenbereich / Thema  SWS / Std.  LP  Studienleistungen 
+Schriftliche  
+1  P  Vorlesung   Politische Philosophie  2  4 
+Erfolgskontrolle 
+Referat oder schriftliche 
+2  P  Hauptseminar (HS)  Politische Philosophie  2  10 
+Erfolgskontrolle* 
+13. Modulprüfung  
+Art der                    Anteil an                         
+Kompetenz / Thema / Bereich  Dauer / Umfang  Zeitpunkt 
+Prüfung  Modulnote 
+35.000 Zeichen Text, inkl. 
+konzeptionelles Arbeiten,   Hausarbeit  Abgabetermin: 
+Leerzeichen, exkl. An- 100 % 
+Fähigkeit zur Analyse  im HS  30.3. / 30.9 
+hang/Literatur 
+14. Bemerkungen 
+Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Veranstaltung zum Gesamtauf-
+wand des Moduls. Die LP werden erst mit Bestehen der Modulprüfung vergeben. 
+Schriftliche Erfolgskontrollen werden vom Dozenten oder der Dozentin festgelegt und zu Beginn der Lehr-
+veranstaltung bekanntgegeben. Diese sind in der Regel Klausuren, sie können aber auch in Form von Pro-
+tokollen, Berichten, Reviews, Essays oder Übungsaufgaben abgelegt werden.  
+*Der oder die Studierende hat die Wahl, ob als Studienleistung in der Veranstaltung Nr. 12.2 ein Referat    
+ gehalten oder eine schriftliche Erfolgskontrolle absolviert wird. 
+ 
+ 
+ 
+ 
+ 
+   
+19 
+ POL-BA-21b 
+Aufbaumodul Politische Philosophie  
+1. Name des Moduls: 
+(2. Hauptfach / Nebenfach) 
+2. Fachgebiet / Verantwortlich:  Politikwissenschaft / Prof. Dr. Karlfriedrich Herb  
+3. Inhalte des Moduls:  - Vertieftes Studium der Klassiker des Politischen Denkens  
+- Intensive Auseinandersetzung mit Grundproblemen der normativen 
+Politikwissenschaft, z.B. Modelle politischer Gerechtigkeit, Theorien 
+des Gesellschaftsvertrages, Konzeptionen des Bürgerbegriffs  
+4. Qualifikationsziele des Moduls  Im Rahmen des Moduls sollen die Studierenden sowohl fachspezifi-
+sche Qualifikationen als auch Schlüsselkompetenzen erwerben. 
+Kenntnisse (Wissen):  Aufbauend auf den im Basismodul erworbenen Grundlagen vertiefen 
+die Studierenden ihre Kenntnisse der Klassiker des Politischen Den-
+kens. 
+Die Studierenden sind in der Lage zur eigenständigen Analyse und 
+Fertigkeiten: 
+Einordnung einzelner Denker und Werke in verschiedene Strömun-
+gen der Politischen Philosophie. Hinzu kommt die Vertrautheit mit 
+aktuellen Formen der Theorieentwicklung und mit praxisorientierten 
+Aspekten der Politischen Philosophie (Politikberatung, Wirtschafts-
+ethik, interkulturelles Orientierungswissen). 
+Die Studierenden sind in der Lage zur eigenständigen Stellungnah-
+Kompetenzen: 
+me und verfügen über die Fähigkeit zu kritischer Reflexion sowie zur 
+fundierten Darstellung eigener Ergebnisse. Komplexe Zusammen-
+hänge innerhalb des Teilbereiches, aber auch innerhalb der Politik-
+wissenschaft im Ganzen werden von ihnen erfasst und eigenständig 
+in einem umfassenderen Problemhorizont eingeordnet.  
+Schlüsselkompetenzen:   - Transferfähigkeit  
+  - Fähigkeit zur Kommunikation wissenschaftlicher Inhalte  
+- Fähigkeit zur rationalen Urteilsbildung  
+- Demokratische und ethische Urteilskompetenz 
+- Interkulturelle Kompetenz 
+ 
+5. Teilnahmevoraussetzungen: 
+a) Empfohlene Kenntnisse:  Grundlegende Englischkenntnisse auf dem Niveau GER A2  
+(Französisch-, Latein- und Altgriechischkenntnisse von Vorteil) 
+b) Verpflichtende Nachweise:  im 2. HF: Erfolgreicher Abschluss des Propädeutikums (POL-BA-
+10a, Nr. 12.1) und des Moduls POL-BA-11; im NF: erfolgreicher 
+Abschluss des Propädeutikums (POL-BA-10b, Nr. 12.1) und des 
+Moduls POL-BA-31a 
+ 6. Verwendbarkeit des Moduls:  Politikwissenschaft (2. Hauptfach, Nebenfach) 
+ 7. Angebotsturnus des Moduls:  Alle Kurse werden mindestens jährlich angeboten.  
+ 8. Das Modul kann absolviert 
+in zwei Semestern  
+werden in: 
+ 9. Empfohlenes Fachsemester:  4.-6. Fachsemester 
+10. Arbeitsaufwand des Moduls  ca. 270 h davon:     
+     (Workload) / Anzahl                       1  . Präsenzzeit:  60 h     
+Leistungspunkte:  2. Selbststudium / Prüfung (inkl. Vorbereitung):   210 h 
+Leistungspunkte:      9 
+ 
+   
+20 
+ 11. Das Modul ist erfolgreich absolviert, wenn die folgenden Leistungen erfüllt sind:    
+12. Modulbestandteile: 
+Nr.  P / WP  Lehrform  Themenbereich / Thema  SWS / Std.  LP  Studienleistungen 
+Schriftliche  
+1  P  Vorlesung   Politische Philosophie  2  4 
+Erfolgskontrolle 
+Referat oder schriftliche 
+2  P  Übung  Politische Philosophie  2  5 
+Erfolgskontrolle* 
+13. Modulprüfung  
+Art der                    Anteil an                         
+Kompetenz / Thema / Bereich  Dauer / Umfang  Zeitpunkt 
+Prüfung  Modulnote 
+25.000 Zeichen Text, 
+eigenständige Exposition und Dar- Hausarbeit  Abgabetermin: 
+inkl. Leerzeichen, exkl.  100 % 
+stellung einer Forschungsfrage   in Übung  30.3. / 30.9 
+Anhang/Literatur 
+14. Bemerkungen 
+Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Veranstaltung zum Gesamtauf-
+wand des Moduls. Die LP werden erst mit Bestehen der Modulprüfung vergeben. 
+Schriftliche Erfolgskontrollen werden vom Dozenten oder der Dozentin festgelegt und zu Beginn der Lehr-
+veranstaltung bekanntgegeben. Diese sind in der Regel Klausuren, sie können aber auch in Form von Pro-
+tokollen, Berichten, Reviews, Essays oder Übungsaufgaben abgelegt werden.  
+*Der oder die Studierende hat die Wahl, ob als Studienleistung in der Veranstaltung Nr. 12.2 ein Referat    
+ gehalten oder eine schriftliche Erfolgskontrolle absolviert wird. 
+ 
+ 
+ 
+ 
+   
+21 
+ POL-BA-22a 
+ 1. Name des Moduls:  Aufbaumodul Westliche Regierungssysteme (B.A.-Fach) 
+ 2. Fachgebiet / Verantwortlich:  Politikwissenschaft / Prof. Dr. Martin Sebaldt 
+ 3. Inhalte des Moduls:  - Vertiefung der vergleichenden Analyse westlicher Regierungs-              
+systeme (insbesondere Deutschland, Frankreich, Großbritanni-
+en, Italien, Spanien, USA)  
+- Inhaltliche Schwerpunkte: Demokratieentwicklung und Demo-
+kratie-reform; Diktaturvergleich; Europäische Integration 
+4. Qualifikationsziele des Moduls  Im Rahmen des Moduls sollen die Studierenden sowohl fachspe-
+zifische Qualifikationen als auch Schlüsselkompetenzen erwer-
+ben. 
+Kenntnisse (Wissen):  Die Studierenden erwerben vertiefende Kenntnisse westlicher 
+Regierungssysteme (insbesondere Deutschland, Frankreich, 
+Großbritannien, Italien, Spanien, USA).  
+Die Studierenden vertiefen die vergleichende Analyse westlicher                 
+Fertigkeiten: 
+Regierungssysteme hinsichtlich der Schwerpunkte Demokratie-             
+entwicklung und Demokratiereform, Diktaturvergleich und Euro-
+päische Integration.  
+Die Studierenden können innen- und/oder außenpolitischen 
+Kompetenzen: 
+Problemstellungen unter Einhaltung von Standards der politik-
+wissenschaftlichen Komparatistik und unter Anwendung ihrer 
+Kenntnisse Westeuropas in einer selbständigen Konzeption und 
+Analyse nachgehen. Sie erlangen damit die Befähigung zur Er-
+stellung einer Bachelorarbeit. 
+Schlüsselkompetenzen:   - Fähigkeit zum abstrakten Denken 
+  - kommunikative Kompetenz (schriftlich und mündlich) 
+- Argumentationsfähigkeit 
+- Komparative Urteilskompetenz 
+ 
+5. Teilnahmevoraussetzungen: 
+a) Empfohlene Kenntnisse:  Grundkenntnisse des politischen Systemvergleichs, gute Eng-
+lischkenntnisse auf dem Niveau GER B1  
+b) Verpflichtende Nachweise:  Erfolgreicher Abschluss des Propädeutikums (POL-BA-10a, Nr. 
+12.1) und des Moduls POL-BA-12 
+ 6. Verwendbarkeit des Moduls:  Politikwissenschaft (B.A.-Fach)  
+ 7. Angebotsturnus des Moduls:  Alle Kurse werden mindestens jährlich angeboten.  
+ 8. Das Modul kann absolviert 
+in zwei Semestern  
+werden in: 
+ 9. Empfohlenes Fachsemester:  4.-6. Fachsemester 
+10. Arbeitsaufwand des Moduls  ca. 420 h davon:     
+     (Workload) / Anzahl                      1. Präsenzzeit:  60 h 
+Leistungspunkte:  2. Selbststudium / Prüfung (inkl. Vorbereitung):   360 h 
+Leistungspunkte:     14 
+ 
+   
+22 
+ 11. Das Modul ist erfolgreich absolviert, wenn die folgenden Leistungen erfüllt sind:    
+12. Modulbestandteile: 
+Nr.  P / WP  Lehrform  Themenbereich / Thema  SWS / Std.  LP  Studienleistungen 
+Westliche Regierungs- Schriftliche  
+1  P  Vorlesung   2  4 
+systeme  Erfolgskontrolle 
+Westliche Regierungs- Referat oder schriftliche 
+2  P  Hauptseminar (HS)  2  10 
+systeme  Erfolgskontrolle* 
+13. Modulprüfung  
+Art der                    Anteil an                         
+Kompetenz / Thema / Bereich  Dauer / Umfang  Zeitpunkt 
+Prüfung  Modulnote 
+35.000 Zeichen Text, inkl. 
+konzeptionelles Arbeiten,   Hausarbeit  Abgabetermin: 
+Leerzeichen, exkl. An- 100 % 
+Fähigkeit zur Analyse  im HS  30.3. / 30.9 
+hang/Literatur 
+14. Bemerkungen 
+Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Veranstaltung zum Gesamtauf-
+wand des Moduls. Die LP werden erst mit Bestehen der Modulprüfung vergeben. 
+Schriftliche Erfolgskontrollen werden vom Dozenten oder der Dozentin festgelegt und zu Beginn der Lehr-
+veranstaltung bekanntgegeben. Diese sind in der Regel Klausuren, sie können aber auch in Form von Pro-
+tokollen, Berichten, Reviews, Essays oder Übungsaufgaben abgelegt werden.  
+*Der oder die Studierende hat die Wahl, ob als Studienleistung in der Veranstaltung Nr. 12.2 ein Referat    
+ gehalten oder eine schriftliche Erfolgskontrolle absolviert wird. 
+ 
+ 
+ 
+ 
+ 
+   
+23 
+ POL-BA-22b 
+Aufbaumodul Westliche Regierungssysteme  
+ 1. Name des Moduls: 
+(2. Hauptfach / Nebenfach) 
+ 2. Fachgebiet / Verantwortlich:  Politikwissenschaft / Prof. Dr. Martin Sebaldt 
+ 3. Inhalte des Moduls:  - Vertiefung der vergleichenden Analyse westlicher Regierungssyste-
+me (insbesondere Deutschland, Frankreich, Großbritannien, Italien, 
+Spanien, USA)  
+- Inhaltliche Schwerpunkte: Demokratieentwicklung und Demokratie-
+reform; Diktaturvergleich; Europäische Integration 
+4. Qualifikationsziele des Moduls   Im Rahmen des Moduls sollen die Studierenden sowohl fachspezifi-
+sche Qualifikationen als auch Schlüsselkompetenzen erwerben. 
+Kenntnisse (Wissen):  Die Studierenden erwerben vertiefende Kenntnisse westlicher Regie-
+rungssysteme (insbesondere Deutschland, Frankreich, Großbritanni-
+en, Italien, Spanien, USA).  
+Fertigkeiten:  Die Studierenden vertiefen die vergleichende Analyse westlicher Re-
+gierungssysteme hinsichtlich der Schwerpunkte Demokratieentwick-
+lung und Demokratiereform, Diktaturvergleich und Europäische In-
+tegration.  
+Kompetenzen:  Die Studierenden können innen- und/oder außenpolitischen Problem-
+stellungen unter Einhaltung von Standards der politikwissenschaftli-
+chen Komparatistik und unter Anwendung ihrer Kenntnisse Westeu-
+ropas in einer selbständigen Konzeption und Analyse nachgehen.  
+Schlüsselkompetenzen:   - Fähigkeit zum abstrakten Denken 
+- kommunikative Kompetenz (schriftlich und mündlich) 
+- Argumentationsfähigkeit 
+- Komparative Urteilskompetenz 
+ 
+5. Teilnahmevoraussetzungen: 
+Grundkenntnisse des politischen Systemvergleichs, gute Englisch-
+a) Empfohlene Kenntnisse: 
+kenntnisse auf dem Niveau GER B1 
+b) Verpflichtende Nachweise:  im 2. HF: Erfolgreicher Abschluss des Propädeutikums (POL-BA-10a, 
+Nr. 12.1) und des Moduls POL-BA-12; im NF: erfolgreicher Abschluss 
+des Propädeutikums (POL-BA-10b, Nr. 12.1) und des Moduls POL-
+BA-31b 
+ 6. Verwendbarkeit des Moduls:  Politikwissenschaft (2. Hauptfach, Nebenfach)  
+ 7. Angebotsturnus des Moduls:  Alle Kurse werden mindestens jährlich angeboten.  
+ 8. Das Modul kann absolviert   
+in zwei Semestern 
+     werden in: 
+ 9. Empfohlenes Fachsemester:  4.-6. Fachsemester 
+10. Arbeitsaufwand des Moduls  ca. 270 h davon:     
+(Workload) / Anzahl                      1. Präsenzzeit:  60 h     
+Leistungspunkte:  2. Selbststudium / Prüfung (inkl. Vorbereitung):   210 h 
+Leistungspunkte:      9 
+ 
+   
+24 
+ 11. Das Modul ist erfolgreich absolviert, wenn die folgenden Leistungen erfüllt sind:    
+12. Modulbestandteile: 
+Nr.  P / WP  Lehrform  Themenbereich / Thema  SWS / Std.  LP  Studienleistungen 
+Schriftliche  
+1  P  Vorlesung   Westliche Regierungssysteme  2  4 
+Erfolgskontrolle 
+Referat oder schriftliche 
+2  P  Übung  Westliche Regierungssysteme  2  5 
+Erfolgskontrolle* 
+13. Modulprüfung  
+Art der                    Anteil an                         
+Kompetenz / Thema / Bereich  Dauer / Umfang  Zeitpunkt 
+Prüfung  Modulnote 
+25.000 Zeichen Text, 
+eigenständige Exposition und Dar- Hausarbeit  Abgabetermin: 
+inkl. Leerzeichen, exkl.  100 % 
+stellung einer Forschungsfrage   in Übung  30.3. / 30.9 
+Anhang/Literatur 
+14. Bemerkungen 
+Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Veranstaltung zum Gesamtauf-
+wand des Moduls. Die LP werden erst mit Bestehen der Modulprüfung vergeben. 
+Schriftliche Erfolgskontrollen werden vom Dozenten oder der Dozentin festgelegt und zu Beginn der Lehr-
+veranstaltung bekanntgegeben. Diese sind in der Regel Klausuren, sie können aber auch in Form von Pro-
+tokollen, Berichten, Reviews, Essays oder Übungsaufgaben abgelegt werden.  
+*Der oder die Studierende hat die Wahl, ob als Studienleistung in der Veranstaltung Nr. 12.2 ein Referat    
+ gehalten oder eine schriftliche Erfolgskontrolle absolviert wird. 
+ 
+ 
+ 
+ 
+   
+25 
+ POL-BA-23a 
+1. Name des Moduls:  Aufbaumodul Politische Systeme Mittel- und Osteuropas (B.A.-Fach) 
+2. Fachgebiet / Verantwortlich:  Politikwissenschaft/ Prof. Dr. Jerzy Maćków 
+3. Inhalte des Moduls:  - Übergang vom Totalitarismus zum gesellschaftlichen und politi-
+schen Pluralismus  
+- Vergleich demokratischer und autoritärer Systeme Mittel- und Ost-
+europas im gesamteuropäischen Kontext (unter besonderer Be-
+rücksichtigung der EU-Problematik) - Außenpolitik mittel- und ost-
+europäischer Staaten 
+4. Qualifikationsziele des Moduls  Im Rahmen des Moduls sollen die Studierenden sowohl fachspezifi-
+sche Qualifikationen als auch Schlüsselkompetenzen erwerben. 
+Kenntnisse (Wissen):  Die Studierenden erwerben vertiefende Kenntnisse über mittel- und 
+osteuropäische Systeme.  
+Die Studierenden vertiefen die vergleichende Analyse mittel- und 
+Fertigkeiten: 
+osteuropäischer Systeme im Hinblick auf den Übergang vom Totali-
+tarismus zum gesellschaftlichen und politischen Pluralismus, den 
+Vergleich demokratischer und autoritärer Systeme im gesamteuro-
+päischen Kontext (unter besonderer Berücksichtigung der EU-
+Problematik) sowie ihrer Außenpolitik. 
+Die Studierenden können innen- und/ oder außenpolitischen Prob-
+Kompetenzen: 
+lemstellungen unter Einhaltung von Standards der politikwissen-
+schaftlichen Komparatistik und unter Anwendung ihrer Kenntnisse 
+Mittel- und Osteuropas in einer Bachelorarbeit nachgehen.  
+Schlüsselkompetenzen:   - Fähigkeit zum abstrakten Denken 
+  - kommunikative Kompetenz (schriftlich und mündlich) 
+- Argumentationsfähigkeit 
+- Komparative Urteilskompetenz 
+ 
+5. Teilnahmevoraussetzungen: 
+a) Empfohlene Kenntnisse:  Grundkenntnisse des politischen Systemvergleichs, gute Englisch-
+kenntnisse auf dem Niveau GER B1, Sprachkenntnisse mittel- und 
+osteuropäischer Länder  
+b) Verpflichtende Nachweise:  Erfolgreicher Abschluss des Propädeutikums (POL-BA-10a, Nr. 
+12.1) und des Moduls POL-BA-13 
+ 6. Verwendbarkeit des Moduls:  Politikwissenschaft (B.A.-Fach)  
+ 7. Angebotsturnus des Moduls:  Alle Kurse werden mindestens jährlich angeboten.  
+ 8. Das Modul kann absolviert 
+in zwei Semestern  
+werden in: 
+ 9. Empfohlenes Fachsemester:  4.-6. Fachsemester 
+10. Arbeitsaufwand des Moduls  ca. 420 h davon:     
+     (Workload) / Anzahl                     1. Präsenzzeit:  60 h     
+Leistungspunkte:  2. Selbststudium / Prüfung (inkl. Vorbereitung):   360 h 
+Leistungspunkte:     14 
+ 
+   
+26 
+ 11. Das Modul ist erfolgreich absolviert, wenn die folgenden Leistungen erfüllt sind:    
+12. Modulbestandteile: 
+Nr.  P / WP  Lehrform  Themenbereich / Thema  SWS / Std.  LP  Studienleistungen 
+Politische Systeme   Schriftliche  
+1  P  Vorlesung   2  4 
+Mittel- und Osteuropas  Erfolgskontrolle 
+Politische Systeme   Referat oder schriftliche 
+2  P  Hauptseminar (HS)  2  10 
+Mittel- und Osteuropas  Erfolgskontrolle* 
+13. Modulprüfung  
+Art der                    Anteil an                         
+Kompetenz / Thema / Bereich  Dauer / Umfang  Zeitpunkt 
+Prüfung  Modulnote 
+35.000 Zeichen Text, inkl. 
+konzeptionelles Arbeiten,   Hausarbeit  Abgabetermin: 
+Leerzeichen, exkl. An- 100 % 
+Fähigkeit zur Analyse  im HS  30.3. / 30.9 
+hang/Literatur 
+14. Bemerkungen 
+Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Veranstaltung zum Gesamtauf-
+wand des Moduls. Die LP werden erst mit Bestehen der Modulprüfung vergeben. 
+Schriftliche Erfolgskontrollen werden vom Dozenten oder der Dozentin festgelegt und zu Beginn der Lehr-
+veranstaltung bekanntgegeben. Diese sind in der Regel Klausuren, sie können aber auch in Form von Pro-
+tokollen, Berichten, Reviews, Essays oder Übungsaufgaben abgelegt werden.  
+*Der oder die Studierende hat die Wahl, ob als Studienleistung in der Veranstaltung Nr. 12.2 ein Referat    
+ gehalten oder eine schriftliche Erfolgskontrolle absolviert wird. 
+ 
+ 
+ 
+   
+27 
+ POL-BA-23b 
+Aufbaumodul Politische Systeme Mittel- und Osteuropas 
+1. Name des Moduls: 
+(2. Hauptfach / Nebenfach) 
+2. Fachgebiet / Verantwortlich:  Politikwissenschaft / Prof. Dr. Jerzy Maćków 
+3. Inhalte des Moduls:  - Übergang vom Totalitarismus zum gesellschaftlichen und politischen          
+Pluralismus  
+- Vergleich demokratischer und autoritärer Systeme Mittel- und Osteu-
+ropas im gesamteuropäischen Kontext (unter besonderer Berück-
+sichtigung der EU-Problematik) - Außenpolitik mittel- und osteuropä-
+ischer Staaten 
+4. Qualifikationsziele des Mo- Im Rahmen des Moduls sollen die Studierenden sowohl fachspezifi-
+duls   sche Qualifikationen als auch Schlüsselkompetenzen erwerben. 
+Kenntnisse (Wissen):  Die Studierenden erwerben vertiefende Kenntnisse über mittel- und 
+osteuropäische Systeme  
+Fertigkeiten:  Die Studierenden vertiefen die vergleichende Analyse mittel- und ost-
+europäischer Systeme im Hinblick auf den Übergang vom Totalitaris-
+mus zum gesellschaftlichen und politischen Pluralismus, den Ver-
+gleich demokratischer und autoritärer Systeme im gesamteuropäi-
+schen Kontext (unter besonderer Berücksichtigung der EU-
+Problematik) sowie ihrer Außenpolitik. 
+Kompetenzen:  Die Studierenden können innen- und/ oder außenpolitischen Problem-          
+stellungen unter Einhaltung von Standards der politikwissenschaftli-
+chen Komparatistik und unter Anwendung ihrer Kenntnisse Mittel- und 
+Osteuropas nachgehen.  
+Schlüsselkompetenzen:   - Fähigkeit zum abstrakten Denken 
+- kommunikative Kompetenz (schriftlich und mündlich) 
+- Argumentationsfähigkeit 
+- Komparative Urteilskompetenz 
+ 
+5. Teilnahmevoraussetzungen: 
+a) Empfohlene Kenntnisse:  Grundkenntnisse des politischen Systemvergleichs, gute Englisch-
+kenntnisse auf dem Niveau GER B1, Sprachkenntnisse mittel- und 
+osteuropäischer Länder  
+b) Verpflichtende Nachweise:  im 2. HF: Erfolgreicher Abschluss des Propädeutikums (POL-BA-10a, 
+Nr. 12.1) und des Moduls POL-BA-13; im NF: erfolgreicher Abschluss 
+des Propädeutikums (POL-BA-10b, Nr. 12.1) und des Moduls POL-
+BA-31b 
+ 6. Verwendbarkeit des Moduls:  Politikwissenschaft (2. Hauptfach, Nebenfach)  
+ 7. Angebotsturnus des Moduls:  Alle Kurse werden mindestens jährlich angeboten.  
+ 8. Das Modul kann absolviert 
+in zwei Semestern  
+werden in: 
+ 9. Empfohlenes Fachsemester:  4.-6. Fachsemester 
+10. Arbeitsaufwand des Moduls  ca. 270 h davon:     
+     (Workload) / Anzahl                    1. Präsenzzeit:  60 h     
+Leistungspunkte:  2. Selbststudium / Prüfung (inkl. Vorbereitung):   210 h 
+Leistungspunkte:      9 
+ 
+   
+28 
+  
+11. Das Modul ist erfolgreich absolviert, wenn die folgenden Leistungen erfüllt sind:    
+12. Modulbestandteile: 
+Nr.  P / WP  Lehrform  Themenbereich / Thema  SWS / Std.  LP  Studienleistungen 
+Politische Systeme Mittel- und  Schriftliche  
+1  P  Vorlesung   2  4 
+Osteuropas  Erfolgskontrolle 
+Politische Systeme Mittel- und  Referat oder schriftliche 
+2  P  Übung  2  5 
+Osteuropas  Erfolgskontrolle* 
+13. Modulprüfung  
+Art der                    Anteil an                         
+Kompetenz / Thema / Bereich  Dauer / Umfang  Zeitpunkt 
+Prüfung  Modulnote 
+25.000 Zeichen Text, 
+eigenständige Exposition und Dar- Hausarbeit  Abgabetermin: 
+inkl. Leerzeichen, exkl.  100 % 
+stellung einer Forschungsfrage   in Übung  30.3. / 30.9 
+Anhang/Literatur 
+14. Bemerkungen 
+Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Veranstaltung zum Gesamtauf-
+wand des Moduls. Die LP werden erst mit Bestehen der Modulprüfung vergeben. 
+Schriftliche Erfolgskontrollen werden vom Dozenten oder der Dozentin festgelegt und zu Beginn der Lehr-
+veranstaltung bekanntgegeben. Diese sind in der Regel Klausuren, sie können aber auch in Form von Pro-
+tokollen, Berichten, Reviews, Essays oder Übungsaufgaben abgelegt werden.  
+*Der oder die Studierende hat die Wahl, ob als Studienleistung in der Veranstaltung Nr. 12.2 ein Referat    
+ gehalten oder eine schriftliche Erfolgskontrolle absolviert wird. 
+ 
+ 
+29 
+ POL-BA-24a 
+1. Name des Moduls:  Aufbaumodul Internationale Politik (B.A.-Fach) 
+2. Fachgebiet / Verantwortlich:  Politikwissenschaft / Prof. Dr. Stephan Bierling  
+3. Inhalte des Moduls:  - Vertiefung der Theorien der internationalen Politik  
+- Vertiefung der Außen- und Sicherheitspolitik wichtiger Akteure 
+(insbesondere der BRD und der USA) sowie der transatlantischen 
+Beziehungen  
+- weiterführende Inhalte zu zentralen internationalen Organisationen 
+und zentralen regionalen und funktionalen Konfliktfeldern  
+4. Qualifikationsziele des Moduls  Im Rahmen des Moduls sollen die Studierenden sowohl fachspezifi-
+sche Qualifikationen als auch Schlüsselkompetenzen erwerben. 
+ 
+Kenntnisse (Wissen):   Die Studierenden erwerben vertiefende Kenntnisse über die Theo-
+rien der internationalen Politik, der Außen- und Sicherheitspolitik 
+wichtiger Akteure (insbesondere der BRD und der USA) sowie der 
+transatlantischen Beziehungen und weiterführende Inhalte zu zent-
+ralen internationalen Organisationen und zentralen regionalen bzw. 
+funktionalen Konfliktfeldern. 
+Fertigkeiten:  Die Studierenden erwerben die Fähigkeit, theoriegestützt und hypo-
+thesenbasiert Forschungsprobleme der internationalen Politik zu 
+analysieren und diese in einen größeren Forschungskontext einzu-
+binden. 
+Kompetenzen:  Die Studierenden sind in der Lage, ein eigenes Forschungsprojekt                      
+(BA-Arbeit) im Fach Internationale Politik erfolgreich zu bewältigen. 
+Schlüsselkompetenzen:   - Fähigkeit zum abstrakten Denken 
+- Kommunikative Kompetenz (schriftlich und mündlich) 
+- Argumentationsfähigkeit 
+- Fähigkeit zur rationalen Urteilsbildung 
+- Vertrautheit mit internationaler Diskussionskultur 
+5. Teilnahmevoraussetzungen:   
+a) Empfohlene Kenntnisse:  Sehr gute Englischkenntnisse auf dem Niveau GER C1 
+b) Verpflichtende Nachweise:  Erfolgreicher Abschluss des Propädeutikums (POL-BA-10a, Nr. 
+12.1) und des Moduls POL-BA-14 
+6. Verwendbarkeit des Moduls:  Politikwissenschaft (B.A.-Fach)  
+7. Angebotsturnus des Moduls:  Alle Kurse werden mindestens jährlich angeboten.  
+8. Das Modul kann absolviert    
+in zwei Semestern  
+werden in: 
+9. Empfohlenes Fachsemester:  4.-6. Fachsemester 
+10. Arbeitsaufwand des Moduls  ca. 420 h davon:     
+(Workload) / Anzahl                    
+Leistungspunkte:  1. Präsenzzeit:  60 h     
+2. Selbststudium / Prüfung (inkl. Vorbereitung):   360 h 
+Leistungspunkte:     14 
+ 
+   
+30 
+ 11. Das Modul ist erfolgreich absolviert, wenn die folgenden Leistungen erfüllt sind:    
+12. Modulbestandteile: 
+Nr.  P / WP  Lehrform  Themenbereich / Thema  SWS / Std.  LP  Studienleistungen 
+Spezialthema   Schriftliche  
+1  P  Vorlesung   2  4 
+Internationale Politik  Erfolgskontrolle 
+Spezialthema   Referat oder schriftliche 
+2  P  Hauptseminar (HS)  2  10 
+Internationale Politik  Erfolgskontrolle* 
+13. Modulprüfung  
+Art der                    Anteil an                         
+Kompetenz / Thema / Bereich  Dauer / Umfang  Zeitpunkt 
+Prüfung  Modulnote 
+35.000 Zeichen Text, inkl. 
+konzeptionelles Arbeiten,   Hausarbeit  Abgabetermin: 
+Leerzeichen, exkl. An- 100 % 
+Fähigkeit zur Analyse  im HS  30.3. / 30.9 
+hang/Literatur 
+14. Bemerkungen 
+Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Veranstaltung zum Gesamtauf-
+wand des Moduls. Die LP werden erst mit Bestehen der Modulprüfung vergeben. 
+Schriftliche Erfolgskontrollen werden vom Dozenten oder der Dozentin festgelegt und zu Beginn der Lehr-
+veranstaltung bekanntgegeben. Diese sind in der Regel Klausuren, sie können aber auch in Form von Pro-
+tokollen, Berichten, Reviews, Essays oder Übungsaufgaben abgelegt werden.  
+*Der oder die Studierende hat die Wahl, ob als Studienleistung in der Veranstaltung Nr. 12.2 ein Referat    
+ gehalten oder eine schriftliche Erfolgskontrolle absolviert wird. 
+ 
+ 
+ 
+   
+31 
+ POL-BA-24b 
+1. Name des Moduls:  Aufbaumodul Internationale Politik (2. Hauptfach / Nebenfach) 
+2. Fachgebiet / Verantwortlich:  Politikwissenschaft / Prof. Dr. Stephan Bierling  
+3. Inhalte des Moduls:  - Vertiefung der Theorien der internationalen Politik  
+- Vertiefung der Außen- und Sicherheitspolitik wichtiger Akteure 
+(insbes. der BRD und der USA) sowie der transatlantischen Bezie-
+hungen  
+- weiterführende Inhalte zu zentralen internationalen Organisationen 
+und zentralen regionalen und funktionalen Konfliktfeldern  
+4. Qualifikationsziele des Moduls   Im Rahmen des Moduls sollen die Studierenden sowohl fachspezifi-
+sche Qualifikationen als auch Schlüsselkompetenzen erwerben. 
+Die Studierenden erwerben vertiefende Kenntnisse über die Theo-
+Kenntnisse (Wissen):  
+rien der internationalen Politik, der Außen- und Sicherheitspolitik 
+wichtiger Akteure (insbes. der BRD und der USA) sowie der transat-
+lantischen Beziehungen und weiterführende Inhalte zu zentralen 
+internationalen Organisationen und zentralen regionalen bzw. funkti-
+onalen Konfliktfeldern. 
+Fertigkeiten:  Die Studierenden erwerben die Fähigkeit, theoriegestützt und hypo-
+thesenbasiert Forschungsprobleme der internationalen Politik zu 
+analysieren und diese in einen größeren Forschungskontext einzu-
+binden. 
+Kompetenzen:  Die Studierenden sind in der Lage, Fragestellungen im Fach Interna-
+tionale Politik erfolgreich zu bewältigen. 
+Schlüsselkompetenzen:   - Fähigkeit zum abstrakten Denken 
+- kommunikative Kompetenz (schriftlich und mündlich) 
+- Argumentationsfähigkeit 
+- Komparative Urteilskompetenz 
+ 
+5. Teilnahmevoraussetzungen: 
+a) Empfohlene Kenntnisse:  Sehr gute Englischkenntnisse auf dem Niveau GER C1 
+b) Verpflichtende Nachweise:  im 2. HF: Erfolgreicher Abschluss des Propädeutikums (POL-BA-
+10a, Nr. 12.1) und des Moduls POL-BA-14; im NF: erfolgreicher 
+Abschluss des Propädeutikums (POL-BA-10b, Nr. 12.1) und des 
+Moduls POL-BA-31a 
+6. Verwendbarkeit des Moduls:  Politikwissenschaft (2. Hauptfach / Nebenfach) 
+7. Angebotsturnus des Moduls:  Alle Kurse werden mindestens jährlich angeboten.  
+8. Das Modul kann absolviert   
+in zwei Semestern  
+werden in: 
+9. Empfohlenes Fachsemester:  4.-6. Fachsemester 
+10. Arbeitsaufwand des Moduls  ca. 270 h davon:     
+(Workload) / Anzahl                    
+Leistungspunkte:  1. Präsenzzeit:  60 h     
+2. Selbststudium / Prüfung (inkl. Vorbereitung):   210 h 
+Leistungspunkte:      9 
+ 
+   
+32 
+ 11. Das Modul ist erfolgreich absolviert, wenn die folgenden Leistungen erfüllt sind:    
+12. Modulbestandteile: 
+Nr.  P / WP  Lehrform  Themenbereich / Thema  SWS / Std.  LP  Studienleistungen 
+Spezialthema   Schriftliche  
+1  P  Vorlesung   2  4 
+Internationale Politik  Erfolgskontrolle 
+Spezialthema   Referat oder schriftliche 
+2  P  Übung  2  5 
+Internationale Politik  Erfolgskontrolle* 
+13. Modulprüfung  
+Art der                    Anteil an                         
+Kompetenz / Thema / Bereich  Dauer / Umfang  Zeitpunkt 
+Prüfung  Modulnote 
+25.000 Zeichen Text, 
+eigenständige Exposition und Dar- Hausarbeit  Abgabetermin: 
+inkl. Leerzeichen, exkl.  100 % 
+stellung einer Forschungsfrage   in Übung  30.3. / 30.9 
+Anhang/Literatur 
+14. Bemerkungen 
+Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Veranstaltung zum Gesamtauf-
+wand des Moduls. Die LP werden erst mit Bestehen der Modulprüfung vergeben. 
+Schriftliche Erfolgskontrollen werden vom Dozenten oder der Dozentin festgelegt und zu Beginn der Lehr-
+veranstaltung bekanntgegeben. Diese sind in der Regel Klausuren, sie können aber auch in Form von Pro-
+tokollen, Berichten, Reviews, Essays oder Übungsaufgaben abgelegt werden.  
+*Der oder die Studierende hat die Wahl, ob als Studienleistung in der Veranstaltung Nr. 12.2 ein Referat    
+ gehalten oder eine schriftliche Erfolgskontrolle absolviert wird. 
+ 
+ 
+ 
+33 
+ POL-BA-25a 
+1. Name des Moduls:  Aufbaumodul Empirische Politikwissenschaft (B.A.-Fach) 
+2. Fachgebiet / Verantwortlich:  Politikwissenschaft / Prof. Dr. Melanie Walter-Rogg  
+3. Inhalte des Moduls:  - Vertiefung fortgeschrittener Methoden der empirischen Politikwis-
+senschaft sowie strukturentdeckender oder strukturprüfender Ana-
+lyseverfahren  
+- Thematisierung und Anwendung von Theorien, Hypothesen und 
+Daten-sätzen aus den Bereichen Politische Soziologie, Verglei-
+chende Systemanalyse und Internationale Politik  
+4. Qualifikationsziele des Moduls   Im Rahmen des Moduls sollen die Studierenden sowohl fachspezifi-
+sche Qualifikationen als auch Schlüsselkompetenzen erwerben. 
+Kenntnisse (Wissen):   Nach dem Erwerb der grundlegenden Methoden- und Analys-
+ekenntnisse im Einführungsmodul erlernen die Studierenden fortge-
+schrittene Methoden der empirischen Politikwissenschaft sowie 
+strukturentdeckende oder strukturprüfende Analyseverfahren. In der 
+Erlernung und Anwendung der methodischen Verfahren und Daten-
+analysen werden Theorien, Hypothesen und Datensätze aus den 
+Bereichen Politische Soziologie, Vergleichende Systemanalyse und 
+Internationale Politik thematisiert. 
+Fertigkeiten:  Die Studierenden erwerben die Fähigkeit, theoriegestützt und hypo-
+thesenbasiert Forschungsprobleme der empirischen Politikwissen-
+schaft zu analysieren und diese in einen größeren Forschungskon-
+text einzubinden.  
+Kompetenzen:  Die Studierenden sind in der Lage, ein eigenes Forschungsprojekt               
+(BA-Arbeit) im Bereich empirische Politikwissenschaft erfolgreich zu 
+bewältigen. 
+Schlüsselkompetenzen:   - Transferfähigkeit 
+- Fähigkeit zur systematischen Darstellung wiss. Theorien und Inhal-
+te 
+- Fähigkeit zur rationalen Urteilsbildung 
+- Fortgeschrittene Methoden- und Analysekompetenz 
+ 
+5. Teilnahmevoraussetzungen: 
+a) Empfohlene Kenntnisse:  Grundkenntnisse Methoden und Analyseverfahren, gute Englisch-
+kenntnisse auf dem Niveau GER B1 
+b) Verpflichtende Nachweise:  Erfolgreicher Abschluss des Moduls POL-BA-10a  
+6. Verwendbarkeit des Moduls:  Politikwissenschaft (B.A.-Fach)  
+7. Angebotsturnus des Moduls:  Alle Kurse werden mindestens jährlich angeboten.  
+8. Das Modul kann absolviert  
+in zwei Semestern  
+werden in: 
+9. Empfohlenes Fachsemester:  4.-6. Fachsemester 
+10. Arbeitsaufwand des Moduls  ca. 420 h davon:     
+(Workload) / Anzahl                    
+Leistungspunkte:  1. Präsenzzeit:  60 h     
+2. Selbststudium / Prüfung (inkl. Vorbereitung):   360 h 
+Leistungspunkte:     14 
+ 
+   
+34 
+ 11. Das Modul ist erfolgreich absolviert, wenn die folgenden Leistungen erfüllt sind:    
+12. Modulbestandteile: 
+Nr.  P / WP  Lehrform  Themenbereich / Thema  SWS / Std.  LP  Studienleistungen 
+Empirische   Schriftliche  
+1  P  Vorlesung   2  4 
+Politikwissenschaft  Erfolgskontrolle 
+Empirische   Referat oder schriftliche 
+2  P  Hauptseminar (HS)  2  10 
+Politikwissenschaft  Erfolgskontrolle* 
+13. Modulprüfung  
+Art der                    Anteil an                         
+Kompetenz / Thema / Bereich  Dauer / Umfang  Zeitpunkt 
+Prüfung  Modulnote 
+35.000 Zeichen Text, inkl. 
+konzeptionelles Arbeiten,   Hausarbeit  Abgabetermin: 
+Leerzeichen, exkl. An- 100 % 
+Fähigkeit zur Analyse  im HS  30.3. / 30.9 
+hang/Literatur 
+14. Bemerkungen 
+Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Veranstaltung zum Gesamtauf-
+wand des Moduls. Die LP werden erst mit Bestehen der Modulprüfung vergeben. 
+Schriftliche Erfolgskontrollen werden vom Dozenten oder der Dozentin festgelegt und zu Beginn der Lehr-
+veranstaltung bekanntgegeben. Diese sind in der Regel Klausuren, sie können aber auch in Form von Pro-
+tokollen, Berichten, Reviews, Essays oder Übungsaufgaben abgelegt werden.  
+*Der oder die Studierende hat die Wahl, ob als Studienleistung in der Veranstaltung Nr. 12.2 ein Referat    
+ gehalten oder eine schriftliche Erfolgskontrolle absolviert wird. 
+ 
+ 
+ 
+ 
+ 
+   
+35 
+ POL-BA-25b 
+Aufbaumodul Empirische Politikwissenschaft  
+1. Name des Moduls: 
+(2. Hauptfach / Nebenfach) 
+2. Fachgebiet / Verantwortlich:  Politikwissenschaft / Prof. Dr. Melanie Walter-Rogg  
+3. Inhalte des Moduls:   Vertiefte Kenntnisse und Anwendung politikwissenschaftlicher Me-
+thoden und Analyseverfahren an ausgewählten Fragestellungen der 
+empirischen Politikwissenschaft. 
+4. Qualifikationsziele des Moduls   Im Rahmen des Moduls sollen die Studierenden sowohl fachspezifi-
+sche Qualifikationen als auch Schlüsselkompetenzen erwerben. 
+Kenntnisse (Wissen):   Nach dem Erwerb der grundlegenden Methoden- und Analys-
+ekenntnisse im Einführungsmodul erlernen die Studierenden fortge-
+schrittene Methoden der empirischen Politikwissenschaft sowie 
+strukturentdeckende oder strukturprüfende Analyseverfahren. In der 
+Erlernung und Anwendung der methodischen Verfahren und Daten-
+analysen werden Theorien, Hypothesen und Datensätze aus den 
+Bereichen Politische Soziologie, Vergleichende  Systemanalyse und 
+Internationale Politik thematisiert. 
+Die Studierenden erwerben die Fähigkeit, theoriegestützt und hypo-
+Fertigkeiten: 
+thesenbasiert Forschungsprobleme der empirischen Politikwissen-
+schaft zu analysieren und diese in einen größeren Forschungskon-
+text einzubinden.  
+Die Studierenden sind in der Lage, Fragestellungen im Bereich em-
+Kompetenzen: 
+pirische Politikwissenschaft erfolgreich zu bewältigen. 
+Schlüsselkompetenzen:   - Fähigkeit zum abstrakten Denken 
+- kommunikative Kompetenz (schriftlich und mündlich) 
+- Argumentationsfähigkeit 
+- Komparative Urteilskompetenz 
+- Fortgeschrittene Methoden- und Analysekompetenz 
+ 
+5. Teilnahmevoraussetzungen: 
+a) Empfohlene Kenntnisse:  Grundkenntnisse Methoden und Analyseverfahren, gute Englisch-
+kenntnisse auf dem Niveau GER B1 
+b) Verpflichtende Nachweise:  im 2. HF: Erfolgreicher Abschluss des Moduls POL-BA-10a 
+im NF: erfolgreicher Abschluss des Moduls POL-BA-10b 
+6. Verwendbarkeit des Moduls:  Politikwissenschaft (2. Hauptfach / Nebenfach) 
+7. Angebotsturnus des Moduls:  Alle Kurse werden mindestens jährlich angeboten.  
+8. Das Modul kann absolviert  
+in zwei Semestern  
+werden in: 
+9. Empfohlenes Fachsemester:  4.-6. Fachsemester 
+10. Arbeitsaufwand des Moduls  ca. 270 h davon:     
+(Workload) / Anzahl                    
+Leistungspunkte:  1. Präsenzzeit:  60 h     
+2. Selbststudium / Prüfung (inkl. Vorbereitung):   210 h 
+Leistungspunkte:      9 
+ 
+   
+36 
+ 11. Das Modul ist erfolgreich absolviert, wenn die folgenden Leistungen erfüllt sind:    
+12. Modulbestandteile: 
+Nr.  P / WP  Lehrform  Themenbereich / Thema  SWS / Std.  LP  Studienleistungen 
+Schriftliche  
+1  P  Vorlesung   Empirische Politikwissenschaft  2  4 
+Erfolgskontrolle 
+Referat oder schriftli-
+2  P  Übung  Empirische Politikwissenschaft  2  5 
+che Erfolgskontrolle* 
+13. Modulprüfung  
+Art der                    Anteil an                         
+Kompetenz / Thema / Bereich  Dauer / Umfang  Zeitpunkt 
+Prüfung  Modulnote 
+25.000 Zeichen Text, inkl. 
+eigenständige Exposition und        H  a  u  sarbeit  Abgabetermin: 
+Leerzeichen, exkl.   100 % 
+Darstellung einer Forschungsfrage   in Übung  30.3. / 30.9 
+Anhang/Literatur 
+14. Bemerkungen 
+Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Veranstaltung zum Gesamtauf-
+wand des Moduls. Die LP werden erst mit Bestehen der Modulprüfung vergeben. 
+Schriftliche Erfolgskontrollen werden vom Dozenten oder der Dozentin festgelegt und zu Beginn der Lehr-
+veranstaltung bekanntgegeben. Diese sind in der Regel Klausuren, sie können aber auch in Form von Pro-
+tokollen, Berichten, Reviews, Essays oder Übungsaufgaben abgelegt werden.  
+*Der oder die Studierende hat die Wahl, ob als Studienleistung in der Veranstaltung Nr. 12.2 ein Referat    
+ gehalten oder eine schriftliche Erfolgskontrolle absolviert wird. 
+ 
+ 
+37 
+ D) ERGÄNZUNGSMODUL 
+ 
+POL-BA-26 
+1. Name des Moduls:  Ergänzungsmodul  
+2. Fachgebiet / Verantwortlich:  Politikwissenschaft / Geschäftsführende/r Professor/in  
+3. Inhalte des Moduls:   - Vertieftes Studium der Klassiker des Politischen Denkens  
+- Intensive Auseinandersetzung mit Grundproblemen der normati-
+ven Politikwissenschaft, z.B. Modelle politischer Gerechtigkeit, 
+Theorien des Gesellschaftsvertrages, Konzeptionen des Bürger-
+begriffs  
+- Vertiefung der vergleichenden Analyse westlicher Regierungssys-
+teme (insbesondere Deutschland, Frankreich, Großbritannien, 
+Italien, Spanien, USA)  
+- Inhaltliche Schwerpunkte: Demokratieentwicklung und Demokra-
+tiereform; Diktaturvergleich; Europäische Integration 
+- Übergang vom Totalitarismus zum gesellschaftlichen und politi-
+schen Pluralismus  
+- Vergleich demokratischer und autoritärer Systeme Mittel- und 
+Osteuropas im gesamteuropäischen Kontext (unter besonderer 
+Berücksichtigung der EU-Problematik)  
+- Außenpolitik mittel- und osteuropäischer Staaten 
+- Vertiefte Kenntnisse und Anwendung politikwissenschaftlicher 
+Methoden und Analyseverfahren an ausgewählten Fragestellun-
+gen der empirischen Politikwissenschaft 
+4. Qualifikationsziele des Moduls   Im Rahmen des Moduls sollen die Studierenden sowohl fachspezi-
+fische Qualifikationen als auch Schlüsselkompetenzen erwerben. 
+Kenntnisse (Wissen):   Die Studierenden vertiefen ihre Kenntnisse bzgl. folgender The-
+men: 
+- Klassiker des Politischen Denkens 
+- Westliche Regierungssysteme (insbesondere Deutschland, 
+Frankreich, Großbritannien, Italien, Spanien, USA)  
+- Mittel- und osteuropäische Regierungssysteme 
+- Theorien der internationalen Politik, der Außen- und Sicherheits-
+politik wichtiger Akteure (insbesondere der BRD und der USA) 
+sowie der transatlantischen Beziehungen, weiterführende Inhalte 
+zu zentralen internationalen Organisationen und zentralen regio-
+nalen bzw. funktionalen Konfliktfeldern 
+- Fortgeschrittene Methoden der empirischen Politikwissenschaft 
+sowie strukturentdeckende oder strukturprüfende Analyseverfah-
+ren. In der Erlernung und Anwendung der methodischen Verfah-
+ren und Datenanalysen werden Theorien, Hypothesen und Da-
+tensätze aus den Bereichen Politische Soziologie, Vergleichende 
+Systemanalyse und Internationale Politik thematisiert 
+Die Studierenden erwerben Fertigkeiten bzgl. folgender Themen: 
+Fertigkeiten: 
+- Eigenständigen Analyse und Einordnung einzelner Denker und 
+Werke in verschiedene Strömungen der Politischen Philosophie. 
+Vertrautheit mit aktuellen Formen der Theorieentwicklung und mit 
+praxisorientierten Aspekten der Politischen Philosophie (Politikbe-
+ratung, Wirtschaftsethik, interkulturelles Orientierungswissen). 
+- Vergleichende Analyse westlicher Regierungssysteme hinsicht-
+lich der Schwerpunkte Demokratieentwicklung und Demokratiere-
+form, Diktaturvergleich und Europäische Integration 
+38 
+ - Vergleichende Analyse mittel- und osteuropäischer Systeme im 
+Hinblick auf den Übergang vom Totalitarismus zum gesellschaftli-
+chen und politischen Pluralismus, den Vergleich demokratischer 
+und autoritärer Systeme im gesamteuropäischen Kontext (unter 
+besonderer Berücksichtigung der EU-Problematik) sowie ihrer 
+Außenpolitik 
+- Theorien- und hypothesengestützte Analyse von Forschungs-
+problemen der internationalen Politik sowie Einbindung der For-
+schungsprobleme in einen größeren Forschungskontext 
+- Theorien- und hypothesengestützte Analyse von Forschungs-
+problemen der empirischen Politikwissenschaft sowie Einbindung 
+der Forschungs-probleme in einen größeren Forschungskontext 
+Die Studierenden erwerben Kompetenzen bzgl. folgender Themen: 
+Kompetenzen: 
+- Eigenständige Stellungnahme, Fähigkeit zu kritischer Reflexion 
+sowie zur fundierten Darstellung eigener Ergebnisse. Erfassung 
+komplexer Zusammenhänge innerhalb des Teilbereiches, aber 
+auch innerhalb der Politikwissenschaft im Ganzen und eigenstän-
+dige Einordnung in einen umfassenderen Problemhorizont. 
+- Selbständige Konzeption und Analyse innen- und/oder außenpoli-
+tischer Problemstellungen unter Einhaltung von Standards der 
+politikwissenschaftlichen Komparatistik und unter Anwendung der 
+erworbenen Kenntnisse über Westeuropa. 
+- Selbständige Konzeption und Analyse innen- und/oder außenpoli-
+tischer Problemstellungen unter Einhaltung von Standards der 
+politikwissenschaftlichen Komparatistik und unter Anwendung der 
+erworbenen Kenntnisse über Mittel- und Osteuropa. 
+- Eigenständige Konzeption und Analyse von Fragestellungen der 
+Internationalen Politik unter Anwendung der erworbenen Kennt-
+nisse und Fertigkeiten. 
+- Eigenständige Konzeption und Analyse von Fragestellungen der 
+empirischen Politikwissenschaft unter Anwendung der erworbe-
+nen Kenntnisse und Fertigkeiten. 
+Schlüsselkompetenzen:   - Transferfähigkeit 
+- Fähigkeit zur Kommunikation wissenschaftlicher Inhalte 
+- Fähigkeit zur rationalen Urteilsbildung 
+- Fähigkeit zum abstraktem Denken 
+- Argumentationsfähigkeit 
+- Fortgeschrittene Methoden- und Analysekompetenz 
+5. Teilnahmevoraussetzungen:   
+a) Empfohlene Kenntnisse:  grundlegende Englischkenntnisse auf dem Niveau GER A2 
+b) Verpflichtende Nachweise:  Erfolgreicher Abschluss des Propädeutikums (POL-BA-10a, Nr. 
+12.1) und der Basismodule aus den Teilbereichen, aus denen die  
+gewählten Veranstaltungen stammen 
+6. Verwendbarkeit des Moduls:  Politikwissenschaft (B.A. Fach) 
+7. Angebotsturnus des Moduls:  Alle Kurse werden mindestens jährlich angeboten.  
+8. Das Modul kann absolviert     
+in zwei Semestern  
+werden in: 
+9. Empfohlenes Fachsemester:  4.-6. Fachsemester 
+10. Arbeitsaufwand des Moduls  ca. 420 h davon:       
+ 
+(Workload) / Anzahl                    
+1. Präsenzzeit:  90 h 
+Leistungspunkte: 
+2. Selbststudium / Prüfung (inkl. Vorbereitung):   330 h 
+Leistungspunkte:     14 
+39 
+ 11. Das Modul ist erfolgreich absolviert, wenn die folgenden Leistungen erfüllt sind:    
+12. Modulbestandteile: 
+Nr.  P / WP  Lehrform  Themenbereich / Thema  SWS / Std.  LP  Studienleistungen 
+schriftliche Erfolgs- 
+1  P  Vorlesung   Politische Philosophie/  2  4 
+kontrolle 
+Westliche Regierungssysteme/  
+Referat oder schriftliche 
+2  P  Übung I   Politische Systeme Mittel- und   2  5 
+Erfolgskontrolle* 
+Osteuropas/Internationale Politik/ 
+Referat oder schriftli-
+3  P  Übung II   Empirische Politikwissenschaft  2  5 
+che Erfolgskontrolle* 
+13. Modulprüfung: 
+Art der                    Anteil an                         
+Kompetenz / Thema / Bereich  Dauer / Umfang  Zeitpunkt 
+Prüfung  Modulnote 
+Hausarbeit  25.000 Zeichen Text, 
+konzeptionelles Denken/             Abgabetermin: 
+in Übung I  inkl. Leerzeichen,  100% 
+Reflexionsfähigkeit  30.3. / 30.9. 
+oder II  exkl. Anhang/Literatur 
+14. Bemerkungen:  
+Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Veranstaltung zum Gesamtauf-
+wand des Moduls. Die LP werden erst mit Bestehen der Modulprüfung vergeben. 
+Im Rahmen des Moduls sind Veranstaltungen aus mindestens zwei der fünf Teildisziplinen (Politische Phi-
+losophie/Westliche Regierungssysteme/Politische Systeme Mittel- und Osteuropas/Internationale Politik/ 
+Empirische Politikwissenschaft) zu belegen. Die Belegung von Veranstaltungen aus der Teildisziplin, aus 
+der das Aufbaumodul gewählt wurde, ist ausgeschlossen. 
+Schriftliche Erfolgskontrollen werden vom Dozenten oder der Dozentin festgelegt und zu Beginn der Lehr-
+veranstaltung bekanntgegeben. Diese sind in der Regel Klausuren, sie können aber auch in Form von Pro-
+tokollen, Berichten, Reviews, Essays oder Übungsaufgaben abgelegt werden.  
+*In der Übung, zu der die Hausarbeit geschrieben wird, ist als Studienleistung ein Referat zu halten. In der 
+anderen Übung ist als Studienleistung eine schriftliche Erfolgskontrolle abzulegen.“ 
+ 
+   
+40 
+ E) PRAXISMODUL 
+ 
+POL-BA-27 
+ 1. Name des Moduls:  Praxismodul 
+ 2. Fachgebiet /                            
+Politikwissenschaft / Geschäftsführende/r Professor/in  
+Verantwortlich: 
+ 3. Inhalte des Moduls:  - Das Modul bietet die Möglichkeit, Einblicke in potentielle Tätigkeits-
+felder von Politikwissenschaftlern oder Politikwissenschaftlerinnen 
+zu gewinnen und praktische Erfahrungen in den politikwissen-
+schaftlichen Arbeitsfeldern zu sammeln und kritisch zu reflektieren.  
+- Das ergänzende praxisrelevante Seminar vermittelt Schlüsselquali-
+fikationen für die berufliche Praxis.  
+4. Qualifikationsziele des Moduls  Im Rahmen des Moduls sollen die Studierenden sowohl fachspezifi-
+sche Qualifikationen als auch Schlüsselkompetenzen erwerben. 
+Kenntnisse (Wissen):  Die Studierenden erhalten Einblicke in potentielle Tätigkeitsfelder 
+von Politikwissenschaftlern oder Politikwissenschaftlerinnen und 
+erwerben Wissen über die praktische Anwendung ihrer Studieninhal-
+te. 
+Fertigkeiten:  Die Studierenden sammeln praktische Erfahrungen in den politikwis-
+senschaftlichen Arbeitsfeldern und erweitern ihre Fähigkeiten und 
+Fertigkeiten in den Bereichen Präsentation, Kommunikation, Mode-
+ration, Projektmanagement und Politikberatung. 
+Kompetenzen:  Die Studierenden können ihr erworbenes Fachwissen in einem spe-
+zifischen, beruflichen Umfeld erproben. Sie gewinnen damit eine 
+erste Orientierung in den Praxisfeldern ihres Faches. Das ergänzen-
+de Seminar vermittelt Schlüsselqualifikationen für die berufliche Pra-
+xis. 
+Schlüsselkompetenzen:   Die Studierenden verfügen nach Modulabschluss über folgende 
+Kompetenzen: Präsentation, Kommunikation, Moderation, Projekt-
+ 
+management und Politikberatung. 
+ 5. Teilnahmevoraussetzungen:  Keine 
+ 6. Verwendbarkeit des Moduls:  Politikwissenschaft (B.A. Fach) 
+ 7. Angebotsturnus des Moduls:  Jedes Semester 
+ 8. Das Modul kann absolviert 
+einem Semester  
+werden in: 
+ 9. Empfohlenes Fachsemester:  3. - 4. Fachsemester 
+10. Arbeitsaufwand des Moduls  ca. 300 Std. davon:       
+   
+     (Workload) / Anzahl                   1. Präsenzzeit (inkl. Praktikum):       190 h 
+Leistungspunkte: 
+2. Selbststudium/Prüfung (inkl. Vorbereitung)):     110 h 
+Leistungspunkte:  10 
+ 
+   
+41 
+ 11. Das Modul ist erfolgreich absolviert, wenn die folgenden Leistungen erfüllt sind:   
+12. Modulbestandteile: 
+Nr.  P / WP  Lehrform  Themenbereich / Thema  SWS / Std.  LP  Studienleistungen 
+1  P  Praktikum  Praktikum mind. 4 Wochen in Vollzeit    5  Praktikumsbericht 
+2  P  Seminar   Praxisrelevantes Seminarangebot   2  5  Projektarbeit 
+13. Modulprüfung: 
+Art der                    Anteil an                         
+Kompetenz / Thema / Bereich  Dauer / Umfang  Zeitpunkt 
+Prüfung  Modulnote 
+-  -  -  -  - 
+14. Bemerkungen:  
+Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Veranstaltung zum Gesamtauf-
+wand des Moduls. Die LP werden erst mit Bestehen der Modulprüfung vergeben. 
+Der Praktikumsbericht (Umfang ca. 12.000 Zeichen exkl. Leerzeichen) dient der schriftlichen Reflexion der 
+absolvierten Tätigkeit und ist grundsätzlich innerhalb vier Wochen nach Beendigung des (letzten) Prakti-
+kums bei der Praktikumsbetreuung abzugeben. Dabei wird Wert auf eine korrekte Form (Orthographie, 
+sprachlicher Ausdruck) gelegt. Inhaltlich sollte enthalten sein: die Beschreibung der Institution (kurze Be-
+schreibung der Größe, verschieden Einheiten, Auftrag etc.); die Beschreibung der eigenen Aufgabenberei-
+che (sachlicher Tätigkeitsbericht); eine Reflexion der universitären Lehre zur Bewältigung der Praxisaufga-
+ben. Eine Theorie-Praxis-Reflexion hat zum Ziel, die Handlungen im Praktikum in Hinblick auf erlernte 
+Theorien an der Universität zu reflektieren und umgekehrt. Zusammen mit der erworbenen Erfahrung im 
+Praktikum und dem Reflexionswissen aus der Universität entsteht kompetentes Handeln. Der Studierende 
+soll dabei konkrete Anwendungstheorien in sein Praktikum integrieren und darüber reflektieren, welche 
+wissenschaftlichen Theorien dazu beitragen könnten, die Praxis zu erklären, zu prognostizieren oder auch 
+die gesetzten Ziele zu erreichen. 
+Die Projektarbeit enthält ein forschungspraktisches Problem, das von den Studierenden mit adäquaten 
+Theorien, Methoden und Informationen bzw. Daten systematisch aufbereitet, analysiert und diskutiert wird.  
+ 
+42 
+ 

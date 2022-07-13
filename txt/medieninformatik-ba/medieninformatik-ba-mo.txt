@@ -1,0 +1,1514 @@
+Modulbeschreibungen
+
+Bachelorstudiengang Medieninformatik
+(Bachelor of Arts) an der Universitat Regensburg
+
+gultig ab Wintersemester 2017/2018
+
+Inhalt
+
+PI-BA-M01 Praktische Informatik 1 (Objektorientierte Programmierung)
+PI-BA-MO2 Praktische Informatik 2 (Anwendungsorientierte Programmierung)
+PI-BA-MO03 Praktische Informatik 3 (Algorithmen und Datenstrukturen)
+PI-BA-M04 Praktische Informatik 4 (Daten effizient speichern und verarbeiten)
+MEI-BA-M01a Einfuhrung in die Medieninformatik (Bachelorfach)
+MEI-BA-M01b Einfuhrung in die Medieninformatik (zweites Hauptfach und
+Nebenfach)
+
+MEI-BA-M02 Mathematik fur Medienintormatik |
+
+MEI-BA-M03 Mathematik tur Medieninformatik II
+
+MEI-BA-M04 Grundlagen der Human-Computer-Interaction
+
+MEI-BA-MO05 Usability Engineering
+
+MEI-BA-M06 Multimedia Technology
+
+MEI-BA-M0O7 Multimedia Engineering
+
+MEI-BA-M08 Angewandte Medienintormatik |
+
+MEI-BA-MO9 Angewandte Medienintormatik |
+
+MEI-BA-M10 Abschlussmodul
+
+28
+
+30
+B.A. Medieninformatik
+Modulbeschreibung
+
+PI-BA-M01
+
+1. Name des Moduls: Praktische Informatik 1
+(Objektorientierte Programmierung)
+2. Fachgebiet / Verantwortlich: Prof. Dr. Bernd Ludwig
+Prof. Dr. Christian Wolff
+
+3. Inhalte des Moduls: In diesem Modul werden Kernkonzepte der prakti-
+schen Informatik vermittelt. Dabei handelt es sich um
+eine Einfuhrung in die Programmierung und Program-
+miersprachen, die neben einem Uberblick zu unter-
+schiedlichen Programmierkonzepten eine Einfuhrung in
+die objektorientierte Programmierung als derzeit vor-
+herrschendem Entwicklungsparadigma bietet.
+
+4. Qualifikationsziele des Moduls / zu er- Nach Abschluss des Moduls kennen Studierende
+
+werbende Kompetenzen: grundlegende Konzepte der objektorientierten Pro-
+grammierung (beispielsweise Syntax, essentielle Pro-
+grammkonstrukte, Vererbung, Komposition) und kon-
+nen vorgegebene Problemstellungen analysieren, algo-
+rithmische Losungen dafur entwickeln und diese in ei-
+ner Programmiersprache implementieren.
+
+5. Teilnahmevoraussetzungen
+
+2) empfohlene Kenntnisse:
+
+») verpflichtende Nachweise
+
+6. Verwendbarkeit des Moduls: Medieninformatik B. A. — Bachelorfach, zweites Haupt-
+fach, Nebenfach
+Informationswissenschaft B. A. — Bachelorfach, zweites
+Haupttfach
+
+7. Angebotsturnus des Moduls: jahrlich, im Wintersemester
+B. Das Miediul Issn sbsliiene wersten i:
+9. Empfohlenes Fachsemester: 1. Fachsemester
+
+10. Arbeitsaufwand des Moduls Arbeitsautwand:
+
+(Workload) / Anzahl Leistungspunkte: scam in Stunden: 180
+
+1. Prasenzzeit: 4 SWS
+2. Selbststudium (inkl. Prufung): 120 Std.
+
+Leistungspunkte: 6*
+* Die LP fur das Modul werden erst nach Bestehen der
+
+Modulprufung bzw. aller Modulteilprufungen verge-
+ben.
+
+B.A. Medieninformatik
+Modulbeschreibung
+
+11. Das Modul ist erfolgreich absolviert, wenn die unten naher beschriebenen Leistungen er-
+fullt sind:
+
+12. Modulbestandteile:
+Nr 7 Lehr- Themenbereich/Thema SWS / | Studienleistungen LP
+p form Std.
+1 VL Einfuhrung in die objektorientierte | 2 4
+Programmierung
+2 U Einfuhrung in die objektorientierte | 2 Ubungsaufgaben 2
+Programmierung
+
+13. Modulprufung
+
+Art der Pru- Dauer Zeitounkt / Bemerkun- | Anteil an Mo-
+Nr | Kompetenz/ Thema
+fung gen dulnote
+1 | Einfuhrung in die ob- Klausur 60 bis 90 min. | Zeitpunkt: gegen Ende | 100 %
+jektorientierte Pro- der Vorlesungszeit
+grammierung bzw. in der vorlesungs-
+freien Zeit
+
+14. Bemerkungen:
+
+Das Bestehen von mindestens 75% der Studienleistungen (Ubungsaufgaben) ist Voraussetzung fur die
+Zulassung zur Modulprufung.
+
+Die genaue Dauer der Prufung wird spatestens vier Wochen vor dem Prufungstermin in der
+Veranstaltung bekannt gegeben.
+
+Es wird empfohlen, die Modulbestandteile 1 und 2 im selben Semester zu absolvieren.
+
+B.A. Medieninformatik
+Modulbeschreibung
+
+PI-BA-M02
+
+1. Name des Moduls: Praktische Informatik 2
+(Anwendungsorientierte Programmierung)
+2. Fachgebiet / Verantwortlich: Prof. Dr. Bernd Ludwig
+Prof. Dr. Christian Wolff
+
+3. Inhalte des Moduls: Das Modul vermittelt grundlegende Arbeitstechniken
+der Softwareentwicklung und vertieft die praktische
+Erfahrung in der Programmierung interaktiver Anwen-
+dungen. Praxisrelevante Entwurfsmuster und elementa-
+re Arbeitstechniken beim Entwickeln komplexer An-
+wendungen werden vorgestellt und in einem prakti-
+schen Projekt eingeubt.
+
+4. Qualifikationsziele des Moduls / zu er- Studierende kennen grundlegende Konzepte zu Ent-
+
+werbende Kompetenzen: wurf, Implementierung und Debugging interaktiver
+Anwendungen. Sie konnen darauf aufbauende Arbeits-
+techniken der Softwareentwicklung sicher einsetzen
+und diese zur Implementierung komplexer interaktiver
+Anwendungen verwenden. Sie sind in der Lage, sich
+selbstandig in existierende Bibliotheken und Frame-
+works einzuarbeiten und diese in konkreten Software-
+projekten zu nutzen.
+
+5. Teilnahmevoraussetzungen: rss
+a) empfohlene Kenntnisse:
+b) verpflichtende Nachweise: PI-BA-M01
+
+6. Verwendbarkeit des Moduls: Medieninformatik B. A. — Bachelorfach, zweites Haupt-
+fach, Nebenfach
+Informationswissenschaft B. A. — Bachelorfach, zweites
+Hauptfach
+
+7. Angebotsturnus des Moduls: jahrlich, im Sommersemester
+8. Das Modul kann absolviert werden in:
+9. Empfohlenes Fachsemester: 2. Fachsemester
+
+10. Arbeitsaufwand des Moduls Arbeitsautwand:
+
+(Workload) / Anzahl Leistungspunkte: socom in Stunden: 180
+
+1. Prasenzzeit: 4 SWS
+2. Selbststudium (inkl. Prufung): 120 Std.
+
+Leistungspunkte: 6*
+
+* Die LP fur das Modul werden erst nach Bestehen der
+Modulprufung bzw. aller Modulteilprufungen vergeben
+
+B.A. Medieninformatik
+Modulbeschreibung
+
+11. Das Modul ist erfolgreich absolviert, wenn die unten naher beschriebenen Leistungen er-
+fullt sind:
+
+12. Modulbestandteile:
+
+Themenbereich/Thema Studienleistungen
+p form Std.
+re letammeung P|? Neeungsesecmns |
+grammierung Vorlesungsverzeichnis
+PE Teaming ATF | Noteungserechne |
+grammierung Vorlesungsverzeichnis
+
+13. Modulprufung
+
+Art der Pru- Dauer Zeitounkt / Bemerkun- | Anteil an Mo-
+fung gen dulnote
+
+Einfuhrung in die An- 60 bis 90 min. | Zeitpunkt: gegen Ende | 30 %
+wendungsprogrammie- der Vorlesungszeit
+rung bzw. in der vorlesungs-
+
+freien Zeit
+
+0
+Einfuhrung in die An- | Projektarbeit 4 Wochen Zeitpunkt: in der vorle- | 70 %
+wendungsprogrammie- sungstreien Zeit; Um-
+rung fang: 15-20 Seiten Do-
+kumentation einer
+selbstandig erstellen
+Anwendung pro Per-
+son
+
+14. Bemerkungen:
+
+Zu Nr. 1: Die genaue Dauer der Prufung wird spatestens vier Wochen vor dem Prufungstermin in der
+Veranstaltung bekannt gegeben.
+
+Es wird empfohlen, die Modulbestandteile 1 und 2 im selben Semester zu absolvieren.
+
+Kompetenz / Thema
+
+B.A. Medieninformatik
+Modulbeschreibung
+
+PI-BA-M03
+
+1. Name des Moduls: Praktische Informatik 3
+(Algorithmen und Datenstrukturen)
+2. Fachgebiet / Verantwortlich: Prof. Dr. Bernd Ludwig
+Prof. Dr. Christian Wolff
+
+3. Inhalte des Moduls: Das Modul vermittelt vertiefte Grundlagen in Program-
+mierung, Datenstrukturen und Algorithmen:
+
+e Programmierung:
+
+— Uberblick Uber Programmiersprachen und
+-paradigmen, Programmierphasen und -regeln,
+Compiler und Plattformen
+
+— Uberblick Uber grundlegende Eigenschaften von
+Datenstrukturen und Algorithmen
+
+e Datenstrukturen:
+
+— wichtige Datenstrukturen: Objekte, Arrays, Lis-
+ten/Baume/Graphen/Netze, Hashtabellen
+Objekte und Klassenhierarchien als Grund-
+bausteine objektorientierter Programmierung
+Grundlagen des Software-Engineerings: Analyse
+von Problemstellungen und Modellierung/Um-
+setzung in objektorientiertes Design
+
+e Algorithmen:
+
+— Funktionsweise, Anwendungsbereiche, Konzep-
+tion, Analyse und Vor-/Nachteile iterativer vs. re-
+kursiver Algorithmen
+
+— Formen von Algorithmen: Berechnungs-, Such-
+/Prut-, Sortier-, Kombinations-Algorithmen u. a.
+sowie deren iterative vs. rekursive Realisierung
+
+4. Qualifikationsziele des Moduls / zu er- Nach erfolgreichem Abschluss des Moduls sind die
+werbende Kompetenzen: Studierenden in der Lage,
+
+e die wichtigsten Programmiersprachen, -paradig-
+men und -systeme zu benennen, zu verstehen und
+aufgabenadaquat einzusetzen
+komplexe Problemstellungen in einfachere Teil-
+probleme zu zerlegen und die hierfur notwendigen
+Datenstrukturen und Algorithmen zu kennen bzw.
+zu entwerfen und zu definieren
+neue Datenstrukturen und Algorithmen aufgaben-
+spezifisch fur konkrete Problemstellungen zu kon-
+zipieren, zu implementieren und zu testen
+Datenstrukturen und Algorithmen im Hinblick auf
+Effizienz und Effektivitat zu evaluieren (Ressourcen-
+verbrauch, Aufgabenangemessenheit)
+
+keine
+
+PI-BA-M01
+
+B.A. Medieninformatik
+Modulbeschreibung
+
+Medieninformatik B. A. — Bachelorfach, zweites Haupt-
+fach, Nebenfach
+
+Informationswissenschaft B. A. — Bachelorfach, zweites
+Haupttfach
+
+7. Angebotsturnus des Moduls: jahrlich, im Sommersemester
+8. Das Modul kann absolviert werden in:
+9. Empfohlenes Fachsemester: 4. Fachsemester
+
+10. Arbeitsaufwand des Moduls Arbeitsautwand:
+
+(Workload) / Anzahl Leistungspunkte: eels in Stunden: 180
+
+1. Prasenzzeit: 4 SWS
+2. Selbststudium (inkl. Prufung): 120 Std.
+
+6. Verwendbarkeit des Moduls:
+
+Leistungspunkte: 6*
+
+* Die LP fur das Modul werden erst nach Bestehen der
+Modulprufung bzw. aller Modulteilprufungen vergeben
+
+11. Das Modul ist erfolgreich absolviert, wenn die unten naher beschriebenen Leistungen er-
+fullt sind:
+
+12. Modulbestandteile:
+Themenbereich/Thema SWS / | Studienleistungen LP
+Std.
+
+T_[P [Vi [Algorithmen und Datenstrukturen [2 |
+2 |P JU | Algorithmen und Datenstrukturen Ubungsaufgaben
+
+13. Modulprufung
+
+Art der Pru- Zeitounkt / Bemerkun- | Anteil an Mo-
+fung dulnote
+
+gen
+tenstrukturen der Vorlesungszeit
+14. Bemerkungen:
+Das Bestehen von mindestens 75% der Studienleistungen (Ubungsaufgaben) ist Voraussetzung fur die
+Zulassung zur Modulprufung.
+Die genaue Dauer der Prufung wird spatestens vier Wochen vor dem Prufungstermin in der
+
+Veranstaltung bekannt gegeben.
+Es wird empfohlen, die Modulbestandteile 1 und 2 im selben Semester zu absolvieren.
+
+Nr | Kompetenz/ Thema
+
+B.A. Medieninformatik
+Modulbeschreibung
+
+PI-BA-M04
+
+1. Name des Moduls: Praktische Informatik 4
+
+(Daten effizient speichern und verarbeiten)
+2. Fachgebiet / Verantwortlich: Prof. Dr. Bernd Ludwig
+
+Prof. Dr. Christian Wolff
+
+3. Inhalte des Moduls: Im Fokus dieses Moduls liegt die effiziente Speicherung
+und (Vor-)verarbeitung von Daten. Hierzu gehort die
+
+Vermittlung von
+Grundlagen der Datenreprasentation in
+(objekt-)relationalen Datenbanken,
+
+Kenntnissen in symbolischer Datenspeicherung (z.B.
+XML, JSON),
+Fahigkeiten zur effizienten Vorverarbeitung von ge-
+speicherten Daten.
+4. Qualifikationsziele des Moduls / zu er- Nach erfolgreichem Abschluss dieses Moduls sind Stu-
+werbende Kompetenzen: dierende in der Lage,
+
+e (objekt-)relationale Datenbanken problemspezifisch
+zu entwerfen, Daten dort abzulegen und diese abzu-
+fragen,
+
+e Daten mit Hilfe XML-basierter Techniken zu repra-
+sentieren, abzufragen und zu transformieren,
+
+e Daten aus heterogenen Quellen zusammenzufuhren,
+
+e Daten fur die Speicherung und fur weitergehende
+Analysen adaquat aufzubereiten.
+
+5. Teilnahmevoraussetzungen: OO
+a) empfohlene Kenntnisse:
+b) verpflichtende Nachweise: PI-BA-MO1
+
+6. Verwendbarkeit des Moduls: Medieninformatik B. A. — Bachelorfach, zweites Haupt-
+fach
+
+Informationswissenschaft B. A. — Bachelorfach, zweites
+Haupttfach
+
+7. Angebotsturnus des Moduls: jahrlich, im Wintersemester
+6 Das Modul Kann alsplitertwerden in:
+9. Empfohlenes Fachsemester: 3. Fachsemester
+
+10. Arbeitsaufwand des Moduls Arbeitsautwand:
+
+(Workload) / Anzahl Leistungspunkte: soon in Stunden: 180
+
+1. Prasenzzeit: 4 SWS
+2. Selbststudium (inkl. Prufung): 120 Std.
+
+Leistungspunkte: 6*
+
+* Die LP fur das Modul werden erst nach Bestehen der
+Modulprufung bzw. aller Modulteilprufungen vergeben
+
+B.A. Medieninformatik
+Modulbeschreibung
+
+11. Das Modul ist erfolgreich absolviert, wenn die unten naher beschriebenen Leistungen er-
+
+fullt sind:
+
+12. Modulbestandteile:
+
+Nr 7 Lehr- Themenbereich/Thema SWS / | Studienleistungen LP
+p form Std.
+1 VL Daten effizient speichern und ver- | 2 4
+arbeiten
+2 |P JU Ubungsaufgaben 2
+
+Daten effizient speichern und ver- | 2
+
+arbeiten
+
+13. Modulprufung
+
+Art der Pru- Dauer Zeitounkt / Bemerkun- | Anteil an Mo-
+Nr | Kompetenz/ Thema
+fung gen dulnote
+1 | Daten effizient spei- Klausur 60 bis 90 min Zeitpunkt: gegen Ende | 100 %
+chern und verarbeiten der Vorlesungszeit
+14. Bemerkungen:
+
+Das Bestehen von mindestens 75% der Studienleistungen (Ubungsaufgaben) ist Voraussetzung fur die
+
+Zulassung zur Modulprufung.
+Die genaue Dauer der Prufung wird spatestens vier Wochen vor dem Prufungstermin in der
+
+Veranstaltung bekannt gegeben.
+Es wird empfohlen, die Modulbestandteile 1 und 2 im selben Semester zu absolvieren.
+
+B.A. Medieninformatik
+Modulbeschreibung
+
+MEI-BA-MO1a
+
+1. Name des Moduls: Einfuhrung in die Medieninformatik
+(Bachelorfach)
+2. Fachgebiet / Verantwortlich: Prof. Dr. Christian Wolff
+
+3. Inhalte des Moduls: Das Modul fuhrt in grundlegende Themen der Informa-
+tik und Medieninformatik ein. Ein Uberblick Uber das
+gesamte Spektrum der Informatik und ihre Nachbardis-
+Ziplinen erlaubt die Einordnung der Medieninformatik.
+Neben theoretischen und praktischen Grundlagen des
+Faches werden wissenschaftliche und praktische Ar-
+beits- und Prasentationstechniken in der Medieninfor-
+matik vermittelt.
+
+4. Qualifikationsziele des Moduls / zu er- Nach Abschluss des Moduls verfugen Studierende uber
+
+werbende Kompetenzen: einen Uberblick der einschlagigen Wissensfelder in In-
+formatik und Medieninformatik. Sie sind in der Lage,
+grundlegendes Wissen auf konkrete Fragestellungen
+anzuwenden. Sie kennen die wesentlichen Informati-
+onsquellen und Arbeitstechniken und ko6nnen wissen-
+schaftliche Informationssysteme und gangige Werk-
+zeuge anwenden sowie deren Ergebnisse angemessen
+analysieren. Sie sind in der Lage, im wissenschaftlichen
+Kontext Wissen angemessen zu prasentieren.
+
+keine
+keine
+
+Medieninformatik B.A. — Bachelorfach
+
+im Winter- und Sommersemester
+1. bis 2. Fachsemester
+
+10. Arbeitsaufwand des Moduls Arbeitsautwand:
+
+(Workload) / Anzahl Leistungspunkte: sam in Stunden: 270
+
+1. Prasenzzeit: 7 SWS / 105 Std.
+2. Selbststudium (inkl. Prufung): 165 Std.
+
+Leistungspunkte: 9*
+* Die LP fur das Modul werden erst nach Bestehen der
+
+Modulprufung bzw. aller Modulteilprufungen verge-
+ben.
+
+10
+B.A. Medieninformatik
+Modulbeschreibung
+
+11. Das Modul ist erfolgreich absolviert, wenn die unten naher beschriebenen Leistungen er-
+fullt sind:
+
+12. Modulbestandteile:
+
+Einfuhrung in die Medieninformatik Ubungsaufgaben 2
+Propadeutikum Medieninformatik Ubungsaufgaben 2
+
+fung
+Einfuhrung in die Me- | Klausur 120 min Zeitounkt: gegen Ende | 100 %
+dieninformatik der Vorlesungszeit
+bzw. in der vorlesungs-
+freien Zeit
+
+14. Bemerkungen:
+
+Das Bestehen von mindestens 75% der Studienleistungen (Ubungsaufgaben) der Ubung ,,Einflhrung in
+die Medieninformatik” (Modulbestandteil 2: MEI-BA-M0O1a.2) ist Voraussetzung fur die Zulassung zur
+Modulprufung.
+
+Es wird dringend empfohlen, die Modulbestandteile 1 und 2 im selben Semester zu absolvieren.
+
+11
+B.A. Medieninformatik
+Modulbeschreibung
+
+MEI-BA-M01b
+
+1. Name des Moduls: Einfuhrung in die Medieninformatik
+(2. Hauptfach und Nebenfach)
+2. Fachgebiet / Verantwortlich: Prof. Dr. Christian Wolff
+
+3. Inhalte des Moduls: Das Modul fuhrt in grundlegende Themen der Informa-
+tik und Medieninformatik ein. Ein Uberblick Uber das
+gesamte Spektrum der Informatik und ihre Nachbardis-
+Ziplinen erlaubt die Einordnung der Medieninformatik.
+Neben theoretischen und praktischen Grundlagen des
+Faches werden wissenschaftliche und praktische Ar-
+beits- und Prasentationstechniken in der Medieninfor-
+matik sowie gestalterische Grundkenntnisse vermittelt.
+
+4. Qualifikationsziele des Moduls / zu er- Nach Abschluss des Moduls verfugen Studierende uber
+
+werbende Kompetenzen: einen Uberblick der einschlagigen Wissensfelder in In-
+formatik und Medieninformatik. Sie sind in der Lage,
+grundlegendes Wissen auf konkrete Fragestellungen
+anzuwenden. Sie kennen die wesentlichen Informati-
+onsquellen und Arbeitstechniken und ko6nnen wissen-
+schaftliche Informationssysteme und gangige Werk-
+zeuge anwenden sowie deren Ergebnisse angemessen
+analysieren. Sie sind in der Lage, im wissenschaftlichen
+Kontext Wissen angemessen zu prasentieren sowie
+gestalterische Aufgabenselbststandig umzusetzen.
+
+5. Teilnahmevoraussetzungen:
+
+a) empfohlene Kenntnisse: keine
+
+b) verpflichtende Nachweise: keine
+
+6. Verwendbarkeit des Moduls: Medieninformatik B.A. — zweites Hauptfach, Neben-
+fach
+
+7. Angebotsturnus des Moduls: im Winter- und Sommersemester
+8. Das Modul kann absolviert werden in: 2 Semester
+9. Empfohlenes Fachsemester: 1. bis 2. Fachsemester
+
+10. Arbeitsaufwand des Moduls Arbeitsaufwand:
+
+(Workload) / Anzahl Leistungspunkte: sam in Stunden: 360
+
+1. Prasenzzeit: 9 SWS / 135 Std.
+2. Selbststudium (inkl. Prufung): 225 Std.
+
+Leistungspunkte: 12 *
+* Die LP fur das Modul werden erst nach Bestehen der
+
+Modulprufung bzw. aller Modulteilprufungen verge-
+ben.
+
+12
+B.A. Medieninformatik
+Modulbeschreibung
+
+11. Das Modul ist erfolgreich absolviert, wenn die unten naher beschriebenen Leistungen er-
+fullt sind:
+
+12. Modulbestandteile:
+
+Nr 7 Lehr- Themenbereich/Thema SWS / | Studienleistungen
+p form Std.
+sung
+
+P |Ubung _ | Einfuhrung in die Medieninformatik Ubungsaufgaben
+P |Ubung | Propaédeutikum Medieninformatik Ubungsaufgaben
+
+1
+
+Ubung | Ubung im Bereich Webdesign 2 nach Malsgabe im kommentierten | 3
+Vorlesungsverzeichnis
+13. Modulprufung
+
+Art der Pru- Dauer Zeitounkt / Bemerkun- | Anteil an Mo-
+Nr | Kompetenz/ Thema
+fung gen dulnote
+Einfuhrung in die Me- | Klausur 120 min Zeitpunkt: gegen Ende | 100 %
+dieninformatik der Vorlesungszeit
+bzw. in der vorlesungs-
+freien Zeit
+
+14. Bemerkungen:
+
+Das Bestehen von mindestens 75% der Studienleistungen (Ubungsaufgaben) der Ubung ,,Einfuhrung in
+die Medieninformatik” (Modulbestandteil 2: MEI-BA-M0O1b.2) ist Voraussetzung fur die Zulassung zur
+Modulprufung.
+
+Es wird dringend empfohlen, die Modulbestandteile 1 und 2 im selben Semester zu absolvieren.
+
+13
+B.A. Medieninformatik
+Modulbeschreibung
+
+MEI-BA-M02
+
+1. Name des Moduls: Mathematik fur Medieninformatik |
+2. Fachgebiet / Verantwortlich: Prof. Dr. Christian Wolff
+
+3. Inhalte des Moduls: Der erste mathematische Eintuhrungskurs vermittelt
+mathematische Grundkonzepte und hat einen inhaltli-
+chen Schwerpunkt im Bereich Analysis. Begleitende
+Ubungen vertiefen die Kenntnisse und fuhren Studie-
+rende an die praktische Anwendung formaler Konzep-
+te heran.
+
+4. Qualifikationsziele des Moduls / zu er- Nach Besuch dieser Lehrveranstaltung verstehen Stu-
+
+werbende Kompetenzen: dierende medieninformatikrelevante mathematische
+Grundkonzepte im Bereich Analysis und sind in der La-
+ge, diese eigenstandig fur Problemlosungen anzuwen-
+den.
+
+5. Tellnahmevoraussetzungen So
+—
+Svemciness new
+
+7. Angebotsturnus des Moduls jahrlich, im Wintersemester
+B. Das Mandl kann shsalviert wesrdent in
+9. Empfohlenes Fachsemester: 1. Fachsemester
+
+10. Arbeitsaufwand des Moduls Arbeitsautwand:
+
+(Workload) / Anzahl Leistungspunkte: socom in Stunden: 180
+
+1. Prasenzzeit: 4 SWS / 60 Std.
+2. Selbststudium (inkl. Prufung): 120 Std.
+
+6. Verwendbarkeit des Moduls: Medieninformatik B.A. — Bachelorfach, zweites Haupt-
+fach
+
+Leistungspunkte: 6*
+
+* Die LP fur das Modul werden erst nach Bestehen der
+Modulprufung bzw. aller Modulteilprufungen verge-
+ben.
+
+14
+B.A. Medieninformatik
+Modulbeschreibung
+
+11. Das Modul ist erfolgreich absolviert, wenn die unten naher beschriebenen Leistungen er-
+fullt sind:
+
+12. Modulbestandteile:
+
+Nr 7 Lehr- Themenbereich/Thema SWS / | Studienleistungen
+p form Std.
+sung
+
+2 |P |Ubung | Mathematik flr Medieninformatik | Ubungsaufgaben
+
+13. Modulprufung
+
+Art der Pru- Dauer Zeitounkt / Bemerkun- | Anteil an Mo-
+Nr | Kompetenz/ Thema
+fung gen dulnote
+1 | Mathematik fur Medi- | Klausur 90 min Zeitpunkt: gegen Ende | 100 %
+eninformatik | der Vorlesungszeit
+bzw. in der vorlesungs-
+freien Zeit
+
+14. Bemerkungen:
+
+Das Bestehen der Studienleistung (Ubungsaufgaben) ist Voraussetzung fur die Zulassung zur
+Modulprtifung. 50 % der Ubungsaufgaben mussen bestanden werden, damit die Studienleistung
+insgesamt bestanden ist.
+
+Der Drittversuch kann als mundliche Prufung abgelegt werden. Der Prufer gibt die Prufungsform
+spatestens zwei Wochen vor dem Prufungstermin bekannt.
+
+Es wird dringend empfohlen, die Modulbestandteile 1 und 2 im selben Semester zu absolvieren.
+
+15
+B.A. Medie
+
+ninformatik
+
+Modulbeschreibung
+
+MEI-B
+
+1. Name des Moduls:
+2. Fachgebiet / Verantwortlich:
+
+3. Inhalte des Moduls:
+
+4. Qualifikationsziele des Moduls / zu er-
+werbende Kompetenzen:
+
+5. Teilnahmevoraussetzungen
+a) empfohlene Kenntnisse:
+b) verpflichtende Nachweise
+
+7. Angebotsturnus des Moduls
+8. Das Modul kann absolviert werden in
+9. Empfohlenes Fachsemester:
+
+10. Arbeitsaufwand des Moduls
+(Workload) / Anzahl Leistungspunkte:
+
+6. Verwendbarkeit des Moduls:
+
+A-M03
+
+Mathematik fur Medieninformatik II
+Prof. Dr. Christian Wolff
+
+Der zweite mathematische Einfuhrungskurs vermittelt
+mathematische Grundkonzepte und hat einen inhaltli-
+chen Schwerpunkt im Bereich lineare Algebra. Beglei-
+tende Ubungen vertiefen die Kenntnisse und fuhren
+Studierende an die praktische Anwendung formaler
+Konzepte heran.
+
+Nach Besuch dieser Lehrveranstaltung verstehen Stu-
+dierende informatikrelevante mathematische Grund-
+konzepte im Bereich lineare Algebra und sind in der
+Lage, diese eigenstandig fur Problemlosungen anzu-
+wenden.
+
+keine
+
+keine
+
+Medieninformatik B.A. — Bachelorfach, zweites Haupt-
+fach
+jahrlich, im Sommersemester
+
+1 Semester
+
+2. Fachsemester
+
+Arbeitsaufwand:
+
+Gesamt in Stunden: 180
+
+davon:
+
+1. Prasenzzeit: 4 SWS / 60 Std.
+
+2. Selbststudium (inkl. Prufung): 120 Std.
+
+Leistungspunkte: 6*
+* Die LP fur das Modul werden erst nach Bestehen der
+
+Modulprufung bzw. aller Modulteilprufungen verge-
+ben.
+
+16
+B.A. Medieninformatik
+Modulbeschreibung
+
+11. Das Modul ist erfolgreich absolviert, wenn die unten naher beschriebenen Leistungen er-
+fullt sind:
+
+12. Modulbestandteile:
+
+Nr w Lehr- Themenbereich/Thema SWS / | Studienleistungen
+form td.
+a Mathematik fur Medieninformatik
+sung
+
+Vfathematik fur Medieninformatik Ubungsaufgaben
+lI
+
+13. Modulprufung
+
+fung dulnote
+1 | Mathematik fur Medi- | Klausur 90 min — gegen Ende | 100 %
+eninformatik II der Vorlesungszeit
+bzw. in der vorlesungs-
+freien Zeit
+
+14. Bemerkungen:
+Das Bestehen der Studienleistung (Ubungsaufgaben) ist Voraussetzung fur die Zulassung zur
+
+Modulprtifung. 50 % der Ubungsaufgaben mussen bestanden werden, damit die Studienleistung
+
+insgesamt bestanden ist.
+Der Drittversuch kann als mundliche Prufung abgelegt werden. Der Prufer gibt die Prufungsform
+
+spatestens zwei Wochen vor dem Prufungstermin bekannt.
+Es wird dringend empfohlen, die Modulbestandteile 1 und 2 im selben Semester zu absolvieren.
+
+17
+B.A. Medieninformatik
+Modulbeschreibung
+
+MEI-BA-M04
+
+1. Name des Moduls:
+2. Fachgebiet / Verantwortlich:
+3. Inhalte des Moduls:
+
+4. Qualifikationsziele des Moduls / zu er-
+werbende Kompetenzen:
+
+5. Teilnahmevoraussetzungen:
+
+a) empfohlene Kenntnisse:
+
+b) verpflichtende Nachweise:
+
+6. Verwendbarkeit des Moduls:
+
+7. Angebotsturnus des Moduls:
+
+8. Das Modul kann absolviert werden in:
+9. Empfohlenes Fachsemester:
+
+10. Arbeitsaufwand des Moduls
+(Workload) / Anzahl Leistungspunkte:
+
+Grundlagen der Human-Computer-Interaction
+
+Prof. Dr. Christian Wolff
+
+In diesem Modul werden Grundlagen der Gestaltung
+interaktiver Systeme vermittelt, auf denen das Modul
+Usability Engineering aufbaut. Dazu gehoren physio-
+logische und psychologische Grundlagen, relevante
+Modelle in der HCI sowie Normen und Richtlinien zur
+Gestaltung von Benutzerschnittstellen. Es wird in den
+aktuellen Forschungsstand auf diesem Gebiet einge-
+fuhrt.
+
+Nach Abschluss dieses Moduls kennen die Studieren-
+den die zentralen ergonomischen Randbedingungen
+der Gestaltung benutzerfreundlicher Anwendungen
+und haben Einblick in aktuelle Probleme der Forschung
+im Bereich HCl. Sie sind in der Lage, vorgegebene Bel-
+spielsysteme anhand von Standards und Heuristiken
+einzuordnen, kritische Eigenschaften zu benennen und
+Verbesserungspotentiale abzuleiten.
+
+MEI-BA-M0O1a (Bachelorfach) oder MEI-BA-M01b
+(zweites Hauptfach, Nebenfach)
+keine
+
+Medieninformatik B.A. — Bachelorfach, zweites Haupt-
+fach, Nebenfach
+jahrlich, im Sommersemester
+
+1 Semester
+4. Fachsemester
+
+Arbeitsaufwand:
+
+Gesamt in Stunden: 180
+
+davon:
+
+1. Prasenzzeit: 4 SWS / 60 Std.
+
+2. Selbststudium (inkl. Prufung): 120 Std.
+
+Leistungspunkte: 6*
+* Die LP fur das Modul werden erst nach Bestehen der
+
+Modulprufung bzw. aller Modulteilprufungen verge-
+ben.
+
+18
+B.A. Medieninformatik
+Modulbeschreibung
+
+11. Das Modul ist erfolgreich absolviert, wenn die unten naher beschriebenen Leistungen er-
+fullt sind:
+
+12. Modulbestandteile:
+Nr 7 Lehr- Themenbereich/Thema SWS / | Studienleistungen
+p form Std.
+
+sung Interaction
+Interaction
+
+13. Modulprufung
+
+Art der Pru- Dauer Zeitounkt / Bemerkun- | Anteil an Mo-
+Nr | Kompetenz/ Thema
+fung gen dulnote
+Grundlagen der Hu- Klausur 90 min Zeitpunkt: gegen Ende | 100 %
+man-Computer- der Vorlesungszeit
+Interaction bzw. in der vorlesungs-
+freien Zeit
+
+14. Bemerkungen:
+
+Das Bestehen der Studienleistung (Ubungsaufgaben) ist Voraussetzung fur die Zulassung zur
+Modulprtifung. 75 % der Ubungsaufgaben mussen bestanden werden, damit die Studienleistung
+insgesamt bestanden ist.
+
+Es wird empfohlen, die Modulbestandteile 1 und 2 im selben Semester zu absolvieren.
+
+19
+B.A. Medieninformatik
+Modulbeschreibung
+
+MEI-BA-M05
+
+1. Name des Moduls:
+2. Fachgebiet / Verantwortlich:
+3. Inhalte des Moduls:
+
+4. Qualifikationsziele des Moduls / zu er-
+werbende Kompetenzen:
+
+5. Teilnahmevoraussetzungen:
+
+a) empfohlene Kenntnisse:
+b) verpflichtende Nachweise:
+
+6. Verwendbarkeit des Moduls:
+
+7. Angebotsturnus des Moduls:
+8. Das Modul kann absolviert werden in:
+9. Empfohlenes Fachsemester:
+
+10. Arbeitsaufwand des Moduls
+(Workload) / Anzahl Leistungspunkte:
+
+Usability Engineering
+
+Prof. Dr. Christian Wolff
+
+In diesem Modul wird der Gestaltungsprozess zur Ent-
+wicklung gebrauchstauglicher interaktiver Systeme
+vermittelt. Dazu gehoren Methoden, die zur Analyse
+des Nutzungskontextes, zur Anforderungsanalyse so-
+wie zur Erstellung von Prototypen eingesetzt werden.
+Daneben fuhrt das Modul in unterschiedliche Evaluie-
+rungsmethoden fur interaktive Systeme ein.
+
+Nach Abschluss des Moduls konnen die Studierenden
+den Verlauf von benutzerzentrierten Entwick-
+lungsprozessen skizzieren und fur jede Phase geeignete
+Methoden darlegen. Sie sind daruber hinaus in der La-
+ge, ausgewahlte menschzentrierte Methoden eigen-
+standig anzuwenden, Designprobleme zu analysieren
+und einen konsistenten LOsungsansatz fur ein Design-
+problem von der Anforderungsanalyse bis zur De-
+tailspezifikation zu entwickeln.
+
+keine
+
+MEI-BA-M04
+
+Medieninformatik B.A. — Bachelorfach, zweites Haupt-
+fach
+
+jahrlich, im Wintersemester
+
+5. Fachsemester
+
+Arbeitsaufwand:
+
+Gesamt in Stunden: 180
+
+davon:
+
+1. Prasenzzeit: 4 SWS / 60 Std.
+
+2. Selbststudium (inkl. Prufung): 120 Std.
+
+Leistungspunkte: 6*
+* Die LP fur das Modul werden erst nach Bestehen der
+
+Modulprufung bzw. aller Modulteilprufungen verge-
+ben.
+
+20
+B.A. Medieninformatik
+Modulbeschreibung
+
+11. Das Modul ist erfolgreich absolviert, wenn die unten naher beschriebenen Leistungen er-
+fullt sind:
+
+12. Modulbestandteile:
+
+7 f Lehr- Themenbereich/Thema SWS / | Studienleistungen
+form
+Vorle- Usability Engineering
+sung
+
+2_[P_|Ubung [Usability Engineering __—*(2 | Ubungsaufgaben———SSS=«dD
+
+13. Modulprufung
+
+Art der Pru- Dauer Zeitounkt / Bemerkun- | Anteil an Mo-
+Nr | Kompetenz/ Thema
+fung gen dulnote
+
+Abgabe zum Semes-
+terende; Umfang: 15-
+20 Seiten pro Person
+
+Usability Engineering Projektarbeit
+
+14. Bemerkungen: ;
+Das Bestehen der Studienleistung (Ubungsaufgaben) ist Voraussetzung fur die Zulassung zur
+
+Modulprufung.75% der Studienleistungen mussen bestanden sein, damit die Studienleistung insgesamt
+
+bestanden ist.
+Es wird dringend empfohlen, die Modulbestandteile 1 und 2 im selben Semester zu absolvieren.
+
+21
+B.A. Medieninformatik
+Modulbeschreibung
+
+MEI-BA-M06
+
+1. Name des Moduls:
+2. Fachgebiet / Verantwortlich:
+3. Inhalte des Moduls:
+
+4. Qualifikationsziele des Moduls / zu er-
+werbende Kompetenzen:
+
+5. Teilnahmevoraussetzungen:
+
+a) empfohlene Kenntnisse:
+
+b) verpflichtende Nachweise:
+
+6. Verwendbarkeit des Moduls:
+
+7. Angebotsturnus des Moduls:
+8. Das Modul kann absolviert werden in:
+9. Empfohlenes Fachsemester:
+
+10. Arbeitsaufwand des Moduls
+(Workload) / Anzahl Leistungspunkte:
+
+Multimedia Technology
+
+Prof. Dr. Christian Wolff
+
+Das Modul fuhrt in grundlegende Verfahren und Stan-
+dards der Multimediatechnologie, Aufbauprinzipien
+multimedialer (Software-)Systeme sowie medienspezi-
+fische Anforderungen und Merkmale bei der Verarbei-
+tung digitaler Daten ein. AufSerdem vermittelt das Mo-
+dul grundlegende Arbeitstechniken fur unterschiedli-
+chen Medientypen (Bild, Foto, Video, Ton, Musik, Mul-
+timedia).
+
+Studierende sind in der Lage, Standards und Technolo-
+gien im Bereich Multimedia zu bewerten und fur eige-
+ne Entwicklungsarbeiten einzusetzen. Sie kOnnen ent-
+sprechende Aufgabenstellungen analysieren und in
+einen eigenen Losungsansatz Uberfuhren.
+
+MEI-BA-M0O1a (Bachelorfach) oder MEI-BA-M01b
+(zweites Hauptfach, Nebenfach
+
+keine
+
+Medieninformatik B. A. — Bachelorfach, zweites Haupt-
+fach, Nebenfach
+
+jahrlich, im Wintersemester
+3. Fachsemester
+
+Arbeitsaufwand:
+
+Gesamt in Stunden: 180
+
+davon:
+
+1. Prasenzzeit: 4 SWS / 60 Std.
+
+2. Selbststudium (inkl. Prufung): 120 Std.
+
+Leistungspunkte: 6*
+* Die LP fur das Modul werden erst nach Bestehen der
+
+Modulprufung bzw. aller Modulteilprufungen verge-
+ben.
+
+pw
+B.A. Medieninformatik
+Modulbeschreibung
+
+11. Das Modul ist erfolgreich absolviert, wenn die unten naher beschriebenen Leistungen er-
+fullt sind:
+
+12. Modulbestandteile:
+
+Nr 7 Lehr- Themenbereich/Thema SWS / | Studienleistungen
+p form Std.
+
+1 Vorle- Multimedia Technology 2 4
+sung
+
+2 |P |Ubung | Multimedia Technology 2 Ubungsaufgaben 2
+
+13. Modulprufung
+
+Art der Pru- Dauer Zeitounkt / Bemerkun- | Anteil an Mo-
+Nr | Kompetenz/ Thema
+fung gen dulnote
+1 | Multimedia Technology | Klausur 90 min Zeitpunkt: gegen Ende | 100 %
+der Vorlesungszeit
+bzw. in der vorlesungs-
+freien Zeit
+
+14. Bemerkungen:
+Es wird dringend empfohlen, die Modulbestandteile 1 und 2 im selben Semester zu absolvieren.
+
+23
+B.A. Medieninformatik
+Modulbeschreibung
+
+MEI-BA-M0O7
+
+1. Name des Moduls: Multimedia Engineering
+2. Fachgebiet / Verantwortlich: Prof. Dr. Christian Wolff
+
+3. Inhalte des Moduls: Das Modul fuhrt in Entwicklungsverfahren fur Soft-
+warelosungen im Bereich multimediale Systeme ein
+und gibt einen Einblick in aktuelle Entwicklungsframe-
+works. Die Kenntnisse im Bereich der Anwendungs-
+programmierung mit Schwerpunktsetzung bei mu/ti-
+media programming werden vertieft.
+
+4. Qualifikationsziele des Moduls / zu er- Studierende konnen multimediale Anwendungen kon-
+
+werbende Kompetenzen: zipieren und auf der Basis aktueller Techniken realisie-
+ren. Dabei sind sie auch in der Lage, den Entwick-
+lungsprozess durch Anwendung geeigneter Modellie-
+rungsinstrumente systematisch zu gestalten und zu
+dokumentieren.
+
+slaiinincheneinn si Cd
+2) empfohlene Kenntnisse:
+
+b) verpflichtende Nachweise PI-BA-MO1
+PI-BA-M02
+6. Verwendbarkeit des Moduls Medieninformatik B.A. — Bachelorfach
+
+7. Angebotsturnus des Moduls: jahrlich, im Sommersemester
+8. Das Modul kann absolviert werden in:
+9. Empfohlenes Fachsemester: 4. Fachsemester
+
+10. Arbeitsaufwand des Moduls Arbeitsautwand:
+
+Gesamt in Stunden: 180
+
+davon:
+
+1. Prasenzzeit: 4 SWS / 60 Std.
+
+2. Selbststudium (inkl. Prufung): 120 Std.
+
+(Workload) / Anzahl Leistungspunkte:
+
+Leistungspunkte: 6*
+
+* Die LP fur das Modul werden erst nach Bestehen der
+Modulprufung bzw. aller Modulteilprufungen verge-
+ben.
+
+24
+B.A. Medieninformatik
+Modulbeschreibung
+
+11. Das Modul ist erfolgreich absolviert, wenn die unten naher beschriebenen Leistungen er-
+fullt sind:
+
+12. Modulbestandteile:
+Nr " Lehr- Themenbereich/Thema SWS / | Studienleistungen
+form Std.
+
+Vorle- Multimedia Engineering
+sung
+
+Ubungsaufgaben
+
+13. Modulprufung
+
+™ Kompetenz / Thema Art ‘ma seen
+
+Multimedia Engineering | Projektarbeit Abgabe zum Semes-
+terende; Umfang: 15-
+20 Seiten pro Person
+
+14. Bemerkungen:
+Es wird dringend empfohlen, die Modulbestandteile 1 und 2 im selben Semester zu absolvieren.
+
+25
+B.A. Medieninformatik
+Modulbeschreibung
+
+MEI-BA-M08
+
+1. Name des Moduls: Angewandte Medieninformatik |
+2. Fachgebiet / Verantwortlich: Prof. Dr. Christian Wolff
+
+3. Inhalte des Moduls: Das Modul fuhrt in ein konkretes Anwendungsgebiet
+der Medieninformatik (z.B. Digital Humanities, Compu-
+tergrafik) ein. Im Vordergrund steht dabei die Heran-
+fuhrung an die jeweils aktuelle Forschungssituation.
+
+4. Qualifikationsziele des Moduls / zu er- Studierende kennen die aktuelle Forschungslage in ei-
+
+werbende Kompetenzen: nem Anwendungstfeld der Medieninformatik . Je nach
+thematischer Ausrichtung erwerben sie praktische Fer-
+tigkeiten in diesem Anwendungsteld.
+
+5, Tellnahmevoraussetzungen: SS
+®) empfohlene Kenntnisse:
+whi sinetiineetoeeinomee
+
+6. Verwendbarkeit des Moduls: Medieninformatik B.A. — Bachelorfach, zweites Haupt-
+fach
+
+7. Angebotsturnus des Moduls: im Winter- und Sommersemester
+
+8. Das Modul kann absolviert werden in:
+
+9. Empfohlenes Fachsemester: 4. bis 5. Fachsemester
+
+10. Arbeitsaufwand des Moduls Arbeitsautwand:
+
+Gesamt in Stunden: 180
+
+davon:
+
+1. Prasenzzeit: 4 SWS / 60 Std.
+
+2. Selbststudium (inkl. Prufung): 120 Std.
+
+(Workload) / Anzahl Leistungspunkte:
+
+Leistungspunkte: 6*
+
+* Die LP fur das Modul werden erst nach Bestehen der
+Modulprufung bzw. aller Modulteilprufungen verge-
+ben.
+
+26
+B.A. Medieninformatik
+Modulbeschreibung
+
+11. Das Modul ist erfolgreich absolviert, wenn die unten naher beschriebenen Leistungen er-
+fullt sind:
+
+12. Modulbestandteile:
+
+7 f Lehr- Themenbereich/Thema SWS / | Studienleistungen
+form
+Vorle- Angewandte Medieninformatik |
+sung
+
+a Angewandte Medieninformatik | Projektbezogene Ubungsaufga-
+ben
+
+13. Modulprufung
+
+Art der Pru- Dauer “ue ‘ Pemerkun Anteil an Mo-
+Kompetenz / Thema
+fung dulnote
+
+Angewandte Medienin- | Projektarbeit |Dauer der Klau- | Abgabe der Projektar-
+formatik | oder Klausur | sur: 90 min beit zum Semesteren-
+de, Umfang: 15-20
+Bearbeitungszeit | Seiten pro Person;
+bei Projektarbeit: | Zeitounkt der Klausur:
+12 Wochen gegen Ende der Vorle-
+sungszeit bzw. in der
+vorlesungstreien Zeit
+14. Bemerkungen:
+Das Bestehen der Studienleistung ist Voraussetzung fur die Zulassung zur Modulprufung. 75% der
+Studienleistungen mussen bestanden sein, damit die Studienleistung insgesamt bestanden ist.
+Die Art der Modulprufung wird vor Vorlesungsbeginn im kommentierten Vorlesungsverzeichnis bekannt
+gegeben.
+Es wird dringend empfohlen, die Modulbestandteile 1 und 2 im selben Semester zu absolvieren.
+
+27
+B.A. Medieninformatik
+Modulbeschreibung
+
+MEI-BA-M09
+
+1. Name des Moduls:
+2. Fachgebiet / Verantwortlich:
+3. Inhalte des Moduls:
+
+4. Qualifikationsziele des Moduls / zu er-
+werbende Kompetenzen:
+
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse:
+b) verpflichtende Nachweise:
+
+6. Verwendbarkeit des Moduls:
+
+7. Angebotsturnus des Moduls:
+8. Das Modul kann absolviert werden in:
+9. Empfohlenes Fachsemester:
+
+10. Arbeitsaufwand des Moduls
+(Workload) / Anzahl Leistungspunkte:
+
+Angewandte Medieninformatik II
+
+Prof. Dr. Christian Wolff
+
+Das Modul vermittelt vertiefte praktische Kenntnisse in
+einem Anwendungsgebiet der Medieninformatik (z.B.
+Programmierung, Mediengestaltung). Das Modul ver-
+schrankt das Format des Seminars mit der Operatio-
+nalisierung einer praxisrelevanten Fragestellung: Im
+Seminarteil werden wesentliche Grundlagen vermittelt
+bzw. gemeinsam erarbeitet, in der Projektohase entwi-
+ckeln Studierende unter Anleitung eigenstandige Lo-
+sungsansatze.
+
+Studierende konnen auf der Basis ihrer Kenntnisse ei-
+nes technischen Anwendungsfeldes praxisrelevante
+Probleme analysieren, geeignete Losungskonzepte
+entwickeln und diese technisch umsetzen.
+
+keine
+keine
+
+Medieninformatik B.A. — Bachelorfach, zweites Haupt-
+fach
+
+im Winter- und Sommersemester
+
+5. bis 6. Fachsemester
+
+Arbeitsaufwand:
+
+Gesamt in Stunden: 180
+
+davon:
+
+1. Prasenzzeit: 4 SWS / 60 Std.
+
+2. Selbststudium (inkl. Prufung): 120 Std.
+
+Leistungspunkte: 6*
+* Die LP fur das Modul werden erst nach Bestehen der
+
+Modulprufung bzw. aller Modulteilprufungen verge-
+ben.
+
+28
+B.A. Medieninformatik
+Modulbeschreibung
+
+11. Das Modul ist erfolgreich absolviert, wenn die unten naher beschriebenen Leistungen er-
+fullt sind:
+
+12. Modulbestandteile:
+
+Nr 7 Lehr- Themenbereich/Thema SWS / | Studienleistungen LP
+p form Std.
+1 Vorle- Angewandte Medieninformatik Il | 2 2
+sung
+
+aa Projektse | Angewandte Medieninformatik || Projektbezogene Ubungsaufga-
+ben
+
+13. Modulprufung
+
+Art der Pru- Dauer Zeitounkt / Bemerkun- | Anteil an Mo-
+Nr | Kompetenz/ Thema
+fung gen dulnote
+1
+
+Angewandte Medienin- | Projektarbeit Abgabe zum Semes- 100 %
+terende, Umfang: 15-
+
+formatik II
+20 Seiten pro Person
+
+14. Bemerkungen:
+Das Bestehen der Studienleistung ist Voraussetzung fur die Zulassung zur Modulprufung75% der
+
+Studienleistungen mussen bestanden sein, damit die Studienleistung insgesamt bestanden ist.
+Es wird dringend empfohlen, die Modulbestandteile 1 und 2 im selben Semester zu absolvieren.
+
+29
+B.A. Medieninformatik
+Modulbeschreibung
+
+MEI-BA-M10
+
+1. Name des Moduls:
+2. Fachgebiet / Verantwortlich:
+3. Inhalte des Moduls:
+
+4. Qualifikationsziele des Moduls / zu er-
+werbende Kompetenzen:
+
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse:
+b) verpflichtende Nachweise:
+6. Verwendbarkeit des Moduls:
+7. Angebotsturnus des Moduls:
+8. Das Modul kann absolviert werden in:
+9. Empfohlenes Fachsemester:
+
+10. Arbeitsaufwand des Moduls
+(Workload) / Anzahl Leistungspunkte:
+
+Abschlussmodul
+Prof. Dr. Christian Wolff
+
+Das Modul fuhrt in ein aktuelles Forschungsgebiet der
+Medieninformatik ein und bereitet auf die Abschluss-
+arbeit vor. Dabei werden die Inhalte aus dem Propa-
+deutikum vertieft und erganzt, insbesondere in den
+Bereichen wissenschaftliches Schreiben, wissenschaftli-
+che Fachsprache und Aufbereitung von Forschungsda-
+ten und -literatur. Im Seminarteil wird der aktuelle For-
+schungsstand zum Thema des Seminars aufbereitet,
+prasentiert und diskutiert. In der Projektphase des Se-
+minars untersuchen Studierende daraus abgeleitete
+Forschungstfragen. Durch Teilnahme an wissenschaftli-
+chen Studien werden praktische Kenntnisse in den Be-
+reichen Studiendesign und prototyping vertieft.
+
+Die Studierenden sind in der Lage, einen wissenschaft-
+lichen Text zu einer aktuellen Forschungsfrage auf der
+Basis der wissenschaftlichen Literatur zu verfassen und
+Zu prasentieren. Sie kKOnnen aus der Diskussion im Se-
+minar Fragestellungen ableiten und sie im Rahmen ei-
+ner Forschungsarbeit untersuchen. Die Studierenden
+sind in der Lage, die dazu erforderlichen Forschungs-
+methoden anzuwenden, die Untersuchungsergebnisse
+aufzubereiten, zu dokumentieren und zu prasentieren.
+
+keine
+
+Medieninformatik B. A. — Bachelorfach
+
+im Winter- und Sommersemester
+1 Semester
+
+5. bis 6. Fachsemester
+
+Arbeitsaufwand:
+
+Gesamt in Stunden: 270
+
+davon:
+
+1. Prasenzzeit: 5 SWS / 75 Std.
+
+2. Selbststudium (inkl. Prufung): 195 Std.
+
+Leistungspunkte: 9
+
+30
+B.A. Medieninformatik
+Modulbeschreibung
+
+11. Das Modul ist erfolgreich absolviert, wenn die unten naher beschriebenen Leistungen er-
+fullt sind:
+
+12. Modulbestandteile:
+
+Nr 7 Lehr- Themenbereich/Thema SWS / | Studienleistungen
+p form Std.
+
+1 Wissenschaftliches Arbeiten Ubungsaufgaben 1
+rasentaton der Abs usarbe
+
+Prakti- Teilnahme an Forschungsarbeiten Dokumentierte Teilnahme (Lauf-
+kum zettel) an Forschungsarbeiten im
+
+Umfang von mind. 15 Stunden
+
+Anteil an Mo-
+dulnote
+
+Abgabe zum Semes- 100 %
+terende; Umfang: 15-
+20 Seiten pro Person
+
+4. Bemerkungen:
+
+31

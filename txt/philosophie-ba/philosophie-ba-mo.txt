@@ -1,0 +1,1167 @@
+input_dictionary = Fakultät für Philosophie, Kunst-,  
+Geschichts- und Gesellschaftswissenschaften 
+Bachelor of Arts 
+Philosophie 
+Modulhandbuch 
+Institut für Philosophie 
+Gültig ab  Sommersemester 2019 
+(letzte Änderungen vom 04. März 2019) Inhaltsverzeichnis 
+Präambel  …………………………………………………………………  3 
+Module 
+1. Basismodule
+PHI–101  Basismodul Geschichte der Philosophie   …………………  5 
+PHI–102  Basismodul Praktische Philosophie   ………………………  7 
+PHI–103  Basismodul Theoretische Philosophie   ……………………  9 
+PHI–104  Basismodul Logik   …………………………………………..  11 
+PHI–111  Basismodul Wissenschaftliches Arbeiten in der Philosophie  13 
+PHI–112  Basismodul Klassische Texte der Philosophie   ……………  15 
+PHI–113  Basismodul Debatten der Gegenwartsphilosophie   …….  17 
+2. Aufbau- und Abschlussmodule
+PHI–201  Aufbaumodul Geschichte der Philosophie   ………………  19 
+PHI–202  Aufbaumodul Praktische Philosophie   ……………………  21 
+PHI–203  Aufbaumodul Theoretische Philosophie   …………………  23 
+PHI–211  Abschlussmodul B.A. Philosophie   ………………………...  25 
+2  
+Ziel des Bachelor-Teilstudiengangs Philosophie an der Universität Regensburg ist es, Studie-
+rende dazu zu befähigen, sich mit Hilfe begrifflicher und argumentativer Analysen kritisch 
+mit Problemen und vermeintlichen Gewissheiten in öffentlichen und wissenschaftlichen 
+Diskursen auseinanderzusetzen. Philosophie-Studierende in Regensburg lernen, ihren Blick 
+für Probleme und Spannungen im für selbstverständlich Gehaltenen zu schärfen, argumen-
+tative Unklarheiten und Fehler zu identifizieren, Widersprüche aufzudecken, Interpreta-
+tionshypothesen aufzustellen und konstruktive Vorschläge zur Klärung zu entwickeln. Diese 
+Kompetenzen werden in Auseinandersetzung sowohl mit der philosophischen Ideenge-
+schichte als auch mit Debatten in der Gegenwartsphilosophie erworben. 
+ 
+Nach erfolgreichem Abschluss des Philosophie-Studiums haben die Studierenden daher die 
+folgenden Kenntnisse und Kompetenzen erworben:  
+(1) Die Studierenden sind in der Lage, anspruchsvolle philosophische Texte gründlich zu 
+verstehen, historisch bewusst zu interpretieren, argumentativ zu rekonstruieren, kritisch zu 
+diskutieren und die zentralen Ideen und Argumente der Texte auf andere Zusammenhänge 
+zu übertragen. 
+(2) Die Studierenden besitzen einen Überblick über die Geschichte der Philosophie sowie 
+über Klassiker und zentrale Argumentationsweisen der Praktischen und der Theoretischen 
+Philosophie. 
+(3) Die Studierenden beherrschen die wissenschaftlichen Grundfähigkeiten der akademi-
+schen Philosophie und sind in der Lage, philosophische Essays und Hausarbeiten auf aka-
+demischem Niveau zu verfassen. 
+(4) Die Studierenden verfügen über die philosophischen Schlüsselkompetenzen der logi-
+schen Rekonstruktion, kritischen Argumentation, wohlwollenden Interpretation, intellektu-
+ellen Offenheit und Bereitschaft, scheinbar Selbstverständliches kritisch zu hinterfragen. 
+(5) Die Studierenden sind befähigt, ihre erworbenen Schlüsselkompetenzen beruflich nutz-
+bar zu machen und bei gutem Studienerfolg ein Masterstudium insbesondere der Philoso-
+phie aufzunehmen.  
+ 
+Im Rahmen des Bachelorstudiums Philosophie gibt es elf Module: In den ersten vier Basis-
+modulen werden grundlegende Überblicke über die zentralen Bereiche und Denkweisen 
+der Philosophie vermittelt und logische Grundkompetenzen geschult. In den nächsten drei 
+Basismodulen lernen Studierende grundlegende fachphilosophische Arbeitstechniken ken-
+nen und wenden die bisher erworbenen Kenntnisse aktiv an, indem sie eigene Essays und 
+erste Hausarbeiten verfassen. Studierende, die Philosophie als Bachelorfach studieren, ar-
+beiten sich anschließend im Rahmen von Aufbaumodulen in von ihnen gewählte philoso-
+phische Probleme gründlicher ein. Im Rahmen eines Abschlussmoduls erproben sie sich 
+schließlich als Forscher*innen und werden auf ihre Bachelorarbeiten vorbereitet.  
+Welche der im Folgenden beschriebenen elf Module man belegt, ergibt sich daraus, ob 
+Philosophie als Bachelorfach, als zweites Hauptfach oder als Nebenfach studiert wird (siehe 
+§52 Absatz 1 der Bachelorprüfungs- und Studienordnung für die Philosophischen Fakultä-
+ten der Universität Regensburg). 
+   
+3 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bereich   Modul   Bachelorfach   2.  Haupt- Nebenfach  
+fach  
+Überblick über phi- PHI-101 (8 LP)   X  X  2 von 4  
+losophische Denk- PHI-102 (8LP)    X   X  
+weisen   PHI-103 (8 LP)    X  X 
+PHI-104 (8 LP)    X  X 
+Grundkompetenzen  PHI-111 (8 LP)    X  X  X 
+für das selbststän- PHI-112 (10 LP)   X  X  1 von 2  
+dige Arbeiten   PHI-113  (10 LP)   X  X 
+Vertiefung   PHI-201(12 LP)   2 von 3    
+PHI-202 (12 LP)  
+PHI-203 (12 LP)  
+Abschluss   PHI-211 (6 LP)   X   
+  90 LP   60 LP   34 LP  
+ 
+ 
+LP = Leistungspunkte; 1 Leistungspunkt entspricht ca. 30 Arbeitsstunden  
+ 
+ 
+   
+4 
+ PHI-101 
+ 
+Basismodul Geschichte der Philosophie  
+1. Name des Moduls: 
+Philosophie / Prof. Dr. Rolf Schönberger  
+2. Fachgebiet / Verantwortlich: 
+Grundlegende Texte, Positionen und Begriffe der 
+3. Inhalte des Moduls: 
+philosophischen Ideengeschichte; verschiedene 
+Konzepte der Philosophiegeschichte (im Unter-
+schied zum Verhältnis anderer Fächer zu ihrer Ge-
+schichte) 
+  
+In diesem Basismodul lernen die Studierenden an-
+hand ausgewählter Werke aus Antike, Mittelalter 
+und Neuzeit klassische philosophische Problemstel-
+lungen („Was ist Denken?“, „Gibt es einen freien 
+Willen?“, „Warum ist überhaupt etwas und nicht 
+vielmehr nichts?“) und die Versuche ihrer Bewälti-
+gung zu rekonstruieren, analysieren und kritisie-
+ren. Im Ausgang hiervon entwickeln sie ein Ver-
+ständnis für Philosophien als Ganze (etwa: die kri-
+tische Philosophie Kants) und für unterschiedliche 
+Begriffe der Philosophie; problem- und begriffsge-
+schichtliche Transformationsprozesse; systemati-
+sche Alternativen zu philosophischen Gegenwarts-
+positionen; Wandlungen der Philosophie in ihrem 
+Einfluss auf andere Wissenschaften und kulturelle 
+Formen; Verständnis für die historische, kulturelle 
+und institutionelle Bedingtheit bzw. Eingebunden-
+heit philosophischer Gedanken und Debatten.  
+Fachkompetenzen:  
+4. Qualifikationsziele des Moduls / zu er-
+- Kenntnis grundlegender Texte und Positionen der 
+werbende Kompetenzen: 
+philosophischen Ideengeschichte  
+- Fähigkeit, basale ideengeschichtliche Zusammen-
+hänge zu überblicken  
+- Kenntnis von Denkweisen aus verschiedenen 
+Epochen  
+- Fähigkeit, Grundbegriffe und Grundgedanken aus 
+der Geschichte der Philosophie wiederzugeben 
+und auf einfache Fragestellungen anzuwenden  
+ 
+Schlüsselkompetenzen:  
+- Problembewusstsein  
+- Kontingenzbewusstsein  
+- Kommunikationsfähigkeiten  
+ 
+5. Teilnahmevoraussetzungen: 
+- 
+a) empfohlene Kenntnisse: 
+-  
+b) verpflichtende Nachweise: 
+B.A. Philosophie  
+6. Verwendbarkeit des Moduls: 
+Jedes Wintersemester  
+7. Angebotsturnus des Moduls: 
+1 Semester  
+8. Das Modul kann absolviert werden in: 
+5 
+ 1-4  
+9. Empfohlenes Fachsemester: 
+ 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+Gesamt in Stunden: 240 
+   (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit: ca. 4 SWS 
+2. Selbststudium (inkl. Prüfung): 180 Std. 
+ 
+Leistungspunkte: 8  
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind:   
+ 
+12. Modulbestandteile: 
+P / 
+Nr  Lehr- Themenbereich/Thema  SWS /  Studienleistungen  LP 
+W
+form  Std. 
+P 
+PHI- P  Vor- „Einführung in die Geschichte  2  -  4 
+101. lesung  der Philosophie“ mit anschlie-
+1  ßender Klausur  
+PHI- P  Übun „Einführung in die Geschichte  2-3  Kleine unbenotete Leistung wie  4 
+101. g   der Philosophie“    z.B. Protokoll, Referat, Multiple 
+2  Choice-Abfrage, regelmäßige 
+schriftliche Fragen oder regel-
+mäßige Übungsaufgaben 
+             
+             
+ 
+ 
+13. Modulprüfung 
+Art der Prü- Dauer  Zeitpunkt / Bemer- Anteil an 
+Nr  Kompetenz / Thema 
+fung  kungen  Modulnote 
+PHI- Erster Überblick über  Klausur in  75-90 Minuten   Am Ende der Vorle- 100% 
+101. die Geschichte der  PHI-101.1  sungszeit  
+1  Philosophie  
+14. Bemerkungen: Die beiden Modulbestandteile PHI-101.1 und PHI-101.2 sind in dem-
+selben Semester zu absolvieren. 
+ 
+ 
+   
+6 
+ PHI-102 
+ 
+Basismodul Praktische Philosophie  
+1. Name des Moduls: 
+Philosophie / Prof. Dr. Weyma Lübbe  
+2. Fachgebiet / Verantwortlich: 
+Grundlegende Begriffe, Probleme und Positionen 
+3. Inhalte des Moduls: 
+der Praktischen Philosophie, Methoden und Argu-
+mentationsstrategien in der Praktischen Philoso-
+phie  
+ 
+In diesem Basismodul lernen die Studierenden an-
+hand ausgewählter Problemstellungen unter-
+schiedliche Teilgebiete der Praktischen Philosophie 
+kennen. Dazu gehören die Entscheidungstheorie 
+(mit Fragen wie „Wann sind Entscheidungen ratio-
+nal?“), die Metaethik (mit Fragen wie „Gibt es eine 
+objektiv richtige Moral?“), die Normative Ethik (mit 
+Fragen wie „Was ist gerechtes Verteilen?“), die 
+Angewandte Ethik (mit Fragen wie „Ist die Präim-
+plantationsdiagnostik moralisch vertretbar?“), die 
+Politische Philosophie (mit Fragen wie „Was ist 
+legitime Herrschaft?“) und die Rechtsphilosophie 
+(mit Fragen wie „Muss man auch ungerechte Ge-
+setze befolgen?“).  
+Fachkompetenzen:  
+4. Qualifikationsziele des Moduls / zu er-
+- erster Überblick über die Gebiete der Praktischen 
+werbende Kompetenzen: 
+Philosophie  
+- Kenntnis grundlegender Positionen in der Prakti-
+schen Philosophie  
+- Kenntnis kritischer Argumentationen in der Prak-
+tischen Philosophie  
+- Fähigkeit, Grundbegriffe und Grundgedanken aus 
+der Praktischen Philosophie wiederzugeben und 
+auf einfache Fragestellungen anzuwenden  
+ 
+Schlüsselkompetenzen:  
+- Problembewusstsein  
+- Argumentationsfähigkeiten  
+- Kommunikationsfähigkeiten  
+ 
+5. Teilnahmevoraussetzungen: 
+- 
+a) empfohlene Kenntnisse: 
+-  
+b) verpflichtende Nachweise: 
+B.A. Philosophie 
+6. Verwendbarkeit des Moduls: 
+Jedes Sommersemester  
+7. Angebotsturnus des Moduls: 
+1 Semester  
+8. Das Modul kann absolviert werden in: 
+1-4 
+9. Empfohlenes Fachsemester  
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+Gesamt in Stunden: 240 
+   (Workload) / Anzahl Leistungspunkte: 
+davon: 
+7 
+ 1. Präsenzzeit: ca. 4 SWS 
+2. Selbststudium (inkl. Prüfung): 180 Std. 
+ 
+Leistungspunkte: 8  
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind:   
+12. Modulbestandteile: 
+P / 
+Nr  Lehr- Themenbereich/Thema  SWS /  Studienleistungen  LP 
+W
+form  Std. 
+P 
+PHI- P  Vorle- „Einführung in die Praktische  2  -  4 
+102. sung   Philosophie“ mit anschließender 
+1  Klausur 
+PHI- P  Übun „Einführung in die Praktische  2-3  Kleine unbenotete Leistung wie  4 
+102. g   Philosophie“   z.B. Protokoll, Referat, Multiple 
+2  Choice-Abfrage, regelmäßige 
+schriftliche Fragen oder regel-
+mäßige Übungsaufgaben  
+             
+             
+ 
+ 
+13. Modulprüfung 
+Art der Prü- Dauer  Zeitpunkt / Bemer- Anteil an 
+Nr  Kompetenz / Thema 
+fung  kungen  Modulnote 
+PHI- Erster Überblick über  Klausur in  75-90 Minuten   Am Ende der Vorle- 100% 
+102. die Praktische Philo- PHI-102.1  sungszeit  
+1  sophie  
+14. Bemerkungen: Die beiden Modulbestandteile PHI-102.1 und PHI-102.2 sind in dem-
+selben Semester zu absolvieren.  
+ 
+ 
+   
+8 
+ PHI-103 
+ 
+Basismodul Theoretische Philosophie  
+1. Name des Moduls: 
+Philosophie / Prof. Dr. Hans Rott  
+2. Fachgebiet / Verantwortlich: 
+Grundlegende Begriffe, Probleme und Grundle-
+3. Inhalte des Moduls: 
+gende Begriffe, Probleme und Positionen der Theo-
+retischen Philosophie, Methoden und Argumenta-
+tionsstrategien in der Theoretischen Philosophie  
+ 
+In diesem Basismodul lernen die Studierenden an-
+hand ausgewählter Problemstellungen unter-
+schiedliche Teilgebiete der Theoretischen Philoso-
+phie kennen. Dazu gehören die Metaphysik (mit 
+Fragen wie „Was sind die grundlegenden Baustei-
+ne der Wirklichkeit?“), die Erkenntnistheorie (mit 
+Fragen wie „Was ist Wissen und wie weit reicht 
+es?“), die Sprachphilosophie (mit Fragen wie „Wie 
+beziehen sich Eigennamen auf Gegenstände?“) 
+und die Philosophie des Geistes (mit Fragen wie 
+„Wie verhalten sich mentale und körperliche Zu-
+stände zueinander?“).  
+Fachkompetenzen:  
+4. Qualifikationsziele des Moduls / zu er-
+- basale Fähigkeit, die Gebiete der Theoretischen 
+werbende Kompetenzen: 
+Philosophie zu überblicken  
+- Kenntnis grundlegender Positionen in der Theore-
+tischen Philosophie  
+- Kenntnis kritischer Argumentationen in der Theo-
+retischen Philosophie  
+- Fähigkeit, Grundbegriffe und Grundgedanken aus 
+der Theoretischen Philosophie wiederzugeben und 
+auf einfache Fragestellungen anzuwenden  
+ 
+Schlüsselkompetenzen:  
+- Problembewusstsein  
+- Argumentationsfähigkeiten  
+- Kommunikationsfähigkeiten  
+ 
+5. Teilnahmevoraussetzungen: 
+- 
+a) empfohlene Kenntnisse: 
+- 
+b) verpflichtende Nachweise: 
+B.A. Philosophie  
+6. Verwendbarkeit des Moduls: 
+Jedes Wintersemester  
+7. Angebotsturnus des Moduls: 
+1 Semester  
+8. Das Modul kann absolviert werden in: 
+1-4   
+9. Empfohlenes Fachsemester: 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+Gesamt in Stunden: 240 
+   (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit: ca. 4 SWS 
+2. Selbststudium (inkl. Prüfung): 180 Std. 
+9 
+  
+Leistungspunkte: 8  
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+P 
+Nr  Lehr- Themenbereich/Thema  SWS /  Studienleistungen  LP 
+/ 
+form  Std. 
+W
+P 
+PHI- P  Vorle- „Einführung in die Theoretische  2  -  4 
+103. sung   Philosophie“ mit anschließender 
+1  Klausur  
+PHI- P  Übung   „Einführung in die Theoretische  2-3  Kleine unbenotete Leistung wie  4 
+103. Philosophie“    z.B. Protokoll, Referat, Multiple 
+2  Choice-Abfrage, regelmäßige 
+schriftliche Fragen oder regel-
+mäßige Übungsaufgaben  
+             
+             
+ 
+13. Modulprüfung 
+Art der Prü- Dauer  Zeitpunkt / Bemer- Anteil an 
+Nr  Kompetenz / Thema 
+fung  kungen  Modulnote 
+PHI- Erster Überblick über  Klausur in  75-90 Minuten  Am Ende der Vorle- 100% 
+103. die Theoretische Phi- PHI-103.1  sungszeit  
+1  losophie  
+14. Bemerkungen: Die beiden Modulbestandteile PHI-103.1 und PHI-103.2 sind in dem-
+selben Semester zu absolvieren.  
+ 
+ 
+   
+10 
+ PHI-104 
+ 
+Basismodul Logik  
+1. Name des Moduls: 
+Philosophie / Prof. Dr. Hans Rott  
+2. Fachgebiet / Verantwortlich: 
+Grundbegriffe der Logik (z.B. „Argument“, „logi-
+3. Inhalte des Moduls: 
+sche Gültigkeit“), Aussagen- und Prädikatenlogik 
+erster Stufe, Anwendungen der Logik  
+ 
+In diesem Basismodul lernen die Studierenden, die 
+„Sprache der Logik“ zu sprechen, wie man diese 
+Sprache benutzen kann, um alltägliche Sachverhal-
+te auf einfache und klare Weise zu modellieren, 
+und wie Logik helfen kann, argumentative Zu-
+sammenhänge zu erhellen und argumentative Feh-
+ler zu entlarven.  
+Fachkompetenzen:  
+4. Qualifikationsziele des Moduls / zu er-
+- Kenntnis grundlegender Begriffe der Logik (wie 
+werbende Kompetenzen: 
+„Argument“ und „logische Gültigkeit“)  
+- Fähigkeit zur logischen Rekonstruktion natür-
+lichsprachlicher Aussagen und argumentativer Zu-
+sammenhänge  
+- Fähigkeit, argumentative Fehler zu entlarven 
+- Fähigkeit zum Führen von Beweisen 
+ 
+Schlüsselkompetenzen:  
+- Sprachbewusstsein 
+- Analytisches Denken  
+- Argumentationsfähigkeiten  
+ 
+5. Teilnahmevoraussetzungen: 
+- 
+a) empfohlene Kenntnisse: 
+- 
+b) verpflichtende Nachweise: 
+B.A. Philosophie  
+6. Verwendbarkeit des Moduls: 
+Jedes Sommersemester  
+7. Angebotsturnus des Moduls: 
+1 Semester  
+8. Das Modul kann absolviert werden in: 
+3-4 
+9. Empfohlenes Fachsemester: 
+ 
+ 
+ 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+Gesamt in Stunden: 240 
+   (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit: ca. 4 SWS 
+2. Selbststudium (inkl. Prüfung): 180 Std. 
+ 
+Leistungspunkte: 8  
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind:   
+ 
+11 
+ 12. Modulbestandteile: 
+P 
+Nr  Lehr- Themenbereich/Thema  SWS /  Studienleistungen  LP 
+/ 
+form  Std. 
+W
+P 
+PHI- P  Vorle- „Einführung in die Logik“ mit  2  -  4 
+104. sung   anschließender Klausur 
+1 
+PHI- P  Übung   „Einführung in die Logik“    2-3  Kleine unbenotete Leistungen  4 
+104. wie z.B. regelmäßige Übungs-
+2  aufgaben 
+             
+             
+ 
+ 
+13. Modulprüfung 
+Art der Prü- Dauer  Zeitpunkt / Bemer- Anteil an 
+Nr  Kompetenz / Thema 
+fung  kungen  Modulnote 
+PHI- Grundlegende  Klausur in  75-90 Minuten  Am Ende der Vorle- 100%  
+104. Kenntnisse der Lo- PHI-104.1   sungszeit  
+1  gik 
+14. Bemerkungen: Die beiden Modulbestandteile PHI-104.1 und PHI-104.2 sind in dem-
+selben Semester zu absolvieren. Das erfolgreiche Absolvieren der Studienleistungen ist 
+Voraussetzung für die Zulassung zur Modulprüfung. 
+ 
+ 
+ 
+   
+12 
+ PHI-111 
+ 
+Basismodul Wissenschaftliches Arbeiten in der Phi-
+1. Name des Moduls: 
+losophie  
+Philosophie / Prof. Dr. Weyma Lübbe & Prof. Dr. 
+2. Fachgebiet / Verantwortlich: 
+Hans Rott & Prof. Dr. Rolf Schönberger 
+Grundlagen des wissenschaftlichen Arbeitens und 
+3. Inhalte des Moduls: 
+insbesondere des wissenschaftlichen Schreibens; 
+exemplarisches Thema der Philosophie (im Essay-
+kurs)  
+ 
+Im Kurs „Studientechniken“ erlernen die Studie-
+renden unter anderem, wie man eine wissenschaft-
+liche Bibliothek benutzt, wie man systematisch 
+Literatur recherchiert, wie man korrekt zitiert und 
+nicht plagiiert, welche grundlegenden Anforde-
+rungen beim Schreiben von Hausarbeiten zu be-
+achten sind und wie man elektronische Prüfungs-
+verwaltungssysteme verwendet. Im Essaykurs er-
+werben die Studierenden erste Kompetenzen da-
+rin, kurze Texte auf fachphilosophischem Niveau 
+zu verfassen.  
+Fachkompetenzen:  
+4. Qualifikationsziele des Moduls / zu er-
+- theoretische und praktische Kenntnis wissen-
+werbende Kompetenzen: 
+schaftlicher Arbeitsweisen in der Philosophie  
+- grundlegendes Verständnis davon, was einen 
+guten philosophischen Text ausmacht  
+- Fähigkeit, einen kurzen philosophischen Text (Es-
+say) zu schreiben  
+- grundlegende Fähigkeiten, eigenständig zu ar-
+gumentieren  
+  
+Schlüsselkompetenz:  
+- Wissenschaftliches Arbeiten  
+ 
+5. Teilnahmevoraussetzungen: 
+-  
+a) empfohlene Kenntnisse: 
+- 
+b) verpflichtende Nachweise: 
+B.A. Philosophie  
+6. Verwendbarkeit des Moduls: 
+Jedes Semester  
+7. Angebotsturnus des Moduls: 
+1-2 Semestern  
+8. Das Modul kann absolviert werden in: 
+1-2 
+9. Empfohlenes Fachsemester: 
+ 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+Gesamt in Stunden: 240 
+   (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit: ca. 4 SWS 
+2. Selbststudium (inkl. Prüfung): 180 Std. 
+ 
+Leistungspunkte: 8  
+13 
+  
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind:   
+ 
+12. Modulbestandteile: 
+P 
+Nr  Lehr- Themenbereich/Thema  SWS /  Studienleistungen  LP 
+/ 
+form  Std. 
+W
+P 
+PHI- P  Prose- „Studientechniken“   1  Kleine unbenotete Leistung wie  2 
+111. minar   z.B. Protokoll, Referat, Multiple 
+1  Choice-Abfrage, regelmäßige 
+schriftliche Fragen oder regel-
+mäßige Übungsaufgaben  
+PHI- P  Prose- Exemplarisches Thema aus der  2-3  -   6 
+111. minar  Geschichte der Philosophie oder 
+2  „Essay- der Praktischen Philosophie oder 
+kurs“   der Theoretischen Philosophie, 
+zu welchem 2 bis 3 Essays ver-
+fasst werden  
+             
+             
+ 
+ 
+13. Modulprüfung 
+Art der Prü- Dauer  Zeitpunkt / Bemer- Anteil an 
+Nr  Kompetenz / Thema 
+fung  kungen  Modulnote 
+PHI Grundkompetenzen  2-3 Essays,  -    Während oder nach  100%  
+- im wissenschaftli- mit zusam- der Vorlesungszeit  
+111 chen Schreiben in  men ca. 4000 
+.2  Wörtern, in 
+der Philosophie   
+PHI-111.2 
+14. Bemerkungen:  
+ 
+ 
+ 
+   
+14 
+ PHI-112 
+ 
+Basismodul Klassische Texte der Philosophie  
+1. Name des Moduls: 
+Philosophie / Prof. Dr. Weyma Lübbe & Prof. Dr. 
+2. Fachgebiet / Verantwortlich: 
+Hans Rott & Prof. Dr. Rolf Schönberger 
+Exemplarische Texte der philosophischen Ideenge-
+3. Inhalte des Moduls: 
+schichte  
+ 
+In diesem Modul verfestigen Studierende ihre Fä-
+higkeiten, mit schwierigeren Texten anderer Epo-
+chen interpretatorisch adäquat umzugehen.  
+Fachkompetenzen:  
+4. Qualifikationsziele des Moduls / zu er-
+- Kenntnisse ausgewählter klassischer Texte der 
+werbende Kompetenzen: 
+Philosophie  
+- grundlegende Fähigkeiten, mit schwierigeren 
+Texten anderer Epochen interpretatorisch adäquat 
+umzugehen  
+- Fähigkeit zum eigenständigen Verfassen philoso-
+phischer Texte (Hausarbeiten)  
+ 
+Schlüsselkompetenzen:  
+- Problembewusstsein  
+- Kontingenzbewusstsein  
+- Kommunikationsfähigkeiten  
+- Interpretationsfähigkeiten  
+ 
+5. Teilnahmevoraussetzungen: 
+Kenntnisse aus PHI-101 und PHI-111 
+a) empfohlene Kenntnisse: 
+-  
+b) verpflichtende Nachweise: 
+B.A. Philosophie  
+6. Verwendbarkeit des Moduls: 
+Jedes Semester  
+7. Angebotsturnus des Moduls: 
+2 Semestern  
+8. Das Modul kann absolviert werden in: 
+2-4  
+9. Empfohlenes Fachsemester: 
+ 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+Gesamt in Stunden: 300  
+   (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit: ca. 4 SWS 
+2. Selbststudium (inkl. Prüfung): 240 Std. 
+ 
+Leistungspunkte: 10  
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind:   
+ 
+12. Modulbestandteile: 
+P / 
+Nr  Lehr- Themenbereich/Thema  SWS /  Studienleistungen  LP 
+W
+form  Std. 
+P 
+15 
+ PHI- P  Pro- Exemplarisches Thema aus der  2-3  Kleine unbenotete Leistung wie  4 
+112. semi- Geschichte der Philosophie   z.B. Protokoll, Referat, Multiple 
+1  nar /  Choice-Abfrage, regelmäßige 
+Vorle- schriftliche Fragen oder regel-
+sung   mäßige Übungsaufgaben 
+PHI- P  Prose- Exemplarisches Thema aus der  2-3  Kleine unbenotete Leistung wie  6 
+112. minar   Geschichte der Philosophie mit  z.B. Protokoll, Referat, Multiple 
+2  anschließender Hausarbeit   Choice-Abfrage, regelmäßige 
+  schriftliche Fragen oder regel-
+mäßige Übungsaufgaben  
+             
+             
+ 
+13. Modulprüfung 
+Art der Prü- Dauer  Zeitpunkt / Bemer- Anteil an 
+Nr  Kompetenz / Thema 
+fung  kungen  Modulnote 
+PHI- Grundkompetenzen  Hausarbeit  -   Im Anschluss an die  100% 
+112. im Interpretieren  von ca. 4000  Vorlesungszeit  
+2  klassischer Texte   Wörtern, in 
+PHI-112.2 
+14. Bemerkungen:  
+ 
+ 
+ 
+   
+16 
+ PHI-113 
+ 
+Basismodul Debatten der Gegenwartsphilosophie  
+1. Name des Moduls: 
+Philosophie / Prof. Dr. Weyma Lübbe & Prof. Dr. 
+2. Fachgebiet / Verantwortlich: 
+Hans Rott & Prof. Dr. Rolf Schönberger 
+Exemplarische Debatten der Praktischen Philoso-
+3. Inhalte des Moduls: 
+phie und/oder der Theoretischen Philosophie  
+ 
+In diesem Modul verfestigen Studierende ihre Fä-
+higkeiten, mit schwierigeren Argumentationen in 
+der gegenwärtigen systematischen Philosophie 
+adäquat umzugehen.  
+Fachkompetenzen:  
+4. Qualifikationsziele des Moduls / zu er-
+- Kenntnisse ausgewählter Argumentationsweisen 
+werbende Kompetenzen: 
+in der aktuellen Philosophie  
+- grundlegende Fähigkeiten, mit schwierigeren 
+Argumentationen in gegenwärtigen Debatten ar-
+gumentativ adäquat umzugehen  
+- Fähigkeit zum eigenständigen Verfassen philoso-
+phischer Texte (Hausarbeiten)  
+ 
+Schlüsselkompetenzen:  
+- Problembewusstsein  
+- Kommunikationsfähigkeiten  
+- Argumentationsfähigkeiten  
+- Analytisches Denken  
+ 
+5. Teilnahmevoraussetzungen: 
+Kenntnisse aus PHI-111; zudem für Lehrveranstal-
+a) empfohlene Kenntnisse: 
+tungen der Praktischen Philosophie Kenntnisse aus 
+PHI-102; für Lehrveranstaltungen aus der Theoreti-
+schen Philosophie Kenntnisse aus PHI-103  
+- 
+b) verpflichtende Nachweise: 
+B.A. Philosophie 
+6. Verwendbarkeit des Moduls: 
+Jedes Semester  
+7. Angebotsturnus des Moduls: 
+2 Semestern  
+8. Das Modul kann absolviert werden in: 
+2-4  
+9. Empfohlenes Fachsemester: 
+ 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+Gesamt in Stunden: 300  
+   (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit: ca. 4 SWS 
+2. Selbststudium (inkl. Prüfung): 240 Std. 
+ 
+Leistungspunkte: 10  
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind:   
+ 
+17 
+ 12. Modulbestandteile: 
+P / 
+Nr  Lehr- Themenbereich/Thema  SWS /  Studienleistungen  LP 
+W
+form  Std. 
+P 
+PHI- P  Prose- Exemplarisches Thema aus  2-3  Kleine unbenotete Leistung wie  4 
+113. minar /  zeitgenössischen Debatten der  z.B. Protokoll, Referat, Multiple 
+1  Vorle- Praktischen Philosophie oder  Choice-Abfrage, regelmäßige 
+sung   der Theoretischen Philosophie   schriftliche Fragen oder regel-
+mäßige Übungsaufgaben  
+PHI- P  Prose- Exemplarisches Thema aus  2-3  Kleine unbenotete Leistung wie  6 
+113. minar   zeitgenössischen Debatten der  z.B. Protokoll, Referat, Multiple 
+2  Praktischen Philosophie oder  Choice-Abfrage, regelmäßige 
+der Theoretischen Philosophie,  schriftliche Fragen oder regel-
+mit anschließender Hausarbeit   mäßige Übungsaufgaben 
+             
+             
+ 
+ 
+13. Modulprüfung 
+Art der Prü- Dauer  Zeitpunkt / Bemer- Anteil an 
+Nr  Kompetenz / Thema 
+fung  kungen  Modulnote 
+PHI- Grundkompetenzen  Hausarbeit  -   Nach Ende der Vorle- 100% 
+113. im philosophischen  von ca. 4000  sungszeit  
+2  Argumentieren   Wörtern, in 
+PHI-113.2 
+14. Bemerkungen:  
+ 
+ 
+ 
+   
+18 
+ PHI-201 
+ 
+Aufbaumodul Geschichte der Philosophie  
+1. Name des Moduls: 
+Philosophie / Prof. Dr. Rolf Schönberger  
+2. Fachgebiet / Verantwortlich: 
+Exemplarische Texte und Traditionen der Geschich-
+3. Inhalte des Moduls: 
+te der Philosophie  
+ 
+In diesem Modul vertiefen Studierende ihr Wissen 
+und ihre Fähigkeiten in der Geschichte der Philo-
+sophie.  
+Fachkompetenzen:  
+4. Qualifikationsziele des Moduls / zu er-
+- Vertiefung und Verfestigung der Fähigkeiten, mit 
+werbende Kompetenzen: 
+schwierigen Texten fremder Epochen interpretato-
+risch adäquat umzugehen  
+- Vertiefung der Fähigkeit zum eigenständigen 
+Verfassen philosophischer Texte (Hausarbeiten)  
+- Vertiefte Kenntnisse ausgewählter Themen aus 
+der Geschichte der Philosophie  
+ 
+Schlüsselkompetenzen:  
+- Problembewusstsein  
+- Kontingenzbewusstsein  
+- Interpretationsfähigkeiten  
+- Kommunikationsfähigkeiten  
+- Problemlösungsfähigkeiten  
+ 
+5. Teilnahmevoraussetzungen: 
+- 
+a) empfohlene Kenntnisse: 
+PHI-101 und PHI-111 
+b) verpflichtende Nachweise: 
+B.A. Philosophie  
+6. Verwendbarkeit des Moduls: 
+Jedes Semester  
+7. Angebotsturnus des Moduls: 
+2 Semestern  
+8. Das Modul kann absolviert werden in: 
+4-6  
+9. Empfohlenes Fachsemester: 
+ 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+Gesamt in Stunden: 360  
+   (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit: ca. 4 SWS 
+2. Selbststudium (inkl. Prüfung): 300 Std. 
+ 
+Leistungspunkte: 12  
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind:   
+ 
+12. Modulbestandteile: 
+P / 
+Nr  Lehr- Themenbereich/Thema  SWS /  Studienleistungen  LP 
+WP 
+19 
+ form  Std. 
+PHI P  Haupt Exemplarisches Thema aus der  2-3  Kleine unbenotete Leistung wie  4 
+- semi- Geschichte der Philosophie   z.B. Protokoll, Referat, Multiple 
+20 nar /  Choice-Abfrage, regelmäßige 
+1.1  Vorle- schriftliche Fragen oder regel-
+sung   mäßige Übungsaufgaben 
+PHI P  Haupt Exemplarisches Thema aus der  2-3  Kleine unbenotete Leistung wie  8 
+- semi- Geschichte der Philosophie, mit  z.B. Protokoll, Referat, Multiple 
+20 nar   anschließender Hausarbeit   Choice-Abfrage, regelmäßige 
+1.2  schriftliche Fragen oder regel-
+mäßige Übungsaufgaben 
+             
+             
+ 
+ 
+13. Modulprüfung 
+Art der Prü- Dauer  Zeitpunkt / Bemer- Anteil an 
+Nr  Kompetenz / Thema 
+fung  kungen  Modulnote 
+PH Vertiefte Kompetenzen  Hausarbeit  -   Nach Ende der Vorle- 100%  
+I- im Interpretieren klassi- von ca. 6000  sungszeit  
+20 schen Texte   Wörtern, in 
+1.2  PHI-201.2  
+14. Bemerkungen:  
+ 
+ 
+ 
+   
+20 
+ PHI-202 
+ 
+Aufbaumodul Praktische Philosophie  
+1. Name des Moduls: 
+Philosophie / Prof. Dr. Weyma Lübbe  
+2. Fachgebiet / Verantwortlich: 
+Exemplarische Probleme und Positionen der Prakti-
+3. Inhalte des Moduls: 
+schen Philosophie  
+ 
+In diesem Modul vertiefen Studierende ihr Wissen 
+und ihre Fähigkeiten in der Praktischen  Philoso-
+phie. 
+Fachkompetenzen:  
+4. Qualifikationsziele des Moduls / zu er-
+- Vertiefte Kenntnisse ausgewählter Themen aus 
+werbende Kompetenzen: 
+der Praktischen Philosophie  
+- Vertiefung und Verfestigung der Fähigkeiten, mit 
+schwierigen Argumentationen in der Praktischen 
+Philosophie argumentativ adäquat umzugehen  
+- Vertiefung der Fähigkeit zum eigenständigen 
+Verfassen philosophischer Texte (Hausarbeiten)  
+ 
+Schlüsselkompetenzen:  
+- Problembewusstsein  
+- Argumentationsfähigkeiten  
+- Analytisches Denken  
+- Kommunikationsfähigkeiten  
+- Problemlösungsfähigkeiten  
+ 
+5. Teilnahmevoraussetzungen: 
+- 
+a) empfohlene Kenntnisse: 
+PHI-102 und PHI-111  
+b) verpflichtende Nachweise: 
+B.A. Philosophie  
+6. Verwendbarkeit des Moduls: 
+Jedes Semester  
+7. Angebotsturnus des Moduls: 
+2 Semestern  
+8. Das Modul kann absolviert werden in: 
+4-6 
+9. Empfohlenes Fachsemester: 
+ 
+ 
+ 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+Gesamt in Stunden: 360  
+   (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit: ca. 4 SWS 
+2. Selbststudium (inkl. Prüfung): 300 Std. 
+ 
+Leistungspunkte: 12  
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind:   
+ 
+12. Modulbestandteile: 
+P / 
+Nr  Lehr- Themenbereich/Thema  SWS /  Studienleistungen  LP 
+W
+21 
+ P  form  Std. 
+PHI P  Haupt- Exemplarisches Thema aus der  2-3  Kleine unbenotete Leistung wie  4 
+- seminar  Praktischen Philosophie   z.B. Protokoll, Referat, Multiple 
+20 / Vorle- Choice-Abfrage, regelmäßige 
+2.1  sung   schriftliche Fragen oder regel-
+mäßige Übungsaufgaben 
+PHI P  Haupt- Exemplarisches Thema aus der  2-3  Kleine unbenotete Leistung wie  8 
+- seminar  Praktischen Philosophie, mit an- z.B. Protokoll, Referat, Multiple 
+20 schließender Hausarbeit   Choice-Abfrage, regelmäßige 
+2.2  schriftliche Fragen oder regel-
+mäßige Übungsaufgaben 
+             
+             
+ 
+ 
+13. Modulprüfung 
+Art der Prü- Dauer  Zeitpunkt / Bemer- Anteil an 
+Nr  Kompetenz / Thema 
+fung  kungen  Modulnote 
+PH Vertiefte Kompetenzen  Hausarbeit  -  Nach Ende der Vorle- 100% 
+I- im Argumentieren in  von ca. 6000  sungszeit 
+20 der Praktischen Philoso- Wörtern, in 
+2.2  phie   PHI-202.2  
+14. Bemerkungen:  
+ 
+ 
+   
+22 
+ PHI-203 
+ 
+Aufbaumodul Theoretische Philosophie  
+1. Name des Moduls: 
+Philosophie / Prof. Dr. Hans Rott  
+2. Fachgebiet / Verantwortlich: 
+Exemplarische Probleme und Positionen der Theo-
+3. Inhalte des Moduls: 
+retischen Philosophie  
+ 
+In diesem Modul vertiefen Studierende ihr Wissen 
+und ihre Fähigkeiten in der Theoretischen Philoso-
+phie.  
+Fachkompetenzen:  
+4. Qualifikationsziele des Moduls / zu er-
+- Vertiefung und Verfestigung der Fähigkeiten, mit 
+werbende Kompetenzen: 
+schwierigen Argumentationen in gegenwärtigen 
+Debatten in der Theoretischen Philosophie argu-
+mentativ adäquat umzugehen  
+- Vertiefung der Fähigkeit zum eigenständigen 
+Verfassen philosophischer Texte (Hausarbeiten)  
+- Vertiefte Kenntnisse ausgewählter Themen aus 
+der Theoretischen Philosophie  
+ 
+Schlüsselkompetenzen:  
+- Problembewusstsein  
+- Argumentationsfähigkeiten  
+- Analytisches Denken  
+- Kommunikationsfähigkeiten  
+- Problemlösungsfähigkeiten  
+ 
+5. Teilnahmevoraussetzungen: 
+- 
+a) empfohlene Kenntnisse: 
+PHI-103 und PHI-111  
+b) verpflichtende Nachweise: 
+B.A. Philosophie  
+6. Verwendbarkeit des Moduls: 
+Jedes Semester  
+7. Angebotsturnus des Moduls: 
+2 Semestern  
+8. Das Modul kann absolviert werden in: 
+4-6  
+9. Empfohlenes Fachsemester: 
+ 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+Gesamt in Stunden: 360  
+   (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit: ca. 4 SWS 
+2. Selbststudium (inkl. Prüfung): 300 Std. 
+ 
+Leistungspunkte: 12  
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind:   
+ 
+12. Modulbestandteile: 
+23 
+ P / 
+Nr  Lehr- Themenbereich/Thema  SWS /  Studienleistungen  LP 
+W
+form  Std. 
+P 
+PHI- P  Haupt Exemplarisches Thema aus der  2-3  Kleine unbenotete Leistung wie  4 
+203. semi- Theoretischen Philosophie  z.B. Protokoll, Referat, Multiple 
+1  nar /  Choice-Abfrage, regelmäßige 
+Vorle- schriftliche Fragen oder regel-
+sung   mäßige Übungsaufgaben 
+PHI- P  Haupt Exemplarisches Thema aus der  2-3  Kleine unbenotete Leistung wie  8 
+203. semi- Theoretischen Philosophie, mit  z.B. Protokoll, Referat, Multiple 
+2  nar   anschließender Hausarbeit   Choice-Abfrage, regelmäßige 
+schriftliche Fragen oder regel-
+mäßige Übungsaufgaben 
+             
+             
+ 
+ 
+13. Modulprüfung 
+Art der Prü- Dauer  Zeitpunkt / Bemer- Anteil an 
+Nr  Kompetenz / Thema 
+fung  kungen  Modulnote 
+PHI- Vertiefte Kompeten- Hausarbeit  -  Nach Ende der Vorle- 100%  
+203. zen im Argumentie- von ca. 6000  sungszeit 
+2  ren in der Theoreti- Wörtern, in 
+schen Philosophie  PHI-203.2  
+14. Bemerkungen:  
+ 
+   
+24 
+ PHI-211 
+ 
+Abschlussmodul B.A. Philosophie  
+1. Name des Moduls: 
+Philosophie / Prof. Dr. Weyma Lübbe & Prof. Dr. 
+2. Fachgebiet / Verantwortlich: 
+Hans Rott & Prof. Dr. Rolf Schönberger  
+Aktuelle Themen der Forschung in der Geschichte 
+3. Inhalte des Moduls: 
+der Philosophie, der Praktischen Philosophie oder 
+der Theoretischen Philosophie  
+ 
+In diesem Modul nehmen Studierende an einem 
+Oberseminar teil, in dem auf fortgeschrittenem 
+Niveau aktuelle Themen der Philosophie diskutiert 
+werden. Dabei erhalten die Studierenden Gelegen-
+heit, erste Entwürfe ihrer Bachelorarbeiten zu prä-
+sentieren und Feedback zu erhalten.   
+Fachkompetenzen:  
+4. Qualifikationsziele des Moduls / zu er-
+- Fähigkeit, den aktuellen Forschungsstand eines 
+werbende Kompetenzen: 
+ausgewählten Themas der Philosophie zu erarbei-
+ten  
+- Fähigkeiten zur Formulierung und Durchführung 
+eines eigenständigen Abschlussprojekts  
+ 
+Schlüsselkompetenz:  
+- Problembewusstsein  
+- Kontingenzbewusstsein  
+- Interpretationsfähigkeiten  
+- Argumentationsfähigkeiten  
+- Analytisches Denken  
+- Kommunikationsfähigkeiten  
+- Problemlösungsfähigkeiten  
+ 
+5. Teilnahmevoraussetzungen: 
+- 
+a) empfohlene Kenntnisse: 
+PHI-101, PHI-102, PHI-103, PHI-104, PHI-111, PHI-
+b) verpflichtende Nachweise: 
+112 und PHI-113  
+B.A. Philosophie  
+6. Verwendbarkeit des Moduls: 
+Jedes Semester  
+7. Angebotsturnus des Moduls: 
+1 Semester  
+8. Das Modul kann absolviert werden in: 
+6  
+9. Empfohlenes Fachsemester: 
+ 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+Gesamt in Stunden: 180  
+   (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit: ca. 2 SWS 
+2. Selbststudium (inkl. Prüfung): 150 Std. 
+ 
+Leistungspunkte: 6 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind:   
+25 
+  
+12. Modulbestandteile: 
+P / 
+Nr  Lehr- Themenbereich/Thema  SWS /  Studienleistungen  LP 
+WP 
+form  Std. 
+PHI P  Ober- Forschungsthemen in der Ge- 2-3  Präsentation eigener oder  6 
+- seminar   schichte der Philosophie oder  fremder Texte, die für die eige-
+21 der Praktischen Philosophie  ne Bachelorarbeit relevant sind; 
+1.1  oder der Theoretischen Philo- kleine unbenotete Leistung wie 
+sophie, wobei anschließend  z.B. Protokoll, Referat, Multiple 
+ein (unbenotetes) Forschungs- Choice-Abfrage, regelmäßige 
+exposé verfasst wird   schriftliche Fragen oder regel-
+mäßige Übungsaufgaben 
+ 
+             
+             
+             
+ 
+ 
+13. Modulprüfung 
+Art der Prü- Dauer  Zeitpunkt / Bemer- Anteil an 
+Nr  Kompetenz / Thema 
+fung  kungen  Modulnote 
+PHI- Erarbeitung des For- (unbenotetes)  -   Nach Ende der Vorle- bestanden/ 
+211. schungsstandes eines  Forschungs- sungszeit   nicht bestan-
+1  Themas und Vorberei- exposé von  den 
+tung eines eigenen  ca. 3000 Wör-
+Abschlussprojekts   tern, in PHI-
+211.1 
+14. Bemerkungen: Das Oberseminar sollte bei der Person belegt werden, bei der man seine Ba-
+chelorarbeit schreibt. Dabei sollte beachtet werden, dass nicht notwendigerweise jede*r Profes-
+sor*in in jedem Semester ein Oberseminar anbietet.  
+ 
+ 
+26 
+ 

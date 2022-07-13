@@ -1,0 +1,1552 @@
+input_dictionary = Modulkatalog der Fakultät für Wirtschaftswissenschaften für den
+Studiengang B.Sc. Internationale Volkswirtschaftslehre (PO 2021)
+Wintersemester 2022/23
+(23.06.2022)
+1. Pflichtmodulgruppe: Allgemeine Grundlagen für Studierende der iVWL
+ECTS: 36; Modulgruppenverantwortliche*r: Dr. Norbert Meckl
+Modulkennung Modulname P/WP/W SWS G Seite
+SP-BSc-M01 Sprachmodul(e) aus dem Angebot für Pflicht 6
+ 
+Slavistik oder des ZSK
+BWL-BSc-AG-M02 Grundzüge des Privatrechts Pflicht 2V+2Ü 6 4
+BWL-BSc-GL-M01 Buchhaltung Pflicht 2V+2Ü 6 6
+BWL-BSc-GL-M02 Externe Unternehmensberichterstattung I Pflicht 2V+2Ü 6 8
+BWL-BSc-GL-M03 Finanzierung Pflicht 2V+2Ü 6 10
+BWL-BSc-GL-M04 Investitionsentscheidungen Pflicht 2V+2Ü 6 12
+2. Pflichtmodulgruppe: Quantitative Grundlagen für Studierende der IVWL (MOE)
+ECTS: 18; Modulgruppenverantwortliche*r: Prof. Dr. Daniel Rösch
+Modulkennung Modulname P/WP/W SWS G Seite
+WiWi-BSc-Q01 Mathematik Pflicht 2V+2Ü 6 15
+WiWi-BSc-Q02 Statistik 1 für Wirtschaftswissenschaften Pflicht 2V+2Ü 6 17
+WiWi-BSc-Q03 Statistik 2 für Wirtschaftswissenschaften Pflicht 2V+2Ü 6 19
+3. Pflichtmodulgruppe: Grundlagen der VWL für Studierende der iVWL
+ECTS: 36; Modulgruppenverantwortliche*r: Prof. Dr. Jürgen Jerger
+Modulkennung Modulname P/WP/W SWS G Seite
+VWL-BSc-GL-M01 Makroökonomik 1 Pflicht 2V+2Ü 6 22
+VWL-BSc-GL-M02 Makroökonomik 2 Pflicht 2V+2Ü 6 24
+VWL-BSc-GL-M03 Mikroökonomik 1 Pflicht 2V+2Ü 6 26
+VWL-BSc-GL-M04 Mikroökonomik 2 Pflicht 2V+2Ü 6 28
+VWL-BSc-GL-M05 Einführung in die Ökonometrie Pflicht 2V+2Ü 6 30
+VWL-BSc-GL-M06 Methoden der Volkswirtschaftslehre Pflicht 2V+2Ü 6 32
+4.  Pflichtmodulgruppe Internationale VWL
+ECTS: 30; Modulgruppenverantwortliche*r: Prof. Dr. Jürgen Jerger
+Modulkennung Modulname P/WP/W SWS G Seite
+VWL-BSc-AE-M01 Außenhandelstheorie und -politik Pflicht 2V+2Ü 6 35
+VWL-BSc-AE-S01 Seminar aus dem Themenbereich Pflicht 1V+5Ü 6 37
+Außenwirtschaft und Entwicklungsökonomik
+VWL-BSc-AE-M02 International Finance Pflicht 2V+2Ü 6 39
+VWL-BSc-AE-M03 Entwicklungsökonomik Pflicht 2V+2Ü 6 41
+6 ECTS aus dem folgenden Angebot müssen erbracht werden:
+ 
+VWL-BSc-WBMO-M01 Wirtschaftsbeziehungen zu den Mittel- und Wahlpflicht 2V+2Ü 6 43
+Osteuropäischen Staaten
+VWL-BSc-IROEK-M02 Regionalökonomie I Wahlpflicht 2V+2Ü 6 45
+5.  Schwerpunktmodulgruppe für Studierende der iVWL
+ECTS: 30; Modulgruppenverantwortliche*r: Prof. Dr. Jürgen Jerger
+Modulkennung Modulname P/WP/W SWS G Seite
+In der Schwerpunktmodulgruppe MOE müssen 30 ECTS-Kreditpunkte erbracht werden, diese sind in einem der
+ 
+drei folgenden Lehrangebote anderer Fakultäten zu erbringen. Eine Mischung von Modulen aus diesen drei
+Bereichen ist nicht zulässig.
+1iVWL-BSc-SP02 Rechtswissenschaft mit Ausrichtung auf Wahlpflicht 30
+ 
+Mittel- und Osteuropa
+iVWL-BSc-SP03 Politikwissenschaft mit Ausrichtung auf Wahlpflicht 30
+ 
+Mittel- und Osteuropa
+iVWL-BSc-SP04 Geschichte und Kulturwissenschaft mit Wahlpflicht 30
+ 
+Ausrichtung auf Mittel- und Osteuropa
+6.  Wahlmodulgruppe für Studierende der iVWL
+ECTS: 18; Modulgruppenverantwortliche*r: Prof. Dr. Jürgen Jerger
+Modulkennung Modulname P/WP/W SWS G Seite
+iVWL-BSc-WM01 Praktikum Wahl max. 6
+ 
+iVWL-BSc-WM02 Aus dem Studienangebot der Fakultät für Wahl max. 18
+ 
+Wirtschaftswissenschaften
+iVWL-BSc-WM03 Mit wirtschaftswissenschaftlichem Inhalt aus Wahl max. 18
+ 
+einem Auslandsemester / Auslandjahr (auf
+Antrag)
+iVWL-BSc-WM04 Mit wirtschaftswissenschaftlichem Inhalt von Wahl max. 18
+ 
+anderen Hochschulen im Falle eines
+Studienortswechsels (auf Antrag)
+7.  Forschungsmodulgruppe für Studierende der iVWL
+ECTS: 12; Modulgruppenverantwortliche*r: Prof. Dr. Jürgen Jerger
+Modulkennung Modulname P/WP/W SWS G Seite
+iVWL-BSc-F01 Bachelorarbeit IVWL Pflicht 10 50
+IVWL-BSc-F02 Einführung in wissenschaftliches Arbeiten Pflicht 1V+5Ü 2 51
+IVWL
+2Beschreibung aller Module der Fakultät für Wirtschaftswissenschaften –
+B.Sc. Internationale Volkswirtschaftslehre (PO 2021)
+1. Pflichtmodulgruppe: Allgemeine Grundlagen für Studierende der iVWL
+Qualifikationsziele der Modulgruppe:
+Nach  Abschluss  der  Modulgruppe  haben  die  Studierenden  die  Fähigkeit  erlangt,  juristische  Denkweisen
+nachzuvollziehen und die grundlegend rechtlichen Konzepte verstanden, die für Unternehmer im BGB und HGB
+von Bedeutung sind. Den Studierenden werden die Basisdisziplinen der Betriebswirtschaftslehre vermittelt. Es
+können  Qualifikationen  in  den  Bereichen  Buchhaltung  (Verbuchung  von  Geschäftsvorfällen),
+Unternehmensberichterstattung (gesetzeskonforme Erfassung von Geschäftsvorfällen im Jahresabschluss sowie im
+Lagebericht  nach  HGB,  Beurteilung  und  Gestaltung  von  Maßnahmen  im  Rahmen  der  Bilanzpolitik),
+Investitionsentscheidungen (dynamischen Verfahren der Barwert-, End- und Kapitalwertberechnung, vollständige
+Finanzpläne) und Finanzierung (Bewertung von Fremd- und Eigenkapitalfinanzierungsformen) erworben werden.
+Neben der wirtschaftlichen Kompetenz wird auch Sprachkompetenz in mittel- oder osteuropäischen Sprachen
+vermittelt.
+Alle Module müssen belegt werden.
+ECTS: 36; Modulgruppenverantwortliche*r: Dr. Norbert Meckl
+Modulkennung Modulname P/WP/W SWS G
+SP-BSc-M01 Sprachmodul(e) aus dem Angebot für Slavistik Pflicht 6
+oder des ZSK
+BWL-BSc-AG-M02 Grundzüge des Privatrechts Pflicht 2V+2Ü 6
+BWL-BSc-GL-M01 Buchhaltung Pflicht 2V+2Ü 6
+BWL-BSc-GL-M02 Externe Unternehmensberichterstattung I Pflicht 2V+2Ü 6
+BWL-BSc-GL-M03 Finanzierung Pflicht 2V+2Ü 6
+BWL-BSc-GL-M04 Investitionsentscheidungen Pflicht 2V+2Ü 6
+3Modul BWL-BSc-AG-M02
+1. Name des Moduls: Grundzüge des Privatrechts
+2. Fachgebiet / Verantwortlich: Dr. Peter Gril
+3. Inhalte des Moduls: 1. Grundzüge der ersten drei Bücher des BGB (= Allgemeiner
+Teil; Recht der Schuldverhältnisse; Sachenrecht)
+2. Grundzüge des Handels- und Gesellschaftsrechts
+4. Qualifikationsziele des Moduls / zu Nach  Abschluss  dieses  Moduls  haben  die  Studierenden
+erwerbende Kompetenzen: diejenigen  systematischen  Kenntnisse  über  Rechtsbegriffe
+und  Normzusammenhänge  vermittelt  bekommen,  die
+erforderlich sind, um rechtliche Probleme erkennen und im
+Gedankenaustausch mit Juristen lösen zu können. Um die
+Anwendung  und  Wirkungsweise  von  Rechtsnormen  zu
+verstehen,  wurde  die  juristische  Argumentationstechnik
+anhand zahlreicher Fallbeispiele ausführlich geübt.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc BWL (PO2021), PMG "Allgemeine Grundlagen für
+Studierende der BWL"
+BSc Immo (PO2021), PMG "Allgemeine Grundlagen für
+Studierende der Immobilienwirtschaft"
+BSc VWL (PO2021), PMG "Allgemeine Grundlagen für
+Studierende der VWL"
+BSc IVWL (PO2021), PMG "Allgemeine Grundlagen für
+Studierende der iVWL"
+BSc WInfo (PO2021), PMG "Allgemeine Grundlagen für
+Studierende der Wirtschaftsinformatik"
+7. Angebotsturnus des Moduls: jedes Semester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 3. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Std.)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Grundzüge des Privatrechts 2
+2 P Übung Grundzüge des Privatrechts 2
+413. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Grundzüge des Privatrechts Klausur 120 Prüfungszeitraum: 100
+erste bis vierte
+Woche nach
+Vorlesungsende
+5Modul BWL-BSc-GL-M01
+1. Name des Moduls: Buchhaltung
+2. Fachgebiet / Verantwortlich: Dr. Daniel Blab
+3. Inhalte des Moduls: -  Aufbau  und  Funktionsweise  des  betrieblichen
+Rechnungswesens
+- Rechtliche Grundlagen
+- Inventur und Inventar
+- Organisation der Bücher
+- Kontensystematik
+-  Buchungstechnik  anhand  verschiedener,  betrieblicher
+Sachverhalte
+- Vorbereitung des Jahresabschlusses
+4. Qualifikationsziele des Moduls / zu Nach dem erfolgreichen Abschluss des Moduls haben die
+erwerbende Kompetenzen: Studierenden  grundlegende  Kenntnisse  des  betrieblichen
+Rechnungswesens, insbesondere der Buchhaltung, erfahren.
+Sie  sind  in  der  Lage,  unterschiedliche  betriebliche
+Sachverhalte auf den entsprechenden Konten zu verbuchen.
+Die Studierenden können die Auswirkungen der erfassten
+Sachverhalte auf die Vermögens-, Finanz- und Ertragslage
+eines Unternehmens einschätzen. Außerdem wissen sie, wie
+auf Basis der Buchhaltung grundsätzlich ein Jahresabschluss
+zu erstellen ist.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc BWL (PO2021), PMG "Grundlagen der BWL für
+Studierende der BWL"
+BSc Immo (PO2021), PMG "Grundlagen der BWL für
+Studierende der Immobilienwirtschaft"
+BSc VWL (PO2021), PMG "Allgemeine Grundlagen für
+Studierende der VWL"
+BSc IVWL (PO2021), PMG "Allgemeine Grundlagen für
+Studierende der iVWL"
+BSc WInfo (PO2021), PMG "Allgemeine Grundlagen für
+Studierende der Wirtschaftsinformatik"
+7. Angebotsturnus des Moduls: im Turnus Wintersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 1. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Std.)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+611. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Buchhaltung 2
+2 P Übung Buchhaltung 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Buchhaltung Klausur 90 Prüfungszeitraum: 100
+Minuten erste bis vierte
+Woche nach
+Vorlesungsende
+14. Bemerkungen:
+Bei einem geplanten Auslandsaufenthalt ist eine potenzielle Modulanrechnung mit dem Prüfer oder der Prüferin
+im Vorfeld abzuklären.
+7Modul BWL-BSc-GL-M02
+1. Name des Moduls: Externe Unternehmensberichterstattung I
+2. Fachgebiet / Verantwortlich: Prof. Dr. Axel Haller
+3. Inhalte des Moduls: Im  Rahmen  des  Moduls  werden  den  Studierenden  im
+Wesentlichen  die  Grundlagen  des  Jahresabschlusses  nach
+deutschem Handelsrecht (HGB) vermittelt.
+Zentrale Inhalte sind:
+- Ziele der externen Unternehmensrechnung
+- Aufbau des Jahresabschlusses und Lageberichts
+- Regeln zu Bilanzansatz, -ausweis und bewertung
+- Wahlrechte bei der Bilanzierung
+- Grundlagen des steuerrechtlichen Abschlusses
+- Prüfungs- und Publizitätspflichten von Unternehmen
+- Grundzüge der Konzernrechnungslegung
+- Grundzüge der internationalen Rechnungslegung
+4. Qualifikationsziele des Moduls / zu Nach  dem  erfolgreichen  Abschluss  des  Moduls  sind  die
+erwerbende Kompetenzen: Studierenden in der Lage, Geschäftsvorfälle zu bilanzieren,
+deren  Auswirkungen  auf  die  Bilanz,  die  Gewinn-  und
+Verlustrechnung,  den  Anhang  und  den  Lagebericht  zu
+beurteilen  und  sachverhaltsgestaltende  Maßnahmen  im
+Rahmen der Bilanzpolitik vorzuschlagen. Ergänzend haben
+die  Studierenden  Kenntnisse  über  die  Grundlagen  der
+Konzernberichterstattung und Vorschriften zu Publizität und
+Prüfung  von  Jahresabschlüssen  erworben.  Des  Weiteren
+können  die  Studierenden  die  Notwendigkeit  der
+Internationalisierung  der  Rechnungslegung  (International
+Financial  Reporting  Standards,  IFRS)  abschätzen,  da  sie
+Einblicke in deren momentane Ausgestaltung in Grundzügen
+erhalten haben.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: BWL-BSc-GL-M01 Buchhaltung
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc BWL (PO2021), PMG "Grundlagen der BWL für
+Studierende der BWL"
+BSc Immo (PO2021), PMG "Grundlagen der BWL für
+Studierende der Immobilienwirtschaft"
+BSc VWL (PO2021), PMG "Allgemeine Grundlagen für
+Studierende der VWL"
+BSc IVWL (PO2021), PMG "Allgemeine Grundlagen für
+Studierende der iVWL"
+BSc WInfo (PO2021), PMG "Allgemeine Grundlagen für
+Studierende der Wirtschaftsinformatik"
+7. Angebotsturnus des Moduls: im Turnus Sommersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 2. Fachsemester
+810. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Std.)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Externe 2
+Unternehmensberichterstattung I
+2 P Übung Externe 2
+Unternehmensberichterstattung I
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Externe Unternehmensbericht Klausur 90 Prüfungszeitraum: 100
+erstattung I Minuten erste bis vierte
+Woche nach
+Vorlesungsende
+14. Bemerkungen:
+Bei einem geplanten Auslandsaufenthalt ist eine potenzielle Modulanrechnung mit dem Prüfer oder der Prüferin
+im Vorfeld abzuklären.
+9Modul BWL-BSc-GL-M03
+1. Name des Moduls: Finanzierung
+2. Fachgebiet / Verantwortlich: Prof. Dr. Gregor Dorfleitner
+3. Inhalte des Moduls: - Grundlagen der Finanzwirtschaft
+- Modelle in der Finanzwirtschaft
+- Elementare Finanzmathematik
+- Investitionsrechnung
+- Finanzierung
+- Finanzinstitutionen
+- Derivative Wertpapiere
+4. Qualifikationsziele des Moduls / zu Nach erfolgreicher Beendigung dieses Moduls können die
+erwerbende Kompetenzen: Studierenden  die  Grundbegriffe  der  Finanzierung,
+insbesondere  die  verschiedenen  Finanzierungsformen,
+benennen  und  definieren.  Sie  können  die  wesentlichen
+theoretischen  Konzepte  der  Finanzierungslehre  wie  das
+Kapitalwertprinzip wiedergeben. Sie können den Kapitalwert
+berechnen und verschiedene Finanzinstrumente in einfachen
+Anwendungssituationen bewerten. Die Studierenden können
+finanzwirtschaftliche Basisprobleme der Betriebswirtschaft in
+stilisierter  Form  lösen,  also  die  wesentlichen
+betriebswirtschaftlichen Entscheidungen in den Teilbereichen
+wie Investition und Finanzierung vornehmen. Dazu gehören
+etwa  Entscheidungen  für  oder  gegen  die  Durchführung
+möglicher Projekte.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc BWL (PO2021), PMG "Grundlagen der BWL für
+Studierende der BWL"
+BSc Immo (PO2021), PMG "Grundlagen der BWL für
+Studierende der Immobilienwirtschaft"
+BSc VWL (PO2021), PMG "Allgemeine Grundlagen für
+Studierende der VWL"
+BSc IVWL (PO2021), PMG "Allgemeine Grundlagen für
+Studierende der iVWL"
+BSc WInfo (PO2021), PMG "Allgemeine Grundlagen für
+Studierende der Wirtschaftsinformatik"
+7. Angebotsturnus des Moduls: im Turnus Wintersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 3. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Std.)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+1011. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Finanzierung 2
+2 P Übung Finanzierung 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Finanzierung Klausur 90 Prüfungszeitraum. 100
+erste bis vierte
+Woche nach
+Vorlesungsende
+14. Bemerkungen:
+-  Die  Wiederholungsprüfung  ist  grundsätzlich  nicht  für  Erstschreiber  offen  (Ausnahmen:  Krankheit  und
+Auslandsaufenthalt).
+- Bei einem geplanten Auslandsaufenthalt ist eine potentielle Modulanrechnung mit der Lehrperson im Vorfeld
+abzuklären.
+11Modul BWL-BSc-GL-M04
+1. Name des Moduls: Investitionsentscheidungen
+2. Fachgebiet / Verantwortlich: Prof. Dr. Klaus Röder
+3. Inhalte des Moduls: - Darstellung von Zahlungsreihen anhand eines Zeitstrahls
+und Ermittlung des Zeitwerts des Geldes
+- Determinanten von Zinssätzen
+- Bewertung von Anleihen
+- Investitionsentscheidungen
+- Grundlagen der Investitionsplanung
+- Bewertung von Aktien
+4. Qualifikationsziele des Moduls / zu Nach dem erfolgreichen Abschluss des Moduls haben die
+erwerbende Kompetenzen: Studierenden  grundlegende  Kenntnisse  der
+Investitionsplanung, insbesondere der Entscheidungsfindung
+bei  Investitionen,  erfahren.  Sie  sind  in  der  Lage,
+unterschiedliche betriebliche Sachverhalte mit den relevanten
+Methoden  zu  lösen.  Die  Studierenden  können  die
+Auswirkungen  der  erfassten  Sachverhalte  auf  die
+Vermögens-, Finanz- und Ertragslage eines Unternehmens
+einschätzen.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: WiWi-BSc-Q02 Statistik 1 für Wirtschaftswissenschaften
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc BWL (PO2021), PMG "Grundlagen der BWL für
+Studierende der BWL"
+BSc VWL (PO2021), PMG "Allgemeine Grundlagen für
+Studierende der VWL"
+BSc IVWL (PO2021), PMG "Allgemeine Grundlagen für
+Studierende der iVWL"
+BSc WInfo (PO2021), PMG "Allgemeine Grundlagen für
+Studierende der Wirtschaftsinformatik"
+7. Angebotsturnus des Moduls: im Turnus Sommersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 2. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Stunden)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Investitionsentscheidungen 2
+2 P Übung Investitionsentscheidungen 2
+1213. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Investitionsentscheidungen Klausur 60 Prüfungszeitraum: 100
+erste bis vierte
+Woche nach
+Vorlesungsende
+14. Bemerkungen:
+-  Die  Wiederholungsprüfung  ist  grundsätzlich  nicht  für  Erstschreiber  offen  (Ausnahmen:  Krankheit  und
+Auslandsaufenthalt).
+- Bei einem geplanten Auslandsaufenthalt ist eine potentielle Modulanrechnung mit der Lehrperson im Vorfeld
+abzuklären.
+132. Pflichtmodulgruppe: Quantitative Grundlagen für Studierende der IVWL
+(MOE)
+Qualifikationsziele der Modulgruppe:
+Den Studierenden werden die mathematischen Methoden und Fähigkeiten vermittelt, die in den betriebs- und
+volkswirtschaftlichen Fächern und später im beruflichen Alltag benötigt werden. Hinzu kommen die wesentlichen
+statistischen  Schätz-  und  Testverfahren,  die  für  die  empirische  Forschung  in  den  Wirtschafts-  und
+Sozialwissenschaften unentbehrlich sind. Einen wichtigen Bestandteil dieser Einführung in die Statistik bilden die
+grundlegenden Verfahren zur Aufbereitung, Darstellung und Analyse von Daten.
+Alle Module müssen belegt werden.
+ECTS: 18; Modulgruppenverantwortliche*r: Prof. Dr. Daniel Rösch
+Modulkennung Modulname P/WP/W SWS G
+WiWi-BSc-Q01 Mathematik Pflicht 2V+2Ü 6
+WiWi-BSc-Q02 Statistik 1 für Wirtschaftswissenschaften Pflicht 2V+2Ü 6
+WiWi-BSc-Q03 Statistik 2 für Wirtschaftswissenschaften Pflicht 2V+2Ü 6
+14Modul WiWi-BSc-Q01
+1. Name des Moduls: Mathematik
+2. Fachgebiet / Verantwortlich: Dr. Michael Oberländer
+3. Inhalte des Moduls: Grundlagen aus Analysis und linearer Algebra
+-  Eigenschaften  von  Funktionen  einer  und  mehrerer
+Variablen
+- Grenzwerte von Funktionen
+- Differentialrechnung einer und mehrerer Veränderlicher
+- Elastizitäten
+- Optimierung mit und ohne Nebenbedingungen
+- Grenzrate der Substitution
+- Integralrechnung
+- Vektorräume
+- Matrizenrechnung
+- Rang und Inverse einer Matrix
+- Lineare Gleichungssysteme
+- Lineare Programmierung
+- Einführung in die Finanzmathematik
+4. Qualifikationsziele des Moduls / zu Nach Abschluss dieses Moduls haben die Studierenden die
+erwerbende Kompetenzen: Grundlagen  aus  Analysis  und  linearer  Algebra  sowie  die
+Einführung in die mathematische Modellierung und Lösung
+ökonomischer Probleme vermittelt bekommen, die für ein
+wirtschaftswissenschaftliches Studium benötigt werden. Die
+Übung in Kleingruppen hat die Inhalte der Vorlesung durch
+das  Rechnen  von  Beispielaufgaben  vertieft  und  die
+Studierenden  in  die  Lage  versetzt,  die  richtigen
+mathematischen  Verfahren  zur  Lösung  eines  Problems
+auszuwählen und korrekt anzuwenden.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc BWL (PO2021), PMG "Quantitative Grundlagen für
+Studierende der BWL"
+BSc Immo (PO2021), PMG "Quantitative Grundlagen für
+Studierende der Immobilienwirtschaft"
+BSc VWL (PO2021), PMG "Quantitative Grundlagen für
+Studierende der VWL"
+BSc IVWL (PO2021), PMG "Quantitative Grundlagen für
+Studierende der IVWL (MOE)"
+BSc WInfo (PO2021), PMG "Quantitative Grundlagen für
+Studierende der Wirtschaftsinformatik"
+7. Angebotsturnus des Moduls: im Turnus Wintersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 1. Fachsemester
+1510. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Std.)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Mathematik 2
+2 P Übung Mathematik 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Mathematik Klausur 90 Prüfungszeitraum: 100
+erste bis vierte
+Woche nach
+Vorlesungsende
+16Modul WiWi-BSc-Q02
+1. Name des Moduls: Statistik 1 für Wirtschaftswissenschaften
+2. Fachgebiet / Verantwortlich: Prof. Dr. Daniel Rösch
+3. Inhalte des Moduls: - Deskriptive Statistik
+- Häufigkeitsverteilung eindimensionaler Merkmale
+- Konzentrationsmessung
+- Zweidimensionale Häufigkeitsverteilungen
+- Korrelationsrechnung
+- Wahrscheinlichkeitsrechnung
+- Eindimensionale Zufallsvariablen und ihre Verteilung
+4. Qualifikationsziele des Moduls / zu Nach Abschluss des Moduls kennen die Studierenden die
+erwerbende Kompetenzen: wesentlichen  Methoden  der  Deskriptiven  Statistik  und
+können diese zur Darstellung und Beschreibung von Daten
+anwenden  und  interpretieren.  Darüber  hinaus  sind  sie
+entsprechend  einer  vorwiegend  problemorientierten
+Auffassung von angewandter Statistik mit den Grundlagen
+der Wahrscheinlichkeitsrechnung und theoretischer Modelle,
+insbesondere mit ökonomischem Bezug, vertraut. Die Übung
+hat die Inhalte der Vorlesung an Beispielen und Fallstudien
+vertieft  und  die  Studierenden  in  die  Lage  versetzt,
+eigenständige statistische Analysen zu betreiben.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc BWL (PO2021), PMG "Quantitative Grundlagen für
+Studierende der BWL"
+BSc Immo (PO2021), PMG "Quantitative Grundlagen für
+Studierende der Immobilienwirtschaft"
+BSc VWL (PO2021), PMG "Quantitative Grundlagen für
+Studierende der VWL"
+BSc IVWL (PO2021), PMG "Quantitative Grundlagen für
+Studierende der IVWL (MOE)"
+BSc WInfo (PO2021), PMG "Quantitative Grundlagen für
+Studierende der Wirtschaftsinformatik"
+7. Angebotsturnus des Moduls: im Turnus Wintersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 1. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Std.)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+1711. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Statistik 1 2
+2 P Übung Statistik 1 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Statistik 1 Klausur 90 Prüfungszeitraum: 100
+erste bis vierte
+Woche nach
+Vorlesungsende
+14. Bemerkungen:
+-  Die  Wiederholungsprüfung  ist  grundsätzlich  nicht  für  Erstschreiber  offen  (Ausnahmen:  Krankheit  und
+Auslandsaufenthalt).
+- Bei einem geplanten Auslandsaufenthalt ist eine potentielle Modulanrechnung mit der Lehrperson im Vorfeld
+abzuklären.
+18Modul WiWi-BSc-Q03
+1. Name des Moduls: Statistik 2 für Wirtschaftswissenschaften
+2. Fachgebiet / Verantwortlich: Prof. Dr. Daniel Rösch
+3. Inhalte des Moduls: - Stichprobenfunktionen
+- Punktschätzung
+- Eigenschaften von Punktschätzern
+- Einführung in die KQ- und ML-Schätzung
+- Konfidenzschätzung
+- Statistische Tests
+- Regressionsanalyse
+4. Qualifikationsziele des Moduls / zu Nach Abschluss des Moduls kennen die Studierenden die
+erwerbende Kompetenzen: wesentlichen Methoden der induktiven Statistik und können
+statistische  Schätz-  und  Testverfahren  durchführen  und
+interpretieren. Sie sind in der Lage, grundlegende Konzepte
+der  induktiven  Statistik  und  der  Regressionsanalyse
+insbesondere  mit  engem  Bezug  zu  ökonomischen
+Sachverhalten anzuwenden. Die Übung hat die Inhalte der
+Vorlesung  an  Beispielen  und  Fallstudien  vertieft  und  die
+Studierenden in die Lage versetzt, eigenständige statistische
+Analysen zu betreiben.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: WiWi-BSc-Q02 Statistik 1 für Wirtschaftswissenschaften
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc BWL (PO2021), PMG "Quantitative Grundlagen für
+Studierende der BWL"
+BSc Immo (PO2021), PMG "Quantitative Grundlagen für
+Studierende der Immobilienwirtschaft"
+BSc VWL (PO2021), PMG "Quantitative Grundlagen für
+Studierende der VWL"
+BSc IVWL (PO2021), PMG "Quantitative Grundlagen für
+Studierende der IVWL (MOE)"
+BSc WInfo (PO2021), PMG "Quantitative Grundlagen für
+Studierende der Wirtschaftsinformatik"
+7. Angebotsturnus des Moduls: im Turnus Sommersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 2. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Std.)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+1911. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Statistik 2 2
+2 P Übung Statistik 2 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Statistik 2 Klausur 90 Prüfungszeitraum: 100
+erste bis vierte
+Woche nach
+Vorlesungsende
+14. Bemerkungen:
+-  Die  Wiederholungsprüfung  ist  grundsätzlich  nicht  für  Erstschreiber  offen  (Ausnahmen:  Krankheit  und
+Auslandsaufenthalt).
+- Bei einem geplanten Auslandsaufenthalt ist eine potentielle Modulanrechnung mit der Lehrperson im Vorfeld
+abzuklären.
+203. Pflichtmodulgruppe: Grundlagen der VWL für Studierende der iVWL
+Qualifikationsziele der Modulgruppe:
+Die  Mikroökonomik  schafft  ein  Verständnis  für  die  Entscheidungsfindungsprozesse  von  Konsumenten  und
+Produzenten und deren Interaktion auf Märkten sowie für die notwendigen Bedingungen für volkswirtschaftliche
+Effizienz. In der Makroökonomik werden der langfristige Trend der volkswirtschaftlichen Entwicklung und die
+konjunkturellen  Schwankungen  darum  analysiert.  Die  Lehrveranstaltungen  der  Modulgruppe  versetzen
+Studierende in die Lage, aktuelle makroökonomische Entwicklungen eigenständig einordnen und beurteilen zu
+können  sowie  die  Wirksamkeit  wirtschaftspolitischer  Maßnahmen  abzuschätzen.  In  Ökonometrie  lernen  die
+Studierenden die zentralen ökonometrischen Werkzeuge und die zugrundeliegende ökonometrische Theorie
+kennen. Damit können sie eigenständig einfache empirisch-ökonometrische Analysen durchführen und damit
+quantitative Aussagen inklusive der ihnen zugrundeliegenden Unsicherheit geben.
+Alle Module müssen belegt werden.
+ECTS: 36; Modulgruppenverantwortliche*r: Prof. Dr. Jürgen Jerger
+Modulkennung Modulname P/WP/W SWS G
+VWL-BSc-GL-M01 Makroökonomik 1 Pflicht 2V+2Ü 6
+VWL-BSc-GL-M02 Makroökonomik 2 Pflicht 2V+2Ü 6
+VWL-BSc-GL-M03 Mikroökonomik 1 Pflicht 2V+2Ü 6
+VWL-BSc-GL-M04 Mikroökonomik 2 Pflicht 2V+2Ü 6
+VWL-BSc-GL-M05 Einführung in die Ökonometrie Pflicht 2V+2Ü 6
+VWL-BSc-GL-M06 Methoden der Volkswirtschaftslehre Pflicht 2V+2Ü 6
+21Modul VWL-BSc-GL-M01
+1. Name des Moduls: Makroökonomik 1
+2. Fachgebiet / Verantwortlich: Prof. Dr. Lutz Arnold
+3. Inhalte des Moduls: -  Messung  wichtiger  gesamtwirtschaftlicher  Größen  wie
+Bruttoinlandsprodukt (BIP) und Inflation
+- Produktivität und Wirtschaftswachstum
+- Beschäftigung und Arbeitslosigkeit
+- Geld und Inflation
+4. Qualifikationsziele des Moduls / zu Nach  Abschluss  dieses  Moduls  haben  die  Studierenden
+erwerbende Kompetenzen: Kenntnisse  über  die  empirische  Ermittlung  von
+gesamtwirtschaftlichen Aggregaten wie dem BIP sowie über
+verschiedene  Methoden  zur  Berechnung  der
+Arbeitslosenquote  und  der  Inflationsrate  erworben.  Sie
+verstehen, wie wechselseitige Kausalbeziehungen zwischen
+den relevanten makroökonomischen Größen im jeweiligen
+Kontext  die  Gleichgewichtswerte  der  Makro-Größen
+bestimmen. Sie verstehen die Zusammenhänge und können
+den Prozess der Gleichgewichtsbestimmung interpretieren.
+Damit können sie abschätzen, wie sich wirtschaftspolitische
+Vorschläge auf die Makroökonomik auswirken, und somit
+eine  Bewertung  konkurrierender  wirtschaftspolitischer
+Vorschläge vornehmen.
+Im Einzelnen:
+-  Die  Studierenden  können  zeigen  und  erklären,  dass
+anhaltendes Produktivitätswachstum nur durch technischen
+Fortschritt möglich ist.
+-  Sie  kennen  die  für  Lohnverhandlungen  relevanten
+Institutionen und arbeitsmarktpolitischen Regulierungen und
+verstehen, wie sich in diesem Umfeld die Arbeitslosenquote
+bestimmt.
+-  Sie  können  die  Geldversorgung  durch  die  Zentralbank
+erklären und Inflation auf verschiedene mögliche Ursachen
+(Geldmengenwachstum, Kostendruck etc.) zurückführen.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc BWL (PO2021), PMG "Allgemeine Grundlagen für
+Studierende der BWL"
+BSc Immo (PO2021), PMG "Grundlagen der VWL für
+Studierende der Immobilienwirtschaft"
+BSc VWL (PO2021), PMG "Grundlagen der VWL für
+Studierende der VWL"
+BSc IVWL (PO2021), PMG "Grundlagen der VWL für
+Studierende der iVWL"
+7. Angebotsturnus des Moduls: im Turnus Wintersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 1. Fachsemester
+2210. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Std.)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Makroökonomik 1 2
+2 P Übung Makroökonomik 1 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Makroökonomik 1 Klausur 60 Prüfungszeitraum: 100
+erste bis vierte
+Woche nach
+Vorlesungsende
+14. Bemerkungen:
+Die Module Makroökonomik 1 und Makroökonomik 2 werden im jährlichen Wechsel von den Lehrstühlen Jerger
+bzw. Arnold angeboten. Bitte beachten: Wer die Klausur zwei Semester nach der Vorlesung mitschreibt, schreibt
+also beim jeweils anderen Dozenten.
+23Modul VWL-BSc-GL-M02
+1. Name des Moduls: Makroökonomik 2
+2. Fachgebiet / Verantwortlich: Prof. Dr. Lutz Arnold
+3. Inhalte des Moduls: - Konjunkturschwankungen
+- konjunkturelle Arbeitslosigkeit
+- aggregierte Nachfrage
+- Geld- und Fiskalpolitik
+- internationaler Handel und internationaler Kapitalverkehr
+- Festkurssysteme
+4. Qualifikationsziele des Moduls / zu Die  Studierenden  erwerben  im  Anschluss  an  das  Modul
+erwerbende Kompetenzen: Makroökonomik 1 weitere Kenntnisse über die Bestimmung
+der Gleichgewichtswerte makroökonomischer Größen durch
+wechselseitige  Kausalbeziehungen.  Sie  verstehen  die
+Zusammenhänge  und  können  den  Prozess  der
+Gleichgewichtsbestimmung interpretieren. Damit können sie
+abschätzen, wie sich wirtschaftspolitische Vorschläge auf die
+Makroökonomik  auswirken,  und  somit  eine  Bewertung
+konkurrierender  wirtschaftspolitischer  Vorschläge
+vornehmen.
+Im Einzelnen:
+- Die Studierenden verstehen, wie Konjunkturzyklen aus der
+Güternachfrage  resultieren,  und  können  dies  anhand
+keynesianischer Modelle begründen.
+- Sie verstehen, wie Zentralbanken Inflation und Konjunktur
+mit ihrer Geldpolitik steuern und wie der Staat mit seinen
+öffentlichen Haushalten die Konjunktur stabilisieren kann.
+- Die Studierenden erwerben Kenntnisse über die zentralen
+internationalen  Wirtschaftsbeziehungen  und  die
+internationalen  Institutionen,  die  Welthandel  und
+internationalen Kapitalverkehr reglementieren.
+- Sie können eigenständig abschätzen, wie internationale
+Wirtschaftsbeziehungen  die  Wirksamkeit  von  Geld-  und
+Fiskalpolitik verstärken oder abschwächen.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc BWL (PO2021), PMG "Allgemeine Grundlagen für
+Studierende der BWL"
+BSc Immo (PO2021), PMG "Grundlagen der VWL für
+Studierende der Immobilienwirtschaft"
+BSc VWL (PO2021), PMG "Grundlagen der VWL für
+Studierende der VWL"
+BSc IVWL (PO2021), PMG "Grundlagen der VWL für
+Studierende der iVWL"
+7. Angebotsturnus des Moduls: im Turnus Sommersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 2. Fachsemester
+2410. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Std.)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Makroökonomik 2 2
+2 P Übung Makroökonomik 2 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Makroökonomik 2 Klausur 60 Prüfungszeitraum: 100
+erste bis vierte
+Woche nach
+Vorlesungsende
+14. Bemerkungen:
+Die Module Makroökonomik 1 und Makroökonomik 2 werden im jährlichen Wechsel von den Lehrstühlen Jerger
+bzw. Arnold angeboten. Bitte beachten: Wer die Klausur zwei Semester nach der Vorlesung mitschreibt, schreibt
+also beim jeweils anderen Dozenten.
+25Modul VWL-BSc-GL-M03
+1. Name des Moduls: Mikroökonomik 1
+2. Fachgebiet / Verantwortlich: Prof. apl. Dr. Christoph Knoppik
+3. Inhalte des Moduls: Grundbegriffe: Gewinn- und Nutzenmaximierung, Angebot
+und Nachfrage, Produzenten- und Konsumentenrente; das
+vollkommene  Konkurrenzmarktgleichgewicht,
+Marktversagen;
+Unvollkommene  Konkurrenz:  Monopol,  Monopson,
+Preisdifferenzierung,  Duopol  und  Oligopol,  Mengen-  und
+Preiswettbewerb; Wirkungen staatlicher Eingriffe;
+Grundlagen  der  nicht-kooperativen  Spieltheorie:
+Normalformdarstellung, Spieltypen und sequentielle Spiele.
+4. Qualifikationsziele des Moduls / zu Nach Abschluss des Moduls sind die Studierenden in der
+erwerbende Kompetenzen: Lage, das Verhalten von Marktteilnehmern theoretisch zu
+beschreiben und die Ergebnisse von Marktallokationen unter
+Wohlfahrtsgesichtspunkten  einzuschätzen.  Darüber  hinaus
+sind die Studierenden nach Abschluss des Moduls mit den
+Grundlagen der strategischen Interaktion (zwischen Firmen
+im Rahmen der Oligopoltheorie und Spielern im Rahmen der
+allgemeinen  Spieltheorie)  vertraut.  In  der  begleitenden
+Übung haben die Studierenden die Inhalte der Vorlesung
+vertieft und diese eigenständig auf Fragestellungen aus der
+Mikroökonomie anzuwenden.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc BWL (PO2021), PMG "Allgemeine Grundlagen für
+Studierende der BWL"
+BSc Immo (PO2021), PMG "Grundlagen der VWL für
+Studierende der Immobilienwirtschaft"
+BSc VWL (PO2021), PMG "Grundlagen der VWL für
+Studierende der VWL"
+BSc IVWL (PO2021), PMG "Grundlagen der VWL für
+Studierende der iVWL"
+7. Angebotsturnus des Moduls: im Turnus Wintersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 1. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS * 30 Std.)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+2611. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Mikroökonomik 1 2
+2 P Übung Mikroökonomik 1 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Mikroökonomik 1 Klausur 60 Prüfungszeitraum: 100
+erste bis vierte
+Woche nach
+Vorlesungsende
+27Modul VWL-BSc-GL-M04
+1. Name des Moduls: Mikroökonomik 2
+2. Fachgebiet / Verantwortlich: Prof. Dr. Andreas Roider
+3. Inhalte des Moduls: -  Grundlagen  der  Mikroökonomie,  insbesondere  ein
+Verständnis  für  die  Entscheidungsfindungsprozesse  von
+Individuen  und  Unternehmen  und  deren  Interaktion  auf
+Märkten  (grundlegende  Begriffe,  Modellierung,
+Analysetechniken)
+-  Theorie  individueller  Entscheidungen  (Grundlegendes
+Verhaltensmodell,  Anwendungen  auf
+Konsumentscheidungen,  Arbeitsangebot,  Sparen,
+Entscheidungen bei Risiko)
+-  Gleichgewichtstheorie  (Hauptsätze  der  Wohlfahrts-
+ökonomik, Adverse Selektion, Handel)
+-  Theorie  der  Unternehmung  (Produktions-  und
+Kostentheorie, Prinzipal-Agenten-Beziehungen, Outsourcing
+versus Eigenproduktion)
+4. Qualifikationsziele des Moduls / zu Nach Abschluss des Moduls können die Studierenden die
+erwerbende Kompetenzen: grundlegenden mikroökonomischen Methoden zur Analyse
+der  Entscheidungsfindungsprozesse  von  Individuen  und
+Unternehmen  benennen  und  aufzeigen,  wie  diese  zur
+Analyse eingesetzt werden können. Darüber hinaus sind die
+Studierenden nach Abschluss des Moduls in der Lage, in
+Abhängigkeit  der  betrachteten  ökonomischen
+Rahmenbedingungen Vorhersagen über das Verhalten von
+Individuen und Unternehmen zu machen und die einzel- und
+gesamtwirtschaftliche  Effizienz  dieser  Entscheidungen  zu
+beleuchten.  Die  Studierenden  können  die  erlernten
+Techniken  auf  aktuelle  Fragestellungen  anwenden.  Im
+Weiteren  weisen  die  Studierenden  nach  Abschluss  des
+Moduls  durch  ihre  Teilnahme  an  den  Fallstudien  zur
+experimentellen  Wirtschaftsforschung  nach,  dass  sie  die
+erarbeiteten methodischen Kenntnisse erfolgreich anwenden
+können.  Die  Übung  hat  die  Inhalte  der  Vorlesung  an
+Beispielen vertieft.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc BWL (PO2021), PMG "Allgemeine Grundlagen für
+Studierende der BWL"
+BSc Immo (PO2021), PMG "Grundlagen der VWL für
+Studierende der Immobilienwirtschaft"
+BSc VWL (PO2021), PMG "Grundlagen der VWL für
+Studierende der VWL"
+BSc IVWL (PO2021), PMG "Grundlagen der VWL für
+Studierende der iVWL"
+287. Angebotsturnus des Moduls: im Turnus Sommersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 2. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Std.)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Mikroökonomik 2 2
+2 P Übung Mikroökonomik 2 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Mikroökonomik 2 Klausur 60 Prüfungszeitraum: 95
+erste bis vierte
+Woche nach
+Vorlesungsende
+2 Mikroökonomik 2 Fallstudienarbeit 45 Während der 5
+Vorlesungszeit
+29Modul VWL-BSc-GL-M05
+1. Name des Moduls: Einführung in die Ökonometrie
+2. Fachgebiet / Verantwortlich: Prof. Dr. Lea Cassar
+3. Inhalte des Moduls: Einführung in ökonometrische Methoden für die empirische
+Wirtschaftsforschung:
+- Erweiterung statistischer Grundkenntnisse
+- Das einfache und multiple lineare Regressionsmodell und
+die Interpretation der Modellparameter
+-  Der  Kleinst-Quadrate-Schätzer  (KQ-Schätzer)  und  der
+(anwendbar) verallgemeinerte KQ-Schätzer: statistische und
+algebraische Eigenschaften
+-  Statistische  Tests  für  eine  einzelne  und  von  mehreren
+Hypothesen (t-Test, F-Test); Konfidenzintervalle
+- Modellspezifikation und Modelldiagnose
+- Zulassen von Heteroskedastie beim Schätzen und Testen
+- Prognosen und Prognosefehler
+- Empirische Anwendungen mit R
+4. Qualifikationsziele des Moduls / zu Nach Abschluss des Moduls können die Studierenden die
+erwerbende Kompetenzen: Grundlagen ökonometrischer Werkzeuge und die zugrunde
+liegende ökonometrische Theorie benennen und aufzeigen,
+wie  diese  in  der  empirischen  Analyse  eingesetzt  werden
+können.  Darüber  hinaus  sind  die  Studierenden  nach
+Abschluss  des  Moduls  in  der  Lage,  eigenständig  die
+gelernten  Verfahren  anzuwenden,  um  damit  einfache
+empirisch-ökonometrische  Analysen  durchzuführen  und
+dabei auch die Unsicherheit der Ergebnisse zu bewerten. Die
+Übung hat die Inhalte der Vorlesung mit selbst zu lösenden
+Aufgaben  und  empirischen  Beispielen  vertieft  und  die
+Studierenden  in  die  Lage  versetzt,  mit  ökonometrischer
+Software (R) umzugehen.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: WiWi-BSc-Q02 Statistik 1 für Wirtschaftswissenschaften
+WiWi-BSc-Q03 Statistik 2 für Wirtschaftswissenschaften
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc BWL (PO2021), VTMG "Business Analytics"
+BSc Immo (PO2021), PMG "Grundlagen der VWL für
+Studierende der Immobilienwirtschaft"
+BSc VWL (PO2021), PMG "Grundlagen der VWL für
+Studierende der VWL"
+BSc IVWL (PO2021), PMG "Grundlagen der VWL für
+Studierende der iVWL"
+7. Angebotsturnus des Moduls: im Turnus Wintersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 3. bzw. 5. Fachsemester
+3010. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Std.)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Einführung in die Ökonometrie 2
+2 P Übung Einführung in die Ökonometrie 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Einführung in die Klausur 90 Prüfungszeitraum: 100
+Ökonometrie Minuten Erste bis vierte
+Woche nach
+Vorlesungsende
+14. Bemerkungen:
+-  Die  Wiederholungsprüfung  ist  grundsätzlich  nicht  für  Erstschreiber  offen  (Ausnahmen:  Krankheit  und
+Auslandsaufenthalt).
+- Bei einem geplanten Auslandsaufenthalt ist eine potentielle Modulanrechnung mit der Lehrperson im Vorfeld
+abzuklären.
+31Modul VWL-BSc-GL-M06
+1. Name des Moduls: Methoden der Volkswirtschaftslehre
+2. Fachgebiet / Verantwortlich: Prof. Dr. Fabian Kindermann
+3. Inhalte des Moduls: Optimierung
+- Optimierung bei einer unabhängigen Variablen
+- Optimierung bei mehreren unabhängigen Variablen
+- Optimierung unter Nebenbedingungen
+- Optimierung am Computer
+- Komparative Statik
+Dynamische Methoden
+- lineare Differenzengleichungen
+- nicht-lineare Differenzengleichungen
+4. Qualifikationsziele des Moduls / zu Nach Abschluss dieses Moduls haben sich die Studierenden
+erwerbende Kompetenzen: mit  den  gängigen  Methoden  der  ökonomischen
+Theoriebildung  vertraut  gemacht:  Optimierungsverfahren
+sowie  Differenzengleichungen  zur  Beschreibung
+intertemporaler Phänomene.
+Sie lernten die grundlegenden Verfahrensweisen sowie deren
+Anwendung  auf  konkrete  ökonomische  Sachverhalte
+kennen, wie z.B. Nutzen- und Gewinnmaximierung und die
+Stabilität  dynamischer  ökonomischer  Systeme.  Zudem
+können  die  Studierenden  nach  Abschluss  des  Moduls
+einfache ökonomische Modelle mit Hilfe eines Computers
+lösen.
+Damit  sind  sie  befähigt,  wirtschaftliche  Zielkonflikte
+bestmöglich  aufzulösen  sowie  konkrete  ökonomische
+Probleme  so  zu  formulieren,  dass  sie  sie  mit  den
+Standardmethoden der VWL analysieren können.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: WiWi-BSc-Q01 Mathematik
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc Immo (PO2021), PMG "Grundlagen der VWL für
+Studierende der Immobilienwirtschaft"
+BSc VWL (PO2021), PMG "Grundlagen der VWL für
+Studierende der VWL"
+BSc IVWL (PO2021), PMG "Grundlagen der VWL für
+Studierende der iVWL"
+7. Angebotsturnus des Moduls: im Turnus Wintersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 3. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Std.)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+3211. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Methoden der Volkswirtschaftslehre 2
+2 P Übung Methoden der Volkswirtschaftslehre 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Methoden der Klausur 90 Prüfungszeitraum: 100
+Volkswirtschaftslehre erste bis vierte
+Woche nach
+Vorlesungsende
+334. Pflichtmodulgruppe Internationale VWL
+Qualifikationsziele der Modulgruppe:
+Studierende  können  nach  Abschluss  der  Modulgruppe  qualifiziert  Fragen  zu  den  Themengebieten  des
+Außenhandels und dessen Vorteile für Volkswirtschaften beantworten. Die Studierenden werden in die Lage
+versetzt, Determinanten und Wirkungen von Außenhandel zu verstehen und die Debatte um Globalisierung
+informiert zu verfolgen bzw. mit zu führen. Sie werden weiterhin mit den Größenordnungen und grundlegenden
+institutionellen  Vorkehrungen  auf  den  Weltfinanzmärkten  vertraut  gemacht.  Die  Studierenden  erlernen  die
+maßgeblichen theoretischen Erklärungen dafür, warum internationaler Kapitalverkehr potenziell Einkommens-
+und Wohlstandsgewinne verspricht, wie in einer globalisierten Weltwirtschaft Wechselkurse bestimmt werden
+und wie es zu internationalen Finanz- und Währungskrisen kommt. Aktuelle und historische Entwicklungen der
+Wirtschaftsbeziehungen zu den mittel- und osteuropäischen Staaten werden analysiert. Nach Abschluss des
+Moduls können Studierende auch empirische Fakten und institutionelle Gegebenheiten im Hinblick auf den
+Austausch von Waren, Dienstleistungen, Kapital und Arbeitskräften zwischen alten und neueren Mitgliedsstaaten
+der  Europäischen  Union  einordnen.  Neben  diesen  inhaltlichen  Zielen  wird  durch  die  Anfertigung  einer
+Seminararbeit in der Pflichtmodulgruppe Internationale VWL auch die Kommunikation komplexer Fakten und
+Zusammenhänge eingeübt - was auch der Vorbereitung der Bachelorarbeit dient.
+ECTS: 30; Modulgruppenverantwortliche*r: Prof. Dr. Jürgen Jerger
+Modulkennung Modulname P/WP/W SWS G
+VWL-BSc-AE-M01 Außenhandelstheorie und -politik Pflicht 2V+2Ü 6
+VWL-BSc-AE-S01 Seminar aus dem Themenbereich Pflicht 1V+5Ü 6
+Außenwirtschaft und Entwicklungsökonomik
+VWL-BSc-AE-M02 International Finance Pflicht 2V+2Ü 6
+VWL-BSc-AE-M03 Entwicklungsökonomik Pflicht 2V+2Ü 6
+6 ECTS aus dem folgenden Angebot müssen erbracht werden:
+VWL-BSc-WBMO-M01 Wirtschaftsbeziehungen zu den Mittel- und Wahlpflicht 2V+2Ü 6
+Osteuropäischen Staaten
+VWL-BSc-IROEK-M02 Regionalökonomie I Wahlpflicht 2V+2Ü 6
+34Modul VWL-BSc-AE-M01
+1. Name des Moduls: Außenhandelstheorie und -politik
+2. Fachgebiet / Verantwortlich: Prof. Dr. Jürgen Jerger
+3. Inhalte des Moduls: - Außenhandel: Grundlegende Fakten
+- Quellen von Außenhandelsgewinnen
+- Zahlungsbilanz und intertemporaler Handel
+-  Grundlegende  Außenhandelsmodelle  (Ricardianisches
+Modell, Heckscher-Ohlin- Modell, Krugman-Modell)
+- Gravitation
+- Handelspolitische Instrumente und deren Wirksamkeit
+- Handelspolitische Institutionen
+4. Qualifikationsziele des Moduls / zu Nach  Abschluss  des  Moduls  können  die  Studierenden
+erwerbende Kompetenzen: Charakteristika  von  Handelsmustern  skizzieren  und
+identifizieren und die verschiedenen Rollen von Produktivität,
+Faktorausstattung und Skalenerträgen dafür verdeutlichen
+und  gegeneinander  abgrenzen.  Darüber  hinaus  sind  die
+Studierenden  nach  Abschluss  des  Moduls  in  der  Lage,
+Konzepte der Außenhandelstheorie zu nutzen, um sowohl
+die  volkswirtschaftlichen  Vorteile  des  Außenhandels
+aufzuzeigen  als  auch  Gewinner  und  Verlierer
+außenwirtschaftlicher  Öffnung  gegenüberzustellen.
+Außerdem wurden die Studierenden in die Lage versetzt, die
+Möglichkeiten  und  Grenzen  wirtschaftspolitischer
+Einflussmöglichkeiten auf den Außenhandel zu diskutieren
+und selbständig einzuschätzen.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: VWL-BSc-GL-M03 Mikroökonomik 1
+VWL-BSc-GL-M04 Mikroökonomik 2
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc VWL (PO2021), SPMG "Außenwirtschaft und
+Entwicklungsökonomik"
+BSc VWL (PO2021), SPMG "Immobilien- und
+Regionalökonomik"
+BSc VWL (PO2021), SPMG "Wirtschaftsbeziehungen zu
+Mittel- und Osteuropa"
+BSc IVWL (PO2021), PMG "Pflichtmodulgruppe
+Internationale VWL"
+7. Angebotsturnus des Moduls: im Turnus Sommersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 4. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Stunden)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std. (2/3*Gesamtzeit)
+3511. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Außenhandelstheorie und -politik 2
+2 P Übung Außenhandelstheorie und -politik 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Außenhandelstheorie und Klausur 90 Prüfungszeitraum: 100
+-politik erste bis vierte
+Woche nach
+Vorlesungsende
+36Modul VWL-BSc-AE-S01
+1. Name des Moduls: Seminar aus dem Themenbereich Außenwirtschaft und
+Entwicklungsökonomik
+2. Fachgebiet / Verantwortlich: Prof. Dr. Jürgen Jerger
+3. Inhalte des Moduls: Im Seminar werden aktuelle Themen und Forschungsarbeiten
+aus  dem  Bereich  Außenwirtschaft  und
+Entwicklungsökonomik  behandelt,  die  an  die  Inhalte  aus
+dem Modul Außenwirtschaft und Entwicklungsökonomik 1
+anknüpfen, z.B.:
+- Außenhandelstheorie
+- Außenhandelspolitik
+- International Finance
+- Entwicklungsökonomik
+4. Qualifikationsziele des Moduls / zu Nach  Abschluss  dieses  Moduls  haben  die  Studierenden
+erwerbende Kompetenzen: inhaltlich den Stoff aus dem Modul Außenwirtschaft und
+Entwicklungsökonomik 1 vertieft und erweitert. Durch die
+Anwendung  der  in  dem  Modul  erlernten  Modelle  und
+Methoden  auf  neue  Sachverhalte  aus  dem  Gebiet
+Außenwirtschaft  und  Entwicklungsökonomik  übten  die
+Studierenden die Anwendung ein, was sie zur Übertragung
+auf weitere Themenfelder befähigt
+Mit  der  schriftlichen  Seminararbeit  erstellten  die
+Studierenden  i.d.R.  erstmals  im  Rahmen  ihres  Studiums
+eigenständig  eine  wissenschaftliche  Arbeit.  Dadurch
+erlernten  sie  die  dabei  zu  befolgenden  Regeln
+wissenschaftlichen  Arbeitens.  Mit  der  Präsentation  im
+Seminar erworben sie die Fähigkeit, komplexe Sachverhalte
+unter Verwendung der üblichen Medien für Zuhörerinnen
+und  Zuhörer  verständlich  zu  vermitteln.  Im  Rahmen  der
+Diskussion zu ihrer Präsentation reflektierten sie ihr Thema
+und  setzten  es  in  einen  breiteren  inhaltlichen
+Zusammenhang.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: VWL-BSc-AE-M01 Außenhandelstheorie und -politik
+VWL-BSc-GL-M01 Makroökonomik 1
+VWL-BSc-GL-M02 Makroökonomik 2
+VWL-BSc-GL-M03 Mikroökonomik 1
+VWL-BSc-GL-M04 Mikroökonomik 2
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc VWL (PO2021), SPMG "Außenwirtschaft und
+Entwicklungsökonomik"
+BSc IVWL (PO2021), PMG "Pflichtmodulgruppe
+Internationale VWL"
+7. Angebotsturnus des Moduls: jedes Semester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 5. Fachsemester
+3710. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Stunden)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 15 Std. (1 SWS)
+2. Erstellen der Seminararbeit, Einüben der Präsentation: 5
+SWS, 165 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Seminar Seminar aus dem Bereich 1
+Außenwirtschaft und
+Entwicklungsökonomik
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Seminar aus dem Bereich Seminararbeit 10 bis 20 50
+Außenwirtschaft und Seiten
+Entwicklungsökonomik
+2 Seminar aus dem Bereich Präsentation 10 bis 50
+Außenwirtschaft und 45
+Entwicklungsökonomik Minuten
+38Modul VWL-BSc-AE-M02
+1. Name des Moduls: International Finance
+2. Fachgebiet / Verantwortlich: Prof. Dr. Lutz Arnold
+3. Inhalte des Moduls: - Entwicklung des internationalen Kapitalverkehrs: Zahlen,
+Fakten, Maßnahmen
+-  Vorteile  von  internationalem  Kapitalverkehr:  effiziente
+internationale  Kapitalallokation,  Diversifikation,
+Konsumglättung, Technologietransfer
+-  die  "Fundamentalgleichung  der  internationalen
+Makroökonomik": Leistungsbilanzsaldo = Nettokapitalexport
+- Asset approach der Wechselkursbestimmung
+- Wechselkursvolatilität: Overshooting
+-  Festkurssysteme:  das  "magische  Dreieck  der  offenen
+Volkswirtschaft"
+- Währungskrisen: multiple Gleichgewichte versus schlechte
+Fundamentaldaten
+-  internationale  Schuldenkrisen:  Zahlungsunfähigkeit  und
+strategischer Default
+4. Qualifikationsziele des Moduls / zu Nach Abschluss dieses Moduls haben die Studierenden die
+erwerbende Kompetenzen: zentralen  Fakten  zur  Entwicklung  des  internationalen
+Kapitalverkehrs  und  die  in  diesem  Prozess  maßgeblichen
+internationalen Organisationen kennengelernt. Sie können
+erklären,  wie  internationale  Kapitalbewegungen  zu
+Einkommensgewinnen für alle beteiligten Länder führen und
+welche  weiteren  Auswirkungen  des  internationalen
+Kapitalverkehrs positive Wohlfahrtswirkungen versprechen.
+Sie verstehen, warum Systeme flexibler Wechselkurse durch
+hohe Wechselkursvolatilität gekennzeichnet sind und welche
+Maßgaben  für  die  Wirtschaftspolitik  aus  der  Etablierung
+eines  Festkurssystems  resultieren.  Sie  können  die  Risiken
+hinsichtlich Währungs- und Schuldenkrisen einschätzen, die
+mit einer Wechselkursfixierung verbunden sind. So haben sie
+die  Fähigkeit  erworben,  aktuelle  Entwicklungen  auf
+internationalen  Finanzmärkten  eigenständig  einzuordnen
+sowie  Folgewirkungen  und  die  Wirksamkeit
+wirtschaftspolitischer Maßnahmen abzuschätzen.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: VWL-BSc-GL-M01 Makroökonomik 1
+VWL-BSc-GL-M02 Makroökonomik 2
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc VWL (PO2021), SPMG "Außenwirtschaft und
+Entwicklungsökonomik"
+BSc VWL (PO2021), SPMG "Finanzmärkte"
+BSc IVWL (PO2021), PMG "Pflichtmodulgruppe
+Internationale VWL"
+7. Angebotsturnus des Moduls: im Turnus Sommersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 4. bzw. 6. Fachsemester
+3910. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Stunden)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std. (2/3*Gesamtzeit)
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung International Finance 2
+2 P Übung International Finance 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 International Finance Klausur 90 Prüfungszeitraum: 100
+erste bis vierte
+Woche nach
+Vorlesungsende
+40Modul VWL-BSc-AE-M03
+1. Name des Moduls: Entwicklungsökonomik
+2. Fachgebiet / Verantwortlich: Prof. apl. Dr. Christoph Knoppik
+3. Inhalte des Moduls: Aus  makroökonomischer  Perspektive  wird  untersucht,
+welche Institutionen die Voraussetzung für wirtschaftliche
+Entwicklung  bilden,  insbesondere  für  hohe  pro-Kopf-
+Einkommen, anhaltendes Wachstum und reale Konvergenz
+zu entwickelten Staaten.
+Aus mikroökonomischer Perspektive wird untersucht, welche
+Informations- und Anreizprobleme auf Arbeits-, Kredit- und
+Versicherungsmärkten  Entwicklungshemmnisse  darstellen
+und  durch  welche  vertraglichen  und  institutionellen
+Arrangements  diese  Entwicklungshemmnisse  überwunden
+werden können (u.a. aus dem Bereich Mikrofinanzierung).
+4. Qualifikationsziele des Moduls / zu Nach Abschluss dieses Moduls kennen die Studierenden die
+erwerbende Kompetenzen: wirtschaftliche  Lage  und  die  ökonomisch  relevanten
+Institutionen von Entwicklungsländern, sowie theoretische
+Erklärungsansätze und theoriebasierte empirische Analysen
+zur ökonomischen Funktion und Bedeutung von Institutionen
+in Entwicklungsländern. Sie können aktuelle und historische
+Entwicklungen von Institutionen in Entwicklungsländern und
+deren  ökonomische  Konsequenzen  theoriegeleitet
+analysieren und beurteilen.
+Bei  der  Präsentation  von  Übungsaufgaben  wiesen  die
+Studierenden  nach,  dass  Sie  die  durch  Anwendung  der
+Methoden gewonnen Erkenntnisse auch mündlich vortragen
+und begründen können.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: VWL-BSc-GL-M01 Makroökonomik 1
+VWL-BSc-GL-M02 Makroökonomik 2
+VWL-BSc-GL-M03 Mikroökonomik 1
+VWL-BSc-GL-M04 Mikroökonomik 2
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc VWL (PO2021), SPMG "Wirtschaftsbeziehungen zu
+Mittel- und Osteuropa"
+BSc VWL (PO2021), SPMG "Institutionen und individuelles
+Verhalten"
+BSc VWL (PO2021), SPMG "Außenwirtschaft und
+Entwicklungsökonomik"
+BSc VWL (PO2021), SPMG "Soziales Verhalten und
+Marktinteraktion"
+BSc VWL (PO2021), SPMG "Ökonomik des öffentlichen
+Sektors"
+BSc IVWL (PO2021), PMG "Pflichtmodulgruppe
+Internationale VWL"
+7. Angebotsturnus des Moduls: im Turnus Sommersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 5. Fachsemester
+4110. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS * 30 h)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfungsvorbereitung und Prüfung):
+120 h
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Entwicklungsökonomik 2
+2 P Übung Entwicklungsökonomik 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Entwicklungsökonomie Klausur 90 Prüfungszeitraum: 85
+erste bis vierte
+Woche nach
+Vorlesungsende
+2 Entwicklungsökonomie Zwischenklausur 10 * Online Quizzes 15
+15min zwischen
+aufeinander
+folgenden
+Vorlesungen
+14. Bemerkungen:
+Online-Quizzes unterstützen in der Selbstlern-Phase die Nachbereitung der Vorlesung und die Vorbereitung der
+Übung.
+42Modul VWL-BSc-WBMO-M01
+1. Name des Moduls: Wirtschaftsbeziehungen zu den Mittel- und Osteuropäischen
+Staaten
+2. Fachgebiet / Verantwortlich: Prof. apl. Dr. Christoph Knoppik
+3. Inhalte des Moduls: Seit  dem  Systemwechsel  in  den  Staaten  des  früheren
+Ostblocks hat sich die Struktur der Wirtschaftsbeziehungen
+in  Europa  grundlegend  verändert.  Die  Mittel-  und
+Osteuropäischen  Staaten  haben  sich  nach  Westeuropa
+umorientiert, vor allem die westlichen Staaten entlang des
+früheren Eisernen Vorhangs haben neue Wirtschaftspartner
+im Osten hinzugewonnen. Vor dem Hintergrund einfacher
+theoretischer  Modelle  des  Waren-  und
+Dienstleistungshandels  sowie  der  Migration  und  des
+Kapitalverkehrs  wird  die  Entwicklung  dieser
+Wirtschaftsbeziehungen  zwischen  Ost-  und  West
+nachgezeichnet und erklärt. Hierzu werden unter anderem
+die  deskriptive  Auswertung  von  Daten,  ökonometrische
+Modelle,  insbesondere  Gravity-Modellen,  aber  auch  die
+Untersuchung  der  institutionellen  Entwicklung  in  den
+einzelnen Staaten und im Rahmen der Europäischen Union
+herangezogen.
+4. Qualifikationsziele des Moduls / zu Nach  Abschluss  dieses  Moduls  haben  die  Studierenden
+erwerbende Kompetenzen: empirische  Fakten  und  institutionelle  Gegebenheiten  im
+Hinblick auf den Austausch von Waren, Dienstleistungen,
+Kapital  und  Arbeitskräften  zwischen  alten  und  neuen
+Mitgliedsstaaten  der  Europäischen  Union,  sowie  die
+wichtigsten  theoretischen  Erklärungen  für  Ausmaß  und
+Muster dieser Wirtschaftsbeziehungen kennen gelernt. Sie
+können  aktuelle  und  historische  Entwicklungen  der
+Wirtschaftsbeziehungen zu den mittel- und osteuropäischen
+Staaten einordnen und theoriebasiert analysieren.
+Online-Quizzes  unterstützten  die  Studierenden  bei  der
+Nachbereitung  der  Vorlesung  und  der  Vorbereitung  der
+Übung.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: VWL-BSc-GL-M01 Makroökonomik 1
+VWL-BSc-GL-M02 Makroökonomik 2
+VWL-BSc-GL-M03 Mikroökonomik 1
+VWL-BSc-GL-M04 Mikroökonomik 2
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc VWL (PO2021), SPMG "Wirtschaftsbeziehungen zu
+Mittel- und Osteuropa"
+BSc VWL (PO2021), SPMG "Außenwirtschaft und
+Entwicklungsökonomik"
+BSc IVWL (PO2021), PMG "Pflichtmodulgruppe
+Internationale VWL"
+7. Angebotsturnus des Moduls: im Turnus Sommersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+439. Empfohlenes Fachsemester: 4. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS * 30 h)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfungsvorbereitung und Prüfung):
+120 h
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Wirtschaftsbeziehungen zu den 2
+Mittel- und Osteuropäischen Staaten
+2 P Übung Wirtschaftsbeziehungen zu den 2
+Mittel- und Osteuropäischen Staaten
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Wirtschaftsbeziehungen zu Klausur 90 Prüfungszeitraum: 85
+den Mittel- und erste bis vierte
+Osteuropäischen Staaten Woche nach
+Vorlesungsende
+2 Wirtschaftsbeziehungen zu Zwischenklausur 10 * 15 Online Quizzes 15
+den Mittel- und min zwischen
+Osteuropäischen Staaten aufeinander
+folgenden
+Vorlesungen
+14. Bemerkungen:
+Online-Quizzes unterstützen die Studierenden bei der Nachbereitung der Vorlesung und der Vorbereitung der
+Übung.
+44Modul VWL-BSc-IROEK-M02
+1. Name des Moduls: Regionalökonomie I
+2. Fachgebiet / Verantwortlich: Prof. Dr. Kristof Dascher
+3. Inhalte des Moduls: Die  Veranstaltung  "Regionalökonomie  I"  betont  die
+Bedeutung des regionalen Arbeitsmarkts für das Verständnis
+des regionalen Immobilienmarkts. Denn kaum eine Größe
+hat eine ähnliche Relevanz für lokale Immobilien-Mengen
+und  -Preise  wie  das  regionale  Arbeitsmarktgeschehen  in
+Gestalt  von  Nominallöhnen  und  Arbeitslosenquote.  Auch
+wird  hier  der  Kontrast  zwischen  der  Mobilität  von
+Produktionsfaktoren  einerseits  (insbes.  Arbeitnehmer)  und
+der  Immobilität  von  Häusern  andererseits  besonders
+augenfällig.
+Im  Zuge  der  Veranstaltung  interessiert  insbesondere  die
+Frage  nach  interregionaler  Konvergenz.  In  der  regional-
+ökonomischen  Theorie  stehen  sich  zwei  Paradigmen
+gegenüber, die Konvergenz unterschiedlicher Regionen (und
+damit auch Immobilienmärkte) entweder betonen oder aber
+zugunsten möglicher Divergenz verwerfen.
+Diese  Paradigmen  (Neoklassisches  Modell  vs.  Neue
+Ökonomische Geographie) nehmen breiten Raum ein. Hinzu
+treten  ergänzende  Analysen  wie  Thünens  Modell  der
+Landnutzung, Rosen/Robacks Sicht auf die Kapitalisierung
+regionaler öffentlicher Güter, Fragen des Steuerwettbewerbs,
+regionale Input-Output-Analysen, Rosenstein-Rodans Theorie
+der Koordination regional-sektoraler Industrien sowie erste
+Bausteine einer Theorie der Regionalpolitik.
+4. Qualifikationsziele des Moduls / zu Nach Abschluss dieses Moduls haben die Studierenden einen
+erwerbende Kompetenzen: Eindruck von der Bedeutung benachbarter Märkte für den
+Immobilienmarkt  gewonnen.  Der  Immobilienmarkt  steht
+eben nicht für sich, sondern ist in ein eng gewebtes Gefüge
+von  räumlichen  Arbitragebeziehungen  eingebettet.
+Entsprechendes  Augenmerk  ist  auf  Veränderungen  in
+benachbarten Regionen oder auf benachbarten Märkten zu
+legen.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc Immo (PO2021), PMG "Immobilienwirtschaft I für
+Studierende der Immobilienwirtschaft"
+BSc VWL (PO2021), SPMG "Immobilien- und
+Regionalökonomik"
+BSc VWL (PO2021), SPMG "Außenwirtschaft und
+Entwicklungsökonomik"
+BSc IVWL (PO2021), PMG "Pflichtmodulgruppe
+Internationale VWL"
+7. Angebotsturnus des Moduls: im Turnus Sommersemester
+458. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 4. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Std.
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Regionalökonomie I 2
+2 P Übung Regionalökonomie I 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Regionalökonomie I Klausur 90 Prüfungszeitraum: 100
+erste bis vierte
+Woche nach
+Vorlesungsende
+465. Schwerpunktmodulgruppe für Studierende der iVWL
+Qualifikationsziele der Modulgruppe:
+Die Studierenden bauen, indem sie eines der drei möglichen Fächer der Schwerpunktmodulgruppe wählen, ihre
+Kenntnisse und Kompetenzen zur Region Mittel- und Osteuropa in dem jeweiligen Bereich weiter aus. Als Fächer
+stehen dabei die Politikwissenschaft, die Rechtswissenschaft sowie der Bereich Geschichte und Kulturwissenschaft
+zur Auswahl. Inhalte der unterschiedlichen Gebiete dürfen jedoch nicht miteinander kombiniert werden, um eine
+hinreichende Tiefe innerhalb des gewählten Faches zu gewährleisten. Die Studierenden werden dadurch in die
+Lage versetzt, sich im mittel- und osteuropäischen Kulturraum auch jenseits rein wirtschaftlicher Themen und
+Probleme informiert und methodisch fundiert an gesellschaftlichen Diskussionen beteiligen zu können bzw. sich
+informiert  in  diesem  Raum  bewegen  zu  können.  Diese  größere  fachliche  Breite  trägt  dazu  bei,  dass  die
+Studierenden fachlich umfassender auf eine berufliche Tätigkeit in bzw. mit Bezug auf Mittel- und Osteuropa
+vorbereitet sind.
+ECTS: 30; Modulgruppenverantwortliche*r: Prof. Dr. Jürgen Jerger
+Modulkennung Modulname P/WP/W SWS G
+In der Schwerpunktmodulgruppe MOE müssen 30 ECTS-Kreditpunkte erbracht werden, diese sind in einem der
+drei folgenden Lehrangebote anderer Fakultäten zu erbringen. Eine Mischung von Modulen aus diesen drei
+Bereichen ist nicht zulässig.
+iVWL-BSc-SP02 Rechtswissenschaft mit Ausrichtung auf Mittel- Wahlpflicht 30
+und Osteuropa
+iVWL-BSc-SP03 Politikwissenschaft mit Ausrichtung auf Mittel- Wahlpflicht 30
+und Osteuropa
+iVWL-BSc-SP04 Geschichte und Kulturwissenschaft mit Wahlpflicht 30
+Ausrichtung auf Mittel- und Osteuropa
+476. Wahlmodulgruppe für Studierende der iVWL
+Qualifikationsziele der Modulgruppe:
+Ziel  dieser  Modulgruppe  ist  es,  den  Studierenden  die  Möglichkeit  zu  geben,  Qualifikationen  im
+volkswirtschaftlichen und wirtschaftlichen Bereich ohne Einschränkung durch Pflicht- bzw. Wahlpflichtkanon zu
+erwerben und damit ihre fachbezogene Wissensbasis zu erweitern bzw. zu ergänzen. Durch Belegung von
+Modulen der Fakultät für Wirtschaftswissenschaften können sie in den anderen Modulgruppen erworbenes
+Fachwissen weiter vertiefen und ergänzen oder grundlegende Kompetenzen in für sie neuen Bereichen erwerben.
+Dies gilt auch für Module mit wirtschaftswissenschaftlichem Inhalt, die an einer anderen Hochschule im Rahmen
+eines Auslandssemesters/Auslandsjahrs bzw. im Falle eines Studienortswechsels absolviert wurden.
+Darüber  hinaus  ist  es  den  Studierenden  möglich,  mit  einem  einschlägigen  Praktikum,  z.B.  in  einem
+Forschungsinstitut oder einem Unternehmen, Einblicke ins praktische Wirtschaftsleben, insbes. mit Blick auf die
+Anwendung  erworbenen  Fachwissens,  gewinnen  zu  können.  Durch  dieses  Praktikum  dürfen  maximal  6  LP
+erbracht werden.
+ECTS: 18; Modulgruppenverantwortliche*r: Prof. Dr. Jürgen Jerger
+Modulkennung Modulname P/WP/W SWS G
+iVWL-BSc-WM01 Praktikum Wahl max. 6
+iVWL-BSc-WM02 Aus dem Studienangebot der Fakultät für Wahl max. 18
+Wirtschaftswissenschaften
+iVWL-BSc-WM03 Mit wirtschaftswissenschaftlichem Inhalt aus Wahl max. 18
+einem Auslandsemester / Auslandjahr (auf
+Antrag)
+iVWL-BSc-WM04 Mit wirtschaftswissenschaftlichem Inhalt von Wahl max. 18
+anderen Hochschulen im Falle eines
+Studienortswechsels (auf Antrag)
+487. Forschungsmodulgruppe für Studierende der iVWL
+Qualifikationsziele der Modulgruppe:
+Durch die Anfertigung einer Bachelorarbeit erwerben die Studierenden die Fähigkeit, ein vorgegebenes Thema
+aus  einem  Studienschwerpunkt  selbständig  mit  wissenschaftlichen  Methoden  zu  bearbeiten.  Neben  der
+inhaltlichen Komponente ist dabei auch der Erwerb der Fähigkeit einer effizienten Kommunikation komplexer
+Fakten  und  Zusammenhänge  von  großer  Bedeutung.  Neben  der  eigentlichen  Bachelorarbeit  werden  den
+Studierenden auch grundlegende Kenntnisse und Techniken des wissenschaftlichen Arbeitens vermittelt. Diese
+Kenntnisse werden im Rahmen der Seminararbeit in der gewählten Schwerpunktmodulgruppe erstmals konkret
+eingeübt.
+ECTS: 12; Modulgruppenverantwortliche*r: Prof. Dr. Jürgen Jerger
+Modulkennung Modulname P/WP/W SWS G
+iVWL-BSc-F01 Bachelorarbeit IVWL Pflicht 10
+IVWL-BSc-F02 Einführung in wissenschaftliches Arbeiten IVWL Pflicht 1V+5Ü 2
+49Modul iVWL-BSc-F01
+1. Name des Moduls: Bachelorarbeit IVWL
+2. Fachgebiet / Verantwortlich: Alle Professor:innen der VWL
+3. Inhalte des Moduls: Mit  ihrer  Bachelor-Abschlussarbeit  dokumentieren  die
+Studierenden, ein (angebotenes oder auch selbstgewähltes)
+volkwirtschaftliches  Thema  mit  Hilfe  der  Methoden  des
+vorangegangenen  Bachelorstudiums  und  unter  Anleitung
+eines  Betreuers  oder  einer  Betreuerin  kritisch  und
+eigenständig diskutieren zu können.
+Fähigkeiten  zur  kritischen  Analyse  sowie  schriftlichen
+Exposition sind auch im Berufsleben wichtig, und so trägt die
+Bachelorarbeit nicht nur zur Abrundung der Kompetenzen
+der  Bachelorstudierenden,  sondern  auch  unmittelbar  zur
+Berufsqualifikation bei.
+4. Qualifikationsziele des Moduls / zu Nach Abschluss dieses Moduls sollen die Studierenden in der
+erwerbende Kompetenzen: Lage sein, ein anspruchsvolles Thema der Internationalen
+Volkswirtschaft  zu  analysieren  und  auch  schriftlich
+überzeugend  und  verständlich  für  Dritte  zu  fixieren.  Die
+beschriebene  selbständige  und  methodische  Bearbeitung
+eines Themas der Internationalen Volkswirtschaft baut auf
+den Lernergebnissen des Bachelorstudiums auf.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc IVWL (PO2021), FMG "Forschungsmodulgruppe für
+Studierende der iVWL"
+7. Angebotsturnus des Moduls: im Turnus Sommersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 6
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 300 (10 LP*30 Stunden)
+Anzahl Leistungspunkte: davon:
+Selbststudium 300 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Bachelorarbeit IVWL Schriftliche 90 Tage 20 - 40 100
+Hausarbeit Seiten
+50Modul IVWL-BSc-F02
+1. Name des Moduls: Einführung in wissenschaftliches Arbeiten IVWL
+2. Fachgebiet / Verantwortlich: Alle Professor:innen der VWL
+3. Inhalte des Moduls: - Erläuterungen zu Zielen und Methodiken wissenschaftlichen
+Arbeitens
+-  Grundsätzliche  Vorgehensweise  beim  wissenschaftlichen
+Arbeiten
+- Verfassen einer schriftlichen wissenschaftlichen Arbeit
+- Bestandteile und Gliederung sowie formale Gestaltung der
+Arbeit
+- Verwendung sowie Zitieren von Literatur
+-  Hinweise  zur  Literaturrecherche  und  Nutzung  von
+Datenbanken
+- Ethische Grundsätze wissenschaftlichen Arbeitens
+- Hinweise zur Präsentation wissenschaftlicher Erkenntnis
+Neben  der  Einführung  zum  wissenschaftlichen  Arbeiten
+erfolgt ein intensives individuelles und persönliches Coaching
+der  Studierenden  während  der  Bearbeitungsphase  der
+Bachelorarbeit.
+4. Qualifikationsziele des Moduls / zu Nach  Abschluss  dieses  Moduls  haben  die  Studieren
+erwerbende Kompetenzen: Kompetenzen zur Erstellung einer wissenschaftlichen Arbeit
+(Bachelorarbeit) vermittelt bekommen, indem sie die kritische
+Auseinandersetzung  mit  einer  Problemstellung  unter
+Anwendung  wissenschaftlicher  Methoden  und  der
+einschlägigen Fachliteratur erlernten.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc IVWL (PO2021), FMG "Forschungsmodulgruppe für
+Studierende der iVWL"
+7. Angebotsturnus des Moduls: im Turnus Sommersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 6. Semester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 60 (2 LP*30 Stunden)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 15 Std. (1 SWS)
+2. Selbststudium (inkl. Prüfung): 45 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 Seminar Einführung in wissenschaftliches 1
+Arbeiten IVWL
+5113. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Einführung in Mündliche 30 Vor Beginn der 100
+wissenschaftliches Arbeiten Prüfung Bearbeitungszeit der
+IVWL Bachelorarbeit
+14. Bemerkungen:
+- Die Veranstaltung Einführung in wissenschaftliches Arbeiten wird von jedem VWL-Lehrstuhl angeboten.
+- Der bzw. die Studierende ist verpflichtet, an der Veranstaltung des Lehrstuhls teilzunehmen, an dem er bzw. sie
+seine bzw. ihre Bachelorarbeit verfasst.
+52
+Powered by TCPDF (www.tcpdf.org)

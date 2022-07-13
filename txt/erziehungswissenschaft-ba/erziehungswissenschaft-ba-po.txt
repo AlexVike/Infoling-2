@@ -1,0 +1,946 @@
+input_dictionary =  
+ 
+STUDIEN- UND PRÜFUNGSORDNUNG FÜR DEN BACHELORSTUDIENGANG 
+ERZIEHUNGSWISSENSCHAFT (EDUCATIONAL SCIENCE) 
+AN DER UNIVERSITÄT REGENSBURG 
+ 
+VOM 14. JULI 2016 
+Geändert durch Satzung vom 12. Februar 2020 
+ 
+ 
+Aufgrund von Art. 13 Abs. 1 Satz 2 in Verbindung mit Art. 58 Abs. 1 Satz 1 und Art. 61 Abs. 2 
+Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Regensburg folgende 
+Studien- und Prüfungsordnung: 
+ 
+Vorbemerkung zum Sprachgebrauch:  
+Alle Personen- und Funktionsbezeichnungen in dieser Satzung gelten für Frauen und Männer in 
+gleicher Weise. 
+ 
+Inhaltsübersicht 
+ 
+I. Allgemeine Vorschriften 
+§ 1  Geltungsbereich 
+§ 2  Zweck der Prüfung, Akademischer Grad 
+§ 3  Studienbeginn, Regelstudienzeit, Gliederung des Studiums 
+§ 4  Qualifikation    
+§ 5  Studienberatung 
+§ 6  Leistungspunktesystem und Punktekonto 
+§ 7  Lehrveranstaltungen, Studien- und Prüfungsleistungen  
+§ 8  Module 
+§ 9    Prüfungsausschuss 
+§ 10  Prüfende und Beisitzer 
+§ 11  Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht 
+§ 12  Anrechnung von Kompetenzen 
+§ 13  Berücksichtigung besonderer Lebenssituationen 
+§ 14  Besondere Belange Studierender mit Behinderung oder chronischer Erkrankung 
+ 
+II. Spezielle Prüfungsvorschriften 
+§ 15  Bestandteile der Bachelorprüfung 
+§ 16  Studienverlaufskontrolle 
+§ 17  Form und Verfahren von Bachelorprüfung und Modulprüfungen 
+§ 18  Prüfungstermine, Anmeldung zu Modulprüfungen 
+§ 19  Schriftliche Modulprüfungen 
+§ 20  Mündliche Modulprüfungen 
+§ 21  Bachelorarbeit 
+§ 22  Anmeldung zur Bachelorarbeit 
+§ 23  Prüfungsfristen 
+§ 24  Bewertung von Prüfungsleistungen, Bekanntgabe des Prüfungsergebnisses  
+§ 25  Wiederholbarkeit von Modulprüfungen und Bachelorarbeit 
+§ 26  Mängel im Prüfungsverfahren § 27  Versäumnis, Rücktritt, Täuschung, Ordnungsverstoß 
+§ 28  Bestehen der Bachelorprüfung, Gesamtnote  
+§ 29  Zeugnis, Bachelorurkunde, Diploma Supplement  
+§ 30  Ungültigkeit von Prüfungen 
+§ 31  Einsicht in die Prüfungsunterlagen 
+§ 32  Entzug des Grades 
+ 
+III. Schlussvorschriften 
+§ 33  In-Kraft-Treten 
+ 
+ 
+I.  Allgemeine Vorschriften 
+ 
+§ 1 
+Geltungsbereich 
+ 
+1Die Universität Regensburg bietet den Bachelorstudiengang Erziehungswissenschaft (Educational 
+Science) an. 2Die vorliegende Studien- und Prüfungsordnung regelt den Erwerb von Studien- und 
+Prüfungsleistungen und die Verleihung des akademischen Grades in diesem Studiengang. 
+ 
+ 
+§ 2 
+Zweck der Prüfung, Akademischer Grad 
+ 
+(1)  1Die  studienbegleitend  abzulegende  Bachelorprüfung  bildet  einen  ersten 
+berufsqualifizierenden Abschluss des Studiums. 2Durch die Bachelorprüfung wird festgestellt, 
+ob der Studierende die Zusammenhänge des Faches überblickt und kritisch beurteilen kann, 
+die  Fähigkeit  besitzt,  dessen  wissenschaftliche  Methoden  und  Erkenntnisse  anzuwenden 
+sowie  die  für  den  Übergang  in  die  Berufspraxis  notwendigen  Fachkenntnisse  und 
+Schlüsselqualifikationen erworben hat.  
+ 
+(2)  1Ziel  des  Bachelorstudiengangs  Erziehungswissenschaft  (Educational  Science)  ist  es, 
+Studierende  zu  befähigen,  Menschen  bei  der  Bewältigung  beruflicher  Anforderungen  zu 
+unterstützen und ihren Lernprozess und Kompetenzerwerb anzuregen. 2Dies kann z. B. durch 
+die Entwicklung von Lehr-Lern-Arrangements, durch den Einsatz neuer Medien oder durch die 
+Evaluation  von  Bildungsmaßnahmen  erfolgen.  3Die  Studierenden  sollen  im  Stande  sein, 
+pädagogische Praxis gezielt auf der Grundlage erziehungswissenschaftlicher Theorien unter 
+Einsatz empirischer Forschungsmethoden zu gestalten und zu verändern. 
+ 
+(3)  Aufgrund  der  bestandenen  Bachelorprüfung  verleiht  die  Universität  Regensburg  den 
+akademischen Grad eines „Bachelor of Arts“ (abgekürzt: „B.A.“).  
+ 
+ 
+§ 3 
+Studienbeginn, Regelstudienzeit, Gliederung des Studiums 
+ 
+(1)  Das Studium kann nur im Wintersemester aufgenommen werden. 
+ 
+(2)  Die Regelstudienzeit beträgt sechs Semester.  
+  2  
+(3)  1Der Studiengang ist modular aufgebaut. 2Das Bachelorstudium umfasst das Absolvieren der 
+vorgesehenen Module, das Absolvieren eines Wahlbereichs gem. § 15 sowie die Anfertigung 
+der Bachelorarbeit.  
+ 
+(4)  Zum erfolgreichen Abschluss des Bachelorstudiums sind 180 Leistungspunkte (LP) erforderlich. 
+ 
+(5)  Es wird empfohlen, einen im Rahmen des Bachelorstudiums geplanten Auslandsaufenthalt im 
+fünften Semester durchzuführen.  
+ 
+ 
+§ 4 
+Qualifikation 
+ 
+Voraussetzungen für die Aufnahme in diesen Bachelorstudiengang sind: 
+1.  Nachweis über die allgemeine oder einschlägige fachgebundene Hochschulreife gemäß der 
+Verordnung über die Qualifikation für ein Studium an den Hochschulen des Freistaates Bayern 
+und den staatlich anerkannten nichtstaatlichen Hochschulen in der jeweils geltenden Fassung 
+oder eine äquivalente ausländische Hochschulzugangsberechtigung oder Nachweis über die 
+Hochschulzugangsberechtigung nach Art. 45 BayHSchG. 
+2.  Bei  Bewerbern,  die  ihre  Hochschulzugangsberechtigung  nicht  an  einer  deutschsprachigen 
+Einrichtung erworben haben, ist ein Nachweis über ausreichende Deutschkenntnisse in Form 
+der Deutschen Sprachprüfung für den Hochschulzugang (DSH) mit einem Gesamtergebnis von 
+mindestens DSH-2 oder einer äquivalenten Prüfung zu erbringen.  
+ 
+ 
+§ 5 
+Studienberatung 
+ 
+(1)  1Den  Studierenden  wird  sowohl  eine  zentrale  Studienberatung  als  auch  eine 
+Fachstudienberatung angeboten. 2Den Studierenden wird empfohlen, 
+ 
+die zentrale Studienberatung insbesondere  
+- vor Aufnahme des Studiums, 
+- im Fall von Studienfach- oder Hochschulwechsel, 
+ 
+die Fachstudienberatung insbesondere 
+- in allen Fragen der Studienplanung (u. a. Auslandsaufenthalt), 
+- bei Fragen zur Anerkennung von Studien- und Prüfungsleistungen, 
+- nach nicht bestandenen Prüfungen, 
+ 
+die Beratung des International Office insbesondere  
+ 
+- vor einem Studienaufenthalt im Ausland  
+ 
+in Anspruch zu nehmen. 
+ 
+(2)  Die in § 16 vorgesehene Fachstudienberatung entspricht der gemäß Art. 60 Satz 2 BayHSchG 
+erforderlichen Studienverlaufskontrolle. 
+  3 § 6 
+Leistungspunktesystem und Punktekonto 
+ 
+(1)  1Die  im  Rahmen  dieses  Bachelorstudiengangs  vergebenen  Leistungspunkte  bemessen  die 
+erforderliche Arbeitslast für das erfolgreiche Ablegen eines Moduls, für das Erfüllen weiterer 
+Leistungen im Wahlbereich gemäß § 15 sowie für die Anfertigung der Bachelorarbeit. 2Sie 
+werden  auf  Grundlage  des  European  Credit  Transfer  Systems  (ECTS)  vergeben;  danach 
+entspricht ein Leistungspunkt (LP) einer Arbeitsbelastung der Studierenden im Präsenz- und 
+Selbststudium von 30 Stunden. 3Um die Regelstudienzeit gemäß § 3 Abs. 2 einhalten zu 
+können, wird Studierenden der Erwerb von durchschnittlich 30 LP pro Semester empfohlen.  
+ 
+(2)  1Leistungspunkte werden für den erfolgreichen Abschluss eines Moduls, für das erfolgreiche 
+Absolvieren von Veranstaltungen im Wahlbereich sowie für das erfolgreiche Anfertigen der 
+Bachelorarbeit  vergeben.  2Sie  können  innerhalb  des  gewählten  Studiengangs  nur  einmal 
+angerechnet werden. 
+ 
+ (3) 1Für jeden Studierenden wird vom Prüfungsamt ein Leistungspunktekonto über sämtliche 
+Module  einschließlich  der  zu  ihrem  erfolgreichen  Abschluss  abgelegten  Studien-  und 
+Prüfungsleistungen  geführt.  2Der  Studierende  kann  über  das  elektronische 
+Prüfungsverwaltungssystem  der  Universität  jederzeit  Einblick  in  den  Stand  seines  Kontos 
+nehmen. 3Bei Abbruch oder endgültigem Nichtbestehen des Studiums erhält der Studierende 
+auf Antrag einen Auszug seines Kontos als Studiennachweis; dieser enthält die erreichten 
+Leistungspunkte sowie die erfolgreich absolvierten Module, gegebenenfalls mit deren Noten, 
+und lässt erkennen, ob noch ein Prüfungsanspruch besteht. 
+ 
+ 
+§ 7 
+Lehrveranstaltungen, Studien- und Prüfungsleistungen 
+ 
+(1)  1Für  die  Vermittlung  der  Ziele  und  Inhalte  des  Studiums  sind  im  Pflichtbereich  folgende 
+Lehrveranstaltungsformen vorgesehen: 
+ 
+Vorlesungen 
+  Seminare 
+  Pflicht-Praktikum 
+   
+  2Alle Lehrveranstaltungen mit Ausnahme des Wahlbereichs sind Modulen (§ 8) zugeordnet. 
+3Die Zuordnung ergibt sich aus dem Modulkatalog (§ 8 Abs. 5). 
+ 
+(2) 1Studienleistungen sind Aufgaben, die im Rahmen von Lehrveranstaltungen zu erbringen sind; 
+sie können nach näherer Maßgabe von § 15 auch als Zulassungsvoraussetzung zu einer 
+Modulprüfung festgelegt werden. 2Sie unterliegen nicht den Bestimmungen über Prüfungen 
+gemäß Abschnitt II dieser Ordnung und sind beliebig oft wiederholbar. 3Studienleistungen 
+können sein: Referate, Übungsaufgaben, Berichte, aktive Mitarbeit und  Absolvieren  eines 
+Praktikums.  
+ 
+ (3) Prüfungen  bzw.  Prüfungsleistungen  im  Sinne  dieser  Ordnung  sind  Modulprüfungen, 
+Prüfungsleistungen im Wahlbereich und die Bachelorarbeit.  
+ 
+  4 § 8 
+Module 
+ 
+(1)  1Ein  Modul  ist  eine  mit Leistungspunkten  versehene,  abprüfbare  Einheit, die  Stoffgebiete 
+thematisch auf einer bestimmten Niveaustufe zusammenschließt. 2Es soll in der Regel einen 
+Umfang von mindestens fünf LP aufweisen und in maximal zwei Semestern absolviert werden 
+können. 3Es gibt benotete und unbenotete Module; benotete Module fließen nach Maßgabe 
+von § 28 in die Gesamtnote der Bachelorprüfung ein.  
+ 
+(2)  1Für jedes Modul werden die zu vermittelnden Inhalte, die zu erwerbenden Kompetenzen 
+sowie  die  Voraussetzungen  für  die  Vergabe  der  dem  Modul  pauschal  zugeordneten 
+Leistungspunkte festgelegt. 2Die Vergabe der für ein Modul festgesetzten Leistungspunkte 
+erfolgt nach erfolgreichem Abschluss des Moduls. 3Voraussetzungen für den erfolgreichen 
+Abschluss eines Moduls sind: 
+a)   eine bestandene Modulprüfung gemäß § 17 und / oder 
+b)   absolvierte Studienleistungen gemäß § 7 Abs. 2. 
+ 
+(3) 1Für den erfolgreichen Abschluss eines Moduls soll in der Regel nur eine Prüfungsleistung im 
+Sinne von § 7 Abs. 3 erforderlich sein. 2In fachlich begründeten Ausnahmefällen dürfen bis zu 
+drei  Prüfungsleistungen  pro  Modul  verbindlich  vorgesehen  werden;  dabei  soll  eine 
+Gesamtprüfungsbelastung von durchschnittlich sechs Prüfungsleistungen pro Semester nicht 
+überschritten werden.  
+ 
+(4)  1Das Studium umfasst Pflichtmodule, den Wahlbereich und das Anfertigen der Bachelorarbeit 
+gemäß § 15. 2Pflichtmodule sind zu absolvieren und erfolgreich abzuschließen. 3Ein Anspruch 
+darauf,  dass  eine  Veranstaltung  des  Wahlbereichs  bei  nicht  ausreichender  Anzahl  von 
+Studierenden  durchgeführt  wird,  besteht  nicht.  4Gleiches  gilt,  wenn  der  Universität 
+Regensburg kein geeigneter Dozent zur Verfügung steht. 5Die Studierbarkeit des Studiengangs 
+muss jedoch gewährleistet sein. 
+ 
+(5)  1Die einzelnen dem Modul zugeordneten Veranstaltungen, die zu vermittelnden Inhalte und zu 
+erwerbenden Kompetenzen, die konkreten Voraussetzungen für die Vergabe der dem Modul 
+zugeordneten  Leistungspunkte,  die  modulspezifischen  Bewertungsregeln  sowie  die 
+gegebenenfalls empfohlenen Vorkenntnisse für die Teilnahme an einem Modul werden den 
+Studierenden  in  einem  Modulkatalog  mitgeteilt.  2Der  Modulkatalog  wird  vom 
+Prüfungsausschuss  im  Einvernehmen  mit  dem  Fakultätsrat  verabschiedet;  er  kann  jeweils 
+frühestens nach Ablauf von zwei Semestern geändert werden. 3Die Bekanntmachung des 
+Modulkatalogs  erfolgt  spätestens  eine  Woche  vor  Semesterbeginn  im  elektronischen 
+Modulverwaltungssystem der Universität. 
+ 
+ 
+§ 9 
+Prüfungsausschuss 
+ 
+(1)  1Für die Organisation und Durchführung der Prüfungen, die Bestellung der Prüfenden und 
+Beisitzer sowie die Entscheidung in Prüfungssachen wird ein Prüfungsausschuss gebildet. 2Er 
+besteht aus drei Mitgliedern. 3Die Mitglieder werden durch den Fakultätsrat bestellt. 4Die 
+Amtszeit der Mitglieder des Prüfungsausschusses beträgt drei Jahre; eine Wiederbestellung ist 
+möglich. 
+  5  
+(2)  1Der Prüfungsausschuss benennt aus seiner Mitte einen Vorsitzenden und einen Stellvertreter. 
+2Der Vorsitzende muss Professor für Pädagogik sein. 3Der Vorsitzende führt die laufenden 
+Geschäfte und beruft die Sitzungen des Prüfungsausschusses ein. 4Er ist befugt, anstelle des 
+Prüfungsausschusses  unaufschiebbare  Entscheidungen  und  Maßnahmen  allein  zu  treffen. 
+5Davon unterrichtet er den Prüfungsausschuss unverzüglich. 6Der Prüfungsausschuss kann dem 
+Vorsitzenden, dessen Stellvertreter oder dem Zentralen Prüfungssekretariat widerruflich die 
+Erledigung weiterer Aufgaben übertragen. 
+ 
+(3)  1Der Prüfungsausschuss ist beschlussfähig, wenn sämtliche Mitglieder unter Einhaltung einer 
+mindestens  dreitägigen  Ladungsfrist  geladen  sind  und  die  Mehrheit  anwesend  und 
+stimmberechtigt ist; er beschließt mit der Mehrzahl der abgegebenen Stimmen in Sitzungen. 
+2Stimmenthaltung, geheime Abstimmung und Stimmrechtsübertragung sind nicht zulässig. 
+3Bei Stimmengleichheit gibt die Stimme des Vorsitzenden den Ausschlag. 4Über die Sitzung ist 
+ein  Protokoll  zu  führen,  welches  Tag  und  Ort  der  Sitzung,  die  Namen  der  anwesenden 
+Personen,  die  behandelten  Gegenstände  sowie  Anträge,  Beschlüsse  und  das 
+Abstimmungsergebnis enthalten muss. 5Alternativ zu Satz 1 kommt in geeigneten Fällen eine 
+Beschlussfassung im Umlaufverfahren, auch in elektronischer Form, in Betracht.     
+ 
+(4)  1Der  Prüfungsausschuss  erlässt  die  nach  dieser  Prüfungsordnung  erforderlichen  Bescheide 
+schriftlich  mit  Begründung  und  Rechtsbehelfsbelehrung.  2Dem  Prüfungskandidaten  ist  vor 
+Erlass  einer  ihn  beschwerenden  Entscheidung  Gelegenheit  zur  Äußerung  zu  geben. 
+3Widerspruchsbescheide  erlässt  der  Präsident  in  fachlich-prüfungsrechtlichen  Fragen  im 
+Einvernehmen mit dem Prüfungsausschuss und nach Anhörung der zuständigen Prüfer. 
+ 
+(5)  Das Zentrale Prüfungssekretariat unterstützt den Prüfungsausschuss bei der Organisation und 
+Durchführung der Prüfungen. 
+ 
+ 
+§ 10 
+Prüfende und Beisitzer 
+ 
+(1)  1Zu Prüfenden können alle nach dem BayHSchG sowie nach der Hochschulprüferverordnung 
+(HSchPrüferV)  in  der  jeweils  geltenden  Fassung  zur  Abnahme  von  Hochschulprüfungen 
+Befugte  bestellt  werden.  2Als  Beisitzer  kann  jedes  Mitglied  der  Universität  Regensburg 
+herangezogen  werden,  das  einen  entsprechenden  oder  vergleichbaren  wissenschaftlichen 
+Studiengang erfolgreich abgeschlossen hat. 3Die Beisitzer selbst prüfen nicht. 
+ 
+(2)  1Zum Betreuer für die Bachelorarbeit können alle Hochschullehrer gemäß Art. 2 Abs. 3 Satz 1 
+Bayer. Hochschulpersonalgesetz (BayHSchPG) bestellt werden. 2Daneben können auch die 
+nach dem Bayerischen Hochschulgesetz sowie nach § 3 Abs. 1 i. V. m. § 2 Abs. 1 Nr. 1 und 
+Nr. 2 HSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Hochschulprüfungen 
+befugten Mitglieder der Universität Regensburg herangezogen werden. 3Bei den in § 2 Abs. 1 
+Nr. 2 HSchPrüferV genannten Personen muss es sich um promovierte hauptberufliche, der 
+Fakultät für Psychologie, Pädagogik und Sportwissenschaft zugeordnete Mitarbeiter handeln. 
+4Die Bestellung eines wissenschaftlichen Mitarbeiters erfolgt gesondert für jeden Einzelfall auf 
+Antrag eines Hochschullehrers an den Prüfungsausschuss. 
+ 
+  6 (3)  1Scheidet ein prüfungsberechtigtes Mitglied aus der Universität Regensburg aus, so kann der 
+Prüfungsausschuss auf seinen Antrag hin beschließen, dass er noch eine angemessene Zeit als 
+Prüfer tätig ist. 2In der Regel soll die Prüfungsberechtigung bis zu zwei Jahre erhalten bleiben. 
+3Für Professoren im Ruhestand kann ein längerer Zeitraum vorgesehen werden. 
+ 
+(4)  Ein  kurzfristig  vor  Beginn  der  Prüfung  aus  zwingenden  Gründen  notwendig  werdender 
+Wechsel des Prüfers ist zulässig. 
+ 
+ 
+§ 11 
+Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht 
+ 
+(1)  Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer 
+Prüfungstätigkeit  wegen  persönlicher  Beteiligung  bestimmt  sich  nach  Art.  41 
+Abs. 2 BayHSchG. 
+  
+(2)  Die  Pflicht  der  Mitglieder  des  Prüfungsausschusses,  der  Prüfer,  der  Prüfungsbeisitzer  und 
+sonstiger mit Prüfungsangelegenheiten befasster Personen zur Verschwiegenheit bestimmt 
+sich nach Art. 18 Abs. 3 BayHSchG. 
+ 
+ 
+§ 12 
+Anrechnung von Kompetenzen 
+ 
+(1)  1Studienzeiten, Studien- und Prüfungsleistungen, die in Studiengängen an anderen staatlichen 
+oder  staatlich  anerkannten  Hochschulen  in  der  Bundesrepublik  Deutschland,  durch  die 
+erfolgreiche Teilnahme an einer Fernstudieneinheit im Rahmen eines Studiengangs an einer 
+staatlichen oder staatlich anerkannten Hochschule in der Bundesrepublik Deutschland oder in 
+Studiengängen  an  ausländischen  Hochschulen  erbracht  worden  sind,  sind  anlässlich  der 
+Aufnahme des Studiums, der Fortsetzung des Studiums und der Ablegung von Prüfungen 
+anzurechnen,  außer  es  bestehen  wesentliche  Unterschiede  hinsichtlich  der  erworbenen 
+Kompetenzen  (Lernergebnisse).  2Gleiches  gilt  für  Studienzeiten,  Studien-  und 
+Prüfungsleistungen, die an einer staatlichen oder staatlich anerkannten Hochschule in Bayern 
+im Rahmen von sonstigen Studien nach Art. 56 Abs. 6 Nrn. 1 und 2 BayHSchG, in speziellen 
+Studienangeboten nach Art. 47 Abs. 3 Satz 1 BayHSchG oder an der Virtuellen Hochschule 
+Bayern erbracht worden sind. 
+ 
+(2)  1Kompetenzen, die im Rahmen sonstiger weiterbildender Studien nach Art. 56 Abs. 6 Nr. 3 
+BayHSchG oder außerhalb des Hochschulbereichs erworben wurden, können angerechnet 
+werden,  wenn  sie  gleichwertig  sind.  2Außerhalb  des  Hochschulbereichs  erworbene 
+Kompetenzen dürfen höchstens die Hälfte der nachzuweisenden Kompetenzen ersetzen. 
+ 
+(3)  1Entspricht bei der Anrechnung im Ausland erbrachter Studien- und Prüfungsleistungen das 
+Notensystem der ausländischen Hochschule nicht § 24, so wird die Note der anzurechnenden 
+Prüfungsleistung entsprechend einem universitätsweit geltenden Notenumrechnungsschlüssel 
+ermittelt. 2Sofern im Rahmen von Partnerschaftsabkommen mit ausländischen Hochschulen 
+ein Notenumrechnungsschlüssel vereinbart worden ist, ist dieser bindend. 
+ 
+  7 (4) 1Die Anrechnung von Studienzeiten sowie Studien- und Prüfungsleistungen setzt einen 
+schriftlichen Antrag des Bewerbers voraus. 2In der Regel wird pro abgeschlossenen 30 LP 
+ein  Fachsemester  angerechnet.  3Der  Antrag  ist  unter  Beifügung  der  entsprechenden 
+Unterlagen  an  den  Vorsitzenden  des  Prüfungsausschusses  zu  richten.  4Zu  den 
+einzureichenden Unterlagen gehören insbesondere der Modulkatalog, aus welchem sich 
+unter  anderem  die  Qualifikationsziele,  Lerninhalte  und  der  Arbeitsumfang  ergeben 
+müssen,  sowie  das  der  Bewertung  des  Moduls  zugrundeliegende  Notensystem.  5Ein 
+Antrag auf Anrechnung von nicht an der Universität Regensburg erbrachten Leistungen 
+kann nur einmal und zwar innerhalb des ersten Semesters nach (Wieder-)Aufnahme des 
+Studiums an der Universität Regensburg gestellt werden. 6Wechselt ein Studierender der 
+Universität Regensburg den Studiengang, kann der Antrag nur einmal innerhalb des ersten 
+Fachsemesters  des  neuen  Studiengangs  gestellt  werden.  7Mit  dem  Antritt  der  zu 
+ersetzenden  Prüfung  ist  die  Anrechnung  ausgeschlossen.  8Über  das  Vorliegen  der 
+Voraussetzungen  für  die  Anerkennung  entscheidet  der  Vorsitzende  des 
+Prüfungsausschusses  im  Einvernehmen  mit  dem  zuständigen  Fachvertreter  unter 
+Beachtung von Art. 63 BayHSchG. 
+ 
+ 
+ 
+§ 13 
+Berücksichtigung besonderer Lebenssituationen 
+ 
+(1)  1Auf Antrag ist bei Fristen und Terminen die Inanspruchnahme der Schutzfristen entsprechend 
+den §§ 3, 4, 5 und 6 des Mutterschutzgesetzes vom 23. Mai 2017 in der jeweils gültigen 
+Fassung sowie der Fristen des Gesetzes zum Elterngeld und zur Elternzeit vom 5. Dezember 
+2006 in der jeweils geltenden Fassung zu gewährleisten. 2Die entsprechenden Nachweise sind 
+zu führen; Änderungen in den Voraussetzungen sind unverzüglich mitzuteilen. 
+ 
+(2)  1Auf  Prüfungsfristen  werden  auf  Antrag  Studienzeiten  nicht  angerechnet,  in  denen  ein 
+ordnungsgemäßes Studium aus vom Studierenden nicht zu vertretenden Gründen nicht oder 
+nur sehr eingeschränkt möglich ist. 2Nicht zu vertretende Gründe sind insbesondere Krankheit 
+oder die häusliche Pflege schwer erkrankter Angehöriger. 3Die entsprechenden Nachweise 
+sind unverzüglich zu führen, insbesondere sind ärztliche Atteste, in Zweifelsfällen amtsärztliche 
+Atteste, vorzulegen. 4Änderungen in den Voraussetzungen sind unverzüglich mitzuteilen.  
+ 
+(3)  1Schwangeren kann in der Prüfung auf Antrag insbesondere eine Pause gewährt werden, 
+wenn  nachgewiesen  wird,  dass  wegen  der  Schwangerschaft  die  Prüfung  nicht  in  der 
+vorgesehenen Dauer erbracht werden kann. 2Eine ärztliche Bescheinigung ist vorzulegen. 3§ 14 
+Abs. 3 gilt entsprechend. 
+ 
+(4) Es wird empfohlen, die familienfreundlichen Studien- und Prüfungsregelungen – Richtlinien der 
+Universität Regensburg – in der jeweils gültigen Fassung grundsätzlich zu berücksichtigen. 
+ 
+ 
+§ 14 
+Besondere Belange Studierender mit Behinderung oder chronischer Erkrankung 
+ 
+ (1)  1Die besondere Lage von Studierenden mit Behinderung oder chronischer Erkrankung ist in 
+angemessener Weise zu berücksichtigen. 2Macht der Studierende glaubhaft, dass er wegen 
+  8 einer  Behinderung  oder  chronischen  Erkrankung  nicht  in  der  Lage  ist,  Studien-  und 
+Prüfungsleistungen gemäß § 7 ganz oder teilweise in der vorgesehenen Form oder innerhalb 
+der vorgegebenen Frist  abzulegen, gestattet der Prüfungsausschuss  die Verlängerung der 
+Bearbeitungszeit bzw. der Fristen für das Ablegen von Studien- und Prüfungsleistungen oder 
+das Ablegen gleichwertiger Studien- und Prüfungsleistungen in einer bedarfsgerechten Form.  
+ 
+(2)  Wenn absehbar ist, dass ein Studium in der vorgesehenen Form oder Zeit aufgrund von 
+Behinderung  oder  chronischer  Erkrankung  nicht  durchgeführt  werden  kann,  besteht  die 
+Möglichkeit, in Absprache mit dem Prüfungsausschuss einen Studienplan aufzustellen, der sich 
+an dem individuell eingeschränkten Leistungsvermögen orientiert.  
+ 
+(3)  1Der Vorsitzende des Prüfungsausschusses entscheidet über Fälle gemäß Abs. 1 und 2 auf 
+schriftlichen Antrag, der in der Regel spätestens vier Wochen vor Prüfungsbeginn zu stellen 
+und  beim  Zentralen  Prüfungssekretariat  einzureichen  ist,  und  teilt  die  Entscheidung  dem 
+Studierenden schriftlich mit. 2Im Antrag nach Satz 1 kann sich der Studierende zugleich dafür 
+aussprechen, dass vor einer ablehnenden Entscheidung der Senatsbeauftrage für Studierende 
+mit  Behinderung  oder  chronischer  Erkrankung  anzuhören  ist.  3Die  Bescheide  des 
+Prüfungsausschusses sind bei der Anmeldung und Ablegung der Prüfungen vorzulegen. 
+ 
+(4)  Zur Glaubhaftmachung einer Behinderung oder chronischen Krankheit ist ein ärztliches Attest, 
+in Zweifelsfällen ein amtsärztliches Attest, vorzulegen. 
+ 
+ 
+II. Spezielle Prüfungsvorschriften 
+ 
+§ 15 
+Bestandteile der Bachelorprüfung 
+ 
+(1)  1Die Bachelorprüfung besteht aus dem Nachweis von 180 LP. 2Diese werden erbracht durch   
+1.   den Nachweis von 168 LP durch das erfolgreiche Ablegen der folgenden, im Modulkatalog 
+näher beschriebenen Module und Veranstaltungen im Wahlbereich, darunter 
+ 
+  a) Module des Bachelorstudiums im Umfang von mindestens 138 LP 
+ 
+Modul- Modulname  ECTS/ Prüfungsform  Prüfungs-  Zulassungs-
+kürzel  LP  umfang  voraussetzung 
+EDU- Individuelle  15  Klausur  90  keine 
+BA-M01  Voraussetzungen von  Minuten 
+Erziehung und Bildung 
+EDU- Analyse und  15  Klausur  90  keine 
+BA-M02  Entwicklung von  Minuten 
+Lernumgebungen 
+EDU- Konzeption und  15  Klausur  90  EDU-BA-M01 
+BA-M03  Durchführung von  Minuten  oder EDU-BA-
+Beratung  M02 
+EDU- Evaluation von  15  Klausur   90  EDU-BA-M01 
+BA-M04  Bildungsprozessen  Minuten  oder EDU-BA-
+M02 
+EDU- Vertiefung  10  2*Hausarbeit  2*15-20  EDU-BA-M01 
+BA-M05  erziehungswissenschaft Seiten  und EDU-BA-
+licher Themen  M02 
+  9 EDU- Planung und  10  Bericht  15-20  EDU-BA-
+BA-M06  Durchführung von  Seiten  M01,EDU-BA-
+Forschungsarbeiten  M02 und EDU-
+BA-M10 
+EDU- Praktikum  12  Bericht  15-20  keine 
+BA-M07  Seiten 
+EDU- Einführung in die  8  Klausur  90  keine 
+BA-M08  Erziehungswissenschaft  Minuten 
+EDU- Historische und  8  Klausur  90  keine 
+BA-M09  politische  Minuten 
+Rahmenbedingungen 
+EDU- Statistik   12  2*Klausur  2*90  keine 
+BA-M10  Minuten 
+EDU- Empirische  8  Klausur  60  keine 
+BA-M11  Bildungsforschung  Minuten 
+EDU- Berufsfeldorientierte  10  abhängig von  abhängig  keine 
+BA-M12  Kompetenzen (BOK)  gewählten  von 
+Veranstal- gewählten 
+tungen  Veranstal-
+tungen 
+ 
+und  
+ 
+b)  Absolvieren  von  Veranstaltungen  im  Wahlbereich  im  Umfang  von  30  LP:  Der 
+Wahlbereich  dient  der  Entwicklung  eines  beruflichen  Profils.  Durch  das 
+fachübergreifende  Studium  wird  es  den  Studierenden  möglich,  die  Komplexität 
+erziehungswissenschaftlicher  Fragestellungen  aus  unterschiedlichen  Perspektiven  zu 
+beleuchten. Im Rahmen des Wahlbereichs können sowohl Lehrveranstaltungen aus 
+dem Pflicht- oder Wahlpflichtangebot eines Studienganges als auch eine Kombination 
+von  Lehrveranstaltungen  aus  dem  Pflicht-  oder  Wahlpflichtangebot  verschiedener 
+Studiengänge der Universität Regensburg eingebracht werden. Ausgeschlossen sind 
+Veranstaltungen aus dem Angebot des Instituts für Erziehungswissenschaft, aus dem 
+Angebot des Zentrums für Sprache und Kommunikation und aus dem Angebot des 
+Rechenzentrums sowie Praktika. Es gelten die Maßgaben der jeweiligen Studien- und 
+Prüfungsordnung des Studiengangs, dem die besuchte Veranstaltung zugeordnet ist. 
+Gleiches gilt für eventuell bestehende Zugangsbeschränkungen, die sich nach den für 
+das  jeweilige  Fach  geltenden  Bestimmungen  richten.  Um  die  Verwendbarkeit  von 
+Leistungen für den Wahlbereich sicher zu gewährleisten, wird empfohlen, vor Beginn 
+des Wahlbereichsstudiums die Fachstudienberatung aufzusuchen.   
+ 
+2.  das Anfertigen der Bachelorarbeit im Umfang von 12 LP. 
+ 
+(2)  Konsekutivität 
+  1Für  einen  erfolgreichen  Studienverlauf  sind  die  folgenden  Lehrveranstaltungs-  und 
+Modulabfolgen erforderlich. 2Das Modul EDU-BA-M03 und das Modul EDU-BA-M04 können 
+erst nach erfolgreichem Abschluss des Moduls EDU-BA-M01 oder EDU-BA-M02 absolviert 
+werden. 3Das Modul EDU-BA-M05 kann erst nach dem erfolgreichen Abschluss der Module 
+EDU-BA-M01 und EDU-BA-M02 absolviert werden. 4Das Modul EDU-BA-M06 kann erst nach 
+dem  erfolgreichen  Abschluss  der  Module  EDU-BA-M01,  EDU-BA-M02  und  EDU-BA-M10 
+absolviert werden. 
+ 
+(3)  1Die erfolgreiche Vermittlung der in Seminaren der Module EDU-BA-M01, EDU-BA-M02, EDU-
+BA-M03  und  EDU-BA-M04  zu  erwerbenden  fachlichen,  methodischen  und  kooperativen 
+  10Kompetenzen setzt die regelmäßige Mitwirkung der Studierenden voraus. 2Diese besteht in 
+der Beteiligung an diskursiven Prozessen in den aufeinander aufbauenden Seminarsitzungen, 
+in  der  mündlichen  und  schriftlichen  Präsentation  von  Ergebnissen  der  jeweiligen 
+Sitzungsvorbereitung  und  in  der  zur  Ergebnissicherung  notwendigen  schriftlichen 
+Nachbereitung einer Sitzung. 3Daher ist für Seminare der in Satz 1 genannten Module eine 
+regelmäßige  Teilnahme  verpflichtend.  4Die  Studierenden  dürfen  je  Lehrveranstaltung  mit 
+Teilnahmeverpflichtung höchstens 25% der Präsenzzeit fehlen. 5Die Bestimmungen des § 27 
+gelten entsprechend.    
+ 
+ 
+§ 16 
+Studienverlaufskontrolle 
+ 
+Ist bis zum Ende des zweiten Semesters nicht der Nachweis über das Ablegen von mindestens drei 
+Lehrveranstaltungen aus den Modulen EDU-BA-M01 und EDU-BA-M02 erbracht, wird dringend 
+empfohlen, unverzüglich die Fachstudienberatung aufzusuchen. 
+ 
+ 
+§ 17 
+Form und Verfahren von Bachelorprüfung und Modulprüfungen 
+ 
+(1)  Die Bachelorprüfung erfolgt studienbegleitend in Form von erfolgreich absolvierten Modulen 
+gemäß § 8 Abs. 2, erfolgreich absolvierten Prüfungsleistungen im Wahlbereich gemäß § 15 
+Abs. 1 Nr. 1 lit. b und der Bachelorarbeit gemäß § 21.   
+ 
+(2)  1Modulprüfungen sind Prüfungen, deren Ergebnis nach Maßgabe von § 28 in die Gesamtnote 
+der  Bachelorprüfung  und  in  das  Abschlusszeugnis  eingehen.  2In  der  Modulprüfung  soll 
+festgestellt  werden,  ob  der  Studierende  die  im  Modulkatalog  konkret  spezifizierten 
+Qualifikations-  und  Kompetenzziele  des  Moduls  erreicht  hat.  3In  fachlich  begründeten 
+Ausnahmefällen können im Rahmen der Modulprüfung bis zu zwei Kompetenzbereiche des 
+Moduls  getrennt  voneinander  abgeprüft  werden;  jede  dieser  Teilleistungen  ist  eine 
+Prüfungsleistung gemäß § 8 Abs. 3 Satz 2. 4Die Prüfungsleistung wird gemäß § 24 benotet.  
+ 
+(3)  1Die konkrete Ausgestaltung (Prüfungsbestandteile, Prüfungsform, jeweilige Dauer und Inhalt) 
+der  Modulprüfungen  wird  den  Studierenden  im  Modulkatalog  bekannt  gegeben.  2Die 
+Bekanntgabe  des  jeweils  geltenden  Modulkatalogs  erfolgt  spätestens  eine  Woche  vor 
+Semesterbeginn im elektronischen Modulverwaltungssystem der Universität. 
+ 
+(4)  Voraussetzung für das Ablegen einer Modulprüfung ist die Immatrikulation als Studierender an 
+der Universität Regensburg. 
+ 
+ 
+§ 18  
+Prüfungstermine, Anmeldung zu Modulprüfungen 
+ 
+(1)  1Modulprüfungen werden mindestens einmal in dem Zeitraum, in dem das Modul stattfindet, 
+abgehalten. 2Die konkreten Prüfungstermine werden den Studierenden über das elektronische 
+Prüfungsverwaltungssystem der Universität Regensburg bekannt gegeben.  
+ 
+  11(2)  1Die  Anmeldung  zur  Prüfung  erfolgt  in  der  Regel  über  das  elektronische 
+Prüfungsverwaltungssystem der Universität Regensburg. 2Ist eine elektronische Anmeldung 
+nicht  möglich,  muss  innerhalb  der  Anmeldefrist  eine  schriftliche  Anmeldung  beim  Prüfer 
+erfolgen.3Die Teilnahme an der Prüfung ist ohne Anmeldung nicht möglich. 4Die jeweiligen 
+Prüfungen sind ab der ersten Wiederholung zum ersten möglichen Zeitpunkt abzulegen. 5Dies 
+gilt auch für nicht vom Institut für Pädagogik der Fakultät für Psychologie, Pädagogik und 
+Sportwissenschaft angebotene Module. 
+ 
+ 
+§ 19 
+Schriftliche Modulprüfungen 
+ 
+(1)  Schriftliche  Modulprüfungen  in  den  Pflichtmodulen  können  in  Form  von  Klausuren, 
+Hausarbeiten und Berichten erfolgen. 
+ 
+(2)  1Im Rahmen einer Klausur sollen die Studierenden unter Aufsicht nachweisen, dass sie in der 
+Lage sind, auf der Basis des erworbenen Wissens und mit den gängigen Methode des Faches 
+in  begrenzter  Zeit  Aufgaben  schriftlich  zu  lösen  und  Themen  zu  bearbeiten.  2Wird  eine 
+schriftliche Prüfung in Form einer Klausur abgehalten, beträgt die Prüfungsdauer mindestens 
+60 und höchstens 180 Minuten. 3Es ist ein Protokoll anzufertigen. 4Der Aufsichtführende hat 
+die Richtigkeit durch Unterschrift zu bestätigen. 5In das Protokoll sind alle Vorkommnisse 
+einzutragen, welche für die Feststellung der Prüfungsergebnisse von Belang sein können. 
+ 
+(3)  1Eine Hausarbeit ist als fortlaufender Text (gegebenenfalls mit Tabellen, Grafiken, Abbildungen 
+o. ä.) in schriftlicher Form zu erbringen. 2Es werden dabei wissenschaftliche Fragestellungen 
+mit den wissenschaftlichen Methoden des jeweiligen Fachs selbstständig ausgearbeitet. 3Wird 
+eine schriftliche Prüfung in Form einer Hausarbeit abgehalten, beträgt die Bearbeitungszeit 
+höchstens sechs Wochen und die Arbeit soll einen Umfang von 15-20 Seiten aufweisen.  
+ 
+(4)  1Mittels eines Berichts sollen die Studierenden zeigen, dass sie fähig sind, eine Veranstaltung 
+schriftlich  systematisch  aufzubereiten,  Gelerntes  strukturiert  wiederzugeben  und  Inhalte 
+kritisch zu diskutieren. 2Wird eine schriftliche Prüfung in Form eines Berichts abgehalten, so 
+soll dieser einen Umfang von 15-20 Seiten haben. 
+ 
+(5)  1Wird eine schriftliche Prüfung mit „nicht ausreichend“ bewertet, ist sie von einem zweiten 
+Prüfer zu bewerten. 2Die Gesamtnote wird gemäß § 24 Abs. 3 festgesetzt. 
+ 
+ 
+§ 20 
+Mündliche Modulprüfungen 
+ 
+(1)  1Im Rahmen einer mündlichen Prüfung weisen Studierende nach, dass sie die Zusammenhänge 
+des  Prüfungsgebietes  erkennen  und  Fragestellungen  in  diese  Zusammenhänge  einordnen 
+können. 2Mündliche Prüfungen werden von einem Prüfer und einem Beisitzer durchgeführt. 
+3Die Prüfungsdauer beträgt mindestens 15 und höchstens 30 Minuten. 
+ 
+(2)  1Über die mündliche Prüfung ist ein Protokoll anzufertigen, in das aufzunehmen sind: Ort und 
+Zeit sowie Dauer, Gegenstand und Ergebnis der Prüfung, Name des Prüfers und des Beisitzers 
+und des Kandidaten sowie besondere Vorkommnisse. 2Das Protokoll wird von dem Prüfer und 
+  12dem Beisitzer unterzeichnet. 3Die Noten für die mündlichen Prüfungsleistungen werden vom 
+Prüfer gemäß § 24 festgesetzt. 
+ 
+ 
+§ 21 
+Bachelorarbeit 
+ 
+(1)  1Die Bachelorarbeit soll in der Regel im sechsten Semester angefertigt werden. 2Sie soll zeigen, 
+dass  der  Studierende  die  Grundlagen  wissenschaftlichen  Arbeitens  in  seinem  Fachgebiet 
+beherrscht und selbständig auf eine begrenzte Themenstellung anwenden kann. 
+ 
+(2)  1Das Thema der Bachelorarbeit wird vom Betreuer (§10 Abs. 2) vergeben. 2Der Betreuer 
+meldet  alle  Themen  der  von  ihm  betreuten  Bachelorarbeiten  dem  Zentralen 
+Prüfungssekretariat, um sie dort aktenkundig zu machen. 3Das Prüfungssekretariat verschickt 
+die entsprechenden Zulassungsschreiben. 
+ 
+(3)  1Die  Bearbeitungszeit  der  Bachelorarbeit  darf  ab  Themenvergabe  12  Wochen  nicht 
+überschreiten. 2Die Frist beginnt mit der Bekanntgabe des Themas an den Kandidaten. 3Die 
+Arbeit ist so rechtzeitig abzugeben, dass der Abgabezeitpunkt vor dem Zeitpunkt aus § 23 
+Abs. 1 Satz 1 liegt. 4Weist der Kandidat nach, dass er aus Gründen, die er nicht zu vertreten 
+hat, an der Bearbeitung verhindert ist oder die Frist aus § 23 Abs. 1 Satz 1 nicht einhalten 
+kann,  wird  ihm  auf  Antrag  eine  Nachfrist  gewährt.  5Der  Antrag  ist  vom  Kandidaten 
+unverzüglich nach dem Auftreten des Grundes zu stellen. 6Die Arbeit ist fristgemäß in drei 
+gebundenen  Druckexemplaren  und  einer  zusätzlichen  digitalen  Version  (pdf-Datei)  beim 
+Zentralen  Prüfungssekretariat  abzugeben.  7Der  Abgabezeitpunkt  und  die  Vollständigkeit 
+gemäß Satz 6 sind aktenkundig zu machen. 8Bei nicht fristgerechter Abgabe wird die Arbeit 
+mit „nicht ausreichend“ bewertet. 
+ 
+(4)  1Die Bachelorarbeit kann in deutscher oder englischer Sprache vorgelegt werden und muss 
+sowohl eine deutsche als auch eine englische Zusammenfassung enthalten. 2Sie soll einen 
+Umfang von 50 Seiten nicht überschreiten. 3Sie hat am Ende eine Erklärung des Verfassers zu 
+enthalten, dass die vorgelegten Druckexemplare und die vorgelegte elektronische Version der 
+Arbeit identisch sind und er die Arbeit selbstständig verfasst und keine anderen als die von ihm 
+angegebenen Quellen und Hilfsmittel benutzt und die Arbeit nicht bereits an einer anderen 
+Hochschule zur Erlangung eines akademischen Grades eingereicht hat. 4Die Erklärung enthält 
+eine Bestätigung des Verfassers, dass er von den in § 27 Abs. 6 vorgesehenen Rechtsfolgen 
+Kenntnis hat. 
+ 
+(5)  1Die  Bachelorarbeit  ist  durch  den  Betreuer  und  einen  weiteren  vom  Vorsitzenden  des 
+Prüfungsausschusses bestellten Gutachter in der Regel bis spätestens 3 Monate nach ihrer 
+Abgabe zu bewerten. 2Für den Zweitgutachter gilt § 10 Abs. 1 Satz 1. 3Für die Festsetzung der 
+Note der Bachelorarbeit gilt § 24 Abs. 3. 
+ 
+ 
+§ 22 
+Anmeldung zur Bachelorarbeit 
+ 
+(1)  1Der  Prüfungsausschuss  legt  einen  zentralen  Termin  zur  Bekanntgabe  der 
+Bachelorarbeitsthemen eines Semesters fest. 2Dieser Termin wird mindestens sechs Wochen 
+  13zuvor bekanntgegeben. 3Studierende, welche die Zulassungsvoraussetzungen nach Abs. 2 
+erfüllen, können sich innerhalb dieser Frist im elektronischen Prüfungsverwaltungssystem zur 
+Bachelorarbeit unter Angabe des gewünschten Betreuers anmelden. 4Mit dieser Anmeldung 
+erklärt der Prüfling zugleich, die Bachelorprüfung im Fach Erziehungswissenschaft noch nicht 
+endgültig  nicht  bestanden  zu  haben.  5Die  Themenvergabe  aller  Bachelorarbeiten  eines 
+Betreuers  erfolgt  zeitgleich  zu  dem  in  Satz  2  genannten  Termin,  ab  welchem  die 
+Bearbeitungszeit beginnt. 
+ 
+(2)  Voraussetzung für die Zulassung zur Bachelorarbeit ist: 
+1.   der Nachweis von mindestens 130 LP,  
+2.  der  Nachweis  über  das  Absolvieren  des  Vorbereitungsseminar  zur  Bachelorarbeit  
+EDU-BA-M06.1 
+3.   die Immatrikulation an der Universität Regensburg. 
+ 
+(3)  Die Zulassung ist zu versagen, wenn der Kandidat 
+1.   die in Abs. 2 genannten Voraussetzungen nicht erfüllt oder 
+  2.   die in Abs. 1 Satz 3 bezeichnete Erklärung nicht abgibt, oder 
+3.   die Bachelorprüfung im Fach Erziehungswissenschaft endgültig nicht bestanden hat. 
+ (4) 1Der Kandidat kann in begründeten Ausnahmefällen das Thema einmal binnen vier Wochen 
+nach Vergabe zurückgeben. 2Die Erklärung der Rückgabe des Themas ist aktenkundig zu 
+machen. 3Für die Vergabe eines neuen Themas gilt § 21 entsprechend. 
+ 
+ 
+§ 23 
+Prüfungsfristen 
+ 
+(1)  1Hat der Kandidat die gemäß § 15 Abs. 1 zum erfolgreichen Ablegen der Bachelorprüfung 
+erforderlichen 180 LP nicht bis zum Ende des achten Fachsemesters erworben, so gilt die 
+Bachelorprüfung als abgelegt und erstmals nicht bestanden, es sei denn, dem Studierenden 
+wurde aus Gründen, die er nicht zu vertreten hat, eine Nachfrist gewährt. 2Nach Ablauf der 
+Frist des Satz 1 noch nicht absolvierte Module sowie die Bachelorarbeit gelten als abgelegt 
+und erstmals nicht bestanden. 
+ 
+(2)  1Können die zum erfolgreichen Ablegen der Bachelorprüfung noch ausstehenden Leistungen 
+nicht innerhalb der folgenden zwei Semester nachgewiesen werden, gilt die Bachelorprüfung 
+als endgültig nicht bestanden, es sei denn, dem Studierenden wurde aus Gründen, die er nicht 
+zu vertreten hat, eine Nachfrist gewährt. 2§ 25 Abs. 1 Satz 4 gilt entsprechend.  
+ 
+(3)  Nach § 12 angerechnete Studienzeiten sind auf die Fristen anzurechnen.  
+ 
+ 
+§ 24 
+Bewertung von Prüfungsleistungen, Bekanntgabe des Prüfungsergebnisses 
+ 
+(1)  1Die Prüfungsleistungen werden wie folgt benotet: 
+ 
+1 = sehr gut   eine hervorragende Leistung; 
+2 = gut   eine Leistung, die erheblich über den Anforderungen liegt; 
+  143 = befriedigend  eine Leistung, die den Anforderungen entspricht; 
+4 = ausreichend  eine Leistung, die trotz ihrer Mängel noch den Anforderungen 
+  genügt; 
+5 = nicht ausreichend  eine Leistung, die wegen erheblicher Mängel den 
+    Anforderungen nicht mehr genügt. 
+  2Eine Benotung mit „6 = ungenügend“ kann nur in den Fällen des § 27 Abs. 4 und 6 erfolgen. 
+ 
+(2)  1Zur differenzierten Bewertung der Leistungen können die Noten um 0,3 gestuft werden. 2Die 
+Noten 0,7; 4,3; 4,7 und 5,3 sind dabei ausgeschlossen. 
+ 
+(3)  1Besteht eine Prüfung aus Teilleistungen oder wird sie von mehreren Prüfern bewertet, werden 
+die Noten gemittelt; im Fall von § 17 Abs. 2 Satz 3 kann die Modulbeschreibung eine vom 
+Grundsatz der Mittelung abweichende Festlegung der Modulnote vorsehen; § 28 Abs. 2 bleibt 
+unberührt. 2Im Falle einer aus Teilleistungen bestehenden Prüfung muss jede der Teilprüfungen 
+für sich als bestanden bewertet worden sein, um mit der Note der anderen Teilleistung 
+verrechnet werden zu können. 3Bei der Bildung von Durchschnittsnoten nach Satz 1 wird die 
+erste  Dezimalstelle  nach  dem  Komma  berücksichtigt;  alle  weiteren  Stellen  werden  ohne 
+Rundung gestrichen. 4Die Note der Prüfungsleistung lautet dann bei einem Durchschnitt 
+ 
+- bis 1,5  =   sehr gut 
+  - von 1,6 bis 2,5   =   gut 
+- von 2,6 bis 3,5   =   befriedigend 
+- von 3,6 bis 4,0   =   ausreichend. 
+ 
+(4)  Eine Prüfung ist erfolgreich absolviert, wenn die Note mindestens „ausreichend“ (4,0) ist. 
+ 
+(5)  Das  Ergebnis  einer  Prüfung  gilt  dem  Prüfungsteilnehmer  mit  Ablauf  einer  Woche  nach 
+Einstellung in das elektronische Prüfungsverarbeitungsprogramm der Universität Regensburg 
+als bekannt gegeben. 
+ 
+ 
+§ 25 
+Wiederholbarkeit von Modulprüfungen und Bachelorarbeit 
+ 
+(1)  1Jede  erstmals  nicht  bestandene  Modulprüfung  kann  zweimal  wiederholt  werden. 
+2Wiederholungsprüfungen  müssen  zum  jeweils  nächstmöglichen  Termin  abgelegt  werden, 
+sofern nicht dem Kandidaten wegen besonderer, von ihm nicht zu vertretender Gründe eine 
+Nachfrist gewährt wird. 3Wird der Leistungsnachweis nicht innerhalb eines Jahres seit dem 
+erstmaligen  Prüfungsantritt  erbracht,  gilt  die  Prüfung  als  endgültig  nicht  bestanden.  4Die 
+Fristen werden durch Exmatrikulation und Beurlaubung nicht unterbrochen, es sei denn, die 
+Beurlaubung erfolgte aufgrund eines Auslandssemesters.  
+ 
+(2)  Die freiwillige Wiederholung einer bestandenen Modulprüfung ist nicht zulässig. 
+   
+(3)  1Wird die Bachelorarbeit mit „nicht ausreichend“ bewertet oder gilt sie gemäß § 23 Abs. 1 
+Satz 2 als nicht bestanden, so ist vorbehaltlich § 27 Abs. 6 eine Wiederholung mit neuem 
+Thema möglich. 2Ein Antrag auf erneute Zuteilung eines Themas ist in der Regel innerhalb von 
+sechs Monaten nach Bekanntgabe des erstmaligen Nichtbestehens zu stellen, jedoch in jedem 
+Fall so rechtzeitig, dass die Fristen aus § 23 eingehalten werden können. 3Die Frist wird durch 
+Exmatrikulation und Beurlaubung nicht unterbrochen, es sei denn, die Beurlaubung erfolgte 
+  15aufgrund eines Auslandssemesters. 4Im Rahmen eines solchen Wiederholungsversuches gelten 
+für  die  Anmeldung  nicht  die  Vorgaben  des  §  22  Abs.  1,  sondern  der  Studierende  ist 
+verpflichtet, den Antrag auf Zulassung zur Bachelorarbeit im Wiederholungsversuch und auf 
+Zuteilung eines neuen Themas schriftlich beim Zentralen Prüfungssekretariat einzureichen. 
+5Dieser Antrag ist an den Vorsitzenden des Prüfungsausschusses zu richten. 6Dem Antrag ist 
+eine Erklärung darüber beizufügen, ob der Kandidat bereits die Bachelorprüfung im Fach 
+Erziehungswissenschaft endgültig nicht bestanden hat. 7Das Prüfungssekretariat verschickt die 
+entsprechenden Schreiben für die Zulassung der Bachelorarbeit im Wiederholungsversuch. 
+8Eine zweite Wiederholung ist nicht möglich. 9§ 22 Abs. 4 ist im Wiederholungsversuch nicht 
+anwendbar. 
+ 
+ 
+§ 26 
+Mängel im Prüfungsverfahren 
+ 
+(1)  War  das  Prüfungsverfahren  mit  Mängeln  behaftet,  die  das  Prüfungsergebnis  beeinflusst 
+haben, ist auf Antrag eines Kandidaten oder von Amts wegen anzuordnen, dass von einem 
+bestimmten oder von allen Kandidaten die Prüfung oder einzelne Teile derselben wiederholt 
+werden. 
+ 
+(2)  Mängel  des  Prüfungsverfahrens  müssen  unverzüglich  beim  Vorsitzenden  des  Prüfungs-
+ausschusses oder beim Prüfer geltend gemacht werden. 
+ 
+(3)  Sechs Monate nach Abschluss der Prüfung dürfen von Amts wegen Anordnungen nach Abs. 1 
+nicht mehr getroffen werden. 
+ 
+ 
+§ 27 
+Versäumnis, Rücktritt, Täuschung, Ordnungsverstoß  
+ 
+(1)  1Der Kandidat kann bis zu einer Frist von fünf Werktagen vor Beginn der Prüfung ohne 
+Angabe  von  Gründen  von  der  Prüfung  zurücktreten.  2Die  Abmeldung  erfolgt  durch  den 
+Kandidaten  über  das  elektronische  Prüfungsverwaltungssystem  der  Universität.  3Ist  eine 
+Abmeldung über das elektronische Prüfungsverwaltungssystem nicht möglich, muss innerhalb 
+der Frist aus Satz 1 eine schriftliche Abmeldung beim Prüfer erfolgen. 
+ 
+(2)  Erklärt der Kandidat nach Ablauf der Frist des Abs. 1 aus von ihm zu vertretenden Gründen 
+den Rücktritt von der Prüfung oder versäumt er aus von ihm zu vertretenden Gründen die 
+ganze oder einen Teil einer mehrteiligen Prüfung, so gilt die jeweilige Prüfung als abgelegt und 
+wird mit „nicht ausreichend“ bewertet. 
+     
+(3)  1Die für das Versäumnis oder den Rücktritt gemäß Abs. 2 geltend gemachten Gründe sind 
+über  das  Zentrale  Prüfungssekretariat  beim  Prüfungsausschuss  unverzüglich  schriftlich 
+anzuzeigen und glaubhaft zu machen. 2Dasselbe gilt für eine vor oder während der Prüfung 
+eingetretene  Prüfungsunfähigkeit.  3Bei  krankheitsbedingter  Prüfungsunfähigkeit  ist  ein 
+ärztliches Attest vorzulegen, das grundsätzlich auf einer Untersuchung beruhen muss, die am 
+Tag  der  geltend  gemachten  Prüfungsunfähigkeit  erfolgt  ist.  4In  Zweifelsfällen  kann  ein 
+amtsärztliches  Attest  verlangt  werden.  5Erkennt  der  Prüfungsausschuss  die  vorgebrachten 
+  16Gründe als ausreichend an, tritt die Rechtsfolge des Abs. 2 nicht ein und der Kandidat muss 
+sich stattdessen zum nächsten Prüfungstermin erneut für die Prüfung anmelden. 
+ 
+(4)  1Versucht der Kandidat das Ergebnis seiner Prüfungsleistung durch Täuschung, Überschreiten 
+der Bearbeitungszeit oder Benutzung nicht zugelassener Hilfsmittel zu beeinflussen, wird die 
+betreffende Prüfungsleistung mit „ungenügend“ (6,0) bewertet. 2Eine Täuschung liegt bei 
+Klausurarbeiten bereits dann vor, wenn nach Beginn der Prüfung unerlaubte Hilfsmittel am 
+Arbeitsplatz vorgefunden werden.  
+ 
+ (5)  1Ein Kandidat, der den ordnungsgemäßen Ablauf der Prüfung stört, kann von dem jeweiligen 
+Prüfer  oder  Aufsichtführenden  von  der  Fortsetzung  der  Prüfungsleistung  ausgeschlossen 
+werden; in diesem Fall wird die betreffende Prüfungsleistung mit „nicht ausreichend“ (5,0) 
+bewertet. 2Der Prüfungsausschuss kann in schwerwiegenden Fällen entscheiden, dass dem 
+Kandidaten keine Wiederholungsmöglichkeit gemäß § 25 mehr eingeräumt wird. 
+ 
+(6)  1Verstößt der Kandidat bei der Anfertigung einer schriftlichen Arbeit oder der Bachelorarbeit 
+gegen die Pflicht, die Arbeit selbständig zu verfassen und sämtliche Hilfsmittel und Quellen 
+kenntlich zu machen, wird die Arbeit mit „ungenügend“ (6,0) bewertet. 2In schwerwiegenden 
+und/oder wiederholten Fällen kann der Prüfungsausschuss entscheiden, dass dem Kandidaten 
+keine Wiederholungsmöglichkeit gemäß § 25 Abs. 3 Satz 1 eingeräumt wird und damit die 
+schriftliche Modulprüfung bzw. die Bachelorarbeit als endgültig nicht bestanden gilt. 
+ 
+(7)  1Die Entscheidungen nach Abs. 2, 4, 5 und 6 sind dem Kandidaten schriftlich mitzuteilen, zu 
+begründen und mit einer Rechtsbehelfsbelehrung zu versehen. 2§ 9 Abs. 4 Satz 2 findet 
+Anwendung. 
+ 
+ 
+§ 28  
+Bestehen der Bachelorprüfung, Gesamtnote 
+ 
+(1)  Die Bachelorprüfung ist bestanden, wenn 180 LP gemäß § 15 Abs. 1 nachgewiesen sind. 
+ 
+(2)  Die Berechnung der Gesamtnote der Bachelorprüfung erfolgt nach folgender Formel:  
+[(Noten EDU-BA-M01 + EDU-BA-M02 + EDU-BA-M03 + EDU-BA-M04 + EDU-BA-M05 + EDU-
+BA-M10) x3 + (Noten EDU-BA-M08 + EDU-BA-M09 + EDU-BA-M11) x2 + Note Bachelorarbeit 
+x6] : 30 
+ 
+(3)  1Die Bachelorprüfung ist endgültig nicht bestanden, wenn 
+1.  die Bachelorarbeit endgültig nicht bestanden ist, 
+2.  eines der erforderlichen Module im Pflichtbereich endgültig nicht bestanden ist, 
+3.  die im Wahlbereich zu erwerbenden LP endgültig nicht mehr erworben werden können, 
+4.  die zum Bestehen der Bachelorprüfung erforderlichen 180 LP wegen Fristablaufs gemäß 
+§ 23 Abs. 2 nicht mehr erbracht werden können. 
+  2Hierüber erteilt der Vorsitzende des Prüfungsausschusses einen schriftlichen Bescheid, der mit 
+einer Rechtsbehelfsbelehrung zu versehen ist. 
+ 
+ 
+ 
+ 
+ 
+  17§ 29 
+Zeugnis, Bachelorurkunde, Diploma Supplement  
+ 
+(1)  1Hat der Kandidat die Bachelorprüfung bestanden, so erhält er ein Zeugnis, in dem die für das 
+Bestehen  der  Bachelorprüfung  erforderlichen  Leistungen  mit  den  zugehörigen 
+Leistungspunkten und den Noten aufgeführt sind. 2Es enthält als Datum des Bestehens der 
+Bachelorprüfung das Datum des Tages, an dem die letzte Prüfungsleistung erbracht wurde. 3In 
+dem Zeugnis werden auch das Thema der Bachelorarbeit, deren Note und Leistungspunktzahl 
+ausgewiesen. 4Zusätzlich erhält der Kandidat eine englischsprachige Übersetzung sowie ein 
+Diploma  Supplement  in  englischer  Sprache,  welches  eine  Beschreibung  der  durch  diesen 
+Studiengang erworbenen Qualifikation enthält. 5Ferner wird dem Kandidaten mit dem Zeugnis 
+ein Auszug seines Leistungspunktekontos als Studiennachweis ausgehändigt. 
+ 
+(2)  1Mit dem Zeugnis wird dem Kandidaten die Bachelorurkunde sowie eine englischsprachige 
+Übersetzung mit dem Datum des Zeugnisses ausgehändigt. 2Darin wird die Verleihung des 
+Bachelorgrades gemäß § 2 Abs. 3 beurkundet. 3Mit Aushändigung der Urkunde erhält der 
+Kandidat die Befugnis, den akademischen Grad zu führen. 
+ 
+(3)  1Das  Zeugnis  wird  vom  Vorsitzenden  des  Prüfungsausschusses,  die  Bachelorurkunde  vom 
+Dekan der Fakultät unterzeichnet. 2Beide Dokumente werden mit dem Siegel der Fakultät 
+versehen. 
+ 
+(4)  1Zusätzlich zum Zeugnis wird auf Antrag eine ECTS-Einstufungstabelle ausgegeben. 2Diese 
+Tabelle gibt für jede Stufe der Prüfungsgesamtnote nach § 24 Abs. 3 an, welcher Anteil der 
+Absolventen  des  Studiengangs  im  Vergleichszeitraum  sein  Studium  mit  dieser  Note 
+abgeschlossen hat. 3Als Vergleichsgruppe werden die Abschlüsse des Studiengangs aus den 
+vorangegangenen acht Semestern, jedoch mindestens 30 Abschlüsse herangezogen. 4Für die 
+Zuordnung zum jeweiligen Semester ist das Datum der letzten Leistung maßgebend. 5Ist die 
+Mindestanzahl an Abschlüssen nicht erreicht, wird die Vergleichsgruppe um je ein Semester 
+erweitert, bis dies der Fall ist. 6Für Abschlüsse vor Erreichen der Mindestanzahl an Abschlüssen 
+wird auf Antrag im Nachgang eine ECTS-Einstufungstabelle ausgestellt, sobald am Ende eines 
+Semesters die Mindestanzahl an Abschlüssen erreicht ist. 7Hierfür wird auch das Semester in 
+die Vergleichsgruppe einbezogen, in dem der Abschluss erworben wurde. 8Die Größe der 
+jeweiligen  Vergleichsgruppe  und  der  zu  ihrer  Bildung  herangezogene  Zeitraum  sind 
+auszuweisen.    
+ 
+ 
+§ 30 
+Ungültigkeit von Prüfungen 
+ 
+(1)  Hat  der  Kandidat  bei  einer  Prüfung  getäuscht  und  wird  diese  Tatsache  erst  nach  der 
+Aushändigung  des  Zeugnisses  bekannt,  so  kann  der  Prüfungsausschuss  nachträglich  die 
+betroffenen Noten entsprechend berichtigen und die Prüfung ganz oder teilweise für nicht 
+bestanden erklären. 
+ 
+(2)  1Waren die Voraussetzungen für die Zulassung zu einer Prüfung nicht erfüllt, ohne dass der 
+Kandidat hierüber täuschen wollte, und wird diese Tatsache erst nach der Aushändigung des 
+Zeugnisses bekannt, so wird dieser Mangel durch das Bestehen der Prüfung geheilt. 2Hat der 
+Kandidat die Zulassung vorsätzlich zu Unrecht erwirkt, entscheidet der Prüfungsausschuss 
+  18unter Beachtung der allgemeinen verwaltungsrechtlichen Grundsätze über die Rücknahme 
+rechtswidriger Verwaltungsakte. 
+ 
+(3)  Dem Kandidaten ist vor einer Entscheidung des Prüfungsausschusses nach Abs. 1 oder 2 
+Gelegenheit zur Äußerung zu geben. 
+ 
+(4)  1Das unrichtige Prüfungszeugnis ist einzuziehen und gegebenenfalls ein neues zu erteilen. 
+2Eine Entscheidung nach Abs. 1 und Abs. 2 Satz 2 ist nach einer Frist von fünf Jahren ab dem 
+Datum des Prüfungszeugnisses ausgeschlossen. 
+ 
+ 
+§ 31 
+Einsicht in die Prüfungsunterlagen 
+ 
+1Zur  Einsicht  in  die  Prüfungsunterlagen  ist  innerhalb  eines  Monats  nach  Bekanntgabe  des 
+Prüfungsergebnisses beim jeweiligen Modulbeauftragten ein schriftlicher Antrag zu stellen. 2Art. 
+32 Bayerisches Verwaltungsverfahrensgesetz (BayVwVfG) gilt entsprechend. 3Der Vorsitzende des 
+Prüfungsausschusses bestimmt Ort und Zeit der Einsichtnahme. 
+ 
+ 
+§ 32 
+Entzug des Grades 
+ 
+Die Entziehung des Abschlussgrades richtet sich nach Art. 69 BayHSchG. 
+ 
+ 
+ 
+III. Schlussvorschriften 
+ 
+§ 33 
+In-Kraft-Treten 
+ 
+1Die Satzung tritt am 1. Oktober 2016 in Kraft. 2Sie gilt für alle Studierenden, die ihr Studium im 
+Bachelorstudiengang  Erziehungswissenschaft  (Educational  Science)  ab  dem  Wintersemester 
+2016/2017 aufnehmen.  
+ 
+ 
+ 
+ 
+ 
+Ausgefertigt aufgrund des Beschlusses des Senats der Universität Regensburg vom 6. Juli 2016 
+und der Genehmigung des Präsidenten der Universität Regensburg vom 14. Juli 2016. 
+ 
+Regensburg, den 14. Juli 2016 
+Universität Regensburg 
+Der Präsident 
+ 
+ 
+ 
+ 
+ 
+Prof. Dr. Udo Hebel 
+  19Diese Satzung wurde am 14. Juli 2016 in der Hochschule niedergelegt; die Niederlegung wurde 
+am 14. Juli 2016 durch Aushang in der Hochschule bekannt gegeben. Tag der Bekanntmachung 
+ist daher der 14. Juli 2016. 
+ 
+ 
+ 
+ 
+ 
+  20

@@ -1,0 +1,1991 @@
+input_dictionary = Modulkatalog der Fakultät für Wirtschaftswissenschaften für den
+Studiengang B.Sc. Immobilienwirtschaft (PO 2021)
+Wintersemester 2022/23
+(23.06.2022)
+1. Pflichtmodulgruppe: Allgemeine Grundlagen für Studierende der Immobilienwirtschaft
+ECTS: 12; Modulgruppenverantwortliche*r: Prof. Dr. Steffen Sebastian
+Modulkennung Modulname P/WP/W SWS G Seite
+BWL-BSc-AG-M01 Grundlagen der Wirtschaftsinformatik Pflicht 2V+2Ü 6 4
+BWL-BSc-AG-M02 Grundzüge des Privatrechts Pflicht 2V+2Ü 6 6
+2. Pflichtmodulgruppe: Quantitative Grundlagen für Studierende der Immobilienwirtschaft
+ECTS: 18; Modulgruppenverantwortliche*r: Prof. Dr. Kristof Dascher
+Modulkennung Modulname P/WP/W SWS G Seite
+WiWi-BSc-Q01 Mathematik Pflicht 2V+2Ü 6 9
+WiWi-BSc-Q02 Statistik 1 für Wirtschaftswissenschaften Pflicht 2V+2Ü 6 11
+WiWi-BSc-Q03 Statistik 2 für Wirtschaftswissenschaften Pflicht 2V+2Ü 6 13
+3. Pflichtmodulgruppe: Grundlagen der BWL für Studierende der Immobilienwirtschaft
+ECTS: 30; Modulgruppenverantwortliche*r: Prof. Dr. Steffen Sebastian
+Modulkennung Modulname P/WP/W SWS G Seite
+BWL-BSc-GL-M01 Buchhaltung Pflicht 2V+2Ü 6 16
+BWL-BSc-GL-M02 Externe Unternehmensberichterstattung I Pflicht 2V+2Ü 6 18
+BWL-BSc-GL-M03 Finanzierung Pflicht 2V+2Ü 6 20
+BWL-BSc-GL-M07 Investition Pflicht 2V+2Ü 6 22
+6 ECTS aus dem folgenden Angebot müssen erbracht werden:
+ 
+BWL-BSc-GL-M05 Kosten- und Leistungsrechnung Wahlpflicht 2V+2Ü 6 24
+BWL-BSc-GL-M06 Marketing Wahlpflicht 2V+2Ü 6 26
+4. Pflichtmodulgruppe: Grundlagen der VWL für Studierende der Immobilienwirtschaft
+ECTS: 30; Modulgruppenverantwortliche*r: Prof. Gabriel Lee, PhD
+Modulkennung Modulname P/WP/W SWS G Seite
+VWL-BSc-GL-M01 Makroökonomik 1 Pflicht 2V+2Ü 6 29
+VWL-BSc-GL-M02 Makroökonomik 2 Pflicht 2V+2Ü 6 31
+VWL-BSc-GL-M03 Mikroökonomik 1 Pflicht 2V+2Ü 6 33
+VWL-BSc-GL-M04 Mikroökonomik 2 Pflicht 2V+2Ü 6 35
+6 ECTS aus dem folgenden Angebot müssen erbracht werden:
+ 
+VWL-BSc-GL-M05 Einführung in die Ökonometrie Wahlpflicht 2V+2Ü 6 37
+VWL-BSc-GL-M06 Methoden der Volkswirtschaftslehre Wahlpflicht 2V+2Ü 6 39
+5. Pflichtmodulgruppe: Immobilienwirtschaft I für Studierende der Immobilienwirtschaft
+ECTS: 24; Modulgruppenverantwortliche*r: Prof. Dr. Kristof Dascher
+Modulkennung Modulname P/WP/W SWS G Seite
+IMMO-BSc-IW1-M01 Immobilienfinanzierung I Pflicht 2V+2Ü 6 42
+IMMO-BSc-IW1-M02 Immobilienökonomie I Pflicht 2V+2Ü 6 44
+IMMO-BSc-IW1-M03 Immobilienmanagement I Pflicht 2V+2Ü 6 46
+6 ECTS aus dem folgenden Angebot müssen erbracht werden:
+ 
+VWL-BSc-IROEK-M02 Regionalökonomie I Wahlpflicht 2V+2Ü 6 48
+VWL-BSc-IROEK-M03 Ökonomie der Wohnungsmärkte Wahlpflicht 2V+2Ü 6 50
+6. Pflichtmodulgruppe: Immobilienwirtschaft II für Studierende der Immobilienwirtschaft
+ECTS: 24; Modulgruppenverantwortliche*r: Prof. Dr. Wolfgang Schäfers
+1Modulkennung Modulname P/WP/W SWS G Seite
+IMMO-BSc-IW2-M01 Immobilienentwicklung I Pflicht 2V+2Ü 6 53
+IMMO-BSc-IW2-M02 Immobilienrecht und -steuern Pflicht 2V+2Ü 6 55
+IMMO-BSc-IW2-M03 Grundzüge der Architektur Pflicht 2V+2Ü 6 57
+IMMO-BSc-IW2-M04 Grundzüge des Bauingenieurwesens Pflicht 2V+2Ü 6 59
+7.  Wahlmodulgruppe für Studierende der Immobilienwirtschaft
+ECTS: 24; Modulgruppenverantwortliche*r: Prof. Dr. Steffen Sebastian
+Modulkennung Modulname P/WP/W SWS G Seite
+IMMO-BSc-WM01 Mind. 18 ECTS aus dem Studienangebot der Pflicht min. 18
+ 
+Fakultät Wirtschaftswissenschaften
+IMMO-BSc-WM02 Praktikum Wahl max. 6
+ 
+IMMO-BSc-WM03 - SFA-Sprachkurse Wahl max. 6
+ 
+- ZSK - Rhetorikkurse
+- Module der studienbegleitenden IT-
+Ausbildung
+- Kurse an anderen Fakultäten
+- Kurse von der Virtuellen Hochschule Bayern
+(VHB)
+- Kurse des Zentrums für Hochschul- und
+Wissenschaftsdidaktik (ZHW)
+IMMO-BSc-WM04 Aus einem Auslandsemester / Auslandjahr Wahl max. 18
+ 
+(auf Antrag)
+IMMO-BSc-WM05 Von anderen Hochschulen im Falle eines Wahl max. 18
+ 
+Studienortswechsels (auf Antrag)
+Module, die nur in der Wahlmodulgruppe belegt werden können:
+ 
+IMMO-BSc-WM01 Sustainability - Nachhaltiges Wirtschaften Wahl 4V 6 62
+8.  Forschungsmodulgruppe für Studierende der Immobilienwirtschaft
+ECTS: 18; Modulgruppenverantwortliche*r: Prof. Gabriel Lee, PhD
+Modulkennung Modulname P/WP/W SWS G Seite
+IMMO-BSc-F01 Bachelorarbeit Pflicht 10 65
+IMMO-BSc-F03 Einführung in wissenschaftliches Arbeiten Pflicht 1V 2 66
+IMMO-BSc-F02 Seminar Pflicht 2V 6 68
+2Beschreibung aller Module der Fakultät für Wirtschaftswissenschaften –
+B.Sc. Immobilienwirtschaft (PO 2021)
+1. Pflichtmodulgruppe: Allgemeine Grundlagen für Studierende der
+Immobilienwirtschaft
+Qualifikationsziele der Modulgruppe:
+Die Studierenden erwerben ein erstes Verständnis der Unterstützung des betrieblichen Managements durch
+informationstechnische Systeme. Parallel üben sie erste Muster juristischer Argumentation ein und erwerben
+Grundkenntnisse für Immobilien-Unternehmer relevanter Konzepte des BGB und HGB.
+Alle Module müssen belegt werden.
+ECTS: 12; Modulgruppenverantwortliche*r: Prof. Dr. Steffen Sebastian
+Modulkennung Modulname P/WP/W SWS G
+BWL-BSc-AG-M01 Grundlagen der Wirtschaftsinformatik Pflicht 2V+2Ü 6
+BWL-BSc-AG-M02 Grundzüge des Privatrechts Pflicht 2V+2Ü 6
+3Modul BWL-BSc-AG-M01
+1. Name des Moduls: Grundlagen der Wirtschaftsinformatik
+2. Fachgebiet / Verantwortlich: Dr. Norbert Meckl
+3. Inhalte des Moduls: Grundlagen der Wirtschaftsinformatik: Begriffe, Aufgaben,
+Ziele und Modelle; Umgang mit Anwendungsprogrammen
+Themen:  Geschäftsprozesse,  Informationssysteme  und
+überbetrieblicher Datenaustausch
+- Der Begriff der Wirtschaftsinformatik
+- Der Produktionsfaktor Information
+- Geschäftsprozesse und Geschäftsprozessmodellierung
+- Rechnergestützte Arbeitsplätze und Systemsoftware
+- Datenorganisation im Unternehmen
+- Projektmanagement im Softwareentwicklungsprozess
+-  Büroinformationssysteme,  Informationsmanagement  und
+betriebliche Kommunikationsmodelle
+- Betriebliche Informations- und Anwendungssysteme
+- Überbetrieblicher Datenaustausch (EDI) im Supply Chain
+Management
+4. Qualifikationsziele des Moduls / zu Nach Abschluss dieses Moduls haben die Studierenden einen
+erwerbende Kompetenzen: Überblick  über  Theorien  und  Methoden  der
+Wirtschaftsinformatik  erhalten.  Sie  können
+Geschäftsprozessmodelle  und  Datenmodelle  /
+Datenbanksysteme erfassen und erstellen. Die Übung hat
+dabei die Inhalte der Vorlesung an Beispielen vertieft.
+Die Übungen am Computer hat die Studierenden in die Lage
+versetzt,  mit  folgenden  Anwendungsprogrammen  und
+Werkzeugen umzugehen:
+-  Betriebssysteme:  Einführung  in  das  Datennetz  und  die
+Betriebssysteme an der UR
+-  Textverarbeitung:  Arbeiten  mit  Dokumenten,  Layout,
+Formate, Dokument- und Formatvorlagen
+- Tabellenkalkulation: Einsatz von Kalkulationswerkzeugen im
+betriebswirtschaftlichen Umfeld
+-  Präsentation:  Moderne  Werkzeuge  zur  Gestaltung  von
+wissenschaftlichen Vorträgen
+- Geschäftsprozessmodelle mit ARIS Business Architekt
+-  Datenbanken:  Organisation  von
+Datenbankmanagementsystemen (Access, mysql)
+- Projektmanagement mit MS Project
+- Grafik: Formate, Kompressionsverfahren, Werkzeuge zur
+Bearbeitung von Grafiken und Photos
+-  Webauftritt:  Sprachen  und  Anwendungen  im  Internet,
+Hilfsmittel und Werkzeuge zur Darstellung im Netz
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+46. Verwendbarkeit des Moduls: BSc BWL (PO2021), PMG "Allgemeine Grundlagen für
+Studierende der BWL"
+BSc Immo (PO2021), PMG "Allgemeine Grundlagen für
+Studierende der Immobilienwirtschaft"
+BSc VWL (PO2021), PMG "Allgemeine Grundlagen für
+Studierende der VWL"
+7. Angebotsturnus des Moduls: im Turnus Sommersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 2. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS * 30 Std.)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Grundlagen der Wirtschaftsinformatik 2
+2 P Übung Grundlagen der Wirtschaftsinformatik 1
+3 P Übung Grundlagen der Wirtschaftsinformatik 1 Workshops zu Grundlagen
+der Wirtschaftsinformatik
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Grundlagen der Klausur 90 Prüfungszeitraum: 100
+Wirtschaftsinformatik erste bis vierte
+Woche nach
+Vorlesungsende
+14. Bemerkungen:
+Kann nicht in die Wahlmodulgruppe für Bachelorstudierende der Wirtschaftsinformatik eingebracht werden.
+5Modul BWL-BSc-AG-M02
+1. Name des Moduls: Grundzüge des Privatrechts
+2. Fachgebiet / Verantwortlich: Dr. Peter Gril
+3. Inhalte des Moduls: 1. Grundzüge der ersten drei Bücher des BGB (= Allgemeiner
+Teil; Recht der Schuldverhältnisse; Sachenrecht)
+2. Grundzüge des Handels- und Gesellschaftsrechts
+4. Qualifikationsziele des Moduls / zu Nach  Abschluss  dieses  Moduls  haben  die  Studierenden
+erwerbende Kompetenzen: diejenigen  systematischen  Kenntnisse  über  Rechtsbegriffe
+und  Normzusammenhänge  vermittelt  bekommen,  die
+erforderlich sind, um rechtliche Probleme erkennen und im
+Gedankenaustausch mit Juristen lösen zu können. Um die
+Anwendung  und  Wirkungsweise  von  Rechtsnormen  zu
+verstehen,  wurde  die  juristische  Argumentationstechnik
+anhand zahlreicher Fallbeispiele ausführlich geübt.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc BWL (PO2021), PMG "Allgemeine Grundlagen für
+Studierende der BWL"
+BSc Immo (PO2021), PMG "Allgemeine Grundlagen für
+Studierende der Immobilienwirtschaft"
+BSc VWL (PO2021), PMG "Allgemeine Grundlagen für
+Studierende der VWL"
+BSc IVWL (PO2021), PMG "Allgemeine Grundlagen für
+Studierende der iVWL"
+BSc WInfo (PO2021), PMG "Allgemeine Grundlagen für
+Studierende der Wirtschaftsinformatik"
+7. Angebotsturnus des Moduls: jedes Semester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 3. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Std.)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Grundzüge des Privatrechts 2
+2 P Übung Grundzüge des Privatrechts 2
+613. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Grundzüge des Privatrechts Klausur 120 Prüfungszeitraum: 100
+erste bis vierte
+Woche nach
+Vorlesungsende
+72. Pflichtmodulgruppe: Quantitative Grundlagen für Studierende der
+Immobilienwirtschaft
+Qualifikationsziele der Modulgruppe:
+Gewerbe  und  Wohnimmobilien  an  die  Bedürfnisse  ihrer  Nutzer  anzupassen  heißt,  sie  zu  optimieren.
+Außerordentlich erfolgreiche formale Verfahren der Optimierung stellt die Mathematik bereit. Mathematische
+Optimierung  fließt  in  das  erfolgreiche  Management  von  bestehenden,  aber  auch  von  neu  zu  errichtenden
+Immobilien ein (und insofern sie es das heute noch nicht tut, erschließt diese Lehre einen Blick auf mögliche neue
+Anwendungen). Gleichzeitig werden Gewerbe- und Wohnimmobilien heute zusehends transparenter, weil immer
+mehr Daten über sie (und ihre Nutzung) verfügbar werden. Der in Methodenveranstaltungen der Statistik erlernte
+Umgang mit empirischen Daten - darunter insbesondere die Möglichkeiten des Schlusses von Eigenschaften von
+Stichprobe auf solche der zugrundeliegenden Populationen - bietet einen weiteren hilfreichen Schlüssel zu einer
+erfolgreichen Abstimmung des Hauses auf seine Nutzerin oder seinen Nutzer.
+Es müssen alle Module belegt werden.
+ECTS: 18; Modulgruppenverantwortliche*r: Prof. Dr. Kristof Dascher
+Modulkennung Modulname P/WP/W SWS G
+WiWi-BSc-Q01 Mathematik Pflicht 2V+2Ü 6
+WiWi-BSc-Q02 Statistik 1 für Wirtschaftswissenschaften Pflicht 2V+2Ü 6
+WiWi-BSc-Q03 Statistik 2 für Wirtschaftswissenschaften Pflicht 2V+2Ü 6
+8Modul WiWi-BSc-Q01
+1. Name des Moduls: Mathematik
+2. Fachgebiet / Verantwortlich: Dr. Michael Oberländer
+3. Inhalte des Moduls: Grundlagen aus Analysis und linearer Algebra
+-  Eigenschaften  von  Funktionen  einer  und  mehrerer
+Variablen
+- Grenzwerte von Funktionen
+- Differentialrechnung einer und mehrerer Veränderlicher
+- Elastizitäten
+- Optimierung mit und ohne Nebenbedingungen
+- Grenzrate der Substitution
+- Integralrechnung
+- Vektorräume
+- Matrizenrechnung
+- Rang und Inverse einer Matrix
+- Lineare Gleichungssysteme
+- Lineare Programmierung
+- Einführung in die Finanzmathematik
+4. Qualifikationsziele des Moduls / zu Nach Abschluss dieses Moduls haben die Studierenden die
+erwerbende Kompetenzen: Grundlagen  aus  Analysis  und  linearer  Algebra  sowie  die
+Einführung in die mathematische Modellierung und Lösung
+ökonomischer Probleme vermittelt bekommen, die für ein
+wirtschaftswissenschaftliches Studium benötigt werden. Die
+Übung in Kleingruppen hat die Inhalte der Vorlesung durch
+das  Rechnen  von  Beispielaufgaben  vertieft  und  die
+Studierenden  in  die  Lage  versetzt,  die  richtigen
+mathematischen  Verfahren  zur  Lösung  eines  Problems
+auszuwählen und korrekt anzuwenden.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc BWL (PO2021), PMG "Quantitative Grundlagen für
+Studierende der BWL"
+BSc Immo (PO2021), PMG "Quantitative Grundlagen für
+Studierende der Immobilienwirtschaft"
+BSc VWL (PO2021), PMG "Quantitative Grundlagen für
+Studierende der VWL"
+BSc IVWL (PO2021), PMG "Quantitative Grundlagen für
+Studierende der IVWL (MOE)"
+BSc WInfo (PO2021), PMG "Quantitative Grundlagen für
+Studierende der Wirtschaftsinformatik"
+7. Angebotsturnus des Moduls: im Turnus Wintersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 1. Fachsemester
+910. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Std.)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Mathematik 2
+2 P Übung Mathematik 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Mathematik Klausur 90 Prüfungszeitraum: 100
+erste bis vierte
+Woche nach
+Vorlesungsende
+10Modul WiWi-BSc-Q02
+1. Name des Moduls: Statistik 1 für Wirtschaftswissenschaften
+2. Fachgebiet / Verantwortlich: Prof. Dr. Daniel Rösch
+3. Inhalte des Moduls: - Deskriptive Statistik
+- Häufigkeitsverteilung eindimensionaler Merkmale
+- Konzentrationsmessung
+- Zweidimensionale Häufigkeitsverteilungen
+- Korrelationsrechnung
+- Wahrscheinlichkeitsrechnung
+- Eindimensionale Zufallsvariablen und ihre Verteilung
+4. Qualifikationsziele des Moduls / zu Nach Abschluss des Moduls kennen die Studierenden die
+erwerbende Kompetenzen: wesentlichen  Methoden  der  Deskriptiven  Statistik  und
+können diese zur Darstellung und Beschreibung von Daten
+anwenden  und  interpretieren.  Darüber  hinaus  sind  sie
+entsprechend  einer  vorwiegend  problemorientierten
+Auffassung von angewandter Statistik mit den Grundlagen
+der Wahrscheinlichkeitsrechnung und theoretischer Modelle,
+insbesondere mit ökonomischem Bezug, vertraut. Die Übung
+hat die Inhalte der Vorlesung an Beispielen und Fallstudien
+vertieft  und  die  Studierenden  in  die  Lage  versetzt,
+eigenständige statistische Analysen zu betreiben.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc BWL (PO2021), PMG "Quantitative Grundlagen für
+Studierende der BWL"
+BSc Immo (PO2021), PMG "Quantitative Grundlagen für
+Studierende der Immobilienwirtschaft"
+BSc VWL (PO2021), PMG "Quantitative Grundlagen für
+Studierende der VWL"
+BSc IVWL (PO2021), PMG "Quantitative Grundlagen für
+Studierende der IVWL (MOE)"
+BSc WInfo (PO2021), PMG "Quantitative Grundlagen für
+Studierende der Wirtschaftsinformatik"
+7. Angebotsturnus des Moduls: im Turnus Wintersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 1. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Std.)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+1111. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Statistik 1 2
+2 P Übung Statistik 1 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Statistik 1 Klausur 90 Prüfungszeitraum: 100
+erste bis vierte
+Woche nach
+Vorlesungsende
+14. Bemerkungen:
+-  Die  Wiederholungsprüfung  ist  grundsätzlich  nicht  für  Erstschreiber  offen  (Ausnahmen:  Krankheit  und
+Auslandsaufenthalt).
+- Bei einem geplanten Auslandsaufenthalt ist eine potentielle Modulanrechnung mit der Lehrperson im Vorfeld
+abzuklären.
+12Modul WiWi-BSc-Q03
+1. Name des Moduls: Statistik 2 für Wirtschaftswissenschaften
+2. Fachgebiet / Verantwortlich: Prof. Dr. Daniel Rösch
+3. Inhalte des Moduls: - Stichprobenfunktionen
+- Punktschätzung
+- Eigenschaften von Punktschätzern
+- Einführung in die KQ- und ML-Schätzung
+- Konfidenzschätzung
+- Statistische Tests
+- Regressionsanalyse
+4. Qualifikationsziele des Moduls / zu Nach Abschluss des Moduls kennen die Studierenden die
+erwerbende Kompetenzen: wesentlichen Methoden der induktiven Statistik und können
+statistische  Schätz-  und  Testverfahren  durchführen  und
+interpretieren. Sie sind in der Lage, grundlegende Konzepte
+der  induktiven  Statistik  und  der  Regressionsanalyse
+insbesondere  mit  engem  Bezug  zu  ökonomischen
+Sachverhalten anzuwenden. Die Übung hat die Inhalte der
+Vorlesung  an  Beispielen  und  Fallstudien  vertieft  und  die
+Studierenden in die Lage versetzt, eigenständige statistische
+Analysen zu betreiben.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: WiWi-BSc-Q02 Statistik 1 für Wirtschaftswissenschaften
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc BWL (PO2021), PMG "Quantitative Grundlagen für
+Studierende der BWL"
+BSc Immo (PO2021), PMG "Quantitative Grundlagen für
+Studierende der Immobilienwirtschaft"
+BSc VWL (PO2021), PMG "Quantitative Grundlagen für
+Studierende der VWL"
+BSc IVWL (PO2021), PMG "Quantitative Grundlagen für
+Studierende der IVWL (MOE)"
+BSc WInfo (PO2021), PMG "Quantitative Grundlagen für
+Studierende der Wirtschaftsinformatik"
+7. Angebotsturnus des Moduls: im Turnus Sommersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 2. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Std.)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+1311. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Statistik 2 2
+2 P Übung Statistik 2 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Statistik 2 Klausur 90 Prüfungszeitraum: 100
+erste bis vierte
+Woche nach
+Vorlesungsende
+14. Bemerkungen:
+-  Die  Wiederholungsprüfung  ist  grundsätzlich  nicht  für  Erstschreiber  offen  (Ausnahmen:  Krankheit  und
+Auslandsaufenthalt).
+- Bei einem geplanten Auslandsaufenthalt ist eine potentielle Modulanrechnung mit der Lehrperson im Vorfeld
+abzuklären.
+143. Pflichtmodulgruppe: Grundlagen der BWL für Studierende der
+Immobilienwirtschaft
+Qualifikationsziele der Modulgruppe:
+Die Studierenden werden mit den Basisdisziplinen der Betriebswirtschaftslehre vertraut gemacht. In Buchhaltung
+sollen sie in der Lage sein, laufende Geschäftsvorfälle zu verbuchen und Abschlussbuchungen vorzunehmen.
+Externe Unternehmensberichterstattung I ermöglicht den Studierenden, Geschäftsvorfälle zu bilanzieren, deren
+Auswirkungen  auf  die  Bilanz,  die  GuV,  den  Anhang  und  den  Jahresabschluss  zu  beurteilen  und
+sachverhaltsgestaltende  Maßnahmen  im  Rahmen  der  Bilanzpolitik  vorzuschlagen.  In  Investition  werden  die
+dynamischen Verfahren Barwert-, End- und Kapitalwertberechnung, interner Zinsfuss, vollständige Finanzpläne
+(VOFI), Renten- und Annuitätenrechnungen sowie unsicherheitsaufdeckende Verfahren vermittelt. Finanzierung
+behandelt die wichtigsten Finanzierungsformen der Fremdkapital- und Eigenkapitalfinanzierung sowie deren
+Bewertung. Die Studierenden sollen auch die wichtigsten derivativen Finanzinstrumente kennen und einfache
+Bewertungsmodelle dafür rechnen können. Marketing behandelt Methoden der Gewinnung und Verarbeitung
+von  Informationen  für  Marketing-  Entscheidungen  sowie  Erkenntnisse  über  das  Verhalten  privater  und
+institutioneller  Käufer.  Darauf  baut  die  Erörterung  von  Konzepten  und  Methoden  für  strategische  und
+instrumentelle Entscheidungen auf.
+ECTS: 30; Modulgruppenverantwortliche*r: Prof. Dr. Steffen Sebastian
+Modulkennung Modulname P/WP/W SWS G
+BWL-BSc-GL-M01 Buchhaltung Pflicht 2V+2Ü 6
+BWL-BSc-GL-M02 Externe Unternehmensberichterstattung I Pflicht 2V+2Ü 6
+BWL-BSc-GL-M03 Finanzierung Pflicht 2V+2Ü 6
+BWL-BSc-GL-M07 Investition Pflicht 2V+2Ü 6
+6 ECTS aus dem folgenden Angebot müssen erbracht werden:
+BWL-BSc-GL-M05 Kosten- und Leistungsrechnung Wahlpflicht 2V+2Ü 6
+BWL-BSc-GL-M06 Marketing Wahlpflicht 2V+2Ü 6
+15Modul BWL-BSc-GL-M01
+1. Name des Moduls: Buchhaltung
+2. Fachgebiet / Verantwortlich: Dr. Daniel Blab
+3. Inhalte des Moduls: -  Aufbau  und  Funktionsweise  des  betrieblichen
+Rechnungswesens
+- Rechtliche Grundlagen
+- Inventur und Inventar
+- Organisation der Bücher
+- Kontensystematik
+-  Buchungstechnik  anhand  verschiedener,  betrieblicher
+Sachverhalte
+- Vorbereitung des Jahresabschlusses
+4. Qualifikationsziele des Moduls / zu Nach dem erfolgreichen Abschluss des Moduls haben die
+erwerbende Kompetenzen: Studierenden  grundlegende  Kenntnisse  des  betrieblichen
+Rechnungswesens, insbesondere der Buchhaltung, erfahren.
+Sie  sind  in  der  Lage,  unterschiedliche  betriebliche
+Sachverhalte auf den entsprechenden Konten zu verbuchen.
+Die Studierenden können die Auswirkungen der erfassten
+Sachverhalte auf die Vermögens-, Finanz- und Ertragslage
+eines Unternehmens einschätzen. Außerdem wissen sie, wie
+auf Basis der Buchhaltung grundsätzlich ein Jahresabschluss
+zu erstellen ist.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc BWL (PO2021), PMG "Grundlagen der BWL für
+Studierende der BWL"
+BSc Immo (PO2021), PMG "Grundlagen der BWL für
+Studierende der Immobilienwirtschaft"
+BSc VWL (PO2021), PMG "Allgemeine Grundlagen für
+Studierende der VWL"
+BSc IVWL (PO2021), PMG "Allgemeine Grundlagen für
+Studierende der iVWL"
+BSc WInfo (PO2021), PMG "Allgemeine Grundlagen für
+Studierende der Wirtschaftsinformatik"
+7. Angebotsturnus des Moduls: im Turnus Wintersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 1. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Std.)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+1611. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Buchhaltung 2
+2 P Übung Buchhaltung 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Buchhaltung Klausur 90 Prüfungszeitraum: 100
+Minuten erste bis vierte
+Woche nach
+Vorlesungsende
+14. Bemerkungen:
+Bei einem geplanten Auslandsaufenthalt ist eine potenzielle Modulanrechnung mit dem Prüfer oder der Prüferin
+im Vorfeld abzuklären.
+17Modul BWL-BSc-GL-M02
+1. Name des Moduls: Externe Unternehmensberichterstattung I
+2. Fachgebiet / Verantwortlich: Prof. Dr. Axel Haller
+3. Inhalte des Moduls: Im  Rahmen  des  Moduls  werden  den  Studierenden  im
+Wesentlichen  die  Grundlagen  des  Jahresabschlusses  nach
+deutschem Handelsrecht (HGB) vermittelt.
+Zentrale Inhalte sind:
+- Ziele der externen Unternehmensrechnung
+- Aufbau des Jahresabschlusses und Lageberichts
+- Regeln zu Bilanzansatz, -ausweis und bewertung
+- Wahlrechte bei der Bilanzierung
+- Grundlagen des steuerrechtlichen Abschlusses
+- Prüfungs- und Publizitätspflichten von Unternehmen
+- Grundzüge der Konzernrechnungslegung
+- Grundzüge der internationalen Rechnungslegung
+4. Qualifikationsziele des Moduls / zu Nach  dem  erfolgreichen  Abschluss  des  Moduls  sind  die
+erwerbende Kompetenzen: Studierenden in der Lage, Geschäftsvorfälle zu bilanzieren,
+deren  Auswirkungen  auf  die  Bilanz,  die  Gewinn-  und
+Verlustrechnung,  den  Anhang  und  den  Lagebericht  zu
+beurteilen  und  sachverhaltsgestaltende  Maßnahmen  im
+Rahmen der Bilanzpolitik vorzuschlagen. Ergänzend haben
+die  Studierenden  Kenntnisse  über  die  Grundlagen  der
+Konzernberichterstattung und Vorschriften zu Publizität und
+Prüfung  von  Jahresabschlüssen  erworben.  Des  Weiteren
+können  die  Studierenden  die  Notwendigkeit  der
+Internationalisierung  der  Rechnungslegung  (International
+Financial  Reporting  Standards,  IFRS)  abschätzen,  da  sie
+Einblicke in deren momentane Ausgestaltung in Grundzügen
+erhalten haben.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: BWL-BSc-GL-M01 Buchhaltung
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc BWL (PO2021), PMG "Grundlagen der BWL für
+Studierende der BWL"
+BSc Immo (PO2021), PMG "Grundlagen der BWL für
+Studierende der Immobilienwirtschaft"
+BSc VWL (PO2021), PMG "Allgemeine Grundlagen für
+Studierende der VWL"
+BSc IVWL (PO2021), PMG "Allgemeine Grundlagen für
+Studierende der iVWL"
+BSc WInfo (PO2021), PMG "Allgemeine Grundlagen für
+Studierende der Wirtschaftsinformatik"
+7. Angebotsturnus des Moduls: im Turnus Sommersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 2. Fachsemester
+1810. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Std.)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Externe 2
+Unternehmensberichterstattung I
+2 P Übung Externe 2
+Unternehmensberichterstattung I
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Externe Unternehmensbericht Klausur 90 Prüfungszeitraum: 100
+erstattung I Minuten erste bis vierte
+Woche nach
+Vorlesungsende
+14. Bemerkungen:
+Bei einem geplanten Auslandsaufenthalt ist eine potenzielle Modulanrechnung mit dem Prüfer oder der Prüferin
+im Vorfeld abzuklären.
+19Modul BWL-BSc-GL-M03
+1. Name des Moduls: Finanzierung
+2. Fachgebiet / Verantwortlich: Prof. Dr. Gregor Dorfleitner
+3. Inhalte des Moduls: - Grundlagen der Finanzwirtschaft
+- Modelle in der Finanzwirtschaft
+- Elementare Finanzmathematik
+- Investitionsrechnung
+- Finanzierung
+- Finanzinstitutionen
+- Derivative Wertpapiere
+4. Qualifikationsziele des Moduls / zu Nach erfolgreicher Beendigung dieses Moduls können die
+erwerbende Kompetenzen: Studierenden  die  Grundbegriffe  der  Finanzierung,
+insbesondere  die  verschiedenen  Finanzierungsformen,
+benennen  und  definieren.  Sie  können  die  wesentlichen
+theoretischen  Konzepte  der  Finanzierungslehre  wie  das
+Kapitalwertprinzip wiedergeben. Sie können den Kapitalwert
+berechnen und verschiedene Finanzinstrumente in einfachen
+Anwendungssituationen bewerten. Die Studierenden können
+finanzwirtschaftliche Basisprobleme der Betriebswirtschaft in
+stilisierter  Form  lösen,  also  die  wesentlichen
+betriebswirtschaftlichen Entscheidungen in den Teilbereichen
+wie Investition und Finanzierung vornehmen. Dazu gehören
+etwa  Entscheidungen  für  oder  gegen  die  Durchführung
+möglicher Projekte.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc BWL (PO2021), PMG "Grundlagen der BWL für
+Studierende der BWL"
+BSc Immo (PO2021), PMG "Grundlagen der BWL für
+Studierende der Immobilienwirtschaft"
+BSc VWL (PO2021), PMG "Allgemeine Grundlagen für
+Studierende der VWL"
+BSc IVWL (PO2021), PMG "Allgemeine Grundlagen für
+Studierende der iVWL"
+BSc WInfo (PO2021), PMG "Allgemeine Grundlagen für
+Studierende der Wirtschaftsinformatik"
+7. Angebotsturnus des Moduls: im Turnus Wintersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 3. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Std.)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+2011. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Finanzierung 2
+2 P Übung Finanzierung 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Finanzierung Klausur 90 Prüfungszeitraum. 100
+erste bis vierte
+Woche nach
+Vorlesungsende
+14. Bemerkungen:
+-  Die  Wiederholungsprüfung  ist  grundsätzlich  nicht  für  Erstschreiber  offen  (Ausnahmen:  Krankheit  und
+Auslandsaufenthalt).
+- Bei einem geplanten Auslandsaufenthalt ist eine potentielle Modulanrechnung mit der Lehrperson im Vorfeld
+abzuklären.
+21Modul BWL-BSc-GL-M07
+1. Name des Moduls: Investition
+2. Fachgebiet / Verantwortlich: Prof. Dr. Steffen Sebastian
+3. Inhalte des Moduls: - Zinsmodelle
+- Bewertung von Zahlungsströmen
+- Rentenrechnung
+- Tilgungsrechnung
+- Optimale Nutzungsdauer
+- Renditerechnung
+- Unsicherheitsaufdeckende Verfahren
+- Entscheidung unter Risiko
+- Statische Investitionsrechnung
+4. Qualifikationsziele des Moduls / zu Die Studierenden sind nach Abschluss des Moduls in der
+erwerbende Kompetenzen: Lage, die wesentlichen Verfahren der Investitionsrechnung
+anzuwenden. Hierzu zählen insbesondere die dynamischen
+Verfahren  Barwert-,  End-  und  Kapitalwertberechnung,
+interner  Zinsfuß,  vollständige  Finanzpläne  (VOFI),  Renten-
+und Annuitätenrechnungen sowie unsicherheitsaufdeckende
+Verfahren,  insbesondere  Sensitivitätsanalyse.  Ein
+wesentliches  Lernziel  ist  dabei  ein  Verständnis  von
+Möglichkeiten und Grenzen des Einsatzes dieser Verfahren.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc Immo (PO2021), PMG "Grundlagen der BWL für
+Studierende der Immobilienwirtschaft"
+7. Angebotsturnus des Moduls: im Turnus Wintersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 1 (BWL), 3 (VWL), 1 (WINFO)
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30Stunden)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 4 SWS
+2. Selbststudium (inkl. Prüfung): 120 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Übung Investition 2
+2 P Vorlesung Investition 2
+2213. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Investition Klausur 90 erste bis vierte 100
+Minuten Woche nach
+Vorlesungsende
+23Modul BWL-BSc-GL-M05
+1. Name des Moduls: Kosten- und Leistungsrechnung
+2. Fachgebiet / Verantwortlich: Dr. Daniel Blab
+3. Inhalte des Moduls: - Grundlagen der Kosten- und Leistungsrechnung
+- Aufbau und Systeme der Kosten- und Leistungsrechnung
+- Kostenartenrechnung
+- Kostenstellenrechnung
+- Kostenträgerrechnung
+- Kostenanalyse
+4. Qualifikationsziele des Moduls / zu Nach  dem  erfolgreichen  Abschluss  des  Moduls  sind  die
+erwerbende Kompetenzen: Studierenden in der Lage, die Aufgaben und Möglichkeiten
+der  Kosten-  und  Leistungsrechnung  im  betrieblichen
+Rechnungswesen  richtig  einzuordnen.  Die  Studierenden
+kennen  die  Unterschiede  zwischen  der  Kostenarten-,
+Kostenstellen-  und  Kostenträgerrechnung  und  deren
+Aussagekraft.  Außerdem  können  die  Studierenden  die
+Kostenrechnung für Planungs- und Kontrollzwecke einsetzen
+und auswerten.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: BWL-BSc-GL-M01 Buchhaltung
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc BWL (PO2021), PMG "Grundlagen der BWL für
+Studierende der BWL"
+BSc Immo (PO2021), PMG "Grundlagen der BWL für
+Studierende der Immobilienwirtschaft"
+BSc WInfo (PO2021), PMG "Allgemeine Grundlagen für
+Studierende der Wirtschaftsinformatik"
+7. Angebotsturnus des Moduls: im Turnus Sommersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 2. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Std.)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Kosten- und Leistungsrechnung 2
+2 P Übung Kosten- und Leistungsrechnung 2
+2413. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Kosten- und Klausur 90 Prüfungszeitraum: 100
+Leistungsrechnung Minuten erste bis vierte
+Woche nach
+Vorlesungsende
+14. Bemerkungen:
+Bei einem geplanten Auslandsaufenthalt ist eine potenzielle Modulanrechnung mit dem Prüfer oder der Prüferin
+im Vorfeld abzuklären.
+25Modul BWL-BSc-GL-M06
+1. Name des Moduls: Marketing
+2. Fachgebiet / Verantwortlich: Prof. Dr. Roland Helm
+3. Inhalte des Moduls: 1. Grundsätze marktorientierter Unternehmenspolitik
+2.  Rationale  Informationsverarbeitung  und  Ableitung  von
+Entscheidungen
+3. Gesetzmäßigkeiten des Käuferverhaltens
+Marketing-Mix I: Leistungsgestaltung
+4. Produkt- und Innovationspolitik
+5. Preispolitik
+Marketing-Mix II: Leistungsvermittlung
+6. Distributionspolitik
+7. Kommunikationspolitik
+8. Besonderheiten ausgewählter institutioneller Bereiche des
+Marketing
+4. Qualifikationsziele des Moduls / zu Nach Abschluss dieses Moduls haben die Studierenden einen
+erwerbende Kompetenzen: Überblick  über  die  Grundlagen  marktorientierter
+Unternehmensplanung,  Entscheidungsrechnung,
+Käuferverhalten und der klassischen Marketing-Instrumente,
+um  Marketing-Entscheidungen  im  Unternehmen  zu
+verstehen,  gewonnen.  Die  Studierenden  können  nach
+Abschluss  des  Moduls  kleinere  Problemstellungen
+selbstständig lösen.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: BWL-BSc-GL-M05 Kosten- und Leistungsrechnung
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc BWL (PO2021), PMG "Grundlagen der BWL für
+Studierende der BWL"
+BSc Immo (PO2021), PMG "Grundlagen der BWL für
+Studierende der Immobilienwirtschaft"
+BSc WInfo (PO2021), PMG "Allgemeine Grundlagen für
+Studierende der Wirtschaftsinformatik"
+7. Angebotsturnus des Moduls: im Turnus Wintersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 3. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 LP*30 Std.)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+2611. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Marketing 2
+2 P Übung Marketing 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Marketing Klausur 60 Prüfungszeitraum: 100
+erste bis vierte
+Woche nach
+Vorlesungsende
+14. Bemerkungen:
+Modulname geändert von "Grundlagen des Marketing" (PO 2015) auf "Marketing" (PO 2021)
+Eine Doppelbelegung des Moduls mit "altem Namen" und des Moduls mit "neuem Namen" ist nicht möglich.
+274. Pflichtmodulgruppe: Grundlagen der VWL für Studierende der
+Immobilienwirtschaft
+Qualifikationsziele der Modulgruppe:
+Die  Mikroökonomik  schafft  ein  Verständnis  für  die  Entscheidungsfindungsprozesse  von  Konsumenten  und
+Produzenten und deren Interaktion auf Märkten sowie für die notwendigen Bedingungen für volkswirtschaftliche
+Effizienz. In der Makroökonomik werden der langfristige Trend der volkswirtschaftlichen Entwicklung und die
+konjunkturellen  Schwankungen  darum  analysiert.  Die  Lehrveranstaltungen  der  Modulgruppe  versetzen
+Studierende in die Lage, aktuelle makroökonomische Entwicklungen eigenständig einordnen und beurteilen zu
+können  sowie  die  Wirksamkeit  wirtschaftspolitischer  Maßnahmen  abzuschätzen.  In  Ökonometrie  lernen  die
+Studierenden die zentralen ökonometrischen Werkzeuge und die zugrundeliegende ökonometrische Theorie
+kennen. Damit können sie eigenständig einfache empirisch-ökonometrische Analysen durchführen und damit
+quantitative Aussagen inklusive der ihnen zugrundeliegenden Unsicherheit geben.
+ECTS: 30; Modulgruppenverantwortliche*r: Prof. Gabriel Lee, PhD
+Modulkennung Modulname P/WP/W SWS G
+VWL-BSc-GL-M01 Makroökonomik 1 Pflicht 2V+2Ü 6
+VWL-BSc-GL-M02 Makroökonomik 2 Pflicht 2V+2Ü 6
+VWL-BSc-GL-M03 Mikroökonomik 1 Pflicht 2V+2Ü 6
+VWL-BSc-GL-M04 Mikroökonomik 2 Pflicht 2V+2Ü 6
+6 ECTS aus dem folgenden Angebot müssen erbracht werden:
+VWL-BSc-GL-M05 Einführung in die Ökonometrie Wahlpflicht 2V+2Ü 6
+VWL-BSc-GL-M06 Methoden der Volkswirtschaftslehre Wahlpflicht 2V+2Ü 6
+28Modul VWL-BSc-GL-M01
+1. Name des Moduls: Makroökonomik 1
+2. Fachgebiet / Verantwortlich: Prof. Dr. Lutz Arnold
+3. Inhalte des Moduls: -  Messung  wichtiger  gesamtwirtschaftlicher  Größen  wie
+Bruttoinlandsprodukt (BIP) und Inflation
+- Produktivität und Wirtschaftswachstum
+- Beschäftigung und Arbeitslosigkeit
+- Geld und Inflation
+4. Qualifikationsziele des Moduls / zu Nach  Abschluss  dieses  Moduls  haben  die  Studierenden
+erwerbende Kompetenzen: Kenntnisse  über  die  empirische  Ermittlung  von
+gesamtwirtschaftlichen Aggregaten wie dem BIP sowie über
+verschiedene  Methoden  zur  Berechnung  der
+Arbeitslosenquote  und  der  Inflationsrate  erworben.  Sie
+verstehen, wie wechselseitige Kausalbeziehungen zwischen
+den relevanten makroökonomischen Größen im jeweiligen
+Kontext  die  Gleichgewichtswerte  der  Makro-Größen
+bestimmen. Sie verstehen die Zusammenhänge und können
+den Prozess der Gleichgewichtsbestimmung interpretieren.
+Damit können sie abschätzen, wie sich wirtschaftspolitische
+Vorschläge auf die Makroökonomik auswirken, und somit
+eine  Bewertung  konkurrierender  wirtschaftspolitischer
+Vorschläge vornehmen.
+Im Einzelnen:
+-  Die  Studierenden  können  zeigen  und  erklären,  dass
+anhaltendes Produktivitätswachstum nur durch technischen
+Fortschritt möglich ist.
+-  Sie  kennen  die  für  Lohnverhandlungen  relevanten
+Institutionen und arbeitsmarktpolitischen Regulierungen und
+verstehen, wie sich in diesem Umfeld die Arbeitslosenquote
+bestimmt.
+-  Sie  können  die  Geldversorgung  durch  die  Zentralbank
+erklären und Inflation auf verschiedene mögliche Ursachen
+(Geldmengenwachstum, Kostendruck etc.) zurückführen.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc BWL (PO2021), PMG "Allgemeine Grundlagen für
+Studierende der BWL"
+BSc Immo (PO2021), PMG "Grundlagen der VWL für
+Studierende der Immobilienwirtschaft"
+BSc VWL (PO2021), PMG "Grundlagen der VWL für
+Studierende der VWL"
+BSc IVWL (PO2021), PMG "Grundlagen der VWL für
+Studierende der iVWL"
+7. Angebotsturnus des Moduls: im Turnus Wintersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 1. Fachsemester
+2910. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Std.)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Makroökonomik 1 2
+2 P Übung Makroökonomik 1 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Makroökonomik 1 Klausur 60 Prüfungszeitraum: 100
+erste bis vierte
+Woche nach
+Vorlesungsende
+14. Bemerkungen:
+Die Module Makroökonomik 1 und Makroökonomik 2 werden im jährlichen Wechsel von den Lehrstühlen Jerger
+bzw. Arnold angeboten. Bitte beachten: Wer die Klausur zwei Semester nach der Vorlesung mitschreibt, schreibt
+also beim jeweils anderen Dozenten.
+30Modul VWL-BSc-GL-M02
+1. Name des Moduls: Makroökonomik 2
+2. Fachgebiet / Verantwortlich: Prof. Dr. Lutz Arnold
+3. Inhalte des Moduls: - Konjunkturschwankungen
+- konjunkturelle Arbeitslosigkeit
+- aggregierte Nachfrage
+- Geld- und Fiskalpolitik
+- internationaler Handel und internationaler Kapitalverkehr
+- Festkurssysteme
+4. Qualifikationsziele des Moduls / zu Die  Studierenden  erwerben  im  Anschluss  an  das  Modul
+erwerbende Kompetenzen: Makroökonomik 1 weitere Kenntnisse über die Bestimmung
+der Gleichgewichtswerte makroökonomischer Größen durch
+wechselseitige  Kausalbeziehungen.  Sie  verstehen  die
+Zusammenhänge  und  können  den  Prozess  der
+Gleichgewichtsbestimmung interpretieren. Damit können sie
+abschätzen, wie sich wirtschaftspolitische Vorschläge auf die
+Makroökonomik  auswirken,  und  somit  eine  Bewertung
+konkurrierender  wirtschaftspolitischer  Vorschläge
+vornehmen.
+Im Einzelnen:
+- Die Studierenden verstehen, wie Konjunkturzyklen aus der
+Güternachfrage  resultieren,  und  können  dies  anhand
+keynesianischer Modelle begründen.
+- Sie verstehen, wie Zentralbanken Inflation und Konjunktur
+mit ihrer Geldpolitik steuern und wie der Staat mit seinen
+öffentlichen Haushalten die Konjunktur stabilisieren kann.
+- Die Studierenden erwerben Kenntnisse über die zentralen
+internationalen  Wirtschaftsbeziehungen  und  die
+internationalen  Institutionen,  die  Welthandel  und
+internationalen Kapitalverkehr reglementieren.
+- Sie können eigenständig abschätzen, wie internationale
+Wirtschaftsbeziehungen  die  Wirksamkeit  von  Geld-  und
+Fiskalpolitik verstärken oder abschwächen.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc BWL (PO2021), PMG "Allgemeine Grundlagen für
+Studierende der BWL"
+BSc Immo (PO2021), PMG "Grundlagen der VWL für
+Studierende der Immobilienwirtschaft"
+BSc VWL (PO2021), PMG "Grundlagen der VWL für
+Studierende der VWL"
+BSc IVWL (PO2021), PMG "Grundlagen der VWL für
+Studierende der iVWL"
+7. Angebotsturnus des Moduls: im Turnus Sommersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 2. Fachsemester
+3110. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Std.)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Makroökonomik 2 2
+2 P Übung Makroökonomik 2 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Makroökonomik 2 Klausur 60 Prüfungszeitraum: 100
+erste bis vierte
+Woche nach
+Vorlesungsende
+14. Bemerkungen:
+Die Module Makroökonomik 1 und Makroökonomik 2 werden im jährlichen Wechsel von den Lehrstühlen Jerger
+bzw. Arnold angeboten. Bitte beachten: Wer die Klausur zwei Semester nach der Vorlesung mitschreibt, schreibt
+also beim jeweils anderen Dozenten.
+32Modul VWL-BSc-GL-M03
+1. Name des Moduls: Mikroökonomik 1
+2. Fachgebiet / Verantwortlich: Prof. apl. Dr. Christoph Knoppik
+3. Inhalte des Moduls: Grundbegriffe: Gewinn- und Nutzenmaximierung, Angebot
+und Nachfrage, Produzenten- und Konsumentenrente; das
+vollkommene  Konkurrenzmarktgleichgewicht,
+Marktversagen;
+Unvollkommene  Konkurrenz:  Monopol,  Monopson,
+Preisdifferenzierung,  Duopol  und  Oligopol,  Mengen-  und
+Preiswettbewerb; Wirkungen staatlicher Eingriffe;
+Grundlagen  der  nicht-kooperativen  Spieltheorie:
+Normalformdarstellung, Spieltypen und sequentielle Spiele.
+4. Qualifikationsziele des Moduls / zu Nach Abschluss des Moduls sind die Studierenden in der
+erwerbende Kompetenzen: Lage, das Verhalten von Marktteilnehmern theoretisch zu
+beschreiben und die Ergebnisse von Marktallokationen unter
+Wohlfahrtsgesichtspunkten  einzuschätzen.  Darüber  hinaus
+sind die Studierenden nach Abschluss des Moduls mit den
+Grundlagen der strategischen Interaktion (zwischen Firmen
+im Rahmen der Oligopoltheorie und Spielern im Rahmen der
+allgemeinen  Spieltheorie)  vertraut.  In  der  begleitenden
+Übung haben die Studierenden die Inhalte der Vorlesung
+vertieft und diese eigenständig auf Fragestellungen aus der
+Mikroökonomie anzuwenden.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc BWL (PO2021), PMG "Allgemeine Grundlagen für
+Studierende der BWL"
+BSc Immo (PO2021), PMG "Grundlagen der VWL für
+Studierende der Immobilienwirtschaft"
+BSc VWL (PO2021), PMG "Grundlagen der VWL für
+Studierende der VWL"
+BSc IVWL (PO2021), PMG "Grundlagen der VWL für
+Studierende der iVWL"
+7. Angebotsturnus des Moduls: im Turnus Wintersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 1. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS * 30 Std.)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+3311. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Mikroökonomik 1 2
+2 P Übung Mikroökonomik 1 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Mikroökonomik 1 Klausur 60 Prüfungszeitraum: 100
+erste bis vierte
+Woche nach
+Vorlesungsende
+34Modul VWL-BSc-GL-M04
+1. Name des Moduls: Mikroökonomik 2
+2. Fachgebiet / Verantwortlich: Prof. Dr. Andreas Roider
+3. Inhalte des Moduls: -  Grundlagen  der  Mikroökonomie,  insbesondere  ein
+Verständnis  für  die  Entscheidungsfindungsprozesse  von
+Individuen  und  Unternehmen  und  deren  Interaktion  auf
+Märkten  (grundlegende  Begriffe,  Modellierung,
+Analysetechniken)
+-  Theorie  individueller  Entscheidungen  (Grundlegendes
+Verhaltensmodell,  Anwendungen  auf
+Konsumentscheidungen,  Arbeitsangebot,  Sparen,
+Entscheidungen bei Risiko)
+-  Gleichgewichtstheorie  (Hauptsätze  der  Wohlfahrts-
+ökonomik, Adverse Selektion, Handel)
+-  Theorie  der  Unternehmung  (Produktions-  und
+Kostentheorie, Prinzipal-Agenten-Beziehungen, Outsourcing
+versus Eigenproduktion)
+4. Qualifikationsziele des Moduls / zu Nach Abschluss des Moduls können die Studierenden die
+erwerbende Kompetenzen: grundlegenden mikroökonomischen Methoden zur Analyse
+der  Entscheidungsfindungsprozesse  von  Individuen  und
+Unternehmen  benennen  und  aufzeigen,  wie  diese  zur
+Analyse eingesetzt werden können. Darüber hinaus sind die
+Studierenden nach Abschluss des Moduls in der Lage, in
+Abhängigkeit  der  betrachteten  ökonomischen
+Rahmenbedingungen Vorhersagen über das Verhalten von
+Individuen und Unternehmen zu machen und die einzel- und
+gesamtwirtschaftliche  Effizienz  dieser  Entscheidungen  zu
+beleuchten.  Die  Studierenden  können  die  erlernten
+Techniken  auf  aktuelle  Fragestellungen  anwenden.  Im
+Weiteren  weisen  die  Studierenden  nach  Abschluss  des
+Moduls  durch  ihre  Teilnahme  an  den  Fallstudien  zur
+experimentellen  Wirtschaftsforschung  nach,  dass  sie  die
+erarbeiteten methodischen Kenntnisse erfolgreich anwenden
+können.  Die  Übung  hat  die  Inhalte  der  Vorlesung  an
+Beispielen vertieft.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc BWL (PO2021), PMG "Allgemeine Grundlagen für
+Studierende der BWL"
+BSc Immo (PO2021), PMG "Grundlagen der VWL für
+Studierende der Immobilienwirtschaft"
+BSc VWL (PO2021), PMG "Grundlagen der VWL für
+Studierende der VWL"
+BSc IVWL (PO2021), PMG "Grundlagen der VWL für
+Studierende der iVWL"
+357. Angebotsturnus des Moduls: im Turnus Sommersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 2. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Std.)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Mikroökonomik 2 2
+2 P Übung Mikroökonomik 2 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Mikroökonomik 2 Klausur 60 Prüfungszeitraum: 95
+erste bis vierte
+Woche nach
+Vorlesungsende
+2 Mikroökonomik 2 Fallstudienarbeit 45 Während der 5
+Vorlesungszeit
+36Modul VWL-BSc-GL-M05
+1. Name des Moduls: Einführung in die Ökonometrie
+2. Fachgebiet / Verantwortlich: Prof. Dr. Lea Cassar
+3. Inhalte des Moduls: Einführung in ökonometrische Methoden für die empirische
+Wirtschaftsforschung:
+- Erweiterung statistischer Grundkenntnisse
+- Das einfache und multiple lineare Regressionsmodell und
+die Interpretation der Modellparameter
+-  Der  Kleinst-Quadrate-Schätzer  (KQ-Schätzer)  und  der
+(anwendbar) verallgemeinerte KQ-Schätzer: statistische und
+algebraische Eigenschaften
+-  Statistische  Tests  für  eine  einzelne  und  von  mehreren
+Hypothesen (t-Test, F-Test); Konfidenzintervalle
+- Modellspezifikation und Modelldiagnose
+- Zulassen von Heteroskedastie beim Schätzen und Testen
+- Prognosen und Prognosefehler
+- Empirische Anwendungen mit R
+4. Qualifikationsziele des Moduls / zu Nach Abschluss des Moduls können die Studierenden die
+erwerbende Kompetenzen: Grundlagen ökonometrischer Werkzeuge und die zugrunde
+liegende ökonometrische Theorie benennen und aufzeigen,
+wie  diese  in  der  empirischen  Analyse  eingesetzt  werden
+können.  Darüber  hinaus  sind  die  Studierenden  nach
+Abschluss  des  Moduls  in  der  Lage,  eigenständig  die
+gelernten  Verfahren  anzuwenden,  um  damit  einfache
+empirisch-ökonometrische  Analysen  durchzuführen  und
+dabei auch die Unsicherheit der Ergebnisse zu bewerten. Die
+Übung hat die Inhalte der Vorlesung mit selbst zu lösenden
+Aufgaben  und  empirischen  Beispielen  vertieft  und  die
+Studierenden  in  die  Lage  versetzt,  mit  ökonometrischer
+Software (R) umzugehen.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: WiWi-BSc-Q02 Statistik 1 für Wirtschaftswissenschaften
+WiWi-BSc-Q03 Statistik 2 für Wirtschaftswissenschaften
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc BWL (PO2021), VTMG "Business Analytics"
+BSc Immo (PO2021), PMG "Grundlagen der VWL für
+Studierende der Immobilienwirtschaft"
+BSc VWL (PO2021), PMG "Grundlagen der VWL für
+Studierende der VWL"
+BSc IVWL (PO2021), PMG "Grundlagen der VWL für
+Studierende der iVWL"
+7. Angebotsturnus des Moduls: im Turnus Wintersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 3. bzw. 5. Fachsemester
+3710. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Std.)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Einführung in die Ökonometrie 2
+2 P Übung Einführung in die Ökonometrie 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Einführung in die Klausur 90 Prüfungszeitraum: 100
+Ökonometrie Minuten Erste bis vierte
+Woche nach
+Vorlesungsende
+14. Bemerkungen:
+-  Die  Wiederholungsprüfung  ist  grundsätzlich  nicht  für  Erstschreiber  offen  (Ausnahmen:  Krankheit  und
+Auslandsaufenthalt).
+- Bei einem geplanten Auslandsaufenthalt ist eine potentielle Modulanrechnung mit der Lehrperson im Vorfeld
+abzuklären.
+38Modul VWL-BSc-GL-M06
+1. Name des Moduls: Methoden der Volkswirtschaftslehre
+2. Fachgebiet / Verantwortlich: Prof. Dr. Fabian Kindermann
+3. Inhalte des Moduls: Optimierung
+- Optimierung bei einer unabhängigen Variablen
+- Optimierung bei mehreren unabhängigen Variablen
+- Optimierung unter Nebenbedingungen
+- Optimierung am Computer
+- Komparative Statik
+Dynamische Methoden
+- lineare Differenzengleichungen
+- nicht-lineare Differenzengleichungen
+4. Qualifikationsziele des Moduls / zu Nach Abschluss dieses Moduls haben sich die Studierenden
+erwerbende Kompetenzen: mit  den  gängigen  Methoden  der  ökonomischen
+Theoriebildung  vertraut  gemacht:  Optimierungsverfahren
+sowie  Differenzengleichungen  zur  Beschreibung
+intertemporaler Phänomene.
+Sie lernten die grundlegenden Verfahrensweisen sowie deren
+Anwendung  auf  konkrete  ökonomische  Sachverhalte
+kennen, wie z.B. Nutzen- und Gewinnmaximierung und die
+Stabilität  dynamischer  ökonomischer  Systeme.  Zudem
+können  die  Studierenden  nach  Abschluss  des  Moduls
+einfache ökonomische Modelle mit Hilfe eines Computers
+lösen.
+Damit  sind  sie  befähigt,  wirtschaftliche  Zielkonflikte
+bestmöglich  aufzulösen  sowie  konkrete  ökonomische
+Probleme  so  zu  formulieren,  dass  sie  sie  mit  den
+Standardmethoden der VWL analysieren können.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: WiWi-BSc-Q01 Mathematik
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc Immo (PO2021), PMG "Grundlagen der VWL für
+Studierende der Immobilienwirtschaft"
+BSc VWL (PO2021), PMG "Grundlagen der VWL für
+Studierende der VWL"
+BSc IVWL (PO2021), PMG "Grundlagen der VWL für
+Studierende der iVWL"
+7. Angebotsturnus des Moduls: im Turnus Wintersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 3. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Std.)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+3911. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Methoden der Volkswirtschaftslehre 2
+2 P Übung Methoden der Volkswirtschaftslehre 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Methoden der Klausur 90 Prüfungszeitraum: 100
+Volkswirtschaftslehre erste bis vierte
+Woche nach
+Vorlesungsende
+405. Pflichtmodulgruppe: Immobilienwirtschaft I für Studierende der
+Immobilienwirtschaft
+Qualifikationsziele der Modulgruppe:
+Die  Studierenden  lernen  in  der  Modulgruppe  "Immobilienwirtschaft  I"  die  betriebswirtschaftlichen  und
+volkwirtschaftlichen Grundlagen mit Bezug zur Immobilienwirtschaft näher kennen. Durch die Vermittlung von
+Methoden und Verfahren zur Immobilienbewertung, -investition und -finanzierung erwerben die Studierenden
+wichtige  funktionale  und  lebenszyklusorientierte  Kenntnisse  im  Aufgabenbereich  eines  sich  mit  Immobilien
+befassenden  Entscheiders.  Ein  fachliches  und  methodisches  Verständnis  für  gesamtwirtschaftliche
+Zusammenhänge  im  Bereich  der  Immobilienwirtschaft  wird  durch  Inhalte  zu  Immobilienökonomie  und
+Regionalökonomie vermittelt. Anhand volkwirtschaftlicher Konzepte und Methoden können die Studierenden die
+Zusammenhänge von Immobilienmärkten und den ihnen vor- und nachgelagerten Märkten erkennen und die
+Fähigkeiten erhalten, diese Zusammenhänge im immobilienwirtschaftlichen Kontext detailliert zu analysieren und
+gesamt- als auch regionalökonomische Entwicklungen und Fragestellungen vor dem Hintergrund theoretischer
+und  empirischer  Ergebnisse  einzuordnen.  Neben  diesen  Fach-  und  Methodenkompetenzen  bauen  die
+Studierenden ihre Sozialkompetenzen weiter aus, indem sie im Rahmen von Workshops und Übungen in Gruppen
+interaktiv  miteinander  praktische  Fallstudien  und  Aufgaben  lösen  und  so  ihr  konzeptionelles  Wissen  zur
+Anwendung bringen.
+ECTS: 24; Modulgruppenverantwortliche*r: Prof. Dr. Kristof Dascher
+Modulkennung Modulname P/WP/W SWS G
+IMMO-BSc-IW1-M01 Immobilienfinanzierung I Pflicht 2V+2Ü 6
+IMMO-BSc-IW1-M02 Immobilienökonomie I Pflicht 2V+2Ü 6
+IMMO-BSc-IW1-M03 Immobilienmanagement I Pflicht 2V+2Ü 6
+6 ECTS aus dem folgenden Angebot müssen erbracht werden:
+VWL-BSc-IROEK-M02 Regionalökonomie I Wahlpflicht 2V+2Ü 6
+VWL-BSc-IROEK-M03 Ökonomie der Wohnungsmärkte Wahlpflicht 2V+2Ü 6
+41Modul IMMO-BSc-IW1-M01
+1. Name des Moduls: Immobilienfinanzierung I
+2. Fachgebiet / Verantwortlich: Prof. Dr. Steffen Sebastian
+3. Inhalte des Moduls: - Finanztitel und -märkte
+- Grundlagen der Geldpolitik
+- Bestandteile eines Immobilienkredits
+- Besicherung von Krediten
+- Zins- und Tilgungskonzept
+- Gewerbliche Finanzierung
+- Bausparen und Wohnriester
+4. Qualifikationsziele des Moduls / zu Nach Abschluss dieses Moduls haben die Studierenden einen
+erwerbende Kompetenzen: Überblick  über  die  verschiedenen  Aspekte  der
+Immobilienfinanzierung gewonnen. Die Studierenden haben
+insbesondere  Kenntnisse  bzgl.  der  Ausgestaltung  von
+Immobilienkrediten,  verschiedener  Arten  der  Finanzierung
+und im Umgang mit Kreditrisiken erlangt.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: BWL-BSc-GL-M03 Finanzierung
+BWL-BSc-GL-M04 Investitionsentscheidungen
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc BWL (PO2021), VTMG "Immobilienwirtschaft"
+BSc Immo (PO2021), PMG "Immobilienwirtschaft I für
+Studierende der Immobilienwirtschaft"
+7. Angebotsturnus des Moduls: im Turnus Wintersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 5. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Std.)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Immobilienfinanzierung I 2
+2 P Übung Immobilienfinanzierung I 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Immobilienfinanzierung I Klausur 90 Prüfungszeitraum: 100
+erste bis vierte
+Woche nach
+Vorlesungsende
+4214. Bemerkungen:
+Dieses Modul gilt als BWL-Modul.
+43Modul IMMO-BSc-IW1-M02
+1. Name des Moduls: Immobilienökonomie I
+2. Fachgebiet / Verantwortlich: Prof. Gabriel Lee, PhD
+3. Inhalte des Moduls: - Immobilienmärkte: Kapital- und Bestandsmärkte
+- Standortanalyse: Stadtwachstum, Mieten und Preise
+- Wohnimmobilienmärkte
+- Einflussfaktoren auf Immobilienangebot und -nachfrage
+- hedonische Preisbildung
+- Gewerbeimmobilienmärkte
+- Unternehmensstandorte
+- Marktanalyse Einzelhandel
+- staatliche Markteingriffe
+4. Qualifikationsziele des Moduls / zu Den  Studierenden  wurden  im  Rahmen  dieses  Moduls
+erwerbende Kompetenzen: grundlegende  Kenntnisse  über  die  Funktionsweise  von
+Immobilienmärkten vermittelt. Sie sind nach Abschluss des
+Moduls  in  der  Lage,  Zusammenhänge  von
+Immobilienmärkten und anderen Märkten zu erkennen und
+erhalten die Fähigkeiten, diese Zusammenhänge detailliert zu
+analysieren.  Sie  beherrschen  sowohl  Grundlagen  der
+theoretischen Analyse als auch der Interpretation empirischer
+Marktanalysen. Des Weiteren weisen die Studierenden nach,
+dass  sie  die  erlernten  Techniken  auch  eigenständig  auf
+verwandte Fragestellungen anwenden können.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc BWL (PO2021), VTMG "Immobilienwirtschaft"
+BSc Immo (PO2021), PMG "Immobilienwirtschaft I für
+Studierende der Immobilienwirtschaft"
+BSc VWL (PO2021), SPMG "Immobilien- und
+Regionalökonomik"
+7. Angebotsturnus des Moduls: im Turnus Sommersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 4. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Std.)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Immobilienökonomie I 2
+2 P Übung Immobilienökonomie I 2
+4413. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Immobilienökonomie I Klausur 90 Prüfungszeitraum: 70
+erste bis vierte
+Woche nach
+Vorlesungsende
+2 Immobilienökonomie I Zwischenklausur 90 Während der 20
+Vorlesungszeit
+3 Immobilienökonomie I Schriftliche 4 Assignm Während der 10
+Hausaufgaben ents mit Vorlesungszeit
+einem
+Umfang
+von etwa
+4-5 Seiten
+pro
+Gruppe
+(max 3
+Personen)
+14. Bemerkungen:
+Die Zwischenklausur dient dazu, den in der Vorlesung und Übung behandelten Inhalt umfangreicher abzufragen.
+Die Fragen der Zwischenklausur sind auf den Inhalt der ersten Hälfte des Semesters beschränkt.
+Entsprechend konzentriert sich der Inhalt der (End-)Klausur auf den in der zweiten Semesterhälfte behandelten
+Stoff und eventuell in der Zwischenklausur nicht abgefragte Konzepte aus der ersten Semesterhälfte.
+Dieses Modul gilt als VWL-Modul.
+45Modul IMMO-BSc-IW1-M03
+1. Name des Moduls: Immobilienmanagement I
+2. Fachgebiet / Verantwortlich: Prof. Dr. Wolfgang Schäfers
+3. Inhalte des Moduls: - Grundlagen der Immobilienwirtschaft
+- Nationale und internationale Immobilienbewertung
+- Investitionsanalyse für Immobilien
+- Markt- und Standortanalyse (inkl. GIS)
+-  Rechnungslegungsvorschriften  für
+Immobilien(-unternehmen)
+- Nachhaltigkeitsaspekte in der Immobilienwirtschaft
+- Ethik in der Immobilienwirtschaft / Vorstellung der RICS
+4. Qualifikationsziele des Moduls / zu Nach Abschluss dieses Moduls haben die Studierenden durch
+erwerbende Kompetenzen: die  Vermittlung  der  Inhalte  des  Moduls
+"Immobilienmanagement  I"  einen  sowohl  grundlegenden
+wie auch tiefgreifenden Einblick in die wichtigsten Bereiche
+der  Immobilienwirtschaft  erhalten.  Dabei  kam  der
+Immobilienbewertung nach nationalen und internationalen
+Standards  sowie  der  Immobilieninvestitionsanalyse  ein
+besonderes  Augenmerk  zu.  Diese  beiden  Schwerpunkte
+sowie  die  Aspekte  der  Markt-  und  Standortanalyse  für
+Immobilien  bildeten  die  wesentlichen  Bausteine  jeglicher
+Entscheidungen im Immobilienmanagement. Darüber hinaus
+wurden die grundlegenden Prinzipien der Rechnungslegung
+für  Immobilien  (-unternehmen)  nach  verschiedenen
+Standards vermittelt. Einblicke in die besonderen Aspekte
+einer  nachhaltigen  Unternehmensführung  (inkl.  Corporate
+Governance), sowie eine Einordnung jüngster Entwicklungen
+an  den  Immobilienmärkten  in  weltweiter  Perspektive
+rundeten  die  Zielsetzung  der  Veranstaltung
+"Immobilienmanagement I" ab.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc BWL (PO2021), VTMG "Immobilienwirtschaft"
+BSc Immo (PO2021), PMG "Immobilienwirtschaft I für
+Studierende der Immobilienwirtschaft"
+MSc Immo (PO2021), WMG "Wahlmodulgruppe für
+Studierende der Immobilienwirtschaft"
+7. Angebotsturnus des Moduls: im Turnus Wintersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 5. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Std.)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+4611. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Immobilienmanagement I 2
+2 P Übung Immobilienmanagement I 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Immobilienmanagement I Klausur 90 Prüfungszeitraum: 100
+erste bis vierte
+Woche nach
+Vorlesungsende
+14. Bemerkungen:
+Dieses Modul gilt als BWL-Modul.
+47Modul VWL-BSc-IROEK-M02
+1. Name des Moduls: Regionalökonomie I
+2. Fachgebiet / Verantwortlich: Prof. Dr. Kristof Dascher
+3. Inhalte des Moduls: Die  Veranstaltung  "Regionalökonomie  I"  betont  die
+Bedeutung des regionalen Arbeitsmarkts für das Verständnis
+des regionalen Immobilienmarkts. Denn kaum eine Größe
+hat eine ähnliche Relevanz für lokale Immobilien-Mengen
+und  -Preise  wie  das  regionale  Arbeitsmarktgeschehen  in
+Gestalt  von  Nominallöhnen  und  Arbeitslosenquote.  Auch
+wird  hier  der  Kontrast  zwischen  der  Mobilität  von
+Produktionsfaktoren  einerseits  (insbes.  Arbeitnehmer)  und
+der  Immobilität  von  Häusern  andererseits  besonders
+augenfällig.
+Im  Zuge  der  Veranstaltung  interessiert  insbesondere  die
+Frage  nach  interregionaler  Konvergenz.  In  der  regional-
+ökonomischen  Theorie  stehen  sich  zwei  Paradigmen
+gegenüber, die Konvergenz unterschiedlicher Regionen (und
+damit auch Immobilienmärkte) entweder betonen oder aber
+zugunsten möglicher Divergenz verwerfen.
+Diese  Paradigmen  (Neoklassisches  Modell  vs.  Neue
+Ökonomische Geographie) nehmen breiten Raum ein. Hinzu
+treten  ergänzende  Analysen  wie  Thünens  Modell  der
+Landnutzung, Rosen/Robacks Sicht auf die Kapitalisierung
+regionaler öffentlicher Güter, Fragen des Steuerwettbewerbs,
+regionale Input-Output-Analysen, Rosenstein-Rodans Theorie
+der Koordination regional-sektoraler Industrien sowie erste
+Bausteine einer Theorie der Regionalpolitik.
+4. Qualifikationsziele des Moduls / zu Nach Abschluss dieses Moduls haben die Studierenden einen
+erwerbende Kompetenzen: Eindruck von der Bedeutung benachbarter Märkte für den
+Immobilienmarkt  gewonnen.  Der  Immobilienmarkt  steht
+eben nicht für sich, sondern ist in ein eng gewebtes Gefüge
+von  räumlichen  Arbitragebeziehungen  eingebettet.
+Entsprechendes  Augenmerk  ist  auf  Veränderungen  in
+benachbarten Regionen oder auf benachbarten Märkten zu
+legen.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc Immo (PO2021), PMG "Immobilienwirtschaft I für
+Studierende der Immobilienwirtschaft"
+BSc VWL (PO2021), SPMG "Immobilien- und
+Regionalökonomik"
+BSc VWL (PO2021), SPMG "Außenwirtschaft und
+Entwicklungsökonomik"
+BSc IVWL (PO2021), PMG "Pflichtmodulgruppe
+Internationale VWL"
+7. Angebotsturnus des Moduls: im Turnus Sommersemester
+488. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 4. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Std.
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Regionalökonomie I 2
+2 P Übung Regionalökonomie I 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Regionalökonomie I Klausur 90 Prüfungszeitraum: 100
+erste bis vierte
+Woche nach
+Vorlesungsende
+49Modul VWL-BSc-IROEK-M03
+1. Name des Moduls: Ökonomie der Wohnungsmärkte
+2. Fachgebiet / Verantwortlich: Prof. Dr. Kristof Dascher
+3. Inhalte des Moduls: Von Arbeit und Essen einmal abgesehen kommt kaum einem
+Gut so viel Aufmerksamkeit zu wie Wohnen. Wohnen meint
+nicht  einfach  nur  die  Wohnfläche,  die  wir  konsumieren,
+sondern das ganze Bündel zugeordneter Güter, die uns Lage
+und Nachbarn unseres Wohnens vermitteln.
+So entscheidet der Wohn-Ort über Verkehrsanschluss, Kultur,
+Schulqualität u.ä., während die Wohn-Nachbarn über die
+von  ihnen  ausgehenden  -  oder  auch  uns  von  ihnen
+vorenthaltenen - Anregungen viele Aspekte unseres Lebens
+prägen.
+Angesichts dieses breiten Spektrums an Gütern überrascht
+nicht,  dass  der  größte  Anteil  an  den  Ausgaben  eines
+typischen  Haushalts  auf  das  Wohnen  entfällt.  Eine  jeder
+Gesellschaft inhärente und fundamentale Frage ist, welcher
+Haushalt dann wo wie wohnt. Diese Frage stellt im Kern eine
+Matching-Aufgabe, und diese Matching-Aufgabe wird oft -
+aber eben nicht immer - über Märkte gelöst.
+Mietpreisbremsen, Sozialwohnungen, Wohngeld sind gerade
+in  jüngster  Zeit  vieldiskutierte  staatliche  Eingriffe  in  den
+Matching-Prozess der Märkte. Uns interessiert neben den
+institutionellen Eigenheiten dieser Interventionen, wie diese
+alternativen  Mechanismen  gegen  gängige
+Wohlfahrtskriterien bestehen.
+4. Qualifikationsziele des Moduls / zu Nach  Abschluss  dieses  Moduls  haben  die  Studierenden
+erwerbende Kompetenzen: mögliche  Allokationsmechanismen  auf  Wohnungsmärkten
+ergründet, Vor- und Nachteile unterschiedlicher staatlicher
+Interventionen kennen gelernt und die Bedeutung regionaler
+und  föderaler  Interessengruppen  im  politischen  Prozess
+verstanden.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc Immo (PO2021), PMG "Immobilienwirtschaft I für
+Studierende der Immobilienwirtschaft"
+BSc VWL (PO2021), SPMG "Immobilien- und
+Regionalökonomik"
+7. Angebotsturnus des Moduls: im Turnus Sommersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 4. Fachsemester
+5010. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Std.)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Ökonomie der Wohnungsmärkte 2
+2 P Übung Ökonomie der Wohnungsmärkte 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Ökonomie der Klausur 90 Prüfungszeitraum: 100
+Wohnungsmärkte erste bis vierte
+Woche nach
+Vorlesungsende
+516. Pflichtmodulgruppe: Immobilienwirtschaft II für Studierende der
+Immobilienwirtschaft
+Qualifikationsziele der Modulgruppe:
+In der Modulgruppe "Immobilienwirtschaft II" erlernen die Studierenden die interdisziplinären Zusammenhänge im
+Bereich  der  Immobilienwirtschaft  kennen,  welche  unabdingbar  für  ein  vertieftes  Verständnis  dieses
+Wirtschaftsbereiches  sind.  Insbesondere  im  Bereich  interdisziplinärer  Schnittstellen  zu  bautechnischen,
+architektonischen,  rechtlichen  und  steuerlichen  Aufgabenstellungen  können  fachliche  und  methodische
+Kompetenzen durch die Studierenden erworben werden. Durch die Vermittlung grundlegender Konzepte zu
+Immobilienrecht  und  Immobiliensteuern  erlangen  Studierende  die  Fähigkeiten,  Problemstellungen  vor  dem
+Hintergrund gesetzlicher Vorschriften im Kontext der Immobilienwirtschaft einzuordnen. Durch grundlegende
+Einblicke in die Bereiche Architektur- und Bauingenieurwesen können erste Kenntnisse zu technischen und
+architektonischen  Konzepten  und  Inhalten  vermittelt  werden,  die  für  eine  ganzheitliche  Beurteilung  von
+Immobilienvorhaben unabdingbar sind. Die inhaltliche Einbettung der erlernten interdisziplinären Kenntnisse in
+der Immobilienwirtschaft wird insbesondere in der Immobilienentwicklung aufgezeigt, wobei Instrumente und
+Verfahrensweisen sowie die Teamprozesse bei der Entwicklung oder Revitalisierung einer Immobilie vermittelt
+werden. Über immobilienspezifische Aufgabenstellungen und Anwendungsbeispiele sowie der Berücksichtigung
+von Nachhaltigkeitsaspekte in der Immobilienentwicklung können darüber hinaus weitere soziale Kompetenzen
+durch die Studierenden erworben werden.
+Alle Module müssen belegt werden.
+ECTS: 24; Modulgruppenverantwortliche*r: Prof. Dr. Wolfgang Schäfers
+Modulkennung Modulname P/WP/W SWS G
+IMMO-BSc-IW2-M01 Immobilienentwicklung I Pflicht 2V+2Ü 6
+IMMO-BSc-IW2-M02 Immobilienrecht und -steuern Pflicht 2V+2Ü 6
+IMMO-BSc-IW2-M03 Grundzüge der Architektur Pflicht 2V+2Ü 6
+IMMO-BSc-IW2-M04 Grundzüge des Bauingenieurwesens Pflicht 2V+2Ü 6
+52Modul IMMO-BSc-IW2-M01
+1. Name des Moduls: Immobilienentwicklung I
+2. Fachgebiet / Verantwortlich: Prof. Dr. Stephan Bone-Winkel
+3. Inhalte des Moduls: - Grundlagen der Immobilien-Projektentwicklung
+- Definition, Aufgaben, Ausgangslage
+- Projektentwicklungsprozess
+- Wertschöpfung und Honorare in der Projektentwicklung
+- Real Estate Asset Management
+-  Beteiligungsmodelle  und  Partnerschaften  in  der
+Projektentwicklung
+- Wirtschaftlichkeitsanalysen
+- Grundlagen der Stadtentwicklung
+- Immobilienmarketing
+- Planung und Architektur von Bürogebäuden
+- Grundlagen der nachhaltigen Immobilienentwicklung
+- Fallstudien
+4. Qualifikationsziele des Moduls / zu Nach Abschluss dieses Moduls haben die Studierenden die
+erwerbende Kompetenzen: grundlegenden Aspekte und interdisziplinären Bausteine der
+Immobilien-Projektentwicklung, von der Projektinitiierung bis
+hin zur Nutzung eines Gebäudes, vermittelt bekommen. Ziel
+war  es,  den  Studierenden  eine  praxisorientierte,
+interdisziplinäre  Ausbildung  im  Bereich  der  Immobilien-
+Projektentwicklung anzubieten.
+Auf  Basis  realer  Fallstudien  und  konkreter
+Entwicklungsprojekte  haben  die  Studierenden  die
+Instrumente und Verfahrensweisen sowie die Teamprozesse
+bei  der  Entwicklung  oder  Revitalisierung  einer  Immobilie
+erlernt.
+Anhand  einer  Case  Study  haben  die  Studierenden  die
+erlernte Theorie praktisch umgesetzt und angewendet. Diese
+semesterbegleitende Leistung floss zu 25% in die Endnote
+mit ein.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc BWL (PO2021), VTMG "Immobilienwirtschaft"
+BSc Immo (PO2021), PMG "Immobilienwirtschaft II für
+Studierende der Immobilienwirtschaft"
+7. Angebotsturnus des Moduls: im Turnus Sommersemester
+8. Das Modul kann absolviert werden in: 1
+9. Empfohlenes Fachsemester: 4. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Std.)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+5311. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Immobilienentwicklung I 2
+2 P Übung Immobilienentwicklung I 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Immobilienentwicklung I Klausur 90 Prüfungszeitraum: 75
+erste bis vierte
+Woche nach
+Vorlesungsende
+2 Immobilienentwicklung I Fallstudienarbeit ExposÃ© 5 Wochen während 25
+max. 6 der Vorlesungszeit
+Seiten Abs
+chlusspräs
+entation
+ca. 15
+Minuten
+14. Bemerkungen:
+Dieses Modul gilt als BWL-Modul.
+54Modul IMMO-BSc-IW2-M02
+1. Name des Moduls: Immobilienrecht und -steuern
+2. Fachgebiet / Verantwortlich: Prof. Dr. Wolfgang Servatius
+3. Inhalte des Moduls: -  Einführung  zu  den  Grundzügen  des  deutschen
+Steuersystems
+-  Grundlegende  Aspekte  für  Immobilienunternehmen  bei
+Körperschaft-  und  Gewerbesteuer,  Umsatzsteuer  und
+Grunderwerbssteuer
+- Vermittlung der Unterschiede zwischen gewerblichem und
+privatem Mietrecht
+- Rechtliche Grundlagen von Grundstück, Erbbaurecht sowie
+Wohnungs- und Teileigentum
+-  Das  Grundbuch  (Aufbau,  Verfahren,  Bedeutung  der
+Rangverhältnisse im Grundbuch)
+- Grundzüge des öffentlichen Bau- und Planungsrechts
+4. Qualifikationsziele des Moduls / zu Nach Abschluss dieses Moduls haben die Studierenden einen
+erwerbende Kompetenzen: allgemeinen Überblick über die Grundzüge des deutschen
+Steuersystems erhalten. Weiterhin wurden die wesentlichen
+allgemeinen  und  besonderen  Aspekte  der
+Immobilienbesteuerung vermittelt. Die Studierenden sollen
+für die steuerlichen Aspekte während des Lebenszyklus einer
+direkt  und  indirekt  gehaltenen  Immobilie  (Ankauf,
+Bestandshaltung, Verkauf) sensibilisiert werden und somit
+mögliche  Problemfelder  eigenständig  erkennen  und
+behandeln können.
+Zudem verstehen sie die Bedeutung privatrechtlicher (z.B.
+Mietvertragsrecht)  sowie  öffentlich-rechtlicher  (z.B.
+Bauordnungsrecht) Aspekte bei Immobilieninvestitionen und
+-entwicklungen  in  Grundzügen.  Die  Studierenden  sollen
+darüber hinaus in der Lage sein, rechtliche Voraussetzungen
+für  die  Zulässigkeit  eines  Bauvorhabens  beurteilen  zu
+können.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc Immo (PO2021), PMG "Immobilienwirtschaft II für
+Studierende der Immobilienwirtschaft"
+7. Angebotsturnus des Moduls: im Turnus Sommersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 4. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Std.)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+5511. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Immobilienrecht und -steuern 2
+2 P Übung Immobilienrecht und -steuern 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Immobilienrecht und -steuern Klausur 90 Prüfungszeitraum: 75
+erste bis vierte
+Woche nach
+Vorlesungsende
+2 Immobilienrecht und -steuern Fallstudienarbeit 5 Während der 25
+Wochen Vorlesungszeit
+56Modul IMMO-BSc-IW2-M03
+1. Name des Moduls: Grundzüge der Architektur
+2. Fachgebiet / Verantwortlich: Prof. Dr. Kristof Dascher
+3. Inhalte des Moduls: Die Vorlesung "Grundzüge der Architektur" verfolgt das Ziel,
+angehenden  Spezialisten  der  Immobilienwirtschaft  ein
+Grundlagenwissen  über  Architektur  und  Städtebau  zu
+vermitteln, sie mit Grundbegriffen des architektonischen und
+städtebaulichen Denkens vertraut zu machen und ihnen ein
+Verständnis für die historische Prägung unserer gebauten
+Umwelt und für die Rolle ihres eigenen Berufes in diesem
+Feld zu eröffnen.
+Insbesondere sollen die Studierenden die Fähigkeit erwerben,
+einen Grundriss zu lesen, einen Aufriss zu analysieren, die
+räumliche  Komplexität  eines  Baukörpers  in  seinem
+städtebaulichen  und  landschaftlichen  Umfeld  richtig
+einzuschätzen sowie Konstruktionsweise und Baustoffe zu
+identifizieren.
+4. Qualifikationsziele des Moduls / zu Nach Abschluss dieses Moduls haben die Studierenden den
+erwerbende Kompetenzen: Produktionsprozess der Immobilie nicht allein aus betriebs-
+oder volkswirtschaftlicher Perspektive verstanden, sondern
+würdigen  ihn  auch  aus  -  der  ja  essentiellen  -
+architektonischen und städtebaulichen Perspektive.
+Sie verstehen, dass Architektur (Attribute der Immobilie) und
+Städtebau  (Lage  und  Nachbarschaft  der  Immobilie)  nicht
+Rand-  oder  Begleiterscheinungen  der  Immobilie  sind,
+sondern  sich  unvermeidlich  in  Qualität  und  Preis  der
+Immobilie niederschlagen.
+Darüber  hinaus  haben  sie  im  Zuge  dieser  Veranstaltung
+wichtige Querbezüge u.a. zur Immobilienentwicklung und
+zur Ökonometrie schätzen gelernt: Immobilien sind nicht nur
+Reflex  einzelwirtschaftlicher  Optimierung,  sondern  stehen
+zudem in einem gesamtgesellschaftlichen Kontext (Stichwort:
+hedonische Preisschätzungen von Immobilien-Attributen)
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc Immo (PO2021), PMG "Immobilienwirtschaft II für
+Studierende der Immobilienwirtschaft"
+7. Angebotsturnus des Moduls: im Turnus Sommersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 4. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Std.)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+5711. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Grundzüge der Architektur 2
+2 P Übung Grundzüge der Architektur 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Grundzüge der Architektur Klausur 90 Prüfungszeitraum: 100
+erste bis vierte
+Woche nach
+Vorlesungsende
+58Modul IMMO-BSc-IW2-M04
+1. Name des Moduls: Grundzüge des Bauingenieurwesens
+2. Fachgebiet / Verantwortlich: Prof. Dr. Wolfgang Schäfers
+3. Inhalte des Moduls: Wie wir heute unsere Immobilien bauen, ist das Ergebnis
+eines  jahrtausendealten  Optimierungsprozesses,  der  lange
+vor dem rechteckigen Megaron des antiken Griechenlands
+beginnt.  Die  Konstruktion  von  Bauwerken  ist  Reflex  von
+Adaption und Optimierung: Sie spiegelt immer auch das
+lokale Wetter und Klima, die Besonderheiten des Terrains
+und Baustellengrunds, rechtliche Normen zu Brand- oder
+Starkregenschutz, den Wunsch der zukünftigen Nutzer nach
+Schutz vor Lärm, Feuchtigkeit und Sonneneinstrahlung oder
+auch ihr Wunsch nach adäquater Bewässerung, Beleuchtung,
+Raumklima wieder.
+In der Vorlesung "Grundzüge des Bauingenieurwesens" rückt
+die Bedeutung all dieser verschiedenen Umweltbedingungen
+und  Aspekte  für  den  Konstruktionsprozess  in  den
+Mittelpunkt.  Die  Vorlesung  erläutert  die  Details  dieses
+Prozesses  am  Beispiel  einfacher  Geschoßbauten,  arbeitet
+einfache  Prinzipien  der  Baustatik  heraus  und  erklärt
+Konstruktionsgrundlagen  der  Bauteile  beziehungsweise
+Gewerke und deren Materialien.
+4. Qualifikationsziele des Moduls / zu Nach  Abschluss  dieses  Moduls  sind  die  Studierenden
+erwerbende Kompetenzen: einerseits  vertraut  mit  den  wichtigsten  bauphysikalischen
+Grundlagen von Gebäuden beziehungsweise Bauwerken in
+Kontakt - Grundlagen, die sie im Dialog mit Spezialisten auf
+Baustellen  oder  im  Property  beziehungsweise  Facility
+Management beherrschen müssen, und Grundlagen, die sich
+auch im langfristigen Wert des Hauses niederschlagen.
+Andererseits sehen sich die Studierenden bestätigt in ihrem
+Verständnis  von  der  Bedeutung  von  Optimierung  von
+Bauprozessen  und  Materialien:  Optimierung  spielt  in  der
+wirtschaftlichen  Betrachtung  von  Bauwerken  ja  ebenfalls
+eine zentrale Rolle. Querbezüge zu Immobilienmanagement,
+Architektur  und  Städtebau  sowie  Regionalökonomie  I
+werden deutlich: Die Interdisziplinarität wird damit mehr als
+nur Schlagwort.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc Immo (PO2021), PMG "Immobilienwirtschaft II für
+Studierende der Immobilienwirtschaft"
+7. Angebotsturnus des Moduls: im Turnus Sommersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 4. Fachsemester
+5910. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Std.)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Grundzüge des Bauingenieurwesens 2
+2 P Übung Grundzüge des Bauingenieurwesens 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Grundzüge des Klausur 90 Prüfungszeitraum: 75
+Bauingenieurwesens erste bis vierte
+Woche nach
+Vorlesungsende
+2 Grundzüge des Fallstudienarbeit 5 Während der 25
+Bauingenieurwesens Wochen Vorlesungszeit
+607. Wahlmodulgruppe für Studierende der Immobilienwirtschaft
+Qualifikationsziele der Modulgruppe:
+Die  Studierenden  haben  in  der  Wahlmodulgruppe  die  Möglichkeit,  beliebige  Module  aus  der  Fakultät
+Wirtschaftswissenschaften im Umfang von 18 ECTS sowie ein beliebiges Modul auch aus dem Lehrangebot
+anderer  Fakultäten  bzw.  zentraler  Einrichtungen  der  Universität  Regensburg  zu  wählen.  Ziel  ist  es,  den
+Studierenden  die  Möglichkeit  zu  geben,  ihre  Interessen  auch  außerhalb  des  wirtschaftlichen  Bereiches  zu
+verfolgen  und  überfachliche  Schlüsselqualifikationen  zu  erwerben.  Maximal  6  ECTS  dürfen  auch  durch  ein
+Betriebspraktikum  abgedeckt  werden.  Über  die  Anerkennung  von  außerhalb  der  Universität  Regensburg
+erbrachter Kurse entscheidet (auf Antrag) der Modulgruppenverantwortliche.
+ECTS: 24; Modulgruppenverantwortliche*r: Prof. Dr. Steffen Sebastian
+Modulkennung Modulname P/WP/W SWS G
+IMMO-BSc-WM01 Mind. 18 ECTS aus dem Studienangebot der Pflicht min. 18
+Fakultät Wirtschaftswissenschaften
+IMMO-BSc-WM02 Praktikum Wahl max. 6
+IMMO-BSc-WM03 - SFA-Sprachkurse Wahl max. 6
+- ZSK - Rhetorikkurse
+- Module der studienbegleitenden IT-Ausbildung
+- Kurse an anderen Fakultäten
+- Kurse von der Virtuellen Hochschule Bayern
+(VHB)
+- Kurse des Zentrums für Hochschul- und
+Wissenschaftsdidaktik (ZHW)
+IMMO-BSc-WM04 Aus einem Auslandsemester / Auslandjahr (auf Wahl max. 18
+Antrag)
+IMMO-BSc-WM05 Von anderen Hochschulen im Falle eines Wahl max. 18
+Studienortswechsels (auf Antrag)
+Module, die nur in der Wahlmodulgruppe belegt werden können:
+IMMO-BSc-WM01 Sustainability - Nachhaltiges Wirtschaften Wahl 4V 6
+61Modul IMMO-BSc-WM01
+1. Name des Moduls: Sustainability - Nachhaltiges Wirtschaften
+2. Fachgebiet / Verantwortlich: Prof. Dr. Sven Bienert, MRICS
+3. Inhalte des Moduls: Kurs umfasst folgende Themengebiete:
+-  Veränderte  Rahmenbedingungen:  Notwendigkeit
+nachhaltigen  Wirtschaftens,  Kritik  am  gegenwärtigen
+Wirtschaftssystem,  Entstehung  nachhaltigen  Denkens,
+Klimawandel als Haupttreiber nachhaltigen Wirtschaftens
+-  Konzepte  Nachhaltigen  Wirtschaftens:  Neoklassischer
+Zugang, Moderne Nachhaltigkeitskonzeptionen, Abgrenzung
+zur klassischen Sichtweise
+- Märkte im "nachhaltigen" Gleichgewicht: Input- Output
+Accounting,  Volkswirtschaftliches  Wachstum  und
+Nachhaltigkeit,  Wohlfahrtsmessung  jenseits  des  BIP,
+Externalitäten  und  Öffentliche  Güter,
+Gerechtigkeitskonzepte, Social Discounting
+-  Elemente  eines  nachhaltigen  Wirtschaftssystems:
+Nachhaltige  Unternehmensstrategie,  CSR,  Nachhaltigkeits-
+Reporting,  Social  Responsible  Investments,  Mikrokredite,
+Nachhaltige Beschaffung
+4. Qualifikationsziele des Moduls / zu Die Absolvierung des Moduls zielt ab auf die Vermittlung
+erwerbende Kompetenzen: eines breiten Wissens über Grundlagen, Anwendungen und
+Zusammenhänge nachhaltigen Wirtschaftens. Grundlegende
+Konzepte  der  Thematik  wie  beispielsweise  Externalitäten
+sollen vermittelt und ihre selbstständige Anwendung anhand
+von Übungen erlernt werden. Praxisbeispiele vertiefen das
+Verständnis  der  theoretischen  Inhalte  und  schulen  den
+kritischen  Blick  auf  das  eigene  und  das  wirtschaftliche
+Handeln Dritter.
+Ziel des interdisziplinären volks- und betriebswirtschaftlichen
+Moduls  ist  es  letztlich,  die  Studierenden  angesichts  des
+jungen  Wissenschaftsbereiches  in  die  Lage  zu  versetzen,
+kreative Problemlösungen auf betriebswirtschaftlicher Ebene
+zuentwickeln.  Dies  beinhaltet  die  Implementierung  von
+Nachhaltigkeit  auf  strategischer  Ebene  sowie  deren
+Umsetzung  im  operativen  Bereich,  begleitet  durch  ein
+entsprechendes CSR/ Nachhaltigkeits-Reporting.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc Immo (PO2021), WMG "Wahlmodulgruppe für
+Studierende der Immobilienwirtschaft"
+7. Angebotsturnus des Moduls: im Turnus Wintersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 5
+6210. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Std.)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Sustainability - Nachhaltiges 4
+Wirtschaften
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Sustainability - Nachhaltiges Klausur 90 Prüfungszeitraum: 100
+Wirtschaften Minuten erste bis vierte
+Woche nach
+Vorlesungsende
+14. Bemerkungen:
+Dieses Modul gilt sowohl als BWL- als auch als VWL-Modul.
+638. Forschungsmodulgruppe für Studierende der Immobilienwirtschaft
+Qualifikationsziele der Modulgruppe:
+Die Forschungsmodulgruppe bildet den Abschluss des Studiengangs. Hier stellen die Studierenden ihre Fähigkeit
+unter Beweis, ein selbst gewähltes (bzw. angebotenes) betriebswirtschaftliches Thema unter Zuhilfenahme des im
+vorangegangenen Bachelorstudium erworbenen Wissens und Methodenkenntnisse und unter Anleitung eines
+Betreuers  oder  einer  Betreuerin  kritisch  und  eigenständig  bearbeiten  zu  können.  Fähigkeiten  zur  kritischen
+Analyse sowie schriftlichen Exposition sind auch im Berufsleben wichtig und so trägt die Forschungsmodulgruppe
+nicht  nur  zur  Abrundung  der  Kompetenzen  der  Bachelorstudierenden,  sondern  auch  unmittelbar  zur
+Berufsqualifikation bei.
+ECTS: 18; Modulgruppenverantwortliche*r: Prof. Gabriel Lee, PhD
+Modulkennung Modulname P/WP/W SWS G
+IMMO-BSc-F01 Bachelorarbeit Pflicht 10
+IMMO-BSc-F03 Einführung in wissenschaftliches Arbeiten Pflicht 1V 2
+IMMO-BSc-F02 Seminar Pflicht 2V 6
+64Modul IMMO-BSc-F01
+1. Name des Moduls: Bachelorarbeit
+2. Fachgebiet / Verantwortlich: Alle Professor:innen der Immobilienwirtschaft
+3. Inhalte des Moduls: Mit  ihrer  Bachelor-Abschlussarbeit  dokumentieren  die
+Studierenden, ein (angebotenes oder auch selbstgewähltes)
+immobilienwirtschaftliches Thema mit Hilfe der Methoden
+des vorangegangenen Bachelorstudiums und unter Anleitung
+eines  Betreuers  oder  einer  Betreuerin  kritisch  und
+eigenständig diskutieren zu können.
+Fähigkeiten  zur  kritischen  Analyse  sowie  schriftlichen
+Exposition sind auch im Berufsleben wichtig, und so trägt die
+Bachelorarbeit nicht nur zur Abrundung der Kompetenzen
+der Bachelor-Studierenden, sondern auch unmittelbar zur
+Berufsqualifikation bei.
+4. Qualifikationsziele des Moduls / zu Nach Abschluss dieses Moduls sollen die Studierenden in der
+erwerbende Kompetenzen: Lage  sein,  ein  anspruchsvolles  Thema  der
+Immobilienwirtschaft  zu  analysieren  und  auch  schriftlich
+überzeugend  und  verständlich  für  Dritte  zu  fixieren.  Die
+beschriebene  selbständige  und  methodische  Bearbeitung
+eines  Themas  der  Immobilienwirtschaft  baut  auf  den
+Lernergebnissen des Bachelorstudiums auf.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc Immo (PO2021), FMG "Forschungsmodulgruppe für
+Studierende der Immobilienwirtschaft"
+7. Angebotsturnus des Moduls: jedes Semester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 6. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 300 (10 LP*30 Std.)
+Anzahl Leistungspunkte: davon:
+Selbststudium 300 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Bachelorarbeit Schriftliche 90 Tage 20 - 40 100
+Hausarbeit Seiten
+65Modul IMMO-BSc-F03
+1. Name des Moduls: Einführung in wissenschaftliches Arbeiten
+2. Fachgebiet / Verantwortlich: Alle Professor:innen der Immobilienwirtschaft
+3. Inhalte des Moduls: Die  Veranstaltung  präsentiert  und  übt  Strategien
+wissenschaftlichen Arbeitens. Am Anfang steht ein Überblick
+über  wichtige  Elemente  der  Logik,  etwa  die  zum
+Handwerkszeug zählende Argumentation über Implikation,
+Negation,  Kontrapositiv  oder  Widerspruch.  Anschließend
+folgt eine Einführung in Hypothesenbildung und -bewertung
+nach Karl Popper. Fallstudien zur Analyse kurzer Arbeitstexte
+(u.a. auch aus der immobilienwirtschaftlichen Fachliteratur)
+bieten die Chance, kritischen Textzugang einzuüben. Weitere
+Veranstaltungen widmen sich der Literaturrecherche über
+Datenbanken.  In  Datenbanken  findet  sich  sowohl
+begutachtete Literatur in wissenschaftlichen Zeitschriften als
+auch  graue  Literatur  -  eine  Bewertung  ihrer  jeweiligen
+Meriten (schneller Zugriff vs. durch Dritte belegte Qualität)
+tut  not.  Die  Veranstaltung  schließt  mit  Grundzügen  des
+wissenschaftlichen Schreibens - darunter die immer wichtiger
+werdende geeignete Präsentation statistisch-deskriptiver und
+ökonometrischer Resultate.
+4. Qualifikationsziele des Moduls / zu Nach Abschluss dieses Moduls haben die Studierenden die
+erwerbende Kompetenzen: Fähigkeit  erlangt,  sich  selbständig  den  Texten  anderer
+Autoren  kritisch  zuzuwenden  als  auch  eigene
+(immobilienwirtschaftlichen)  Analysen  in  eine  für  das
+(immobilienwirtschaftliche) Fachpublikum verständliche und
+vertraute Textform zu gießen.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc Immo (PO2021), FMG "Forschungsmodulgruppe für
+Studierende der Immobilienwirtschaft"
+7. Angebotsturnus des Moduls: jedes Semester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 6. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 60 (2 LP*30 Std.)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 15 Std. (1 SWS)
+2. Selbststudium (inkl. Prüfung): 45 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Einführung in wissenschaftliches 1
+Arbeiten
+6613. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Einführung in Mündliche 30 Vor Beginn der 100
+wissenschaftliches Arbeiten Prüfung Minuten Bearbeitungszeit der
+Bachelorarbeit
+67Modul IMMO-BSc-F02
+1. Name des Moduls: Seminar
+2. Fachgebiet / Verantwortlich: Alle Professor:innen der Immobilienwirtschaft
+3. Inhalte des Moduls: Das  Seminar  steht  für  einen  Schritt  in  Richtung
+wissenschaftlicher  Selbständigkeit.  Ein  von  dem  Betreuer
+oder der Betreuerin vorgegebenes immobilienwirtschaftliches
+Thema  ist  eigenständig  und  schriftlich  mit  Hilfe  der  im
+Studium  kennengelernten  Methoden  zu  bearbeiten.  Das
+Seminar  dient  insb.  auch  der  Vorbereitung  auf  die
+Bachelorarbeit.
+4. Qualifikationsziele des Moduls / zu Nach Abschluss dieses Moduls sollen die Studierenden in der
+erwerbende Kompetenzen: Lage  sein,  ein  anspruchsvolles  Thema  der
+Immobilienwirtschaft  zu  analysieren  und  auch  schriftlich
+überzeugend  und  verständlich  für  Dritte  zu  fixieren.  Die
+beschriebene  selbständige  und  methodische  Bearbeitung
+eines  Themas  der  Immobilienwirtschaft  baut  auf  den
+Lernergebnissen des Bachelorstudiums auf.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc Immo (PO2021), FMG "Forschungsmodulgruppe für
+Studierende der Immobilienwirtschaft"
+7. Angebotsturnus des Moduls: jedes Semester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 6. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Std.)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 30 Std. (2 SWS)
+2. Selbststudium (inkl. Prüfung): 150 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Seminar 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Seminar Seminararbeit 10 bis 15 Während der 75
+Seiten Vorlesungszeit
+Inhalt
+2 Seminar Präsentation 10 bis Während der 25
+45 Vorlesungszeit
+Minuten
+68
+Powered by TCPDF (www.tcpdf.org)

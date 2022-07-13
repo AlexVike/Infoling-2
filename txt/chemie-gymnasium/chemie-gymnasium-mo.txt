@@ -1,0 +1,547 @@
+input_dictionary =  
+ 
+ 
+Modulkatalog Fachwissenschaft 
+für Lehramt Chemie  
+- GYMNASIUM - 
+an der Universität Regensburg  
+Stand: 01. Februar 2017 
+ 
+ 
+Module für vertieftes Lehramt (Gymnasium): 
+CHE-LA-M13    Allgemeine Chemie 
+CHE-LA-M14    Anorganische Chemie  neu ab SS 17! 
+CHE-LA-M15    Organische Chemie 
+CHE-LA-M16    Chemie in Natur und Technik  
+CHE-LA-M17    Übungen im Vortragen mit Demonstrationen 
+CHE-LA-M18    Staatsexamensvorbereitung 
+CHE-LA-M18    Physik 
+CHE-LA-M20    Anorganische Chemie II  neu ab SS 17! 
+CHE-LA-M21    Organische Chemie II 
+CHE-LA-M22    Physikalische Chemie 
+CHE-LA-M23    Forschungsorientiertes Laborpraktikum 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+__________________________________________________________________________________________
+Modulkatalog für Lehramt Chemie - GYMNASIUM    Stand: 01.02.2017 
+Seite 1 von 15 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+CHE-LA–M 13 (Stand: Oktober 2010) 
+ 
+1. Name des Moduls:  Allgemeine Chemie
+2. Fachgebiet / Verantwortlich:  Allgemeine Chemie / Prof. Dr. M. Scheer 
+3. Inhalte / Lehrziele  Vermittlung grundlegender Konzepte der Chemie wie 
+Atom- und Molekülbau, Stöchiometrie, einfache Bindungs-
+theorie, Protolyse-, Redox- und Löslichkeitsgleichgewichte 
+sowie das Verständnis von Festkörperstrukturen. Einfüh-
+rung in die Wellennatur der Materie (Orbitale, Mehrelekt-
+ronensysteme), Grundbegriffe und Grundprinzipien der 
+Thermodynamik und Kinetik (Massenwirkungsgesetz). 
+Experimentalvorlesung: einfache Stoffchemie, beginnend 
+mit Wasserstoff, den Edelgasen, den Halogenen, den 
+Chalkogenen usw., begleitet von etwa zehn Demonstrati-
+onsversuchen pro Stunde. 
+4. Voraussetzungen: 
+a) allgemeiner Art 
+b) vorausgesetzte universitäre Veranstaltungen: keine
+5. Bedingungen: 
+- verwendbar in:  Vorbereitung für das Praktikum Anorganische 
+Chemie und den Vorlesungen AC Hauptgrup-
+penelementchemie und AC Übergangsmetall- 
+und Koordinationschemie (s. CHE-LA–M 14) 
+- nicht verwendbar in / nicht kombinierbar mit:
+6. Wie häufig wird das Modul angeboten jährlich
+7. In welcher Zeit kann das Modul absolviert werden? Innerhalb eines Semesters 
+ 
+8. Zusammensetzung: 
+Nr.  Veranstaltungen: A Pflichtbereich SWS  LP
+1  Vorlesung mit Übungen Allgemeine Chemie 7   8
+2  Experimentalvorlesung  1   1
+  Summe aus dem Pflichtbereich 8  9
+ 
+9. Wiederholbarkeit 
+Die Klausur kann zweimal wiederholt werden. Die erste Wiederholungsklausur findet in der Regel 
+zu Beginn der Vorlesungszeit des folgenden Semesters statt. Zweiter Wiederholungstermin ist der 
+nächste reguläre Klausurtermin der Lehrveranstaltung. 
+Das Bestehen der Klausur ist Voraussetzung für die Teilnahme am Anorganischen Praktikum im 
+Sommersemester (2. Semester). 
+ 
+10. Modulnote/Modulprüfung/Teilprüfungen 
+Die Modulnote ist die Note der Klausur. 
+__________________________________________________________________________________________
+Modulkatalog für Lehramt Chemie - GYMNASIUM    Stand: 01.02.2017 
+Seite 2 von 15 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+CHE-LA–M 14 (Stand: Oktober 2010, läuft aus!) 
+1. Name des Moduls:  Anorganische Chemie
+2. Fachgebiet / Verantwortlich:  Anorganische Chemie / Prof. Dr. M. Scheer 
+3. Inhalte / Lehrziele  Vermittlung von weiteren Grundlagen und praktischen 
+Kenntnissen der anorganischen Chemie: 
+Vorstellen und Erläutern zentraler Konzepte der Anorgani-
+schen Chemie anhand ausgewählter Stoffklassen an Mole-
+kül- und Koordinationsverbindungen. 
+Chemie der Hauptgruppenelemente bzw. der Übergangs-
+metalle und der Koordinationsverbindungen: Vorkommen 
+wichtiger Elemente und deren technische Darstellung, aus-
+gewählte Reaktionen, Verbindungsklassen in wichtigen 
+Oxidationsstufen, Anwendungen, usw. 
+Praktikum und Seminar: qualitative und quantitative Ana-
+lysen mit Vorversuchen 
+4. Voraussetzungen: 
+a) allgemeiner Art 
+b) vorausgesetzte universitäre Veranstaltungen: CHE-LA–M 13
+5. Bedingungen: 
+- verwendbar in:  CHE-LA–M 17
+- nicht verwendbar in / nicht kombinierbar mit:
+6. Wie häufig wird das Modul angeboten jährlich
+7. In welcher Zeit kann das Modul absolviert werden? Innerhalb von 2 Semestern  
+ 
+8. Zusammensetzung: 
+Nr.  Veranstaltungen: A Pflichtbereich  SWS  LP 
+1  Praktikum Anorganische Chemie  15  7 
+2  Anorganisches Seminar zum Praktikum  2  1 
+3  Vorlesung: AC Hauptgruppenchemie  3  3 
+4  Vorlesung: AC ÜM/Komplexe  3  4 
+  Summe aus dem Pflichtbereich  23  15 
+ 
+9. Wiederholbarkeit 
+Die Klausur zu den Vorlesungen „AC Hauptgruppenchemie“ und „Vorlesung: AC ÜM/Komplexe“ 
+kann zweimal wiederholt werden. Die erste Wiederholungsklausur findet jeweils in der Regel zu 
+Beginn der Vorlesungszeit des folgenden Semesters statt. Zweiter Wiederholungstermin ist der 
+nächste reguläre Klausurtermin der Lehrveranstaltungen. Ist die Prüfung zum „Anorganischen Se-
+minar zum Praktikum“ nach der zweiten Wiederholung nicht bestanden, so gilt das Praktikum als 
+nicht bestanden. Ein nicht erfolgreich abgelegtes Praktikum kann im folgenden Jahr zum regulären 
+Termin nachgeholt werden. 
+ 
+10. Modulnote/Modulprüfung/Teilprüfungen 
+Die Modulnote ergibt sich aus dem Durchschnitt der Noten der Klausur zu den Vorlesungen „AC 
+Hauptgruppen“ und „AC ÜM/Komplexe“ (Gewichtung 2/3) sowie dem „Anorganischen Seminar 
+zum Praktikum“ (Gewichtung 1/3). 
+__________________________________________________________________________________________
+Modulkatalog für Lehramt Chemie - GYMNASIUM    Stand: 01.02.2017 
+Seite 3 von 15 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+CHE-LA–M 14 (Stand: Januar 2017, neu ab SS 17) 
+1. Name des Moduls:  Anorganische Chemie
+2. Fachgebiet / Verantwortlich:  Anorganische Chemie / Prof. Dr. M. Scheer 
+3. Inhalte / Lehrziele  Vermittlung von weiteren Grundlagen und praktischen 
+Kenntnissen der anorganischen Chemie: 
+Vorstellen und Erläutern zentraler Konzepte der Anorgani-
+schen Chemie anhand ausgewählter Stoffklassen an Mole-
+kül- und Koordinationsverbindungen. 
+Chemie der Hauptgruppenelemente bzw. der Übergangs-
+metalle und der Koordinationsverbindungen: Vorkommen 
+wichtiger Elemente und deren technische Darstellung, aus-
+gewählte Reaktionen, Verbindungsklassen in wichtigen 
+Oxidationsstufen, Anwendungen, usw.  
+Praktikum und Seminar: qualitative und quantitative Ana-
+lysen mit Vorversuchen 
+4. Voraussetzungen: 
+a) allgemeiner Art 
+b) vorausgesetzte universitäre Veranstaltungen: CHE-LA–M 13
+5. Bedingungen: 
+- verwendbar in:  CHE-LA–M 17
+- nicht verwendbar in / nicht kombinierbar mit:
+6. Wie häufig wird das Modul angeboten jährlich
+7. In welcher Zeit kann das Modul absolviert werden? innerhalb von 2 Semestern  
+ 
+8. Zusammensetzung: 
+Nr.  Veranstaltungen: A Pflichtbereich  SWS  LP 
+1  Praktikum Anorganische Chemie  15  7 
+2  Anorganisches Seminar zum Praktikum  2  1 
+3  Vorlesung: AC Hauptgruppenchemie  3  3 
+4  Vorlesung: AC Komplexchemie  1  2 
+5  Vorlesung: AC Nebengruppen  2  2 
+  Summe aus dem Pflichtbereich  23  15 
+ 
+9. Wiederholbarkeit 
+Die Klausuren zu AC Hauptgruppenchemie/AC Komplexchemie und  AC Nebengruppen können 
+jeweils zweimal wiederholt werden. Die erste Wiederholungsklausur findet jeweils in der Regel zu 
+Beginn der Vorlesungszeit des folgenden Semesters statt. Zweiter Wiederholungstermin ist der 
+nächste reguläre Klausurtermin der Lehrveranstaltungen. Ist die Prüfung zum „Anorganischen Se-
+minar zum Praktikum“ nach der zweiten Wiederholung nicht bestanden, so gilt das Praktikum als 
+nicht bestanden. Ein nicht erfolgreich abgelegtes Praktikum kann im folgenden Jahr zum regulären 
+Termin nachgeholt werden. 
+__________________________________________________________________________________________
+Modulkatalog für Lehramt Chemie - GYMNASIUM    Stand: 01.02.2017 
+Seite 4 von 15 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+ 
+10. Modulnote/Modulprüfung/Teilprüfungen 
+Die Modulnote setzt sich wie folgt zusammen: 
+Zweistündige Klausur zum Anorganischen Seminar zum Praktikum: 30 % 
+Zweistündige Klausur zu AC Hauptgruppen und AC Komplexchemie: 50 % 
+Einstündige Klausur zu AC Nebengruppen: 20 % 
+__________________________________________________________________________________________
+Modulkatalog für Lehramt Chemie - GYMNASIUM    Stand: 01.02.2017 
+Seite 5 von 15 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+CHE-LA–M 15 (Stand: Oktober 2010) 
+ 
+1. Name des Moduls:  Organische Chemie
+2. Fachgebiet / Verantwortlich:  Organische Chemie / Prof. A. Jacobi von Wangelin
+3. Inhalte / Lehrziele  Grundlagen und praktische Kenntnisse der organischen 
+Chemie 
+4. Voraussetzungen: 
+a) allgemeiner Art 
+b) vorausgesetzte universitäre Veranstaltungen: keine
+5. Bedingungen: 
+- verwendbar in: 
+- nicht verwendbar in / nicht kombinierbar mit:
+6. Wie häufig wird das Modul angeboten jährlich
+7. In welcher Zeit kann das Modul absolviert werden? Innerhalb von zwei Semestern 
+ 
+8. Zusammensetzung: 
+Nr.  Veranstaltungen: A Pflichtbereich SWS  LP
+1  Organische Chemie I (Grundvorlesung) 4  5
+2  Vertiefungsseminar zur Vorlesung Organische Chemie I 1  1
+3  Organische Chemie II  3  4
+4  Vertiefungsseminar zur Vorlesung Organischen Chemie II 1  2
+5  Praktikum Organische Chemie 12  5
+  Summe aus dem Pflichtbereich 21  17
+ 
+9. Wiederholbarkeit 
+Jede Klausur kann zweimal wiederholt werden. Erste Wiederholungsklausur zu Beginn der Vorle-
+sungszeit des folgenden Semesters. Zweiter Wiederholungstermin ist der nächste reguläre Klau-
+surtermin der Lehrveranstaltung. 
+ 
+10. Modulnote/Modulprüfung/Teilprüfungen 
+Die Modulnote ergibt sich aus dem Querschnitt der Noten in den zwei Modulprüfungen Organi-
+sche Chemie I (Gewichtung 30 %) und Organische Chemie II (Gewichtung 70 %). 
+ 
+__________________________________________________________________________________________
+Modulkatalog für Lehramt Chemie - GYMNASIUM    Stand: 01.02.2017 
+Seite 6 von 15 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+CHE-LA–M 16 (Stand: Oktober 2010) 
+ 
+1. Name des Moduls:  Chemie in Natur und Technik
+2. Fachgebiet / Verantwortlich:  Physikalische Chemie und Organische Chemie / Prof. W. 
+Kunz und Prof. O. Reiser 
+3. Inhalte / Lehrziele  Vermittlung der Grundlagen der Thermodynamik, Elektro-
+chemie und Kolloidchemie mit praktischen Beispielen aus 
+Natur und Technik sowie Beispiele der allgemeinen und 
+organischen Chemie im täglichen Leben 
+4. Voraussetzungen: 
+a) allgemeiner Art 
+b) vorausgesetzte universitäre Veranstaltungen: Besuch der Veranstaltungen der Module 
+CHE-LA–M 13 und CHE-LA–M 15 wird empfoh-
+len 
+5. Bedingungen: 
+- verwendbar in: 
+- nicht verwendbar in / nicht kombinierbar mit:
+6. Wie häufig wird das Modul angeboten jährlich
+7. In welcher Zeit kann das Modul absolviert werden? Innerhalb von zwei Semestern 
+ 
+8. Zusammensetzung: 
+Nr.  Veranstaltungen: A Pflichtbereich SWS  LP
+1  Physikalische Chemie I (PC im Alltag) 2  2
+2  Praktikum Physikalische Chemie I 2  2
+3  Organische Chemie III (Chemie im Alltag) 2  3
+4  Seminar zur Vorlesung Chemie im Alltag 2  2
+  Summe aus dem Pflichtbereich 8  9
+ 
+9. Wiederholbarkeit 
+Jede Klausur kann zweimal wiederholt werden. Erste Wiederholungsklausur zu Beginn der Vorle-
+sungszeit des folgenden Semesters. Zweiter Wiederholungstermin ist der nächste reguläre Klausur-
+termin der Lehrveranstaltung. 
+ 
+10. Modulnote/Modulprüfung/Teilprüfungen 
+Die Modulnote ergibt sich aus dem Mittel der Noten aus den beiden Modulprüfungen (Vorlesung 
+Physikalische Chemie 50 % sowie Vorlesung und Seminar Organische Chemie 50%). 
+ 
+__________________________________________________________________________________________
+Modulkatalog für Lehramt Chemie - GYMNASIUM    Stand: 01.02.2017 
+Seite 7 von 15 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+CHE-LA–M 17 (Stand: Oktober 2010) 
+ 
+1. Name des Moduls:  Übungen im Vortragen mit Demonstrationen 
+2. Fachgebiet / Verantwortlich:  Anorganische Chemie / Prof. Dr. A. Pfitzner 
+Physikalische Chemie / Prof. Dr. O. Wolfbeis 
+Organische Chemie / Prof. Dr. B. König  
+3. Inhalte / Lehrziele  Vorbereitung und Durchführung von schulähnlichen Veran-
+staltungen mit Experimenten zu Themen der anorgani-
+schen, physikalischen und organischen Chemie  
+4. Voraussetzungen: 
+a) allgemeiner Art 
+b) vorausgesetzte universitäre Veranstaltungen: CHE-LA–M 13
+5. Bedingungen: 
+- verwendbar in:  CHE-LA–M 18
+- nicht verwendbar in / nicht kombinierbar mit:
+6. Wie häufig wird das Modul angeboten jährlich
+7. In welcher Zeit kann das Modul absolviert werden? Innerhalb von 4 Semestern  
+ 
+8. Zusammensetzung: 
+Nr.  Veranstaltungen: A Pflichtbereich SWS  LP
+1  Übungen im Vortragen mit Demonstrationen (AC) 2  2
+2  Übungen im Vortragen mit Demonstrationen (OC) 2  2
+3  Übungen im Vortragen mit Demonstrationen (PC) 2  2
+  Summe aus dem Pflichtbereich 6  6
+ 
+9. Wiederholbarkeit 
+Bei Nichtbestehen (s. 10.) ist eine Wiederholung der Veranstaltung im darauf folgenden Jahr 
+möglich. 
+ 
+10. Modulnote/Modulprüfung/Teilprüfungen 
+Bei jeder der drei Veranstaltungen erfolgt eine Benotung, die sich aus der Vorbereitung des jewei-
+ligen Vortrages und der Versuche, dem Vortrag selbst und dem zugehörigen Skript zusammen-
+setzt. Der Querschnitt der drei Noten ergibt die Modulnote. 
+ 
+__________________________________________________________________________________________
+Modulkatalog für Lehramt Chemie - GYMNASIUM    Stand: 01.02.2017 
+Seite 8 von 15 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+CHE-LA–M 18 (Stand: Oktober 2010) 
+ 
+1. Name des Moduls:  Staatsexamensvorbereitung
+2. Fachgebiet / Verantwortlich:  Anorganische Chemie / Prof. Dr. A. Pfitzner 
+Organische Chemie / Prof. Dr. O. Reiser 
+3. Inhalte / Lehrziele  Seminar in anorganischer und organischen Chemie zur 
+Vorbereitung auf das Staatsexamen 
+4. Voraussetzungen: 
+a) allgemeiner Art 
+b) vorausgesetzte universitäre Veranstaltungen: CHE-LA–M 13 - CHE-LA–M 17 
+CHE-LA–M 19 
+5. Bedingungen: 
+- verwendbar in: 
+- nicht verwendbar in / nicht kombinierbar mit:
+6. Wie häufig wird das Modul angeboten jährlich
+7. In welcher Zeit kann das Modul absolviert werden? innerhalb von 2 Semestern  
+ 
+8. Zusammensetzung: 
+Nr.  Veranstaltungen: A Pflichtbereich SWS  LP
+1  Seminar Staatsexamensaufgaben (OC)  2   3
+2  Seminar Staatsexamensaufgaben (AC) 2   3
+  Summe aus dem Pflichtbereich 4  6
+ 
+10. Modulnote/Modulprüfung/Teilprüfungen 
+Das Modul wird nicht bewertet. 
+__________________________________________________________________________________________
+Modulkatalog für Lehramt Chemie - GYMNASIUM    Stand: 01.02.2017 
+Seite 9 von 15 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+CHE-LA–M 19 (Stand: Oktober 2010) 
+ 
+1. Name des Moduls:  Physik
+2. Fachgebiet / Verantwortlich:  Physik / Prof. W. Kunz
+3. Inhalte / Lehrziele  Vermittlung der Grundlagen der allgemeinen Physik, so-
+weit sie zum Verständnis der Chemie notwendig sind. 
+4. Voraussetzungen: 
+a) allgemeiner Art 
+b) vorausgesetzte universitäre Veranstaltungen: keine
+5. Bedingungen: 
+- verwendbar in: 
+- nicht verwendbar in / nicht kombinierbar mit:
+6. Wie häufig wird das Modul angeboten jährlich
+7. In welcher Zeit kann das Modul absolviert werden? innerhalb von einem Semester 
+ 
+8. Zusammensetzung: 
+Nr.  Veranstaltungen: A Pflichtbereich SWS  LP
+1  Physikalischer Kurs  3  3
+  Summe aus dem Pflichtbereich 3  3
+ 
+9. Wiederholbarkeit 
+Die zugehörige Klausur kann zweimal wiederholt werden. Erste Wiederholungsklausur zu Beginn 
+der Vorlesungszeit des folgenden Semesters. Zweiter Wiederholungstermin ist der nächste regulä-
+re Klausurtermin der Lehrveranstaltung. 
+ 
+10. Modulnote/Modulprüfung/Teilprüfungen 
+Wird jeweils vom zuständigen Dozenten vor Beginn der Veranstaltung bekannt gegeben. 
+ 
+__________________________________________________________________________________________
+Modulkatalog für Lehramt Chemie - GYMNASIUM    Stand: 01.02.2017 
+Seite 10 von 15 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+CHE-LA–M 20 (Stand: Oktober 2010, läuft aus!) 
+ 
+1. Name des Moduls:  Anorganische Chemie II
+2. Fachgebiet / Verantwortlich:  Anorganische Chemie / Prof. Dr. M. Scheer  
+3. Inhalte / Lehrziele  Vermittlung von weiteren Grundlagen und Kenntnissen der 
+anorganischen Chemie: Metallorganischen Chemie, Fest-
+körperchemie und anorganischen Molekülchemie  
+4. Voraussetzungen: 
+a) allgemeiner Art 
+b) vorausgesetzte universitäre Veranstaltungen: CHE-LA-M 13 - CHE-LA-M 14 
+5. Bedingungen: 
+- verwendbar in:  CHE-LA-M 23
+- nicht verwendbar in / nicht kombinierbar mit:
+6. Wie häufig wird das Modul angeboten jährlich
+7. In welcher Zeit kann das Modul absolviert werden? innerhalb von 3 Semestern  
+ 
+8. Zusammensetzung: 
+Nr.  Veranstaltungen: A Pflichtbereich SWS  LP
+1  Vorlesung: AC Festkörperchemie 2  3
+2  Vorlesung: AC Metallorganik 2  3
+3  Vorlesung: Anorganische Molekülchemie  2  3
+  Summe aus dem Pflichtbereich 6  9
+ 
+9. Wiederholbarkeit 
+Die Klausuren zu den Vorlesungen „AC Festkörperchemie“ und „AC Metallorganik“ und zur Vorle-
+sung „Anorganische Molekülchemie“ können jeweils zweimal wiederholt werden. Die erste Wie-
+derholungsklausur findet jeweils in der Regel zu Beginn der Vorlesungszeit des folgenden Semes-
+ters statt. Zweiter Wiederholungstermin ist der nächste reguläre Klausurtermin der Lehrveranstal-
+tungen. 
+ 
+10. Modulnote/Modulprüfung/Teilprüfungen 
+Die Modulnote ergibt sich aus dem Durchschnitt der Noten der Klausur zu den Vorlesungen „AC 
+Festkörperchemie“ und „AC Metallorganik“ (Gewichtung 2/3) sowie der Klausur zur Vorlesung 
+„Anorganische Molekülchemie“ (Gewichtung 1/3). 
+__________________________________________________________________________________________
+Modulkatalog für Lehramt Chemie - GYMNASIUM    Stand: 01.02.2017 
+Seite 11 von 15 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+CHE-LA–M 20 (Stand: Januar 2017, neu ab SS 17) 
+ 
+1. Name des Moduls:  Anorganische Chemie II
+2. Fachgebiet / Verantwortlich:  Anorganische Chemie / Prof. Dr. M. Scheer  
+3. Inhalte / Lehrziele  Vermittlung von weiteren Grundlagen und Kenntnissen der 
+anorganischen Chemie: Metallorganischen Chemie, Fest-
+körperchemie und anorganischen Molekülchemie  
+4. Voraussetzungen: 
+a) allgemeiner Art 
+b) vorausgesetzte universitäre Veranstaltungen: CHE-LA-M 13 - CHE-LA-M 14 
+5. Bedingungen: 
+- verwendbar in:  CHE-LA-M 23
+- nicht verwendbar in / nicht kombinierbar mit:
+6. Wie häufig wird das Modul angeboten jährlich
+7. In welcher Zeit kann das Modul absolviert werden? innerhalb von 3 Semestern  
+ 
+8. Zusammensetzung: 
+Nr.  Veranstaltungen: A Pflichtbereich SWS  LP
+1  Vorlesung: AC Festkörperchemie 2  3
+2  Vorlesung: AC Metallorganik 2  3
+3  Vorlesung: Anorganische Molekülchemie  2  3
+  Summe aus dem Pflichtbereich 6  9
+ 
+9. Wiederholbarkeit 
+Die Klausuren zu den Vorlesungen „AC Festkörperchemie“,„AC Metallorganik“ und „Anorganische 
+Molekülchemie“ können jeweils zweimal wiederholt werden. Die erste Wiederholungsklausur fin-
+det jeweils in der Regel zu Beginn der Vorlesungszeit des folgenden Semesters statt. Zweiter Wie-
+derholungstermin ist der nächste reguläre Klausurtermin der Lehrveranstaltungen. 
+ 
+10. Modulnote/Modulprüfung/Teilprüfungen 
+Die Modulnote setzt sich wie folgt zusammen: 
+Zweistündige Klausur AC Festkörper: 40 % 
+Einstündige Klausur AC Metallorganik: 20 % 
+Zweistündige Klausur Anorganische Molekülchemie: 40 % 
+ 
+__________________________________________________________________________________________
+Modulkatalog für Lehramt Chemie - GYMNASIUM    Stand: 01.02.2017 
+Seite 12 von 15 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+CHE-LA–M 21 (Stand: Oktober 2010) 
+ 
+1. Name des Moduls:  Organische Chemie II
+2. Fachgebiet / Verantwortlich:  Organische Chemie / Prof. H.-A. Wagenknecht 
+3. Inhalte / Lehrziele  Weiterführende Kenntnisse der organischen und bioorga-
+nischen Chemie 
+4. Voraussetzungen: 
+a) allgemeiner Art 
+b) vorausgesetzte universitäre Veranstaltungen: CHE-LA-M15
+5. Bedingungen: 
+- verwendbar in: 
+- nicht verwendbar in / nicht kombinierbar mit:
+6. Wie häufig wird das Modul angeboten jährlich
+7. In welcher Zeit kann das Modul absolviert werden? innerhalb von drei Semestern 
+ 
+8. Zusammensetzung: 
+Nr.  Veranstaltungen: A Pflichtbereich SWS  LP
+1  Organische Chemie IV (Spektroskopische Analytik) 2  3
+2  Organische Chemie V (Bioorganische Chemie) 2  3
+  Summe aus dem Pflichtbereich 4  6
+ 
+9. Wiederholbarkeit 
+Jede Klausur kann zweimal wiederholt werden. Erste Wiederholungsklausur zu Beginn der Vorle-
+sungszeit des folgenden Semesters. Zweiter Wiederholungstermin ist der nächste  reguläre Klau-
+surtermin der Lehrveranstaltung. 
+ 
+10. Modulnote/Modulprüfung/Teilprüfungen 
+Die Modulnote ergibt sich aus dem Querschnitt der Noten in den zwei Modulprüfungen (Organi-
+sche Chemie IV, Organische Chemie V). 
+ 
+__________________________________________________________________________________________
+Modulkatalog für Lehramt Chemie - GYMNASIUM    Stand: 01.02.2017 
+Seite 13 von 15 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+CHE-LA–M 22 (Stand: Oktober 2010) 
+ 
+1. Name des Moduls:  Physikalische Chemie
+2. Fachgebiet / Verantwortlich:  Physikalische Chemie / Prof. B. Dick 
+3. Inhalte / Lehrziele  Vermittlung der Grundlagen der theoretischen Chemie 
+(Quantenmechanik) und die darauf beruhende Beschrei-
+bung von spektroskopischen Verfahren sowie von chemi-
+schen Reaktionen 
+4. Voraussetzungen: 
+a) allgemeiner Art 
+b) vorausgesetzte universitäre Veranstaltungen: Bestehen des Moduls CHE-LA–M 19 
+5. Bedingungen: 
+- verwendbar in: 
+- nicht verwendbar in / nicht kombinierbar mit:
+6. Wie häufig wird das Modul angeboten jährlich
+7. In welcher Zeit kann das Modul absolviert werden? innerhalb von einem Semester 
+ 
+8. Zusammensetzung: 
+Nr.  Veranstaltungen: A Pflichtbereich SWS  LP
+1  Physikalische Chemie II  3  4
+  Summe aus dem Pflichtbereich 3  4
+ 
+9. Wiederholbarkeit 
+Die zugehörige Klausur kann zweimal wiederholt werden. Erste Wiederholungsklausur zu Beginn 
+der Vorlesungszeit des folgenden Semesters. Zweiter Wiederholungstermin ist der nächste regulä-
+re Klausurtermin der Lehrveranstaltung. 
+ 
+10. Modulnote/Modulprüfung/Teilprüfungen 
+Abschlussklausur. 
+ 
+__________________________________________________________________________________________
+Modulkatalog für Lehramt Chemie - GYMNASIUM    Stand: 01.02.2017 
+Seite 14 von 15 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+CHE-LA–M 23 (Stand: Oktober 2010) 
+ 
+1. Name des Moduls:  Forschungsorientiertes Laborpraktikum 
+2. Fachgebiet / Verantwortlich:  Anorganische Chemie / Prof. Dr. A. Pfitzner 
+Organische Chemie / Prof. Dr. O. Reiser 
+3. Inhalte / Lehrziele  Kennenlernen des wissenschaftlichen Arbeitens in der 
+Chemie durch 
+- Herstellen von bekannten anorganischen und organi-
+schen Verbindungen 
+- röntgenographische Charakterisierung der Verbindungen 
+unter Einbeziehung von Vergleichsdaten aus Datenbanken
+- weitere Anwendung von spektroskopischen Meßmetho-
+den zur Probenbeschreibung 
+- vergleichende Laborversuche zum Test der Eigenschaften, 
+Reaktionsmöglichkeiten der Verbindungen und dgl.  
+4. Voraussetzungen: 
+a) allgemeiner Art 
+b) vorausgesetzte universitäre Veranstaltungen: CHE-LA–M 13 - CHE-LA–M 15 
+CHE-LA–M 21 
+5. Bedingungen: 
+- verwendbar in: 
+- nicht verwendbar in / nicht kombinierbar mit:
+6. Wie häufig wird das Modul angeboten jährlich
+7. In welcher Zeit kann das Modul absolviert werden? innerhalb eines Semesters 
+ 
+8. Zusammensetzung: 
+Nr.  Veranstaltungen: A Pflichtbereich SWS  LP
+1  Forschungsorientiertes Laborpraktikum mit Seminar 8  8
+  Summe aus dem Pflichtbereich 8  8
+ 
+9. Wiederholbarkeit 
+Bei Nichterfüllung der Anforderungen (s. 10.) kann das Modul (auch anteilig) einmal wiederholt 
+bzw. abgeschlossen werden. 
+ 
+10. Modulnote/Modulprüfung/Teilprüfungen 
+Die qualitative und quantitative Erfüllung aller Praktikumsaufgaben einschließlich der benoteten  
+Testate sowie die Protokoll-Bewertung gehen in die Modulnote ein. 
+ 
+__________________________________________________________________________________________
+Modulkatalog für Lehramt Chemie - GYMNASIUM    Stand: 01.02.2017 
+Seite 15 von 15 

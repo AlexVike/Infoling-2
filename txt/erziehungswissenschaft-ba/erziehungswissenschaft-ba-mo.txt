@@ -1,0 +1,683 @@
+input_dictionary = Modulbeschreibungen 
+ 
+Bachelorstudiengang Erziehungswissenschaft (Educational Science, 
+Bachelor of Arts) an der Universität Regensburg 
+ 
+ 
+gültig ab Wintersemester 2016/2017 
+ 
+Inhalt 
+EDU-BA-M 01 Individuelle Voraussetzungen von Erziehung und Bildung ................ 2 
+EDU-BA-M 02 Analyse und Entwicklung von Lernumgebungen ............................... 3 
+EDU-BA-M 03 Konzeption und Durchführung von Beratung ................................... 4 
+EDU-BA-M 04 Evaluation von Bildungsprozessen .................................................... 5 
+EDU-BA-M 05 Vertiefung erziehungswissenschaftlicher Themen ............................. 6 
+EDU-BA-M 06 Planung und Durchführung von Forschungsarbeiten ........................ 7 
+EDU-BA-M 07 Praktikum ......................................................................................... 8 
+EDU-BA-M 08 Einführung in die Erziehungswissenschaft ........................................ 9 
+EDU-BA-M 09 Historische und politische Rahmenbedingungen ............................. 10 
+EDU-BA-M 10 Statistik ......................................................................................... 121 
+EDU-BA-M 11 Empirische Bildungsforschung ...................................................... 132 
+EDU-BA-M 12 Berufsfeldorientierte Kompetenzen (BOK) ..................................... 133 
+ 
+ 
+1 
+ EDU-BA-M 01 
+1. Name des Moduls:  Individuelle Voraussetzungen von Erziehung und 
+Bildung 
+2. Fachgebiet / Verantwortlich:  Erziehungswissenschaft / Prof. Dr. Klaus-Peter Wild 
+3. Inhalte des Moduls:  Theorien und empirische Befunde zur Beschreibung und 
+Erklärung der menschlichen Entwicklung und Sozialisation. 
+Auf der Basis der Kenntnis empirischer 
+Forschungsmethoden werden praxisnahe Verfahren der 
+pädagogischen Diagnostik und individuellen 
+Bildungsberatung erarbeitet. Die Studierenden verfügen 
+zudem über Kenntnisse deskriptiver Forschungsmethoden 
+und können diese anwenden. Die im Modul aufgeführten 
+Veranstaltungen werden inhaltlich miteinander verbunden.  
+4. Qualifikationsziele des Moduls / zu  Studierende sind in der Lage, Fachliteratur auf Basis 
+erwerbende Kompetenzen:  empirischen Grundlagenwissens nach Abschluss des 
+Moduls kritisch zu beurteilen. Sie verfügen über Kenntnisse 
+der menschliche Entwicklung und Sozialisation sowie 
+Verfahren pädagogischer Diagnostik und individueller 
+Bildungsberatung. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  keine 
+b) verpflichtende Nachweise:  keine 
+6. Verwendbarkeit des Moduls:  Erziehungswissenschaft im Bachelorstudiengang 
+7. Angebotsturnus des Moduls:  WS, jährlich 
+8. Das Modul kann absolviert werden in:  1 Semester 
+9. Empfohlenes Fachsemester:  1. Fachsemester 
+10. Gesamtaufwand des Moduls  Arbeitsaufwand: 
+(Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: 450 
+davon: 
+1. Präsenzzeit: 90 Std. (6 SWS) 
+2. Selbststudium (inkl. Prüfung): 360 Std. 
+Leistungspunkte: 15 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren 
+aller in den Nrn. 11 und 12 aufgeführten Leistungen. 
+11. Modulbestandteile: 
+Nr  P /  Lehr- Themenbereich/Thema  SWS /  LP  Studienleistungen 
+WP  form  Std. 
+EDU- Pflic Seminar  Theorien: Entwicklung und  2  5  Aktive Mitarbeit und Teilnahme, 
+BA- ht  Sozialisation  Referat 
+M01.1 
+EDU- Pflic Seminar  Methoden: Einführung in  2  5  Aktive Mitarbeit und Teilnahme, 
+BA- ht  empirische  Übungsaufgaben 
+M01.2  Forschungsmethoden 1: 
+deskriptive Analysen 
+EDU- Pflic Seminar  Anwendungsfelder:  2  5  Aktive Mitarbeit und Teilnahme, 
+BA- ht  Pädagogische  Referat 
+M01.3  Diagnostik und 
+Bildungsberatung 
+12. Modulprüfung:  
+Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr  Kompetenz / Thema 
+Prüfung  Bemerkungen  Modulnote 
+EDU- Modulprüfung zu EDU-BA-M01.1,  Klausur  90  Am Ende der  1 
+BA-MP  EDU-BA-M01.2 und EDU-BA-M01.3  Minuten  Vorlesungszeit  
+13. Bemerkungen:. 
+2 
+ EDU-BA-M 02 
+1. Name des Moduls:  Analyse und Entwicklung von Lernumgebungen 
+2. Fachgebiet / Verantwortlich:  Erziehungswissenschaft / Prof. Dr. Regina Mulder 
+3. Inhalte des Moduls:  Theorien des Lehrens und Lernens und von 
+Instruktionsmodellen, Theorien über Entwicklungs- und 
+Implementationsstrategien, Modelle zur Entwicklung und 
+Implementierung von Lehr-Lernarrangements in der 
+beruflichen Aus- und Weiterbildung und/oder Hochschule, 
+Analyse von Lernumgebungen, Kenntnisse 
+inferenzstatistischer Forschungsmethoden und deren 
+Anwendung. Es gibt eine inhaltliche Verbindung der im 
+Modul aufgeführten Veranstaltungen. 
+4. Qualifikationsziele des Moduls / zu  Nach Abschluss des Moduls verfügen die Studierenden über 
+erwerbende Kompetenzen:  Kenntnisse von Lehr-Lern-Theorien, Theorien über 
+Entwicklungs- und Implementationsstrategien sowie deren 
+Anwendung bei der Analyse und Entwicklung von 
+Lernumgebungen im Bereich der beruflichen Aus- und 
+Weiterbildung und/oder der Hochschule. Die Studierenden 
+verfügen zudem über Kenntnisse inferenzstatistischer 
+Methoden und können diese anwenden. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  Keine 
+b) verpflichtende Nachweise:  Keine 
+6. Verwendbarkeit des Moduls:  Erziehungswissenschaft im Bachelorstudiengang 
+7. Angebotsturnus des Moduls:  SS, jährlich 
+8. Das Modul kann absolviert werden in:  1 Semester 
+9. Empfohlenes Fachsemester:  2. Fachsemester 
+10. Gesamtaufwand des Moduls  Arbeitsaufwand: 
+(Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: 450 
+davon: 
+1. Präsenzzeit: 90 Std. (6 SWS) 
+2. Selbststudium (inkl. Prüfung): 360 Std. 
+Leistungspunkte: 15 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren 
+aller in den Nrn. 11 und 12 aufgeführten Leistungen. 
+11. Modulbestandteile: 
+Nr  P /  Lehr- Themenbereich/Thema  SWS /  LP  Studienleistungen 
+WP  form  Std. 
+EDU- Pflic Seminar  Theorien: Theorien des Lehrens  2  5  Aktive Mitarbeit und Teilnahme, 
+BA- ht  und Lernens  Referat 
+M02.1 
+EDU- Pflic Seminar  Methoden: Einführung in  2  5  Aktive Mitarbeit und Teilnahme, 
+BA- ht  Empirische  Übungsaufgaben 
+M02.2  Forschungsmethoden 2: 
+inferenzstatistische Analysen  
+EDU- Pflic Seminar  Anwendungsfelder: Gestaltung  2  5  Aktive Mitarbeit und Teilnahme, 
+BA- ht  von Lernumgebungen  Übungsaufgaben, Referat 
+M02.3 
+12. Modulprüfung:  
+Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr  Kompetenz / Thema 
+Prüfung  Bemerkungen  Modulnote 
+EDU- Modulprüfung zu EDU-BA-M02.1,  Klausur  90 Minuten  Am Ende der  1 
+BA-MP  EDU-BA-M02.2 und EDU-BA-M02.3  Vorlesungszeit  
+13. Bemerkungen:. 
+3 
+ EDU-BA-M 03 
+1. Name des Moduls:  Konzeption und Durchführung von Beratung 
+2. Fachgebiet / Verantwortlich:  Erziehungswissenschaft / Prof. Dr. Hans Gruber 
+3. Inhalte des Moduls:  Theorien der Bildungs-, Erziehungs- und Organisationsberatung, 
+unterschiedliche Formen und Kontexte von Beratung wie z.B. 
+Organisationen, in der Arbeit oder Laufbahnberatung. 
+Empirische Forschungsergebnisse zu Effekten von 
+Beratungsansätzen, Anwendung von Theorien und Modellen zur 
+Gestaltung von Beratungsprozessen. Qualitative 
+Forschungsmethoden (Interviews und Beobachtungen) zur 
+Evaluation und Verbesserung von Beratungsprozessen. Es gibt 
+eine inhaltliche Verbindung zwischen den im Modul genannten 
+Veranstaltungen. 
+4. Qualifikationsziele des Moduls / zu  Nach Abschluss des Moduls verfügen die Studierenden über 
+erwerbende Kompetenzen:  Kenntnisse zu allgemeinen Strukturmerkmalen von Beratung, zu 
+übergreifenden Beratungsansätzen und zu spezifischen Theorien, 
+welche sich auf Prozess und Inhalt der Erziehungs-, Bildungs- 
+und Organisationsberatung beziehen. Grundlegende Fertigkeiten 
+der Gestaltung von Beratungsprozessen. Kenntnisse in 
+qualitativen Forschungsmethoden und deren Anwendung. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  Keine 
+b) verpflichtende Nachweise:  EDU-BA-M01 oder EDU-BA-M02 
+6. Verwendbarkeit des Moduls:  Erziehungswissenschaft im Bachelorstudiengang 
+7. Angebotsturnus des Moduls:  WS, jährlich 
+8. Das Modul kann absolviert werden  1 Semester 
+in: 
+9. Empfohlenes Fachsemester:  3. Fachsemester 
+10. Gesamtaufwand des Moduls  Arbeitsaufwand: 
+(Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: 450 
+davon: 
+1. Präsenzzeit: 90 Std. (6 SWS) 
+2. Selbststudium (inkl. Prüfung): 360 Std. 
+Leistungspunkte: 15 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren 
+aller in den Nrn. 11 und 12 aufgeführten Leistungen. 
+11. Modulbestandteile: 
+Nr  P /  Lehr- Themenbereich/Thema  SWS /  LP  Studienleistungen 
+WP  form  Std. 
+EDU- Pflic Semin Theorien: Theorien zu Prozess und  2  5  Aktive Mitarbeit und Teilnahme, 
+BA- ht  ar  Inhalt von Erziehungs-, Bildungs-  Referat 
+M03.1  und Organisationsberatung 
+EDU- Pflic Semin Methoden: Qualitative Methoden  2  5  Aktive Mitarbeit und Teilnahme, 
+BA- ht  ar  der empirischen  Bericht 
+M03.2  Bildungsforschung 
+EDU- Pflic Semin Anwendungsfelder: Beratung von  2  5  Aktive Mitarbeit und Teilnahme, 
+BA- ht  ar  Personen und Organisationen  Übungsaufgaben 
+M03.3 
+12. Modulprüfung: 
+Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr  Kompetenz / Thema 
+Prüfung  Bemerkungen  Modulnote 
+EDU- Modulprüfung zu EDU-BA-M03.1,  Klausur  90 Minuten  Am Ende der  1 
+BA-MP  EDU-BA-M03.2 und M03.3  Vorlesungszeit  
+13. Bemerkungen:  
+4 
+ EDU-BA-M 04 
+1. Name des Moduls:  Evaluation von Bildungsprozessen 
+2. Fachgebiet / Verantwortlich:  Erziehungswissenschaft / Prof. Dr. Klaus-Peter Wild 
+3. Inhalte des Moduls:  Theorien und empirische Befunde der 
+Evaluationsforschung in Bildungseinrichtungen. Die 
+Studierenden erwerben Wissen über 
+Längsschnittstudien und multivariate Verfahren und 
+setzen diese in Evaluationsprojekten um. Sie erwerben 
+Kenntnisse zur Evaluation von Bildungsprozessen auf 
+individueller und organisationaler Ebene. Es gibt eine 
+inhaltliche Verbindung zwischen den drei 
+Veranstaltungen. 
+4. Qualifikationsziele des Moduls / zu  Die Studierenden sind nach Abschluss des Moduls in der 
+erwerbende Kompetenzen:  Lage, Evaluationen von Bildungsprozessen auf 
+individueller und kollektiver Ebene zu konzipieren, 
+durchzuführen und auszuwerten sowie Befunde der 
+Evaluationsforschung kritisch zu beleuchten. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  Keine 
+b) verpflichtende Nachweise:  EDU-BA-M01 oder EDU-BA-M02 
+6. Verwendbarkeit des Moduls:  Erziehungswissenschaft im Bachelorstudiengang 
+7. Angebotsturnus des Moduls:  SS, jährlich 
+8. Das Modul kann absolviert werden in:  1 Semester 
+9. Empfohlenes Fachsemester:  4. Fachsemester 
+10. Gesamtaufwand des Moduls  Arbeitsaufwand: 
+(Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: 450 
+davon: 
+1. Präsenzzeit: 90 Std. (6 SWS) 
+2. Selbststudium (inkl. Prüfung): 360 Std. 
+Leistungspunkte: 15 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren 
+aller in den Nrn. 11 und 12 aufgeführten Leistungen. 
+11. Modulbestandteile: 
+Nr  P /  Lehr- Themenbereich/Thema  SWS  LP  Studienleistungen 
+WP  form  / 
+Std. 
+EDU- Pflic Seminar  Theorien: Theoretische Ansätze  2  5  Aktive Mitarbeit und Teilnahme, 
+BA- ht  zur Evaluation  Referat 
+M04.1 
+EDU- Pflic Seminar  Methoden:  2  5  Aktive Mitarbeit und Teilnahme, 
+BA- ht  Forschungsmethoden  Übungsaufgaben 
+M04.2  der Bildungsevaluation 
+EDU- Pflic Seminar  Anwendungsfelder: Evaluation  2  5  Aktive  Mitarbeit  und  Teilnahme, 
+BA- ht  von Bildungs- und  Bericht 
+M04.3  Erziehungssystemen 
+12. Modulprüfung: 
+Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr  Kompetenz / Thema 
+Prüfung  Bemerkungen  Modulnote 
+EDU- Modulprüfung zu EDU-BA-M04.1,  Klausur  90  Am Ende der  1 
+BA-MP  EDU-BA-M04.2 und M04.3  Minuten  Vorlesungszeit  
+13. Bemerkungen:  
+5 
+ EDU-BA-M 05 
+1. Name des Moduls:  Vertiefung erziehungswissenschaftlicher Themen  
+2. Fachgebiet / Verantwortlich:  Erziehungswissenschaft / Prof. Dr. Regina Mulder 
+3. Inhalte des Moduls:  Vertiefung von im bisherigen Studium erworbenen 
+theoretischen Kenntnissen unter Bezugnahme 
+auf aktuelle Themen und Fragestellungen 
+erziehungswissenschaftlicher Forschung. Absolviert werden 
+zwei Veranstaltungen aus den Themenbereichen der Betriebs-, 
+Berufs-, Medien-, und/oder Hochschulpädagogik, und/oder 
+empirische Forschungsmethoden.  
+Aktuelle Forschungsbefunde werden im Hinblick auf das 
+Vorgehen bei der Datenerhebung und unter Berücksichtigung 
+angewandter Forschungsmethoden analysiert. 
+4. Qualifikationsziele des Moduls / zu  Durch dieses Modul erlangen die Studierenden 
+erwerbende Kompetenzen:  vertiefte Kenntnisse zu den Themengebieten Hochschuldidaktik, 
+Betriebspädagogik, Medienpädagogik und/oder 
+Forschungsmethoden. Sie sind nach Abschluss des Moduls in 
+der Lage, den aktuellen Stand betriebspädagogischer, 
+berufspädagogischer, medienpädagogischer und 
+hochschuldidaktischer Forschung zu verstehen und das Wissen 
+auf eigene empirische Forschungsdesiderate zu übertragen. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  EDU-BA-M03 und EDU-BA-M04 
+b) verpflichtende Nachweise:  EDU-BA-M01 und EDU-BA-M02 
+6. Verwendbarkeit des Moduls:  Erziehungswissenschaft im Bachelorstudiengang 
+7. Angebotsturnus des Moduls:  WS, SS 
+8. Das Modul kann absolviert werden  1 Semester 
+in: 
+9. Empfohlenes Fachsemester:  5. bis 6. Fachsemester 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+     (Workload) / Anzahl  Gesamt in Stunden: 300 davon: 
+Leistungspunkte:  1. Präsenzzeit: 60 Std. 
+2. Selbststudium (inkl. Prüfung): Std. 240 
+Leistungspunkte: 10 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren 
+aller in den Nrn. 11 und 12 aufgeführten Leistungen. 
+11. Modulbestandteile: 
+Nr  P / WP  Lehr- Themenbereich/Thema  SWS /  LP  Studienleistungen 
+form  Std. 
+EDU- Pflicht  Seminar  Seminar: Thematische  2  5  Aktive Mitarbeit, Referat 
+BA- Vertiefung A 
+M05.1 
+EDU- Pflicht  Seminar  Seminar: Thematische  2  5  Aktive Mitarbeit, Referat 
+BA- Vertiefung B 
+M05.2 
+12. Modulprüfung 
+Art der  Bearbeit Zeitpunkt /  Anteil an 
+Nr  Kompetenz / Thema 
+Prüfung  ungszeit  Bemerkungen  Modulnote 
+EDU- Seminar: Thematische Vertiefung A  Hausarbeit,  6  Am Ende der  1/2 
+BA- 15-20 Seiten  Wochen  Vorlesungszeit 
+M05.1 
+EDU- Seminar: Thematische Vertiefung B  Hausarbeit,  6  Am Ende der  1/2 
+BA- 15-20 Seiten  Wochen  Vorlesungszeit 
+M05.2 
+13. Bemerkungen:  
+6 
+ EDU-BA-M 06 
+1. Name des Moduls:  Planung und Durchführung von Forschungsarbeiten 
+2. Fachgebiet / Verantwortlich:  Erziehungswissenschaft / Prof. Dr. Klaus-Peter Wild 
+3. Inhalte des Moduls:  Einführung in die eigenständige Durchführung von 
+Forschungsarbeiten. Klärung formaler Anforderungen 
+an Abschlussarbeiten sowie insbesondere Vorbereitung 
+auf verschiedene Stadien des Forschungsprozesses von 
+der Literaturrecherche bis zur Berichtlegung. 
+4. Qualifikationsziele des Moduls / zu  Die Studierenden sind nach Abschluss des Moduls in der 
+erwerbende Kompetenzen:  Lage, basierend auf dem Stand der Forschung, offene 
+Forschungsfragen abzuleiten und darauf aufbauend 
+eine Forschungsübersicht zur Beantwortung der 
+Forschungsfrage zu konzipieren und umzusetzen.  
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  EDU-BA-M03 und EDU-BA-M04 
+ 
+b) verpflichtende Nachweise:  EDU-BA-M01, EDU-BA-M02 und EDU-BA-M10 
+ 
+6. Verwendbarkeit des Moduls:  Erziehungswissenschaft im Bachelorstudiengang 
+ 
+7. Angebotsturnus des Moduls:  WS, jährlich 
+8. Das Modul kann absolviert werden in:  1 Semester 
+9. Empfohlenes Fachsemester:  5. Fachsemester 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+     (Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: 300 davon: 
+1. Präsenzzeit: 60 Std. (4SWS) 
+2. Selbststudium (inkl. Prüfung): 240 Std.  
+Leistungspunkte: 10 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren 
+aller in den Nrn. 11 und 12 aufgeführten Leistungen. 
+11. Modulbestandteile: 
+Nr  P /  Lehr- Themenbereich/Thema  SWS  LP  Studienleistungen 
+WP  form  / 
+Std. 
+EDU- Pflic Semina Vorbereitungsseminar  2  5  Aktive Mitarbeit 
+BA- ht  r  zur Bachelorarbeit 
+M06.1 
+EDU- Pflic Semina Begleitseminar wissenschaftlicher  2  5  Aktive Mitarbeit 
+BA- ht  r  Arbeiten 
+M06.2 
+12. Modulprüfung: 
+Art der  Bearbeitun Zeitpunkt /  Anteil an 
+Nr  Kompetenz / Thema 
+Prüfung  gszeit  Bemerkungen  Modulnote 
+EDU- Modulprüfung zu EDU-BA-M06.1  Bericht, 15- 6 Wochen  Am Ende der  unbenotet 
+BA-MP  und M06.2  20 Seiten  Vorlesungszeit 
+13. Bemerkungen:  
+7 
+ EDU-BA-M 07 
+1. Name des Moduls: Praktikum 
+Erziehungswissenschaft / Prof. Dr. Hans Gruber 
+2. Fachgebiet / Verantwortlich:
+Aneignung von Erfahrungswissen in pädagogischen 
+3. Inhalte des Moduls:
+Berufsfeldern parallel zu dem im Studium erworbenen 
+Wissen und Fähigkeiten.  
+Ziel ist die Überprüfung des im Studium erworbenen 
+4. Qualifikationsziele des Moduls / zu
+Wissens und der universitär erlangten Fähigkeiten auf 
+erwerbende Kompetenzen: 
+seine Anwendung hin sowie die kritische Analyse der 
+praktischen Erfahrungen. 
+5. Teilnahmevoraussetzungen:
+Keine 
+a)empfohlene Kenntnisse:
+Keine 
+b)verpflichtende Nachweise:
+Erziehungswissenschaft im Bachelorstudiengang 
+6. Verwendbarkeit des Moduls:
+7. Angebotsturnus des Moduls:
+1 Semester 
+8. Das Modul kann absolviert werden in:
+9. Empfohlenes Fachsemester: 5.Fachsemester
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls
+Gesamt in Stunden: 360 davon: 
+(Workload) / Anzahl Leistungspunkte:
+1.Präsenzzeit: 330 Std.
+2.Selbststudium (inkl. Prüfung): 30 Std.
+Leistungspunkte: 12 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren 
+aller in den Nrn. 11 und 12 aufgeführten Leistungen. 
+11.Modulbestandteile:
+Nr  P /  Lehrform  Themenbereich/Thema  SWS /  LP  Studienleistungen 
+WP  Std. 
+EDU- Pflic Praktikum  Praktikum 8 Wochen Vollzeit  9  Absolvieren des Praktikums 
+BA- ht  (Aufteilung in zwei Teile à 
+M07.1  mindestens 4 Wochen 
+möglich) 
+EDU- Pflic Seminar  Begleitseminar zum Praktikum  2  3  Aktive Mitarbeit und Referat 
+BA- ht 
+M07.2 
+12.Modulprüfung:
+Art der  Bearbeitun Zeitpunkt /  Anteil an 
+Nr  Kompetenz / Thema 
+Prüfung  gszeit  Bemerkungen  Modulnote 
+EDU- Beschreibung der  Praktikumsb 6 Wochen  Am Ende der  0  
+BA- Praktikumseinrichtung und Tätigkeit  ericht, 15- Vorlesungszeit  (bestanden / 
+M07.2  sowie Reflexion vor dem  20 Seiten  nicht bestanden) 
+Hintergrund 
+erziehungswissenschaftlicher 
+Theorien 
+13.Bemerkungen:
+Das Praktikum kann in Betrieben und Organisationen, Bildungseinrichtungen und anderen
+Hochschulen absolviert werden wie z.B. im Bereich der Personalentwicklung, Coaching, der
+Entwicklung von Hochschul- und Weiterbildungsangeboten, in Qualitätssicherung und Forschung.
+8 EDU-BA-M 08 
+1. Name des Moduls:  Einführung in die Erziehungswissenschaft 
+2. Fachgebiet / Verantwortlich:  Erziehungswissenschaft / Prof. Dr. Regina Mulder 
+3. Inhalte des Moduls:  Historische Entwicklung in Theorien, Modellen und 
+Definitionen der Kernbegriffe der Pädagogik wie z.B. 
+Lernen, Erziehung und Bildung. Wissenschaftliche 
+Strömungen in der Pädagogik z.B. Geisteswissenschaft 
+und empirische Pädagogik. Einblick in die 
+Arbeitsmarktsituation für Pädagogen, und konkrete 
+aktuelle Handlungsfelder für Pädagogen.  
+4. Qualifikationsziele des Moduls / zu  Nach Abschluss des Moduls verfügen die Studierenden 
+erwerbende Kompetenzen:  über theoretische Kenntnisse und Wissen über 
+empirische Befunde im Kontext von Grundbegriffen der 
+Pädagogik, ihren Teildisziplinen und pädagogischen 
+Strömungen sowie pädagogischer Handlungsfelder. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  keine 
+b) verpflichtende Nachweise:  keine 
+6. Verwendbarkeit des Moduls:  Erziehungswissenschaft im Bachelorstudiengang 
+7. Angebotsturnus des Moduls:  WS, SS 
+8. Das Modul kann absolviert werden in:  2 Semestern 
+9. Empfohlenes Fachsemester:  1. bis 4. Fachsemester 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+     (Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: 240 
+davon: 
+1. Präsenzzeit: 30 Std. (2 SWS) 
+2. Selbststudium (inkl. Prüfung): 210 Std. 
+Leistungspunkte: 8 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren 
+aller in den Nrn. 11 und 12 aufgeführten Leistungen. 
+11. Modulbestandteile: 
+Nr  P /  Lehr- Themenbereich/Thema  SWS /  LP  Studienleistungen 
+WP  form  Std. 
+EDU- Pflic Vorlesu Grundbegriffe der  1  4   
+BA- ht  ng  Erziehungswissenschaft 
+M08.1 
+EDU- Pflic Vorlesu Struktur der  1  4    
+BA- ht  ng  Erziehungswissenschaft und 
+M08.2  Handlungsfelder 
+12. Modulprüfung 
+Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr  Kompetenz / Thema 
+Prüfung  Bemerkungen  Modulnote 
+EDU- Modulprüfung zu EDU-BA-M08.1  Klausur  60 Minuten  Am Ende der  1 
+BA-MP  und EDU-BA-M08.2  Vorlesungszeit  
+13. Bemerkungen:  
+9 
+ EDU-BA-M 09 
+1. Name des Moduls:  Historische und politische Rahmenbedingungen 
+2. Fachgebiet / Verantwortlich:  Erziehungswissenschaft / Prof. Dr. Hans Gruber 
+3. Inhalte des Moduls:  Historische und bildungspolitische Entwicklungen und 
+Perspektiven in der Erziehungswissenschaft, 
+internationaler Vergleich von Bildungssystemen, Einblick 
+in Bildungsinstitutionen und ihre Bildungspolitik sowie 
+rechtliche Grundlagen professionellen pädagogischen 
+Handelns, Begriffsbestimmung Erziehung und Bildung 
+unter Analyse ihrer Kernfragen wie z.B. Ansätze und 
+Verbindung von Erziehung und Bildung 
+4. Qualifikationsziele des Moduls / zu  Nach Abschluss des Moduls sind die Studierenden in 
+erwerbende Kompetenzen:  der Lage, die unterschiedlichen theoretischen 
+Perspektiven und Paradigmen der 
+Erziehungswissenschaft in ihrem historischen und 
+bildungspolitischen Kontext zu verorten. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  keine 
+b) verpflichtende Nachweise:  keine 
+6. Verwendbarkeit des Moduls:  Erziehungswissenschaft im Bachelorstudiengang 
+7. Angebotsturnus des Moduls:  WS, SS 
+8. Das Modul kann absolviert werden in:  2 Semestern 
+9. Empfohlenes Fachsemester:  1. bis 4. Fachsemester 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+     (Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: 240 
+davon: 
+1. Präsenzzeit: 30 Std. (2 SWS) 
+2. Selbststudium (inkl. Prüfung): 210 Std. 
+Leistungspunkte: 8 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren 
+aller in den Nrn. 11 und 12 aufgeführten Leistungen. 
+11. Modulbestandteile: 
+Nr  P /  Lehr- Themenbereich/Thema  SWS /  LP  Studienleistungen 
+WP  form  Std. 
+EDU- Pflic Vorlesu Bildungspolitik, Bildungsrecht und  1  4   
+BA- ht  ng  Bildungsorganisation 
+M09.1 
+EDU- Pflic Vorlesu Geschichte und Theorie der  1    4   
+BA- ht  ng  Erziehung und Bildung 
+M09.2 
+12. Modulprüfung 
+Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr  Kompetenz / Thema 
+Prüfung  Bemerkungen  Modulnote 
+EDU- Modulprüfung zu EDU-BA-M09.1  Klausur  60 Minuten  Am Ende der  1 
+BA-MP  und EDU-BA-M09.2  Vorlesungszeit  
+13. Bemerkungen:  
+ 
+ 
+ 
+10 
+ EDU-BA-M 10 
+1. Name des Moduls:  Statistik 
+2. Fachgebiet / Verantwortlich:  Wirtschaftswissenschaften / Dr. Jobst; Erziehungswissenschaft 
+ / Prof. Dr. Klaus-Peter Wild 
+3. Inhalte des Moduls:  In diesem Modul werden grundlegende Verfahren der 
+beschreibenden und der schließenden Statistik behandelt. Die 
+Verfahren werden im weiteren Studium für das Verstehen 
+wissenschaftlicher Abhandlungen sowie die Auswertung eigener 
+Daten (z. B. im Rahmen von Übungsaufgaben) benötigt. 
+ 
+4. Qualifikationsziele des Moduls / zu  Nach Abschluss des Moduls sind die Studierenden in der 
+erwerbende Kompetenzen:  Lage, eigene Daten statistisch auszuwerten und fremde 
+Datenanalysen zu verstehen. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  keine 
+b) verpflichtende Nachweise:  keine 
+6. Verwendbarkeit des Moduls:  Erziehungswissenschaft im Bachelorstudiengang 
+7. Angebotsturnus des Moduls:  WS, SS 
+8. Das Modul kann absolviert werden  2 Semestern 
+in: 
+9. Empfohlenes Fachsemester:  1. bis 2. Fachsemester 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+     (Workload) / Anzahl  Gesamt in Stunden: 360 
+Leistungspunkte:  davon: 
+1. Präsenzzeit: 90 Std. (6 SWS) 
+2. Selbststudium (inkl. Prüfung): 270 Std. 
+Leistungspunkte: 12 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren 
+aller in den Nrn. 11 und 12 aufgeführten Leistungen. 
+11. Modulbestandteile: 
+Nr  P / WP  Lehrform  Themenbereich/Thema  SWS  LP  Studienleistungen 
+/ 
+Std. 
+EDU- Pflicht  Vorlesung  Statistik I  3  6   
+BA-
+M10.1 
+EDU- Pflicht  Vorlesung  Statistik II  3    6   
+BA-
+M10.2 
+12. Modulprüfung 
+Art der Prüfung  Dauer  Zeitpunkt /  Anteil an 
+Nr  Kompetenz / Thema 
+Bemerkungen  Modulnote 
+EDU- Statistik I  Klausur  90 Minuten  Ende des  1/2 
+BA- Veranstaltungszeit
+M10.1  raums  
+EDU- Statistik II  Klausur  90 Minuten  Ende des  1/2 
+BA- Veranstaltungszeit
+M10.2  raums 
+13. Bemerkungen: Zusätzliches freiwilliges Lehrangebot: Begleitübung zu Statistik I und Begleitübung zu 
+Statistik II. 
+ 
+11 
+ EDU-BA-M 11 
+1. Name des Moduls:  Empirische Bildungsforschung 
+2. Fachgebiet / Verantwortlich:  Erziehungswissenschaft / Prof. Dr. Klaus-Peter Wild 
+3. Inhalte des Moduls:  Einführung in die Planung, Durchführung und Bewertung 
+empirischer Forschungsarbeiten im Bereich der Bildungsforschung. 
+Verknüpfung von Anwendungskontext, Theorie, 
+Forschungsdesign, Erhebungsmethode und Datenanalyse. 
+Bewertung der Qualität empirischer Forschung nach 
+differenzierten Standards. 
+4. Qualifikationsziele des Moduls /  Nach Abschluss des Moduls sind die Studierenden in der Lage, 
+zu erwerbende Kompetenzen:  thematisch einschlägige Forschungsarbeiten zu identifizieren und 
+qualifiziert zu rezipieren. Sie verfügen über die Fähigkeit, 
+empirische Forschungsarbeiten unter Berücksichtigung der 
+wechselseitigen Abhängigkeit von Anwendungskontext, Theorie 
+und Methode zu verstehen, kritisch zu prüfen und fundiert zu 
+bewerten.  
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  keine 
+b) verpflichtende Nachweise:  keine 
+6. Verwendbarkeit des Moduls:  Erziehungswissenschaft im Bachelorstudiengang 
+7. Angebotsturnus des Moduls:  WS, SS 
+8. Das Modul kann absolviert  2 Semestern 
+werden in: 
+9. Empfohlenes Fachsemester:  1. bis 4. Fachsemester 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+     (Workload) / Anzahl  Gesamt in Stunden: 240 
+Leistungspunkte:  davon: 
+1. Präsenzzeit: 30 Std. (2 SWS) 
+2. Selbststudium (inkl. Prüfung): 210 Std. 
+Leistungspunkte: 8 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren 
+aller in den Nrn. 11 und 12 aufgeführten Leistungen. 
+11. Modulbestandteile: 
+Nr  P /  Lehr- Themenbereich/Thema  SWS /  LP  Studienleistungen 
+WP  form  Std. 
+EDU- Pflic Vorlesu Empirische Bildungsforschung im  1  4   
+BA- ht  ng  Kontext ihrer Anwendungsfelder 
+M11.1 
+EDU- Pflic Vorlesu Empirische Bildungsforschung im  1  4   
+BA- ht  ng  Kontext ihrer Theoriefelder  
+M11.2 
+12. Modulprüfung 
+Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr  Kompetenz / Thema 
+Prüfung  Bemerkungen  Modulnote 
+EDU- Modulprüfung zu EDU-BA-M11.1  Klausur  60 Minuten  Am Ende der  1  
+BA-MP  und EDU-BA-M11.2  Vorlesungszeit  
+13. Bemerkungen:  
+12 
+ EDU-BA-M 12 
+1. Name des Moduls:  Berufsfeldorientierte Kompetenzen (BOK) 
+2. Fachgebiet / Verantwortlich:  Prof. Dr. Regina Mulder 
+3. Inhalte des Moduls:  Berufszielorientierte Veranstaltungen mit erkennbarem 
+Anwendungs- und Praxisbezug für spätere berufliche 
+Handlungsfelder etwa aus den Bereichen Meiden/EDV, 
+Kommunikation oder Fachsprachen. 
+4. Qualifikationsziele des Moduls / zu  Nach Abschluss des Moduls haben die Studierenden über das 
+erwerbende Kompetenzen:  Fachstudium hinausreichende, 
+berufsqualifizierende und berufspraxisorientierte 
+Kompetenzen z. B. in Form von zusätzlichen 
+Sprachkompetenzen oder im Bereich der Anwendung von 
+empirischen Forschungsmethoden erworben. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  keine 
+b) verpflichtende Nachweise:  keine 
+6. Verwendbarkeit des Moduls:  Erziehungswissenschaft im Bachelorstudiengang 
+7. Angebotsturnus des Moduls:  WS, SS 
+8. Das Modul kann absolviert werden in:  1 Semester 
+9. Empfohlenes Fachsemester:  1.-5. Fachsemester 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 300 
+     (Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: 300 davon: 
+1. Präsenzzeit: ergibt sich aus konkreter Wahl der 
+Veranstaltungen unter Nr. 11 
+2. Selbststudium (inkl. Prüfung): ergibt sich aus konkreter 
+Wahl der Veranstaltungen unter Nr. 11 
+Leistungspunkte: 10 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren 
+aller in den Nrn. 11 und 12 aufgeführten Leistungen. 
+11. Modulbestandteile: 
+Nr  P /  Lehr- Beispiele für  SWS /  LP  Studienleistungen 
+WP  form  Themenbereiche/Themen  Std. 
+EDU- WP    Bewerbung und Praktikum      abhängig von gewählter 
+BA- Veranstaltung 
+M12.1 
+EDU- WP    Empirische Forschungsmethoden      abhängig von gewählter 
+BA- (z. B. empirisch ausgerichtetes  Veranstaltung 
+M12.2  Praktikum in einer 
+Forschungsorganisation 
+EDU- WP    Kommunikation (z. B.      abhängig von gewählter 
+BA- Veranstaltungen zu mündlicher  Veranstaltung 
+M12.3  Kommunikation und Sprecherziehung) 
+EDU- WP    Fremdsprachen (z. B.      abhängig von gewählter 
+BA- Veranstaltungen zur  Veranstaltung 
+M12.4  studienbegleitenden 
+Fremdsprachenausbildung) 
+EDU- WP    Medien / EDV (z. B. Veranstaltungen zu      abhängig von gewählter 
+BA- Multimedia oder ICT, Veranstaltungen  Veranstaltung 
+M12.5  im Rahmen der EDV 
+Ergänzungsausbildung 
+des Rechenzentrums) 
+EDU- WP    Betriebswirtschaftliche Praxis      abhängig von gewählter 
+BA- (z.B. Businessplanerstellung,  Veranstaltung 
+M12.6  Unternehmensgründungssimulationen, 
+Übungsfirmen) 
+12. Modulprüfung 
+Art der Prüfung  Dauer  Zeitpunkt /  Anteil an 
+Nr  Kompetenz / Thema 
+Bemerkungen  Modulnote 
+  abhängig von gewählter  abhängig von  abhängig von  abhängig von  unbenotet 
+13 
+ Veranstaltung  gewählter  gewählter  gewählter 
+Veranstaltung  Veranstaltung  Veranstaltung 
+13. Bemerkungen:  
+Es müssen Veranstaltungen im Umfang von insgesamt mindestens 10 Leistungspunkten erfolgreich 
+absolviert werden. Die Veranstaltungen können aus einem oder mehreren Themenbereichen ausgewählt 
+werden. Veranstaltungen können unter anderem aus den oben aufgeführten Bereichen gewählt werden. 
+Bei Bedarf können nicht genannte berufspraktisch orientierte Veranstaltungen in Absprache mit der 
+Fachstudienberatung eingebracht werden. Der erfolgreiche Abschluss des Moduls wird nach dem 
+Kriterium „bestanden“ festgestellt. 
+Die notwendigen Studien- und Prüfungsleistungen sowie die genauen Prüfungsmodalitäten werden von 
+den jeweils die Veranstaltungen anbietenden Fakultäten oder zentralen Einrichtungen bestimmt. 
+  
+14 
+ 

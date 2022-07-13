@@ -1,0 +1,3983 @@
+input_dictionary =  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+ 
+Modulkatalog 
+für den Bachelorstudiengang Wirtschaftschemie 
+an der Universität Regensburg  
+vom 1. August 2017 
+ 
+ 
+   
+Seite 1 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+Der Bachelorstudiengang Wirtschaftschemie an der Universität Regensburg umfasst folgende 
+Module/Modulgruppen im Pflicht- und Wahlpflichtbereich: 
+ 
+ALLGEMEINER PFLICHTBEREICH:  
+Propädeutikum:   
+WiCH-BSc-M01  Mathematik I  5 LP 
+WiCH-BSc-M02  Mathematik II  5 LP 
+WiCH-BSc-M03  Physik I  5 LP 
+WiCH-BSc-M04  Physik II  5 LP 
+ 
+Interdisziplinäres Modul Wirtschaftschemie:   
+WiCH-BSc-M05  Wirtschaftschemie  5 LP 
+ 
+Modul Bachelorarbeit:   
+WiCH-BSc-M06  Bachelorarbeit  6 LP 
+ 
+Fachwissenschaftlicher PFLICHTBEREICH im Fach CHEMIE:  
+Themengebiet: Allgemeine und Anorganische Chemie   25 LP 
+WiCH-BSc-CHE-M01  Allgemeine Chemie  9 LP 
+WiCH-BSc-CHE-M02  Anorganische Chemie I  8 LP 
+WiCH-BSc-CHE-M03  Anorganische Chemie II  8 LP 
+ 
+Themengebiet: Organische Chemie   24 LP 
+WiCH-BSc-CHE-M04  Organische Chemie I  6 LP 
+WiCH-BSc-CHE-M05  Organische Chemie II  5 LP 
+WiCH-BSc-CHE-M06  Organische Chemie III  12 LP 
+ 
+Seite 2 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+Themengebiet: Physikalische Chemie   14 LP 
+WiCH-BSc-CHE-M07  Physikalische Chemie I  7 LP 
+WiCH-BSc-CHE-M08  Physikalische Chemie II  7 LP 
+ 
+Themengebiet: Analytische Chemie und Biochemie  11 LP 
+WiCH-BSc-CHE-M09  Analytische Chemie   7 LP 
+WiCH-BSc-CHE-M10  Biochemie  4 LP 
+ 
+Fachwissenschaftlicher PFLICHTBEREICH im Fach WIRTSCHAFT:  
+Modulgruppe Allgemeine Grundlagen  18 LP 
+WiCH-BSc-Wi-M01  Grundlagen der Wirtschaftsinformatik  (6 LP) 
+WiCH-BSc-Wi-M02  Grundzüge des Privatrechts  (6 LP) 
+WiCH-BSc-Wi-M03  Mikroökonomie I  (6 LP) 
+ 
+Modulgruppe: Grundlagen der BWL  18 LP 
+WiCH-BSc-Wi-M04  Buchhaltung  (6 LP) 
+WiCH-BSc-Wi-M05  Investition  (6 LP) 
+WiCH-BSc-Wi-M06  Finanzierung  (6 LP) 
+ 
+WAHLPFLICHTBEREICH – LEVEL 1 im Fach WIRTSCHAFT:  
+Modulgruppe BWL 1 (Zugangsvoraussetzung für Wertschöpfung, Level 2)  22 LP 
+WiCH-BSc-Wi-M07  Organisationslehre   (4 LP) 
+WiCH-BSc-Wi-M08  Leistungserstellung  (6 LP) 
+WiCH-BSc-Wi-M09  Grundlagen des Marketings  (6 LP) 
+WiCH-BSc-Wi-M10  Kosten und Leistungsrechnung    (6 LP) 
+ 
+Seite 3 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+Modulgruppe BWL 2 (Zugangsvoraussetzung für Finanzmanagement, Level 2)  22 LP 
+WiCH-BSc-Wi-M11  Externe Unternehmensberichterstattung I  (6 LP) 
+WiCH-BSc-Wi-M12  Entscheidungslehre  (4 LP) 
+WiCH-BSc-Wi-M13  Steuerrechtliche Grundlagen  (6 LP) 
+WiCH-BSc-Wi-M14  Statistik I  (6 LP) 
+ 
+WAHLPFLICHTBEREICH – LEVEL 2 im Fach WIRTSCHAFT:  
+Modulgruppe Wertschöpfungsmanagement (3 Module müssen absolviert  18 LP 
+werden; nur möglich mit BWL 1, Level 1) 
+WiCH-BSc-Wi-M15  Marketing Planung   (6 LP) 
+WiCH-BSc-Wi-M16  Logistik  (6 LP) 
+WiCH-BSc-Wi-M17  Internationales Management  (6 LP) 
+WiCH-BSc-Wi-M18  Personalmanagement  (6 LP) 
+WiCH-BSc-Wi-M19  Strategisches Business Marketing  (6 LP) 
+ 
+Modulgruppe Finanzmanagement und -berichterstattung (3 Module  18 LP 
+müssen absolviert werden; nur möglich mit BWL 2, Level 1) 
+WiCH-BSc-Wi-M20  Betriebswirtschaftliche Steuerlehre  (6 LP) 
+WiCH-BSc-Wi-M21  Corporate Finance  (6 LP) 
+WiCH-BSc-Wi-M22  Kapitalmarktmanagement  (6 LP) 
+WiCH-BSc-Wi-M23  Externe Unternehmensberichterstattung II  (6 LP) 
+ 
+Modulgruppe Wirtschaftsinformatik (3 Module müssen absolviert werden;  18 LP 
+möglich mit Wahlpflichtmodulgruppe BWL 1 oder BWL 2, Level 1) 
+WiCH-BSc-Wi-M24  Datenbanken im Unternehmen  (6 LP) 
+WiCH-BSc-Wi-M25  Informationsmanagement  (6 LP) 
+WiCH-BSc-Wi-M26  Internet Business I  (6 LP) 
+WiCH-BSc-Wi-M27  IT Security I  (6 LP) 
+Seite 4 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+Inhaltsverzeichnis 
+ALLGEMEINER PFLICHTBEREICH:  ....................................................... 7 
+WiCH-BSc-M01 Mathematik I ............................................................................................ 7 
+WiCH-BSc-M02 Mathematik II ........................................................................................... 9 
+WiCH-BSc-M03 Physik I ................................................................................................... 11 
+WiCH-BSc-M04 Physik II .................................................................................................. 13 
+WiCH-BSc-M05 Wirtschaftschemie .................................................................................. 15 
+WiCH-BSc-M06 Bachelorarbeit ........................................................................................ 18 
+Fachwissenschaftlicher PFLICHTBEREICH im Fach CHEMIE: .............. 20 
+WiCH-BSc-CHE-M01 Allgemeine Chemie ......................................................................... 20 
+WiCH-BSc-CHE-M02 Anorganische Chemie I ................................................................... 23 
+WiCH-BSc-CHE-M03 Anorganische Chemie II................................................................... 26 
+WiCH-BSc-CHE-M04 Organische Chemie I ....................................................................... 29 
+WiCH-BSc-CHE-M05 Organische Chemie II ...................................................................... 31 
+WiCH-BSc-CHE-M06 Organische Chemie III ..................................................................... 33 
+WiCH-BSc-CHE-M07 Physikalische Chemie I ..................................................................... 36 
+WiCH-BSc-CHE-M08 Physikalische Chemie II .................................................................... 39 
+WiCH-BSc-CHE-M09 Analytische Chemie ......................................................................... 43 
+WiCH-BSc-CHE-M10 Biochemie ....................................................................................... 45 
+Fachwissenschaftlicher PFLICHTBEREICH im Fach WIRTSCHAFT: ...... 47 
+WiCH-BSc-Wi-M01 Grundlagen der Wirtschaftsinformatik ............................................... 47 
+WiCh-BSc-Wi-M02 Grundzüge des Privatrechts................................................................ 50 
+WiCh-BSc-Wi-M03 Mikroökonomie I ............................................................................... 52 
+WiCh-BSc-Wi-M04 Buchhaltung ...................................................................................... 54 
+WiCh-BSc-Wi-M05 Investition .......................................................................................... 56 
+WiCh-BSc-Wi-M06 Finanzierung ...................................................................................... 59 
+WAHLPFLICHTBEREICH – LEVEL 1 im Fach WIRTSCHAFT: ................ 61 
+BWL 1 .................................................................................................................................... 61 
+WiCh-BSc-Wi-M07 Organisationslehre ............................................................................. 61 
+WiCh-BSc-Wi-M08 Leistungserstellung ............................................................................ 63 
+WiCh-BSc-Wi-M09 Grundlagen des Marketings ............................................................... 65 
+WiCh-BSc-Wi-M10 Kosten und Leistungsrechnung .......................................................... 67 
+Seite 5 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+BWL 2 .................................................................................................................................... 69 
+WiCh-BSc-Wi-M11 Externe Unternehmensberichterstattung I .......................................... 69 
+WiCh-BSc-Wi-M12 Entscheidungslehre ............................................................................ 72 
+WiCh-BSc-Wi-M13 Steuerrechtliche Grundlagen .............................................................. 74 
+WiCh-BSc-Wi-M14 Statistik I ........................................................................................... 76 
+WAHLPFLICHTBEREICH – LEVEL 2 im Fach WIRTSCHAFT: ................ 78 
+Wertschöpfungsmanagement ................................................................................................. 78 
+WiCh-BSc-Wi-M15 Marketing-Planung ............................................................................ 78 
+WiCh-BSc-Wi-M16 Logistik .............................................................................................. 80 
+WiCh-BSc-Wi-M17 Internationales Management ............................................................. 82 
+WiCh-BSc-Wi-M18 Personalmanagement ........................................................................ 85 
+WiCh-BSc-Wi-M19 Strategisches Business Marketing ....................................................... 88 
+Finanzmanagement und – berichterstattung ........................................................................... 90 
+WiCh-BSc-Wi-M20 Betriebswirtschaftliche Steuerlehre ..................................................... 90 
+WiCh-BSc-Wi-M21 Corporate Finance ............................................................................. 93 
+WiCh-BSc-Wi-M22 Kapitalmarktmanagement.................................................................. 95 
+WiCh-BSc-Wi-M23 Externe Unternehmensberichterstattung II ......................................... 98 
+Wirtschaftsinformatik ........................................................................................................... 101 
+WiCh-BSc-Wi-M24 Datenbanken im Unternehmen ........................................................ 101 
+WiCh-BSc-Wi-M25 Informationsmanagement ................................................................ 104 
+WiCh-BSc-Wi-M26 Internet Business I ............................................................................ 107 
+WiCh-BSc-Wi-M27 IT Security I ...................................................................................... 110 
+ 
+ 
+ 
+Seite 6 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+ALLGEMEINER PFLICHTBEREICH:  
+Alle Module müssen belegt werden. 
+WiCH-BSc-M01 Mathematik I 
+1. Name des Moduls:  Mathematik I 
+2. Fachgebiet / Verantwortlich:  Chemie: Prof. Dr. H. Motschmann 
+Mathematik: verantwortliche(r) Dozent(in) 
+3. Inhalte des Moduls:  Funktionen einer Variablen: Zahlentheorie, Folgen und 
+Reihen, Differential- und Integralrechnung, 
+Stammfunktion, Höhere Ableitungen und die 
+Berechnung von Extremwerten, Erweiterung auf 
+komplexe Zahlen, gewöhnliche 
+Differentialgleichungen; Anwendung auf 
+Schwingungsprobleme, Wachstumsmodelle. 
+Funktionen mehrerer Variablen: partielle Ableitungen, 
+vollständiges Differential, Satz von Schwarz, Satz von 
+Euler, homogene Funktionen, Kurven- und 
+Differentialformen; Technik des integrierenden Faktors, 
+Maxima und Minima Bestimmung unter 
+Berücksichtigung von Nebenbedingungen 
+4. Qualifikationsziele des Moduls / zu  Studierende, die das Modul erfolgreich absolviert 
+erwerbende Kompetenzen:  haben, können einfache Zusammenhänge (z.B. 
+zwischen experimentell bestimmbaren Größen) in 
+mathematischer Form ausdrücken, entsprechende 
+Ausdrücke in geeigneter Form verknüpfen und 
+analysieren. Sie haben sich die notwendigen 
+Grundlagen erarbeitet, um den mathematischen 
+Überlegungen und Herleitungen in den theoretischen 
+chemischen Fächern folgen zu können. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  Keine 
+b) verpflichtende Nachweise:  Keine 
+6. Verwendbarkeit des Moduls:  BSc WiChem 
+7. Angebotsturnus des Moduls:  jährlich, im WS 
+8. Das Modul kann absolviert werden in:  1 Semester 
+9. Empfohlenes Fachsemester:  1. Fachsemester 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+     (Workload) / Anzahl Leistungspunkte: 
+Gesamt in Stunden: 150 (5 ECTS * 30 Std) 
+Seite 7 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+davon: 
+1. Präsenzzeit: 4 SWS 
+2. Selbststudium (inkl. Prüfung): 90 Std. 
+ 
+Leistungspunkte: 5 
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+Nr  P / WP  Lehrform  Themenbereich/Thema  SWS  LP  Studienleistungen 
+/ Std. 
+1  P  Vorlesung +  Mathematik I  3+1  5   
+Übung 
+13. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der  Dauer  Zeitpunkt /  Anteil an 
+Prüfung  Bemerkungen  Modulnote 
+1  Mathematik I  Klausur  2 h  am Ende der  0 % 
+Vorlesungszeit des 
+WS 
+14. Bemerkungen: Die Modulprüfung kann zweimal wiederholt werden. Wird die Modulprüfung im 
+Drittversuch nicht bestanden, so ist die Bachelorprüfung gemäß § 28, Abs. 3, der PO BSc 
+Wirtschaftschemie endgültig nicht bestanden. 
+  
+   
+Seite 8 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+WiCH-BSc-M02 Mathematik II 
+1. Name des Moduls:  Mathematik II  
+2. Fachgebiet / Verantwortlich:  Chemie: Prof. Dr. H. Motschmann 
+Mathematik: verantwortliche(r) Dozent(in) 
+3. Inhalte des Moduls:  Lineare Algebra: Vektoren und Matrizen, lineare 
+Gleichungssysteme, Basen und Basistransformationen, 
+Vektorräume, Eigenwertproblem; Diagonalisierung von 
+Matrizen,  
+Vektoranalysis: Bereichsintegrale, Divergenz, Rotation, 
+Kurven und Flächenintegrale, Sätze von Gauss und 
+Stokes;  
+Fourierreihen und Fouriertransformation 
+4. Qualifikationsziele des Moduls / zu  Studierende, die das Modul erfolgreich absolviert 
+erwerbende Kompetenzen:  haben, können einfache Zusammenhänge (z.B. 
+zwischen experimentell bestimmbaren Größen) in 
+mathematischer Form ausdrücken, entsprechende 
+Ausdrücke in geeigneter Form verknüpfen und 
+analysieren. Sie haben sich die notwendigen 
+Grundlagen erarbeitet, um den mathematischen 
+Überlegungen und Herleitungen in den theoretischen 
+chemischen Fächern folgen zu können. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  Keine 
+b) verpflichtende Nachweise:  Keine 
+6. Verwendbarkeit des Moduls:  BSc WiChem 
+7. Angebotsturnus des Moduls:  jährlich, im SS 
+8. Das Modul kann absolviert werden in:  1 Semester 
+9. Empfohlenes Fachsemester:  2. Fachsemester 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+     (Workload) / Anzahl Leistungspunkte: 
+Gesamt in Stunden: 150 (5 ECTS * 30 Std) 
+davon: 
+1. Präsenzzeit: 4 SWS 
+2. Selbststudium (inkl. Prüfung): 90 Std. 
+ 
+Seite 9 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+Leistungspunkte: 5 
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+Nr  P / WP  Lehrform  Themenbereich/Thema  SWS  LP  Studienleistungen 
+/ Std. 
+1  P  Vorlesung +  Mathematik II  3+1  5   
+Übung 
+13. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der  Dauer  Zeitpunkt /  Anteil an 
+Prüfung  Bemerkungen  Modulnote 
+1  Mathematik II  Klausur  2 h  am Ende der  0 % 
+Vorlesungszeit des SS 
+14. Bemerkungen: Die Modulprüfung kann zweimal wiederholt werden. Wird die Modulprüfung im 
+Drittversuch nicht bestanden, so ist die Bachelorprüfung gemäß § 28, Abs. 3, der PO BSc 
+Wirtschaftschemie endgültig nicht bestanden. 
+  
+   
+Seite 10 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+WiCH-BSc-M03 Physik I 
+1. Name des Moduls:  Physik I  
+2. Fachgebiet / Verantwortlich:  Chemie: Prof. Dr. H. Motschmann 
+Physik: verantwortliche(r) Dozent(in) 
+3. Inhalte des Moduls:  Mechanik: Bewegung in einer Dimension, Vektoren, 
+Bewegung in zwei oder drei Dimensionen, Kraft und 
+Bewegung, Newton´sche Gesetze, Methoden zur 
+Integration der Newton´sche Bewegungsgesetze, 
+Schwingungen, Resonanz, Energie, Impuls, 
+Drehimpuls, Energieerhaltungssatz, 
+Impulserhaltungssatz, Drehimpulserhaltungssatz, 
+Stoßprozesse, Gravitation, Drehbewegung 
+4. Qualifikationsziele des Moduls / zu  Die Absolventen kennen die wesentlichen 
+erwerbende Kompetenzen:  Grundbegriffe, Phänomene und Konzepte der Physik, 
+die für ein erfolgreiches naturwissenschaftliches 
+Studium erforderlich sind. Damit besitzen sie das 
+Rüstzeug, den auf physikalischen Gesetzmäßigkeiten 
+beruhenden Überlegungen und Herleitungen in den 
+theoretischen chemischen Fächern zu folgen. Sie 
+können einfache Probleme der Mechanik lösen. Die 
+Studierenden werden darüber hinaus durch eine breit 
+gefächerte Stoffauswahl in die Lage versetzt, 
+speziellere Kenntnisse bei Bedarf im Verlauf ihres 
+Studiums der Literatur zu entnehmen. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  Keine 
+b) verpflichtende Nachweise:  Keine 
+6. Verwendbarkeit des Moduls:  BSc WiChem 
+7. Angebotsturnus des Moduls:  jährlich, im WS 
+8. Das Modul kann absolviert werden in:  1 Semester 
+9. Empfohlenes Fachsemester:  1. Fachsemester 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+     (Workload) / Anzahl Leistungspunkte: 
+Gesamt in Stunden: 150 (5 ECTS * 30 Std) 
+davon: 
+1. Präsenzzeit: 4 SWS 
+2. Selbststudium (inkl. Prüfung): 90 Std. 
+Seite 11 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+ 
+Leistungspunkte: 5 
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+Nr  P / WP  Lehrform  Themenbereich/Thema  SWS  LP  Studienleistungen 
+/ Std. 
+1  P  Vorlesung +  Physik I  3+1  5   
+Übung 
+13. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der  Dauer  Zeitpunkt /  Anteil an 
+Prüfung  Bemerkungen  Modulnote 
+1  Physik I  Klausur  2 h  am Ende der  0 % 
+Vorlesungszeit des 
+WS 
+14. Bemerkungen:  
+Die Modulprüfung kann zweimal wiederholt werden. Wird die Modulprüfung im Drittversuch nicht 
+bestanden, so ist die Bachelorprüfung gemäß § 28, Abs. 3 der PO BSc Wirtschaftschemie endgültig nicht 
+bestanden. 
+  
+   
+Seite 12 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+WiCH-BSc-M04 Physik II 
+1. Name des Moduls:  Physik II 
+2. Fachgebiet / Verantwortlich:  Chemie: Prof. Dr. H. Motschmann 
+Physik: verantwortliche(r) Dozent(in) 
+3. Inhalte des Moduls:  Elektrodynamik; Strom, Spannung, Potential, 
+Ohmsches Gesetz, Leitungsmechanismen, einfache 
+Schaltungen, das elektrische Feld, elektrischer Fluss, 
+Energiedichte, Elektrostatik, Maxwell, Strom, 
+Magnetostatik, magnetische Dipole im magnetischen 
+Feld, Elektromagnetische Wellen, die Polarisation, der 
+Hertzsche Dipol, geometrische Optik, Wellenoptik, 
+Quanten, Photoeffekt, Comptoneffekt 
+4. Qualifikationsziele des Moduls / zu  Die Absolventen kennen die wesentlichen 
+erwerbende Kompetenzen:  Grundbegriffe, Phänomene und Konzepte der Physik, 
+die für ein erfolgreiches naturwissenschaftliches 
+Studium erforderlich sind. Damit besitzen sie das 
+Rüstzeug, den auf physikalischen Gesetzmäßigkeiten 
+beruhenden Überlegungen und Herleitungen in den 
+theoretischen chemischen Fächern zu folgen. Sie 
+können einfache Probleme der Elektrizitätslehre und 
+Optik lösen. Die Studierenden werden darüber hinaus 
+durch eine breit gefächerte Stoffauswahl in die Lage 
+versetzt, speziellere Kenntnisse bei Bedarf im Verlauf 
+ihres Studiums der Literatur zu entnehmen. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  Keine 
+b) verpflichtende Nachweise:  Keine 
+6. Verwendbarkeit des Moduls:  BSc WiChem 
+7. Angebotsturnus des Moduls:  jährlich, im SS 
+8. Das Modul kann absolviert werden in:  1 Semester 
+9. Empfohlenes Fachsemester:  2. Fachsemester 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+     (Workload) / Anzahl Leistungspunkte: 
+Gesamt in Stunden: 150 (5 ECTS * 30 Std) 
+davon: 
+1. Präsenzzeit: 4 SWS 
+2. Selbststudium (inkl. Prüfung): 90 Std. 
+Seite 13 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+ 
+Leistungspunkte: 5 
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+Nr  P / WP  Lehrform  Themenbereich/Thema  SWS  LP  Studienleistungen 
+/ Std. 
+1  P  Vorlesung +  Physik II  3+1  5   
+Übung 
+13. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der  Dauer  Zeitpunkt /  Anteil an 
+Prüfung  Bemerkungen  Modulnote 
+1  Physik II  Klausur  2 h  am Ende der  0 % 
+Vorlesungszeit des SS 
+14. Bemerkungen:  
+Die Modulprüfung kann zweimal wiederholt werden. Wird die Modulprüfung im Drittversuch nicht 
+bestanden, so ist die Bachelorprüfung gemäß § 28, Abs. 3 der PO BSc Wirtschaftschemie endgültig nicht 
+bestanden. 
+  
+   
+Seite 14 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+WiCH-BSc-M05 Wirtschaftschemie 
+1. Name des Moduls:  Wirtschaftschemie 
+2. Fachgebiet / Verantwortlich:  Chemie: Prof. Dr. J. Wegener 
+sowie der die Lehrveranstaltung abhaltende 
+Gastdozent 
+3. Inhalte des Moduls:  Wirtschaftschemie: 
+Die Vorlesung Wirtschaftschemie wird von einem 
+Gastdozenten angeboten, der hauptamtlich in einem 
+Chemie-Unternehmen beschäftigt ist/war. An 
+konkreten Beispielen aus der chemischen Industrie 
+(Forschung/Entwicklung, Produktion) sollen die 
+betriebswirtschaftlichen Aspekte der gesamten 
+Wertschöpfungskette eines Chemie-basierten 
+Produktes thematisiert und diskutiert werden: 
+•  Entwicklung 
+•  Innovationsmanagement 
+•  Schutzrechte (IP) 
+•  Upscaling 
+•  Einkauf von Grundchemikalien 
+•  Produktion  
+•  Vertrieb 
+•  Marketing 
+ 
+Rechtskunde: 
+Kenntnisse des Stoffes zur Rechtskunde im Rahmen 
+der Sachkundeausbildung gemäß den Hinweisen und 
+Empfehlungen zum Sachkundenachweis gemäß § 5 
+der Chemikalien-Verbotsverordnung. 
+4. Qualifikationsziele des Moduls / zu  Die Studierenden können mit den Methoden der 
+erwerbende Kompetenzen:  Betriebswirtschaftslehre Prozesse und Produkte der 
+chemischen Industrie ökonomisch bewerten und 
+eingruppieren. Sie können die Wertschöpfungskette 
+chemischer Produkte vom Einkauf von 
+Ausgangsmaterialien über die Produktion bis zum 
+Vertrieb nachvollziehen. Die Studierenden beherrschen 
+die Fachsprache der Chemie wie der 
+Wirtschaftswissenschaften und können an der 
+Schnittstelle zwischen beiden erfolgreich 
+kommunizieren.  
+Darüber hinaus kennen die Studierenden die 
+rechtlichen Rahmenbedingungen zur 
+Inverkehrbringung von Chemikalien und können die 
+Chemikalien-Verbotsverordnung anwenden. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  chemische und wirtschaftliche Vorkenntnisse aus den 
+Seite 15 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+Semestern 1-5 des Bachelorstudiengangs 
+Wirtschaftschemie 
+b) verpflichtende Nachweise:  Keine 
+6. Verwendbarkeit des Moduls:  BSc WiChem 
+7. Angebotsturnus des Moduls:  jährlich, im SS 
+8. Das Modul kann absolviert werden in:  1 Semester 
+9. Empfohlenes Fachsemester:  6. Fachsemester 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+     (Workload) / Anzahl Leistungspunkte: 
+Gesamt in Stunden: 150 (5 ECTS * 30 Std) 
+davon: 
+1. Präsenzzeit: 5 SWS 
+2. Selbststudium (inkl. Prüfung): 75 Std. 
+ 
+Leistungspunkte: 5 
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+Nr  P / WP  Lehrform  Themenbereich/Thema  SWS  LP  Studienleistungen 
+/ Std. 
+1  P  Vorlesung  Wirtschaftschemie  4  4   
+2  P  Vorlesung  Rechtskunde  1  1  Klausur 
+13. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der  Dauer  Zeitpunkt /  Anteil an 
+Prüfung  Bemerkungen  Modulnote 
+1  Wirtschaftschemie  Klausur   2 h  am Ende der  100% 
+oder  oder  Vorlesungszeit des SS 
+mündliche  30 min 
+Seite 16 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+Prüfung 
+14. Bemerkungen:  
+Mit erfolgreichem Bestehen der Klausur zur Rechtskunde erhält der Studierende den Sachkundenachweis 
+gemäß § 5 der Chemikalien-Verbotsverordnung. 
+Die Modulprüfung kann zweimal wiederholt werden. Wird die Modulprüfung im Drittversuch nicht 
+bestanden, so ist die Bachelorprüfung gemäß § 28, Abs. 3der PO BSc Wirtschaftschemie endgültig nicht 
+bestanden. 
+  
+   
+Seite 17 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+WiCH-BSc-M06 Bachelorarbeit 
+1. Name des Moduls:  Bachelorarbeit 
+2. Fachgebiet / Verantwortlich:  Chemie: Prof. Dr. J. Wegener 
+3. Inhalte des Moduls:  In der Bachelorarbeit werden unter Anleitung eine 
+wissenschaftliche Fragestellung der Chemie bearbeitet, 
+selbige unter betriebs-wirtschaftlichen 
+Gesichtspunkten begleitend bewertet und die 
+Ergebnisse schriftlich niedergelegt. 
+4. Qualifikationsziele des Moduls / zu  Der Student kann grundlegende chemische 
+erwerbende Kompetenzen:  Fragestellungen bearbeiten, die die Kombination und 
+Integration des Fachwissens der chemischen 
+Teildisziplinen erfordern. Er kann diese grundlegenden 
+chemischen Fragestellungen auch in ihren betriebs-
+wirtschaftlichen Kontexten erfassen und beurteilen. 
+Seine disziplinäre Verankerung in den Fächern Chemie 
+und Betriebswirtschaftslehre ist so gefestigt, dass er 
+eigene Ansätze zur Bearbeitung interdisziplinärer 
+naturwissenschaftlicher Problemstellungen vor dem 
+Hintergrund betriebswirtschaftlicher 
+Rahmenbedingungen entwickeln kann. Er kann in 
+beruflichen Kontexten das Fach Chemie angemessen 
+vertreten. Ferner ist der Studierende mit 
+grundlegenden sicherheitsrelevanten und rechtlichen 
+Aspekten chemischer Substanzen vertraut. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  chemische und wirtschaftliche Vorkenntnisse aus den 
+Semestern 1-5 im Bachelorstudiengang 
+Wirtschaftschemie 
+b) verpflichtende Nachweise:  Nachweis von mind.120 LPs 
+6. Verwendbarkeit des Moduls:  BSc WiChem 
+7. Angebotsturnus des Moduls:  jährlich, im SS 
+8. Das Modul kann absolviert werden in:  1 Semester 
+9. Empfohlenes Fachsemester:  6. Fachsemester 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+     (Workload) / Anzahl Leistungspunkte: 
+Gesamt in Stunden: 180 (6 ECTS * 30 Std) 
+davon: 
+Seite 18 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+1. Präsenzzeit: 120 h 
+2. Selbststudium (inkl. Prüfung): 60 Std. 
+ 
+Leistungspunkte: 6 
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+Nr  P / WP  Lehrform  Themenbereich/Thema  SWS  LP  Studienleistungen 
+/ Std. 
+1  P    Bachelorarbeit  180 h  6   
+13. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der  Dauer  Zeitpunkt /  Anteil an 
+Prüfung  Bemerkungen  Modulnote 
+1  Bachelorarbeit:  Bachelorarbeit      100% 
+Forschungsfragestellung 
+der Chemie mit 
+betriebswirtschaftlicher 
+Bewertung 
+14. Bemerkungen: Die Bachelorarbeit soll in der Regel in den Arbeitsgruppen der Fakultät für Chemie 
+und Pharmazie angefertigt werden. Sie kann in Ausnahmefällen mit Zustimmung des 
+Prüfungsausschusses außerhalb der Fakultät für Chemie und Pharmazie, gegebenenfalls auch in einer 
+Einrichtung außerhalb der Universität, ausgeführt werden (gemäß PO BSc Wirtschaftschemie §21 Abs. 6) 
+Die Bachelorarbeit kann einmal wiederholt werden. Wird die Bachelorarbeit im Zweitversuch nicht 
+bestanden, so ist die Bachelorprüfung gemäß § 28, Abs. 3 der PO BSc Wirtschaftschemie endgültig nicht 
+bestanden. 
+  
+   
+Seite 19 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+Fachwissenschaftlicher PFLICHTBEREICH im Fach CHEMIE:  
+Alle Module müssen belegt werden. 
+WiCH-BSc-CHE-M01 Allgemeine Chemie  
+1. Name des Moduls:  Allgemeine Chemie  
+2. Fachgebiet / Verantwortlich:  Chemie: Prof. Dr. A. Pfitzner und der/die 
+verantwortliche/r Dozent/in der Lehrveranstaltung 
+3. Inhalte des Moduls:  Atomtheorie, empirische Gasgesetze und kinetische 
+Gastheorie, mikroskopischer Aufbau der Materie: 
+Elementarteilchen, Atome, Welle-Teilchen-Dualismus, 
+Orbitalmodelle zur Beschreibung von Elektronen in 
+Atomen, Ein- und Mehrelektronenatome, 
+Aufbauprinzip des Periodensystems der Elemente, 
+radioaktiver Zerfall.  
+Grundlagen der Stöchiometrie, chemisches 
+Gleichgewicht und Massenwirkungsgesetz, 
+Lösungsvorgänge und Löslichkeitsprodukt, Säuren und 
+Basen: Definitionen und quantitative Behandlung von 
+Säure-Base Gleichgewichten und Puffersystemen, 
+elektrochemisches Potenzial, Nernstsche Gleichung, 
+Spannungsreihe, Redox- und Komplexgleichgewichte 
+Grundlagen der Kinetik chemischer Reaktionen, 
+Katalysatoren, Reaktionsordnung 
+Die chemische Bindung: Ionenverbindungen, Metalle, 
+Halbmetalle und das Bändermodell, die kovalente 
+Bindung, Elektronegativität, Polarität und 
+Dipolmoment, Beschreibung einfacher Moleküle 
+anhand der MO-Theorie, räumliche Struktur von 
+Molekülen, schwache Bindungskräfte 
+Elementare Stoffkenntnisse zur Darstellung und zum 
+Reaktivitätsverhalten ausgewählter Metalle und 
+Nichtmetalle sowie einfacher Verbindungen. Diese 
+werden mit eindrucksvollen chemischen Experimenten 
+unterlegt. 
+4. Qualifikationsziele des Moduls / zu  Nach Abschluss dieses Moduls ist der Studierende in 
+erwerbende Kompetenzen:  der Lage, chemische Reaktionsgleichungen zu 
+formulieren, thermodynamisch einzuordnen und für 
+einfache Fälle die Reaktionsgeschwindigkeit zu 
+analysieren. Der Studierende versteht die 
+Notwendigkeit der Quantenmechanik zur 
+Beschreibung der atomistischen Struktur der Materie 
+und kann ihre Resultate auf die Beschreibung 
+Seite 20 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+chemischer Bindungen anwenden. Er versteht den 
+Zusammenhang zwischen der Elektronenstruktur und 
+der räumlichen Struktur chemischer Verbindungen. 
+Der Student kann auf Basis des Massenwirkungs-
+gesetzes Reaktionsverläufe, Löslichkeitsprozesse und 
+Dissoziationsreaktionen beschreiben.  Auch ist er in der 
+Lage, stöchiometrische Berechnungen im Kontext von 
+Reaktionsabläufen und Gleichgewichtsprozessen in 
+Lösung anzuwenden. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  Physikalisch-Chemische Schulvorbildung 
+b) verpflichtende Nachweise:  Keine 
+6. Verwendbarkeit des Moduls:  BSc WiChem 
+7. Angebotsturnus des Moduls:  jährlich, im WS 
+8. Das Modul kann absolviert werden in:  1 Semester 
+9. Empfohlenes Fachsemester:  1. Fachsemester 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+     (Workload) / Anzahl Leistungspunkte: 
+Gesamt in Stunden: 150 (5 ECTS * 30 Std) 
+davon: 
+1. Präsenzzeit: 5 SWS 
+2. Selbststudium (inkl. Prüfung): 75 Std. 
+ 
+Leistungspunkte: 5 
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+Nr  P / WP  Lehrform  Themenbereich/Thema  SWS  LP  Studienleistungen 
+/ Std. 
+1  P  Vorlesung mit  Allgemeine Chemie für  4  4   
+Übung  Wirtschaftschemiker 
+Seite 21 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+2  P  Vorlesung  Experimentalchemie  1  1   
+13. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der Prüfung  Dauer  Zeitpunkt /  Anteil an 
+Bemerkungen  Modulnote 
+1  Allgemeine Chemie  Klausur  2 h  am Ende der  100% 
+Vorlesungszeit des 
+WS 
+14. Bemerkungen:  
+Die Modulprüfung kann zweimal wiederholt werden. Wird die Modulprüfung im Drittversuch nicht 
+bestanden, so ist die Bachelorprüfung gemäß § 28, Abs. 3der PO BSc Wirtschaftschemie endgültig nicht 
+bestanden. 
+  
+   
+Seite 22 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+WiCH-BSc-CHE-M02 Anorganische Chemie I 
+1. Name des Moduls:  Anorganische Chemie I  
+2. Fachgebiet / Verantwortlich:  Chemie: Prof. Dr. A. Pfitzner 
+3. Inhalte des Moduls:  Erste Arbeiten im chemischen Laboratorium 
+Dieses erste Praxismodul dient dem Einstieg ins sichere 
+und saubere Arbeiten in einem chemischen 
+Laboratorium. Dazu werden sowohl quantitative 
+Bestimmungen von Konzentrationen bekannter Ionen 
+oder Verbindungen in wässriger Lösung als auch 
+qualitative Bestimmungen von Kationen und Anionen 
+in unbekannten Mischungen durchgeführt. Es kommen 
+verschiedene klassische Analyseverfahren, wie 
+Titrationen (z.B. Säure-Base-, Redox- und 
+Fällungstitrationen) und Bestimmungen unter 
+Hinzuziehung einfacher apparativer bzw. 
+instrumenteller Hilfsmittel (z.B. Gravimetrie, 
+quantitative Elektrolysen, Photometrie), sowie einfache 
+Handversuche und Vorproben bis hin zum H S-
+2
+Trennungsgang zum Einsatz. So werden Prinzipien von 
+Reaktionen in wässriger Lösung, wie z.B. 
+Dissoziationsgleichgewichte, Komplexbildungs-
+konstanten und Löslichkeitsprodukte an praktischen 
+Beispielen vermittelt. In einem präparativen Teil des 
+Praktikums werden erste, einfache anorganischer 
+Präparate synthetisiert. Auf diese Weise werden die 
+Studierenden an die vielfältigen Arbeitstechniken, den 
+Aufbau von einfachen Glasapparaturen, die Bedienung 
+von Laborgeräten etc. 
+Aufbauend auf der Veranstaltung „Allgemeine Chemie 
+für Wirtschaftschemiker“ werden in der Vorlesung 
+„Grundlagen der Anorganischen Chemie für 
+Wirtschaftschemiker“ grundlegende Konzepte  der 
+Anorganischen Chemie vertieft und in Übungsgruppen 
+angewendet und eingeübt.  
+Einleitend werden Trends im PSE und allgemeine 
+Definitionen erarbeitet. Gegliedert in die drei 
+Bindungstypen (Ionische Bindung – Kovalente Bindung 
+– Metallische Bindung) werden die folgenden 
+Schwerpunkte wiederholt/vertieft: 
+Ionische Bindung: Strukturtypen, Radienquotienten, 
+Seite 23 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+Gitterenergie (inkl. Born-Haber-Kreisprozess) 
+Kovalente Bindung: Atombau (Quantenzahlen), MO-
+Theorie, Hybridisierung, VSEPR-Theorie 
+Metallische Bindung: Elektronengas, Bändertheorie 
+4. Qualifikationsziele des Moduls / zu  Grundlagen des sicheren und sauberen Arbeitens im 
+erwerbende Kompetenzen:  Labor, Anwendung chemischer Gleichgewichte, 
+Verständnis für die Chemie wässriger Lösungen, 
+Kompetenz zur Aufstellung von Reaktionsgleichungen 
+unter Berücksichtigung der Elektronenbilanz. 
+Nach Abschluss des Moduls ist der Absolvent in der 
+Lage, einfache Reaktionsgleichungen zu formulieren 
+und erkennt die Zusammenhänge von chemischem 
+Gleichgewicht und ablaufenden Reaktionen. Der 
+Studierende ist in der Lage, einfache theoretische 
+Zusammenhänge im Kontext praktischer 
+Problemstellungen anzuwenden. Er ist in der Lage, 
+einfache Glasapparaturen aufzubauen und erste 
+chemische Reaktionen nach Vorschrift durchzuführen. 
+Der Absolvent verfügt über ein grundlegendes 
+Verständnis für die Grenzfälle der chemischen Bindung 
+und deren Übergänge ineinander und die Anwendung 
+der Theorien auf einfache Beispiele. 
+Nach Abschluss des Moduls ist der Absolvent in der 
+Lage verschiedenen Substanzklassen Bindungstypen 
+zuzuordnen und ggf. Grenzfälle zu diskutieren. Der 
+räumliche Aufbau von einfachen Molekülen kann mit 
+Hilfe der VSEPR-Theorie beschrieben werden. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  Grundlagen der Chemie; Modul WiCH-BSc-CHE-M01 
+„Allgemeine Chemie“ 
+b) verpflichtende Nachweise:  Keine 
+6. Verwendbarkeit des Moduls:  BSc WiChem 
+7. Angebotsturnus des Moduls:  jährlich, im WS 
+8. Das Modul kann absolviert werden in:  2 Semester 
+9. Empfohlenes Fachsemester:  1./2. Fachsemester 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+     (Workload) / Anzahl Leistungspunkte: 
+Gesamt in Stunden: 360 (12 ECTS * 30 Std) 
+Seite 24 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+davon: 
+1. Präsenzzeit: 16 SWS 
+2. Selbststudium (inkl. Prüfung): 120 Std. 
+ 
+Leistungspunkte: 12 
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+Nr  P / WP  Lehrform  Themenbereich/Thema  SWS  LP  Studienleistungen 
+/ Std. 
+1  P  Praktikum mit  Praktikum Chemie wässr.  5+2  4 
+Anwesenheitspflicht 
+Seminar  Lösungen – AC-Teil I  
+2  P  Praktikum mit  Praktikum Chemie wässr.  4+2  4  Anwesenheitspflicht 
+Seminar  Lösungen – AC-Teil II  
+3  P  Vorlesung mit  Grundlagen der  3  4   
+Übung  Anorganischen Chemie für 
+Wirtschaftschemiker 
+13. Modulprüfung: 
+Art der Prüfung  Dauer  Zeitpunkt /  Anteil an 
+Nr  Kompetenz / Thema 
+Bemerkungen  Modulnote 
+1  Grundlagen der  Klausur  1 h  am Ende der  0 % 
+Anorganischen Chemie  oder  oder  Vorlesungszeit des SS 
+für Wirtschaftschemiker  mündliche  20 min 
+Prüfung 
+14. Bemerkungen:  
+Zugangsvoraussetzung für den Praktikumskurs „Chemie wässriger Lösungen – AC-Teil II“ ist das 
+erfolgreich absolvierte Praktikum „Chemie wässriger Lösungen – AC-Teil I“. 
+Die Modulprüfung kann zweimal wiederholt werden. Wird die Modulprüfung im Drittversuch nicht 
+bestanden, so ist die Bachelorprüfung gemäß § 28, Abs. 3 der PO BSc Wirtschaftschemie endgültig nicht 
+bestanden. 
+Seite 25 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+WiCH-BSc-CHE-M03 Anorganische Chemie II 
+1. Name des Moduls:  Anorganische Chemie II 
+2. Fachgebiet / Verantwortlich:  Chemie: Prof. Dr. R. Wolf 
+3. Inhalte des Moduls:  Anorganische Stoffchemie: Vorkommen, Strukturen, 
+Eigenschaften und Herstellung der Elemente; wichtige 
+binäre Verbindungen der Elemente, technische 
+Verfahren der anorganischen Grundstoffindustrie. 
+Eigenschaften der Übergangsmetalle, Abgrenzung 
+gegenüber Hauptgruppenmetallen; Begrifflichkeit der 
+Koordinationschemie, Einführung in die Nomenklatur 
+von Komplexen, Koordinationszahl und 
+Koordinationsgeometrie, Modelle zur Beschreibung der 
+geometrischen und elektronischen Struktur von 
+Übergangsmetallkomplexen, Isomerie in Komplexen; 
+gruppenweise Diskussion von Vorkommen, 
+Gewinnung, Strukturen und Eigenschaften der 
+wichtigsten Verbindungen der Übergangsmetalle; 
+Cluster und Metall-Metall-Mehrfachbindungen 
+4. Qualifikationsziele des Moduls / zu  Die Studierenden haben einen Überblick über die 
+erwerbende Kompetenzen:  Chemie der Elemente gewonnen. Sie können aus der 
+Stellung des Elements im Periodensystem Formeltypen 
+für einfache anorganische Verbindungen ableiten. 
+Die Sonderstellung der Übergangsmetalle im 
+Periodensystem und die elektronische Grundlagen sind 
+verstanden. Einfache theoretische Modelle zur 
+Ableitung der räumlichen und elektronischen Struktur 
+von Übergangsmetallkomplexen können angewendet 
+werden.  
+Die Studierenden können das erworbene 
+exemplarische Wissen nutzen, um ihnen unbekannte 
+anorganischer Verbindungen sowie Metallkomplexe 
+einzuordnen. Auf der Basis der Struktur können die 
+Studierenden sinnvolle Vorschläge zu den 
+Eigenschaften dieser Verbindungen und Komplexe 
+sowie zur Reaktivität machen. Für die Synthese 
+einfacher binärer anorganischer Verbindungen können 
+die Studierenden verschiedene Routen vorschlagen 
+und bewerten. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  Keine 
+b) verpflichtende Nachweise:  Keine 
+6. Verwendbarkeit des Moduls:  BSc WiChem 
+Seite 26 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+7. Angebotsturnus des Moduls:  jährlich, im SS 
+8. Das Modul kann absolviert werden in:  2 Semester 
+9. Empfohlenes Fachsemester:  4. + 5. Fachsemester 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+     (Workload) / Anzahl Leistungspunkte: 
+Gesamt in Stunden: 240 (8 ECTS * 30 Std) 
+davon: 
+1. Präsenzzeit: 6 SWS 
+2. Selbststudium (inkl. Prüfung): 150 Std. 
+ 
+Leistungspunkte: 8 
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+Nr  P / WP  Lehrform  Themenbereich/Thema  SWS  LP  Studienleistungen 
+/ Std. 
+1  P  Vorlesung  AC Nebengruppen  2  3   
+2  P  Vorlesung  AC Komplexe  1  1   
+3  P  Vorlesung  AC Hauptgruppen  3  4   
+ 
+13. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der Prüfung  Dauer  Zeitpunkt /  Anteil an 
+Bemerkungen  Modulnote 
+1  AC Nebengruppen  Klausur  1 h  am Ende der  30 % 
+Vorlesungszeit des SS 
+2  AC Hauptgruppen und  Klausur  2 h  am Ende der  70 % 
+AC Komplexe  Vorlesungszeit des 
+WS 
+Seite 27 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+14. Bemerkungen:  
+Die Moduteillprüfungen können je zweimal wiederholt werden. Werden eine oder beide 
+Modulprüfungen im Drittversuch nicht bestanden, so ist die Bachelorprüfung gemäß § 28, Abs. 3 der PO 
+BSc Wirtschaftschemie endgültig nicht bestanden. 
+Anstelle der beiden Einzelklausuren kann auch eine dreistündige Gesamtklausur gestellt werden. 
+  
+   
+Seite 28 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+WiCH-BSc-CHE-M04 Organische Chemie I 
+1. Name des Moduls:  Organische Chemie I  
+2. Fachgebiet / Verantwortlich:  Chemie: Prof. Dr. B. König 
+3. Inhalte des Moduls:  Prinzipien der OC: Struktur und Bindung, funktionelle 
+Gruppen, Stereoisomerie, Delokalisation, Mesomerie, 
+Katalyse. Zusammenhang zwischen organischer 
+Stoffklasse, charakteristischer funktioneller Gruppe und 
+deren Reaktivität: Alkane/Radikalische Substitution, 
+Alkene/Elektrophile Addition, 
+Halogenalkane/Nucleophile Substitution, 
+Aromaten/Elektrophile Substitution, 
+Carbonylverbindungen/Nucleophile Acylsubstitution 
+und Addition, Oxidationen/Reduktionen. Einführung in 
+die Bioorganische Chemie: Kohlenhydrate, 
+Proteine/Enzyme/Coenzyme, Nucleinsäuren. 
+4. Qualifikationsziele des Moduls / zu  Bezogen auf das Element Kohlenstoff kennen und 
+erwerbende Kompetenzen:  verstehen die Studierenden die organischen 
+Stoffgruppen und ihre spezifischen Eigenschaften, die 
+jeweiligen funktionellen Gruppen und deren 
+grundlegenden Reaktionsmechanismen und 
+Einflussparameter, die Prinzipien der Stereoisomerie 
+und Stereoselektivität, und außerdem bioorganische 
+Stoffgruppen und deren Bedeutung in der chemischen 
+Biologie. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  Keine 
+b) verpflichtende Nachweise:  Keine 
+6. Verwendbarkeit des Moduls:  BSc WiChem 
+7. Angebotsturnus des Moduls:  jährlich, im SS 
+8. Das Modul kann absolviert werden in:  1 Semester 
+9. Empfohlenes Fachsemester:  2. Fachsemester 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+     (Workload) / Anzahl Leistungspunkte: 
+Gesamt in Stunden: 180 (6 ECTS * 30 Std) 
+davon: 
+1. Präsenzzeit: 5 SWS 
+2. Selbststudium (inkl. Prüfung): 105 Std. 
+Seite 29 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+ 
+Leistungspunkte: 6 
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+Nr  P / WP  Lehrform  Themenbereich/Thema  SWS  LP  Studienleistungen 
+/ Std. 
+1  P  Vorlesung mit  Organische Chemie  4+1  6   
+Seminar  Grundvorlesung 
+13. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der Prüfung  Dauer  Zeitpunkt /  Anteil an 
+Bemerkungen  Modulnote 
+1  Organische Chemie  Klausur  2 h  am Ende der  100% 
+Grundvorlesung  Vorlesungszeit des SS 
+14. Bemerkungen:  
+Die Modulprüfung kann zweimal wiederholt werden. Wird die Modulprüfung im Drittversuch nicht 
+bestanden, so ist die Bachelorprüfung gemäß § 28, Abs. 3 der PO BSc Wirtschaftschemie endgültig nicht 
+bestanden. 
+  
+   
+Seite 30 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+WiCH-BSc-CHE-M05 Organische Chemie II 
+1. Name des Moduls:  Organische Chemie II  
+2. Fachgebiet / Verantwortlich:  Chemie: Prof. Dr. B. König 
+3. Inhalte des Moduls:  Vertiefung und Verbreiterung der organischen 
+Reaktionsmechanismen. Neue Reaktionsmechanismen: 
+Umlagerungen, Cycloadditionen, perizyklische 
+Reaktionen. Präparativ wichtige Reaktionen in Theorie. 
+Prinzip stereoselektiver Synthesen. Planung einfacher 
+mehrstufiger Synthese. 
+4. Qualifikationsziele des Moduls / zu  Nach Beendigung dieses Moduls sind Studierende in 
+erwerbende Kompetenzen:  der Lage,  
+•  die Rolle von funktionellen Gruppen in 
+Reaktionsmechanismen zu deuten und für die 
+Vorhersage von Reaktivitäten zu nutzen  
+•  den Einfluss physikalischer/chemischer 
+Variation der Reaktionsbedingungen auf 
+Reaktionsmechanismen zu analysieren  
+•  die Prinzipien von Selektivität (Chemo-, Regio-, 
+Stereo-) zu unterscheiden und für die 
+Beschreibung von Reaktionsmechanismen 
+anzuwenden. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  Keine 
+b) verpflichtende Nachweise:  Keine 
+6. Verwendbarkeit des Moduls:  BSc WiChem 
+7. Angebotsturnus des Moduls:  jährlich, im WS 
+8. Das Modul kann absolviert werden in:  1 Semester 
+9. Empfohlenes Fachsemester:  3. Fachsemester 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+     (Workload) / Anzahl Leistungspunkte: 
+Gesamt in Stunden: 150 (5 ECTS * 30 Std) 
+davon: 
+1. Präsenzzeit: 3 SWS 
+2. Selbststudium (inkl. Prüfung): 95 Std. 
+ 
+Seite 31 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+Leistungspunkte: 5 
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+Nr  P / WP  Lehrform  Themenbereich/Thema  SWS  LP  Studienleistungen 
+/ Std. 
+1  P  Vorlesung  Organische Chemie -  3  5   
+Reaktionsmechanismen 
+13. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der Prüfung  Dauer  Zeitpunkt /  Anteil an 
+Bemerkungen  Modulnote 
+1  Organische Chemie  Klausur  2 h  am Ende der  100% 
+Reaktionsmechanismen  Vorlesungszeit des 
+WS 
+14. Bemerkungen:  
+Die Modulprüfung kann zweimal wiederholt werden. Wird die Modulprüfung im Drittversuch nicht 
+bestanden, so ist die Bachelorprüfung gemäß § 28, Abs. 3 der PO BSc Wirtschaftschemie endgültig nicht 
+bestanden. 
+  
+   
+Seite 32 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+WiCH-BSc-CHE-M06 Organische Chemie III 
+1. Name des Moduls:  Organische Chemie III  
+2. Fachgebiet / Verantwortlich:  Chemie/Prof. Dr. O. Reiser 
+3. Inhalte des Moduls:  Vorlesung Spektroskopische Methoden für 
+Wirtschaftschemiker: Grundlagen der Spektroskopie, 
+Wechselwirkung Materie mit elektromagnetischer 
+Strahlung; UV/VIS-Spektroskopie mit Photometrie; 
+Schwingungs-spektroskopie; Grundlagen der 
+Fluoreszenz-spektroskopie; Theorie ein-dimensionaler 
+1H- und 13C-NMR-Spektroskopie; Strukturanalyse 
+mittels NMR-Spektroskopie, Grundlagen der 
+Massenspektrometrie; Übungen zur Strukturaufklärung 
+organischer Verbindungen mit spektroskopischen 
+Methoden. 
+ 
+Grundpraktikum Organische Chemie: Synthese 
+organischer Moleküle geringer bis mittlerer 
+Komplexität. Systematisches Erlernen von 
+grundlegenden Laboratoriumsmethoden und 
+Arbeitstechniken, wie Sublimation, Destillation, 
+Extraktion oder Chromatographie. Planung von 
+Experimenten nach Fachvorschriften. Sicherer Umgang 
+und fachgerechte Entsorgung von Gefahrstoffen. 
+Analytische Verfolgung des Reaktionsfortschritts durch 
+einfache Techniken und Charakterisierung von 
+Reaktionsprodukten durch Standardanalysetechniken, 
+wie Schmelzpunkt- und Brechungsindexbestimmung, 
+IR- und NMR-Spektroskopie 
+4. Qualifikationsziele des Moduls / zu  Nach Abschluss des Moduls ist der Studierende in der 
+erwerbende Kompetenzen:  Lage, organische Synthesen nach Fachanleitungen 
+selbstständig zu planen und sicher durchzuführen. 
+Dazu werden grundlegende Laboratoriums- und 
+Analysetechniken, sowie der Umgang und die sichere 
+Entsorgung von Gefahrstoffen beherrscht und 
+angewandt. Reaktionsprodukte können durch 
+Standardverfahren analysiert werden. 
+Der Studierende kennt die Anwendungsbereiche der 
+verschiedenen spektroskopischen Methoden und kann 
+sie zur Problemlösung gezielt auswählen und 
+einsetzen. Der Studierende beherrscht die 
+theoretischen Grundlagen der verschiedenen 
+Techniken, um eine kritische Analyse spektroskopischer 
+Daten durchzuführen.  
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:   
+Seite 33 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+b) verpflichtende Nachweise:  WiCH-BSc-CHE-M05 
+6. Verwendbarkeit des Moduls:  BSc WiChem 
+7. Angebotsturnus des Moduls:  jährlich, im SS 
+8. Das Modul kann absolviert werden in:  1 Semester 
+9. Empfohlenes Fachsemester:  4. Fachsemester 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+     (Workload) / Anzahl Leistungspunkte: 
+Gesamt in Stunden: 360 (12 ECTS * 30 Std) 
+davon: 
+1. Präsenzzeit: 16 SWS 
+2. Selbststudium (inkl. Prüfung): 120 Std. 
+ 
+Leistungspunkte: 12 
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+Nr  P / WP  Lehrform  Themenbereich/Thema  SWS /  LP  Studienleistungen 
+Std. 
+Spektroskopische Methoden 
+1  P  Vorlesung  2  3   
+für Wirtschaftschemiker 
+2  P  Praktikum mit  Organisches Grundpraktikum  12+2  9  Anwesenheitspflicht 
+Seminar 
+13. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der Prüfung  Dauer  Zeitpunkt /  Anteil an Modulnote 
+Bemerkungen 
+1  Spektroskopische  Klausur  2 h  am Ende der  100 % 
+Methoden für  oder  oder  Vorlesungszeit 
+Wirtschaftschemiker  mündliche  30 min  des SS 
+Prüfung 
+Seite 34 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+14. Bemerkungen:  
+Die Modulprüfung kann zweimal wiederholt werden. Wird die Modulprüfung im Drittversuch nicht 
+bestanden, so ist die Bachelorprüfung gemäß § 28, Abs. 3 der PO BSc Wirtschaftschemie endgültig nicht 
+bestanden. 
+  
+   
+Seite 35 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+WiCH-BSc-CHE-M07 Physikalische Chemie I 
+1. Name des Moduls:  Physikalische Chemie I  
+2. Fachgebiet / Verantwortlich:  Chemie: Prof. Dr. W. Kunz 
+3. Inhalte des Moduls:  Vorlesung Physikalische Chemie für 
+Wirtschaftschemiker: Einführung in die 
+phänomenologische und statistische Thermodynamik, 
+Boltzmann Verteilung, statistische Interpretation der 
+Entropie. Zustandsfunktionen, die Hauptsätze der 
+Thermodynamik, Gibbs Energie, Phasengleichgewichte, 
+Dampfdruck- und Siedediagramme, Kreisprozesse, 
+Massenwirkungsgesetz, Einführung in die Kinetik, 
+Optimierung der Produktion durch kinetische 
+Umsatzanalyse. 
+Vorlesung Elektrochemie: Nernstsche Gleichung und 
+elektrochemische Spannungsreihe, Elektroden und 
+Elektrodenprozesse; Pourbaix-Diagramme, technische 
+Anwendungen.. 
+Transporteigenschaften: elektrische Leitfähigkeit, 
+Diffusion, Viskosität. Einführung in die Debye-Hückel-
+Theorie 
+4. Qualifikationsziele des Moduls / zu  Grundlegendes Verständnis der Begriffe Energie, 
+erwerbende Kompetenzen:  Entropie, Arbeit und Wärme. Fähigkeit zur 
+eigenständigen Berechnung von chemischen 
+Gleichgewichtszuständen und von einfachen 
+Reaktionsabläufen unter verschiedensten 
+Bedingungen. Fähigkeit, thermodynamische Daten in 
+der Literatur zu finden, je nach Bedarf zu verknüpfen 
+und umzurechnen. Verständnis des Zusammenhangs 
+von molekularen und makroskopischen Eigenschaften 
+der Materie. Verständnis von grundlegenden 
+Transporteigenschaften und der Energetik von 
+Reaktionsprozessen.  
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  WiCH-BSc-M01 und M02, WiCH-BSc-CHE-M01 
+b) verpflichtende Nachweise:  Keine 
+6. Verwendbarkeit des Moduls:  BSc WiChem 
+7. Angebotsturnus des Moduls:  jährlich, im SS 
+Seite 36 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+8. Das Modul kann absolviert werden in:  2 Semester 
+9. Empfohlenes Fachsemester:  4./5. Fachsemester 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+     (Workload) / Anzahl Leistungspunkte: 
+Gesamt in Stunden: 210 (7 ECTS * 30 Std) 
+davon: 
+1. Präsenzzeit: 6 SWS 
+2. Selbststudium (inkl. Prüfung): 120 Std. 
+ 
+Leistungspunkte: 7 
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+Nr  P / WP  Lehrform  Themenbereich/Thema  SWS  LP  Studienleistungen 
+/ Std. 
+1  P  Vorlesung mit  Physikalische Chemie für  4  4   
+Übung  Wirtschaftschemiker 
+2  P  Vorlesung mit  Elektrochemie  2  3   
+Übung 
+13. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der Prüfung  Dauer  Zeitpunkt /  Anteil an 
+Bemerkungen  Modulnote 
+1  Physikalische Chemie  Klausur  2 h  am Ende der  70 % 
+für Wirtschaftschemiker  oder   oder  Vorlesungszeit des SS 
+mündliche  30 min 
+Prüfung 
+2  Elektrochemie  Klausur  1 h  am Ende der  30 % 
+Vorlesungszeit des 
+WS 
+14. Bemerkungen:  
+Seite 37 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+Die Modulprüfungen können je zweimal wiederholt werden. Werden eine oder beide Modulprüfungen 
+im Drittversuch nicht bestanden, so ist die Bachelorprüfung gemäß § 28, Abs. 3 der PO BSc 
+Wirtschaftschemie endgültig nicht bestanden. 
+Anstelle der beiden Teilprüfungen kann auch eine dreistündige Gesamtklausur gestellt werden. 
+  
+   
+Seite 38 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+WiCH-BSc-CHE-M08 Physikalische Chemie II 
+1. Name des Moduls:  Physikalische Chemie II  
+2. Fachgebiet / Verantwortlich:  Chemie: Prof. Dr. W. Kunz 
+3. Inhalte des Moduls:  Praktikum Physikalische Chemie: 
+Die im Theoriemodul (Physikalische Chemie I) 
+erarbeiteten Grundlagen werden in diesem Modul im 
+Praktikum vertieft, die Versuche erfordern eine 
+Quervernetzung der erlernten Begriffe: Bestimmung 
+eines Siedediagramms eines binären Gemisches, des 
+p(V)- Diagrammes eines realen Gases, des 
+Dampfdruckes einer reinen Komponente und der 
+Wärrmetönung von chemischen Reakionen 
+(Kalorimetrie) als Beispiele thermodynamischer 
+Eigenschaften. Dazu aus der Elektrochemie: die 
+Bestimmung des Ladungstransports in elektrolytischen 
+Ketten, der Leitfähigkeit von Elektrolytlösungen und 
+der elektromotorischen Kraft sowie der Bau einer 
+einfachen Brennstoffzelle. Dazu noch die 
+viskosimetrische Bestimmung der Molekülmasse von 
+Polyvinylalkohol und aus der Kinetik die Bestimmung 
+der Geschwindigkeitskonstanten und der 
+Aktivierungsenergie einer Reaktion pseudo-erster 
+Ordnung (Rohrzuckerinversion). Aus der Spektroskopie: 
+die Bestimmung elektronischer Übergänge in Atomen 
+und Molekülen und eine Einführung in die Infrarot-
+Absorption. 
+Vorlesung Technische Chemie: Die Vorlesung beginnt 
+mit einem allgemeinen Überblick über die chemische 
+Industrie, grundlegende großtechnische Verfahren, 
+Produkte und Up-Scaling. Sowohl ökonomische wie 
+ökologische Fragestellungen werden angesprochen. Es 
+folgt die Anwendung klassischer physikalisch-
+chemischer Konzepte wie Thermodynamik, Kinetik, 
+Wärme- und Stofftransport auf die Konzeption 
+großtechnischer Verfahren. Das folgende Kapitel 
+behandelt Typen und grundlegende Eigenschaften von 
+chemischen Reaktoren. Danach folgt eine detaillierte 
+Diskussion thermischer Trennverfahren, vor allem 
+Destillation, Rektifikation, Absorption, Extraktion und 
+Adsorption. Nach einer kurzen Vorstellung der 
+Kriterien für eine optimale Verfahrensauswahl werden 
+Seite 39 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+die erdölbasierten Grundchemikalien, ihre Gewinnung 
+in Raffinerien und deren Weiterverarbeitung 
+besprochen. Daran schließt sich eine detaillierte 
+Vorstellung von großtechnisch wichtigen Polymeren 
+(Kunststoffe und funktionale, meist lösliche Polymere) 
+an. Schließlich wird eine Reihe von technisch und 
+wirtschaftlich wichtigen Feinchemikalien besprochen, 
+unter besonderer Berücksichtigung von Tensiden und 
+Emulgatoren. Die Vorlesung endet mit einer Diskussion 
+nachhaltiger Rohstoffe und deren derzeitiger und 
+zukünftiger Bedeutung für die chemische Industrie. 
+4. Qualifikationsziele des Moduls / zu  Praktikum Physikalische Chemie I: Die Studenten lernen 
+erwerbende Kompetenzen:  an Hand von ausgewählten Experimenten die 
+Grundlagen der chemischen Thermodynamik, der 
+chemischen Kinetik, der Elektrochemie und der Chemie 
+von Grenzflächen kennen. Sie lernen ferner, 
+makroskopische und mikroskopische Parameter einer 
+kondensierten Phase in Beziehung zu setzen. Alle 
+Versuche erfordern eine detaillierte Fehlerrechnung. 
+Die Versuchsaufbauten sind transparent und offen 
+gestaltet. 
+ 
+Vorlesung: Technische Chemie: Verständnis für die 
+Sprache des Chemie-Ingenieurs und für die 
+Herausforderungen der Chemie im industriellen 
+Maßstab. Verständnis für Upscaling und Unterschiede 
+zwischen Labor- und industriellen Synthesen. 
+Verständnis für die praktische Bedeutung von 
+Thermodynamik und Kinetik in der Großchemie. 
+Begreifen der Chemie als Teil der Gesellschaft und der 
+Verantwortung des Chemikers für Mensch und 
+Umwelt sowie Verständnis für damit verbundene 
+ökonomische und ökologische Fragestellungen. 
+Fähigkeit, das Verständnis der einzelnen 
+angesprochenen Punkte zumindest exemplarisch auf 
+gegebene Problemstellungen und auch 
+fächerübergreifendanzuwenden. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  WiCH-BSc-M01 und M02, WiCH-BSc-CHE-M01 
+Seite 40 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+b) verpflichtende Nachweise:  Keine 
+6. Verwendbarkeit des Moduls:  BSc WiChem 
+7. Angebotsturnus des Moduls:  jährlich, im WS 
+8. Das Modul kann absolviert werden in:  2 Semester 
+9. Empfohlenes Fachsemester:  5./6. Fachsemester 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+     (Workload) / Anzahl Leistungspunkte: 
+Gesamt in Stunden: 210 (7 ECTS * 30 Std) 
+davon: 
+1. Präsenzzeit: 6 SWS 
+2. Selbststudium (inkl. Prüfung): 120 Std. 
+ 
+Leistungspunkte: 7 
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+Nr  P / WP  Lehrform  Themenbereich/Thema  SWS  LP  Studienleistungen 
+/ Std. 
+1  P  Praktikum  Physikalische Chemie  3  4  Anwesenheitspflicht 
+2  P  Vorlesung  Technische Chemie  3  3   
+13. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der Prüfung  Dauer  Zeitpunkt /  Anteil an 
+Bemerkungen  Modulnote 
+1  Technische Chemie  Klausur  2 h  am Ende der  100% 
+Vorlesungszeit des SS 
+14. Bemerkungen:  
+Die Modulprüfung kann zweimal wiederholt werden. Wird die Modulprüfung im Drittversuch nicht 
+bestanden, so ist die Bachelorprüfung gemäß § 28, Abs. 3 der PO BSc Wirtschaftschemie endgültig nicht 
+Seite 41 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+bestanden. 
+  
+   
+Seite 42 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+WiCH-BSc-CHE-M09 Analytische Chemie  
+1. Name des Moduls:  Analytische Chemie 
+2. Fachgebiet / Verantwortlich:  Chemie: Prof. Dr. A. Bäumner 
+3. Inhalte des Moduls:  Vorlesung Analytische Chemie: Probenvorbereitung; 
+analytische Strategien, Photometrie, chromogene 
+Reaktionen und Komplexierungen, Markierung und 
+Derivatisierung, chromatographische Methoden, 
+Radioanalytik, Potentiometrie, Amperometrie, 
+Massenspektrometrie, gekoppelte analytische 
+Verfahren, Atomabsorption und -emission; 
+Elektrophorese, Laborautomation, Datenbewertung 
+und Statistik, analytischer Gesamtprozess. 
+Praktikum Analytische Chemie: Photometrische 
+Analyse, Fluoreszenzanalyse, Atomspektroskopie, 
+Kinetisch-enzymatischer Versuch, Probenvorbereitung, 
+β- und γ-Spektrometrie, Amperometrie, 
+Coulombmetrie, GC, HPLC, Laborautomatisation 
+4. Qualifikationsziele des Moduls / zu  Nach Abschluss des Moduls ist der Student in der 
+erwerbende Kompetenzen:  Lage, analytisch-chemische Messungen selbständig 
+und präzise auszuführen. Er kennt alle wichtigen 
+Methoden der (instrumentellen) analytischen Chemie, 
+vor allem in Hinblick auf die Konzentrations- bzw. 
+Struktur- (= Konstitutions-) analytik, kann potenzielle 
+Fehlerquellen identifizieren und Messergebnisse 
+hinsichtlich Richtigkeit und Genauigkeit beurteilen. Er 
+kennt die Vor- und Nachteile bestimmter Methoden, 
+kann deren Anwendbarkeit auf spezifische Probleme – 
+auch aus Kostengesichtspunkten – abschätzen. Er ist in 
+der Lage, die Ergebnisse zu diskutieren und sie in klarer 
+Form schriftlich oder mündlich zu präsentieren. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  WiCH-BSc-M03 und M04 
+b) verpflichtende Nachweise:  Keine 
+6. Verwendbarkeit des Moduls:  BSc WiChem 
+7. Angebotsturnus des Moduls:  jährlich, im WS 
+8. Das Modul kann absolviert werden in:  1 Semester 
+Seite 43 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+9. Empfohlenes Fachsemester:  3. Fachsemester 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+     (Workload) / Anzahl Leistungspunkte: 
+Gesamt in Stunden: 210 (7 ECTS * 30 Std) 
+davon: 
+1. Präsenzzeit: 7 SWS 
+2. Selbststudium (inkl. Prüfung): 105 Std. 
+ 
+Leistungspunkte: 7 
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+Nr  P / WP  Lehrform  Themenbereich/Thema  SWS  LP  Studienleistungen 
+/ Std. 
+1  P  Vorlesung  Analytische Chemie  3  4   
+2  P  Praktikum  Analytische Chemie  4  3  Anwesenheitspflicht 
+13. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der Prüfung  Dauer  Zeitpunkt /  Anteil an 
+Bemerkungen  Modulnote 
+1  Analytische Chemie  Klausur  2 h  am Ende der  100% 
+Vorlesungszeit des 
+WS 
+14. Bemerkungen:  
+Die Modulprüfung kann zweimal wiederholt werden. Wird die Modulprüfung im Drittversuch nicht 
+bestanden, so ist die Bachelorprüfung gemäß § 28, Abs. 3, derPO BSc Wirtschaftschemie endgültig nicht 
+bestanden. 
+  
+   
+Seite 44 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+WiCH-BSc-CHE-M10 Biochemie 
+1. Name des Moduls:  Biochemie  
+2. Fachgebiet / Verantwortlich:  Chemie: Prof. Dr. J. Wegener 
+3. Inhalte des Moduls:  • Aufbau und Strukturen lebender Zellen 
+• Struktur/Chemie der Aminosäuren und Peptide; 
+Proteinfaltung; Proteinfunktion; Enzyme und 
+Enzymkinetik; Proteinabbau;   
+• Struktur/Chemie der Mono-, Oligo- und 
+Polysaccharide;  
+• Struktur/Chemie der Nukleotide/DNA/RNA; 
+molekularbiologische Elementarprozesse; 
+• Struktur/Chemie der Lipide;  
+ 
+4. Qualifikationsziele des Moduls / zu  Die Studierenden sind nach Abschluss des Moduls in 
+erwerbende Kompetenzen:  der Lage 
+• Die wichtigsten Zellbestandteile und ihre Funktionen 
+zu benennen;  
+• Die wichtigsten Eigenschaften der biologisch 
+relevanten Moleküle (Lipide, Proteine, 
+Kohlenhydrate, Nukleinsäuren) und der von ihnen 
+aufgebauten Strukturen zu benennen und zu 
+differenzieren; 
+• Die Kinetik von Enzymreaktionen zu analysieren. 
+• grundlegende molekularbiol. Prozesse zu 
+beschreiben, ihre Bedeutung und Fehlfunktion für 
+einen Organismus zu analysieren; 
+ 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  Grundlagen der Organischen Chemie; Schulkenntnisse 
+zum Zellaufbau 
+b) verpflichtende Nachweise:  Keine 
+6. Verwendbarkeit des Moduls:  BSc WiChem 
+7. Angebotsturnus des Moduls:  jährlich, im SS 
+8. Das Modul kann absolviert werden in:  1 Semester 
+9. Empfohlenes Fachsemester:  6. Fachsemester 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+     (Workload) / Anzahl Leistungspunkte: 
+Gesamt in Stunden: 120 (4 ECTS * 30 Std) 
+Seite 45 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+davon: 
+1. Präsenzzeit: 3 SWS 
+2. Selbststudium (inkl. Prüfung): 75 Std. 
+ 
+Leistungspunkte: 4 
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+Nr  P / WP  Lehrform  Themenbereich/Thema  SWS  LP  Studienleistungen 
+/ Std. 
+1  P  Vorlesung  Biochemie  3  4   
+13. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der Prüfung  Dauer  Zeitpunkt /  Anteil an 
+Bemerkungen  Modulnote 
+1  Biochemie  Klausur  2 h  am Ende der  100% 
+Vorlesungszeit des SS 
+14. Bemerkungen:  
+Die Modulprüfung kann zweimal wiederholt werden. Wird die Modulprüfung im Drittversuch nicht 
+bestanden, so ist die Bachelorprüfung gemäß § 28, Abs. 3 der PO BSc Wirtschaftschemie endgültig nicht 
+bestanden. 
+  
+   
+Seite 46 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+Fachwissenschaftlicher PFLICHTBEREICH im Fach WIRTSCHAFT:  
+Alle Module müssen belegt werden. 
+WiCH-BSc-Wi-M01 Grundlagen der Wirtschaftsinformatik 
+1. Name Modul / Modulgruppe:  Grundlagen der Wirtschaftsinformatik / Allgemeine 
+Grundlagen 
+2. Fachgebiet / Verantwortlich:  Dr. Norbert S. Meckl 
+3. Inhalte des Moduls:  Grundlagen der Wirtschaftsinformatik: Begriffe, 
+Aufgaben, Ziele und Modelle; Umgang mit 
+Anwendungsprogrammen; Themen: 
+Geschäftsprozesse, Informationssysteme und 
+überbetrieblicher Datenaustausch. 
+•  Der Begriff der Wirtschaftsinformatik;  
+•  Der Produktionsfaktor Information 
+•  Geschäftsprozesse und 
+Geschäftsprozessmodellierung 
+•  Rechnergestützte Arbeitsplätze und 
+Systemsoftware 
+•  Datenorganisation im Unternehmen 
+•  Projektmanagement im 
+Softwareentwicklungsprozess 
+•  Büroinformationssysteme, 
+Informationsmanagement und betriebliche 
+Kommunikationsmodelle 
+•  Betriebliche Informations- und 
+Anwendungssysteme 
+•  Überbetrieblicher Datenaustausch (EDI) im Supply 
+Chain Management 
+4. Qualifikationsziele des Moduls / zu  Die Studierenden erhalten einen Überblick über 
+erwerbende Kompetenzen:  Theorien und Methoden der Wirtschaftsinformatik. Sie 
+können Geschäftsprozessmodelle und Datenmodelle / 
+Datenbanksysteme erfassen und erstellen. Die Übung 
+vertieft die Inhalte der Vorlesung an Beispielen. Die 
+Übungen am Computer versetzt die Studierenden in 
+die Lage, mit folgenden Anwendungsprogrammen und 
+Werkzeugen umzugehen: 
+•  Betriebssysteme: Einführung in das Datennetz und 
+die Betriebssysteme an der UR 
+•  Textverarbeitung: Arbeiten mit Dokumenten, 
+Layout, Formate, Dokument- und Formatvorlagen 
+•  Tabellenkalkulation: Einsatz von 
+Seite 47 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+Kalkulationswerkzeugen im 
+betriebswirtschaftlichen Umfeld 
+•  Präsentation: Moderne Werkzeuge zur Gestaltung 
+von wissenschaftlichen Vorträgen 
+•  Geschäftsprozessmodelle mit ARIS Toolset 
+•  Datenbanken: Organisation von 
+Datenbankmanagementsystemen (Access, mysql) 
+•  Projektmanagement mit MS Project 
+•  Grafik: Formate, Kompressionsverfahren, 
+Werkzeuge zur Bearbeitung von Grafiken und 
+Photos 
+•  Webauftritt: Sprachen und Anwendungen im 
+Internet, Hilfsmittel und Werkzeuge zur 
+Darstellung im Netz 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  Keine 
+b) verpflichtende Nachweise:  Keine 
+6. Verwendbarkeit des Moduls:  B.Sc. BWL, B.Sc. VWL 
+BSc WiChem 
+7. Angebotsturnus des Moduls:  2-semestrig (Sommersemester) 
+8. Das Modul kann absolviert werden in:  1 Semester 
+9. Empfohlenes Fachsemester:  2. Fachsemester 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+     (Workload) / Anzahl Leistungspunkte: 
+Gesamt in Stunden: 180 (6 ECTS * 30 Std) 
+davon: 
+1. Präsenzzeit: 4 SWS 
+2. Selbststudium (inkl. Prüfung): 120 Std. 
+ 
+Leistungspunkte: 6 
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+Seite 48 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+12. Modulbestandteile: 
+Nr  P / WP  Lehrform  Themenbereich/Thema  SWS  LP  Studienleistungen 
+/ Std. 
+1  P  Vorlesung  Grundlagen der  2  4   
+Wirtschaftsinformatik 
+2  P  Übung  Grundlagen der  1  1   
+Wirtschaftsinformatik 
+3  P  Übung vor  Workshops zu Grundlagen  1  1   
+dem Rechner  der Wirtschaftsinformatik 
+13. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der  Dauer  Zeitpunkt /  Anteil an 
+Prüfung  Bemerkungen  Kursnote 
+1  Grundlagen der  Klausur  90  Prüfungszeitraum:  100% 
+Wirtschaftsinformatik 
+erste bis vierte Woche 
+nach Vorlesungsende 
+14. Bemerkungen:  
+Die Modulprüfung kann einmal wiederholt werden. Weitere Informationen zur Wiederholbarkeit: PO BSc 
+Wirtschaftschemie §25 Abs. 2 
+ 
+   
+Seite 49 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+WiCh-BSc-Wi-M02 Grundzüge des Privatrechts 
+1. Name Modul / Modulgruppe:  Grundzüge des Privatrechts / Allgemeine Grundlagen 
+Recht: Dr. Gril 
+2. Fachgebiet / Verantwortlich: 
+1. Grundzüge der ersten drei Bücher des BGB ( = 
+3. Inhalte des Moduls: 
+Allgemeiner Teil; Recht der Schuldverhältnisse; 
+Sachenrecht) 
+2. Grundzüge des Handels- und Gesellschaftsrechts 
+Vermittelt werden diejenigen systematischen 
+4. Qualifikationsziele des Moduls / zu 
+Kenntnisse über Rechtsbegriffe und 
+erwerbende Kompetenzen: 
+Normzusammenhänge, die erforderlich sind, um 
+rechtliche Probleme erkennen und im 
+Gedankenaustausch mit Juristen lösen zu können. Um 
+die Anwendung und Wirkungsweise von 
+Rechtsnormen zu verstehen, wird die juristische 
+Argumentationstechnik anhand zahlreicher 
+Fallbeispiele ausführlich geübt. 
+ 
+5. Teilnahmevoraussetzungen:  keine 
+ 
+a) empfohlene Kenntnisse: 
+ 
+b) verpflichtende Nachweise: 
+6. Verwendbarkeit des Moduls:  BSc WiChem 
+7. Angebotsturnus des Moduls:  Jedes Semester 
+8. Das Modul kann absolviert werden in:  1 Semester 
+9. Empfohlenes Fachsemester:  5. Semester 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+     (Workload) / Anzahl Leistungspunkte: 
+Gesamt in Stunden: 180 (6 ECTS*30 Stunden) 
+davon: 
+1. Präsenzzeit: 4 SWS 
+2. Selbststudium (inkl. Prüfung): 120 Std. 
+(2/3*Gesamtzeit) 
+ 
+Seite 50 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+Leistungspunkte: 6 
+ 
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+P / WP 
+Nr  Lehrform  Themenbereich/Thema  SWS  LP  Studienleistungen 
+/ Std. 
+1  Pflicht  Vorlesung Privatrecht  4  6   
++ Übung 
+13. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der  Dauer  Zeitpunkt /  Anteil an 
+Prüfung  Bemerkungen  Modulnote 
+1  Privatrecht  Klausur  120 Minuten  Am Ende des WS  100 % 
+14. Bemerkungen:  
+Die Modulprüfung kann einmal wiederholt werden. Weitere Informationen zur Wiederholbarkeit: PO BSc 
+Wirtschaftschemie §25 Abs. 2 
+ 
+   
+Seite 51 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+WiCh-BSc-Wi-M03 Mikroökonomie I 
+1. Name Modul / Modulgruppe:  Mikroökonomie I / Allgemeine Grundlagen 
+Prof. Dr. Wolfgang Buchholz 
+2. Fachgebiet / Verantwortlich: 
+Grundbegriffe: Gewinn- und Nutzenmaximierung, 
+3. Inhalte des Moduls: 
+Produzenten- und Konsumentenrente; das 
+vollkommene Konkurrenzmarktgleichgewicht, 
+Marktversagen und Wirkungen staatlicher 
+Eingriffe; Unvollkommene Konkurrenz: Monopol 
+und Oligopol, Mengen- und Preiswettbewerb; 
+Grundlagen  der nicht-kooperativen Spieltheorie: 
+Normalformdarstellung, Spieltypen und 
+sequentielle Spiele. 
+Nach Abschluss des Moduls können die 
+4. Qualifikationsziele des Moduls / zu 
+Studierenden das Verhalten von Marktteilnehmern 
+erwerbende Kompetenzen: 
+theoretisch beschreiben und die Ergebnisse von 
+Marktallokationen unter 
+Wohlfahrtsgesichtspunkten einzuschätzen. 
+Darüber hinaus sind die Studierenden nach 
+Abschluss des Moduls mit der Grundlagen der 
+strategischen Interaktion (zwischen Firmen im 
+Rahmen der Oligopoltheorie und Spielern im 
+Rahmen der  allgemeinen Spieltheorie) vertraut. In 
+der begleitenden Übung vertiefen die 
+Studierenden die Inhalte der Vorlesung und 
+wenden diese eigenständig auf  Fragestellungen 
+aus der Mikroökonomie an. 
+ 
+5. Teilnahmevoraussetzungen: 
+Grundlagen der Differential- und Integralrechnung 
+a) empfohlene Kenntnisse: 
+Keine 
+b) verpflichtende Nachweise: 
+BSc VWL, IVWL und BWL Phase 1 
+6. Verwendbarkeit des Moduls: 
+Modul Grundlagen der VWL, BSc WiChem 
+2-semestrig (Wintersemester) 
+7. Angebotsturnus des Moduls: 
+1 Semester 
+8. Das Modul kann absolviert werden in: 
+1 
+9. Empfohlenes Fachsemester: 
+Seite 52 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+     (Workload) / Anzahl Leistungspunkte: 
+Gesamt in Stunden: 180 
+davon: 
+1. Präsenzzeit: 60 SWS 
+2. Selbststudium (inkl. Prüfung): 120 Std. 
+ 
+Leistungspunkte: 6 
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+Nr  P / WP  Lehrform  Themenbereich/Thema  SWS /  LP  Studienleistungen 
+Std. 
+1  P  Vorlesung,  Mikroökonomie I  4  6   
+Übung 
+13. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der  Dauer  Zeitpunkt /  Anteil an 
+Prüfung  Bemerkungen  Kursnote 
+1  Mikroökonomie I  Klausur  60 Minuten  Erste bis vierte  100% 
+Woche nach 
+Semesterende 
+14. Bemerkungen:  
+Die Modulprüfung kann einmal wiederholt werden. Weitere Informationen zur Wiederholbarkeit: PO BSc 
+Wirtschaftschemie §25 Abs. 2 
+ 
+   
+Seite 53 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+WiCh-BSc-Wi-M04 Buchhaltung 
+1. Name Modul / Modulgruppe:  Buchhaltung / Grundlagen der BWL 
+2. Fachgebiet / Verantwortlich:  Dr. Daniel Blab 
+3. Inhalte des Moduls:  •  Aufbau und Funktionsweise des betrieblichen 
+Rechnungswesens 
+•  Rechtliche Grundlagen 
+•  Inventur und Inventar 
+•  Organisation der Bücher 
+•  Kontensystematik 
+•  Buchungstechnik anhand verschiedener, 
+betrieblicher Sachverhalte 
+•  Vorbereitung des Jahresabschlusses 
+4. Qualifikationsziele des Moduls / zu  Nach dem erfolgreichen Abschluss des Moduls 
+erwerbende Kompetenzen:  haben die Studierenden grundlegende Kenntnisse 
+des betrieblichen Rechnungswesens, insbesondere 
+der Buchhaltung, erfahren. Sie sind in der Lage, 
+unterschiedliche betriebliche Sachverhalte auf den 
+entsprechenden Konten zu verbuchen. Die 
+Studierenden können die Auswirkungen der 
+erfassten Sachverhalte auf die Vermögens-, Finanz- 
+und Ertragslage eines Unternehmens einschätzen. 
+Außerdem wissen sie, wie auf Basis der 
+Buchhaltung grundsätzlich ein Jahresabschluss zu 
+erstellen ist.  
+ 
+5. Teilnahmevoraussetzungen: 
+a) empfohlene Kenntnisse:  Keine 
+b) verpflichtende Nachweise:  Keine 
+6. Verwendbarkeit des Moduls:  BSc BWL, Phase 1 – Pflichtmodul: Grundlagen der 
+BWL 
+BSc VWL/IVWL, Phase 1 – Pflichtmodul: 
+Grundlagen der BWL 
+BSc WI, Phase 1- Pflichtmodul: Allgemeine 
+Grundlagen (Wahlpflicht) 
+BSc WiChem (Pflicht) 
+7. Angebotsturnus des Moduls:  2-semestrig (Wintersemester) 
+8. Das Modul kann absolviert werden in:  1 Semester 
+9. Empfohlenes Fachsemester:  3 od. 5  
+Seite 54 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+     (Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: 180 (6 ECTS*30 Stunden) 
+davon: 
+1. Präsenzzeit: 4 SWS 
+2. Selbststudium (inkl. Prüfung): 120 Std. 
+ 
+Leistungspunkte: 6 
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+Nr  P / WP  Lehrform  Themenbereich/Thema  SWS  LP  Studienleistungen 
+/ Std. 
+1  Pflicht  Vorlesung  Buchhaltung  4  6   
+Übung 
+13. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der  Dauer  Zeitpunkt /  Anteil an 
+Prüfung  Bemerkungen  Kursnote 
+1  Buchhaltung  Klausur  90 Minuten  Prüfungszeitraum:  100 % 
+erste bis vierte 
+Woche nach 
+Vorlesungsende  
+14. Bemerkungen:  
+Die Modulprüfung kann einmal wiederholt werden. Weitere Informationen zur Wiederholbarkeit: PO BSc 
+Wirtschaftschemie §25 Abs. 2 
+   
+Seite 55 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+WiCh-BSc-Wi-M05 Investition 
+Investition / Grundlagen der BWL 
+1. Name Modul / Modulgruppe: 
+Prof. Dr. Steffen Sebastian 
+2. Fachgebiet / Verantwortlich: 
+- Zinsmodelle 
+3. Inhalte des Moduls: 
+- Bewertung von Zahlungsströmen 
+- Rentenrechnung 
+- Tilgungsrechnung 
+- Optimale Nutzungsdauer 
+- Renditerechnung 
+- Unsicherheitsaufdeckende Verfahren 
+- Entscheidung unter Risiko 
+- Statische Investitionsrechnung 
+4. Qualifikationsziele des Moduls / zu  Die Studierenden sind nach Abschluss des Moduls 
+erwerbende Kompetenzen:  in der Lage, die wesentlichen Verfahren der 
+Investitionsrechnung anzuwenden. Hierzu zählen 
+insbesondere die dynamischen Verfahren Barwert-, 
+End- und Kapitalwertberechnung, interner Zinsfuß, 
+vollständige Finanzpläne (VOFI), Renten- und 
+Annuitätenrechnungen sowie 
+unsicherheitsaufdeckende Verfahren, insbesondere 
+Sensitivitätsanalyse. Ein wesentliches Lernziel ist 
+dabei ein Verständnis von Möglichkeiten und 
+Grenzen des Einsatzes dieser Verfahren.  
+ 
+5. Teilnahmevoraussetzungen: 
+Keine 
+a) empfohlene Kenntnisse: 
+Keine 
+b) verpflichtende Nachweise: 
+BSc BWL, VWL, WINFO Phase 1, Modul 
+6. Verwendbarkeit des Moduls: 
+„Grundlagen der Betriebswirtschaftslehre“ 
+BSc WiChem 
+2-semestrig (Wintersemester) 
+7. Angebotsturnus des Moduls: 
+Seite 56 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+1 Semester 
+8. Das Modul kann absolviert werden in: 
+1 (BWL), 3 (VWL), 1 (WINFO), 3 (WiChem) 
+9. Empfohlenes Fachsemester: 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+     (Workload) / Anzahl Leistungspunkte: 
+Gesamt in Stunden: 180 (6 ECTS*30Stunden) 
+davon: 
+1. Präsenzzeit: 4 SWS 
+2. Selbststudium (inkl. Prüfung): 120 Std. 
+ 
+Leistungspunkte: 6 
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+Nr  P / WP  Lehrform  Themenbereich/Thema  SWS /  LP  Studienleistungen 
+Std. 
+1  Pflicht  Vorlesung  Investition  4  6   
+Übung 
+13. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der  Dauer  Zeitpunkt /  Anteil an 
+Prüfung  Bemerkungen  Kursnote 
+  Investition  Klausur  90 Minuten  Prüfungszeitraum:  100% 
+erste bis vierte 
+Woche nach 
+Vorlesungsende 
+14. Bemerkungen:  
+Die Modulprüfung kann einmal wiederholt werden. Weitere Informationen zur Wiederholbarkeit: PO BSc 
+Wirtschaftschemie §25 Abs. 2 
+ 
+Seite 57 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+   
+Seite 58 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+WiCh-BSc-Wi-M06 Finanzierung 
+Finanzierung / Grundlagen der BWL 
+1. Name Modul / Modulgruppe: 
+Prof. Dr. Gregor Dorfleitner 
+2. Fachgebiet / Verantwortlich: 
+3. Inhalte des Moduls:  Grundlagen der Finanzwirtschaft 
+Modelle in der Finanzwirtschaft 
+Elementare Finanzmathematik 
+Investitionsrechnung 
+Finanzierung 
+Finanzinstitutionen 
+Derivative Wertpapiere 
+Nach erfolgreicher Beendigung dieses Moduls 
+4. Qualifikationsziele des Moduls / zu 
+können die Studierenden die Grundbegriffe der 
+erwerbende Kompetenzen: 
+Finanzierung, insbesondere die verschiedenen 
+Finanzierungsformen, benennen und definieren. 
+Sie können  die wesentlichen theoretischen 
+Konzepte der Finanzierungslehre wie das 
+Kapitalwertprinzip wiedergeben. 
+Sie können den Kapitalwert berechnen und 
+verschiedene Finanzinstrumente in einfachen 
+Anwendungssituationen bewerten. 
+Die Studierenden können finanzwirtschaftliche 
+Basisprobleme der Betriebswirtschaft in stilisierter 
+Form lösen, also die wesentlichen betriebs-
+wirtschaftlichen Entscheidungen in den Teil-
+bereichen wie Investition und Finanzierung vor-
+nehmen. Dazu gehören etwa Entscheidungen für 
+oder gegen die Durchführung möglicher Projekte. 
+ 
+5. Teilnahmevoraussetzungen: 
+keine 
+a) empfohlene Kenntnisse: 
+keine 
+b) verpflichtende Nachweise: 
+6. Verwendbarkeit des Moduls:  Grundlagen der Betriebswirtschaftslehre (BSc 
+BWL, BSc VWL, BSc IVWL) 
+BSc WiChem 
+2-semestrig (Wintersemester) 
+7. Angebotsturnus des Moduls: 
+Seite 59 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+1 Semester 
+8. Das Modul kann absolviert werden in: 
+ 1  
+9. Empfohlenes Fachsemester: 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+     (Workload) / Anzahl Leistungspunkte: 
+Gesamt in Stunden: 180 (6 ECTS*30 Stunden) 
+davon: 
+1. Präsenzzeit: 4 SWS 
+2. Selbststudium (inkl. Prüfung): 120 Std. 
+(2/3*Gesamtzeit) 
+ 
+Leistungspunkte: 6 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+Nr  P / WP  Lehrform  Themenbereich/Thema  SWS  LP  Studienleistungen 
+/ 
+Std. 
+1  P  Vorlesung  Finanzierung  4  6   
+Übung 
+13. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der  Dauer  Zeitpunkt /  Anteil an 
+Prüfung  Bemerkungen  Kursnote 
+1  Finanzierung  Klausur  90 Minuten    100% 
+14. Bemerkungen:  
+Die Modulprüfung kann einmal wiederholt werden. Weitere Informationen zur Wiederholbarkeit: PO BSc 
+Wirtschaftschemie §25 Abs. 2 
+   
+Seite 60 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+WAHLPFLICHTBEREICH – LEVEL 1 im Fach WIRTSCHAFT:  
+Einer der beiden Wahlpflichtbereiche (BWL 1 / BWL 2)muss gewählt werden. 
+BWL 1 
+WiCh-BSc-Wi-M07 Organisationslehre 
+Organisationslehre / Wahlpflichtmodulgruppe BWL 
+1. Name Modul / Modulgruppe: 
+1 
+Prof. Dr. Thomas Steger 
+2. Fachgebiet / Verantwortlich: 
+Diese Grundlagenveranstaltung vermittelt den 
+3. Inhalte des Moduls: 
+Studierenden einen Einstieg und Überblick über 
+die moderne Organisation bzw. die 
+Organisationslehre. Zu Beginn werden wichtige, 
+grundlegende Organisationstheorien behandelt. 
+Danach wird die Organisation im weiteren 
+Umweltkontext betrachtet und ihre wesentlichen 
+Bausteine (Struktur, Kultur, Strategie) eingehend 
+erörtert. Abschließend geht die Veranstaltung auf 
+zwei weiterführende Herausforderungen ein – den 
+organisatorischen Wandel sowie die 
+Internationalisierung der Organisation. 
+Nach Abschluss des Moduls können Studierende 
+4. Qualifikationsziele des Moduls / zu 
+grundlegende Organisationstheorien erläutern 
+erwerbende Kompetenzen: 
+sowie Aufgaben und Aufbau von Organisationen 
+skizzieren. Darauf aufbauend sollen sie in der Lage 
+sein, Organisationen kritisch zu analysieren, 
+Probleme zu identifizieren und Gestaltungs-
+empfehlungen für konkrete Problemstellungen 
+(z.B. Struktur- und Strategieentwicklung) zu 
+entwickeln. 
+ 
+5. Teilnahmevoraussetzungen: 
+keine 
+a) empfohlene Kenntnisse: 
+keine 
+b) verpflichtende Nachweise: 
+BSc BWL, Phase 2, Modul „Pflichtmodul-BWL“ 
+6. Verwendbarkeit des Moduls: 
+BSc WiChem (Wahlpflicht, Level1) 
+2-semestrig (Sommersemester) 
+7. Angebotsturnus des Moduls: 
+1 Semester 
+8. Das Modul kann absolviert werden in: 
+Seite 61 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+4 
+9. Empfohlenes Fachsemester: 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+     (Workload) / Anzahl Leistungspunkte: 
+Gesamt in Stunden: 120 (4 ECTS*30 Stunden) 
+davon: 
+1. Präsenzzeit: 2 SWS 
+2. Selbststudium (inkl. Prüfung): 90 Std. 
+ 
+Leistungspunkte: 4 
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+Nr  P / WP  Lehrform  Themenbereich/Thema  SWS /  LP  Studienleistungen 
+Std. 
+1  P  Vorlesung  Organisationslehre  2  4  -- 
+13. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der  Dauer  Zeitpunkt /  Anteil an 
+Prüfung  Bemerkungen  Kursnote 
+1  Organisationslehre  Klausur  60 Min.  Prüfungszeitraum:  100% 
+erste bis vierte 
+Woche nach 
+Vorlesungsende 
+14. Bemerkungen:  
+Die Modulprüfung kann einmal wiederholt werden. Weitere Informationen zur Wiederholbarkeit: PO BSc 
+Wirtschaftschemie §25 Abs. 3 
+ 
+   
+Seite 62 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+WiCh-BSc-Wi-M08 Leistungserstellung 
+Leistungserstellung / Wahlpflichtmodulgruppe BWL 1 
+1. Name Modul / Modulgruppe: 
+Prof. Dr. Andreas Otto 
+2. Fachgebiet / Verantwortlich: 
+Nach einer grundlegenden Einführung in die Aufgaben 
+3. Inhalte des Moduls: 
+des Produktionsmanagements behandelt die 
+Vorlesung zunächst die Bedingungen für den 
+effizienten Einsatz der Produktionsfaktoren Material, 
+Betriebsmittel und menschliche Arbeit. Insbesondere 
+geht es dabei um Fragen der Materialbeschaffung und 
+-bereitstellung, Lagerhaltung, Fertigungsorganisation, 
+Arbeitsgestaltung und –entlohnung. Daran schließt 
+sich eine Darstellung der in der Praxis vorherrschenden 
+Produktionsplanungs- und –steuerungssysteme an. Im 
+Vordergrund stehen Konzepte der Prognoserechnung, 
+Produktionsprogrammplanung, Materialbedarfs-
+planung, Termin- und Kapazitätsplanung, Produktions-
+steuerung (Reihenfolgeplanung) und neuere Systeme 
+wie Kanban oder Just-in-Time-Produktion. 
+Die Studierenden sollen Entscheidungsprobleme der 
+4. Qualifikationsziele des Moduls / zu 
+betrieblichen Leistungserstellung, d.h. des 
+erwerbende Kompetenzen: 
+Produktionsmanagements, insbesondere der 
+Produktionsplanung und –steuerung kennen lernen 
+sowie mit theoretisch geeigneten und praktisch 
+erprobten Lösungskonzepten vertraut gemacht 
+werden. 
+ 
+5. Teilnahmevoraussetzungen: 
+a) empfohlene Kenntnisse:  Mathematische Grundlagen aus WiCH-BSc-M01 und 
+M02 
+Keine 
+b) verpflichtende Nachweise: 
+BSc BWL, Phase 2, Pflichtmodul 
+6. Verwendbarkeit des Moduls: 
+BSc WiChem (Wahlplicht, Level 1) 
+2-semestrig (Wintersemester) 
+7. Angebotsturnus des Moduls: 
+1 Semester 
+8. Das Modul kann absolviert werden 
+in: 
+3 
+9. Empfohlenes Fachsemester: 
+Seite 63 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+     (Workload) / Anzahl 
+Gesamt in Stunden: 180 (6 ECTS * 30 Stunden) 
+Leistungspunkte: 
+davon: 
+1. Präsenzzeit:4 SWS 
+2. Selbststudium (inkl. Prüfung):120 Std. 
+ 
+Leistungspunkte: 6 
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+Nr  P / WP  Lehrform  Themenbereich/Thema  SWS  LP  Studienleistungen 
+/ Std. 
+  Pflicht  Vorlesung/ Leistungserstellung  4  6   
+Übung 
+13. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der  Dauer  Zeitpunkt /  Anteil an 
+Prüfung  Bemerkungen  Kursnote 
+1  Leistungserstellung  Klausur  60 Minuten  Prüfungszeitraum  100 % 
+erste bis vierte 
+Woche nach 
+Vorlesungsende 
+14. Bemerkungen:  
+Die Modulprüfung kann einmal wiederholt werden. Weitere Informationen zur Wiederholbarkeit: PO BSc 
+Wirtschaftschemie §25 Abs. 3 
+ 
+   
+Seite 64 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+WiCh-BSc-Wi-M09 Grundlagen des Marketings 
+1. Name Modul / Modulgruppe:  Grundlagen des Marketings / Wahlpflichtmodulgruppe 
+BWL 1 
+2. Fachgebiet / Verantwortlich:  Prof. Dr. Roland Helm 
+3. Inhalte des Moduls:  1.  Grundsätze marktorientierter Unternehmenspolitik  
+2.   Rationale Informationsverarbeitung und Ableitung 
+von Entscheidungen  
+3.   Gesetzmäßigkeiten des Käuferverhaltens 
+Marketing-Mix I: Leistungsgestaltung 
+4.   Produkt- und Innovationspolitik 
+5.   Preispolitik 
+Marketing-Mix II: Leistungsvermittlung 
+6.   Distributionspolitik 
+7.   Kommunikationspolitik 
+8.   Besonderheiten ausgewählter institutioneller 
+Bereiche des Marketing 
+4. Qualifikationsziele des Moduls / zu  Überblick über die Grundlagen marktorientierter 
+erwerbende Kompetenzen:  Unternehmensplanung, Entscheidungsrechnung, 
+Käuferverhalten und der klassischen Marketing-
+Instrumente, um Marketing-Entscheidungen im 
+Unternehmen zu verstehen. 
+Die Studierenden können nach Abschluss des Moduls 
+kleinere Problemstellungen selbstständig lösen. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  Keine 
+b) verpflichtende Nachweise:  Keine 
+6. Verwendbarkeit des Moduls:  BSc BWL, Phase 1, Modul „Grundlagen der 
+Betriebswirtschaftslehre“ 
+BSc WiChem (Wahlpflicht, Level 1) 
+7. Angebotsturnus des Moduls:  2-semestrig (Wintersemester) 
+Seite 65 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+8. Das Modul kann absolviert werden in:  1 Semester 
+9. Empfohlenes Fachsemester:  3 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+     (Workload) / Anzahl Leistungspunkte: 
+Gesamt in Stunden:   180 
+davon: 
+1. Präsenzzeit:  4 SWS 
+2. Selbststudium (inkl. Prüfung):   120 Std. 
+ 
+Leistungspunkte: 6 
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+Nr  P / WP  Lehrform  Themenbereich/Thema  SWS  LP  Studienleistungen 
+/ Std. 
+1  Pflicht  Vorlesung  Grundlagen des Marketing  4  6   
+Übung 
+13. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der  Dauer  Zeitpunkt /  Anteil an 
+Prüfung  Bemerkungen  Kursnote 
+1  Grundlagen des  Klausur  60 Minuten  Prüfungszeitraum:  100 % 
+Marketing  erste bis vierte Woche 
+nach Vorlesungsende 
+14. Bemerkungen:  
+Die Modulprüfung kann einmal wiederholt werden. Weitere Informationen zur Wiederholbarkeit: PO BSc 
+Wirtschaftschemie §25 Abs. 3 
+ 
+   
+Seite 66 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+WiCh-BSc-Wi-M10 Kosten und Leistungsrechnung 
+1. Name Modul / Modulgruppe:  Kosten- und Leistungsrechnung / 
+Wahlpflichtmodulgruppe BWL 1 
+2. Fachgebiet / Verantwortlich:  Dr. Daniel Blab 
+3. Inhalte des Moduls:  •  Grundlagen der Kosten- und Leistungsrechnung 
+•  Aufbau und Systeme der Kosten- und 
+Leistungsrechnung 
+•  Kostenartenrechnung 
+•  Kostenstellenrechnung 
+•  Kostenträgerrechnung 
+•  Kostenanalyse 
+4. Qualifikationsziele des Moduls / zu  Nach dem erfolgreichen Abschluss des Moduls sind 
+erwerbende Kompetenzen:  die Studierenden in der Lage, die Aufgaben und 
+Möglichkeiten der Kosten- und Leistungsrechnung 
+im betrieblichen Rechnungswesen richtig 
+einzuordnen. Die Studierenden kennen die 
+Unterschiede zwischen der Kostenarten-, 
+Kostenstellen- und Kostenträgerrechnung und 
+deren Aussagekraft. Außerdem können die 
+Studierenden die Kostenrechnung für Planungs- 
+und Kontrollzwecke einsetzen und auswerten. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  Modul WiCh-BSc-Wi-M04 Buchhaltung 
+b) verpflichtende Nachweise:  Keine 
+6. Verwendbarkeit des Moduls:  BSc BWL, Phase 1 – Pflichtmodul: Grundlagen der 
+BWL 
+BSc WI, Phase 1- Pflichtmodul: Allgemeine 
+Grundlagen (Wahlpflicht) 
+BSc WiChem (Wahlpflicht, Level 1) 
+7. Angebotsturnus des Moduls:  2-semestrig (Sommersemester) 
+8. Das Modul kann absolviert werden in:  1 Semester 
+9. Empfohlenes Fachsemester:  6 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+     (Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: 180 (6 ECTS*30 Stunden) 
+davon: 
+1. Präsenzzeit: 4 SWS 
+Seite 67 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+2. Selbststudium (inkl. Prüfung): 120 Std. 
+ 
+Leistungspunkte: 6 
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+Nr  P / WP  Lehrform  Themenbereich/Thema  SWS  LP  Studienleistungen 
+/ Std. 
+1  Pflicht  Vorlesung  Kosten- und  4  6   
+Übung  Leistungsrechnung 
+13. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der  Dauer  Zeitpunkt /  Anteil an 
+Prüfung  Bemerkungen  Kursnote 
+1  Kosten- und  Klausur  90 Minuten  Prüfungszeitraum:  100 % 
+Leistungsrechnung 
+erste bis vierte 
+Woche nach 
+Vorlesungsende  
+14. Bemerkungen:  
+Die Modulprüfung kann einmal wiederholt werden. Weitere Informationen zur Wiederholbarkeit: PO BSc 
+Wirtschaftschemie §25 Abs. 3 
+   
+Seite 68 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+BWL 2 
+WiCh-BSc-Wi-M11 Externe Unternehmensberichterstattung I 
+1. Name Modul / Modulgruppe:  Externe Unternehmensberichterstattung I / 
+Wahlpflichtmodulgruppe BWL 2 
+2. Fachgebiet / Verantwortlich:  Prof. Dr. Axel Haller 
+3. Inhalte des Moduls:  Im Rahmen des Moduls werden den Studierenden 
+im Wesentlichen die Grundlagen des Jahres-
+abschlusses nach deutschem Handelsrecht (HGB) 
+vermittelt. Zentrale Inhalte sind: 
+•  Ziele der externen Unternehmensrechnung 
+•  Aufbau des Jahresabschlusses und Lageberichts 
+•  Regeln zu Bilanzansatz, -ausweis 
+und -bewertung 
+•  Wahlrechte bei der Bilanzierung 
+•  Grundlagen des steuerrechtlichen Abschlusses 
+•  Prüfungs- und Publizitätspflichten von 
+Unternehmen 
+•  Grundzüge der Konzernrechnungslegung 
+•  Grundzüge der internationalen 
+Rechnungslegung 
+4. Qualifikationsziele des Moduls / zu  Nach dem erfolgreichen Abschluss des Moduls sind 
+erwerbende Kompetenzen:  die Studierenden in der Lage, Geschäftsvorfälle zu 
+bilanzieren, deren Auswirkungen auf die Bilanz, die 
+Gewinn- und Verlustrechnung, den Anhang und 
+den Lagebericht zu beurteilen und sachverhalts-
+gestaltende Maßnahmen im Rahmen der 
+Bilanzpolitik vorzuschlagen. Ergänzend haben die 
+Studierenden Kenntnisse über die Grundlagen der 
+Konzernberichterstattung und Vorschriften zu 
+Publizität und Prüfung von Jahresabschlüssen 
+erworben. Des Weiteren können die Studierenden  
+die Notwendigkeit der Internationalisierung der 
+Rechnungslegung (International Financial 
+Reporting Standards, IFRS) abschätzen, da sie 
+Einblicke in deren momentane Ausgestaltung in 
+Grundzügen erhalten haben. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  Modul WiCh-BSc-Wi-M04Buchhaltung 
+b) verpflichtende Nachweise:  Keine 
+Seite 69 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+6. Verwendbarkeit des Moduls:  BSc BWL, Phase 1 – Pflichtmodul: Grundlagen der 
+BWL 
+BSc VWL/IVWL, Phase 1 – Pflichtmodul: 
+Grundlagen der BWL 
+BSc WI, Phase 1- Pflichtmodul: Allgemeine 
+Grundlagen (Wahlpflicht) 
+BSc WiChem (Wahlpflicht, Level 1) 
+7. Angebotsturnus des Moduls:  2-semestrig (Sommersemester) 
+8. Das Modul kann absolviert werden in:  1 Semester 
+9. Empfohlenes Fachsemester:  4  
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+     (Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: 180 (6 ECTS*30 Stunden) 
+davon: 
+1. Präsenzzeit: 4 SWS 
+2. Selbststudium (inkl. Prüfung): 120 Std. 
+ 
+Leistungspunkte: 6 
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+Nr  P / WP  Lehrform  Themenbereich/Thema  SWS  LP  Studienleistungen 
+/ Std. 
+1  Pflicht  Vorlesung  Externe Unternehmens- 4  6   
+Übung  berichterstattung I 
+13. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der  Dauer  Zeitpunkt /  Anteil an 
+Prüfung  Bemerkungen  Kursnote 
+1  Externe  Klausur  90 Minuten  Prüfungszeitraum:  100 % 
+Unternehmens-
+erste bis vierte 
+berichterstattung I 
+Woche nach 
+Vorlesungsende  
+Seite 70 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+14. Bemerkungen: 
+Die Modulprüfung kann einmal wiederholt werden. Weitere Informationen zur Wiederholbarkeit: PO BSc 
+Wirtschaftschemie §25 Abs. 3 
+ 
+   
+Seite 71 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+WiCh-BSc-Wi-M12 Entscheidungslehre 
+Entscheidungslehre / Wahlpflichtmodulgruppe 
+1. Name Modul / Modulgruppe:  BWL 2 
+Prof. Dr. Klaus Röder 
+2. Fachgebiet / Verantwortlich: 
+•  Erkenntnisziele der Entscheidungstheorie 
+•  Grundmodell der Entscheidungstheorie 
+•  Entscheidungen bei Sicherheit 
+•  Entscheidungen bei Risiko 
+•  Entscheidungen bei Ungewissheit 
+3. Inhalte des Moduls:  •  Entscheidungen bei variabler Informations-
+struktur 
+•  Grundbegriffe der Spieltheorie 
+•  Entscheidung durch Entscheidungsgremien 
+•  Grundbegriffe der dynamischen 
+Programmierung 
+Nach erfolgreichem Abschluss des Moduls sind die 
+Studierenden in der Lage, Entscheidungsprobleme 
+zu strukturieren, Rationalitätsanforderungen an 
+Entscheidungsträger zu formulieren und die 
+klassischen Entscheidungsprinzipien anzuwenden. 
+4. Qualifikationsziele des Moduls / zu 
+Die Studierenden werden befähigt, betriebs- und 
+erwerbende Kompetenzen: 
+volkswirtschaftliche Probleme, die sich mit ein- 
+und mehrstufigen Individualentscheidungen 
+beschäftigen, zu analysieren und mittels der 
+angeeigneten Methoden selbstständig zu lösen. 
+ 
+5. Teilnahmevoraussetzungen: 
+Mathematik, Statistik I  
+a) empfohlene Kenntnisse: 
+Keine 
+b) verpflichtende Nachweise: 
+BSc BWL Phase 2, Modul „Pflichtmodule“ 
+6. Verwendbarkeit des Moduls: 
+BSc WiChem (Wahlpflicht, Level 1) 
+2-semestrig (Sommersemester) 
+7. Angebotsturnus des Moduls: 
+1 Semester 
+8. Das Modul kann absolviert werden in: 
+4 
+9. Empfohlenes Fachsemester: 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+     (Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: 120 (4 ECTS*30 Stunden) 
+Seite 72 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+davon: 
+1. Präsenzzeit: 2 SWS 
+2. Selbststudium (inkl. Prüfung): 90 Std.  
+ 
+Leistungspunkte: 4 
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+SWS / 
+Nr  P / WP  Lehrform  Themenbereich/Thema  LP  Studienleistungen 
+Std. 
+1  Pflicht  Vorlesung  Entscheidungslehre  2  4   
+13. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der  Zeitpunkt /  Anteil an 
+Dauer 
+Prüfung  Bemerkungen  Kursnote 
+Prüfungszeitraum: 
+1  Entscheidungslehre  Klausur  60 Minuten  erste bis vierte  100% 
+Woche nach 
+Vorlesungsende 
+14. Bemerkungen:  
+Die Modulprüfung kann einmal wiederholt werden. Weitere Informationen zur Wiederholbarkeit: PO BSc 
+Wirtschaftschemie §25 Abs. 3 
+ 
+ 
+   
+Seite 73 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+WiCh-BSc-Wi-M13 Steuerrechtliche Grundlagen 
+1. Name Modul / Modulgruppe:  Steuerrechtliche Grundlagen / 
+Wahlpflichtmodulgruppe BWL 2 
+2. Fachgebiet / Verantwortlich:  Prof. Dr. Meyer-Scharenberg 
+In der Vorlesung werden die steuerrechtlichen 
+3. Inhalte des Moduls: 
+Grundlagen der Einkommen-, 
+Körperschaft-, Gewerbe- und Umsatzsteuer vermittelt. 
+Des Weiteren werden grundlegende 
+Inhalte des Erbschaft- / Schenkungsteuergesetzes bzw. 
+des Grunderwerbsteuergesetzes 
+dargestellt. Einen weiteren Schwerpunkt der 
+Veranstaltung bilden die steuerlichen Auswirkungen 
+bei der Gründung und Beendigung von 
+Unternehmungen. 
+Unternehmerische Entscheidungen, die ohne Beachtung 
+4. Qualifikationsziele des Moduls / zu 
+ihrer steuerlichen Konsequenzen getroffen werden 
+erwerbende Kompetenzen: 
+können, sind eher selten. Deshalb sollen 
+hier Grundkenntnisse des Steuerrechts und der 
+betriebswirtschaftlichen Steuerlehre vermittelt 
+werden. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  keine 
+b) verpflichtende Nachweise:  keine 
+6. Verwendbarkeit des Moduls:  BSc. BWL, Pflichtmodul Betriebswirtschaftslehre 
+BSc WiChem (Wahlpflicht, Level 1) 
+7. Angebotsturnus des Moduls:  2-semestrig (Wintersemester) 
+8. Das Modul kann absolviert werden in:  1 Semester 
+9. Empfohlenes Fachsemester:  5 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+     (Workload) / Anzahl Leistungspunkte: 
+Gesamt in Stunden: 180 (6 ECTS*30 Stunden) 
+davon: 
+1. Präsenzzeit: 4 SWS 
+2. Selbststudium (inkl. Prüfung): 120 Std. 
+(2/3*Gesamtzeit) 
+Seite 74 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+ 
+Leistungspunkte: 6 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+Nr  P / WP  Lehrform  Themenbereich/Thema  SWS  LP  Studienleistungen 
+/ Std. 
+1  Pflicht  Vorlesung  Steuerrechtliche  4  6   
+Grundlagen 
+Übung 
+13. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der  Dauer  Zeitpunkt /  Anteil an 
+Prüfung  Bemerkungen  Kursnote 
+1  Steuerrechtliche  Klausur  90 Minuten  Prüfungszeitraum:  100 % 
+Grundlagen 
+erste bis vierte Woche 
+nach Vorlesungsende 
+14. Bemerkungen:  
+Die Modulprüfung kann einmal wiederholt werden. Weitere Informationen zur Wiederholbarkeit: PO BSc 
+Wirtschaftschemie §25 Abs. 3 
+ 
+   
+Seite 75 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+WiCh-BSc-Wi-M14 Statistik I 
+1. Name Modul / Modulgruppe:  Statistik I / Wahlpflichtmodulgruppe BWL 2 
+2. Fachgebiet / Verantwortlich:  Prof. Dr. Daniel Rösch 
+3. Inhalte des Moduls:  • Deskriptive Statistik 
+• Häufigkeitsverteilung eindimensionaler Merkmale 
+• Konzentrationsmessung 
+• Zweidimensionale Häufigkeitsverteilungen 
+• Korrelationsrechnung 
+• Wahrscheinlichkeitsrechnung 
+• Elementare Wahrscheinlichkeitsrechnung 
+• Eindimensionale Zufallsvariablen und ihre Verteilung 
+• Mehrdimensionale Zufallsvariablen 
+• Gesetz der großen Zahlen und Zentraler 
+Grenzwertsatz 
+4. Qualifikationsziele des Moduls / zu  Nach Abschluss des Moduls kennen die Studierenden 
+erwerbende Kompetenzen:  die wesentlichen Methoden der Deskriptiven Statistik 
+und können diese zur Darstellung und Beschreibung 
+von Daten anwenden und interpretieren. Darüber 
+hinaus sind sie entsprechend einer vorwiegend 
+problemorientierten Auffassung von angewandter 
+Statistik mit den Grundlagen der 
+Wahrscheinlichkeitsrechnung und theoretischer 
+Modelle, insbesondere mit ökonomischem Bezug, 
+vertraut. Die Übung vertieft die Inhalte der Vorlesung 
+an Beispielen und Fallstudien und versetzt die 
+Studierenden in die Lage, eigenständige statistische 
+Analysen zu betreiben. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  Keine 
+b) verpflichtende Nachweise:  keine 
+6. Verwendbarkeit des Moduls:  WiWi - BSc - Quantitative Grundlagen BWL/VWL/IVWL 
+WiWi - BSc - Quantitative Grundlagen WI 
+BSc WiChem (Wahlpflicht, Level 1) 
+7. Angebotsturnus des Moduls:  2-semestrig (Wintersemester) 
+Seite 76 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+8. Das Modul kann absolviert werden in:  1 Semester 
+9. Empfohlenes Fachsemester:  3  
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+     (Workload) / Anzahl Leistungspunkte: 
+Gesamt in Stunden: 180 (6 ECTS*30 Stunden) 
+davon: 
+1. Präsenzzeit: 4 SWS 
+2. Selbststudium (inkl. Prüfung):: 120 Std. 
+ 
+Leistungspunkte: 6 
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+Nr  P / WP  Lehrform  Themenbereich/Thema  SWS  LP  Studienleistungen 
+/ Std. 
+1  P  Vorlesung/  Statistik I   4  6   
+Übung 
+13. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der  Dauer  Zeitpunkt /  Anteil an 
+Prüfung  Bemerkungen  Kursnote 
+1  Statistik 1  Klausur  90 Minuten  Prüfungszeitraum:  100 % 
+erste bis vierte Woche 
+nach Vorlesungsende 
+14. Bemerkungen:  
+Die Modulprüfung kann einmal wiederholt werden. Weitere Informationen zur Wiederholbarkeit: PO BSc 
+Wirtschaftschemie §25 Abs. 3 
+ 
+   
+Seite 77 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+WAHLPFLICHTBEREICH – LEVEL 2 im Fach WIRTSCHAFT:  
+Wertschöpfungsmanagement 
+Es müssen drei Module ausgewählt werden. 
+WiCh-BSc-Wi-M15 Marketing-Planung 
+Marketing-Planung / Wahlpflichtmodulgruppe 
+1. Name Modul / Modulgruppe: 
+Wertschöpfungsmanagement 
+Prof. Dr. Harald Hruschka 
+2. Fachgebiet / Verantwortlich: 
+Marktabgrenzung; Gewinnung  und Analyse von 
+3. Inhalte des Moduls: 
+Informationen über Kunden und Wettbewerber  
+Klassische Marketing-Planung  (Produkt, Preis, 
+Werbung, Verkaufsförderung) 
+Customer-Relationship-Management 
+Nach Abschluss des Moduls können die 
+4. Qualifikationsziele des Moduls / zu 
+Studierenden die Planungsaufgaben, die 
+erwerbende Kompetenzen: 
+Produktmanager üblicherweise zu bewältigen 
+haben und die Methoden zur Lösung dieser  
+Aufgaben skizzieren, die  verschiedenen Methoden 
+zur Lösung von Planungsaufgaben wie auch zum 
+Erwerb und  zur Analyse von Informationen über 
+Kunden  und Konkurrenten kritisch anwenden  
+sowie auf Basis ihres Wissens eigenständige 
+Problemlösungsvorschläge skizzieren und 
+entwickeln.  
+ 
+5. Teilnahmevoraussetzungen: 
+Marketing Grundlagen 
+a) empfohlene Kenntnisse: 
+Keine 
+b) verpflichtende Nachweise: 
+BSc BWL Phase 2, Modul 
+6. Verwendbarkeit des Moduls: 
+„Wertschöpfungsmanagement“ 
+BSc WiChem (Wahlpflicht, Level 2) 
+2-semestrig (Sommersemester) 
+7. Angebotsturnus des Moduls: 
+1 Semester 
+8. Das Modul kann absolviert werden in: 
+6  
+9. Empfohlenes Fachsemester: 
+Seite 78 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+     (Workload) / Anzahl Leistungspunkte: 
+Gesamt in Stunden: 180 (6 ECTS*30 Stunden) 
+davon: 
+1. Präsenzzeit: 4 SWS 
+2. Selbststudium (inkl. Prüfung): 120 Std. 
+(2/3*Gesamtzeit) 
+ 
+Leistungspunkte: 6 
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+Nr  P / WP  Lehrform  Themenbereich/Thema  SWS  LP  Studienleistungen 
+/ Std. 
+1  Pflicht  Vorlesung  Marketing-Planung  4  6   
+Übung 
+13. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der  Dauer  Zeitpunkt /  Anteil an 
+Prüfung  Bemerkungen  Kursnote 
+1  Marketing-Planung  Klausur  60 Minuten  Prüfungszeitraum:  100% 
+erste bis vierte 
+Woche nach 
+Vorlesungsende 
+14. Bemerkungen:  
+Die Modulprüfung kann einmal wiederholt werden. Weitere Informationen zur Wiederholbarkeit: PO BSc 
+Wirtschaftschemie §25 Abs. 3 
+ 
+   
+Seite 79 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+WiCh-BSc-Wi-M16 Logistik 
+Logistik / Wahlpflichtmodulgruppe 
+1. Name Modul / Modulgruppe: 
+Wertschöpfungsmanagement 
+Prof. Dr. Andreas Otto 
+2. Fachgebiet / Verantwortlich: 
+Die Vorlesung besteht aus zwei Teilen. Zunächst 
+3. Inhalte des Moduls: 
+wird die Gestaltung der elementaren logistischen 
+Funktionen Transport, Umschlag und Lager 
+vermittelt. Dabei liegt der Schwerpunkt klar auf 
+den betriebswirtschaftlichen Problemen. 
+Technische Probleme werden nur am Rand 
+angesprochen. Der zweite Teil der Vorlesung 
+diskutiert die Rolle der Logistik als 
+Koordinationsinstanz innerhalb des Unternehmens, 
+innerhalb und zwischen den Funktionalbereichen.  
+Die Studierenden sollen Entscheidungsprobleme 
+4. Qualifikationsziele des Moduls / zu 
+der Unternehmenslogistik (Transport, Umschlag, 
+erwerbende Kompetenzen: 
+Lager, Beschaffungs-, Produktions- und 
+Distributionslogistik) kennen lernen sowie mit 
+qualitativen und quantitativen Lösungskonzepten 
+vertraut gemacht werden.  
+ 
+5. Teilnahmevoraussetzungen: 
+Keine 
+a) empfohlene Kenntnisse: 
+Keine 
+b) verpflichtende Nachweise: 
+BSc BWL, Phase 2, Schwerpunktmodul 
+6. Verwendbarkeit des Moduls: 
+Wertschöpfungsmanagement 
+BSc WiChem (Wahlpflicht, Level 2) 
+2-semestrig (Sommersemester) 
+7. Angebotsturnus des Moduls: 
+1 Semester 
+8. Das Modul kann absolviert werden in: 
+6  
+9. Empfohlenes Fachsemester: 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+     (Workload) / Anzahl Leistungspunkte: 
+Gesamt in Stunden: 180 (6 ECTS * 30 Stunden) 
+davon: 
+Seite 80 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+1. Präsenzzeit:4 SWS 
+2. Selbststudium (inkl. Prüfung):120 Std. 
+ 
+Leistungspunkte: 6  
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+Nr  P / WP  Lehrform  Themenbereich/Thema  SWS  LP  Studienleistungen 
+/ Std. 
+  Pflicht  Vorlesung/ Logistik  4  6   
+Übung 
+13. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der  Dauer  Zeitpunkt /  Anteil an 
+Prüfung  Bemerkungen  Kursnote 
+1  Logistik  Klausur  60 Minuten  Prüfungszeitraum  100 % 
+erste bis vierte 
+Woche nach 
+Vorlesungsende 
+14. Bemerkungen:  
+Die Modulprüfung kann einmal wiederholt werden. Weitere Informationen zur Wiederholbarkeit: PO BSc 
+Wirtschaftschemie §25 Abs. 3 
+ 
+   
+Seite 81 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+WiCh-BSc-Wi-M17 Internationales Management 
+Internationales Management / 
+1. Name Modul / Modulgruppe: 
+Wahlpflichtmodulgruppe 
+Wertschöpfungsmanagement 
+Prof. Dr. Michael Dowling 
+2. Fachgebiet / Verantwortlich: 
+In der Vorlesung werden folgende Inhalte 
+3. Inhalte des Moduls: 
+behandelt: 
+•  Einführung in den Themenkomplex 
+Internationales Management 
+•  Ökonomische, kulturelle, politische und 
+rechtliche Rahmenbedingungen 
+•  Auswahl von geeigneten internationalen 
+Unternehmensstrategien 
+•  Strategieimplementierung 
+•  Internationales Marketing 
+•  Weltweite Innovation 
+ 
+Die gesamte Veranstaltung wird in englischer 
+Sprache abgehalten. 
+Im Rahmen der Übung werden Case Studies 
+bearbeitet, die auf die Vorlesungsinhalte 
+abgestimmt sind. Hier erhalten die Studierenden 
+die Möglichkeit, interaktiv das Erlernte zu 
+diskutieren. 
+Ein weiteres Element der Veranstaltung ist ein 
+Gruppenprojekt. Hierzu werden die Studierenden 
+in Teams eingeteilt. Jede Gruppe hat eine 
+Fragestellung aus dem Themengebiet 
+Internationales Strategisches Management 
+eigenständig zu bearbeiten. Ziel ist es, eigene 
+Forschung zur Thematik zu betreiben und eine 
+Analyse mit Handlungsoptionen anzufertigen. 
+Die Teilnahme an der Vorlesung „Internationales 
+4. Qualifikationsziele des Moduls / zu 
+Management“ befähigt die Studierenden ihre 
+erwerbende Kompetenzen: 
+bereits erworbenen Kenntnisse über die Konzepte 
+und Techniken der Unternehmensführung auf die 
+Probleme von globalen Branchen und 
+multinationalen Unternehmen zu übertragen. Dazu 
+werden die entsprechenden Konzepte und 
+Seite 82 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+Techniken zusätzlich im Rahmen einer Übung 
+anhand von Fallstudien diskutiert und angewandt. 
+Die Studierenden werden dadurch in der Lage sein 
+insbesondere die Vor- und Nachteile kooperativer 
+Strategien und die Schwierigkeiten der 
+Implementierung von globalen Strategien, die 
+einerseits lokalen Märkten angepasst werden 
+müssen, andererseits globale Kostenvorteile 
+erreichen sollen, analysieren zu können. Ferner 
+werden Studierende die Fähigkeit zur 
+Koordinierung und Kontrolle von multinationalen 
+Unternehmen erwerben, was einen weiteren 
+Hauptgliederungspunkt dieser Veranstaltung 
+darstellt. 
+ 
+5. Teilnahmevoraussetzungen: 
+ 
+a) empfohlene Kenntnisse: 
+ 
+b) verpflichtende Nachweise: 
+WiWi - BSc - Schwerpunktmodul 
+6. Verwendbarkeit des Moduls: 
+Wertschöpfungsmanagement 
+BSc WiChem (Wahlpflicht, Level 2) 
+2-semestrig (Wintersemester) 
+7. Angebotsturnus des Moduls: 
+1 Semester 
+8. Das Modul kann absolviert werden in: 
+5 
+9. Empfohlenes Fachsemester: 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+     (Workload) / Anzahl Leistungspunkte: 
+Gesamt in Stunden: 180 (6 ECTS*30 Stunden) 
+davon: 
+1. Präsenzzeit: 45 Std. 
+2. Übungsaufgaben: 65 Std. 
+3. Nachbearbeitung: 35 Std. 
+4. Prüfungsvorbereitung: 35 Std. 
+ 
+Seite 83 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+Leistungspunkte: 6 
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+Nr  P / WP  Lehrform  Themenbereich/Thema  SWS /  LP  Studienleistungen 
+Std. 
+1  P  Vorlesung,  Internationales  4  6   
+Fallstudien,  Management 
+Gruppenprojekt 
+13. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der Prüfung  Dauer  Zeitpunkt /  Anteil an 
+Bemerkungen  Kursnote 
+1  Internationales  Klausur  90 Minuten  Prüfungszeitraum:  55% 
+Management 
+erste bis vierte 
+Woche nach 
+Vorlesungsende 
+2  Internationales  SBL: Mitarbeit bei    Während der  45% 
+Management  Fallstudien,  Vorlesungszeit 
+Gruppenprojekt 
+14. Bemerkungen:  
+Die Modulprüfung kann einmal wiederholt werden. Weitere Informationen zur Wiederholbarkeit: PO BSc 
+Wirtschaftschemie §25 Abs. 3 
+ 
+   
+Seite 84 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+WiCh-BSc-Wi-M18 Personalmanagement 
+Personalmanagement / Wahlpflichtmodulgruppe 
+1. Name Modul / Modulgruppe: 
+Wertschöpfungsmanagement 
+Prof. Dr. Thomas Steger 
+2. Fachgebiet / Verantwortlich: 
+Diese Grundlagenveranstaltung vermittelt den 
+3. Inhalte des Moduls: 
+Studierenden einen Einstieg und Überblick über 
+das Feld des modernen Personalmanagements. Es 
+werden zentrale theoretische Ansätze behandelt, 
+die Akteure und Institutionen des 
+Personalmanagements beleuchtet sowie die 
+verschiedenen Funktionen und Ausprägungen 
+detailliert erörtert. 
+Die Übung vertieft die in der Vorlesung 
+besprochenen Inhalte. Hierzu werden 
+wissenschaftliche Texte besprochen und 
+Fallstudien erarbeitet. Zudem werden in den 
+Übungen wesentliche Aspekte des generellen 
+wissenschaftlichen Arbeitens vermittelt. 
+Nach Beendigung dieses Moduls sind die 
+4. Qualifikationsziele des Moduls / zu 
+Studierenden in der Lage, die grundlegenden 
+erwerbende Kompetenzen: 
+theoretischen Ansätze des Personalmanagements 
+darzustellen, zu erklären sowie selbständig 
+anzuwenden. 
+Weiterhin können die Studierenden die zentralen 
+Funktionen des modernen Personalmanagements 
+erläutern und die in diesem Kontext entstehenden 
+Probleme kritisch erörtern und eigenständige 
+Lösungsansätze entwickeln. 
+Im Weiteren besitzen die Studierenden nach 
+Abschluss des Moduls die Fähigkeit, Fälle aus dem 
+Bereich des Personalmanagements zu bearbeiten 
+und mündlich vorzutragen sowie einen 
+eigenständigen wissenschaftlichen Text zu 
+verfassen. 
+ 
+5. Teilnahmevoraussetzungen: 
+Keine 
+a) empfohlene Kenntnisse: 
+Keine 
+b) verpflichtende Nachweise: 
+BSc BWL, Phase 2, Schwerpunktmodul 
+6. Verwendbarkeit des Moduls: 
+Seite 85 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+„Wertschöpfungsmanagement“ 
+BSc WiChem (Wahlpflicht, Level 2) 
+2-semestrig (Wintersemester) 
+7. Angebotsturnus des Moduls: 
+1 Semester 
+8. Das Modul kann absolviert werden in: 
+5 
+9. Empfohlenes Fachsemester: 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+     (Workload) / Anzahl Leistungspunkte: 
+Gesamt in Stunden: 180 (6 ECTS*30 Stunden) 
+davon: 
+1. Präsenzzeit: 4 SWS 
+2. Selbststudium (inkl. Prüfung): 120 Std. 
+ 
+Leistungspunkte: 6 
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+Nr  P / WP  Lehrform  Themenbereich/Thema  SWS /  LP  Studienleistungen 
+Std. 
+1  P  Vorlesung  Personalmanagement  2  4   
+2  P  Übung  Personalmanagement  2  2   
+13. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der Prüfung  Dauer  Zeitpunkt /  Anteil an 
+Bemerkungen  Kursnote 
+1  Personalmanagement  Klausur  90 Min.  Prüfungszeitraum:  50% 
+erste bis vierte 
+Woche nach 
+Vorlesungsende 
+Seite 86 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+2  Personalmanagement  Präsentation/  15 Min.  Während der  30% 
+Moderation  Vorlesungszeit 
+3  Personalmanagement  Wissenschaftliche.    Während der  20% 
+Miniaturarbeit  Vorlesungszeit 
+14. Bemerkungen:  
+Die Modulprüfung kann einmal wiederholt werden. Weitere Informationen zur Wiederholbarkeit: PO BSc 
+Wirtschaftschemie §25 Abs. 3 
+ 
+ 
+   
+Seite 87 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+WiCh-BSc-Wi-M19 Strategisches Business Marketing 
+Strategisches Business Marketing / 
+1. Name  Modul / Modulgruppe: 
+Wahlpflichtmodulgruppe 
+Wertschöpfungsmanagement 
+Prof. Dr. Roland Helm 
+2. Fachgebiet / Verantwortlich: 
+3. Inhalte des Moduls:  1.  Grundlagen der Marketingplanung und 
+Strategieentwicklung 
+2.  Planung und Kontrolle im strategischen 
+Marketing 
+3.  Marketing-Organisation 
+4.  Strategische Analyse- und Planungskonzepte 
+5.  Marktforschung und Marketing Intelligence 
+6.  Marktdefinition und Segmentierung 
+7.  Entwicklung von Basis-Marketingstrategien 
+8.  Markteintrittsstrategien 
+Strategische Planung von Geschäftsfeldern in 
+4. Qualifikationsziele des Moduls / zu 
+einem ganzheitlichen Ansatz, der die engere 
+erwerbende Kompetenzen: 
+produktbezogene Perspektive der Veranstaltung zu 
+den Grundlagen des Marketing entsprechend 
+erweitert. Ein Fokus liegt im Bereich des B2B-
+Marketings. 
+Im Weiteren weisen die Studierenden nach 
+Abschluss des Moduls die Fähigkeit nach, dass sie 
+die für die Fallstudie erarbeitete methodische 
+Vorgehensweise sowie die gewonnenen Ergebnisse 
+(d.h. die Modelle) auch mündlich vortragen und 
+begründen können. 
+ 
+5. Teilnahmevoraussetzungen: 
+Grundlagen des Marketing 
+a) empfohlene Kenntnisse: 
+ 
+b) verpflichtende Nachweise: 
+BSc BWL Phase 2, Schwerpunktmodul 
+6. Verwendbarkeit des Moduls: 
+„Wertschöpfungsmanagement“ 
+BSc WiChem (Wahlpflicht, Level 2) 
+2-semestrig (Sommersemester) 
+7. Angebotsturnus des Moduls: 
+1 Semester 
+8. Das Modul kann absolviert werden in: 
+ 6 
+9. Empfohlenes Fachsemester: 
+Seite 88 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+     (Workload) / Anzahl Leistungspunkte: 
+Gesamt in Stunden:  180 
+davon: 
+1. Präsenzzeit:  4 SWS 
+2. Selbststudium (inkl. Prüfung):   120 Std. 
+ 
+Leistungspunkte:  6 
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+Nr  P / WP  Lehrform  Themenbereich/Thema  SW LP  Studienleistungen 
+S / 
+Std. 
+1  Pflicht  Vorlesung  Strategisches Business  4  6   
+Marketing 
+Übung 
+13. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der  Dauer  Zeitpunkt /  Anteil an 
+Prüfung  Bemerkungen  Kursnote 
+1  Strategisches Business  Klausur  60 Minuten  Prüfungszeitraum:  75 % 
+Marketing  erste bis vierte 
+Woche nach 
+Vorlesungsende 
+2  Strategisches Business  Präsentation  10 Minuten  Während der  25 % 
+Marketing  Vorlesungszeit 
+14. Bemerkungen:  
+Die Modulprüfung kann einmal wiederholt werden. Weitere Informationen zur Wiederholbarkeit: PO BSc 
+Wirtschaftschemie §25 Abs. 3 
+ 
+   
+Seite 89 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+Finanzmanagement und – berichterstattung 
+Es müssen drei Module ausgewählt werden. 
+WiCh-BSc-Wi-M20 Betriebswirtschaftliche Steuerlehre 
+Betriebswirtschaftliche Steuerlehre / 
+1. Name Modul / Modulgruppe: 
+Wahlpflichtmodulgruppe Finanzmanagement und 
+-berichterstattung 
+Prof. Dr. Meyer-Scharenberg 
+2. Fachgebiet / Verantwortlich: 
+Die Vorlesung „Betriebswirtschaftliche Steuerlehre“ 
+3. Inhalte des Moduls: 
+soll das Bewusstsein für die Bedeutung der 
+Besteuerung anhand typischer unternehmerischer 
+Entscheidungen wecken (Gewinnermittlung, 
+Standort- und Rechtsformwahl – national und 
+international, verbundene Unternehmen, 
+Unternehmensnachfolge, Unternehmenskauf, 
+grenzüberschreitende Leistungsbeziehungen, 
+Finanzierung, Unternehmenskrise). Dabei werden 
+die Kenntnisse aus der Veranstaltung 
+„Steuerrechtliche Grundlagen“ vorausgesetzt. 
+Nach Abschluss des Moduls verstehen die 
+4. Qualifikationsziele des Moduls / zu 
+Studierenden die Systematik der deutschen 
+erwerbende Kompetenzen: 
+Unternehmensbesteuerung. Sie können die 
+unterschiedlichen Besteuerungstatbestände 
+subsumieren und die damit einhergehenden 
+steuerrechtlichen Konsequenzen bestimmen. Die 
+Studierenden werden in die Lage versetzt 
+selbständig entstehende Steuerbelastungen zu 
+berechnen sowie evtl. bestehende 
+Gestaltungsmöglichkeiten zu erkennen. So können 
+sie die effektive Steuerlast minimieren bzw. 
+vorteilhaft auf verschiedene Wirtschaftsjahre 
+verteilen. 
+ 
+5. Teilnahmevoraussetzungen: 
+WiCh-BSc-Wi-M13 Steuerrechtliche Grundlagen 
+a) empfohlene Kenntnisse: 
+Keine 
+b) verpflichtende Nachweise: 
+BSc. BWL, Modul „Finanzmanagement- und 
+6. Verwendbarkeit des Moduls: 
+Berichterstattung“ 
+Seite 90 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+BSc WiChem (Wahlpflicht, Level 2) 
+2-semestrig (Sommersemester) 
+7. Angebotsturnus des Moduls: 
+1 Semester 
+8. Das Modul kann absolviert werden in: 
+6 
+9. Empfohlenes Fachsemester: 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+     (Workload) / Anzahl Leistungspunkte: 
+Gesamt in Stunden: 180 (6 ECTS*30 Stunden) 
+davon: 
+1. Präsenzzeit: 4 SWS 
+2. Selbststudium (inkl. Prüfung): 120 Std. 
+(2/3*Gesamtzeit) 
+ 
+Leistungspunkte: 6 
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+Nr  P / WP  Lehrform  Themenbereich/Thema  SWS  LP  Studienleistungen 
+/ Std. 
+1  Pflicht  Vorlesung  Betriebswirtschaftliche  4  6   
+Steuerlehre 
+Übung 
+13. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der  Dauer  Zeitpunkt /  Anteil an 
+Prüfung  Bemerkungen  Kursnote 
+1  Betriebswirtschaftliche  Klausur  90 Minuten  Prüfungszeitraum:  100 % 
+Steuerlehre 
+erste bis vierte 
+Woche nach 
+Vorlesungsende 
+Seite 91 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+14. Bemerkungen:  
+Die Modulprüfung kann einmal wiederholt werden. Weitere Informationen zur Wiederholbarkeit: PO BSc 
+Wirtschaftschemie §25 Abs. 3 
+   
+Seite 92 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+WiCh-BSc-Wi-M21 Corporate Finance 
+Corporate Finance / Wahlpflichtmodulgruppe 
+1. Name Modul / Modulgruppe: 
+Finanzmanagement und -berichterstattung 
+Prof. Dr. Gregor Dorfleitner 
+2. Fachgebiet / Verantwortlich: 
+3. Inhalte des Moduls:  Die Veranstaltung beschäftigt sich mit dem 
+Vorbereiten bzw. Treffen betrieblicher 
+Finanzierungs- und Investitionsentscheidungen, 
+der Beurteilung von Investitionsprojekten und 
+Bewertung von Unternehmen sowie der Anleihen- 
+und Aktienbewertung und dem Capital Asset 
+Pricing Model (CAPM). 
+Nach erfolgreicher Beendigung dieses Moduls 
+4. Qualifikationsziele des Moduls / zu 
+können die Studierenden die Basis-Theorien zur 
+erwerbende Kompetenzen: 
+Kapitalstruktur eines Unternehmens und der 
+marktgerechten, erwarteten Rendite einer In-
+vestition wiedergeben.  
+Die Studierenden können mit Hilfe dieser Theorien 
+die Projektbewertung und die Bewertung ganzer 
+Unternehmen vornehmen und dabei die WACC-
+Methode, die APV-Methode und die Equity-
+Methode in den jeweils angemessenen Anwen-
+dungssituationen anwenden. Sie sind ferner in der 
+Lage, Cashflows eines Projektes oder eines Unter-
+nehmens zu berechnen.  
+ 
+5. Teilnahmevoraussetzungen: 
+WiCh-BSc-Wi-M06 Finanzierung 
+a) empfohlene Kenntnisse: 
+Keine 
+b) verpflichtende Nachweise: 
+6. Verwendbarkeit des Moduls:  Finanzmanagement und -berichterstattung (BSc 
+BWL) 
+BSc WiChem (Wahlpflicht, Level 2) 
+2-semestrig (Sommersemester) 
+7. Angebotsturnus des Moduls: 
+1 Semester 
+8. Das Modul kann absolviert werden in: 
+4 
+9. Empfohlenes Fachsemester: 
+ 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+Seite 93 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+     (Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: 180 (6 ECTS*30 Stunden) 
+davon: 
+1. Präsenzzeit: 4 SWS 
+2. Selbststudium (inkl. Prüfung): 120 Std. 
+(2/3*Gesamtzeit) 
+ 
+Leistungspunkte: 6 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+Nr  P / WP  Lehrform  Themenbereich/Thema  SWS /  LP  Studienleistungen 
+Std. 
+1  P  Vorlesung  Corporate Finance  4  6   
+Übung 
+13. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der  Dauer  Zeitpunkt /  Anteil an 
+Prüfung  Bemerkungen  Kursnote 
+1  Corporate Finance  Klausur  60 Minuten    100% 
+14. Bemerkungen:  
+Die Modulprüfung kann einmal wiederholt werden. Weitere Informationen zur Wiederholbarkeit: PO BSc 
+Wirtschaftschemie §25 Abs. 3 
+   
+Seite 94 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+WiCh-BSc-Wi-M22 Kapitalmarktmanagement 
+Kapitalmarktmanagement / 
+Wahlpflichtmodulgruppe Finanzmanagement und 
+1. Name Modul / Modulgruppe: 
+- berichterstattung 
+Prof. Dr. Klaus Röder 
+2. Fachgebiet / Verantwortlich: 
+Im  Vordergrund  der  Veranstaltung  stehen  nicht 
+Institutionen  wie  Banken  oder  Versicherungen, 
+sondern  Produkte,  Dienste  und  Anwendungen. 
+Dazu  sind  Kenntnisse  der  Funktionsweise  von 
+Kapitalmärkten  und  der  Erwerb  eines  fundierten 
+theoretischen Basiswissens erforderlich:  
+• Rendite und Risiko von Portefeuilles  
+3. Inhalte des Moduls:  -  Shortfall-Ansatz 
+-  Capital Asset Pricing Model 
+-  Marktmodell 
+-  Anomalien 
+-  Performancemessung 
+-  Arbitrage Pricing Theory 
+-  Mehrfaktorenmodelle 
+• Termingeschäfte 
+-  bedingte Termingeschäfte  
+-  unbedingte Termingeschäfte 
+Die Studierenden sind nach erfolgreichem 
+Abschluss des Moduls in der Lage, die 
+wesentlichen Problemstellungen im 
+Kapitalmarktsektor zu formulieren. Ferner können 
+sie die Funktionsweise verschiedener 
+Finanzprodukte aufzeigen und entwickeln eine 
+Sensibilität hinsichtlich der finanzwirtschaftlichen 
+Relevanz der Risiko-/Renditeeigenschaften eines 
+4. Qualifikationsziele des Moduls / zu 
+Portfolios. Die Studierenden können die 
+erwerbende Kompetenzen: 
+theoretischen Grundlagen diverser 
+Kapitalmarktmodelle erklären und in ihrer 
+Anwendung unterscheiden. Die Übung vertieft die 
+Inhalte der Vorlesung anhand von Beispielen und 
+befähigt die Studierenden, die angeeigneten 
+Methoden, etwa im Rahmen der Portfolioselektion 
+oder der Optionspreisbestimmung, anzuwenden. 
+ 
+5. Teilnahmevoraussetzungen: 
+Investition, Finanzierung, Mathematik, Statistik I 
+a) empfohlene Kenntnisse: 
+und II. Der Besuch des Schwerpunktmoduls 
+Seite 95 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+Corporate Finance wird ebenso empfohlen. Das 
+Studium englischsprachiger Literatur wird 
+erwartet.  
+Keine 
+b) verpflichtende Nachweise: 
+BSc BWL Phase 2,  
+Modul „Finanzmanagement und 
+6. Verwendbarkeit des Moduls:  Berichterstattung“ 
+BSc WiChem (Wahlpflicht, Level 2) 
+2-semestrig (Wintersemester) 
+7. Angebotsturnus des Moduls: 
+1 Semester 
+8. Das Modul kann absolviert werden in: 
+5 
+9. Empfohlenes Fachsemester: 
+Arbeitsaufwand: 
+Gesamt in Stunden: 180 (6 ECTS*30 Stunden) 
+davon: 
+10. Arbeitsaufwand des Moduls 
+1. Präsenzzeit: 4 SWS 
+     (Workload) / Anzahl Leistungspunkte: 
+2. Selbststudium (inkl. Prüfung): 120 Std.  
+ 
+Leistungspunkte: 6 
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+SWS / 
+Nr  P / WP  Lehrform  Themenbereich/Thema  LP  Studienleistungen 
+Std. 
+Vorlesung 
+1  Pflicht  Kapitalmarkmanagement  4  6   
+Übung 
+13. Modulprüfung: 
+Seite 96 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+Nr  Kompetenz / Thema  Art der  Zeitpunkt /  Anteil an 
+Dauer 
+Prüfung  Bemerkungen  Kursnote 
+Prüfungszeitraum: 
+1  Kapitalmarktmanagement  Klausur  60 Minuten  100% 
+erste bis vierte Woche 
+nach Vorlesungsende 
+14. Bemerkungen:  
+Die Modulprüfung kann einmal wiederholt werden. Weitere Informationen zur Wiederholbarkeit: PO BSc 
+Wirtschaftschemie §25 Abs. 3 
+   
+Seite 97 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+WiCh-BSc-Wi-M23 Externe Unternehmensberichterstattung II 
+Externe Unternehmensberichterstattung II / 
+Wahlpflichtmodulgruppe Finanzmanagement und 
+1. Name Modul / Modulgruppe: 
+-berichterstattung 
+Prof. Dr. Axel Haller 
+2. Fachgebiet / Verantwortlich: 
+Aufbauend auf den grundlegenden 
+Leistungsmaßen der Unternehmensrechnung 
+und den zentralen Rechnungslegungstheorien 
+werden die Einflussfaktoren der Ausgestaltung der 
+Unternehmensrechnung, die Stationen der 
+Internationalisierung der Rechnungslegung in 
+Deutschland, die wichtigsten Institutionen der 
+Harmonisierung und der Durchsetzung der  
+Unternehmensrechnung, Aufbau und Grundsätze 
+der International Financial Reporting Standards 
+3. Inhalte des Moduls:  (IFRS), die wesentlichen Regelungen zur 
+Abschlusserstellung nach IFRS sowie die 
+Zielsetzungen und Ausgestaltung von zusätzlichen 
+Instrumenten der Unternehmensberichterstattung 
+neben dem Abschluss (z.B. Lagebericht, 
+Wertschöpfungsrechnung, Umwelt-/Sozial-
+/Nachhaltigkeitsberichte, Zwischenberichte, Ad-
+hoc-Publizität) behandelt. Darüber hinaus findet 
+eine grundlegende Ausbildung auf dem Gebiet der 
+Konzernrechnungslegung, sowohl nach HGB als 
+auch IFRS, statt. 
+Die Studierenden sollen eine Sensibilität für 
+internationale Aspekte der Unternehmensrechnung 
+entwickeln und zentrale theoretische Ansätze der 
+4. Qualifikationsziele des Moduls / zu  Unternehmensrechnung verstehen. Darüber hinaus 
+erwerbende Kompetenzen:  sollen sie wesentliche Sachverhalte im Jahres- und 
+Konzernabschluss nach HGB und IFRS abbilden 
+sowie interpretieren können. 
+ 
+5. Teilnahmevoraussetzungen: 
+WiCh-BSc-Wi-M11 Externe 
+a) empfohlene Kenntnisse:  Unternehmensberichterstattung I  
+Keine 
+b) verpflichtende Nachweise: 
+Seite 98 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+BSc BWL, Wahlmodul 
+6. Verwendbarkeit des Moduls: 
+BSc WiChem (Wahlpflicht, Level 2) 
+2-semestrig (Wintersemester) 
+7. Angebotsturnus des Moduls: 
+1 Semester 
+8. Das Modul kann absolviert werden in: 
+5 
+9. Empfohlenes Fachsemester: 
+Arbeitsaufwand: 
+Gesamt in Stunden: 180 (6 ECTS*30 Stunden) 
+davon: 
+10. Arbeitsaufwand des Moduls 
+     (Workload) / Anzahl Leistungspunkte:  1. Präsenzzeit: 4 SWS 
+2. Selbststudium (inkl. Prüfung): 120 Std.  
+Leistungspunkte: 6 
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+SWS / 
+Nr  P / WP  Lehrform  Themenbereich/Thema  LP  Studienleistungen 
+Std. 
+Vorlesung 
+Externe Unternehmens-
+1  Pflicht  4  6   
+berichterstattung II 
+Übung 
+13. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der  Zeitpunkt /  Anteil an 
+Dauer 
+Prüfung  Bemerkungen  Kursnote 
+Prüfungszeitraum: 
+Externe Unternehmens-
+1  Klausur  90 Minuten  100% 
+berichterstattung II  Innerhalb der 
+Vorlesungszeit 
+14. Bemerkungen:  
+Die Modulprüfung kann einmal wiederholt werden. Weitere Informationen zur Wiederholbarkeit: PO BSc 
+Seite 99 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+Wirtschaftschemie §25 Abs. 3 
+ 
+   
+Seite 100 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+Wirtschaftsinformatik 
+Es müssen drei Module ausgewählt werden. 
+WiCh-BSc-Wi-M24 Datenbanken im Unternehmen 
+Datenbanken im Unternehmen / 
+1. Name Modul / Modulgruppe: 
+Wahlpflichtmodulgruppe Wirtschaftsinformatik 
+Prof. Dr. Günther Pernul 
+2. Fachgebiet / Verantwortlich: 
+Datenbanksysteme gehören heute zur 
+3. Inhalte des Moduls: 
+Basissoftware eines jeden Arbeitsplatzrechners und 
+stellen in den meisten betrieblichen 
+Anwendungssystemen eine zentrale 
+Softwarekomponente dar. Diese Vorlesung bietet 
+eine anwendungsorientierte Einführung in die 
+Datenmodellierung und Datenbanktechnologie 
+unter besonderer Berücksichtigung der 
+Anforderungen von Unternehmen. Die in der 
+Vorlesung vermittelten Konzepte werden in einer 
+begleitenden Übung praktisch geübt. 
+Inhalte: 
+•  Anforderungserhebung- und Analyse 
+•  Konzeptueller Entwurf, Entity Relationship-
+Modellierung 
+•  Relationales Datenbankmodell 
+•  Logischer Entwurf  
+•  Datenbanksprachen, rel. Algebra, SQL 
+•  Formaler Datenbankentwurf  
+•  Datenbanktransaktionen 
+Die Studierenden sind nach erfolgreichem 
+4. Qualifikationsziele des Moduls / zu 
+Abschluss des Moduls in der Lage, 
+erwerbende Kompetenzen: 
+Datenbankentwürfe von der Anforderungsanalyse 
+über den konzeptuellen bis hin zum logischen 
+Entwurf selbständig vorzunehmen. Zudem sind sie 
+in der Lage, standard- konforme SQL-Abfragen auf 
+komplexe Datenquellen zu erstellen und ein 
+kommerzielles Datenbanksystem administrativ zu 
+bedienen. Im Weiteren weisen die Studierenden 
+des Moduls nach, dass sie die erarbeiteten 
+Entwurfstechniken im Rahmen einer Fallstudie 
+praktisch anwenden und einsetzten können. 
+Seite 101 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+ 
+5. Teilnahmevoraussetzungen: 
+Keine 
+a) empfohlene Kenntnisse: 
+Keine 
+b) verpflichtende Nachweise: 
+BSc. Winfo Phase 1, Modul 
+6. Verwendbarkeit des Moduls: 
+„Wirtschaftsinformatik“ 
+BSc WiChem (Wahlpflicht, Level 2) 
+2-Semestrig (Sommersemester) 
+7. Angebotsturnus des Moduls: 
+1 Semester 
+8. Das Modul kann absolviert werden in: 
+6  
+9. Empfohlenes Fachsemester: 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+     (Workload) / Anzahl Leistungspunkte: 
+Gesamt in Stunden: 180 (6 ECTS*30 Stunden) 
+davon: 
+1. Präsenzzeit: 4 SWS 
+2. Selbststudium (inkl. Prüfung): 120 Std. 
+(2/3*Gesamtzeit) 
+Anzahl Leistungspunkte: 6 
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+Nr  P / WP  Lehrform  Themenbereich/Thema  SWS  LP  Studienleistungen 
+/ Std. 
+1  Pflicht  Vorlesung  Datenbanken im  4  6   
+Unternehmen 
+Übung 
+13. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der  Dauer  Zeitpunkt /  Anteil an 
+Prüfung  Bemerkungen  Kursnote 
+Seite 102 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+1  Datenbanken im  Klausur  90 Minuten  Prüfungszeitr 100% 
+Unternehmen  aum: Erste bis 
+vierte Woche 
+nach 
+Vorlesungsen
+de 
+14. Bemerkungen:  
+Die Modulprüfung kann einmal wiederholt werden. Weitere Informationen zur Wiederholbarkeit: PO BSc 
+Wirtschaftschemie §25 Abs. 3 
+   
+Seite 103 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+WiCh-BSc-Wi-M25 Informationsmanagement 
+Informationsmanagement / 
+1. Name Modul / Modulgruppe: 
+Wahlpflichtmodulgruppe Wirtschaftsinformatik 
+Prof. Dr. Susanne Leist 
+2. Fachgebiet / Verantwortlich: 
+Strategisches IT-Management 
+3. Inhalte des Moduls: 
+•  IS-Strategie 
+•  IS-Architektur 
+•  IS-Portfolio 
+Organisatorische Gestaltung des IT-Management 
+•  Aufgaben und Prozesse 
+•  IT-Aufbauorganisation (Outsourcing) 
+•  ITIL als Referenzmodell 
+IT-Governance 
+•  COBIT 
+•  Business – IT Alignment 
+Nach Abschluss des Moduls kennen die 
+4. Qualifikationsziele des Moduls / zu 
+Studierenden Begriffe und Konzepte im 
+erwerbende Kompetenzen: 
+Informationsmanagement. Ebenfalls kennen sie die 
+Weiterentwicklungen des Ansatzes in Verbindung 
+mit den Aufgaben aus dem IT-Management und 
+der IT-Governance.  
+Die Studierenden sind darüber hinaus in der Lage 
+den Aufgabenbereich Informationswirtschaft im 
+Informationsmanagement abzugrenzen und 
+kennen wichtige Techniken. Ebenfalls können sie 
+die Eigenschaften der Datenqualität beschreiben 
+und kennen Strategien diese zu verbessern.  
+Der Aufgabenbereich Management des 
+Informationssystems ist den Studierenden 
+ebenfalls bekannt sowie wichtige Techniken im 
+Rahmen des Strategischen IT-Managements (u.a. 
+Situationsanalyse, IT-Architektur, IT-Portfolio), die 
+sie auch an Fallbeispielen anwenden können.  
+Darüber hinaus haben sie einen Einblick in die 
+Aufgaben des IT-Managements gewonnen. Sie 
+kennen die Prozesse der IT-Abteilung und können 
+mit Hilfe von Techniken wichtige aufbau- und 
+Seite 104 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+ablauforganisatorische Fragestellungen 
+beantworten. Ebenfalls kennen sie ITIL als 
+Referenzmodell im IT-Servicemanagement. 
+Im Weiteren haben sie einen Überblick über die 
+Aufgaben im IT-Governance und kennen COBIT als 
+Referenzmodell. 
+Die Übung vertieft die Inhalte der Vorlesung an 
+Beispielen und versetzt die Studierenden in die 
+Lage ausgewählte Techniken anzuwenden. 
+ 
+5. Teilnahmevoraussetzungen: 
+keine 
+a) empfohlene Kenntnisse: 
+Keine 
+b) verpflichtende Nachweise: 
+BSc WINFO Phase 2, Modul „Allgemeine 
+6. Verwendbarkeit des Moduls: 
+Wirtschaftsinformatik“ 
+BSc WiChem (Wahlpflicht, Level 2) 
+2-semestrig (Sommersemester) 
+7. Angebotsturnus des Moduls: 
+1 Semester 
+8. Das Modul kann absolviert werden in: 
+4 oder 6 
+9. Empfohlenes Fachsemester: 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+     (Workload) / Anzahl Leistungspunkte: 
+Gesamt in Stunden: 180 (6 ECTS*30 Stunden) 
+davon: 
+1. Präsenzzeit: 4 SWS 
+2. Selbststudium (inkl. Prüfung): 120 Std. 
+(2/3*Gesamtzeit) 
+ 
+Leistungspunkte: 6 
+ 
+   
+Seite 105 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt 
+sind: 
+12. Modulbestandteile: 
+Nr  P / WP  Lehrform  Themenbereich/Thema  SWS /  LP  Studienleistungen 
+Std. 
+1  Pflicht  Vorlesung  Informationsmanagement  4  6   
+Übung 
+13. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der  Dauer  Zeitpunkt /  Anteil an 
+Prüfung  Bemerkungen  Kursnote 
+1  Informationsmanagement  Klausur  60 Minuten  Klausurzeitraum in  100% 
+den ersten 4 
+Wochen nach 
+Vorlesungsende 
+14. Bemerkungen:  
+Die Modulprüfung kann einmal wiederholt werden. Weitere Informationen zur Wiederholbarkeit: PO BSc 
+Wirtschaftschemie §25 Abs. 3 
+   
+Seite 106 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+WiCh-BSc-Wi-M26 Internet Business I 
+Internet Business I / Wahlpflichtmodulgruppe 
+1. Name Modul / Modulgruppe: 
+Wirtschaftsinformatik 
+Prof. Dr. Susanne Leist  
+2. Fachgebiet / Verantwortlich: 
+Grundlagen Internet Business 
+3. Inhalte des Moduls: 
+•  Grundlagen des Internet Business 
+•  Definitionen von Begriffen 
+•  Internet Business aus der 
+Konsumentenperspektive 
+•  Internet Business aus der 
+Anbieterperspektive 
+•  Elektronische Märkte  
+Prozesse in Internet Business 
+•  Grundlagen zur Prozessmodellierung 
+•  Geschäftsprozesse im Internet Business 
+Analyse und Verbesserung der Prozesse im Internet 
+Business 
+•  Grundlegende Techniken 
+•  BPR und Prozessmodellierung mit 
+generischen Prozessen 
+•  PPM 
+Nach Abschluss des Moduls kennen die 
+4. Qualifikationsziele des Moduls / zu 
+Studierenden die Bedeutung des Internet Business, 
+erwerbende Kompetenzen: 
+wissen über innovative Internettechnologien 
+Bescheid und haben sich mit Internet Business 
+sowohl aus Konsumenten- als auch aus 
+Anbieterperspektive auseinandergesetzt. 
+Insbesondere können sie die Leistungserstellung 
+von Unternehmen im Internet Business 
+beschreiben und modellieren, sowie auf Basis 
+dessen, Gestaltungsempfehlungen für 
+Wertschöpfungsketten ableiten. Ebenfalls wissen 
+Sie um die Vor und Nachteile sowie 
+Besonderheiten elektronischer Märkte Bescheid. 
+ 
+Im Weiteren sind die Studierenden in der Lage mit 
+Seite 107 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+gängigen Prozessmodellierungssprachen die 
+Wertschöpfungsprozesse im Internet Business zu 
+beschreiben. Sie kennen Standardprozesse sowie 
+generische Modelle der Wertekette. In Fallstudien 
+gewinnen sie Einsichten individueller 
+Prozessmodelle. 
+Darüber hinaus kennen sie Methoden, die bei der 
+Analyse und Verbesserung der Prozesse 
+unterstützen. Sie können evolutionäre und 
+revolutionäre Techniken der Methoden 
+unterscheiden und haben durch die Analyse von 
+Fallstudien im Internet Business Erfahrungen bei 
+der Anwendung der Methoden gewonnen. 
+Ebenfalls kennen sie Techniken für die Steuerung 
+der Prozesse. 
+Die Übung vertieft die Inhalte der Vorlesungen 
+anhand von Beispielen aus dem Internet Business 
+und versetzt die Studierenden in die Lage mit 
+Werkzeugen zur Prozessmodellierung und –analyse 
+(z.B. ARIS Business Architect) umzugehen. 
+ 
+5. Teilnahmevoraussetzungen: 
+ 
+a) empfohlene Kenntnisse: 
+Keine 
+b) verpflichtende Nachweise: 
+BSc WINFO Phase 2, Modulgruppe „Internet 
+6. Verwendbarkeit des Moduls: 
+Business und IT Security“ 
+BSc WiChem (Wahlpflicht, Level 2) 
+2-semestrig (Wintersemester) 
+7. Angebotsturnus des Moduls: 
+1 Semester 
+8. Das Modul kann absolviert werden in: 
+5 
+9. Empfohlenes Fachsemester: 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+     (Workload) / Anzahl Leistungspunkte: 
+Gesamt in Stunden: 180 (6 ECTS*30 Stunden) 
+davon: 
+Seite 108 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+1. Präsenzzeit: 4 SWS 
+2. Selbststudium (inkl. Prüfung): 120 Std. 
+(2/3*Gesamtzeit) 
+ 
+Leistungspunkte: 6 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+Nr  P / WP  Lehrform  Themenbereich/Thema  SWS /  LP  Studienleistungen 
+Std. 
+1  Pflicht  Vorlesung  Internet Business I  4  6   
+Übung 
+13. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der  Dauer  Zeitpunkt /  Anteil an 
+Prüfung  Bemerkungen  Modulnote 
+1  Internet Business I  Klausur  60 Minuten  Klausurzeitraum in  100% 
+den ersten 4 
+Wochen nach 
+Vorlesungsende 
+14. Bemerkungen:  
+Die Modulprüfung kann einmal wiederholt werden. Weitere Informationen zur Wiederholbarkeit: PO BSc 
+Wirtschaftschemie §25 Abs. 3 
+ 
+   
+Seite 109 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+WiCh-BSc-Wi-M27 IT Security I 
+IT Security I / Wahlpflichtmodulgruppe 
+1. Name Modul / Modulgruppe: 
+Wirtschaftsinformatik 
+Prof. Dr. Günther Pernul 
+2. Fachgebiet / Verantwortlich: 
+In dieser Veranstaltung werden die Grundlagen 
+3. Inhalte des Moduls: 
+zum Verständnis von Sicherheitsaspekten in IT-
+Systemen gelegt. Schwerpunkte der 
+Wissensvermittlung bilden kryptographische 
+Verfahren (symmetrische & asymmetrische 
+Verschlüsselung, Hash-Verfahren), standardisierte 
+Sicherheitsmanagementverfahren (nach BSI-GSHB 
+u.a.) sowie Sicherheitsaspekte in diversen 
+Anwendungsgebieten (u.a. zur 
+Datenbanksicherheit). Diese Veranstaltung bildet 
+die Grundlage zum Verständnis anderer 
+Veranstaltungen zur IT-Sicherheit und wird zum 
+Einstieg in die Thematik empfohlen. 
+Inhalte: 
+•  Begriffsdefinition, Angreifermodelle 
+•  Kryptographische Grundlagen, 
+symmetrische & asymmetrische 
+Verschlüsselung, Hash-Verfahren 
+•  Grundfunktionen vertrauenswürdiger 
+Systeme 
+•  Grundzüge eines strukturierten Vorgehens 
+zum Sicherheitsmanagement 
+•  Sicherheitsaspekte nach 
+Anwendungsgebieten, u.a. 
+Datenbanksicherheit 
+Seite 110 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+Die Studierenden weisen mit erfolgreichem 
+4. Qualifikationsziele des Moduls / zu 
+Abschluss des Moduls Fachwissen über 
+erwerbende Kompetenzen: 
+Grundlagen kryptographischer Verfahren, 
+Grundfunktionen vertrauenswürdiger Systeme, 
+strukturiertes IT-Sicherheitsmanagement nach BSI 
+IT-Grundschutz und Sicherheitsaspekte nach. Im 
+Weiteren werden die Studierenden des Moduls 
+darin geschult das erworbene Wissen im Rahmen 
+von praxisorientierten Aufgaben einsetzten zu 
+können. 
+ 
+5. Teilnahmevoraussetzungen: 
+Keine 
+a) empfohlene Kenntnisse: 
+keine 
+b) verpflichtende Nachweise: 
+BSc. Winfo Phase 2, Modul  
+6. Verwendbarkeit des Moduls: 
+„Bankinformatik und Informationssicherheit“ 
+BSc WiChem (Wahlpflicht, Level 2) 
+ 
+2-semestrig (Wintersemester) 
+7. Angebotsturnus des Moduls: 
+1 Semester 
+8. Das Modul kann absolviert werden in: 
+5 
+9. Empfohlenes Fachsemester: 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+     (Workload) / Anzahl Leistungspunkte: 
+Gesamt in Stunden: 180 (6 ECTS*30 Stunden) 
+davon: 
+1. Präsenzzeit: 4 SWS 
+2. Selbststudium (inkl. Prüfung): 120 Std. 
+(2/3*Gesamtzeit) 
+Anzahl Leistungspunkte: 6 
+ 
+Seite 111 von 112  
+FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+ 
+FAKULTÄT FÜR WIRTSCHAFTSWISSENSCHAFTEN 
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+Nr  P / WP  Lehrform  Themenbereich/Thema  SWS  LP  Studienleistungen 
+/ Std. 
+1  Pflicht  Vorlesung  IT Security I  4  6   
+Übung 
+13. Modulprüfung: 
+Nr  Kompetenz / Thema  Art der  Dauer  Zeitpunkt /  Anteil an 
+Prüfung  Bemerkungen  Kursnote 
+1  IT Security I  Klausur  90 Minuten  Prüfungszeitr 100% 
+aum: Erste bis 
+vierte Woche 
+nach 
+Vorlesungsen
+de 
+14. Bemerkungen:  
+Die Modulprüfung kann einmal wiederholt werden. Weitere Informationen zur Wiederholbarkeit: PO BSc 
+Wirtschaftschemie §25 Abs. 3 
+ 
+Seite 112 von 112 

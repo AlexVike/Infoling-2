@@ -1,0 +1,1944 @@
+input_dictionary =  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Modulkatalog 
+ 
+für den Bachelorstudiengang 
+Molekulare Medizin 
+an der Universität Regensburg
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+gültig ab Wintersemester 2020/21 
+ 
+ 
+ 
+ 
+ 
+  Seite 1 von 44 Inhaltsverzeichnis: 
+ 
+B-MolMed-M101: Chemie I – Anorganik ...................................................................................... 3 
+B-MolMed-M102: Physik I ............................................................................................................ 5 
+B-MolMed-M103: Biologie ........................................................................................................... 7 
+B-MolMed-M104: Makroskopische Anatomie .............................................................................. 9 
+B-MolMed-M105: Medizinische Zellbiologie I ............................................................................ 11 
+B-MolMed-M106: Chemie II – Organik ....................................................................................... 13 
+B-MolMed-M107: Physik II ......................................................................................................... 15 
+B-MolMed-M108: Histologie I .................................................................................................... 17 
+B-MolMed-M109: Medizinische Zellbiologie II ........................................................................... 19 
+B-MolMed-M110: Physiologie I .................................................................................................. 21 
+B-MolMed-M111: Biochemie I .................................................................................................... 23 
+B-MolMed-M112: Histologie II ................................................................................................... 25 
+B-MolMed-M113: Biochemie II ................................................................................................... 27 
+B-MolMed-M114: Neuroanatomie ............................................................................................. 29 
+B-MolMed-M115: Physiologie II ................................................................................................. 31 
+B-MolMed-M116: Pathologie ..................................................................................................... 33 
+B-MolMed-M117: Pharmakologie .............................................................................................. 35 
+B-MolMed-M118: Mikrobiologie/Immunologie .......................................................................... 37 
+B-MolMed-M119: Humangenetik und Biostatistik ..................................................................... 39 
+B-MolMed-M120: Laborpraktikum ............................................................................................. 41 
+B-MolMed-M121: Bachelorarbeit ............................................................................................... 43 
+ 
+ 
+ 
+ 
+Abkürzungen: 
+LP: Leistungspunkte 
+SWS: Semesterwochenstunden 
+ 
+P: Pflichtveranstaltung 
+W: Wahlveranstaltung 
+WP: Wahlpflichtveranstaltung 
+ 
+V: Vorlesung 
+Ü: Übung 
+S: Seminar 
+Pr: Praktikum 
+KG: Kleingruppenunterricht  
+E: Einzelunterricht 
+T: Tutorium 
+K: Kurs 
+ 
+ 
+  Seite 2 von 44 B-MolMed-M101: Chemie I – Anorganik 
+Chemie I - Anorganik 
+1. Name des Moduls: 
+Chemie / Dr. Hutterer; Prof. Dr. Wegener 
+2. Fachgebiet / Verantwortlich: 
+Grundlagen der allgemeinen und physikalischen Chemie: 
+3. Inhalte des Moduls:  
+-  Makroskopische Erscheinungsformen der Materie 
+-  Aufbau und Eigenschaften der Materie (Atome, Iso-
+tope, Periodensystem, chemische Bindung, Struktur 
+von Molekülen) 
+-  Chemische Gleichungen und Stöchiometrie 
+-  Grundlagen der Thermodynamik:  
+Enthalpie, Entropie, Freie Enthalpie, chemisches 
+Gleichgewicht und Massenwirkungsgesetz 
+-  Gleichgewichtsreaktionen: Säure/Base-Reaktionen, 
+Redox-Reaktionen, Komplexe und Ligandenaus-
+tausch-Reaktionen, Lösungen und Lösungsgleichge-
+wichte, Phasen- und Verteilungsgleichgewichte 
+-  Gasgesetze, kolligative Eigenschaften von Lösungen; 
+Osmose 
+-  Kinetik 
+-  Methoden zur Stofftrennung  
+Studierende sind nach Abschluss des Moduls in der La-
+4. Qualifikationsziele des Moduls / 
+ge, 
+    zu erwerbende Kompetenzen: 
+-  den Aufbau chemischer Verbindungen zu erklären, 
+einfache Reaktionsgleichungen zu formulieren und 
+wesentliche Begriffe zur Beschreibung der Triebkraft 
+und Geschwindigkeit von Reaktionen zu erläutern 
+-  die wichtigsten Reaktionstypen (Säure/Base, Redox, 
+Komplexbildung, Löslichkeitsgleichgewichte) zu be-
+schreiben und auf biochemische Prozesse im Körper 
+anzuwenden 
+-  Standards zum sicheren Arbeiten im chemischen La-
+bor in ihr laborpraktisches Handeln zu implementie-
+ren und grundlegende analytische Methoden (z.B. 
+Maßanalyse, Photometrie) durchzuführen 
+Immatrikulation im Bachelorstudiengang Molekulare 
+5. Teilnahmevoraussetzungen: 
+Medizin 
+Grundkenntnisse in Mathematik, Physik und Chemie 
+a) empfohlene Kenntnisse: 
+b) verpflichtende Nachweise:  keine 
+Bachelorstudiengang Molekulare Medizin, 
+6. Verwendbarkeit des Moduls: 
+Humanmedizin  
+jährlich (jeweils zum Wintersemester) 
+7. Angebotsturnus des Moduls: 
+1 Semester 
+8. Das Modul kann absolviert werden in / 
+    vorgesehene Dauer des Moduls: 
+1. Fachsemester 
+9. Empfohlenes Fachsemester: 
+Arbeitsaufwand 
+10. Gesamtarbeitsaufwand des Moduls 
+gesamt in Stunden: 240  
+      (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit: 105 Stunden 
+2. Selbststudium (inkl. Prüfung): 135 Stunden 
+ 
+Leistungspunkte: 8 LP 
+ 
+  Seite 3 von 44 11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen er-
+füllt sind. 
+12. Modulbestandteile:   
+  P / 
+Lehrform  Themenbereich/Thema  SWS (Std.)  Studienleistungen  LP 
+Nr  WP / 
+W 
+1  P  V  Allgemeine Chemie für Studie- 3 SWS (45 Std.)    4 
+  rende der Medizin, Zahnmedizin 
+und der Molekularen Medizin 
+2  P  V  Einführung in das Chemische  1 SWS (15 Std.)    1 
+Praktikum für Studierende der 
+Medizin, Zahnmedizin und der 
+Molekularen Medizin 
+3  P  Pr  Chemisches Praktikum für Studie- 3 SWS (45 Std.)  regelmäßige Teilnahme  3 
+rende der Molekularen Medizin 
+(anorganischer und physikalisch-
+chemischer Teil) 
+Bemerkung:  
+Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Lehrveranstaltung zum Ge-
+samtaufwand des Moduls. Die LP werden erst nach Abschluss des Moduls vergeben. 
+13. Modulprüfung:  
+Nr  Kompetenz / Thema /  Art der Prüfung  Anteil an  
+Dauer  Zeitpunkt 
+Bereich 
+Modulnote 
+  Chemie I - Anorganik   Klausur  120 min  Ende   100 % 
+(zu den Inhalten der  Wintersemester 
+Lehrveranstaltungen Nr. 
+1, 2 und 3) 
+14. Bemerkungen:  
+Für die Lehrveranstaltung Nr. 3 ist die regelmäßige Teilnahme verpflichtend.  
+Es wird dringend empfohlen, vor Antritt der Modulprüfung zunächst sämtliche im elektronischen Prü-
+fungsverwaltungssystem erfassten Modulbestandteile zu absolvieren. Es bleibt den Studierenden jedoch 
+unbenommen, sich bereits vor Absolvierung sämtlicher Modulbestandteile für die Modulprüfung anzu-
+melden. Nach erfolgreicher Absolvierung sämtlicher Modulbestandteile haben Studierende jedoch den 
+erstmöglichen Prüfungstermin wahrzunehmen. 
+  Seite 4 von 44 B-MolMed-M102: Physik I 
+Physik I 
+1. Name des Moduls: 
+Physik / Prof. Dr. Schüller; PD Dr. Eroms 
+2. Fachgebiet / Verantwortlich: 
+3. Inhalte des Moduls:  - Eigenschaften von Licht 
+- Wellengleichungen 
+- Ausbreitung in Medien  
+- Geometrische Optik 
+- Wellenoptik 
+Studierende sind nach Abschluss des Moduls in der 
+4. Qualifikationsziele des Moduls / 
+Lage, 
+     zu erwerbende Kompetenzen: 
+- grundlegende Begriffe, Phänomene und Konzepte 
+aus dem Bereich der Optik zu beschreiben 
+- die erlernten Beschreibungs- und Lösungsmethoden 
+auf fortgeschrittene physikalische Problemstellungen 
+aus diesem Bereich zu übertragen 
+Immatrikulation im Bachelorstudiengang Molekulare 
+5. Teilnahmevoraussetzungen: 
+Medizin 
+Grundkenntnisse in Mathematik und Physik 
+a) empfohlene Kenntnisse: 
+keine 
+b) verpflichtende Nachweise: 
+Bachelorstudiengang Molekulare Medizin,  
+6. Verwendbarkeit des Moduls: 
+Humanmedizin 
+jährlich (jeweils zum Wintersemester) 
+7. Angebotsturnus des Moduls: 
+1 Semester 
+8. Das Modul kann absolviert werden in /  
+    vorgesehene Dauer des Moduls: 
+1. Fachsemester 
+9. Empfohlenes Fachsemester: 
+Arbeitsaufwand: 
+10. Gesamtarbeitsaufwand des Moduls 
+gesamt in Stunden: 150  
+      (Workload) / Anzahl Leistungspunkte: 
+davon:  
+1. Präsenzzeit: 60 Stunden 
+2. Selbststudium (inkl. Prüfung): 90 Stunden 
+ 
+Leistungspunkte: 5 LP 
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen er-
+füllt sind. 
+12. Modulbestandteile:   
+  P / 
+Lehr- Themenbereich/Thema  SWS (Std.)  Studienleistungen  LP 
+Nr  WP / 
+form 
+W  
+ 
+1  P  V  Physik III (Optik)  2 SWS (30 Std.)    3 
+2  P  Ü   Physik III (Optik)  2 SWS (30 Std.)  regelmäßige Teilnah- 2 
+me; Übungsaufgaben 
+3  W  V/Ü  Vorkurs Mathematik  0,7 SWS (10 Std.)     
+(Block)   
+Bemerkung: 
+Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Lehrveranstaltung zum Ge-
+samtaufwand des Moduls. Die LP werden erst nach Abschluss des Moduls vergeben. 
+Der "Vorkurs Mathematik" ist fakultativ und dient der Auffrischung der schulischen Kenntnisse.  
+  Seite 5 von 44 13. Modulprüfung:  
+Nr  Kompetenz / Thema /  Art der Prüfung  Anteil an  
+Dauer  Zeitpunkt 
+Bereich 
+Modulnote 
+  Physik I  Klausur  120 min  Ende   100 % 
+(zu den Inhalten der  Wintersemester 
+Lehrveranstaltung Nr. 1 
+und 2) 
+14. Bemerkungen:  
+Für die Lehrveranstaltung Nr. 2 ist die regelmäßige Teilnahme verpflichtend.  
+Es wird dringend empfohlen, vor Antritt der Modulprüfung zunächst sämtliche im elektronischen Prü-
+fungsverwaltungssystem erfassten Modulbestandteile zu absolvieren. Es bleibt den Studierenden jedoch 
+unbenommen, sich bereits vor Absolvierung sämtlicher Modulbestandteile für die Modulprüfung anzu-
+melden. Nach erfolgreicher Absolvierung sämtlicher Modulbestandteile haben Studierende jedoch den 
+erstmöglichen Prüfungstermin wahrzunehmen. 
+ 
+  Seite 6 von 44 B-MolMed-M103: Biologie 
+Biologie 
+1. Name des Moduls: 
+Biologie / Prof. Dr. Schneuwly 
+2. Fachgebiet / Verantwortlich: 
+3. Inhalte des Moduls:  - Allgemeine Zellbiologie, Zellteilung und Zelltod 
+- Genetik / Grundlagen der Humangenetik 
+- Grundlagen der Mikrobiologie und Ökologie   
+- Parasiten und Würmer 
+- Bauplan und Entwicklung von Wirbeltieren  
+- Biochemische Grundlagen der Zellbiologie; Zellstruk-
+tur; Membrantransport; Zellorganellen, Cytoskelett; 
+Zellbewegung, Intrazellulärer Transport, Genstruktur, 
+DNA-und RNA Struktur, Kernaufbau, Zellteilung, Sig-
+naltransduktion, Zelladhäsion, Zelldifferenzierung 
+Studierende sind nach Abschluss des Moduls in der 
+4. Qualifikationsziele des Moduls / 
+Lage, grundlegende Begriffe und Konzepte der allge-
+    zu erwerbende Kompetenzen: 
+meinen Biologie, Mikrobiologie, Genetik, Entwicklungs-
+biologie und Zellbiologie zu beschreiben und die ent-
+sprechenden physiologischen Funktionen auf molekula-
+rer, zellulärer und organismischer Ebene zu erklären 
+Immatrikulation im Bachelorstudiengang Molekulare 
+5. Teilnahmevoraussetzungen: 
+Medizin 
+Grundlagenwissen in Chemie und Biologie 
+a) empfohlene Kenntnisse: 
+keine 
+b) verpflichtende Nachweise: 
+Bachelorstudiengang Molekulare Medizin,  
+6. Verwendbarkeit des Moduls: 
+Humanmedizin 
+jährlich (jeweils zum Wintersemester) 
+7. Angebotsturnus des Moduls: 
+1 Semester 
+8. Das Modul kann absolviert werden in /  
+    vorgesehene Dauer des Moduls: 
+1. Semester 
+9. Empfohlenes Fachsemester: 
+Arbeitsaufwand: 
+10. Gesamtarbeitsaufwand des Moduls 
+gesamt in Stunden: 150 
+      (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit: 90 Stunden 
+2. Selbststudium (inkl. Prüfung): 60 Stunden 
+ 
+Leistungspunkte: 5 LP 
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen er-
+füllt sind. 
+12. Modulbestandteile:   
+  P / 
+Lehrform  Themenbereich/Thema  SWS (Std.)  Studienleistungen  LP 
+WP / 
+W    
+1  P  V   Einführung in die Biologie für  2 SWS (30 Std.)    2 
+Studierende der Humanmedizin, 
+Zahnmedizin und Molekularen 
+Medizin  
+2  P  K   Biologischer Kurs für Studierende  3 SWS (45 Std.)  regelmäßige Teilnahme  2 
+der Humanmedizin und der Mo-
+lekularen Medizin 
+3  P  S   Seminar für Studierende der Hu- 1 SWS (15 Std.)  regelmäßige Teilnahme;  1 
+  Seite 7 von 44 manmedizin und der Molekularen  Referat 
+Medizin 
+Bemerkung:  
+Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Lehrveranstaltung zum Ge-
+samtaufwand des Moduls. Die LP werden erst nach Abschluss des Moduls vergeben. 
+13.  Modulprüfung:  
+ Nr  Kompetenz / Thema /  Art der Prüfung  Anteil man 
+Dauer  Zeitpunkt 
+Bereich  Modulnote 
+  Biologie  Klausur  60 min  Ende  100 % 
+(zu den Inhalten der  Wintersemester   
+Lehrveranstaltungen Nr. 
+1, 2 und 3) 
+14. Bemerkungen:  
+Für die Lehrveranstaltungen Nr. 2 und 3 ist die regelmäßige Teilnahme verpflichtend.  
+Es wird dringend empfohlen, vor Antritt der Modulprüfung zunächst sämtliche im elektronischen Prü-
+fungsverwaltungssystem erfassten Modulbestandteile zu absolvieren. Es bleibt den Studierenden jedoch 
+unbenommen, sich bereits vor Absolvierung sämtlicher Modulbestandteile für die Modulprüfung anzu-
+melden. Nach erfolgreicher Absolvierung sämtlicher Modulbestandteile haben Studierende jedoch den 
+erstmöglichen Prüfungstermin wahrzunehmen. 
+ 
+Die Modulnote entspricht der Note der Modulabschlussprüfung. Die im Rahmen der Lehrveranstaltung 
+Nr. 3 (Seminar) zu erbringende Studienleistung (Referat) wird zu fünf Prozent mit der Note der Modulprü-
+fung (Klausur) verrechnet: zur Klausur, welche eine maximale Punktezahl von 40 umfasst, werden Leis-
+tungen aus dem Seminar (Referat) im Umfang von maximal 2 Punkten hinzugerechnet.  Die Verrechnung 
+der Note der Studienleistung kann jedoch nur im Rahmen einer bereits erfolgreich bestandenen Mo-
+dulprüfung erfolgen; die Klausur ist mindestens mit der Note 4,3 zu absolvieren. 
+  Seite 8 von 44 B-MolMed-M104: Makroskopische Anatomie 
+Makroskopische Anatomie 
+1. Name des Moduls: 
+Anatomie /  
+2. Fachgebiet / Verantwortlich: 
+Dr. Kritzenberger; PD Dr. Reichold; Prof. Dr. Tamm 
+Funktionelle und topographische Anatomie: 
+3. Inhalte des Moduls: 
+- Allgemeine und spezielle Anatomie des Bewegungs-
+apparates 
+- Verdauungsorgane 
+- Herz- Kreislauforgane 
+- Urogenitalorgane und endokrine Organe 
+- Rückenmark und peripheres Nervensystem 
+- Terminologie 
+Studierende sind nach Abschluss des Moduls in der 
+4. Qualifikationsziele des Moduls / 
+Lage, 
+    zu erwerbende Kompetenzen: 
+- die anatomische Nomenklatur und Richtungsbezeich-
+nungen korrekt anzuwenden und die grundlegenden 
+Begriffe und Konzepte der allgemeinen Anatomie zu 
+erklären 
+- die wesentlichen Knochenpunkte und die Funktions-
+weise der großen Gelenke, sowie Ursprung und An-
+satz der wichtigsten Muskeln zu benennen und deren 
+Funktionen herzuleiten 
+- die Topographie und die wesentlichen Bestandteile 
+der Brust-, Bauch- und Beckenorgane sowie die Or-
+ganisation der Körperhöhlen zu beschreiben und de-
+ren grundsätzliche Funktionen zuzuordnen 
+- die Organisation von Rückenmark, peripherem soma-
+tischen Nervensystem und vegetativem Nervensystem 
+zu erklären 
+Immatrikulation im Bachelorstudiengang Molekulare 
+5. Teilnahmevoraussetzungen: 
+Medizin 
+keine 
+a) empfohlene Kenntnisse: 
+keine 
+b) verpflichtende Nachweise: 
+Bachelorstudiengang Molekulare Medizin 
+6. Verwendbarkeit des Moduls: 
+jährlich (jeweils zum Wintersemester) 
+7. Angebotsturnus des Moduls: 
+1 Semester 
+8. Das Modul kann absolviert werden in / 
+    vorgesehene Dauer des Moduls: 
+1. Fachsemester 
+9. Empfohlenes Fachsemester: 
+Arbeitsaufwand: 
+10. Gesamtarbeitsaufwand des Moduls 
+gesamt in Stunden: 210 
+      (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit: 67,5 Stunden 
+2. Selbststudium (inkl. Prüfung): 142,5 Stunden  
+ 
+Leistungspunkte: 7 LP 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen er-
+füllt sind. 
+12. Modulbestandteile:   
+  P / 
+Lehrform  Themenbereich/Thema  SWS (Std.)  Studienleistungen  LP 
+WP / 
+  Seite 9 von 44 W    
+1  P  V   Funktionelle und topographische  2 SWS (30 Std.)    3 
+Anatomie  
+2  P  S  Topographische Anatomie   2 SWS (30 Std.)  regelmäßige Teilnahme  3 
+ 
+3  P  K  Topographische Anatomie  0,5 SWS (7,5  regelmäßige Teilnahme  1 
+Std.) 
+4  W  V  Medizinische Terminologie   1 SWS (15 Std.)     
+ 
+5  W  T  Anatomie  1 SWS (15 Std.)     
+Bemerkung: 
+Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Lehrveranstaltung zum Ge-
+samtaufwand des Moduls. Die LP werden erst nach Abschluss des Moduls vergeben.  
+ 
+Die Lehrveranstaltungen Nr. 4 und 5 sind freiwillige Lehrangebote. 
+13. Modulprüfung:  
+Nr  Kompetenz / Thema /  Art der Prüfung  Anteil an Mo-
+Dauer  Zeitpunkt 
+Bereich  dulnote 
+  Makroskopische Anato- Klausur  45 min  Ende   100 % 
+mie  Wintersemester 
+(zu den Inhalten der 
+Lehrveranstaltungen Nr. 
+1, 2 und 3) 
+14. Bemerkungen:  
+Für die Lehrveranstaltungen Nr. 2 und Nr. 3 ist die regelmäßige Teilnahme verpflichtend.  
+Es wird dringend empfohlen, vor Antritt der Modulprüfung zunächst sämtliche im elektronischen Prü-
+fungsverwaltungssystem erfassten Modulbestandteile zu absolvieren. Es bleibt den Studierenden jedoch 
+unbenommen, sich bereits vor Absolvierung sämtlicher Modulbestandteile für die Modulprüfung anzu-
+melden. Nach erfolgreicher Absolvierung sämtlicher Modulbestandteile haben Studierende jedoch den 
+erstmöglichen Prüfungstermin wahrzunehmen. 
+  Seite 10 von 44 B-MolMed-M105: Medizinische Zellbiologie I 
+Medizinische Zellbiologie I 
+1. Name des Moduls: 
+Medizinische Zellbiologie /  
+2. Fachgebiet / Verantwortlich: 
+PD Dr. Bandulik; Prof. Dr. Warth 
+Grundlagen der Pathophysiologie und Pathobioche-
+3. Inhalte des Moduls: 
+mie, 
+Moderne Analytik und Labortechniken in der Medizi-
+nischen Zellbiologie  
+Studierende sind nach Abschluss des Moduls in der 
+4. Qualifikationsziele des Moduls / 
+Lage, 
+    zu erwerbende Kompetenzen: 
+- grundlegende pathophysiologische und pathobio-
+chemische Mechanismen zu erklären 
+- ihre erworbene praktische Methodenkompetenz im 
+Bereich Zellbiologie unter Anleitung auf ihr labor-
+praktisches Handeln zu übertragen 
+- grundlegende wissenschaftsethische Aspekte und 
+die Grundsätze "Guter Wissenschaftlicher Praxis" zu 
+erläutern und in ihr Handeln zu integrieren 
+Immatrikulation im Bachelorstudiengang Molekulare 
+5. Teilnahmevoraussetzungen: 
+Medizin 
+Grundkenntnisse Physik, Chemie und Biologie 
+a) empfohlene Kenntnisse: 
+keine 
+b) verpflichtende Nachweise: 
+Bachelorstudiengang Molekulare Medizin 
+6. Verwendbarkeit des Moduls: 
+jährlich (jeweils zum Wintersemester) 
+7. Angebotsturnus des Moduls: 
+1 Semester  
+8. Das Modul kann absolviert werden in / 
+    vorgesehene Dauer des Moduls: 
+1. Fachsemester 
+9. Empfohlenes Fachsemester: 
+Arbeitsaufwand: 
+10. Gesamtarbeitsaufwand des Moduls 
+gesamt in Stunden: 330  
+      (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit: 128 Stunden 
+2. Selbststudium (inkl. Prüfung): 202 Stunden 
+ 
+Leistungspunkte: 11 LP 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen er-
+füllt sind. 
+12. Modulbestandteile:   
+  P / 
+Lehr- Themenbereich/Thema  SWS (Std.)  Studienleistungen  LP 
+WP / 
+form 
+W  
+ 
+1  P  S   Zellbiologie I   1 SWS (15 Std.)  regelmäßige Teilnahme  2 
+2  P  Pr  Molekulare Medizin   6 SWS (90 Std.)  regelmäßige Teilnahme  7 
+3  P  V  Zellbiologie I   1,5 SWS (23 Std.)    2 
+ 
+Bemerkung:  
+Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Lehrveranstaltung zum Ge-
+samtaufwand des Moduls. Die LP werden erst nach Abschluss des Moduls vergeben. 
+13. Modulprüfung:  
+  Seite 11 von 44 Nr  Kompetenz / Thema /  Art der Prüfung  Anteil an 
+Dauer  Zeitpunkt 
+Bereich  Modulnote 
+  Medizinische Zellbiologie  Klausur  90 min  Ende   100 % 
+(zu den Inhalten der  Wintersemester 
+Lehrveranstaltungen Nr. 
+1, 2 und 3) 
+14. Bemerkungen:  
+Für die Lehrveranstaltungen Nr. 1 und 2 ist die regelmäßige Teilnahme verpflichtend.  
+Es wird dringend empfohlen, vor Antritt der Modulprüfung zunächst sämtliche im elektronischen Prü-
+fungsverwaltungssystem erfassten Modulbestandteile zu absolvieren. Es bleibt den Studierenden jedoch 
+unbenommen, sich bereits vor Absolvierung sämtlicher Modulbestandteile für die Modulprüfung anzu-
+melden. Nach erfolgreicher Absolvierung sämtlicher Modulbestandteile haben Studierende jedoch den 
+erstmöglichen Prüfungstermin wahrzunehmen. 
+ 
+  Seite 12 von 44 B-MolMed-M106: Chemie II – Organik 
+Chemie II - Organik 
+1. Name des Moduls: 
+Chemie / Dr. Hutterer; Prof. Dr. Wegener 
+2. Fachgebiet / Verantwortlich: 
+Grundlagen der organischen Chemie: 
+3. Inhalte des Moduls:  
+-  Bindungseigenschaften des Kohlenstoffs, induktive 
+und mesomere Effekte, Elektrophile und Nucleophi-
+le, Stereochemie 
+-  Kohlenstoffverbindungen (Acyclische Verbindungen, 
+funktionelle Gruppen, Carbo- und Heterocyclen),  
+-  Stoffklassen und Stoffumwandlungen: Additions- 
+/Eliminierungs-Reaktionen, Substitutionsreaktionen, 
+Carbonylchemie 
+Chemie biologisch und medizinisch relevanter Natur-
+stoffe: 
+-  Kohlenhydrate 
+-  Aminosäuren, Peptide, Proteine 
+-  Fettsäuren, Lipide 
+-  Nukleotide, Nukleinsäuren 
+Studierende sind nach Abschluss des Moduls in der 
+4. Qualifikationsziele des Moduls / 
+Lage, 
+    zu erwerbende Kompetenzen: 
+-  grundsätzliche strukturelle Merkmale und Reakti-
+onseigenschaften der wichtigsten organischen Sub-
+stanzklassen zu beschreiben und dieses Wissen auf 
+biochemische Reaktionen zu übertragen 
+-  Aufbau und Eigenschaften der wichtigsten bioche-
+mischen Substanzklassen zu erklären und auf die 
+Wirkungsweise von Enzymen oder den Ablauf von 
+Stoffwechselprozessen zu beziehen 
+-  die Standards zum sicheren Arbeiten im chemischen 
+Labor in ihr laborpraktisches Handeln zu implemen-
+tieren und unter Anleitung grundlegende analyti-
+sche Methoden anzuwenden 
+Immatrikulation im Bachelorstudiengang Molekulare 
+5. Teilnahmevoraussetzungen: 
+Medizin 
+Grundkenntnisse in Mathematik, Physik und Chemie 
+a) empfohlene Kenntnisse: 
+Kenntnisse in allgemeiner und physikalischer Chemie 
+b) verpflichtende Nachweise:  keine 
+Bachelorstudiengang Molekulare Medizin,  
+6. Verwendbarkeit des Moduls: 
+Humanmedizin  
+jährlich (jeweils zum Sommersemester) 
+7. Angebotsturnus des Moduls: 
+1 Semester 
+8. Das Modul kann absolviert werden in / 
+    vorgesehene Dauer des Moduls: 
+2. Fachsemester 
+9. Empfohlenes Fachsemester: 
+Arbeitsaufwand: 
+10. Gesamtarbeitsaufwand des Moduls 
+gesamt in Stunden: 240 
+     (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit: 105 Stunden 
+2. Selbststudium (inkl. Prüfung): 135 Stunden 
+ 
+Leistungspunkte: 8 LP 
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen er-
+  Seite 13 von 44 füllt sind. 
+12. Modulbestandteile:   
+  P / 
+Lehrform  Themenbereich/Thema  SWS (Std.)  Studienleistungen  LP 
+WP / 
+W  
+1  P  V  Allgemeine Chemie für Studie- 3 SWS (45 Std.)    4 
+  rende der Medizin und der 
+Zahnmedizin (organisch-
+chemischer Teil) 
+2  P  V  Einführung in das Chemische  1 SWS (15 Std.)    1 
+Praktikum für Studierende der 
+Medizin und der Zahnmedizin 
+3  P  Pr  Chemisches Praktikum für  3 SWS (45 Std.)   regelmäßige Teilnahme  3 
+  Studierende der Molekularen 
+Medizin (organisch-
+chemischer Teil)  
+Bemerkung:  
+Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Lehrveranstaltung zum Ge-
+samtaufwand des Moduls. Die LP werden erst nach Abschluss des Moduls vergeben. 
+13.  Modulprüfung:  
+Nr  Kompetenz / Thema /  Art der Prüfung  Anteil an 
+Dauer  Zeitpunkt 
+Bereich  Modulnote 
+  Chemie II - Organik   Klausur  120 min  Ende   100 % 
+(zu den Inhalten der  Sommersemester 
+Lehrveranstaltungen Nr. 
+1, 2 und 3) 
+14. Bemerkungen:  
+Für die Lehrveranstaltung Nr. 3 ist die regelmäßige Teilnahme verpflichtend.  
+Es wird dringend empfohlen, vor Antritt der Modulprüfung zunächst sämtliche im elektronischen Prü-
+fungsverwaltungssystem erfassten Modulbestandteile zu absolvieren. Es bleibt den Studierenden jedoch 
+unbenommen, sich bereits vor Absolvierung sämtlicher Modulbestandteile für die Modulprüfung anzu-
+melden. Nach erfolgreicher Absolvierung sämtlicher Modulbestandteile haben Studierende jedoch den 
+erstmöglichen Prüfungstermin wahrzunehmen. 
+ 
+  Seite 14 von 44 B-MolMed-M107: Physik II 
+Physik II 
+1. Name des Moduls: 
+Physik / Prof. Dr. Schüller; Dr. Weymouth; Dr. Paradiso 
+2. Fachgebiet / Verantwortlich: 
+3. Inhalte des Moduls:  - Grundbegriffe des Messens und der 
+quantitativen Beschreibung  
+- Mechanik  
+- Elektrizitätslehre  
+- Schwingungen und Wellen  
+- Ionisierende Strahlung, Radioaktivität 
+Studierende sind nach Abschluss des Moduls in der 
+4. Qualifikationsziele des Moduls / 
+Lage, grundlegende Begriffe, Phänomene und Konzep-
+    zu erwerbende Kompetenzen: 
+te der oben genannten Bereiche der Physik, der physi-
+kalischen Einheiten und der physikalischen Messtech-
+nik zu erklären. 
+Immatrikulation im Bachelorstudiengang Molekulare 
+5. Teilnahmevoraussetzungen: 
+Medizin 
+Solide Schulkenntnisse in den Fächern Mathematik und 
+a) empfohlene Kenntnisse: 
+Physik 
+keine 
+b) verpflichtende Nachweise: 
+Bachelorstudiengang Molekulare Medizin,  
+6. Verwendbarkeit des Moduls: 
+Humanmedizin 
+jährlich (jeweils zum Sommersemester) 
+7. Angebotsturnus des Moduls: 
+1 Semester 
+8. Das Modul kann absolviert werden in / 
+    vorgesehene Dauer des Moduls: 
+2. Fachsemester 
+9. Empfohlenes Fachsemester: 
+Arbeitsaufwand: 
+10. Gesamtarbeitsaufwand des Moduls 
+gesamt in Stunden: 150 
+     (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit: 83 Stunden 
+2. Selbststudium (inkl. Prüfung): 67 Stunden  
+ 
+Leistungspunkte: 5 LP 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen er-
+füllt sind. 
+12. Modulbestandteile:   
+  P / 
+Lehr- Themenbereich/Thema  SWS (Std.)  Studienleistungen  LP 
+WP / 
+form 
+W  
+ 
+1  P  V  Physik für Studierende der Mo- 3 SWS (45 Std.)    3 
+  lekularen Medizin  
+2  P  Pr  Physikalisches Praktikum für  2,5 SWS (38 Std.)  regelmäßige Teilnahme  2 
+  Studierende der Molekularen 
+Medizin 
+Bemerkung: 
+Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Lehrveranstaltung zum Ge-
+samtaufwand des Moduls. Die LP werden erst nach Abschluss des Moduls vergeben.  
+13.  Modulprüfung:  
+  Seite 15 von 44 Nr  Kompetenz / Thema /  Art der Prüfung  Anteil an Mo-
+Dauer  Zeitpunkt 
+Bereich  dulnote 
+  Physik II   Klausur  120 min  Ende   100 % 
+(zu den Inhalten der  Sommersemester 
+Lehrveranstaltung Nr. 1 
+und 2) 
+14. Bemerkungen:  
+Für die Lehrveranstaltung Nr. 2 ist die regelmäßige Teilnahme verpflichtend.  
+Es wird dringend empfohlen, vor Antritt der Modulprüfung zunächst sämtliche im elektronischen Prü-
+fungsverwaltungssystem erfassten Modulbestandteile zu absolvieren. Es bleibt den Studierenden jedoch 
+unbenommen, sich bereits vor Absolvierung sämtlicher Modulbestandteile für die Modulprüfung anzu-
+melden. Nach erfolgreicher Absolvierung sämtlicher Modulbestandteile haben Studierende jedoch den 
+erstmöglichen Prüfungstermin wahrzunehmen. 
+  Seite 16 von 44 B-MolMed-M108: Histologie I 
+Histologie I 
+1. Name des Moduls: 
+Anatomie / Prof. Dr. Witzgall; Prof. Dr. Tamm; Dr. 
+2. Fachgebiet / Verantwortlich: 
+Kritzenberger; PD Dr. Reichold 
+-  Allgemeine mikroskopische Anatomie  
+3. Inhalte des Moduls: 
+   (Zellbiologie und allgemeine Gewebelehre) 
+- Blut, Blutgefäße, Knochenmark 
+- Haut 
+- Grundzüge der Embryologie 
+Studierende sind nach Abschluss des Moduls in der 
+4. Qualifikationsziele des Moduls / 
+Lage, 
+    zu erwerbende Kompetenzen: 
+- die Bestandteile und Funktionen der Zelle und der 
+Grundgewebe bis in molekulare Einzelheiten wie-
+derzugeben 
+- die Bestandteile und grundlegenden Funktionen des 
+peripheren Blutes und des Knochenmarks sowie den 
+Grundaufbau der Kreislauforgane und der Haut zu 
+erläutern 
+- gängige histologische Färbungen am Präparat zu 
+erkennen und für die Diagnose zu nutzen 
+- am Lichtmikroskop und an Bildern histologischer 
+Präparate die einzelnen Grundgewebetypen diffe-
+rentialdiagnostisch einzuordnen und elektronenmik-
+roskopische Bilder von Zellen und Zellbestandteilen 
+sicher zu diagnostizieren 
+Immatrikulation im Bachelorstudiengang Molekulare 
+5. Teilnahmevoraussetzungen: 
+Medizin 
+Zellbiologie (B-MolMed-M105) 
+a) empfohlene Kenntnisse: 
+keine 
+b) verpflichtende Nachweise: 
+Bachelorstudiengang Molekulare Medizin,  
+6. Verwendbarkeit des Moduls: 
+Humanmedizin 
+jährlich (jeweils zum Sommersemester) 
+7. Angebotsturnus des Moduls: 
+2 Semester 
+8. Das Modul kann absolviert werden in / 
+    vorgesehene Dauer des Moduls: 
+2. und 3. Fachsemester 
+9. Empfohlenes Fachsemester: 
+Arbeitsaufwand: 
+10. Gesamtarbeitsaufwand des Moduls 
+gesamt in Stunden: 270 Std.  
+     (Workload) / Anzahl Leistungspunkte: 
+davon:  
+1. Präsenzzeit: 120 Stunden  
+2. Selbststudium (inkl. Prüfung): 150 Stunden  
+ 
+Leistungspunkte: 9 LP 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen er-
+füllt sind. 
+12. Modulbestandteile:   
+  P / 
+Lehrform  Themenbereich/Thema  SWS (Std.)  Studienleistungen  LP 
+WP / 
+W  
+1  P  V  Histologie I  3 SWS (45 Std.)    3 
+2  P  V  Embryologie I und II  2 SWS (30 Std.)    1 
+3  P  S  Histologie I für Molekularme- 3 SWS (45 Std.)  regelmäßige Teilnahme  5 
+  Seite 17 von 44 diziner und differentialdiag-
+nostisches Seminar der Histo-
+logie 
+Bemerkung:  
+Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Lehrveranstaltung zum Ge-
+samtaufwand des Moduls. Die LP werden erst nach Abschluss des Moduls vergeben. 
+13. Modulprüfung:  
+Nr  Kompetenz / Thema /  Art der Prüfung  Anteil an 
+Dauer  Zeitpunkt 
+Bereich  Modulnote 
+  Histologie I   Klausur  60 min  Ende des  100 % 
+(zu den Inhalten der  Histologie-
+Lehrveranstaltungen   Seminars 
+Nr. 1 und 3) 
+14. Bemerkungen:  
+Für die Lehrveranstaltung Nr. 3 ist die regelmäßige Teilnahme verpflichtend. 
+Es wird dringend empfohlen, vor Antritt der Modulprüfung zunächst sämtliche im elektronischen Prü-
+fungsverwaltungssystem erfassten Modulbestandteile zu absolvieren. Es bleibt den Studierenden jedoch 
+unbenommen, sich bereits vor Absolvierung sämtlicher Modulbestandteile für die Modulprüfung anzu-
+melden. Nach erfolgreicher Absolvierung sämtlicher Modulbestandteile haben Studierende jedoch den 
+erstmöglichen Prüfungstermin wahrzunehmen. 
+  Seite 18 von 44 B-MolMed-M109: Medizinische Zellbiologie II 
+Medizinische Zellbiologie II 
+1. Name des Moduls: 
+Medizinische Zellbiologie / Dr. Forst; PD Dr. Bandulik; 
+2. Fachgebiet / Verantwortlich: 
+PD Dr. Reichold; Prof. Dr. Warth 
+3. Inhalte des Moduls:  - Molekulare Entstehungsmechanismen von Erkran-
+kungen 
+- Moderne Analytik und Labortechniken in der Medi-
+zinischen Zellbiologie  
+Studierende sind nach Abschluss des Moduls in der 
+4. Qualifikationsziele des Moduls / 
+Lage, 
+    zu erwerbende Kompetenzen: 
+- molekulare Mechanismen der Krankheitsentstehung 
+zu beschreiben und zu analysieren 
+- ihre erworbene Methodenkompetenz im Bereich 
+Zellbiologie und Zellphysiologie unter Anleitung in 
+ihre Laborpraxis umzusetzen 
+- grundlegende wissenschaftsethische Aspekte und 
+die Grundsätze "Guter Wissenschaftlicher Praxis" zu 
+erläutern und in ihr praktisches Handeln zu imple-
+mentieren 
+Immatrikulation im Bachelorstudiengang Molekulare 
+5. Teilnahmevoraussetzungen: 
+Medizin 
+Grundkenntnisse Physik (B-MolMed-M102 und 107), 
+a) empfohlene Kenntnisse: 
+Chemie (B-MolMed-M101 und 106), Biologie (B-
+MolMed-M103) und Zellbiologie (B-MolMed-M105) 
+keine 
+b) verpflichtende Nachweise: 
+Bachelorstudiengang Molekulare Medizin 
+6. Verwendbarkeit des Moduls: 
+jährlich (jeweils zum Sommersemester) 
+7. Angebotsturnus des Moduls: 
+1 Semester  
+8. Das Modul kann absolviert werden in / 
+    vorgesehene Dauer des Moduls: 
+2. Fachsemester 
+9. Empfohlenes Fachsemester: 
+Arbeitsaufwand: 
+10. Gesamtarbeitsaufwand des Moduls 
+gesamt in Stunden: 450  
+      (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit: 173 Stunden 
+2. Selbststudium (inkl. Prüfung): 277 Stunden  
+ 
+Leistungspunkte: 15 LP 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen er-
+füllt sind. 
+12. Modulbestandteile:   
+  P / 
+Lehrform  Themenbereich/Thema  SWS (Std.)  Studienleistungen  LP 
+WP / 
+W    
+1  P  S   Medizinische Zellbiologie   2 SWS (30 Std.)  Referat;   3 
+regelmäßige Teilnahme 
+2  P  KG  Methodenkurs Zellbiologie,  8 SWS (120 Std.)  Portfolio;   10 
+Elektrophysiologie und   regelmäßige Teilnahme 
+Fluoreszenztechnik  
+3  P  V  Zellbiologie II   1,5 SWS (23 Std.)    2 
+Bemerkung: 
+  Seite 19 von 44 Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Lehrveranstaltung zum Ge-
+samtaufwand des Moduls. Die LP werden erst nach Abschluss des Moduls vergeben.  
+13. Modulprüfung:  
+Nr  Kompetenz / Thema / Be- Art der Prüfung  Anteil an 
+Dauer  Zeitpunkt 
+reich  Modulnote 
+  Medizinische Zellbiologie II  Klausur  90 min  Ende   100 % 
+(zu den Inhalten der Lehr- Sommersemester 
+veranstaltungen Nr. 1,2 
+und 3) 
+14. Bemerkungen:  
+Für die Lehrveranstaltungen Nr. 1 und 2 ist die regelmäßige Teilnahme verpflichtend.  
+Das Portfolio zu Nr. 12.2 besteht aus zwei schriftlichen Protokollen und einer Bildanalyse. 
+Es wird dringend empfohlen, vor Antritt der Modulprüfung zunächst sämtliche im elektronischen Prü-
+fungsverwaltungssystem erfassten Modulbestandteile zu absolvieren. Es bleibt den Studierenden jedoch 
+unbenommen, sich bereits vor Absolvierung sämtlicher Modulbestandteile für die Modulprüfung anzu-
+melden. Nach erfolgreicher Absolvierung sämtlicher Modulbestandteile haben Studierende jedoch den 
+erstmöglichen Prüfungstermin wahrzunehmen. 
+  Seite 20 von 44 B-MolMed-M110: Physiologie I 
+Physiologie I 
+1. Name des Moduls: 
+Physiologie / Prof. Dr. Kurtz; Prof. Dr. Schweda; Prof. 
+2. Fachgebiet / Verantwortlich: 
+Dr. Castrop; Prof. Dr. Kunzelmann; Prof. Dr. Warth 
+3. Inhalte des Moduls:  - Vegetative Physiologie: 
+Blut und Immunsystem; Herz; Blutkreislauf; Atmung; 
+Arbeits- und Leistungsphysiologie; Ernährung; Ver-
+dauungstrakt; Leber; Energie- und Wärmehaushalt; 
+Wasser- und Elektrolythaushalt; Nierenfunktion; 
+Muskulatur; Energiehaushalt und Wachstum; Alter 
+- Grundlagen der Neurophysiologie  
+- Grundlagen der Pathophysiologie I 
+Studierende sind nach Abschluss des Moduls in der 
+4. Qualifikationsziele des Moduls / 
+Lage, grundlegende Begriffe, Phänomene und Konzep-
+    zu erwerbende Kompetenzen: 
+te aus dem Bereich der oben genannten Themen zu 
+beschreiben und zu erklären und die physiologischen 
+Funktionen auf molekularer, zellulärer und organismi-
+scher Ebene zu analysieren. 
+Immatrikulation im Bachelorstudiengang Molekulare 
+5. Teilnahmevoraussetzungen: 
+Medizin 
+Grundkenntnisse Physik (B-MolMed-M102 und 107), 
+a) empfohlene Kenntnisse: 
+Chemie (B-MolMed-M101 und 106) und Biologie (B-
+MolMed-M103) 
+keine 
+b) verpflichtende Nachweise: 
+Bachelorstudiengang Molekulare Medizin  
+6. Verwendbarkeit des Moduls: 
+jährlich (jeweils zum Sommersemester) 
+7. Angebotsturnus des Moduls: 
+2 Semester  
+8. Das Modul kann absolviert werden in / 
+    vorgesehene Dauer des Moduls: 
+2. und 3. Fachsemester 
+9. Empfohlenes Fachsemester: 
+Arbeitsaufwand: 
+10. Gesamtarbeitsaufwand des Moduls 
+gesamt in Stunden: 420 
+     (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit: 165 Stunden 
+2. Selbststudium (inkl. Prüfung): 255 Stunden  
+ 
+Leistungspunkte: 14 LP 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen er-
+füllt sind. 
+12. Modulbestandteile:   
+  P / 
+Lehrform  Themenbereich/Thema  SWS (Std.)  Studienleistungen  LP 
+WP / 
+W   
+1  P  V  Physiologie II   4 SWS (60 Std.)    6 
+2  P  S  Physiologisches Seminar für  1 SWS (15 Std.)  regelmäßige Teilnahme  2 
+Molekularmediziner  
+3  P  Pr  Physiologisches Praktikum  4 SWS (60 Std.)  regelmäßige Teilnahme  4 
+  (Ende Wintersemester) 
+4  P  S  Physiologisches Seminar zum  1 SWS (15 Std.)  regelmäßige Teilnahme  1 
+  Praktikum  
+5  P  S  Integriertes klinisches / vorkli- 1 SWS (15 Std.)    1 
+  Seite 21 von 44   nisches Seminar zu physiolo-
+gisch relevanten Themen  
+Bemerkung: 
+Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Lehrveranstaltung zum Ge-
+samtaufwand des Moduls. Die LP werden erst nach Abschluss des Moduls vergeben. 
+13. Modulprüfung:  
+Nr  Kompetenz / Thema /  Art der Prüfung  Anteil an 
+Dauer  Zeitpunkt 
+Bereich  Modulnote 
+  Physiologie I  Klausur  60 min  Ende des   100 % 
+(zu den Inhalten der  Physiologischen 
+Lehrveranstaltungen Nr.  Seminars  
+1, 2 und 3) 
+14. Bemerkungen:  
+Für die Lehrveranstaltungen Nr. 2, 3 und 4 ist die regelmäßige Teilnahme verpflichtend.  
+Für die Lehrveranstaltung Nr. 5 wird die regelmäßige Teilnahme empfohlen. 
+Es wird dringend empfohlen, vor Antritt der Modulprüfung zunächst sämtliche im elektronischen Prü-
+fungsverwaltungssystem erfassten Modulbestandteile zu absolvieren. Es bleibt den Studierenden jedoch 
+unbenommen, sich bereits vor Absolvierung sämtlicher Modulbestandteile für die Modulprüfung anzu-
+melden. Nach erfolgreicher Absolvierung sämtlicher Modulbestandteile haben Studierende jedoch den 
+erstmöglichen Prüfungstermin wahrzunehmen. 
+  Seite 22 von 44 B-MolMed-M111: Biochemie I 
+1. Name des Moduls:  Biochemie I 
+2. Fachgebiet / Verantwortlich:  Biochemie / Prof. Dr. Meister, Dr. Danner 
+3. Inhalte des Moduls:  - Struktur und Eigenschaften der Aminosäuren 
+- Struktur, Funktion und Reinigung von Proteinen; 
+Enzymkinetik und ausgewählte katalytische Mecha-
+nismen 
+- Stoffwechsel-Grundprinzipien (Anabolismus, Kata-
+bolismus, ATP, thermodynamische Grundlagen); 
+Kohlenhydrat- und Fettabbau zur Energiegewinnung 
+(Glycolyse, Lipolyse, β-Oxidation); Fettsäure- und Li-
+pidbiosynthese; Citratzyklus; Atmungskette und oxi-
+dative Phosphorylierung; Gluconeogenese und Cori-
+Zyklus; Proteinabbau; Aminosäurestoffwechsel 
+(Transaminierung, Harnstoffzyklus); Glycogenstoff-
+wechsel 
+- Membranbiochemie (Aufbau, Membrantransport-
+mechanismen, Ionenkanäle, Membran- und Akti-
+onspotentiale, ligandengesteuerte Ionenkanäle) 
+- Hormonelle Regulation des Stoffwechsels (G-
+Protein-gekoppelte Rezeptoren, Kernrezeptoren, 
+Kinase-gekoppelte Rezeptoren, Glucagon und Insu-
+lin) 
+Studierende sind nach Abschluss des Moduls in der 
+4. Qualifikationsziele des Moduls / 
+Lage, die grundlegenden Begriffe, Phänomene und 
+    zu erwerbende Kompetenzen: 
+Konzepte der chemischen Eigenschaften und Reakti-
+onsfähigkeiten der wichtigsten Stoffklassen in der 
+Biochemie zu erklären sowie die Energiegewinnung 
+und Regulation des Katabolismus zu erläutern und die 
+dabei zugrundeliegenden Motive aufzuzeigen. 
+Immatrikulation im Bachelorstudiengang Molekulare 
+5. Teilnahmevoraussetzungen: 
+Medizin 
+Grundlegende Kenntnisse der Organischen Chemie (B-
+a) empfohlene Kenntnisse: 
+MolMed-M106) 
+keine 
+b) verpflichtende Nachweise: 
+Bachelorstudiengang Molekulare Medizin 
+6. Verwendbarkeit des Moduls: 
+7. Angebotsturnus des Moduls:  jährlich (jeweils zum Wintersemester) 
+8. Das Modul kann absolviert werden in / 
+1 Semester 
+    vorgesehene Dauer des Moduls: 
+9. Empfohlenes Fachsemester:  3. Fachsemester 
+Arbeitsaufwand: 
+10. Gesamtarbeitsaufwand des Moduls 
+gesamt in Stunden: 180  
+      (Workload) / Anzahl Leistungspunkte: 
+davon:  
+1. Präsenzzeit: 75 Stunden 
+2. Selbststudium (inkl. Prüfung): 105 Stunden 
+ 
+Leistungspunkte: 6 LP 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen er-
+füllt sind. 
+12. Modulbestandteile:   
+  Seite 23 von 44   P / 
+Lehrform  Themenbereich/Thema  SWS (Std.)  Studienleistungen  LP 
+WP / 
+W    
+1  P  V   Biochemie - Teil A   4 SWS (60 Std)    5 
+2  P  S  Integriertes klinisches / vorklini- 1 SWS (15 Std)    1 
+sches Seminar zu biochemisch 
+relevanten Themen  
+3  W  Ü  Biochemie -Teil A  1 SWS (15 Std)     
+Bemerkung: 
+Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Lehrveranstaltung zum Ge-
+samtaufwand des Moduls. Die LP werden erst nach Abschluss des Moduls vergeben. 
+ 
+Die Lehrveranstaltung Nr. 3 ist freiwillig. 
+13. Modulprüfung:  
+Nr  Kompetenz / Thema/ Be- Art der Prüfung  Anteil an 
+Dauer  Zeitpunkt 
+reich  Modulnote 
+  Biochemie - Teil A   Klausur  70 min  Ende der Vorle- 100 % 
+(zu den Inhalten der Lehr- sung Biochemie – 
+veranstaltung Nr. 1)  Teil A im Winter-
+semester  
+14. Bemerkungen:  
+Für die Lehrveranstaltung Nr. 2 wird die regelmäßige Teilnahme empfohlen.  
+Es wird dringend empfohlen, vor Antritt der Modulprüfung zunächst sämtliche im elektronischen Prü-
+fungsverwaltungssystem erfassten Modulbestandteile zu absolvieren. Es bleibt den Studierenden jedoch 
+unbenommen, sich bereits vor Absolvierung sämtlicher Modulbestandteile für die Modulprüfung anzu-
+melden. Nach erfolgreicher Absolvierung sämtlicher Modulbestandteile haben Studierende jedoch den 
+erstmöglichen Prüfungstermin wahrzunehmen. 
+ 
+ 
+  Seite 24 von 44 B-MolMed-M112: Histologie II 
+Histologie II 
+1. Name des Moduls: 
+Anatomie / Prof. Dr. Witzgall; Dr. Kritzenberger; PD Dr. 
+2. Fachgebiet / Verantwortlich: 
+Reichold 
+Spezielle mikroskopische Anatomie: Funktionelle Histo-
+3. Inhalte des Moduls: 
+logie und Embryologie aller wichtigen Organe 
+Studierende sind nach Abschluss des Moduls in der 
+4. Qualifikationsziele des Moduls / 
+Lage, 
+    zu erwerbende Kompetenzen: 
+- den histologischen Aufbau und die Funktion der Or-
+gane des Immunsystems, den Aufbau des Respirati-
+onssystems, der Verdauungsorgane, der endokrinen 
+Organe, der Niere und ableitenden Harnwege sowie 
+der weiblichen und männlichen Geschlechtsorgane 
+aufzuzeigen 
+- die inneren Organe und ihre Bestandteile am Licht-
+mikroskop und an histologischen Abbildungen sicher 
+zu identifizieren, differentialdiagnostisch zu analysie-
+ren und deren Bestandteile entsprechend der gültigen 
+anatomischen Nomenklatur zu benennen 
+Immatrikulation im Bachelorstudiengang Molekulare 
+5. Teilnahmevoraussetzungen: 
+Medizin 
+Kenntnisse der Allgemeinen Histologie und Embryolo-
+a) empfohlene Kenntnisse: 
+gie (B-MolMed-M108) 
+keine 
+b) verpflichtende Nachweise: 
+Bachelorstudiengang Molekulare Medizin 
+6. Verwendbarkeit des Moduls: 
+jährlich (jeweils zum Sommersemester) 
+7. Angebotsturnus des Moduls: 
+1 Semester 
+8. Das Modul kann absolviert werden in / 
+    vorgesehene Dauer des Moduls: 
+3. Fachsemester 
+9. Empfohlenes Fachsemester: 
+Arbeitsaufwand: 
+10. Gesamtarbeitsaufwand des Moduls 
+gesamt in Stunden: 270  
+      (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit: 105 Stunden 
+2. Selbststudium (inkl. Prüfung): 165 Stunden  
+ 
+Leistungspunkte: 9 LP 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen er-
+füllt sind. 
+12. Modulbestandteile:   
+  P / 
+Lehrform  Themenbereich/Thema  SWS (Std.)  Studienleistungen  LP 
+WP / 
+W  
+1  P  V  Histologie II (Organhistologie)   4 SWS (60 Std.)    5 
+ 
+2  P  S   Histologie II für Molekularmedizi- 3 SWS (45 Std.)  regelmäßige Teilnahme  4 
+ner und differentialdiagnostisches 
+Seminar der Histologie  
+Bemerkung:  
+Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Lehrveranstaltung zum Ge-
+samtaufwand des Moduls. Die LP werden erst nach Abschluss des Moduls vergeben. 
+  Seite 25 von 44 13. Modulprüfung:  
+Nr  Kompetenz / Thema /  Art der Prüfung  Anteil an Mo-
+Dauer  Zeitpunkt 
+Bereich  dulnote 
+  Histologie II   Klausur  60 min  Ende   100 % 
+(zu den Inhalten der  Histologie II (S) 
+Lehrveranstaltungen  
+Nr. 1 und 2) 
+14. Bemerkungen:  
+Für die Lehrveranstaltungen Nr. 2 ist die regelmäßige Teilnahme verpflichtend.  
+Es wird dringend empfohlen, vor Antritt der Modulprüfung zunächst sämtliche im elektronischen Prü-
+fungsverwaltungssystem erfassten Modulbestandteile zu absolvieren. Es bleibt den Studierenden jedoch 
+unbenommen, sich bereits vor Absolvierung sämtlicher Modulbestandteile für die Modulprüfung anzu-
+melden. Nach erfolgreicher Absolvierung sämtlicher Modulbestandteile haben Studierende jedoch den 
+erstmöglichen Prüfungstermin wahrzunehmen. 
+  Seite 26 von 44 B-MolMed-M113: Biochemie II 
+1. Name des Moduls:  Biochemie II 
+2. Fachgebiet / Verantwortlich:  Biochemie / Prof. Dr. Meister; Dr. Danner 
+3. Inhalte des Moduls:  - Nucleotide und Nucleinsäuren; Struktur der Nuclein-
+säuren; Nucleotidmetabolismus; DNA-Replikation/ 
+Reparatur/ Rekombination; Transkription und RNA-
+Prozessierung; Regulation der Transkription; Protein-
+biosynthese (Translation); Regulation der Proteinbio-
+synthese.  
+- Immunologische Grundlagen 
+- 10 Praktikumsversuche vermitteln parallel zur Vorle-
+sung grundlegende Methoden der Biochemie (Pro-
+teinreinigung und -analytik, Gelelektrophorese, 
+Spektroskopie, kinetische Analyse, Dünnschicht- und 
+Gaschromatographie) 
+- Das praktikumsbegleitende Seminar vertieft die theo-
+retischen Grundlagen der Methoden 
+Studierende sind nach Abschluss des Moduls in der 
+4. Qualifikationsziele des Moduls / 
+Lage, 
+    zu erwerbende Kompetenzen: 
+- die Chemie der Nukleinsäuren grundlegend zu erläu-
+tern 
+- die Replikation, Transkription und Translation der 
+genetischen Information sowie deren Regulation auf 
+molekularer Ebene zu erklären 
+- zentrale immunologische Moleküle zu beschreiben 
+- die wichtigsten analytischen Methoden der Bioche-
+mie zu beschreiben und in Grundzügen in der Labor-
+praxis anzuwenden 
+- ein Experiment unter Einbeziehung der theoretischen 
+Grundlagen sowie der Möglichkeiten und Grenzen 
+der dabei angewandten Methoden zu protokollieren 
+und zu diskutieren sowie dabei auch sicherheitstech-
+nische und ökologische Aspekte zu thematisieren 
+Immatrikulation im Bachelorstudiengang Molekulare 
+5. Teilnahmevoraussetzungen: 
+Medizin 
+Grundlegende Kenntnisse der Organischen Chemie (B-
+a) empfohlene Kenntnisse: 
+MolMed-M106) und Biochemie (B-MolMed-M111) 
+keine 
+b) verpflichtende Nachweise: 
+Bachelorstudiengang Molekulare Medizin 
+6. Verwendbarkeit des Moduls: 
+7. Angebotsturnus des Moduls:  jährlich (jeweils zum Sommersemester) 
+8. Das Modul kann absolviert werden in / 
+1 Semester 
+    vorgesehene Dauer des Moduls: 
+9. Empfohlenes Fachsemester:  4. Fachsemester 
+Arbeitsaufwand: 
+10. Gesamtarbeitsaufwand des Moduls 
+gesamt in Stunden: 390 
+      (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit: 150 Stunden 
+2. Selbststudium (inkl. Prüfung): 240 Stunden 
+ 
+Leistungspunkte: 13 LP 
+ 
+  Seite 27 von 44 11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen er-
+füllt sind. 
+12. Modulbestandteile:   
+  P / 
+Lehrform  Themenbereich/Thema  SWS (Std.)  Studienleistungen  LP 
+WP / 
+W    
+1  P  V  Biochemie - Teil B   3 SWS (45 Std)    4 
+2  P  Pr  Biochemisches Grundpraktikum   4 SWS (60 Std)  Portfolio;   5 
+regelmäßige Teilnahme 
+3  P  S   Biochemie - Teil B  2 SWS (30 Std)  regelmäßige Teilnahme  3 
+4  P  S  Integriertes klinisches / vorklini- 1 SWS (15 Std)    1 
+sches Seminar zu biochemisch 
+relevanten Themen  
+Bemerkung: 
+Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Lehrveranstaltung zum Ge-
+samtaufwand des Moduls. Die LP werden erst nach Abschluss des Moduls vergeben. 
+13. Modulprüfung:  
+Nr  Kompetenz / Thema / Be- Art der Prüfung  Anteil an 
+Dauer  Zeitpunkt 
+reich  Modulnote 
+  Biochemie II - Teil B   Klausur  90 min         Ende des   100 % 
+(zu den Inhalten der Lehr- Praktikums im 
+veranstaltungen Nr. 1, 2  Sommersemester  
+und 3) 
+14. Bemerkungen:  
+Für die Lehrveranstaltungen Nr. 2 und 3 ist die regelmäßige Teilnahme verpflichtend.  
+Für die Lehrveranstaltung Nr. 4 wird die regelmäßige Teilnahme empfohlen. 
+Das Portfolio zu Nr. 12.2 besteht aus Protokollen zu Versuchsreihen und Testaten. 
+Es wird dringend empfohlen, vor Antritt der Modulprüfung zunächst sämtliche im elektronischen Prü-
+fungsverwaltungssystem erfassten Modulbestandteile zu absolvieren. Es bleibt den Studierenden jedoch 
+unbenommen, sich bereits vor Absolvierung sämtlicher Modulbestandteile für die Modulprüfung anzu-
+melden. Nach erfolgreicher Absolvierung sämtlicher Modulbestandteile haben Studierende jedoch den 
+erstmöglichen Prüfungstermin wahrzunehmen. 
+  Seite 28 von 44 B-MolMed-M114: Neuroanatomie 
+Neuroanatomie 
+1. Name des Moduls: 
+Anatomie / Dr. Kritzenberger; PD Dr. Reichold; Prof. 
+2. Fachgebiet / Verantwortlich: 
+Dr. Witzgall; Prof. Dr. Härteis 
+Topographie und funktionelle Anatomie von Kopf und 
+3. Inhalte des Moduls: 
+Hals: 
+- Aufbau des Schädels 
+- Muskulatur und Leitungsbahnen von Kopf und Hals 
+- Große Drüsen von Kopf und Hals 
+Topographie und Funktion des zentralen und periphe-
+ren Nervensystems: 
+- Entwicklung des ZNS 
+- Hirnhäute, Sinus und arterielle Versorgung des Ge-
+hirns, Ventrikelsystem 
+- Hirnnerven 
+- funktionelle Anatomie der einzelnen Hirnabschnitte 
+Studierende sind nach Abschluss des Moduls in der 
+4. Qualifikationsziele des Moduls / 
+Lage, 
+    zu erwerbende Kompetenzen: 
+- Topographie und funktionelle Anatomie von Kopf 
+und Hals grundlegend zu beschreiben 
+- Aufbau und grundlegende Funktionen des zentralen 
+und peripheren Nervensystems zu erklären 
+- wichtige neuroanatomische Strukturen an Model-
+len, Präparaten und Schnittbildern zu identifizieren 
+und die anatomische Terminologie sicher anzuwen-
+den   
+Immatrikulation im Bachelorstudiengang Molekulare 
+5. Teilnahmevoraussetzungen: 
+Medizin 
+Anatomie (B-MolMed-M104) 
+a) empfohlene Kenntnisse: 
+keine 
+b) verpflichtende Nachweise:    
+Bachelorstudiengang Molekulare Medizin,  
+6. Verwendbarkeit des Moduls: 
+Humanmedizin 
+jährlich (jeweils zum Sommersemester) 
+7. Angebotsturnus des Moduls: 
+1 Semester 
+8. Das Modul kann absolviert werden in / 
+    vorgesehene Dauer des Moduls: 
+4. Fachsemester 
+9. Empfohlenes Fachsemester: 
+Arbeitsaufwand: 
+10. Gesamtarbeitsaufwand des Moduls 
+gesamt in Stunden: 240  
+     (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit: 83 Stunden 
+2. Selbststudium (inkl. Prüfung): 157 Stunden  
+ 
+Leistungspunkte: 8 LP 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen er-
+füllt sind. 
+12. Modulbestandteile:   
+  P / 
+Lehrform  Themenbereich/Thema  SWS (Std.)  Studienleistungen  LP 
+WP / 
+W    
+1  P  V  Neuroanatomie  3 SWS (45 Std.)    4 
+  Seite 29 von 44 2  P  S  Neuroanatomie  2,5 SWS (38 Std.)  Referat;   4 
+regelmäßige Teilnah-
+me 
+Bemerkung:  
+Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Lehrveranstaltung zum Ge-
+samtaufwand des Moduls. Die LP werden erst nach Abschluss des Moduls vergeben. 
+13. Modulprüfung:  
+Nr  Kompetenz / Thema /  Art der Prüfung  Anteil an 
+Dauer  Zeitpunkt 
+Bereich  Modulnote 
+  Neuroanatomie   Klausur  60 min  Ende des   100 % 
+(zu den Inhalten der  Neuroanatomie-
+Lehrveranstaltungen Nr.  seminars 
+1 und 2) 
+14. Bemerkungen:  
+Für die Lehrveranstaltung Nr. 2 ist die regelmäßige Teilnahme verpflichtend. 
+Es wird dringend empfohlen, vor Antritt der Modulprüfung zunächst sämtliche im elektronischen Prü-
+fungsverwaltungssystem erfassten Modulbestandteile zu absolvieren. Es bleibt den Studierenden jedoch 
+unbenommen, sich bereits vor Absolvierung sämtlicher Modulbestandteile für die Modulprüfung anzu-
+melden. Nach erfolgreicher Absolvierung sämtlicher Modulbestandteile haben Studierende jedoch den 
+erstmöglichen Prüfungstermin wahrzunehmen. 
+ 
+  Seite 30 von 44 B-MolMed-M115: Physiologie II 
+Physiologie II 
+1. Name des Moduls: 
+Physiologie / Prof. Dr. Kurtz; Prof. Dr. Schweda; Prof. 
+2. Fachgebiet / Verantwortlich: 
+Dr. Castrop; Prof. Dr. Kunzelmann; Prof. Dr. Warth 
+3. Inhalte des Moduls:  - Vegetative Physiologie, hormonale Regulation 
+- Sexualentwicklung und Reproduktion 
+- Neurophysiologie: Funktionsprinzipien des Nerven-
+systems; Vegetatives Nervensystem; Motorik; Senso-
+rik; Nozizeption; visuelles System; Auditorisches Sys-
+tem und Sprache; Chemische Sinne; Integrative Leis-
+tungen des Zentralnervensystems   
+- Grundlagen der Pathophysiologie II 
+Studierende sind nach Abschluss des Moduls in der 
+4. Qualifikationsziele des Moduls / 
+Lage, 
+    zu erwerbende Kompetenzen: 
+- grundlegende Begriffe, Phänomene und Konzepte 
+der oben genannten Themen zu beschreiben und zu 
+erklären 
+- die zugehörigen physiologischen Funktionen auf 
+molekularer, zellulärer und organismischer Ebene zu 
+analysieren 
+Immatrikulation im Bachelorstudiengang Molekulare 
+5. Teilnahmevoraussetzungen: 
+Medizin 
+Physiologie (B-MolMed-M110) 
+a) empfohlene Kenntnisse: 
+keine 
+b) verpflichtende Nachweise:     
+Bachelorstudiengang Molekulare Medizin  
+6. Verwendbarkeit des Moduls: 
+jährlich (jeweils zum Ende des Wintersemesters) 
+7. Angebotsturnus des Moduls: 
+2 Semester  
+8. Das Modul kann absolviert werden in / 
+    vorgesehene Dauer des Moduls: 
+3. und 4. Fachsemester 
+9. Empfohlenes Fachsemester: 
+Arbeitsaufwand: 
+10. Gesamtarbeitsaufwand des Moduls 
+Gesamt in Stunden: 420 
+     (Workload) / Anzahl Leistungspunkte: 
+davon:  
+1. Präsenzzeit: 150 Stunden 
+2. Selbststudium (inkl. Prüfung): 270 Stunden 
+Leistungspunkte: 14 LP 
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen er-
+füllt sind. 
+12. Modulbestandteile:   
+  P / 
+Lehrform  Themenbereich/Thema  SWS (Std.)  Studienleistungen  LP 
+WP / 
+W    
+1  P  V  Physiologie III   3 SWS (45 Std.)    4 
+2  P  S  Physiologisches Seminar III   1 SWS (15 Std.)  regelmäßige Teilnahme  1 
+für Molekularmediziner 
+3  P  Pr  Physiologisches Praktikum  4 SWS (60 Std.)  regelmäßige Teilnahme  6 
+(Anfang 4. Sem.) 
+4  P  S   Physiologisches Seminar II  1 SWS (15 Std.)  regelmäßige Teilnahme  2 
+(zum Praktikum) 
+5  P  S  Integriertes klinisches / vorkli- 1 SWS (15 Std.)    1 
+  Seite 31 von 44   nisches Seminar zu physiolo-
+gisch relevanten Themen (4. 
+Sem.) 
+Bemerkung:  
+Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Lehrveranstaltung zum Ge-
+samtaufwand des Moduls. Die LP werden erst nach Abschluss des Moduls vergeben. 
+13. Modulprüfung:  
+Nr  Kompetenz / Thema /  Art der Prüfung  Anteil an 
+Dauer  Zeitpunkt 
+Bereich  Modulnote 
+  Physiologie II            Klausur  90 min  Nach Ende des  100 % 
+(zu den Inhalten der  Physiologischen 
+Lehrveranstaltungen   Praktikums 
+Nr. 1, 3 und 4) 
+14. Bemerkungen: 
+Für die Lehrveranstaltungen Nr. 2, 3 und 4 ist die regelmäßige Teilnahme verpflichtend.  
+Für die Lehrveranstaltung Nr. 5 wird die regelmäßige Teilnahme empfohlen. 
+Es wird dringend empfohlen, vor Antritt der Modulprüfung zunächst sämtliche im elektronischen Prü-
+fungsverwaltungssystem erfassten Modulbestandteile zu absolvieren. Es bleibt den Studierenden jedoch 
+unbenommen, sich bereits vor Absolvierung sämtlicher Modulbestandteile für die Modulprüfung anzu-
+melden. Nach erfolgreicher Absolvierung sämtlicher Modulbestandteile haben Studierende jedoch den 
+erstmöglichen Prüfungstermin wahrzunehmen. 
+  Seite 32 von 44 B-MolMed-M116: Pathologie 
+Pathologie 
+1. Name des Moduls: 
+Pathologie / PD Dr. Brochhausen-Delius; Prof. Dr. 
+2. Fachgebiet / Verantwortlich: 
+Klein; Dr. Hosseini 
+Grundzüge der Pathologie: 
+3. Inhalte des Moduls: 
+- Zellschaden, Zelladaptation, Zelltod 
+- Akute und chronische Entzündung 
+- Regeneration, Reparatur, Fibrose 
+- Hämodynamische Störungen, Thrombose, Schock 
+- Erkrankungen des Immunsystems 
+- Tumorentstehung 
+Studierende sind nach Abschluss des Moduls in der 
+4. Qualifikationsziele des Moduls / 
+Lage, 
+    zu erwerbende Kompetenzen: 
+- die Grundlagen der allgemeinen Krankheitslehre zu 
+beschreiben 
+- die Ätiologie, Pathogenese, Morphologie und kli-
+nisch-pathologische Korrelationen von Erkrankun-
+gen zu erläutern 
+- grundlegende Methoden der Pathologie, wie im-
+munologische, zytogenetische und molekularbiolo-
+gische Untersuchungen zu erklären 
+Immatrikulation im Bachelorstudiengang Molekulare 
+5. Teilnahmevoraussetzungen: 
+Medizin 
+Grundkenntnisse in Anatomie (B-MolMed-M104, 108 
+a) empfohlene Kenntnisse: 
+und 112) und Zellbiologie (B-MolMed-M105 und 109) 
+keine 
+b) verpflichtende Nachweise:     
+Bachelorstudiengang Molekulare Medizin 
+6. Verwendbarkeit des Moduls: 
+jährlich (jeweils zum Wintersemester) 
+7. Angebotsturnus des Moduls: 
+1 Semester 
+8. Das Modul kann absolviert werden in / 
+    vorgesehene Dauer des Moduls: 
+5. Fachsemester 
+9. Empfohlenes Fachsemester: 
+Arbeitsaufwand: 
+10. Gesamtarbeitsaufwand des Moduls 
+gesamt in Stunden: 180  
+      (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit: 53 Stunden 
+2. Selbststudium (inkl. Prüfung): 127 Stunden 
+ 
+Leistungspunkte: 6 LP 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen er-
+füllt sind. 
+12. Modulbestandteile:   
+  P / 
+Lehr- Themenbereich/Thema  SWS (Std.)  Studienleistungen  LP 
+WP / 
+form 
+W  
+ 
+1  P  V  Vorlesung Allgemeine Patholo- 1 SWS (15 Std.)    2 
+  gie für Molekulare Medizin  
+2  P  S  Seminar I   1 SWS (15 Std.)  regelmäßige Teilnahme  2 
+  Allgemeine Pathologie für Mo-
+lekulare Medizin  
+3  P  S  Seminar II   1,5 SWS (23 Std.)  Referat;   2 
+  Seite 33 von 44 Allgemeine Pathologie für Mo- regelmäßige Teilnahme 
+lekulare Medizin 
+Bemerkung: 
+Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Lehrveranstaltung zum Ge-
+samtaufwand des Moduls. Die LP werden erst nach Abschluss des Moduls vergeben.  
+13. Modulprüfung:  
+Nr  Kompetenz / Thema /  Art der Prüfung  Anteil an 
+Dauer  Zeitpunkt 
+Bereich  Modulnote 
+  Pathologie  Klausur  45 min  Ende des   100 % 
+(zu den Inhalten der  Moduls 
+Lehrveranstaltungen Nr. 
+1, 2 und 3) 
+14. Bemerkungen:  
+Für die Lehrveranstaltungen Nr. 2 und 3 ist die regelmäßige Teilnahme verpflichtend. 
+Es wird dringend empfohlen, vor Antritt der Modulprüfung zunächst sämtliche im elektronischen Prü-
+fungsverwaltungssystem erfassten Modulbestandteile zu absolvieren. Es bleibt den Studierenden jedoch 
+unbenommen, sich bereits vor Absolvierung sämtlicher Modulbestandteile für die Modulprüfung anzu-
+melden. Nach erfolgreicher Absolvierung sämtlicher Modulbestandteile haben Studierende jedoch den 
+erstmöglichen Prüfungstermin wahrzunehmen. 
+  Seite 34 von 44 B-MolMed-M117: Pharmakologie 
+Pharmakologie 
+1. Name des Moduls: 
+Pharmakologie/ Prof. Dr. Ittner; Prof. Dr. Wetzel 
+2. Fachgebiet / Verantwortlich: 
+Allgemeine Pharmakologie (Pharmakodynamik, Phar-
+3. Inhalte des Moduls: 
+makokinetik) 
+ 
+Substanzen und Indikationen, z.B.: 
+- Adrenerges System 
+- Cholinerges System 
+- Gastrointestinale Pharmakologie 
+- Antibiotika 
+- ZNS-wirksame Pharmaka 
+- Pharmakologie der glatten Gefäßmuskulatur 
+- Herzwirksame Pharmaka 
+- Immunmodulatoren 
+- Muskelrelaxantien 
+- Anästhetika 
+- Modulatoren des Gerinnungssystems 
+- Therapie von Fettstoffwechselstörungen 
+- Calciumstoffwechsel und Osteoporose 
+- Schilddrüsenhormone und Thyreostatika 
+- Pharmakologie der Blutzuckerregulation 
+- Diuretika  
+ 
+Grundlagen der Toxikologie 
+Studierende sind nach Abschluss des Moduls in der 
+4. Qualifikationsziele des Moduls / 
+Lage, grundlegende Begriffe, Phänomene und Kon-
+    zu erwerbende Kompetenzen: 
+zepte der allgemeinen Pharmakologie und Toxikologie 
+zu erklären und die wichtigsten Substanzklassen und 
+ihre Wirkmechanismen zu beschreiben. 
+Immatrikulation im Bachelorstudiengang Molekulare 
+5. Teilnahmevoraussetzungen: 
+Medizin 
+Grundkenntnisse in Zellbiologie (B-MolMed-M105 
+a) empfohlene Kenntnisse: 
+und 109) und Physiologie (B-MolMed-M110 und 115)  
+keine 
+b) verpflichtende Nachweise:  
+Bachelorstudiengang Molekulare Medizin 
+6. Verwendbarkeit des Moduls: 
+jährlich (jeweils zum Wintersemester) 
+7. Angebotsturnus des Moduls: 
+1 Semester 
+8. Das Modul kann absolviert werden in / 
+    vorgesehene Dauer des Moduls: 
+5. Fachsemester 
+9. Empfohlenes Fachsemester: 
+Arbeitsaufwand: 
+10. Gesamtarbeitsaufwand des Moduls 
+gesamt in Stunden: 180  
+     (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit: 45 Stunden 
+2. Selbststudium (inkl. Prüfung): 135 Stunden 
+ 
+Leistungspunkte: 6 LP 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen er-
+füllt sind. 
+12. Modulbestandteile:   
+  Seite 35 von 44   P / 
+Lehrform  Themenbereich/Thema  SWS (Std.)  Studienleistungen  LP 
+WP / 
+W    
+1  P  S  Pharmakologie Teil I  1 SWS (15 Std.)  regelmäßige Teilnahme  3 
+2  P  S  Pharmakologie Teil II  2 SWS (30 Std.)  regelmäßige Teilnahme  3 
+Bemerkung:  
+Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Lehrveranstaltung zum Ge-
+samtaufwand des Moduls. Die LP werden erst nach Abschluss des Moduls vergeben. 
+13. Modulprüfung:  
+Nr  Kompetenz / Thema /  Art der Prüfung  Anteil an 
+Dauer  Zeitpunkt 
+Bereich  Modulnote 
+  Pharmakologie  Klausur  45 min  Ende   100 % 
+(zu den Inhalten der  Wintersemester 
+Lehrveranstaltungen Nr. 
+1 und 2) 
+14. Bemerkungen:  
+Für die Lehrveranstaltungen Nr. 1 und 2 ist die regelmäßige Teilnahme verpflichtend.  
+Es wird dringend empfohlen, vor Antritt der Modulprüfung zunächst sämtliche im elektronischen Prü-
+fungsverwaltungssystem erfassten Modulbestandteile zu absolvieren. Es bleibt den Studierenden jedoch 
+unbenommen, sich bereits vor Absolvierung sämtlicher Modulbestandteile für die Modulprüfung anzu-
+melden. Nach erfolgreicher Absolvierung sämtlicher Modulbestandteile haben Studierende jedoch den 
+erstmöglichen Prüfungstermin wahrzunehmen. 
+  Seite 36 von 44 B-MolMed-M118: Mikrobiologie/Immunologie 
+Mikrobiologie/Immunologie 
+1. Name des Moduls: 
+Mikrobiologie und Immunologie / Prof. Dr. Dr. Gess-
+2. Fachgebiet / Verantwortlich: 
+ner; Prof. Dr. Hehlgans 
+3. Inhalte des Moduls:  - Grundzüge der Bakteriologie, Mykologie, Protozoo-
+logie, Parasitologie und Virologie 
+- Grundbegriffe der Epidemiologie: Prävalenz, Inzi-
+denz, Letalität 
+- Grundzüge der Diagnostik von Krankheitserregern 
+- Grundzüge der Bekämpfung von Krankheitserregern 
+(Desinfektion, Pharmakotherapie, Impfung) 
+- Grundzüge der Immunologie 
+Studierende sind nach Abschluss des Moduls in der 
+4. Qualifikationsziele des Moduls / 
+Lage, grundlegende Begriffe, Phänomene und Konzep-
+    zu erwerbende Kompetenzen: 
+te der oben genannten Themenbereiche zu erläutern 
+und grundlegende Techniken der Mikrobiologie und 
+Immunologie zu erklären und unter Anleitung prak-
+tisch durchzuführen. 
+Immatrikulation im Bachelorstudiengang Molekulare 
+5. Teilnahmevoraussetzungen: 
+Medizin 
+Grundkenntnisse in Histologie (B-MolMed-M108) und 
+a) empfohlene Kenntnisse: 
+Zellbiologie (B-MolMed-M105 und 109) 
+keine 
+b) verpflichtende Nachweise:    
+Bachelorstudiengang Molekulare Medizin 
+6. Verwendbarkeit des Moduls: 
+jährlich (jeweils zum Wintersemester) 
+7. Angebotsturnus des Moduls: 
+1 Semester 
+8. Das Modul kann absolviert werden in / 
+    vorgesehene Dauer des Moduls: 
+5. Fachsemester 
+9. Empfohlenes Fachsemester: 
+Arbeitsaufwand: 
+10. Gesamtarbeitsaufwand des Moduls 
+gesamt in Stunden: 210 
+     (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit: 91 Stunden 
+2. Selbststudium (inkl. Prüfung): 119 Stunden 
+ 
+Leistungspunkte: 7 LP 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen er-
+füllt sind. 
+12. Modulbestandteile:   
+  P / 
+Lehr- Themenbereich/Thema  SWS (Std.)  Studienleistungen  LP 
+WP / 
+form 
+W  
+ 
+1  P  S  Immunologie  1 SWS (15 Std.)  regelmäßige Teilnahme  2 
+2  P  V  Immunologie  1 SWS (15 Std.)    1 
+3  P  V  Medizinische Mikrobiologie und  1,5 SWS (23 Std.)    1 
+Virologie für Molekulare Medizin  
+4  P  S  Medizinische Mikrobiologie und  1,5 SWS (23 Std.)  regelmäßige Teilnahme  2 
+Virologie für Molekulare Medizin 
+5  P  Pr  Medizinische Mikrobiologie und  1 SWS (15 Std.)  regelmäßige Teilnahme  1 
+Virologie für Molekulare Medizin 
+  Seite 37 von 44 Bemerkung:  
+Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Lehrveranstaltung zum Ge-
+samtaufwand des Moduls. Die LP werden erst nach Abschluss des Moduls vergeben. 
+13. Modulprüfung:  
+Nr  Kompetenz / Thema / Bereich  Art der Prü- Anteil an Mo-
+Dauer  Zeitpunkt 
+fung  dulnote 
+  Mikrobiologie / Immunologie  Klausur  60 min  Ende   100 % 
+(zu den Inhalten der Lehrver- Wintersemester 
+anstaltungen Nr. 1 bis 5) 
+14. Bemerkungen:  
+Für die Lehrveranstaltungen Nr. 1, 4 und 5 ist die regelmäßige Teilnahme verpflichtend.  
+Es wird dringend empfohlen, vor Antritt der Modulprüfung zunächst sämtliche im elektronischen Prü-
+fungsverwaltungssystem erfassten Modulbestandteile zu absolvieren. Es bleibt den Studierenden jedoch 
+unbenommen, sich bereits vor Absolvierung sämtlicher Modulbestandteile für die Modulprüfung anzu-
+melden. Nach erfolgreicher Absolvierung sämtlicher Modulbestandteile haben Studierende jedoch den 
+erstmöglichen Prüfungstermin wahrzunehmen. 
+  Seite 38 von 44 B-MolMed-M119: Humangenetik und Biostatistik 
+Humangenetik und Biostatistik 
+1. Name des Moduls: 
+Humangenetik und Biostatistik / Prof. Dr. Weber; Prof. 
+2. Fachgebiet / Verantwortlich: 
+Dr. Heid, PD Dr. Stark 
+Einführung in die Genetik: 
+3. Inhalte des Moduls: 
+- Chromosomenstruktur, Mitose, Meiose, Chromoso-
+menaberrationen, Chromosomenpräparation 
+- Molekulargenetik mit Mutationstypen, Variabilität des 
+Genoms 
+- Gen-Lokalisation und Gen-Identifikation 
+- Mutation als Ursache genetischer Erkrankungen 
+- Erbgänge und Risikoberechnung, Populationsgenetik, 
+Multifaktorielle Vererbung, Kopplung und Assoziation 
+- Tumorgenetik 
+- Genetische Beratung 
+ 
+Theoretische Grundlagen der Medizinischen Statistik: 
+- Grundlagen der Wahrscheinlichkeitsrechnung 
+- Verteilungen 
+- Statistische Tests 
+- Grundlagen der Versuchsplanung 
+- Einführung in die softwaregestützte statistische Ana-
+lyse 
+Studierende sind nach Abschluss des Moduls in der 
+4. Qualifikationsziele des Moduls / 
+Lage, grundlegende Begriffe, Phänomene und Konzep-
+    zu erwerbende Kompetenzen: 
+te der oben genannten Themenbereiche der Humange-
+netik und Biostatistik zu erklären und gängige Techni-
+ken der Humangenetik zu erläutern sowie ihr erworbe-
+nes grundlegendes biostatistisches Wissen auf die Pla-
+nung und Analyse von Versuchen und Studien zu über-
+tragen. 
+Immatrikulation im Bachelorstudiengang Molekulare 
+5. Teilnahmevoraussetzungen: 
+Medizin 
+Grundkenntnisse in Mathematik und Zellbiolo-
+a) empfohlene Kenntnisse: 
+gie/Genetik (B-MolMed-M105 und 109) 
+keine 
+b) verpflichtende Nachweise: 
+Bachelorstudiengang Molekulare Medizin 
+6. Verwendbarkeit des Moduls: 
+jährlich (jeweils zum Wintersemester) 
+7. Angebotsturnus des Moduls: 
+1 Semester 
+8. Das Modul kann absolviert werden in / 
+    vorgesehene Dauer des Moduls: 
+5. Fachsemester 
+9. Empfohlenes Fachsemester: 
+Arbeitsaufwand: 
+10. Gesamtarbeitsaufwand des Moduls 
+gesamt in Stunden: 180  
+     (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit: 61 Stunden 
+2. Selbststudium (inkl. Prüfung): 119 Stunden  
+ 
+Leistungspunkte: 6 LP 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen er-
+füllt sind. 
+12. Modulbestandteile:   
+  Seite 39 von 44   P / 
+Lehr- Themenbereich/Thema  SWS (Std.)  Studienleistungen  LP 
+WP / 
+form 
+W  
+1  P  V  Advanced Human Genetics  2 SWS (30 Std.)    2 
+2  P  S  Humangenetik  1 SWS (15 Std.)  regelmäßige Teilnahme  1 
+3  P  V  Einführung in die statistische Da- 0,5 SWS (8 Std.)    2 
+  tenanalyse 
+4  P  Ü  Übungen zu „Einführung in die  0,5 SWS (8 Std.)  regelmäßige Teilnahme  1 
+statistische Datenanalyse“ 
+Bemerkung:  
+Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Lehrveranstaltung zum Ge-
+samtaufwand des Moduls. Die LP werden erst nach Abschluss des Moduls vergeben. 
+13. Modulprüfung:  
+Nr  Kompetenz / Thema / Bereich  Art der Prü- Anteil an Mo-
+Dauer  Zeitpunkt 
+fung  dulnote 
+  Humangenetik und Biostatistik  Klausur  60 min  Ende der   100 % 
+(zu den Inhalten der Lehrver- Vorlesung  
+anstaltungen Nr.1 und 2)  Humangenetik 
+ 
+14. Bemerkungen:  
+Für die Lehrveranstaltungen Nr. 2 und 4 ist die regelmäßige Teilnahme verpflichtend.  
+Es wird dringend empfohlen, vor Antritt der Modulprüfung zunächst sämtliche im elektronischen Prü-
+fungsverwaltungssystem erfassten Modulbestandteile zu absolvieren. Es bleibt den Studierenden jedoch 
+unbenommen, sich bereits vor Absolvierung sämtlicher Modulbestandteile für die Modulprüfung anzu-
+melden. Nach erfolgreicher Absolvierung sämtlicher Modulbestandteile haben Studierende jedoch den 
+erstmöglichen Prüfungstermin wahrzunehmen. 
+ 
+  Seite 40 von 44 B-MolMed-M120: Laborpraktikum  
+Laborpraktikum  
+1. Name des Moduls: 
+Dozenten und Dozentinnen der Universität Regensburg 
+2. Fachgebiet / Verantwortlich: 
+Praktische wissenschaftliche Labortätigkeit in ver-
+3. Inhalte des Moduls: 
+schiedensten (Forschungs-)Bereichen. 
+Studierende sind nach Abschluss des Moduls in der 
+4. Qualifikationsziele des Moduls / 
+Lage, grundlegende Labormethoden anzuwenden und 
+    zu erwerbende Kompetenzen: 
+ihre Forschungsergebnisse wissenschaftlich zu doku-
+mentieren. 
+ 
+5. Teilnahmevoraussetzungen: 
+Zellbiologie (B-MolMed-M105 und B-MolMed-109) 
+a) empfohlene Kenntnisse: 
+keine 
+b) verpflichtende Nachweise:      
+Bachelorstudiengang Molekulare Medizin 
+6. Verwendbarkeit des Moduls: 
+jedes Semester 
+7. Angebotsturnus des Moduls: 
+1 Semester 
+8. Das Modul kann absolviert werden in / 
+    vorgesehene Dauer des Moduls: 
+6. Fachsemester 
+9. Empfohlenes Fachsemester: 
+Arbeitsaufwand: 
+10. Gesamtarbeitsaufwand des Moduls 
+gesamt in Stunden: 180  
+     (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit: 150 Stunden  
+2. Selbststudium (inkl. Prüfung): 30 Stunden 
+ 
+Leistungspunkte: 6 LP 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen er-
+füllt sind. 
+12. Modulbestandteile:   
+  P / 
+Lehrform  Themenbereich/Thema  SWS (Std.)  Studienleistungen  LP 
+WP / 
+W  
+1  P  Pr  Praktikum (mit Individualbetreu- (150 Std.)  Protokoll;  6 
+ung) in einem naturwissenschaft- regelmäßige Teilnahme 
+lichen Labor 
+2  W  S/K  Versuchstierkunde  (40 Std.)  Klausur;   
+regelmäßige Teilnahme 
+Bemerkung:  
+Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Lehrveranstaltung zum Ge-
+samtaufwand des Moduls. Die LP werden erst nach Abschluss des Moduls vergeben.  
+ 
+Für die Lehrveranstaltung Nr. 1 ist die regelmäßige Teilnahme verpflichtend. 
+ 
+Das sechswöchige Teilzeit-Forschungspraktikum mit einem Umfang von 25 Stunden pro Woche soll im 
+Wesentlichen aus praktischer wissenschaftlicher Labortätigkeit bestehen. 
+Das zum Praktikum zu verfassende Protokoll mit einem Umfang von 700-1500 Wörtern ist zum Ende des 
+Praktikums abzugeben. Es soll gegliedert sein in: Einleitung, Fragestellung, Methoden, Ergebnisse und 
+Schlussfolgerung. Es wird mit bestanden/nicht bestanden bewertet.  
+ 
+Bitte beachten Sie:  
+- Wird das Pflicht-Laborpraktikum nicht an der Universität Regensburg angefertigt, ist es Aufgabe des 
+  Seite 41 von 44 oder der Studierenden sicherzustellen, dass er oder sie für das Laborpraktikum Haftpflicht- und Unfall-
+versicherungsschutz genießt. 
+- Ist der Betreuer oder die Betreuerin für das Praktikum ein Dozent oder eine Dozentin außerhalb der 
+Universität Regensburg, so muss das wissenschaftliche Protokoll zusätzlich von dem oder der Vorsit-
+zenden des Prüfungsausschusses bewertet werden. 
+ 
+ 
+Die Lehrveranstaltung Nr. 12. 2 (Versuchstierkunde) mit einem Gesamtarbeitsaufwand von 80 Stunden 
+und einer Klausur als Abschlussprüfung ist eine freiwillige zusätzliche Leistung und gliedert sich in einen 
+theoretischen (Seminar) und einen praktischen (Kurs) Teil, in denen jeweils die Teilnahme verpflichtend 
+ist. 
+Es werden folgende Inhalte vermittelt: 
+- Tierschutz und Gesetzeskunde 
+- Biologische Charakteristika der wichtigsten Laborversuchstiere 
+- Tierschutzgerechte Haltung und Zucht von Versuchstieren 
+- Genetisch veränderte Tiere 
+- Wichtige physiologische Parameter von Mäusen und Ratten 
+- Hygiene und Gesundheitsstatus 
+- Tierschutzgerechte Versuchsplanung und -durchführung 
+- Tierschutzgerechte Eingriffe beim Versuchstier. 
+Studierende sind nach Abschluss des Kurses in der Lage, die wichtigsten Grundsätze der Versuchstierkun-
+de und des Tierschutzes zu erläutern und in ihr fachkundiges und kompetentes tierexperimentelles Arbei-
+ten unter Aufsicht und Anleitung zu implementieren. 
+Dieser Kurs entspricht den Empfehlungen der FELASA (Federation of European Laboratory Animal Science 
+Associations) zur Aus-, Fort- und Weiterbildung von Personen, die mit Versuchstieren arbeiten (FELASA 
+Kategorie B) und ist sowohl mit der zuständigen Genehmigungsbehörde für Versuche mit Wirbeltieren 
+(Regierung der Oberpfalz, Sachgebiet 54 - Veterinärwesen) als auch mit der obersten Landesbehörde 
+(Bayerisches Staatsministerium für Umwelt, Gesundheit und Verbraucherschutz) abgestimmt.  
+Die hier bescheinigte regelmäßige und erfolgreiche Teilnahme (mit schriftlicher Abschlussprüfung: Klau-
+sur) gilt innerhalb der Europäischen Union als Bestandteil des Nachweises der Sachkunde für den Um-
+gang mit Versuchstieren (FELASA Kategorie B). 
+13. Modulprüfung:  
+Nr  Kompetenz / Thema  Art der Prüfung  Anteil an Mo-
+Dauer   Zeitpunkt 
+dulnote 
+  -  -  -  -  - 
+14. Bemerkungen:  
+Das Modul ist unbenotet. 
+ 
+  Seite 42 von 44 B-MolMed-M121: Bachelorarbeit 
+Bachelorarbeit 
+1. Name des Moduls: 
+Dozenten und Dozentinnen der Universität Regensburg 
+2. Fachgebiet / Verantwortlich: 
+ 
+3. Inhalte des Moduls: 
+Studierende sind in der Lage, eine wissenschaftliche 
+4. Qualifikationsziele des Moduls / 
+Fragestellung experimentell innerhalb der vorgegebe-
+    zu erwerbende Kompetenzen: 
+nen Zeit zu bearbeiten. Sie analysieren und bewerten 
+Daten und können die Ergebnisse nach wissenschaftli-
+chen Konventionen in schriftlicher Form darstellen. 
+ 
+5. Teilnahmevoraussetzungen: 
+Grundkenntnisse experimentellen Arbeitens, Befähi-
+a) empfohlene Kenntnisse: 
+gung zur Datenanalyse und zur Literaturrecherche 
+Nachweis von 120 LP aus dem Studiengang Molekula-
+b) verpflichtende Nachweise: 
+re Medizin, Betreuungszusage 
+Bachelorstudiengang Molekulare Medizin 
+6. Verwendbarkeit des Moduls: 
+jedes Semester 
+7. Angebotsturnus des Moduls: 
+1 Semester 
+8. Das Modul kann absolviert werden in / 
+    vorgesehene Dauer des Moduls: 
+6. Fachsemester 
+9. Empfohlenes Fachsemester: 
+Arbeitsaufwand: 
+10. Gesamtarbeitsaufwand des Moduls 
+gesamt in Stunden: 360  
+      (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit: 280 Stunden 
+2. Selbststudium (inkl. Prüfung): 80 Stunden 
+ 
+Leistungspunkte: 12 LP 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen er-
+füllt sind. 
+12. Modulbestandteile:   
+  P / 
+Lehrform  Themenbereich/Thema  SWS (Std.)  Studienleistungen  LP 
+WP / 
+W    
+1  P  E  Naturwissenschaftliche Fragestel- 280 Std.  regelmäßige Teilnahme  12 
+lung an der Fakultät für Biologie 
+und Vorklinische Medizin oder in 
+einem (nicht-klinischen Bereich) 
+der Medizinischen Fakultät  
+Bemerkung:  
+Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Lehrveranstaltung zum Ge-
+samtaufwand des Moduls. Die LP werden erst nach Abschluss des Moduls vergeben. 
+13. Modulprüfung:  
+ Nr  Kompetenz /  Art der Prüfung  Anteil an 
+Dauer / Umfang  Zeit-
+Thema / Be- Modul-
+punkt 
+reich  note 
+1     Bachelorarbeit  drei Monate    2/3 
+ 
+4500-9000 Wörter 
+2    Kolloquium zur Bachelorarbeit  30 min    1/3 
+  Seite 43 von 44 14. Bemerkungen:  
+Für die Lehrveranstaltung Nr. 1 ist die regelmäßige Teilnahme verpflichtend. 
+ 
+Bitte beachten Sie: 
+Wird die Bachelorarbeit nicht an der Universität Regensburg angefertigt, ist es Aufgabe des oder der 
+Studierenden sicherzustellen, dass er oder sie für die Anfertigung der Bachelorarbeit Haftpflicht- und 
+Unfallversicherungsschutz genießt. 
+Bitte beachten Sie die Bestimmungen zur Bachelorarbeit in der Prüfungs- und Studienordnung. 
+ 
+  Seite 44 von 44 

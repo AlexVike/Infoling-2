@@ -1,0 +1,1993 @@
+input_dictionary =  
+ 
+ 
+ 
+Modulkatalog 
+für den Bachelorstudiengang Chemie 
+an der Universität Regensburg  
+Stand: 24. Juni 2020 
+ 
+Der Bachelorstudiengang Chemie an der Universität Regensburg umfasst folgende 
+Module: 
+ 
+1.  PFLICHTBEREICH: 
+CHE-BSc-M 01:  Allgemeine Chemie 
+CHE-BSc-M 02:  Mathematik 
+CHE-BSc-M 03:  Physik 
+CHE-BSc-M 04:  Chemie wässriger Lösungen 
+CHE-BSc-M 05:  Chemie stofflicher Systeme     
+CHE-BSc-M 06:  Theorie: Energetik       
+CHE-BSc-M 07:  Praxis: Energetik 
+CHE-BSc-M 08:  Stoffanalyse 
+CHE-BSc-M 09:  Theorie: Synthesechemie     
+CHE-BSc-M 10:  Praxis: Synthesechemie 
+CHE-BSc-M 11:  Struktur der Materie 
+CHE-BSc-M 12:   Chemie der Lebensprozesse 
+CHE-BSc-M 13:  Abschlussmodul 
+ 
+ 
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 1 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+ 
+ 
+2.  WAHLPFLICHTBEREICH: 
+  CHE-BSc-M 14:  Biochemie 
+  CHE-BSc-M 15:  Theoretische Chemie 
+  CHE-BSc-M 16:  Nanoscience 
+  CHE-BSc-M 17:   Pharmazeutische Bioanalytik    
+  CHE-BSc-M 18:  Synthesetechniken   NEU ab WS 20/21 (Teilnehmerzahl!) 
+ 
+ 
+ 
+   
+   
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 2 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+1. PFLICHTBEREICH: 
+CHE-BSc-M 01 (Stand: Juli 2015)
+ 
+1. Name des Moduls:  Allgemeine Chemie 
+2. Fachgebiet / Verantwortlich:  Chemie / Prof. Dr. Frank-Michael Matysik 
+3. Inhalte des Moduls:  Atomtheorie, empirische Gasgesetze und kinetische 
+Gastheorie, mikroskopischer Aufbau der Materie: 
+Elementarteilchen, Atome, Welle-Teilchen-Dualismus und 
+Ansatz der Quantentheorie zur Beschreibung von Elektronen 
+in Atomen, Diskussion der Resultate einfacher 
+Einteilchensysteme, Ein- und Mehrelektronenatome, 
+Aufbauprinzip des Periodensystems der Elemente, 
+radioaktiver Zerfall.  
+Grundlagen der Stöchiometrie, chemisches Gleichgewicht 
+und Massenwirkungsgesetz, Lösungsvorgänge und 
+Löslichkeitsprodukt, Säuren und Basen: Definitionen und 
+quantitative Behandlung von Säure-Base Gleichgewichten 
+und Puffersystemen, elektrochemisches Potenzial, 
+Spannungsreihe, Redox- und Komplexgleichgewichte 
+Die chemische Bindung: Ionenverbindungen, Metalle, 
+Halbmetalle und das Bändermodell, die kovalente Bindung, 
+Elektronegativität, Polarität und Dipolmoment, Beschreibung 
+einfacher Moleküle anhand der MO-Theorie, räumliche 
+Struktur von Molekülen, schwache Bindungskräfte 
+Elementare Stoffkenntnisse zur Darstellung und zum 
+Reaktivitätsverhalten ausgewählter Nichtmetalle und 
+einfacher Verbindungen. Diese werden mit eindrucksvollen 
+chemischen Experimenten unterlegt. 
+4. Qualifikationsziele des Moduls:  Nach Abschluss dieses Moduls ist der Studierende in der 
+Lage, empirische Beschreibungen und theoretische Ansätze 
+in der Naturwissenschaft zu unterscheiden. Der Studierende 
+versteht die Notwendigkeit der Quanten-mechanik zur 
+Beschreibung der atomistischen Struktur der Materie und 
+kann ihre Resultate auf die Beschrei-bung chemischer 
+Bindungen anwenden. Er versteht den Zusammenhang 
+zwischen der Elektronenstruktur und der räumlichen Struktur 
+chemischer Verbindungen. Auch ist er in der Lage, 
+stöchiometrische Berechnungen im Kontext von 
+Reaktionsabläufen und Gleichgewichtsprozessen in Lösung 
+anzuwenden. 
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 3 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  Physikalisch-Chemische Schulvorbildung 
+b) verpflichtende Nachweise:  keine 
+sofort vorzulegen                     
+      nachzureichen bis        
+6. Verwendbarkeit des Moduls:  B.Sc. Chemie  
+7. Angebotsturnus des Moduls:  Jährlich, im WS 
+8. Dauer des Moduls:  1 Semester 
+9. Empfohlenes Fachsemester:  1. Fachsemester 
+270 Stunden / 9 Leistungspunkte* 
+10. Gesamtarbeitsaufwand des 
+(120 h Präsenzzeit, 150 h Eigenstudium einschl. 
+Moduls (Workload) / Anzahl 
+Prüfungsvorbereitung) 
+Leistungspunkte: 
+*Die LP für das Modul werden erst nach Bestehen der Modulprüfung bzw. aller Modulteilprüfungen vergeben. 
+11. Lehrveranstaltungen:   
+  P 
+Lehrform  Themenbereich/Thema  Präsenzzeit in  Studienleistungen 
+/WP 
+SWS o. Std. 
+/W * 
+1  P  V + Ü  Allgemeine Chemie  4+3   
+2  P  V  Experimentalchemie  1   
+Bemerkungen:       
+* P = Pflichtveranstaltung; WP = Wahlpflichtveranstaltung; W = Wahlveranstaltung 
+12. Modulprüfung:  
+Art der 
+A/T*  Art und Inhalt der  Zulassungs- Zeitpunkt 
+Dauer 
+Bewertung 
+Prüfung  voraussetzung** 
+A  Klausur zu den    2 Std.  am Ende der  benotet 
+Lehrveranstaltungen  Vorlesungszeit des 
+Allgemeine Chemie und  WS 
+Experimentalchemie  
+Bemerkungen: Jede Modulteilprüfung muss abgelegt werden, um bei einem zweimaligen Nichtbestehen 
+einer oder mehrerer Teilprüfungen das Anrecht auf eine mündliche Modulabschlussprüfung (siehe unter 
+14.) zu erlangen. Die Wiederholungsfrist für die mündliche Gesamtprüfung richtet sich nach der letzten 
+erbrachten Teilprüfung.  
+* A = Modulabschlussprüfung; T = Modulteilprüfung 
+** optional 
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 4 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+13. Modulnote: 
+  Die Modulnote entspricht der Note der Modulabschlussprüfung. 
+  Die Modulnote setzt sich wie folgt zusammen: 
+     
+     
+  Das Modul wird nicht benotet. 
+ 
+14. Sonstiges: 
+Werden eine oder mehrere Modulteilprüfungen bzw. die Modulabschlussprüfung im ersten 
+Wiederholungsversuch nicht bestanden, so steht dem Kandidaten ein zweiter Wiederholungsversuch zu. 
+Die zweite Wiederholungsprüfung wird grundsätzlich als mündliche Modulabschlussprüfung (zu allen im 
+Modul enthaltenen Lehrveranstaltungen) vor einem Prüfungsgremium aus mindestens zwei Prüfern 
+abgehalten. Im Fall von einer oder mehreren zweimal nicht bestandenen Teilprüfungen fließt die Note der 
+mündlichen Modulabschlussprüfung (2. Wiederholung) mit dem für die jeweilige Teilprüfung vorgesehenen 
+Gewicht in die Modulnote ein. 
+ 
+Wird die mündliche Modulabschlussprüfung nicht bestanden, so führt dies gemäß § 29 Abs. 4 Satz 1 
+Punkt 2 (PO des Bachelorstudiengangs Chemie vom 14.06.2010) zum endgültigen Nichtbestehen der 
+Bachelorprüfung.  
+ 
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 5 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+CHE-BSc-M 02 (Stand: Juli 2015) 
+1. Name des Moduls:  Mathematik 
+2. Fachgebiet / Verantwortlich:  Mathematik / Studiendekan 
+Chemie / Prof. Dr. Hubert Motschmann 
+3. Inhalte des Moduls:  Funktionen einer Variablen: Zahlentheorie, Folgen und 
+Reihen,Differential- und Integralrechnung, komplexe Zahlen, 
+gewöhnliche Differentialgleichungen; 
+Funktionen mehrerer Variablen: vollständiges Differential 
+und partielle Ableitungen, Kurven und Differentialformen; 
+Lineare Algebra: Vektoren und Matrizen, lineare 
+Gleichungssysteme, Basen und Basistransformationen, 
+Eigenwertproblem; 
+Vektoranalysis: Bereichsintegrale, Divergenz, Rotation, 
+Kurven und Flächenintegrale-; Fouriertransformation 
+4. Qualifikationsziele des Moduls:  Studierende, die das Modul erfolgreich absolviert haben, 
+können einfache Zusammenhänge (z.B. zwischen 
+experimentell bestimmbaren Größen) in mathematischer 
+Form ausdrücken, entsprechende Ausdrücke in geeigneter 
+Form verknüpfen und analysieren. Sie haben sich die 
+notwendigen Grundlagen erarbeitet, um den 
+mathematischen Überlegungen und Herleitungen in den 
+theoretischen chemischen Fächern folgen zu können. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  keine 
+b) verpflichtende Nachweise:  keine 
+sofort vorzulegen                     
+      nachzureichen bis        
+6. Verwendbarkeit des Moduls:  B.Sc. Chemie 
+7. Angebotsturnus des Moduls:  Jährlich, im WS 
+8. Dauer des Moduls:  2 Semester 
+9. Empfohlenes Fachsemester:  1. und 2. Fachsemester 
+10. Gesamtarbeitsaufwand des  300 Stunden / 10 Leistungspunkte* 
+(120 h Präsenzzeit, 180 h Eigenstudium einschl. 
+Moduls (Workload) / Anzahl 
+Prüfungsvorbereitung) 
+Leistungspunkte: 
+*Die LP für das Modul werden erst nach Bestehen der Modulprüfung bzw. aller Modulteilprüfungen vergeben. 
+ 
+ 
+ 
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 6 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+11. Lehrveranstaltungen: 
+  P 
+Lehrform  Themenbereich/Thema  Präsenzzeit in  Studienleistungen 
+/WP 
+SWS o. Std. 
+/W * 
+1  P  V + Ü  Mathematik I  3+1   
+2  P  V + Ü  Mathematik II  3+1   
+Bemerkungen:       
+* P = Pflichtveranstaltung; WP = Wahlpflichtveranstaltung; W = Wahlveranstaltung 
+ 
+12. Modulprüfung:  
+Art der 
+A/T*  Art und Inhalt der  Zulassungs- Zeitpunkt 
+Dauer 
+Bewertung 
+Prüfung  voraussetzung** 
+T  Klausur Mathematik I    2 Std.  am Ende der  benotet 
+Vorlesungszeit des 
+WS 
+T  Klausur Mathematik II    2 Std.  am Ende der  benotet 
+Vorlesungszeit des 
+SS 
+Bemerkungen:       
+* A = Modulabschlussprüfung; T = Modulteilprüfung 
+** optional 
+13. Modulnote: 
+  Die Modulnote entspricht der Note der Modulabschlussprüfung. 
+  Die Modulnote setzt sich wie folgt zusammen: 
+  Klausur zu Mathematik I  50 %  
+  Klausur zu Mathematik II  50 % 
+Das Modul wird nicht benotet. 
+ 
+ 
+14. Sonstiges: 
+Hinweis auf §25 Abs, 3 Satz 7 der PO BSc Chemie: „Hinsichtlich der nicht von der Fakultät Chemie und 
+Pharmazie angebotenen Module gelten die Prüfungsbestimmungen der jeweils zuständigen Fakultät.‘‘ 
+Dieses Modul wird von der Fakultät für Mathematik angeboten. Für die Wiederholbarkeit von Modul(teil-) 
+prüfungen gilt § 25 der PO des BSc Mathematik. 
+ 
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 7 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+CHE-BSc-M 03 (Stand: Juli 2015) 
+1. Name des Moduls:  Physik 
+2. Fachgebiet / Verantwortlich:  Physik / Studiendekan 
+Chemie / Prof. Dr. Hubert Motschmann 
+3. Inhalte des Moduls:  Bewegung in einer Dimension, Vektoren, Bewegung in zwei 
+oder drei Dimensionen, Kraft und Bewegung, Energie, 
+Impuls, Systeme von Teilchen, Stoßprozesse, Gravitation, 
+Drehbewegung, Schwingungen, Elektrostatik, elektrischer 
+Strom, Ohmsches Gesetz, Elektromagnetismus, Wellen und 
+Quanten, Spezielle Relativitätstheorie 
+4. Qualifikationsziele des Moduls:  Die Absolventen kennen die wesentlichen Grundbegriffe, 
+Phänomene und Konzepte der Physik, die für ein 
+erfolgreiches naturwissenschaftliches Studium erforderlich 
+sind. Damit besitzen sie das Rüstzeug, den auf 
+physikalischen Gesetzmäßigkeiten beruhenden 
+Überlegungen und Herleitungen in den theoretischen 
+chemischen Fächern zu folgen. Sie können einfache 
+Probleme der Mechanik, Elektrizitätslehre und Optik lösen. 
+Die Studierenden werden darüber hinaus durch eine breit 
+gefächerte Stoffauswahl in die Lage versetzt, speziellere 
+Kenntnisse bei Bedarf im Verlauf ihres Studiums der Literatur 
+zu entnehmen.  
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  Physikalische Schulkenntnisse 
+b) verpflichtende Nachweise:  keine 
+sofort vorzulegen                     
+      nachzureichen bis        
+6. Verwendbarkeit des Moduls:  B. Sc. Chemie 
+7. Angebotsturnus des Moduls:  Jährlich, im WS 
+8. Dauer des Moduls:  2 Semester 
+9. Empfohlenes Fachsemester:  1. und 2. Fachsemester 
+420 Stunden / 14 Leistungspunkte* 
+10. Gesamtarbeitsaufwand des 
+(195 h Präsenzzeit, 225 h Eigenstudium einschl. 
+Moduls (Workload) / Anzahl 
+Prüfungsvorbereitung) 
+Leistungspunkte: 
+*Die LP für das Modul werden erst nach Bestehen der Modulprüfung bzw. aller Modulteilprüfungen vergeben. 
+ 
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 8 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+ 
+11. Lehrveranstaltungen:   
+  P / WP 
+Lehrform  Themenbereich/Thema  Präsenzzeit in  Studienleistungen 
+/ W * 
+SWS o. Std. 
+1  P  V + Ü  Physik I  3+1   
+2  P  V + Ü  Physik II  3+1   
+3  P  P + S  Praktikum Physik  4+1  Testate (bestanden/nicht 
+bestanden) 
+Bemerkungen:       
+* P = Pflichtveranstaltung; WP = Wahlpflichtveranstaltung; W = Wahlveranstaltung 
+12. Modulprüfung:  
+Art der 
+A/T*  Art und Inhalt der  Zulassungs- Zeitpunkt 
+Dauer 
+Bewertung 
+Prüfung  voraussetzung** 
+T  Klausur zu Physik I    2 Std.  am Ende der  benotet 
+Vorlesungszeit des 
+WS 
+T  Klausur zu Physik II    2 Std.  am Ende der  benotet 
+Vorlesungszeit des 
+SS 
+Bemerkungen: Das Praktikum ist nicht benotet, die erfolgreiche Teilnahme wird durch die Versuchstestate 
+bescheinigt. 
+* A = Modulabschlussprüfung; T = Modulteilprüfung 
+** optional 
+13. Modulnote: 
+  Die Modulnote entspricht der Note der Modulabschlussprüfung. 
+  Die Modulnote setzt sich wie folgt zusammen: 
+  Klausur zu Physik I  50 % 
+  Klausur zu Physik II  50 % 
+  Das Modul wird nicht benotet. 
+ 
+14. Sonstiges: 
+Hinweis auf §25 Abs, 3 Satz 7 der PO BSc Chemie: Hinsichtlich der nicht von der Fakultät Chemie und 
+Pharmazie angebotenen Module gelten die Prüfungsbestimmungen der jeweils zuständigen Fakultät. 
+Dieses Modul wird von der Fakultät für Physik angeboten. Für die Wiederholbarkeit von Modul(teil-) 
+prüfungen gilt § 22 der PO des BSc Physik. 
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 9 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+CHE-BSc-M 04 (Stand: Mai 2017) 
+1. Name des Moduls:  Chemie wässriger Lösungen 
+2. Fachgebiet / Verantwortlich:  Chemie / Prof. Dr. Arno Pfitzner 
+3. Inhalte des Moduls:  Erste Arbeiten im chemischen Laboratorium 
+Dieses erste Praxismodul dient dem Einstieg ins sichere und 
+saubere Arbeiten in einem chemischen Laboratorium. Dazu 
+werden sowohl quantitative Bestimmungen von Konzentra-
+tionen bekannter Ionen oder Verbindungen in wässriger 
+Lösung als auch qualitative Bestimmungen von Kationen und 
+Anionen in unbekannten Mischungen durchgeführt. Es 
+kommen verschiedene klassische Analyse-verfahren, wie 
+Titrationen (z.B. Säure-Base-, Redox- und Fällungstitrationen) 
+und Bestimmungen unter Hinzuziehung einfacher 
+apparativer bzw. instrumenteller Hilfsmittel (z.B. Gravimetrie, 
+quantitative Elektrolysen, Photometrie), sowie einfache 
+Handversuche und Vorproben bis hin zum H S-Trennungs-
+2
+gang zum Einsatz. So werden Prinzipien von Reaktionen in 
+wässriger Lösung, wie z.B. Dissoziationsgleichgewichte, 
+Komplexbildungskonstanten und Löslichkeitsprodukte an 
+praktischen Beispielen vermittelt. 
+In einem präparativen Teil des Praktikums werden erste, 
+einfache anorganischer Präparate synthetisiert. Auf diese 
+Weise werden die Studierenden an die vielfältigen 
+Arbeitstechniken, den Aufbau von einfachen 
+Glasapparaturen, die Bedienung von Laborgeräten etc. 
+herangeführt. 
+4. Qualifikationsziele des Moduls:  Grundlagen des sicheren und sauberen Arbeitens im Labor, 
+Anwendung chemischer Gleichgewichte, Verständnis für die 
+Chemie wässriger Lösungen, Kompetenz zur Aufstellung von 
+Reaktionsgleichungen unter Berücksichtigung der 
+Elektronenbilanz. 
+Nach Abschluss des Moduls ist der Absolvent in der Lage, 
+einfache Reaktionsgleichungen zu formulieren und erkennt 
+die Zusammenhänge von chemischem Gleichgewicht und 
+ablaufenden Reaktionen. Der Studierende ist in der Lage, 
+einfache theoretische Zusammenhänge im Kontext 
+praktischer Problemstellungen anzuwenden. Er ist in der 
+Lage, einfache Glasapparaturen aufzubauen und erste 
+chemische Reaktionen nach Vorschrift durchzuführen. 
+ 
+ 
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 10 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  Grundlagen der Chemie 
+b) verpflichtende Nachweise:   
+sofort vorzulegen                     
+      nachzureichen bis        
+6. Verwendbarkeit des Moduls:  B.Sc. Chemie 
+7. Angebotsturnus des Moduls:  Jährlich, im WS 
+8. Dauer des Moduls:  2 Semester 
+9. Empfohlenes Fachsemester:  1. und 2. Fachsemester 
+10. Gesamtarbeitsaufwand des  330 Stunden / 11 Leistungspunkte* 
+Moduls (Workload) / Anzahl  (285 h Präsenzzeit, 45 h Eigenstudium)  
+Leistungspunkte: 
+*Die LP für das Modul werden erst nach Bestehen der Modulprüfung bzw. aller Modulteilprüfungen vergeben. 
+11. Lehrveranstaltungen:   
+  P /  
+Lehrform  Themenbereich/Thema  Präsenzzeit in  Studienleistungen 
+WP / 
+  SWS o. Std. 
+W * 
+1  P  P + S  Praktikum Chemie wässriger  5+2  Kolloquien (bestanden/nicht 
+Lösungen (anorganischer Teil I)  bestanden) 
+2  P  P + S  Praktikum Chemie wässriger  5+1  Kolloquien (bestanden/nicht 
+Lösungen (anorganischer Teil II)  bestanden) 
+3  P  P + S  Praktikum Chemie wässriger  5+1  Kolloquien (bestanden/nicht 
+Lösungen (analytischer Teil)  bestanden) 
+Bemerkungen: In den Kolloquien werden die Theorie des Versuches, die experimentelle Durchführung und vor allem 
+auch die Sicherheitsaspekte besprochen. Das Kolloquium muss bestanden werden, um mit dem Versuch beginnen zu 
+können. Das Kolloquium ist unbenotet. 
+Zugangsvoraussetzung für die Praktikumskurse „Chemie wässriger Lösungen --- Anorganischer Teil II‘‘ und 
+„Chemie wässriger Lösungen --- Analytischer Teil‘‘ ist das erfolgreich absolvierte Modul „Allgemeine 
+Chemie‘‘ (CHE-BSc-M01). 
+* P = Pflichtveranstaltung; WP = Wahlpflichtveranstaltung; W = Wahlveranstaltung 
+12. Modulnote: 
+ Die Modulnote entspricht der Note der Modulabschlussprüfung. 
+ Die Modulnote setzt sich wie folgt zusammen: 
+ Das Modul wird nicht benotet: 
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 11 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+CHE-BSc-M 05 (Stand: Januar 2017) 
+1. Name des Moduls:  Chemie stofflicher Systeme 
+2. Fachgebiet / Verantwortlich:  Chemie / Prof. Dr. Robert Wolf 
+3. Inhalte des Moduls:  Prinzipien der OC: Struktur und Bindung, funktionelle 
+Gruppen, Stereoisomerie, Delokalisation, Mesomerie, 
+Katalyse. Zusammenhang zwischen organischer Stoffklasse, 
+charakteristischer funktioneller Gruppe und deren 
+Reaktivität: Alkane/Radikalische Substitution, 
+Alkene/Elektrophile Addition, Halogenalkane/Nucleophile 
+Substitution, Aromaten/Elektrophile Substitution, 
+Carbonylverbindungen/NucleophileAcylsubstitution und 
+Addition, Oxidationen/Reduktionen. Einführung in die 
+Bioorganische Chemie: Kohlenhydrate, 
+Proteine/Enzyme/Coenzyme, Nucleinsäuren. Vertiefung und 
+Verbreiterung der organischen Reaktionsmechanismen. 
+Neue Reaktionsmechanismen: Umlagerungen, 
+Cycloadditionen, perizyklische Reaktionen. Präparativ 
+wichtige Reaktionen in Theorie. Prinzip stereoselektiver 
+Synthesen. Planung einfacher mehrstufiger Synthese. 
+Anorganische Stoffchemie: Vorkommen, Strukturen, 
+Eigenschaften und Herstellung der Elemente; wichtige binäre 
+Verbindungen der Elemente, technische Verfahren der 
+anorganischen Grundstoffindustrie.; Begrifflichkeit der 
+Koordinationschemie, Einführung in die Nomenklatur von 
+Komplexen, Koordinationszahl und Koordinationsgeometrie, 
+Modelle zur Beschreibung der geometrischen und 
+elektronischen Struktur von Übergangsmetallkomplexen, 
+Isomerie in Komplexen;  
+4. Qualifikationsziele des Moduls:  Die Studierenden haben einen Überblick über die Chemie 
+der Elemente gewonnen. Sie können aus der Stellung des 
+Elements im Periodensystem Formeltypen für einfache 
+anorganische Verbindungen ableiten. Bezogen auf das 
+Element Kohlenstoff kennen und verstehen die Studierenden 
+die organischen Stoffgruppen und ihre spezifischen 
+Eigenschaften, die jeweiligen funktionellen Gruppen und 
+deren grundlegenden Reaktionsmechanismen und 
+Einflussparameter, die Prinzipien der Stereoisomerie und 
+Stereoselektivität, und außerdem bioorganische 
+Stoffgruppen und deren Bedeutung in der chemischen 
+Biologie. Einfache theoretische Modelle zur Ableitung der 
+räumlichen und elektronischen Struktur von 
+Übergangsmetallkomplexen können angewendet werden.  
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 12 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+Die Studierenden können das erworbene exemplarische 
+Wissen nutzen, um ihnen unbekannte anorganischer und 
+organischer Verbindungen sowie Metallkomplexe 
+einzuordnen. Auf der Basis der Struktur können die 
+Studierenden sinnvolle Vorschläge zu den Eigenschaften 
+dieser Verbindungen und Komplexe sowie zur Reaktivität 
+machen. Für die Synthese einfacher organischer oder binärer 
+anorganischer Verbindungen können die Studierenden 
+verschiedene Routen vorschlagen und bewerten. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  Keine 
+b) verpflichtende Nachweise:  Keine 
+sofort vorzulegen                     
+      nachzureichen bis        
+6. Verwendbarkeit des Moduls:  B.Sc. Chemie 
+7. Angebotsturnus des Moduls:  Jährlich, im SS 
+8. Dauer des Moduls:  2 Semester 
+9. Empfohlenes Fachsemester:  2. und 3. Fachsemester 
+10. Gesamtarbeitsaufwand des  570 Stunden / 19 Leistungspunkte* 
+Moduls (Workload) / Anzahl  (180 h Präsenzzeit, 390 h Eigenstudium einschl. 
+Leistungspunkte:  Prüfungsvorbereitung) 
+*Die LP für das Modul werden erst nach Bestehen der Modulprüfung bzw. aller Modulteilprüfungen vergeben. 
+11. Lehrveranstaltungen:   
+  P /  
+Lehrform  Themenbereich/Thema  Präsenzzeit in  Studienleistungen 
+WP / 
+  SWS o. Std. 
+ 
+W *   
+1  P  V + Ü  OC Grundvorlesung  4+1   
+2  P  V  AC Hauptgruppenchemie  3   
+3  P  V  AC Komplexchemie  1   
+4  P  V+Ü  OC Reaktionsmechanismen  3   
+Bemerkungen:  
+* P = Pflichtveranstaltung; WP = Wahlpflichtveranstaltung; W = Wahlveranstaltung 
+ 
+ 
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 13 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+12. Modulprüfung:  
+Art der 
+A/T*  Art und Inhalt der  Zulassungs- Zeitpunkt 
+Dauer 
+Bewertung 
+Prüfung  voraussetzung** 
+T  Klausur zu OC    2 Std.  Am Ende der  benotet 
+Grundvorlesung  Vorlesungzeit des 
+SS 
+T   Gemeinsame Klausur zu AC    2 Std.  Am Ende der  benotet 
+Hauptgruppenchemie und  Vorlesungzeit des 
+AC Komplexchemie  WS 
+T  Klausur zu OC    2 Std.  Am Ende der  benotet 
+Reaktionsmechanismen  Vorlesungzeit des 
+WS 
+Bemerkungen: Jede Modulteilprüfung muss abgelegt werden, um bei einem zweimaligen Nichtbestehen 
+einer oder mehrerer Teilprüfungen das Anrecht auf eine mündliche Modulabschlussprüfung (siehe unter 
+14.) zu erlangen. Die Wiederholungsfrist für die mündliche Gesamtprüfung richtet sich nach der letzten 
+erbrachten Teilprüfung. Das Bestehen der Klausur zur Vorlesung OC Reaktionsmechanismen (Mindestnote 
+4.0) ist Vorraussetzung für den Zugang zum Modul CHE-BSc-M10 „Praxis: Synthesechemie“. 
+* A = Modulabschlussprüfung; T = Modulteilprüfung 
+** optional 
+13. Modulnote: 
+  Die Modulnote entspricht der Note der Modulabschlussprüfung. 
+  Die Modulnote setzt sich wie folgt zusammen: 
+  Klausur zu OC Grundvorlesung  25 % 
+  Gemeinsame Klausur zu AC Hauptgruppenchemie und AC Komplexchemie  50 % 
+  Klausur zu OC Reaktionsmechanismen  25 % 
+  Das Modul wird nicht benotet. 
+ 
+14. Sonstiges: 
+Werden eine oder mehrere Modulteilprüfungen bzw. die Modulabschlussprüfung im ersten 
+Wiederholungsversuch nicht bestanden, so steht dem Kandidaten ein zweiter Wiederholungsversuch zu. 
+Die zweite Wiederholungsprüfung wird grundsätzlich als mündliche Modulabschlussprüfung (zu allen im 
+Modul enthaltenen Lehrveranstaltungen) vor einem Prüfungsgremium aus mindestens zwei Prüfern 
+abgehalten. Im Fall von einer oder mehreren zweimal nicht bestandenen Teilprüfungen fließt die Note der 
+mündlichen Modulabschlussprüfung (2. Wiederholung) mit dem für die jeweilige Teilprüfung vorgesehenen 
+Gewicht in die Modulnote ein. 
+Wird die mündliche Modulabschlussprüfung nicht bestanden, so führt dies gemäß § 29 Abs. 4 Satz 1 
+Punkt 2 (PO des Bachelorstudiengangs Chemie vom 14.06.2010) zum endgültigen Nichtbestehen der 
+Bachelorprüfung.  
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 14 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+CHE-BSc-M 06 (Stand: Januar 2017) 
+1. Name des Moduls:  Theorie: Energetik 
+2. Fachgebiet / Verantwortlich:  Chemie / Prof. Dr. Hubert Motschmann 
+3. Inhalte des Moduls:  Thermodynamik: Wärme und Arbeit, totales Differential, 
+mathematische Grundlagen; die drei Hauptsätze: 
+Reversibilität, Kreisprozesse, der Entropiebegriff, Gibbssche 
+Energie, Einführung in die statistische Thermodynamik und 
+Boltzmann-Verteilung; Maxwellsche Relationen. 
+Zwischenmolekulare Kräfte. Phasendiagramme, 
+Phasenübergänge und Phasengleichgewichte. 
+Thermodynamik von Mischphasen: Raoultsches und 
+Henrysches Gesetz. Reaktionswärmen. Chemisches 
+Gleichgewicht und Massenwirkungsgesetz. Druck- und 
+Temperaturabhängigkeit. 
+Elektrochemie: Nernstsche Gleichung und elektrochemische 
+Spannungsreihe, Elektroden und Elektrodenprozesse; 
+Pourbaix-Diagramme, technische Anwendungen.. 
+Kinetik: differentielle und integrale Zeitgesetze, 
+Beschreibung von Folgereaktionen und steadystate; 
+Arrhenius-Gleichung; Eyring: Aktivierungsenthalpie und -
+entropie; Reaktionen an Oberflächen. 
+Transporteigenschaften: elektrische Leitfähigkeit, Diffusion, 
+Viskosität. 
+Einführung in die Debye-Hückel-Theorie 
+Grundkurs symbolische Programmiersprache (Mathematica 
+oder Maple): Programmaufbau, Visualisierung von 
+Funktionen, Ausgewählte Beispiele aus der linearen Algebra, 
+Nullstellen einer transzendenten  Gleichung, Differential- 
+und Integralrechnung, Differentialgleichungen. 
+4. Qualifikationsziele des Moduls:  Grundlegendes Verständnis der Begriffe Energie, Entropie, 
+Arbeit und Wärme. Fähigkeit zur eigenständigen 
+Berechnung von chemischen Gleichgewichtszuständen und 
+von einfachen Reaktionsabläufen unter verschiedensten 
+Bedingungen. Fähigkeit, thermodynamische Daten in der 
+Literatur zu finden, je nach Bedarf zu verknüpfen und 
+umzurechnen. Verständnis des Zusammenhangs von 
+molekularen und makroskopischen Eigenschaften der 
+Materie. Verständnis von grundlegenden 
+Transporteigenschaften und der Energetik von 
+Reaktionsprozessen.  
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 15 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+Grundkurs symbolischen Programmiersprache(Mathematica 
+oder Maple). Der Kurs diskutiert die wesentlichen Elemente 
+einer symbolischen Programmiersprache und schafft so die 
+Voraussetzung, Übungen in der Physikalischen und 
+Theoretischen Chemie als Notebooks  auszugeben. Es 
+können so realistische Beispiele durchgerechnet werden und 
+nicht alles muss auf die Ebene idealisierter 
+Modellvorstellungen wie der eines idealen Gases reduziert 
+werden. Komplexe Abhängigkeiten können schnell 
+visualisiert werden und so generell ein tieferes Verständnis 
+erreicht werden. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  Vorlesung Mathematik I, Modul CHE-BSc-M 01 „Allgemeine 
+Chemie“ 
+b) verpflichtende Nachweise:  keine 
+sofort vorzulegen                     
+      nachzureichen bis        
+6. Verwendbarkeit des Moduls:  B.Sc. Chemie 
+7. Angebotsturnus des Moduls:  Jährlich, im SS 
+8. Dauer des Moduls:  2 Semester 
+9. Empfohlenes Fachsemester:  2. und 3. Fachsemester 
+10. Gesamtarbeitsaufwand des  360 Stunden / 12 Leistungspunkte* 
+Moduls (Workload) / Anzahl  (150 h Präsenzzeit, 210 h Eigenstudium einschl. 
+Leistungspunkte:  Prüfungsvorbereitung) 
+*Die LP für das Modul werden erst nach Bestehen der Modulprüfung bzw. aller Modulteilprüfungen vergeben. 
+ 
+11. Lehrveranstaltungen:   
+  P /  
+Lehrform  Themenbereich/Thema  Präsenzzeit  Studienleistungen 
+WP /  
+  in SWS o. 
+ 
+W * 
+Std. 
+1  P  V + Ü  Thermodynamik I  2+1   
+2  P  V+Ü  Kinetik  1,5   
+3  P  V + Ü  Thermodynamik II  2+1   
+4  P  V+Ü  Elektrochemie   1,5   
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 16 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+5  P  Kurs  Symbolische Programmiersprache  1   
+Bemerkungen:  
+* P = Pflichtveranstaltung; WP = Wahlpflichtveranstaltung; W = Wahlveranstaltung; # online Kurs 
+ 
+12. Modulprüfung:  
+Zeitpunkt  Art der 
+A/T*  Art und Inhalt der  Zulassungs-
+Dauer    Bewertung 
+Prüfung  voraussetzung** 
+ 
+T  Klausur zu den    2 Std.  Am Ende der  benotet 
+Veranstaltungen 11.1 und  Vorlesungszeit des 
+11.2  SS 
+T  Klausur zu den    2,5 Std.  Am Ende der  benotet 
+Veranstaltungen 11.3 und  Vorlesungszeit des 
+11.4   WS 
+Bemerkungen: Die Modulabschlussprüfung umfasst die zwei Teilprüfungen „Thermodynamik I/Kinetik“ und 
+„Thermodynamik-II / Elektrochemie“. Die Noten der Teilbereiche gehen wie folgt in die Gesamtnote ein: 
+Thermodynamik I/Kinetik: 40%; Thermodynamik II / Elektrochemie: 60%. Gewichtung der Teilgebiete pro 
+Klausur:  
+Thermodynamik I / Kinetik: 60 / 40 
+Thermodynamik II /Elektrochemie: 60 /40  
+Jede Modulteilprüfung muss abgelegt werden, um bei einem zweimaligen Nichtbestehen einer oder 
+mehrerer Teilprüfungen das Anrecht auf eine mündliche Modulabschlussprüfung (siehe unter 14.) zu 
+erlangen. Die Wiederholungsfrist für die mündliche Gesamtprüfung richtet sich nach der letzten erbrachten 
+Teilprüfung.  
+* A = Modulabschlussprüfung; T = Modulteilprüfung 
+** optional 
+ 
+13. Modulnote: 
+  Die Modulnote entspricht der Note der Modulabschlussprüfung. 
+  Die Modulnote setzt sich wie folgt zusammen: 
+  Klausur Thermodynamik I / Kinetik  40 % 
+  Klausur Thermodynamik II / Elektrochemie   60 % 
+  Das Modul wird nicht benotet. 
+ 
+14. Sonstiges: 
+Werden eine oder mehrere Modulteilprüfungen bzw. die Modulabschlussprüfung im ersten 
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 17 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+Wiederholungsversuch nicht bestanden, so steht dem Kandidaten ein zweiter Wiederholungsversuch zu. 
+Die zweite Wiederholungsprüfung wird grundsätzlich als mündliche Modulabschlussprüfung (zu allen im 
+Modul enthaltenen Lehrveranstaltungen) vor einem Prüfungsgremium aus mindestens zwei Prüfern 
+abgehalten. Im Fall von einer oder mehreren zweimal nicht bestandenen Teilprüfungen fließt die Note der 
+mündlichen Modulabschlussprüfung (2. Wiederholung) mit dem für die jeweilige Teilprüfung vorgesehenen 
+Gewicht in die Modulnote ein. 
+ 
+Wird die mündliche Modulabschlussprüfung nicht bestanden, so führt dies gemäß § 29 Abs. 4 Satz 1 
+Punkt 2 (PO des Bachelorstudiengangs Chemie vom 14.06.2010) zum endgültigen Nichtbestehen der 
+Bachelorprüfung.  
+ 
+ 
+ 
+ 
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 18 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+CHE-BSc-M 07 (Stand: Juli 2015) 
+1. Name des Moduls:  Praxis: Energetik 
+2. Fachgebiet / Verantwortlich:  Chemie / Prof. Dr. Werner Kunz 
+3. Inhalte des Moduls:  Die im Theoriemodul erarbeiteten Grundlagen werden in 
+diesem Modul im Praktikum vertieft, die Versuche erfordern 
+eine Quervernetzung der erlernten Begriffe: Bestimmung 
+eines Siedediagramms eines binären Gemisches, des p(V)-
+Diagrammes eines realen Gases, des Dampfdruckes einer 
+reinen Komponente und der Wärrmetönung von chemischen 
+Reakionen (Kalorimetrie) als Beispiele thermodynamischer 
+Eigenschaften. Dazu aus der Elektrochemie die Bestimmung 
+des Ladungstransports in elektrolytischen Ketten, der 
+Leitfähigkeit von Elektrolytlösungen und der 
+elektromotorischen Kraft sowie der Bau einer einfachen 
+Brennstoffzelle. Dazu noch die viskosimetrische Bestimmung 
+der Molekülmasse von Polyvenylalkohol und aus der Kinetik 
+die Bestimmung der Geschwindigkeitskonstanten und der 
+Aktivierungsenergie einer Reaktion pseudo-erster Ordnung 
+(Rohrzuckerinversion).Aus der Spektroskopie die 
+Bestimmung elektronischer Übergänge in Atomen und 
+Molekülen und eine Einführung in die Infrarot-Absorption.  
+ 
+Vorlesung Technische Chemie: Die Vorlesung beginnt mit 
+einem allgemeinen Überblick über die chemische Industrie, 
+grundlegende großtechnische Verfahren, Produkte und Up-
+Scaling. Sowohl ökonomische wie ökologische 
+Fragestellungen werden angesprochen. Es folgt die 
+Anwendung klassischer physikalisch-chemischer Konzepte 
+wie Thermodynamik, Kinetik, Wärme- und Stofftransport auf 
+die Konzeption großtechnischer Verfahren. Das folgende 
+Kapitel behandelt Typen und grundlegende Eigenschaften 
+von chemischen Reaktoren. Danach folgt eine detaillierte 
+Diskussion thermischer Trennverfahren, vor allem 
+Destillation, Rektifikation, Absorption, Extraktion und 
+Adsorption. Nach einer kurzen Vorstellung der Kriterien für 
+eine optimale Verfahrensauswahl werden die erdölbasierten 
+Grundchemikalien, ihre Gewinnung in Raffinerien und deren 
+Weiterverarbeitung besprochen. Daran schließt sich eine 
+detaillierte Vorstellung von großtechnisch wichtigen 
+Polymeren (Kunststoffe und funktionale, meist lösliche 
+Polymere) an. Schließlich werden eine Reihe von 
+technischund wirtschaftlich wichtigen Feinchemikalien 
+besprochen, unter besonderer Berücksichtigung von 
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 19 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+Tensiden und Emulgatoren. Die Vorlesung endet mit einer 
+Diskussion nachhaltiger Rohstoffe und deren derzeitiger und 
+zukünftiger Bedeutung für die chemische Industrie.  
+4. Qualifikationsziele des Moduls:  Praktikum Physikalische Chemie I:Die Studenten lernen an 
+Hand von ausgewählten Experimenten die Grundlagen der 
+chemischen Thermodynamik, der chemischen Kinetik, der 
+Elektrochemie und der Chemie von Grenzflächen kennen. Sie 
+lernen ferner, makroskopische und mikroskopische 
+Parameter einer kondensierten Phase in Beziehung zu 
+setzen. Alle Versuche erfordern eine detaillierte 
+Fehlerrechnung. Die Versuchsaufbauten sind transparent 
+und offen gestaltet. 
+ 
+Vorlesung: Technische Chemie: Verständnis für die Sprache 
+des Chemie-Ingenieurs und für die Herausforderungen der 
+Chemie im industriellen Maßstab. Verständnis für Upscaling 
+und Unterschiede zwischen Labor- und industriellen 
+Synthesen. Verständnis für die praktische Bedeutung von 
+Thermodynamik und Kinetik in der Großchemie. Begreifen 
+der Chemie als Teil der Gesellschaft und der Verantwortung 
+des Chemikers für Mensch und Umwelt sowie Verständnis 
+für damit verbundene ökonomische und ökologische 
+Fragestellungen. Fähigkeit, das Verständnis der einzelnen 
+angesprochenen Punkte zumindest exemplarisch auf 
+gegebene Problemstellungen und auch 
+fächerübergreifendanzuwenden. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  Mathematik I, Modul CHE-BSc-M 01 „Allgemeine Chemie“ 
+b) verpflichtende Nachweise:   
+sofort vorzulegen                     
+      nachzureichen bis        
+6. Verwendbarkeit des Moduls:  B. Sc. Chemie 
+7. Angebotsturnus des Moduls:  Jährlich, im WS 
+8. Dauer des Moduls:  2 Semester 
+9. Empfohlenes Fachsemester:  3. und 4. Fachsemester 
+210 Stunden / 7 Leistungspunkte* 
+10. Gesamtarbeitsaufwand des 
+(105 h Präsenzzeit, 105 h Eigenstudium einschl. 
+Moduls (Workload) / Anzahl 
+Prüfungsvorbereitung) 
+Leistungspunkte: 
+*Die LP für das Modul werden erst nach Bestehen der Modulprüfung bzw. aller Modulteilprüfungen vergeben. 
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 20 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+11. Lehrveranstaltungen: 
+  P /  
+Lehrform  Themenbereich/Thema  Präsenzzeit  Studienleistungen 
+WP / 
+  in SWS o. 
+ 
+W *   
+Std. 
+1  P  P  Praktikum Physikalische Chemie I  5  Protokolle mit 
+Versuchsauswertungen 
+2  P  V  Technische Chemie  2   
+Bemerkungen:  
+* P = Pflichtveranstaltung; WP = Wahlpflichtveranstaltung; W = Wahlveranstaltung 
+12. Modulprüfung:  
+Zeitpunkt  Art der 
+A/T*  Art und Inhalt der  Zulassungs-
+Dauer    Bewertung 
+Prüfung  voraussetzung** 
+ 
+A  Klausur zur Technischen    2 Std.  Am Ende der  benotet 
+Chemie  Vorlesungzeit des 
+SS 
+Bemerkungen: Jede Modulteilprüfung muss abgelegt werden, um bei einem zweimaligen Nichtbestehen 
+einer oder mehrerer Teilprüfungen das Anrecht auf eine mündliche Modulabschlussprüfung (siehe unter 
+14.) zu erlangen. Die Wiederholungsfrist für die mündliche Gesamtprüfung richtet sich nach der letzten 
+erbrachten Teilprüfung.  
+* A = Modulabschlussprüfung; T = Modulteilprüfung 
+** optional 
+13. Modulnote: 
+  Die Modulnote entspricht der Note der Modulabschlussprüfung. 
+  Die Modulnote setzt sich wie folgt zusammen: 
+     
+     
+  Das Modul wird nicht benotet. 
+ 
+14. Sonstiges: 
+Werden eine oder mehrere Modulteilprüfungen bzw. die Modulabschlussprüfung im ersten 
+Wiederholungsversuch nicht bestanden, so steht dem Kandidaten ein zweiter Wiederholungsversuch zu. 
+Die zweite Wiederholungsprüfung wird grundsätzlich als mündliche Modulabschlussprüfung (zu allen im 
+Modul enthaltenen Lehrveranstaltungen) vor einem Prüfungsgremium aus mindestens zwei Prüfern 
+abgehalten. Im Fall von einer oder mehreren zweimal nicht bestandenen Teilprüfungen fließt die Note der 
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 21 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+mündlichen Modulabschlussprüfung (2. Wiederholung) mit dem für die jeweilige Teilprüfung vorgesehenen 
+Gewicht in die Modulnote ein. 
+ 
+Wird die mündliche Modulabschlussprüfung nicht bestanden, so führt dies gemäß § 29 Abs. 4 Satz 1 
+Punkt 2 (PO des Bachelorstudiengangs Chemie vom 14.06.2010) zum endgültigen Nichtbestehen der 
+Bachelorprüfung.  
+ 
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 22 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+CHE-BSc-M 08 (Stand: Juli 2015) 
+1. Name des Moduls:  Stoffanalyse 
+2. Fachgebiet / Verantwortlich:  Chemie / Prof. Dr. Antje Bäumner 
+3. Inhalte des Moduls:  Vorlesung Analytische Chemie: Probenvorbereitung; 
+analytische Strategien, Photometrie, chromogene 
+Reaktionen und Komplexierungen, Markierung und 
+Derivatisierung, chromatographische Methoden, 
+Radioanalytik, Potentiometrie, Amperometrie, 
+Massenspektroskopie, gekoppelte analytische Verfahren, 
+Atomabsorption und –emission; Elektrophorese, 
+Laborautomation, Datenbewertung und Statistik, 
+analytischer Gesamtprozess. 
+Praktikum Analytische Chemie: Photometrische Analyse, 
+Fluoreszenzanalyse, Atomspektroskopie, Kinetisch-
+enzymatischer Versuch, Probenvorbereitung, (cid:31)- und (cid:31)-
+Spektrometrie, Amperometrie, Coulometrie, GC, HPLC, 
+Laborautomatisation 
+Vorlesung Spektroskopie (NMR): Theorie ein-dimensionaler 
+1H- und 13C-NMR-Spektroskopie; Strukturanalyse mittels 
+NMR-Spektroskopie, IR- und UV/VIS-Spektroskopie;  
+Praktikum Physikalische Chemie II: Kryoskopie, Hydrolyse 
+und Puffervermögen, monomolekulare Filme, 
+Grenzflächenspannung, Differentialthermoanalyse, 
+Rheologie, Potentiometrie, Schmelzdiagramm, 
+Reaktionsgeschwindigkeit schneller Reaktionen, Absorption 
+und Lumineszenz, Excimerenbildung;  
+4. Qualifikationsziele des Moduls:  Nach Abschluss des Moduls ist der Student in der Lage, 
+physikalisch-chemische Messungen selbständig und präzise 
+auszuführen. Er kennt alle wichtigen Methoden der 
+(instrumentellen) analytischen Chemie, vor allem in Hinblick 
+auf die Konzentrations- bzw. Struktur- (= Konstitutions-) 
+analytik, kann potenzielle Fehlerquellen identifizieren und 
+Messergebnisse hinsichtlich Richtigkeit und Genauigkeit 
+beurteilen. Er kennt die Vor- und Nachteile bestimmter 
+Methoden, kann deren Anwendbarkeit auf spezifische 
+Probleme – auch aus Kostengesichtspunkten – abschätzen. 
+Er ist in der Lage, die Ergebnisse zu diskutieren und sie in 
+klarer Form schriftlich oder mündlich zu präsentieren.  
+5. Teilnahmevoraussetzungen:   
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 23 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+a) empfohlene Kenntnisse:  Grundlagen der Experimentalchemie (Umgang mit 
+Laborgeräten) und Praktikum Physik 
+b) verpflichtende Nachweise:  Modul CHE-BSc-M 01 „Allgemeine Chemie“ 
+sofort vorzulegen                     
+      nachzureichen bis        
+6. Verwendbarkeit des Moduls:  B.Sc. Chemie 
+7. Angebotsturnus des Moduls:  Jährlich, im WS 
+8. Dauer des Moduls:  2 Semester 
+9. Empfohlenes Fachsemester:  3. und 4. Fachsemester 
+450 Stunden / 15 Leistungspunkte*  
+10. Gesamtarbeitsaufwand des 
+(210 h Präsenzzeit, 240 h Eigenstudium einschl. 
+Moduls (Workload) / Anzahl 
+Prüfungsvorbereitung) 
+Leistungspunkte: 
+*Die LP für das Modul werden erst nach Bestehen der Modulprüfung bzw. aller Modulteilprüfungen vergeben. 
+ 
+11. Lehrveranstaltungen:   
+  P /  
+Lehrform  Themenbereich/Thema  Präsenzzeit in  Studienleistungen 
+WP / 
+  SWS o. Std. 
+W * 
+1  P  V   Analytische Chemie  3   
+2  P  P   Praktikum Analytische Chemie II  4  Protokoll 
+3  P  V  NMR-Spektroskopie  2   
+4  P  P + S  Praktikum Physikalische Chemie II  4+1  Protokoll 
+Bemerkungen:       
+* P = Pflichtveranstaltung; WP = Wahlpflichtveranstaltung; W = Wahlveranstaltung 
+ 
+12. Modulprüfung:  
+Zeitpunkt  Art der 
+A/T*  Art und Inhalt der  Zulassungs-
+Dauer    Bewertung 
+Prüfung  voraussetzung** 
+T  Klausur zur Vorlesung    2 Std.  Am Ende der  benotet 
+Analytische Chemie  Vorlesungszeit des 
+WS 
+T  Klausur zur Vorlesung NMR-   2 Std.  Am Ende der  benotet 
+Vorlesungzeit des 
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 24 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+Spektroskopie   WS 
+Bemerkungen: Jede Modulteilprüfung muss abgelegt werden, um bei einem zweimaligen Nichtbestehen 
+einer oder mehrerer Teilprüfungen das Anrecht auf eine mündliche Modulabschlussprüfung (siehe unter 
+14.) zu erlangen. Die Wiederholungsfrist für die mündliche Gesamtprüfung richtet sich nach der letzten 
+erbrachten Teilprüfung.  
+ 
+* A = Modulabschlussprüfung; T = Modulteilprüfung 
+** optional 
+ 
+13. Modulnote: 
+  Die Modulnote entspricht der Note der Modulabschlussprüfung. 
+  Die Modulnote setzt sich wie folgt zusammen: 
+  Klausur zur Vorlesung Analytische Chemie  50 %  
+Klausur zur Vorlesung NMR-Spektroskopie   50 % 
+  Das Modul wird nicht benotet.   
+ 
+14. Sonstiges: 
+Werden eine oder mehrere Modulteilprüfungen bzw. die Modulabschlussprüfung im ersten 
+Wiederholungsversuch nicht bestanden, so steht dem Kandidaten ein zweiter Wiederholungsversuch zu. 
+Die zweite Wiederholungsprüfung wird grundsätzlich als mündliche Modulabschlussprüfung (zu allen im 
+Modul enthaltenen Lehrveranstaltungen) vor einem Prüfungsgremium aus mindestens zwei Prüfern 
+abgehalten. Im Fall von einer oder mehreren zweimal nicht bestandenen Teilprüfungen fließt die Note der 
+mündlichen Modulabschlussprüfung (2. Wiederholung) mit dem für die jeweilige Teilprüfung vorgesehenen 
+Gewicht in die Modulnote ein. 
+ 
+Wird die mündliche Modulabschlussprüfung nicht bestanden, so führt dies gemäß § 29 Abs. 4 Satz 1 
+Punkt 2 (PO des Bachelorstudiengangs Chemie vom 14.06.2010) zum endgültigen Nichtbestehen der 
+Bachelorprüfung.  
+ 
+ 
+ 
+ 
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 25 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+CHE-BSc-M 09 (Stand: Januar 2017) 
+1. Name des Moduls:  Theorie: Synthesechemie 
+2. Fachgebiet / Verantwortlich:  Chemie / Prof. Dr. Manfred Scheer 
+3. Inhalte des Moduls:  Metallorganik: Grundlegende Konzepte wie die 18-
+Elektronenregel, Wade-Mingos-Regeln und das 
+Isolobalkonzeptweden vermittelt. Ferner werden behandelt: 
+Synthesen, chemische Bindung und Eigenschaften von 
+Lithium- und Magnesiumorganylen; Synthese, Struktur- und 
+Bindungsverhältnisse von Alkan-, Organyl-, Carben-, Carbin- 
+und Carbonylkomplexen sowie von ,-Donor/-Akzeptor-
+Ligandkomplexen der Olefine und der Aromaten mit 
+unterschiedlichen Ringgrößen sowie von 
+Heteroelementaromaten. Geschichtliche Aspekte zur 
+Entstehung einzelner Substanzklassen und ihre Bedeutung in 
+Natur und Gesellschaft, letzteres besonders im Hinblick auf 
+die Verwendung in der Katalyse. 
+Nebengruppenchemie: Eigenschaften der 
+Übergangsmetalle, Abgrenzung gegenüber 
+Hauptgruppenmetallen gruppenweise Diskussion von 
+Vorkommen, Gewinnung, Strukturen und Eigenschaften der 
+wichtigsten Verbindungen der Übergangsmetalle, Cluster 
+und Metall-Metall-Mehrfachbindungen 
+Im Rahmen der Anorganischen Festköperchemie werden 
+Grundlagen zur Chemie der festen Materie mit 
+Hauptaugenmerk auf kristalline Substanzen vermittelt. 
+Spezifische Eigenschaften von Feststoffen werden auf der 
+Basis struktureller und chemischer Hintergründe diskutiert. 
+Im Rahmen der Organischen Synthesechemie werden 
+moderne Synthesekonzepte (stereoselektive Methoden, 
+Cycloadditionen, Metallorganische Reagenzien, Katalyse) 
+vermittelt. 
+4. Qualifikationsziele des Moduls:  Nach Abschluss des Moduls versteht der Absolvent das 
+grundlegende Konzept der organischen und anorganischen 
+Synthese unter besonderer Berücksichtigung 
+metallorganischer Reaktionen. Er versteht Struktur- und 
+Bindungsverhältnisse verschiedener Verbindungstypen 
+einzuordnen. Er kann die Nutzung metallorganischer 
+Verbindungen im Hinblick auf technisch relevante Katalysen 
+bewerten. Er ist in der Lage, grundlegende Prinzipien des 
+Aufbaus anorganischer Feststoffe zu verstehen und ist sicher 
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 26 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+in der Bewertung thermodynamischer und kinetischer 
+Stabilitätskriterien. Struktur-, Eigenschafts- und 
+Wirkungsbeziehungen anorganischer, organischer und 
+metallorganischer Stoffe können bewertet werden. Des 
+Weiteren ist der Student befähigt, weiterführende Literatur 
+eigenständig in deutscher und englischer Sprache im 
+Rahmen des Selbststudiums einzubinden.  
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:   
+b) verpflichtende Nachweise:   
+sofort vorzulegen                     
+      nachzureichen bis        
+6. Verwendbarkeit des Moduls:  B.Sc. Chemie 
+7. Angebotsturnus des Moduls:  Jährlich, im SS 
+8. Dauer des Moduls:  2 Semester 
+9. Empfohlenes Fachsemester:  4. und 5. Fachsemester 
+10. Gesamtarbeitsaufwand des  300 Stunden / 10 Leistungspunkte* 
+Moduls (Workload) / Anzahl  (150 h Präsenzzeit, 150 h Eigenstudium einschl. 
+Leistungspunkte:  Prüfungsvorbereitung) 
+*Die LP für das Modul werden erst nach Bestehen der Modulprüfung bzw. aller Modulteilprüfungen vergeben. 
+ 
+11. Lehrveranstaltungen: 
+  P /  
+Lehrform  Themenbereich/Thema  Präsenzzeit in  Studienleistungen 
+WP / 
+  SWS o. Std. 
+W * 
+1  P  V   AC Metallorganik  2   
+2  P  V  AC Nebengruppen  2   
+3  P  V   AC Festkörperchemie  2   
+4  P  V + Ü  OC Moderne Synthesemethoden  2+2   
+Bemerkungen:       
+* P = Pflichtveranstaltung; WP = Wahlpflichtveranstaltung; W = Wahlveranstaltung 
+ 
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 27 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+12. Modulprüfung:  
+Art der 
+A/T*  Art und Inhalt der  Zulassungs- Zeitpunkt 
+Dauer 
+Bewertung 
+Prüfung  voraussetzung** 
+T  Klausur zu 11.1 und 11.2   keine  2 Std.  Am Ende der  benotet 
+Vorlesungszeit des 
+SS 
+T  Klausur zu 11.3 und 11.4    2 Std.  Am Ende der  benotet 
+Vorlesungszeit des 
+WS 
+Bemerkungen:  
+Die Teilprüfungsnoten gehen zu je 50 % in die Gesamtnote ein. Die Gesamtpunkte einer Teilprüfung teilen 
+sich jeweils 50/50 auf die beiden abzuprüfenden Lehrveranstaltungen auf. 
+Jede Modulteilprüfung muss abgelegt werden, um bei einem zweimaligen Nichtbestehen einer oder 
+mehrerer Teilprüfungen das Anrecht auf eine mündliche Modulabschlussprüfung (siehe unter 14.) zu 
+erlangen. Die Wiederholungsfrist für die mündliche Gesamtprüfung richtet sich nach der letzten erbrachten 
+Teilprüfung.  
+* A = Modulabschlussprüfung; T = Modulteilprüfung 
+** optional 
+13. Modulnote: 
+  Die Modulnote entspricht der Note der Modulabschlussprüfung. 
+  Die Modulnote setzt sich wie folgt zusammen: 
+  Klausur zu 11.1 und 11.2.  50 % 
+  Klausur zu 11.3 und 11.4   50 % 
+  Das Modul wird nicht benotet. 
+ 
+14. Sonstiges: 
+Werden eine oder mehrere Modulteilprüfungen bzw. die Modulabschlussprüfung im ersten 
+Wiederholungsversuch nicht bestanden, so steht dem Kandidaten ein zweiter Wiederholungsversuch zu. 
+Die zweite Wiederholungsprüfung wird grundsätzlich als mündliche Modulabschlussprüfung (zu allen im 
+Modul enthaltenen Lehrveranstaltungen) vor einem Prüfungsgremium aus mindestens zwei Prüfern 
+abgehalten. Im Fall von einer oder mehreren zweimal nicht bestandenen Teilprüfungen fließt die Note der 
+mündlichen Modulabschlussprüfung (2. Wiederholung) mit dem für die jeweilige Teilprüfung vorgesehenen 
+Gewicht in die Modulnote ein. 
+Wird die mündliche Modulabschlussprüfung nicht bestanden, so führt dies gemäß § 29 Abs. 4 Satz 1 
+Punkt 2 (PO des Bachelorstudiengangs Chemie vom 14.06.2010) zum endgültigen Nichtbestehen der 
+Bachelorprüfung.  
+ 
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 28 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+CHE-BSc-M 10 (Stand: Juli 2015) 
+1. Name des Moduls:  Praxis: Synthesechemie 
+2. Fachgebiet / Verantwortlich:  Chemie / Prof. Dr. Burkhard König 
+3. Inhalte des Moduls:  Synthese organischer Moleküle geringer bis mittlerer 
+Komplexität, einfacher metallorganischer Verbindungen, 
+auch unter Ausschluss von Luft und Feuchtigkeit, sowie 
+anorganischer Festkörper.  
+Systematisches Erlernen von grundlegenden 
+Laboratoriumsmethoden und Arbeitstechniken, wie 
+Sublimation, Destillation, Extraktion oder Chromatographie, 
+z.T. auch unter Inertgas, um Sauerstoff und Feuchtigkeit 
+auszuschließen. 
+Planung von Experimenten nach Fachvorschriften. Sicherer 
+Umgang und fachgerechte Entsorgung von Gefahrstoffen. 
+Analytische Verfolgung des Reaktionsfortschritts durch 
+einfache Techniken und Charakterisierung von 
+Reaktionsprodukten durch Standardanalysetechniken, wie 
+Schmelzpunkt- und Brechungsindexbestimmung, IR- und 
+NMR-Spektroskopie; im Falle anorganischer Festkörper durch 
+röntgenographische, thermoanalytische und 
+spektroskopische Methoden. Protokollieren von Versuchs-
+abläufen und-ergebnissen. 
+4. Qualifikationsziele des Moduls:  Nach Abschluss des Moduls ist der Studierende in der Lage, 
+organische Synthesen, auch über mehrere Schritte, erste 
+einfache Synthesen von metallorganischen Verbindungen 
+unter Inertgastechnik, sowie einfache Festkörperpräparation 
+nach Fachanleitungen selbstständig zu planen und sicher 
+durchzuführen. Dazu werden grundlegende Laboratoriums- 
+und Analysetechniken, sowie der Umgang und die sichere 
+Entsorgung von Gefahrstoffen beherrscht und angewandt. 
+Reaktionsprodukte können durch Standardverfahren 
+analysiert werden. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  Modul CHE-BSc-M 05 „Stoffliche Systeme“ 
+b) verpflichtende Nachweise:  Das Bestehen der Klausur zur Vorlesung „OC 
+Reaktionsmechanismen“ (Modul CHE-BSc-M05) ist 
+  sofort vorzulegen                                     
+Zugangsvorraussetzung zur Teilnahme an diesem Modul. 
+  nachzureichen bis 5. Semester               
+6. Verwendbarkeit des Moduls:  B.Sc. Chemie 
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 29 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+7. Angebotsturnus des Moduls:  Jährlich, im SS 
+8. Dauer des Moduls:  2 Semester 
+9. Empfohlenes Fachsemester:  4. und 5. Fachsemester 
+10. Gesamtarbeitsaufwand des  570 Stunden / 19 Leistungspunkte* 
+Moduls (Workload) / Anzahl  (420 h Präsenzzeit, 150 h Eigenstudium) 
+Leistungspunkte: 
+*Die LP für das Modul werden erst nach Bestehen der Modulprüfung bzw. aller Modulteilprüfungen vergeben. 
+11. Lehrveranstaltungen:   
+  P /  
+Lehrform  Themenbereich/Thema  Präsenzzeit in  Studienleistungen 
+WP / 
+SWS o. Std. 
+W * 
+1  P  P + S   Grundpraktikum Organische Chemie  12+2  Seminarvortrag über einen dem 
+Studierenden zugewiesenen 
+Versuch; Vortestate (bestanden / 
+nicht bestanden) 
+2  P  P + S   Fortgeschrittenen Praktikum  12+2  Seminarvortrag über einen dem 
+Anorganische/Organische Chemie  Studierenden zugewiesenen 
+Versuch; Vortestate (bestanden / 
+nicht bestanden) 
+Bemerkungen: Im Prüfungsgespräch werden die Theorie, die experimentelle Durchführung und alle 
+Sicherheitsaspekte des jeweiligen Versuchs angesprochen. Das Kolloquium muss bestanden werden, bevor mit den 
+experimentellen Arbeiten zum Versuch begonnen wird. 
+* P = Pflichtveranstaltung; WP = Wahlpflichtveranstaltung; W = Wahlveranstaltung 
+ 
+12. Modulnote: 
+  Die Modulnote entspricht der Note der Modulabschlussprüfung. 
+  Die Modulnote setzt sich wie folgt zusammen: 
+     
+     
+  Das Modul ist nicht benotet. 
+ 
+13. Sonstiges: 
+      
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 30 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+CHE-BSc-M 11 (Stand: Juli 2015) 
+1. Name des Moduls:  Struktur der Materie 
+2. Fachgebiet / Verantwortlich:  Chemie / Prof. Dr. Bernhard Dick 
+3. Inhalte des Moduls:  Grundlagen der Quantentheorie der Materie: 
+Schrödingergleichung, lösbare Einteilchenprobleme (Kasten, 
+Oszillator, Rotator, H-Atom), Variationstheorem, 
+Hückelmethode; Einführung in die Symmetrie: Symmetrie-
+elemente und Symmetrieoperationen, Gruppentheorie, 
+Irreduzible Darstellungen; Einführung in die optische 
+Molekül-spektroskopie: Rotations- und 
+Schwingungsspektroskopie (MW, IR, Raman), UV/Vis-
+Spektroskopie, Elektronenzustände von 
+Koordinationsverbindungen; Einführung in die Theoretische 
+Chemie: Mehrelektronensysteme, Spinzustände, Hartree-
+Fock Methode, Dichtefunktionaltheorie. 
+4. Qualifikationsziele des Moduls:  Studierende, die das Modul erfolgreich absolviert haben, 
+sind mit der Quantennatur der Materie und den daraus 
+folgenden Konsequenzen vertraut. Aus der Kenntnis der 
+Zusammenhänge zwischen quantisierten Eigenschaften der 
+Materie und spektroskopischen Phänomenen können sie für 
+verschiedene Fragestellungen der Strukturbestimmung von 
+chemischen Verbindungen geeignete spektroskopische 
+Verfahren auswählen und experimentelle Ergebnisse in 
+diesem Sinne analysieren. Des Weiteren haben sie die 
+fundamentalen Methoden der modernen 
+Elektronenstrukturtheorie (numerische Quantenchemie) 
+kennengelernt und verstanden. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  Modul CHE-BSc-M 02 „Mathematik“ 
+Modul CHE-BSc-M 03 „Physik“ 
+b) verpflichtende Nachweise:  keine 
+sofort vorzulegen                     
+      nachzureichen bis        
+6. Verwendbarkeit des Moduls:  B.Sc. Chemie 
+7. Angebotsturnus des Moduls:  Jährlich, im SS  
+8. Dauer des Moduls:  2 Semester 
+9. Empfohlenes Fachsemester:  4. und 5. Fachsemester 
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 31 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+10. Gesamtarbeitsaufwand des  390 Stunden / 13 Leistungspunkte* 
+Moduls (Workload) / Anzahl  (150 h Präsenzzeit, 240 h Eigenstudium einschl. 
+Leistungspunkte:  Prüfungsvorbereitung) 
+*Die LP für das Modul werden erst nach Bestehen der Modulprüfung bzw. aller Modulteilprüfungen vergeben. 
+ 
+11. Lehrveranstaltungen:   
+  P /  
+Lehrform  Themenbereich/Thema  Präsenzzeit in  Studienleistungen 
+WP / 
+SWS o. Std. 
+W * 
+1  P  V   Quantenmechanik  3   
+2  P  V  Spektroskopie  4   
+3  P  V  Theoretische Chemie  3   
+Bemerkungen: Jede Modulteilprüfung muss abgelegt werden, um bei einem zweimaligen Nichtbestehen 
+einer oder mehrerer Teilprüfungen das Anrecht auf eine mündliche Modulabschlussprüfung (siehe unter 
+14.) zu erlangen. Die Wiederholungsfrist für die mündliche Gesamtprüfung richtet sich nach der letzten 
+erbrachten Teilprüfung.  
+ 
+* P = Pflichtveranstaltung; WP = Wahlpflichtveranstaltung; W = Wahlveranstaltung 
+ 
+12. Modulprüfung:  
+Art der 
+A/T*  Art und Inhalt der  Zulassungs- Zeitpunkt 
+Dauer 
+Bewertung 
+Prüfung  voraussetzung** 
+T  Klausur zu         2 Std.  Am Ende der  benotet 
+Quantenmechanik  Vorlesungszeit des 
+SS 
+T  Gemeinsame Klausur zu         2 Std.  Am Ende der  benotet 
+Spektroskopie und  Vorlesungszeit des 
+Theoretischer Chemie  WS 
+           .     
+Bemerkungen:  
+* A = Modulabschlussprüfung; T = Modulteilprüfung 
+** optional 
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 32 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+ 
+13. Modulnote: 
+  Die Modulnote entspricht der Note der Modulabschlussprüfung. 
+  Die Modulnote setzt sich wie folgt zusammen: 
+  Klausur zu Quantentheorie  1/3  
+  Gemeinsame Klausur zu Spektroskopie / Theoretischer Chemie  2/3 
+     
+  Das Modul wird nicht benotet.   
+ 
+14. Sonstiges: 
+Werden eine oder mehrere Modulteilprüfungen bzw. die Modulabschlussprüfung im ersten 
+Wiederholungsversuch nicht bestanden, so steht dem Kandidaten ein zweiter Wiederholungsversuch zu. 
+Die zweite Wiederholungsprüfung wird grundsätzlich als mündliche Modulabschlussprüfung (zu allen im 
+Modul enthaltenen Lehrveranstaltungen) vor einem Prüfungsgremium aus mindestens zwei Prüfern 
+abgehalten. Im Fall von einer oder mehreren zweimal nicht bestandenen Teilprüfungen fließt die Note der 
+mündlichen Modulabschlussprüfung (2. Wiederholung) mit dem für die jeweilige Teilprüfung vorgesehenen 
+Gewicht in die Modulnote ein. 
+ 
+Wird die mündliche Modulabschlussprüfung nicht bestanden, so führt dies gemäß § 29 Abs. 4 Satz 1 
+Punkt 2 (PO des Bachelorstudiengangs Chemie vom 14.06.2010) zum endgültigen Nichtbestehen der 
+Bachelorprüfung.  
+ 
+ 
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 33 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+CHE-BSc-M 12 (Stand: Juli 2015) 
+1. Name des Moduls:  Chemie der Lebensprozesse 
+2. Fachgebiet / Verantwortlich:  Chemie / Prof. Dr. Joachim Wegener 
+3. Inhalte des Moduls:   Chemie der biologisch relevanten Heterozyklen; 
+ Struktur/Chemie der Aminosäuren und  Peptide; 
+Peptidsynthese; Biosynthese der Aminosäuren und 
+Proteine; Proteinfaltung; Proteinfunktion; Enzyme und 
+Enzymkinetik; Proteinabbau und –stoffwechsel;   
+ Struktur/Chemie der Mono-, Oligo- und Polysaccharide; 
+Synthese und chem. Modifizierung von Zuckern;; 
+Metabolismus der Zucker; Stoffwechselregulation; 
+ Struktur/Chemie der Nukleotide/DANN/RNA; Synthese; 
+Biosynthese der DANN (Replikation) und RNA 
+(Transskription); molekularbiologische Grundtechinken; 
+ Struktur/Chemie der Lipide;  
+ Kenntnisse des Stoffes zur Toxikologie im Rahmen der 
+Sachkundeausbildung gemäß den Hinweisen und 
+Empfehlungen zum Sachkundenachweis gemäß § 5 der 
+Chemikalien-Verbotsverordnung; 
+4. Qualifikationsziele des Moduls:  Die Studierenden sind nach Abschluss des Moduls in der 
+Lage 
+ die Chemie der wichtigsten Biomoleküle in vitro und in 
+vivo zu vergleichen und die unterschiedlichen 
+Synthesestrategien zu analysieren; 
+ den Besonderheiten biologischer Moleküle in Labor und 
+Produktion Rechnung zu tragen; 
+ den Einsatz von Organismen zur Synthese zu von 
+Biomolekülen zu bewerten; 
+ grundlegende molekularbiol. Prozesse zu beschreiben, ihre 
+Bedeutung und Fehlfunktion für einen Organismus zu 
+analysieren; 
+ die wichtigsten anabolen und katabolen 
+Stoffwechselwege nachzuzeichnen, Regula-
+tionsmechanismen zu erkennen und die Bedeutung 
+einzelner Stoffwechselwege in verschiedenen 
+metabolischen Szenarien zu beurteilen; 
+ kompetent und verantwortungsbewusst mit Gefahrstoffen 
+umzugehen; 
+ die Wirkungsweise von Gefahrstoffen auf Organismen und 
+Ökosysteme einzuschätzen und zu bewerten; 
+5. Teilnahmevoraussetzungen:  keine 
+a) empfohlene Kenntnisse:  Grundlagen der Organischen Chemie; Schulkenntnisse zum 
+Zellaufbau; 
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 34 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+b) verpflichtende Nachweise:  keine 
+sofort vorzulegen                     
+      nachzureichen bis        
+6. Verwendbarkeit des Moduls:  Chemie B.Sc. 
+7. Angebotsturnus des Moduls:  Jährlich, beginnend im SS 
+8. Dauer des Moduls:  2 Semester 
+9. Empfohlenes Fachsemester:  4. und 5. Fachsemester 
+10. Gesamtarbeitsaufwand des  270 Stunden / 9 Leistungspunkte* 
+Moduls (Workload) / Anzahl  (90 h Präsenzzeit, 180 h Eigenstudium einschl. 
+Leistungspunkte:  Prüfungsvorbereitung) 
+*Die LP für das Modul werden erst nach Bestehen der Modulprüfung bzw. aller Modulteilprüfungen vergeben. 
+11. Lehrveranstaltungen:   
+  P /  
+Lehrform  Themenbereich/Thema  Präsenzzeit in  Studienleistungen 
+WP / 
+SWS o. Std. 
+W * 
+1  P  V  Bioorganik  2   
+2  P  V  Biochemie  3   
+3  P  V  Toxikologie  1  Klausur (bestanden/nicht 
+bestanden) 
+Bemerkungen: Die Vorlesung Toxikologie wird durch eine 60 minütige Klausur abgeschlossen, die nicht 
+benotet wird, aber erfolgreich absolviert werden muss (bestanden/nicht bestanden). 
+* P = Pflichtveranstaltung; WP = Wahlpflichtveranstaltung; W = Wahlveranstaltung 
+12. Modulprüfung:  
+Zeitpunkt  Art der 
+A/T*  Art und Inhalt der  Zulassungs-
+Dauer    Bewertung 
+Prüfung  voraussetzung** 
+ 
+A  Klausur zu den Inhalten der  keine  2 h  Am Ende der  benotet 
+Vorlesungen Bioorganik und  Vorlesungszeit des 
+Biochemie  SS 
+Bemerkungen: Die Modulabschlussklausur wird sich zu gleichen Teilen aus den Lehrinhalten der Vorlesungen 
+Bioorganik und Biochemie zusammensetzen. 
+Jede Modulteilprüfung muss abgelegt werden, um bei einem zweimaligen Nichtbestehen einer oder 
+mehrerer Teilprüfungen das Anrecht auf eine mündliche Modulabschlussprüfung (siehe unter 14.) zu 
+erlangen. Die Wiederholungsfrist für die mündliche Gesamtprüfung richtet sich nach der letzten erbrachten 
+Teilprüfung.  
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 35 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+* A = Modulabschlussprüfung; T = Modulteilprüfung 
+** optional 
+13. Modulnote: 
+  Die Modulnote entspricht der Note der Modulabschlussprüfung. 
+  Die Modulnote setzt sich wie folgt zusammen: 
+     
+     
+  Das Modul wird nicht benotet. 
+ 
+14. Sonstiges: 
+Werden eine oder mehrere Modulteilprüfungen bzw. die Modulabschlussprüfung im ersten 
+Wiederholungsversuch nicht bestanden, so steht dem Kandidaten ein zweiter Wiederholungsversuch zu. 
+Die zweite Wiederholungsprüfung wird grundsätzlich als mündliche Modulabschlussprüfung (zu allen im 
+Modul enthaltenen Lehrveranstaltungen) vor einem Prüfungsgremium aus mindestens zwei Prüfern 
+abgehalten. Im Fall von einer oder mehreren zweimal nicht bestandenen Teilprüfungen fließt die Note der 
+mündlichen Modulabschlussprüfung (2. Wiederholung) mit dem für die jeweilige Teilprüfung vorgesehenen 
+Gewicht in die Modulnote ein. 
+ 
+Wird die mündliche Modulabschlussprüfung nicht bestanden, so führt dies gemäß § 29 Abs. 4 Satz 1 
+Punkt 2 (PO des Bachelorstudiengangs Chemie vom 14.06.2010) zum endgültigen Nichtbestehen der 
+Bachelorprüfung.  
+ 
+ 
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 36 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+CHE-BSc-M 13 (Stand: Juli 2015) 
+1. Name des Moduls:  Abschlussmodul 
+2. Fachgebiet / Verantwortlich:  Chemie / Prof. Dr. Joachim Wegener 
+3. Inhalte des Moduls:  Das Abschlussmodul besteht aus einer die Teildisziplinen 
+Anorganische Chemie, Organische Chemie und Physikalische 
+Chemie überspannenden Ringvorlesung und der 
+Bachelorarbeit. Die Inhalte der Ringvorlesung bauen auf den 
+in den vorhergehenden fünf Fachsemestern vorgesehenen 
+Modulen auf und betonen Querbezüge zwischen den dort 
+vermittelten Inhalten bzw. Kompetenzen. An ausgewählten 
+Beispielen („casestudies“) wird die Kohärenz des Fachs 
+Chemie demonstriert. Ein Ausblick auf aktuelle 
+Fragestellungen der Grundlagenforschung und der 
+anwendungsorientierten Forschung wird gegeben.  
+In der Bachelorarbeit wird unter Anleitung eine 
+wissenschaftliche Fragestellung bearbeitet und die 
+Ergebnisse schriftlich niedergelegt. 
+Kenntnisse des Stoffes zur Rechtskunde im Rahmen der 
+Sachkundeausbildung gemäß den Hinweisen und 
+Empfehlungen zum Sachkundenachweis gemäß § 5 der 
+Chemikalien-Verbotsverordnung. 
+4. Qualifikationsziele des Moduls:  Der Student kann chemische Fragestellungen bearbeiten, die 
+die Kombination und Integration des Fachwissens der 
+chemischen Teildisziplinen erfordern. Seine disziplinäre 
+Verankerung im Fach Chemie ist so gefestigt, dass er eigene 
+Ansätze zur Bearbeitung interdisziplinärer 
+naturwissenschaftlicher Problemstellungen entwickeln kann. 
+Der Student kann sich selbstständig eine chemische 
+Aufgabenstellung einarbeiten und Forschungsergebnisse 
+entsprechend den Diskursregeln des Fachs Chemie 
+dokumentieren. Er kann in beruflichen Kontexten das Fach 
+Chemie angemessen vertreten. Ferner ist der Studierende 
+mit grundlegenden sicherheitsrelevanten und rechtlichen 
+Aspekten chemischer Substanzen vertraut. 
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 37 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+ 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:   
+b) verpflichtende Nachweise:  Modul CHE-BSc-M 01 „Allgemeine Chemie“ 
+Modul CHE-BSc-M 02 „Mathematik“ 
+sofort vorzulegen                     
+Modul CHE-BSc-M 03 „Physik“ 
+      nachzureichen bis        
+Modul CHE-BSc-M 04 „Wässrige Lösungen“ 
+Modul CHE-BSc-M 05 „Stoffliche Systeme“ 
+6. Verwendbarkeit des Moduls:  B.Sc. Chemie 
+7. Angebotsturnus des Moduls:  Jährlich, im SS 
+8. Dauer des Moduls:  1 Semester 
+9. Empfohlenes Fachsemester:  6. Fachsemester (frühestmöglicher Beginn) 
+690 Stunden / 23 Leistungspunkte* 
+10. Gesamtarbeitsaufwand des 
+(255 h Präsenzzeit, 435 h Eigenstudium einschl. 
+Moduls (Workload) / Anzahl 
+Prüfungsvorbereitung) 
+Leistungspunkte: 
+*Die LP für das Modul werden erst nach Bestehen der Modulprüfung bzw. aller Modulteilprüfungen vergeben. 
+ 
+11. Lehrveranstaltungen: 
+  P /  
+Lehrform  Themenbereich/Thema  Präsenzzeit in  Studienleistungen 
+WP / 
+  SWS o. Std. 
+ 
+W * 
+1  P  V  Ringvorlesung  4 SWS   
+2  P    Bachelor-Arbeit    Abgabe Bachelor-Arbeit 
+(benotet) 
+3  P  V  Rechtskunde  1 SWS  Klausur (bestanden/nicht 
+bestanden) 
+Bemerkungen:  
+* P = Pflichtveranstaltung; WP = Wahlpflichtveranstaltung; W = Wahlveranstaltung 
+ 
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 38 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+ 
+12. Modulprüfung:  
+Zeitpunkt  Art der 
+A/T*  Art und Inhalt der  Zulassungs-
+Dauer    Bewertung 
+Prüfung  voraussetzung** 
+ 
+A  Mündliche         2 h  in den letzten vier  benotet 
+Abschlussprüfung zur  Wochen der  
+(4 x 30 min) 
+Ringvorlesung 
+Vorlesungszeit 
+Bemerkungen: Die mündliche Abschlussprüfung unterteilt sich in vier Teilbereiche zu je 30 Minuten: Anorganische 
+Chemie, Organische Chemie, Physikalische Chemie und Analytische Chemie. Die Noten der einzelnen Teilbereiche 
+gehen mit je 23 % in die Modulgesamtnote ein. Jede Teilbereichsprüfung muss bestanden sein (Note mindestens 4.0) 
+und kann bei Nichtbestehen als Teilbereichsprüfung zweimal wiederholt werden. 
+* A = Modulabschlussprüfung; T = Modulteilprüfung 
+** optional 
+ 
+13. Modulnote: 
+  Die Modulnote entspricht der Note der Modulabschlussprüfung. 
+  Die Modulnote setzt sich wie folgt zusammen: 
+  Modulabschlussprüfung  92 % 
+  Benotung der Bachelor-Arbeit  8 % 
+  Das Modul wird nicht benotet.   
+ 
+14. Sonstiges: 
+ 
+ 
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 39 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+2.WAHLPFLICHTBEREICH:  
+ 
+Der Studierende muss ein Modul des Wahlpflichtbereichs wählen. 
+ 
+CHE-BSc-M 14 (Stand: Juli 2015)
+ 
+1. Name des Moduls:  Wahlpflichtmodul Biochemie 
+2. Fachgebiet / Verantwortlich:  Chemie / Prof. Dr. Joachim Wegener 
+3. Inhalte des Moduls:    Grundlegende biochemische Arbeitsmethoden zur 
+Isolation, Charakterisierung, und Quantifizierung von 
+Lipiden, Proteinen und Nukleinsäuren; 
+  Kinetik enzymatischer Umsetzungen einschließlich der 
+Inhibitionsmechanismen; 
+  DNA-Amplifizierung durch PCR; 
+  Proteinbiochemische Trennverfahren (Gelektrophorese, 
+Gelfiltration); 
+  Funktionelle Untersuchungen an Biomembranen; 
+  Aktuelle Themen der Biochemie in Seminarform; 
+4. Qualifikationsziele des Moduls:  Die Studierenden sind nach Abschluss des Moduls in der 
+Lage 
+  die prominentesten Biomoleküle (Lipide, Proteine, 
+Nukleinsäuren) aus intakten Organismen zu isolieren, 
+aufzureinigen und sicher im Labor zu handhaben; 
+  Biomoleküle durch Anwendung bioanalytischer 
+Basistechniken grundlegend zu charakterisieren; 
+  die biologische Aktivität von Biomolekülen oder ihre 
+Fähigkeit zur molekularen Erkennung zu untersuchen und 
+zu quantifizieren; 
+  Biomoleküle zur Quantifizierung anderer, meist 
+niedermolekularer Verbindungen ein-zusetzen; 
+5. Teilnahmevoraussetzungen:  Die Teilnehmerzahl ist aus Kapazitätsgründen auf max. 24 
+Studierende beschränkt; das Modul wird nur bei einer 
+Mindestteilnehmerzahl von 5 Studierenden angeboten. 
+a) empfohlene Kenntnisse:   
+b) verpflichtende Nachweise:  Modul CHE-BSc-M 12 „Chemie der Lebensprozesse“ 
+ 
+sofort vorzulegen                     
+      nachzureichen bis        
+6. Verwendbarkeit des Moduls:  B. Sc. Chemie 
+7. Angebotsturnus des Moduls:  Jährlich, Blockveranstaltung in den Semesterferien zwischen 
+WS und SS 
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 40 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+8. Dauer des Moduls:  1 Semester 
+9. Empfohlenes Fachsemester:  5. oder 6. Fachsemester 
+270 Stunden / 9 Leistungspunkte* 
+10. Gesamtarbeitsaufwand des 
+(105 h Präsenzzeit, 165 h Eigenstudium einschl. 
+Moduls (Workload) / Anzahl 
+Prüfungsvorbereitung) 
+Leistungspunkte: 
+*Die LP für das Modul werden erst nach Bestehen der Modulprüfung bzw. aller Modulteilprüfungen vergeben. 
+ 
+11. Lehrveranstaltungen: 
+  P /  
+Lehrform  Themenbereich/Thema  Präsenzzeit in  Studienleistungen 
+WP / 
+SWS o. Std. 
+W * 
+1  P  Seminar  Biochemisches Seminar zum  30 Std.  Mündlicher Vortrag (abhg. von 
+Praktikum  Teilnehmerzahl) 
+2  P  Praktikum  Biochemisches Praktikum  75 Std.  Antestate (bestanden / nicht 
+bestanden)und Protokolle  zu 
+den einzelnen Versuchen;  
+Bemerkungen: Die maximale Teilnehmerzahl dieses Moduls wird auf 24 Studierende festgelegt. Bei 
+einer größeren Anzahl von Interessenten werden die zur Verfügung stehenden Plätze entsprechend den 
+Leistungen bei der Abschlussprüfung des Moduls „Chemie der Lebensprozesse“ vergeben. Zu jedem 
+durchzuführenden Versuch ist ein Antestat zu absolvieren und ein Versuchsprotokoll zu erstellen. 
+* P = Pflichtveranstaltung; WP = Wahlpflichtveranstaltung; W = Wahlveranstaltung 
+ 
+12. Modulprüfung:  
+Art der 
+A/T*  Art und Inhalt der  Zulassungs- Zeitpunkt 
+Dauer 
+Bewertung 
+Prüfung  voraussetzung** 
+           
+A  Modultagebuch      Abgabe 1 Woche  benotet 
+nach Modulende 
+Bemerkungen:  
+* A = Modulabschlussprüfung; T = Modulteilprüfung 
+** optional 
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 41 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+ 
+13. Modulnote: 
+  Die Modulnote entspricht der Note der Modulabschlussprüfung. 
+  Die Modulnote setzt sich wie folgt zusammen: 
+     
+   
+  Das Modul wird nicht benotet. 
+ 
+14. Sonstiges: 
+Werden eine oder mehrere Modulteilprüfungen bzw. die Modulabschlussprüfung im ersten 
+Wiederholungsversuch nicht bestanden, so steht dem Kandidaten ein zweiter Wiederholungsversuch zu. 
+Die zweite Wiederholungsprüfung wird grundsätzlich als mündliche Modulabschlussprüfung (zu allen im 
+Modul enthaltenen Lehrveranstaltungen) vor einem Prüfungsgremium aus mindestens zwei Prüfern 
+abgehalten. Im Fall von einer oder mehreren zweimal nicht bestandenen Teilprüfungen fließt die Note der 
+mündlichen Modulabschlussprüfung (2. Wiederholung) mit dem für die jeweilige Teilprüfung vorgesehenen 
+Gewicht in die Modulnote ein. 
+Wird die mündliche Modulabschlussprüfung nicht bestanden, so führt dies gemäß § 29 Abs. 4 Satz 1 
+Punkt 2 (PO des Bachelorstudiengangs Chemie vom 14.06.2010) zum endgültigen Nichtbestehen der 
+Bachelorprüfung.  
+ 
+ 
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 42 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+CHE-BSc-M 15 (Stand: Juli 2015) 
+1. Name des Moduls:  Wahlpflichtmodul Theoretische Chemie 
+2. Fachgebiet / Verantwortlich:  Chemie / Prof. Dr. Dominik Horinek 
+3. Inhalte des Moduls:  Computerübungen mit dem ab initio Programmpaket 
+MOLPRO: Z-Matrix Spezifizierung, einfache 
+Elektronenstrukturrechungen mit Hartree-Fock, DFT, und 
+korrelierten Methoden, Geometrieoptimierungen, 
+Normalkoordinatenanalyse, Visualisierung von 
+Molekülorbitalen, Dichten, Normalmoden, 
+Reaktionsenergien und –Enthalpien, MOLPRO Skript 
+Codingand LINUX Commands, Berechung von 
+Reaktionspfaden, Dissoziation, angeregte Zustände mit 
+einfachen Methoden (CIS, MCSCF), Solvatationseffekte 
+(COSMO), intermolekulare Wechselwirkungen (BSSE, 
+Grössenkonsistenz, etc.) 
+4. Qualifikationsziele des Moduls:  Die Studenten erarbeiten sich die Kompetenz, grundlegende 
+ab initio Elektronenstrukturrechnungen durchzuführen und 
+auf chemische Fragestellungen anzuwenden. Für die 
+Computerübungen wird das weitverbreitete Programmpaket 
+MOLPRO verwendet, an dessen Entwicklung auch der 
+Standort Regensburg massgeblich beteiligt ist. Die 
+Computerübungen werden durch begleitende  Seminare 
+unterstützt, die die in der Theorievorlesung nicht 
+behandelten Korrleationsverfahrenrein qualitativ kurz 
+erläutern. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  Grundlagen der Quantentheorie der Materie und der 
+Theoretischen Chemie 
+b) verpflichtende Nachweise:  CHE-BSc-M 11 „Struktur der Materie“ 
+sofort vorzulegen                     
+      nachzureichen bis        
+6. Verwendbarkeit des Moduls:  B. Sc. Chemie 
+7. Angebotsturnus des Moduls:  Jährlich, Blockveranstaltung in den Semesterferien zwischen 
+WS und SS 
+8. Dauer des Moduls:  1 Semester 
+9. Empfohlenes Fachsemester:  5. oder 6. Fachsemester  
+10. Gesamtarbeitsaufwand des  270 Stunden / 9 Leistungspunkte* 
+Moduls (Workload) / Anzahl  (105 h Präsenzzeit, 165 h Eigenstudium einschl. 
+Leistungspunkte:  Prüfungsvorbereitung) 
+*Die LP für das Modul werden erst nach Bestehen der Modulprüfung bzw. aller Modulteilprüfungen vergeben. 
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 43 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+11. Lehrveranstaltungen:   
+  P /  
+Lehrform  Themenbereich/Thema  Präsenzzeit in  Studienleistungen 
+WP / 
+SWS o. Std. 
+W * 
+1  P  S+Ü  Theoretische Chemie    Protokoll 
+Computerübungen 
+           
+Bemerkungen 
+* P = Pflichtveranstaltung; WP = Wahlpflichtveranstaltung; W = Wahlveranstaltung 
+12. Modulprüfung:  
+Art der 
+A/T*  Art und Inhalt der  Zulassungs- Zeitpunkt 
+Dauer 
+Bewertung 
+Prüfung  voraussetzung** 
+A  Verteidigung des Protokolls      Nach Abschluss des  benotet 
+Seminars 
+Bemerkungen:       
+* A = Modulabschlussprüfung; T = Modulteilprüfung 
+** optional 
+13. Modulnote: 
+  Die Modulnote entspricht der Note der Modulabschlussprüfung. 
+  Die Modulnote setzt sich wie folgt zusammen: 
+               
+             
+ 
+  Das Modul wird nicht benotet. 
+ 
+14. Sonstiges: 
+Werden eine oder mehrere Modulteilprüfungen bzw. die Modulabschlussprüfung im ersten 
+Wiederholungsversuch nicht bestanden, so steht dem Kandidaten ein zweiter Wiederholungsversuch zu. 
+Die zweite Wiederholungsprüfung wird grundsätzlich als mündliche Modulabschlussprüfung (zu allen im 
+Modul enthaltenen Lehrveranstaltungen) vor einem Prüfungsgremium aus mindestens zwei Prüfern 
+abgehalten. Im Fall von einer oder mehreren zweimal nicht bestandenen Teilprüfungen fließt die Note der 
+mündlichen Modulabschlussprüfung (2. Wiederholung) mit dem für die jeweilige Teilprüfung vorgesehenen 
+Gewicht in die Modulnote ein. Wird die mündliche Modulabschlussprüfung nicht bestanden, so führt dies 
+gemäß § 29 Abs. 4 Satz 1 Punkt 2 (PO des Bachelorstudiengangs Chemie vom 14.06.2010) zum 
+endgültigen Nichtbestehen der Bachelorprüfung.  
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 44 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+CHE-BSc-M 16 (Stand: Juli 2015) 
+1. Name des Moduls:  Wahlpflichtmodul Nanoscience 
+2. Fachgebiet / Verantwortlich:  Chemie / Prof. Dr. Werner Kunz, Prof. Dr. Arno Pfitzner 
+3. Inhalte des Moduls:  Vorlesung: 
+- Einführung in die Supramolekulare Chemie, 
+Selbstorganisation, Art der Wechselwirkungen, Wirt-Gast-
+Verbindungen, Polymerchemie.  
+- Selbstorganisation von Tensiden und Lipiden in 
+Flüssigkeiten (Mizellen, Flüssigkristalle, Vesikel).  
+- Herstellung, kristalliner Aufbau und Eigenschaften von 
+festen Nanopartikeln (Form, Farbe, elektrische Leitfähigkeit, 
+magnetisches Verhalten, Oberflächenreaktivität, 
+elektronische Struktur usw.). 
+Praktikum: Versuche zu den Themen: 
+Rastersondenmikroskopie, Mikroemulsionen, Ostwaldsche 
+Reifung, Ferrofluide, , Quantendots, Gold-Nanopartikel, ggf. 
+Anwendung von Nanopartikeln in der organischen Synthese 
+und der Analytik. 
+4. Qualifikationsziele des Moduls:  Die Studenten sollen die grundlegenden Wechselwirkungen 
+und Ursachen verstehen, die zur Selbstorganisation der 
+Materie führen. Darüber hinaus sollen sie die besonderen 
+Eigenschaften mesoskopischer Strukturen und deren 
+Ursprung kennen und verstanden haben. Sie sollen die 
+Dimensionen einordnen können, in denen die Eigenschaften 
+der Materie nicht mehr durch einzelne Moleküleigenschaften 
+bestimmt werden, aber auch noch nicht durch ihren 
+makroskopischen Materialcharakter. 
+5. Teilnahmevoraussetzungen:  Die Teilnehmerzahl ist aus Kapazitätsgründen auf max. 50 
+Studierende beschränkt; das Modul wird nur bei einer 
+Mindestteilnehmerzahl von 10 Studierenden angeboten 
+a) empfohlene Kenntnisse:  Inhalte der Veranstaltungen der Fachsemester 1-5 
+b) verpflichtende Nachweise:   
+sofort vorzulegen                     
+      nachzureichen bis        
+6. Verwendbarkeit des Moduls:  B. Sc. Chemie, M. Sc. Physik 
+7. Angebotsturnus des Moduls:  Jährlich, Blockveranstaltung in den Semesterferien zwischen 
+WS und SS 
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 45 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+8. Dauer des Moduls:  1 Semester 
+9. Empfohlenes Fachsemester:  5. oder 6. Fachsemester  
+270 Stunden / 9 Leistungspunkte* 
+10. Gesamtarbeitsaufwand des 
+(105 h Präsenzzeit, 165 h Eigenstudium einschl. 
+Moduls (Workload) / Anzahl 
+Prüfungsvorbereitung) 
+Leistungspunkte: 
+*Die LP für das Modul werden erst nach Bestehen der Modulprüfung bzw. aller Modulteilprüfungen vergeben. 
+11. Lehrveranstaltungen:   
+  P /  
+Lehrform  Themenbereich/Thema  Präsenzzeit in  Studienleistungen 
+WP / 
+SWS o. Std. 
+W * 
+1  P  V + S  Vorlesung und SeminarNanoscience  60 Std.   
+2  P  P  Praktikum Nanoscience  45 Std.  Protokoll 
+Bemerkungen 
+* P = Pflichtveranstaltung; WP = Wahlpflichtveranstaltung; W = Wahlveranstaltung 
+12. Modulprüfung:  
+Art der 
+A/T*  Art und Inhalt der  Zulassungs- Zeitpunkt 
+Dauer 
+Bewertung 
+Prüfung  voraussetzung** 
+A  Klausur zu den unter 11.    2 Std.  Innerhalb der  benotet 
+Angegebenen  ersten 4 Wochen 
+Lehrveranstaltungen  der Vorlesungszeit 
+Bemerkungen:       
+* A = Modulabschlussprüfung; T = Modulteilprüfung 
+** optional 
+13. Modulnote: 
+  Die Modulnote entspricht der Note der Modulabschlussprüfung. 
+  Die Modulnote setzt sich wie folgt zusammen: 
+               
+     
+  Das Modul wird nicht benotet. 
+ 
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 46 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+ 
+14. Sonstiges: 
+Werden eine oder mehrere Modulteilprüfungen bzw. die Modulabschlussprüfung im ersten 
+Wiederholungsversuch nicht bestanden, so steht dem Kandidaten ein zweiter Wiederholungsversuch zu. 
+Die zweite Wiederholungsprüfung wird grundsätzlich als mündliche Modulabschlussprüfung (zu allen im 
+Modul enthaltenen Lehrveranstaltungen) vor einem Prüfungsgremium aus mindestens zwei Prüfern 
+abgehalten. Im Fall von einer oder mehreren zweimal nicht bestandenen Teilprüfungen fließt die Note der 
+mündlichen Modulabschlussprüfung (2. Wiederholung) mit dem für die jeweilige Teilprüfung vorgesehenen 
+Gewicht in die Modulnote ein. 
+Wird die mündliche Modulabschlussprüfung nicht bestanden, so führt dies gemäß § 29 Abs. 4 Satz 1 
+Punkt 2 (PO des Bachelorstudiengangs Chemie vom 14.06.2010) zum endgültigen Nichtbestehen der 
+Bachelorprüfung.  
+ 
+ 
+ 
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 47 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+CHE-BSc-M 17 
+ 
+1. Name des Moduls:  Wahlpflichtmodul Pharmazeutische Bioanalytik 
+2. Fachgebiet / Verantwortlich:  Pharmazie / Prof. Dr. Antje Bäumner 
+3. Inhalte des Moduls:  behandelte Thematik: Bioanalytik und Biosensorik 
+Die nachfolgend aufgelisteten Methoden und Fragestellungen 
+werden in einem Seminar theoretisch besprochen und in 
+ausgewählten Experimenten praktisch durchgeführt: 
+ Herstellung von Nanomaterialien als Signalgeber in der 
+Bioanalytik und Biosensorik 
+ Oberflächenfunktionalisierung der Signalgeber und deren 
+analytische Charakterisierung 
+ Bioanalytisches Arbeiten mit bakteriellen und Säugetierzellen  
+ Biosensoren und zellbasierte Assays zur quantitativen 
+Analytik vor Ort und in lebenden Zellen  
+ Vorbereitung auf die Bachelorarbeit im Hinblick auf 
+schriftliche Darstellung von wissenschaftlichen Texten und 
+wissenschaftlicher Literatursuche. 
+4. Qualifikationsziele des Moduls:  Die Studierenden sind nach Abschluss des Moduls in der Lage 
+ die wissenschaftliche Literatur gezielt nach Fragestellungen 
+zu durchsuchen und die Qualität der Quellen zu beurteilen 
+ Daten und Ergebnisse nach wissenschaftlichen Kriterien 
+darzustellen 
+ Analytische Signalgeber herzustellen und deren analytische 
+Qualität zu charakterisieren 
+ einfache Biosensoren herzustellen und Bioassays 
+durchzuführen  
+ mit biologischen Zellen zu arbeiten  
+5. Teilnahmevoraussetzungen:  Die Teilnehmerzahl  ist aus Kapazitätsgründen auf max. 16 
+Studierende beschränkt; das Modul wird nur bei einer 
+Mindestteilnehmerzahl von 6 Studierenden angeboten. 
+a) empfohlene Kenntnisse:  Grundlagen der Analytischen Chemie 
+b) verpflichtende Nachweise:  Modul CHE-BSc-M 08 „Stoffanalyse“ 
+ 
+sofort vorzulegen                     
+      nachzureichen bis        
+6. Verwendbarkeit des Moduls:  B. Sc. Chemie 
+7. Angebotsturnus des Moduls:  Jährlich, Blockveranstaltung in den Semesterferien zwischen 
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 48 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+WS und SS 
+8. Dauer des Moduls:  1 Semester 
+9. Empfohlenes Fachsemester:  5. oder 6. Fachsemester 
+10. Gesamtarbeitsaufwand des  270 Stunden / 9 Leistungspunkte* 
+Moduls (Workload) / Anzahl  (105 h Präsenzzeit, 165 h Eigenstudium einschl. 
+Leistungspunkte:  Prüfungsvorbereitung) 
+*Die LP für das Modul werden erst nach Bestehen der Modulprüfung bzw. aller Modulteilprüfungen vergeben. 
+11. Lehrveranstaltungen: 
+  P /  
+Lehrform  Themenbereich/Thema  Präsenzzeit in  Studienleistungen 
+WP / 
+SWS o. Std. 
+W * 
+1  P  Seminar  Fragestellungen und grund- 30 h   
+„Bioanalytik  legende Techniken der Biosensorik 
+und  und Bioanalytik 
+Biosensorik“ 
+2  P  Praktikum  Ausgewählte Experimente zu  75 h  Antestate (best./nicht best.) und 
+„Bioanalytik  Fragestellungen der Biosensorik  Protokolle zu den einzelnen 
+und  und Bioanalytik  Versuchen 
+Biosensorik“  Abgabe der Protokolle bis eine 
+Wochen nach Modulende 
+Bemerkungen:  Die maximale Teilnehmerzahl dieses Modul wird aus Kapazitätsgründen auf 16 
+Studierende festgelegt. Bei einer größeren Anzahl von Interessenten werden die zur Verfügung 
+stehenden Plätze entsprechend den Leistungen bei der Abschlussprüfung des Moduls „Stoffanalyse“ 
+vergeben. Zu jedem durchzuführenden Versuch ist ein Antestat zu absolvieren und ein Versuchsprotokoll 
+zu erstellen. 
+* P = Pflichtveranstaltung; WP = Wahlpflichtveranstaltung; W = Wahlveranstaltung 
+12. Modulprüfung:  
+Art der 
+A/T*  Art und Inhalt der  Zulassungs- Zeitpunkt 
+Dauer 
+Bewertung 
+Prüfung  voraussetzung** 
+T  Mündlicher Vortrag in 11.1.      Während des  benotet 
+Seminars 
+T  Zusammenfassender      1 Woche nach  benotet 
+Modulgesamtbericht  Modulende 
+Bemerkungen:  
+* A = Modulabschlussprüfung; T = Modulteilprüfung 
+** optional 
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 49 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+13. Modulnote: 
+  Die Modulnote entspricht der Note der Modulabschlussprüfung. 
+  Die Modulnote setzt sich wie folgt zusammen: 
+  Vortrag  20 % 
+Modulgesamtbericht  80 % 
+  Das Modul wird nicht benotet. 
+ 
+14. Sonstiges: 
+Werden eine oder mehrere Modulteilprüfungen bzw. die Modulabschlussprüfung im ersten 
+Wiederholungsversuch nicht bestanden, so steht dem Kandidaten ein zweiter Wiederholungsversuch zu. 
+Die zweite Wiederholungsprüfung wird grundsätzlich als mündliche Modulabschlussprüfung (zu allen im 
+Modul enthaltenen Lehrveranstaltungen) vor einem Prüfungsgremium aus mindestens zwei Prüfern 
+abgehalten. Im Fall von einer oder mehreren zweimal nicht bestandenen Teilprüfungen fließt die Note der 
+mündlichen Modulabschlussprüfung (2. Wiederholung) mit dem für die jeweilige Teilprüfung vorgesehenen 
+Gewicht in die Modulnote ein. 
+Wird die mündliche Modulabschlussprüfung nicht bestanden, so führt dies gemäß § 29 Abs. 4 Satz 1 
+Punkt 2 (PO des Bachelorstudiengangs Chemie vom 14.06.2010) zum endgültigen Nichtbestehen der 
+Bachelorprüfung.  
+ 
+ 
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 50 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+CHE-BSc-M 18 (NEU Stand: Juni 2020)
+ 
+1. Name des Moduls:  Wahlpflichtmodul Synthesetechniken 
+2. Fachgebiet / Verantwortlich:  Chemie / Prof. Dr. Robert Wolf  
+3. Inhalte des Moduls:  Das Modul vermittelt Kenntnisse der apparativen Laborpraxis 
+von Reaktionen von Reaktionen mit luftempfindlichen und 
+hochreaktiven Verbindungen . Der praktische Teil wird als 
+mehrstufiges Kurspraktikum durchgeführt, dessen 
+Schwerpunkt im Erlernen von anspruchsvollen präparativen 
+Methoden außerhalb der allgemeinen Praktikums-ausbildung 
+liegt, wie sie u.a. in der technischen Chemie Anwendung 
+finden. Diese beinhalten u.a. die Synthese von hochreaktiven 
+metallorganischen Verbindungen unter der Verwendung von 
+Inertgastechniken, den Einsatz spezieller Reaktionsmedien 
+(Lösemittel, flüssige Gase etc.) und die Durchführung von 
+Reaktionen unter hohem Druck sowie unter der Verwendung 
+reaktiver Gase. Im Mittelpunkt steht das Training von 
+anspruchsvollen präparativen Arbeitstechniken unter 
+Ausschluss von von Luft- und Feuchtigkeit und unter speziellen 
+Reaktionsbedingungen. Der sichere Umgang mit Apparaturen 
+der Vakuum-, Druck-, Gas- und Kältetechnik vermittelt. 
+Der praktische Teil des Moduls wird durch ein zweiwöchiges 
+Seminar begleitet, das in grundlegende theoretische Aspekte 
+der erlernten präparativen und technischen Methoden 
+einführt. 
+4. Qualifikationsziele des Moduls:  Nach Absolvieren des Moduls haben die TeilnehmerInnen 
+vertiefende Einblicke in die apparative Laborpraxis erhalten 
+und anspruchsvolle präparative Arbeitsmethoden kennen 
+gelernt (Inertgastechniken. Hochdruck, Hochvakuum, Gase 
+und spezielle Medien). Sie sind in der Lage, die erlernten 
+Methoden sicher zu handhaben und hiermit verbundene 
+Gefahrenpotenziale einzuschätzen. Die Absolventen haben den 
+Umgang mit technischen Geräten (z.B. Vakuumanlagen, 
+Autoklaven und Mikroreaktoren) und die Dokumentation 
+wichtiger Parameter erlernt und beherrschen deren 
+Dokumentation in Form wissenschaftlicher Protokolle und 
+Kurzvorträgen.  
+ 
+5. Teilnahmevoraussetzungen:  Die Teilnehmerzahl ist aus Kapazitätsgründen auf max. 20 
+Studierende beschränkt. 
+a) empfohlene Kenntnisse:  Inhalte der Fachsemester 1-5 
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 51 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+b) verpflichtende Nachweise:  Modul CHE-BSc-M 10 
+ 
+sofort vorzulegen                     
+      nachzureichen bis        
+6. Verwendbarkeit des Moduls:  B. Sc. Chemie 
+7. Angebotsturnus des Moduls:  Jährlich, Blockveranstaltung in den Semesterferien zwischen 
+WS und SS 
+8. Dauer des Moduls:  1 Semester 
+9. Empfohlenes Fachsemester:  5. oder 6. Fachsemester 
+10. Gesamtarbeitsaufwand des  270 Stunden / 9 Leistungspunkte* 
+Moduls (Workload) / Anzahl  (105 h Präsenzzeit, 165 h Eigenstudium einschließlich 
+Leistungspunkte:  Prüfungsvorbereitung) 
+*Die LP für das Modul werden erst nach Bestehen der Modulprüfung bzw. aller Modulteilprüfungen vergeben. 
+11. Lehrveranstaltungen: 
+  P /  
+Lehrform  Themenbereich/  Präsenzzeit in  Studienleistungen 
+WP / 
+SWS o. Std. 
+W *  Thema 
+1  P  Praktikum    85 h  Modulbericht 
+„Synthesetechniken“ 
+2  P  Seminar    20 h  Modulbericht 
+„Synthesetechniken“ 
+Bemerkungen:  
+* P = Pflichtveranstaltung; WP = Wahlpflichtveranstaltung; W = Wahlveranstaltung 
+ 
+12. Modulprüfung:  
+Art der 
+A/T*  Art und Inhalt der  Zulassungs- Zeitpunkt 
+Dauer 
+Bewertung 
+Prüfung  voraussetzung** 
+A  Modulbericht      Abgabe bis vier  benotet 
+Wochen nach 
+Modulende 
+Bemerkungen:  
+* A = Modulabschlussprüfung; T = Modulteilprüfung 
+** optional 
+ 
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 52 von 53    gültig ab WS 20/21 FAKULTÄT FÜR CHEMIE UND PHARMAZIE 
+Lehreinheit Chemie 
+13. Modulnote: 
+  Die Modulnote entspricht der Note der Modulabschlussprüfung. 
+  Die Modulnote setzt sich wie folgt zusammen: 
+     
+   
+  Das Modul wird nicht benotet. 
+ 
+14. Sonstiges: 
+Werden eine oder mehrere Modulteilprüfungen bzw. die Modulabschlussprüfung im ersten 
+Wiederholungsversuch nicht bestanden, so steht dem Kandidaten ein zweiter Wiederholungsversuch zu. 
+Die zweite Wiederholungsprüfung wird grundsätzlich als mündliche Modulabschlussprüfung (zu allen im 
+Modul enthaltenen Lehrveranstaltungen) vor einem Prüfungsgremium aus mindestens zwei Prüfern 
+abgehalten. Im Fall von einer oder mehreren zweimal nicht bestandenen Teilprüfungen fließt die Note der 
+mündlichen Modulabschlussprüfung (2. Wiederholung) mit dem für die jeweilige Teilprüfung vorgesehenen 
+Gewicht in die Modulnote ein. 
+Wird die mündliche Modulabschlussprüfung nicht bestanden, so führt dies gemäß § 29 Abs. 4 Satz 1 
+Punkt 2 (PO des Bachelorstudiengangs Chemie vom 14.06.2010) zum endgültigen Nichtbestehen der 
+Bachelorprüfung.  
+ 
+ 
+Modulkatalog Bachelor Chemie    Stand: 24.06.2020 
+Seite 53 von 53    gültig ab WS 20/21 

@@ -1,0 +1,3273 @@
+input_dictionary = Modulhandbuch
+Bachelor of Science - Physik - ab WS 16/17
+gültig ab Wintersemester 2016/17 bis <kein Semester zugewiesen>Inhaltsverzeichnis
+Module
+PHY-B-P1a: Experimentalphysik I: Mechanik 3
+PHY-B-P1b: Experimentalphysik II: Elektrodynamik 5
+PHY-B-P03: Praktikum A 7
+PHY-B-P1c: Experimentalphysik III: Wellen und Quanten 9
+PHY-B-P02: Mathematische Methoden und Lineare Algebra 11
+PHY-B-P04: Praktikum B 13
+PHY-B-P1d: Experimentalphysik IV: Thermodynamik 15
+PHY-B-P06: Theoretische Physik I: Klassische Physik 17
+PHY-B-P07: Theoretische Physik II: Quantenmechanik I 19
+PHY-B-P08: Struktur der Materie I: Atome und Moleküle 21
+PHY-B-P09: Struktur der Materie II: Festkörperphysik 23
+PHY-B-P10: Struktur der Materie III: Kerne und Teilchen 25
+PHY-B-P05: Fortgeschrittenenpraktikum I 27
+PHY-B-P11: Mathematik für Physiker 29
+PHY-B-P12: Bachelor-Arbeit 32
+PHY-B-WV01: Theoretische Physik III: Quantenmechanik II 34
+PHY-B-WV02: Theoretische Physik IV: Thermodynamik und Quantenstatistik 36
+PHY-B-WS02: Programmieren in C und C++ 38
+PHY-B-WV03: Fortgeschrittenenpraktikum II 40
+PHY-B-WE01: Ergänzungsfach Chemie 42
+PHY-B-WS03: Wissenschaftliche Textverarbeitung mit LaTeX 44
+PHY-B-WE02: Ergänzungsfach Biologie 46
+PHY-B-WE03: Ergänzungsfach Mathematik 50
+PHY-B-WE04: Ergänzungsfach Volkswirtschaftslehre 53
+PHY-B-WE05: Ergänzungsfach Wissenschaftsgeschichte 58
+PHY-B-WE06: Ergänzungsfach Philosophie 61
+PHY-B-WE07: Ergänzungsfach Betriebswirtschaftslehre 64
+PHY-B-WE08: Ergänzungsfach Wirtschaftsinformatik 67
+PHY-B-WE09: Ergänzungsfach Politikwissenschaft 71
+PHY-B-WE10: Ergänzungsfach Bioinformatik 75
+PHY-B-WE11: Ergänzungsfach Biophysik 77
+PHY-B-WE12: Ergänzungsfach Didaktik der Physik 79Inhaltsverzeichnis
+PHY-B-WS01: Einführung in Maple 83
+PHY-B-WS04: Einführung in Matlab 85
+PHY-B-WS07: IT und Medien 87
+PHY-B-WS09: Ausbildungsseminar 89
+WB-PHY: Wahlbereich: freigegebene Leistungen aus Physik 91
+PHY-E01: Vorbereitungskurs: Elektrodynamik und Optik 92
+PHY-E02: Integrierter Kurs I: Quantenmechanik 94
+PHY-E03: Integrierter Kurs II: Festkörperphysik 96
+PHY-E04: Integrierter Kurs III: Teilchenphysik 98
+PHY-E06: Seminar und Seminarwochen des Beschleunigten Verfahrens 100Modul: PHY-B-P1a
+Modul: PHY-B-P1a
+Gültig ab WS16/17 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Experimentalphysik I: Mechanik
+2. Fachgebiet / Verantwortlich: Fakultät für Physik, der Studiendekan
+3. Inhalte des Moduls: • Grundbegriffe der Bewegung
+• Die Newton'sche Gesetze
+• Die Erhaltung von Energie und Impuls
+• Die rotierende Bewegung
+• Schwingungen
+• Nichtlineare Dynamik und Chaos
+• Mechanische Wellen
+• Die feste Materie
+• Flüssigkeiten
+4. Qualifikationsziele des Moduls / zu Erwerb der Grundkenntnisse über Begriffe, Phänomene
+erwerbende Kompetenzen: und Konzepte der klassischen Mechanik. Die Fähigkeit
+zur selbstständigen Übertragung, Verallgemeinerung
+und Abstraktion der erlernten Beschreibungs- und
+Lösungsmethoden auf fortgeschrittene physikalische
+Problemstellungen.
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: keine
+b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc. Physik, BSc. Nanoscience, BSc. Computational
+Science, Lehramt Gymnasium Physik, BEd.
+Naturwissenschaftliche Bildung, Mathematik mit
+Nebenfach Physik
+7. Angebotsturnus des Moduls: jährlich
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 1 bis 2
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 210
+davon:
+1. Präsenzzeit: 6 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 120 Std.
+Leistungspunkte: 7
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+3Modul: PHY-B-P1a
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+PHY-B Pflicht Übung Exp.-physik I: Mechanik 6 Übungsaufgaben; Weitere
+-P1a. 1 Vorlesung Informationen geben die Dozenten zu
+Veranstaltungsbeginn bekannt.
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+PHY-B Exp.-physik I: Mechanik Klausur oder mündlich: 100 %
+-P1a. 1 Dauer 105 min oder 135
+min oder 210 min (falls aus
+zwei Teilenbestehend) im
+Falle der Klausur, 20 min im
+Falle der mündlichen Prüfung
+Zeitpunkt: Vorlesungszeit
+bis Semesterende
+13. Bemerkungen:
+Die erfolgreiche Teilnahme an den Übungen ist Zulassungsvoraussetzung für die jeweilige Prüfung. Die
+Prüfung ist benotet. Das Modul ist bestanden, wenn die Prüfung PHY B-P 1a bestanden ist. BSc. Physik:
+In die Bachelorgesamtnote gehen in der Regel die besten zwei Prüfungsnoten der Module PHY-B-P 1a,
+PHY-B-P 1b, PHY-B-P 1c und PHY-B-P 1d ein. Siehe Prüfungs- und Studienordnung des entsprechenden
+Studiengangs.
+4Modul: PHY-B-P1b
+Modul: PHY-B-P1b
+Gültig ab WS16/17 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Experimentalphysik II: Elektrodynamik
+2. Fachgebiet / Verantwortlich: Fakultät für Physik, der Studiendekan
+3. Inhalte des Moduls: • Grundlagen der Elektrostatik
+• Anwendungen der Elektrostatik
+• Isolatoren im elektrischen Feld
+• Elektrischer Strom
+• Magnetostatik
+• Magnetische Induktion
+• Wechselstromlehre
+• Magnetische Materie
+• Elektromagnetische Wellen
+4. Qualifikationsziele des Moduls / zu Erwerb der Grundkenntnisse über Begriffe,
+erwerbende Kompetenzen: Phänomene und Konzepte der Elektrodynamik und
+der Elektrostatik. Die Fähigkeit zur selbstständigen
+Übertragung, Verallgemeinerung und Abstraktion der
+erlernten Beschreibungs- und Lösungsmethoden auf
+fortgeschrittene physikalische Problemstellungen.
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: keine
+b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc. Physik, BSc. Nanoscience, BSc. Computational
+Science, Lehramt Gymnasium Physik, BEd.
+Naturwissenschaftliche Bildung, Mathematik mit
+Nebenfach Physik
+7. Angebotsturnus des Moduls: jährlich
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 2 bis 3
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 210
+davon:
+1. Präsenzzeit: 6 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 120 Std.
+Leistungspunkte: 7
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+5Modul: PHY-B-P1b
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+PHY-B Pflicht Übung Exp.-physik II: Elektrodynamik 6 Übungsaufgaben
+-P1b. 1 Vorlesung
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+PHY-B Exp.-physik II: Elektrodynamik Klausur oder mündlich: 100 %
+-P1b. 1 Dauer 105 min oder 135
+min oder 210 min (falls aus
+zwei Teilenbestehend) im
+Falle der Klausur, 20 min im
+Falle der mündlichen Prüfung
+Zeitpunkt: Vorlesungszeit
+bis Semesterende
+13. Bemerkungen:
+Die erfolgreiche Teilnahme an den Übungen ist Zulassungsvoraussetzung für die jeweilige Prüfung. Die
+Prüfung ist benotet. Das Modul ist bestanden, wenn die Prüfung PHY B-P 1b bestanden ist. BSc. Physik:
+In die Bachelorgesamtnote gehen in der Regel die besten zwei Prüfungsnoten der Module PHY-B-P 1a,
+PHY-B-P 1b, PHY-B-P 1c und PHY-B-P 1d ein. Siehe Prüfungs- und Studienordnung des entsprechenden
+Studiengangs.
+6Modul: PHY-B-P03
+Modul: PHY-B-P03
+Gültig ab WS11/12 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Praktikum A
+2. Fachgebiet / Verantwortlich: Physik / Fakultät, der Studiendekan
+3. Inhalte des Moduls: PHY-B-P 3.1: Anfängerpraktikum A1
+•Gleichmäßig beschleunigte Bewegung
+•Elastischer und inelastischer Stoß
+•Schwingungen und Wellen
+•Trägheitsmoment und Drehimpuls
+•Lineares Pendel
+•Nichtlineares Pendel
+PHY-B-P 3.2: Anfängerpraktikum A2
+•Kennlinien und Wheatstone-Brücke
+•Elektronenstrahloszillograph
+•Gedämpfte freie Schwingung des RLC-Kreises
+•Wechselstromverhalten des RC- und RLC-Kreises
+•Lock-in Verstärker
+•Hall-Effekt
+4. Qualifikationsziele des Moduls / zu Praktisches Erlernen von Experimentiermethoden
+erwerbende Kompetenzen: und die Vertiefung der in den Experimentalphysik-
+Vorlesungen I und II erlernten Inhalte (Modul PHY-B-P 1);
+Fehlerrechnung, Erkennen und Analysieren von Fehlern,
+Auswahl geeigneter Messmethoden
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: keine
+b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc. Physik, BSc. Computational Science. Auch
+verwendbar für Lehramt mit Unterrichtsfach Physik;
+Standard ist hier aber ein eigenes Modul gemäß
+Prüfungsordnung.
+7. Angebotsturnus des Moduls: jährlich
+8. Das Modul kann absolviert werden in: 2 Semestern
+9. Empfohlenes Fachsemester: 1
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 240
+davon:
+1. Präsenzzeit: 5 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 165 Std.
+Leistungspunkte: 8
+7Modul: PHY-B-P03
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+PHY-B Pflicht Praktikum Anfängerpraktikum A1 2,50 Versuche, Praktikum;
+-P03. 1 Versuchsvorbesprechung, Durchführung,
+Versuchsprotokolle
+PHY-B Pflicht Praktikum Anfängerpraktikum A2 2,50 Versuche, Praktikum;
+-P03. 2 Versuchsvorbesprechung, Durchführung,
+Versuchsprotokolle
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+13. Bemerkungen:
+Für das Bestehen des Moduls ist der Nachweis der Studienleistungen zu führen (Abzeichnung durch
+die Praktikumsleitung an jedem Kurstag). Eine Gutschrift von Leistungspunkten kann erst nach der
+vollständigen Erfüllung aller geforderten Studienleistungen erfolgen. Eine zusätzliche Sicherheitsbelehrung
+kann verpflichtend angeboten werden. Durch Abwesenheit nicht erbrachte Studienleistungen sind i.d.R.
+nachzuholen, Termine nach Vereinbarung. Praktikum A1 wird halbjährlich angeboten, Praktikum A2
+wird jährlich angeboten. Hinweis: Studierende der Mathematik mit Nebenfach Physik können wahlweise
+die gleiche Prüfungsleistung wie Studierende der Physik erbringen (8 LP) oder alternativ nur die
+Modulbestandteile PHY-B-P3.1oder PHY-B-P3.2, bewertet mit jeweils 4 LP, einbringen.
+8Modul: PHY-B-P1c
+Modul: PHY-B-P1c
+Gültig ab WS16/17 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Experimentalphysik III: Wellen und Quanten
+2. Fachgebiet / Verantwortlich: Fakultät für Physik, der Studiendekan
+3. Inhalte des Moduls: • Einführung - Was sind Licht und
+elektromagnetische Strahlung?
+• Geometrische Optik / Strahlenoptik
+• Wellenoptik
+• Polarisationsoptik
+• Wellengleichung mit Randbedingungen
+• Welle-Teilchen Dualismus
+4. Qualifikationsziele des Moduls / zu Erwerb der Grundkenntnisse über Begriffe, Phänomene
+erwerbende Kompetenzen: und Konzepte der geometrischen Optik und von
+Wellenphänomenen. Die Fähigkeit zur selbstständigen
+Übertragung, Verallgemeinerung und Abstraktion der
+erlernten Beschreibungs- und Lösungsmethoden auf
+fortgeschrittene physikalische Problemstellungen.
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: keine
+b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc. Physik, BSc. Nanoscience, BSc. Computational
+Science, Lehramt Gymnasium Physik, BEd.
+Naturwissenschaftliche Bildung, Mathematik mit
+Nebenfach Physik
+7. Angebotsturnus des Moduls: jährlich
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 3 bis 4
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 210
+davon:
+1. Präsenzzeit: 6 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 120 Std.
+Leistungspunkte: 7
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+PHY-B Pflicht Übung Experimentalphysik III: Wellen und 6 Übungsaufgaben
+-P1c. 1 Vorlesung Quanten
+9Modul: PHY-B-P1c
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+PHY-B Experimentalphysik III: Klausur oder mündlich: 100 %
+-P1c. 1 Wellen und Quanten Dauer 105 min oder 135
+min oder 210 min (falls aus
+zwei Teilenbestehend) im
+Falle der Klausur, 20 min im
+Falle der mündlichen Prüfung
+Zeitpunkt: Vorlesungszeit
+bis Semesterende
+13. Bemerkungen:
+Die erfolgreiche Teilnahme an den Übungen ist Zulassungsvoraussetzung für die jeweilige Prüfung. Die
+Prüfung ist benotet. Das Modul ist bestanden, wenn die Prüfung PHY B-P 1c bestanden ist. BSc. Physik:
+In die Bachelorgesamtnote gehen in der Regel die besten zwei Prüfungsnoten der Module PHY-B-P 1a,
+PHY-B-P 1b, PHY-B-P 1c und PHY-B-P 1d ein. Siehe Prüfungs- und Studienordnung des entsprechenden
+Studiengangs.
+10Modul: PHY-B-P02
+Modul: PHY-B-P02
+Gültig ab WS11/12 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Mathematische Methoden und Lineare Algebra
+2. Fachgebiet / Verantwortlich: Physik / Fakultät, der Studiendekan
+3. Inhalte des Moduls: PHY-B-P 2.1: Mathematische Methoden
+•Differentiation von Funktionen von mehreren
+Veränderlichen
+•Taylorentwicklung
+•Mehrdimensionale Integrale
+•Elemente der Vektoranalysis
+•Vektorrechnung
+•Vektorräume (lineare Unabhängigkeit, Basis)
+•lineare Gleichungssysteme
+•Matrizendarstellung
+•Determinanten
+•Eigenwertprobleme, charakteristisches Polynom
+•euklidische und unitäre Vektorräume
+•selbstadjungierte und hermitesche Matrizen
+•orthogonale und unitäre Transformationen
+PHY-B-P 2.2: Lineare Algebra
+•Elementare Eigenschaften des R^2 und R^3,
+Vektorprodukt
+•Mengen und Abbildungen
+•Vektorräume (lineare Unabhängigkeit, Basis)
+•lineare Gleichungssysteme (Gauß-Verfahren)
+•Matrizendarstellung
+•Determinanten
+•Eigenwerte
+•charakteristisches Polynom
+•euklidische und unitäre Vektorräume
+•selbstadjungierte und hermitesche Endomorphismen
+•orthogonale und unitäre Endomorphismen
+•Hauptachsentransformation
+4. Qualifikationsziele des Moduls / zu Erwerb der Grundkenntnisse der Linearen Algebra und
+erwerbende Kompetenzen: Rechenmethoden der Physik.
+Die Fähigkeit zur selbstständigen Übertragung,
+Verallgemeinerung und Abstraktion der erlernten
+Beschreibungs- und Lösungsmethoden auf
+fortgeschrittene Problemstellungen.
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: keine
+b) verpflichtende Nachweise: keine
+11Modul: PHY-B-P02
+6. Verwendbarkeit des Moduls: BSc. Physik, BSc. Nanoscience, BSc. Computational
+Science; bei Lehramt Gymnasium Physik Verwendbarkeit
+von PHY-B-P 2.1 laut Prüfungsordnung nur im
+Wahlbereich
+7. Angebotsturnus des Moduls: halbjährlich
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 1 bis 1
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 300
+davon:
+1. Präsenzzeit: 8 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 180 Std.
+Leistungspunkte: 10
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+PHY-B Wahlpflicht Übung Mathematische Methoden 8 Übungsaufgaben
+-P02. 1 Vorlesung
+PHY-B Wahlpflicht Übung Lineare Algebra 8 Übungsaufgaben
+-P02. 2 Vorlesung
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+PHY-B Mathematische Methoden Klausur Dauer zwischen 80 1
+-P02. 1 min und 210 min;
+Zeitpunkt Vorlesungszeit
+bis Semesterende
+PHY-B Lineare Algebra Klausur Dauer zwischen 80 1
+-P02. 2 min und 210 min;
+Zeitpunkt Vorlesungszeit
+bis Semesterende
+13. Bemerkungen:
+Die erfolgreiche Teilnahme an den Übungen ist Zulassungsvoraussetzung für die Klausur. Die Übungen
+bestehen aus Veranstaltungen in kleinen Gruppen sowie einer Zentralübung Weitere Informationen geben
+die Dozenten zu Vorlesungsbeginn bekannt. Entweder Nr. PHY-B-P 2.1 oder Nr. PHY-B-P 2.2 sind zu
+absolvieren.
+12Modul: PHY-B-P04
+Modul: PHY-B-P04
+Gültig ab WS11/12 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Praktikum B
+2. Fachgebiet / Verantwortlich: Physik / Fakultät, der Studiendekan
+3. Inhalte des Moduls: •Ferromagnetismus
+•Spezifische Ladung des Elektrons
+•Optische Geräte
+•Fabry-Perot-Interferometer
+•Lichtbeugung an Spalt und Gitter
+•Optisches Filtern
+•Spektroskopie
+•Linear und zirkular polarisiertes Licht
+•Second Harmonics Generation
+•Transmission und Reflexion
+•Plancksches Wirkungsquantum
+•Faraday Rotation
+•Gekoppelte Pendel
+•Photovoltaik
+4. Qualifikationsziele des Moduls / zu Erlernen des Umgangs mit modernen Messinstrumenten,
+erwerbende Kompetenzen: computergestützte Messwerterfassung, computergestützte
+Datenvisualisierung
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: Modul PHY-B-P 3 (Praktikum A)
+b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc. Physik; auch verwendbar für Lehramt vertieft sowie
+Lehramt mit Unterrichtsfach Physik im Wahlbereich;
+Standard sind hier aber eigene Module gemäß den
+entsprechenden Prüfungsordnungen.
+7. Angebotsturnus des Moduls: jährlich
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 3
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 240
+davon:
+1. Präsenzzeit: 5 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 165 Std.
+Leistungspunkte: 8
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+13Modul: PHY-B-P04
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+PHY-B Pflicht Praktikum Praktikum B 5 Versuche, Praktikum;
+-P04. 1 Versuchsvorbereitung, Durchführung,
+Versuchsprotokolle
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+13. Bemerkungen:
+Für das Bestehen des Moduls ist der Nachweis der Studienleistungen zu führen (Abzeichnung durch
+die Praktikumsleitung an jedem Kurstag). Eine Gutschrift von Leistungspunkten kann erst nach der
+vollständigen Erfüllung aller geforderten Studienleistungen erfolgen. Eine zusätzliche Sicherheitsbelehrung
+kann verpflichtend angeboten werden. Durch Abwesenheit nicht erbrachte Studienleistungen sind i.d.R.
+nachzuholen, Termine nach Vereinbarung.
+14Modul: PHY-B-P1d
+Modul: PHY-B-P1d
+Gültig ab WS16/17 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Experimentalphysik IV: Thermodynamik
+2. Fachgebiet / Verantwortlich: Fakultät für Physik, der Studiendekan
+3. Inhalte des Moduls: • Thermische Systeme
+• Das ideale Gas
+• Maschinen I
+• Thermodynamische Potentiale
+• Gleichgewichte
+• Mehrstoffsysteme
+• Reale Systeme und Phasenübergänge
+• Strömungsvorgänge – Maschinen II
+• Statistische Thermodynamik
+4. Qualifikationsziele des Moduls / zu Erwerb der Grundkenntnisse über Begriffe, Phänomene
+erwerbende Kompetenzen: und Konzepte der Thermodynamik.
+Die Fähigkeit zur selbstständigen Übertragung,
+Verallgemeinerung und Abstraktion der erlernten
+Beschreibungs- und Lösungsmethoden auf
+fortgeschrittene physikalische Problemstellungen.
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: keine
+b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc. Physik, BSc. Nanoscience, BSc. Computational
+Science, Lehramt Gymnasium Physik, BEd.
+Naturwissenschaftliche Bildung, Mathematik mit
+Nebenfach Physik
+7. Angebotsturnus des Moduls: jährlich
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 1 bis 2
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 210
+davon:
+1. Präsenzzeit: 6 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 120 Std.
+Leistungspunkte: 7
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+15Modul: PHY-B-P1d
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+PHY-B Pflicht Übung Experimentalphysik IV: 6 Übungsaufgaben; Weitere
+-P1d. 1 Vorlesung Thermodynamik Informationen geben die Dozenten zu
+Veranstaltungsbeginn bekannt.
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+PHY-B Experimentalphysik Klausur oder mündlich: 100 %
+-P1d. 1 IV: Thermodynamik Dauer 105 min oder 135
+min oder 210 min (falls aus
+zwei Teilenbestehend) im
+Falle der Klausur, 20 min im
+Falle der mündlichen Prüfung
+Zeitpunkt: Vorlesungszeit
+bis Semesterende
+13. Bemerkungen:
+Die erfolgreiche Teilnahme an den Übungen ist Zulassungsvoraussetzung für die jeweilige Prüfung. Die
+Prüfung ist benotet. Das Modul ist bestanden, wenn die Prüfung PHY B-P 1d bestanden ist. BSc. Physik:
+In die Bachelorgesamtnote gehen in der Regel die besten zwei Prüfungsnoten der Module PHY-B-P 1a,
+PHY-B-P 1b, PHY-B-P 1c und PHY-B-P 1d ein. Siehe Prüfungs- und Studienordnung des entsprechenden
+Studiengangs.
+16Modul: PHY-B-P06
+Modul: PHY-B-P06
+Gültig ab WS11/12 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Theoretische Physik I: Klassische Physik
+2. Fachgebiet / Verantwortlich: Physik / Fakultät, der Studiendekan
+3. Inhalte des Moduls: PHY-B-P 6.1: Klassische Mechanik
+•Mechanik von Punktteilchen
+•Lagrange-Mechanik: Konzepte
+•Anwendungen: Einteilchenprobleme
+•Anwendungen: Mehrteilchenprobleme
+•spezielle Relativitätstheorie
+•Bewegung starrer Körper
+•Hamilton-Mechanik
+•Nichtlineare Dynamik
+PHY-B-P 6.2: Elektrodynamik
+•Historisches, Feldbegriff, Maxwell-Gleichungen
+•Elektrostatik
+•Magnetostatik
+•Zeitabhängige elektromagnetische Felder
+•Lorentz-Invarianz der Maxwell-Gleichungen,
+relativistische Effekte
+•Elemente der Elektrodynamik in Materie und der Optik
+4. Qualifikationsziele des Moduls / zu Erwerb der Kenntnisse über die grundlegenden Konzepte
+erwerbende Kompetenzen: und wichtigsten Methoden der Lagrange- und Hamilton-
+Mechanik, sowie der klassischen Elektrodynamik.
+Die Fähigkeit zur selbstständigen Übertragung,
+Verallgemeinerung und Abstraktion der erlernten
+Beschreibungs- und Lösungsmethoden auf
+fortgeschrittene physikalische Problemstellungen.
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: Mathematische Methoden, z.B. erworben im
+Modulelement PHY-B-P 2.1
+b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc. Physik. Auch verwendbar für BSc. Nanoscience,
+BSc. Computational Science, Lehramt Gymnasium
+Physik; Standard sind hier aber eigene Module gemäß
+den entsprechenden Prüfungsordnungen.
+7. Angebotsturnus des Moduls: jährlich
+8. Das Modul kann absolviert werden in: 2 Semestern
+9. Empfohlenes Fachsemester: 2
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 480
+17Modul: PHY-B-P06
+davon:
+1. Präsenzzeit: 12 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 300 Std.
+Leistungspunkte: 16
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+PHY-B Pflicht Übung Theoretische Physik: Klassische 6 Übungsaufgaben
+-P06. 1 Vorlesung Mechanik
+PHY-B Pflicht Übung Theoretische Physik: 6 Übungsaufgaben
+-P06. 2 Vorlesung Elektrodynamik
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+PHY-B Theoretische Physik: Klausur entweder PHY-B-P-6.1 0 siehe
+-P06. 1 Klassische Mechanik - ODER oder PHY-B-P-6.2; Dauer: Bemerkungen
+105 min oder 135 min
+oder 210 min (falls aus
+zwei Teilen bestehend);
+Zeitpunkt: Vorlesungszeit
+bis Semesterende
+PHY-B Theoretische Physik: Klausur entweder PHY-B-P-6.1 0 siehe
+-P06. 2 Elektrodynamik oder PHY-B-P-6.2; Dauer: Bemerkungen
+105 min oder 135 min
+oder 210 min (falls aus
+zwei Teilen bestehend);
+Zeitpunkt: Vorlesungszeit
+bis Semesterende
+PHY-B Alle Themen (PHY-B- Mündlich 30 Minuten Zeitpunkt: i.d.R. Ende des 3. 1
+-P06. 3 P 6.1 UND PHY-B-P 6.2) Fachsemesters bis Anfang
+des 4. Fachsemesters
+13. Bemerkungen:
+Die erfolgreiche Teilnahme an den Übungen ist Zulassungsvoraussetzung für die jeweilige Klausur.
+Weitere Informationen geben die Dozenten zu Veranstaltungsbeginn bekannt. Es muss entweder die
+Übung und Klausur zu PHY-B-P-6.1 oder zu PHY-B-P-6.2 absolviert werden. Hinweis: Studierende der
+Mathematik mit Nebenfach Physik können wahlweise die gleiche Prüfungsleistung wie Studierende der
+Physik erbringen (16 LP) oder alternativ nur die Modulbestandteile PHY-B-P6.1 oder PHY-B-P6.2 mit der
+jeweils zugehörigen, benoteten Klausur einbringen (bewertet mit jeweils 8 LP).
+18Modul: PHY-B-P07
+Modul: PHY-B-P07
+Gültig ab WS11/12 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Theoretische Physik II: Quantenmechanik I
+2. Fachgebiet / Verantwortlich: Physik / Fakultät, der Studiendekan
+3. Inhalte des Moduls: •Wellen und Teilchen: Historische und experimentelle
+Grundlagen
+•Von der Wellen- zur Quantenmechanik
+•Einfache Probleme
+•Zentralkraftproblem und Drehimpuls
+•Abstrakte Formulierung: Vektoren und Operatoren im
+Hilbertraum
+•Drehimpuls und Spin
+•Näherungsmethoden
+4. Qualifikationsziele des Moduls / zu Erwerb der Kenntnisse über die grundlegenden Begriffe,
+erwerbende Kompetenzen: Phänomene und Konzepte der nichtrelativistischen
+Quantenmechanik.
+Die Fähigkeit zur selbstständigen Übertragung,
+Verallgemeinerung und Abstraktion der erlernten
+Beschreibungs- und Lösungsmethoden auf
+fortgeschrittene physikalische Problemstellungen.
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: Modul PHY-B-P 6
+b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc. Physik. Auch verwendbar für BSc. Nanoscience,
+BSc. Computational Science, Lehramt Gymnasium
+Physik; Standard sind hier aber eigene Module gemäß
+den entsprechenden Prüfungsordnungen
+7. Angebotsturnus des Moduls: jährlich
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 4
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 240
+davon:
+1. Präsenzzeit: 6 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 150 Std.
+Leistungspunkte: 8
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+19Modul: PHY-B-P07
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+PHY-B Pflicht Übung Quantenmechanik I 6 Übungsaufgaben
+-P07. 1 Vorlesung
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+PHY-B Quantenmechanik I Klausur Dauer: 105 min oder 135 min 1
+-P07. 1 oder 210 min (falls aus zwei
+Teilen bestehend) Zeitpunkt:
+I.d.R. Ende der Vorlesungszeit
+bis Semesterende
+13. Bemerkungen:
+Die erfolgreiche Teilnahme an den Übungen ist Zulassungsvoraussetzung für die jeweilige Klausur. Weitere
+Informationen geben die Dozenten zu Veranstaltungsbeginn bekannt.
+20Modul: PHY-B-P08
+Modul: PHY-B-P08
+Gültig ab WS11/12 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Struktur der Materie I: Atome und Moleküle
+2. Fachgebiet / Verantwortlich: Physik / Fakultät, der Studiendekan
+3. Inhalte des Moduls: •Historische Entwicklung der Quanten- und Atomphysik
+•Grundlagen der Quantenphysik
+•Einfache Quantensysteme
+•Wasserstoffähnliche Atome
+•Wechselwirkung mit elektromagnetischer Strahlung
+•Wechselwirkung mit elektrischen und magnetischen
+Feldern
+•Mehr-Elektronen-Atome, Aufbau des Periodensystems
+•Molekülbindung und Molekülstruktur
+•Molekülspektren
+4. Qualifikationsziele des Moduls / zu Erwerb der Grundkenntnisse über einfache
+erwerbende Kompetenzen: Quantensysteme, sowie der Atom- und Molekülphysik.
+Die Fähigkeit zur selbstständigen Übertragung,
+Verallgemeinerung und Abstraktion der erlernten
+Beschreibungs- und Lösungsmethoden auf
+fortgeschrittene physikalische Problemstellungen.
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: Vorlesungen Experimentalphysik I-III aus Modul PHY-B-P
+1
+b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc. Physik; auch verwendbar für Lehramt Gymnasium
+Physik; Standard ist hier aber ein eigenes Modul gemäß
+der entsprechenden Prüfungsordnung
+7. Angebotsturnus des Moduls: jährlich
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 4
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 210
+davon:
+1. Präsenzzeit: 6 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 120 Std.
+Leistungspunkte: 7
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+21Modul: PHY-B-P08
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+PHY-B Pflicht Übung Struktur der Materie I: Atome und 6 Übungsaufgaben
+-P08. 1 Vorlesung Moleküle
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+PHY-B Struktur der Materie I: Klausur Dauer: 105 min oder 135 0 - Klausur
+-P08. 1 Atome und Moleküle min oder 210 min (falls aus muss
+zwei Teilen bestehend); bestanden
+Zeitpunkt: Vorlesungszeit werden
+bis Semesterende
+13. Bemerkungen:
+Die erfolgreiche Teilnahme an den Übungen ist Zulassungsvoraussetzung für die Klausur. Weitere
+Informationen geben die Dozenten zu Veranstaltungsbeginn bekannt.
+22Modul: PHY-B-P09
+Modul: PHY-B-P09
+Gültig ab WS11/12 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Struktur der Materie II: Festkörperphysik
+2. Fachgebiet / Verantwortlich: Physik / Fakultät, der Studiendekan
+3. Inhalte des Moduls: •Kristallstrukturen und Defekte
+•Gitterdynamik
+•Elektronen im periodischen Potential
+•Elektronentransport in Metallen
+•Phononen in Metallen
+•Elektronen im Magnetfeld
+•Halbleiter
+•Optische Eigenschaften des Festkörpers
+•Magnetismus
+•Supraleitung
+4. Qualifikationsziele des Moduls / zu Erwerb der Grundkenntnisse der Festkörperphysik.
+erwerbende Kompetenzen: Die Fähigkeit zur selbstständigen Übertragung,
+Verallgemeinerung und Abstraktion der erlernten
+Beschreibungs- und Lösungsmethoden auf
+fortgeschrittene physikalische Problemstellungen
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: Experimentalphysik I+II (aus PHY-B-P 1) sowie Modul
+PHY-B-P 7 (Quantenmechanik I)
+b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc. Physik, BSc. Nanoscience; auch verwendbar
+für Lehramt Gymnasium Physik; Standard ist hier
+aber ein eigenes Modul gemäß der entsprechenden
+Prüfungsordnung.
+7. Angebotsturnus des Moduls: jährlich
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 5
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 210
+davon:
+1. Präsenzzeit: 6 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 120 Std.
+Leistungspunkte: 7
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+23Modul: PHY-B-P09
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+PHY-B Pflicht Übung Struktur der Materie II: 6 Übungsaufgaben
+-P09. 1 Vorlesung Festkörperphysik
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+PHY-B Struktur der Materie Klausur Dauer: 105 min oder 135 1
+-P09. 1 II: Festkörperphysik min oder 210 min (falls aus
+zwei Teilen bestehend);
+Zeitpunkt: Vorlesungszeit
+bis Semesterende
+13. Bemerkungen:
+Die erfolgreiche Teilnahme an den Übungen ist Zulassungsvoraussetzung für die Klausur. Weitere
+Informationen geben die Dozenten zu Veranstaltungsbeginn bekannt.
+24Modul: PHY-B-P10
+Modul: PHY-B-P10
+Gültig ab WS11/12 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Struktur der Materie III: Kerne und Teilchen
+2. Fachgebiet / Verantwortlich: Physik / Fakultät, der Studiendekan
+3. Inhalte des Moduls: •Kerneigenschaften
+•Kernmodelle
+•Elemententstehung
+•Streuung
+•Energieerzeugung
+•Anwendungen der Kernphysik
+•Experimente der Teilchenphysik
+•Theoretische Beschreibung von Wechselwirkungen
+•Aufbau der Materie aus Quarks und Leptonen
+•Die schwache Wechselwirkung
+•Das Standardmodell der Teilchenphysik
+•Die Grenzen des Standardmodells
+4. Qualifikationsziele des Moduls / zu Erwerb der Grundkenntnisse der Kern- und
+erwerbende Kompetenzen: Teilchenphysik.
+Die Fähigkeit zur selbstständigen Übertragung,
+Verallgemeinerung und Abstraktion der erlernten
+Beschreibungs- und Lösungsmethoden auf
+fortgeschrittene physikalische Problemstellungen.
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: Module PHY-B-P 6 (Theoretische Mechanik,
+Elektrodynamik) sowie PHY-B-P 7 (Quantenmechanik)
+b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc. Physik; auch verwendbar für Lehramt Gymnasium
+Physik; Standard ist hier aber ein eigenes Modul gemäß
+der entsprechenden Prüfungsordnung.
+7. Angebotsturnus des Moduls: jährlich
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 5
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 210
+davon:
+1. Präsenzzeit: 6 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 120 Std.
+Leistungspunkte: 7
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+25Modul: PHY-B-P10
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+PHY-B Pflicht Übung Struktur der Materie III : Kerne und 6 Übungsaufgaben
+-P10. 1 Vorlesung Teilchen
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+13. Bemerkungen:
+Für den Erwerb der Leistungspunkte müssen Übungsaufgaben erbracht werden. Weitere Informationen
+geben die Dozenten zu Veranstaltungsbeginn bekannt.
+26Modul: PHY-B-P05
+Modul: PHY-B-P05
+Gültig ab WS11/12 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Fortgeschrittenenpraktikum I
+2. Fachgebiet / Verantwortlich: Physik / Fakultät, der Studiendekan
+3. Inhalte des Moduls: •AFM - Rasterkraftmikroskopie
+•Brennstoffzelle
+•Diodengepumpter Festkörperlaser
+•ESR – Ferromagnetische Resonanz
+•Fourierspektroskopie
+•Holographie
+•Kernspektroskopie
+•Laser
+•Magnetooptik und magnetische Anisotropie
+•NMR-Kernspinresonanz
+•Operationsverstärker
+•Optische Absorption
+•Optische Phasenkonjugation
+•Optisches Pumpen
+•Pockels-Effekt
+•Röntgenbeugung
+•X-Band-Radar
+4. Qualifikationsziele des Moduls / zu Weitgehend selbstständiges konkretes Messen von
+erwerbende Kompetenzen: physikalischen Effekten, Kennen lernen von und Umgang
+mit speziellen Messgeräten und Versuchsanordnungen,
+Verfassen eines aussagekräftigen Protokolls mit
+Auswertung und Fehlerbetrachtung.
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: siehe verpflichtende Nachweise
+b) verpflichtende Nachweise: Module PHY-B-P 3, PHY-B-P 4 (Praktika A,B)
+6. Verwendbarkeit des Moduls: BSc. Physik. Auch verwendbar für BSc. Nanoscience und
+Lehramt Physik vertieft; Standard sind hier aber eigene
+Module gemäß den entsprechenden Prüfungsordnungen
+7. Angebotsturnus des Moduls: halbjährlich
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 4
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 240
+davon:
+1. Präsenzzeit: 10 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 90 Std.
+27Modul: PHY-B-P05
+Leistungspunkte: 8
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+PHY-B Pflicht Praktikum Fortgeschrittenenpraktikum I 10 Versuche, Praktikum;
+-P05. 1 Versuchsvorbereitung, Durchführung,
+Versuchsprotokolle
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+13. Bemerkungen:
+Für das Bestehen des Moduls ist der Nachweis der Studienleistungen zu führen (Testat zu jedem Versuch).
+Eine Gutschrift von Leistungspunkten kann erst nach der vollständigen Erfüllung aller geforderten
+Studienleistungen erfolgen.  
+28Modul: PHY-B-P11
+Modul: PHY-B-P11
+Gültig ab WS11/12 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Mathematik für Physiker
+2. Fachgebiet / Verantwortlich: Mathematik / Fakultät, der Studiendekan
+3. Inhalte des Moduls: PHY-B-P 11.1: Analysis I
+• natürliche und ganze Zahlen
+• vollständige Induktion
+• reelle Zahlen (axiomatisch)
+• Folgen und Reihen
+• Grenzwerte
+• Stetigkeit
+• Zwischenwertsatz
+• Differenzierbarkeit
+• Mittelwertsatz und l'Hospitalsche Regeln
+• Riemann-Integral
+• Funktionenfolgen (punktweise und gleichmäßige
+Konvergenz)
+• elementare Funktionen
+• Taylorentwicklung
+• uneigentliche Integrale
+PHY-B-P 11.2: Analysis II für Physiker
+• Kurven in R^n
+• Differenzierbare Abbildungen in R^n
+• Vektorfelder und Potentiale
+• Taylor-Entwicklung in mehreren Variablen
+• Minima und Maxima, auch mit Nebenbedingungen
+• Sätze über Umkehrfunktionen und implizite
+Funktionen
+• Polar- und Zylinderkoordinaten
+• (Unter-)Mannigfaltigkeiten
+• Gewöhnliche Differentialgleichungen: Existenz und
+Eindeutigkeit von Anfangswertproblemen
+• Lineare Differentialgleichungen (Systeme 1. Ordnung
+und eine Gleichung n-ter Ordnung)
+• Potenzreihenansatz für Differentialgleichungen
+• Fourierreihen und Orthonormalsysteme
+PHY-B-P 11.3: Analysis III für Physiker
+• Integration im R^n
+• Transformationsformel und Satz von Fubini
+• Oberflächenintegrale
+• Integralsätze im R^n, insbesondere die Sätze von
+Gauß, Green und Stokes
+• Holomorphe Funktionen und deren Eigenschaften
+29Modul: PHY-B-P11
+• Kurvenintegrale für komplexe Funktionen
+• Cauchyscher Integralsatz und Cauchy-Integralformel
+• Potenz- und Laurentreihen
+• Isolierte Singularitäten holomorpher Funktionen
+• Residuensatz und deren Anwendungen
+• Rand- und Eigenwertprobleme für gewöhnliche
+Differentialgleichungen 2.Ordnung
+• Separationsansatz für typische partielle
+Differentialgleichungen der mathematischen Physik
+• Spezielle Funktionen, insbesondere Legendre- und
+Kugelfunktionen
+4. Qualifikationsziele des Moduls / zu Erwerb der Grundkenntnisse der Analysis.
+erwerbende Kompetenzen: Die Fähigkeit zur selbstständigen Übertragung,
+Verallgemeinerung und Abstraktion der erlernten
+Beschreibungs- und Lösungsmethoden auf
+mathematische Problemstellungen.
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: keine
+b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc. Physik. Auch verwendbar für BSc. Nanoscience,
+BSc. Computational Science, Lehramt Gymnasien Physik;
+Standard sind hier aber eigene Module gemäß den
+entsprechenden Prüfungsordnungen.
+7. Angebotsturnus des Moduls: jährlich
+8. Das Modul kann absolviert werden in: 3 Semestern
+9. Empfohlenes Fachsemester: 1
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 600
+davon:
+1. Präsenzzeit: 18 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 330 Std.
+Leistungspunkte: 20
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+30Modul: PHY-B-P11
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+PHY-B Pflicht Übung Analysis I 6 Übungsaufgaben
+-P11. 1 Vorlesung
+PHY-B Pflicht Übung Analysis II für Physiker 6 Übungsaufgaben
+-P11. 2 Vorlesung
+PHY-B Pflicht Übung Analysis III für Physiker 6 Übungsaufgaben
+-P11. 3 Vorlesung
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+PHY-B Alle Themen aus Analysis I-III Mündlich 30 Minuten Zeitpunkt: I.d.R. Ende 1
+-P 11 .4 der Vorlesungszeit
+des 3. Fachsemesters
+bis Semesterende  
+PHY-B Analysis I Klausur Dauer: zwischen 80 0 siehe
+-P11. 1 min und 210 min; Bemerkungen
+Zeitpunkt: Vorlesungszeit
+bis Semesterende
+PHY-B Analysis II für Physiker Klausur Dauer: zwischen 80 0 siehe
+-P11. 2 min und 210 min; Bemerkungen
+Zeitpunkt: Vorlesungszeit
+bis Semesterende
+PHY-B Analysis III für Physiker Klausur Dauer: zwischen 80 0 siehe
+-P11. 3 min und 210 min; Bemerkungen
+Zeitpunkt: Vorlesungszeit
+bis Semesterende
+13. Bemerkungen:
+Zum Bestehen des Moduls muss eine der unter Punkt 12 aufgeführten Modulprüfungen PHY-B-P11.1
+bis PHY-B-P-11.3 sowie zusätzlich die Modulprüfung PHY-B-P-11.4 bestanden werden.  Zur Zulassung
+zu jeder der Modulprüfungen PHY-B-P11.1 bis PHY-B-P11.3 müssen nur jeweils die zu  dieser Prüfung
+gehörenden Studienleistungen nach Punkt 11 nachgewiesen  werden. Die Regeln für Wiederholungen
+von nicht bestandenen Prüfungen gelten für die Modulprüfungen PHY-B-P-11.1 bis PHY-B-P-11.4 jeweils
+einzeln. Studierenden, die die Mathematik-Vorlesungen Analysis I, II und III (Bachelor Mathematik)
+erfolgreich mit bestandenen Prüfungen absolviert haben, kann die mündliche Prüfung für das Modul
+Mathematik für Physiker erlassen werden. Die Gesamtnote setzt sich in diesem Fall aus den zwei besten
+Noten der Klausuren zusammen. Weitere Informationen  geben die Dozenten zu Veranstaltungsbeginn
+bekannt.
+31Modul: PHY-B-P12
+Modul: PHY-B-P12
+Gültig ab WS11/12 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Bachelor-Arbeit
+2. Fachgebiet / Verantwortlich: Physik / Fakultät, der Studiendekan
+3. Inhalte des Moduls: In der Regel eine forschungsorientierte Thematik aus den
+Bereichen der Arbeitsgruppen an der Fakultät für Physik
+4. Qualifikationsziele des Moduls / zu Durch die Bachelorarbeit soll der Kandidat in die Lage
+erwerbende Kompetenzen: versetzt werden, ein begrenztes Problem aus einem
+Gebiet der Physik nach wissenschaftlichen Methoden zu
+bearbeiten und seine Ergebnisse in angemessener Weise
+sachlich einwandfrei und verständlich darzulegen.
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: Inhalte der Veranstaltungen der ersten 5 Semester
+b) verpflichtende Nachweise: Nachweise über die erfolgreiche Teilnahme an den
+Modulen des Pflicht- und des Wahlbereichs im Umfang
+von 140 LP.
+6. Verwendbarkeit des Moduls: BSc. Physik
+7. Angebotsturnus des Moduls:
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 6
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 360
+davon:
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 360 Std.
+Leistungspunkte: 12
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+PHY-B Pflicht Bachelorarbeit 350 Schriftliche Fassung der Bachelorarbeit
+-P12. 1
+PHY-B Pflicht Vortrag zur Bachelorarbeit 10 Seminarvortrag
+-P12. 2
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+PHY-B Bachelorarbeit Bachelorarbeit 3 Monate 1
+-P12. 1
+32Modul: PHY-B-P12
+13. Bemerkungen:
+Beginn jederzeit möglich nach Absprache mit dem Betreuer. Der Antrag auf Zulassung zur Bachelorarbeit
+soll schriftlich spätestens vier Wochen vor ihrem geplanten Beginn beim Prüfungsamt der Fakultät
+eingereicht werden. Er ist an den Vorsitzenden des Prüfungsausschusses zu richten. Die schriftliche
+Fassung der Bachelorarbeit in deutscher oder englischer Sprache ist in drei Exemplaren und als PDF-Datei
+fristgemäß beim Prüfungsamt abzugeben.
+33Modul: PHY-B-WV01
+Modul: PHY-B-WV01
+Gültig ab WS11/12 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Theoretische Physik III: Quantenmechanik II
+2. Fachgebiet / Verantwortlich: Physik / Fakultät, der Studiendekan
+3. Inhalte des Moduls: •Zeitabhängige Prozesse
+•Mehrelektronen-Systeme, Atome und Moleküle
+•Grundlagen der Streutheorie
+•Relativistische Quantenmechanik
+•Grundlagen der Feld-Theorie
+4. Qualifikationsziele des Moduls / zu Erwerb der Kenntnisse über die wichtigsten Methoden für
+erwerbende Kompetenzen: die Analyse der Mehrteilchen-Systeme, Streuprozesse
+und die Relativistische Quantenmechanik.
+Die Fähigkeit zur selbstständigen Übertragung,
+Verallgemeinerung und Abstraktion der erlernten
+Beschreibungs- und Lösungsmethoden auf
+fortgeschrittene physikalische Problemstellungen.
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: Modul PHY-B-P-7 (Quantenmechanik I)
+b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc. Physik, BSc. Computational Science
+7. Angebotsturnus des Moduls: jährlich
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 5
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 240
+davon:
+1. Präsenzzeit: 6 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 150 Std.
+Leistungspunkte: 8
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+PHY- Pflicht Übung Quantenmechanik II 6 Übungsaufgaben
+B - Vorlesung
+WV01 .1
+34Modul: PHY-B-WV01
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+PHY- Quantenmechanik II Klausur Dauer: 105 min oder 135 1
+B - min oder 210 min (falls aus
+WV01 .1 zwei Teilen bestehend);
+Zeitpunkt: Vorlesungszeit
+bis Semesterende
+13. Bemerkungen:
+Die erfolgreiche Teilnahme an den Übungen ist Zulassungsvoraussetzung für die Klausur. Weitere
+Informationen geben die Dozenten zu Veranstaltungsbeginn bekannt.
+35Modul: PHY-B-WV02
+Modul: PHY-B-WV02
+Gültig ab WS11/12 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Theoretische Physik IV: Thermodynamik und
+Quantenstatistik
+2. Fachgebiet / Verantwortlich: Physik / Fakultät, der Studiendekan
+3. Inhalte des Moduls: •Statistische Gesamtheiten
+•Grundbegriffe und Postulate
+•Isolierte Systeme
+•Systeme in Kontakt mit einem Wärmebad
+•Systeme im Wärme- und Teilchen-Bad
+•Systeme mit Wechselwirkung
+•Thermostatik
+•Gleichgewicht
+•Der thermodynamische Kalkül
+•Phasenübergänge
+4. Qualifikationsziele des Moduls / zu Erwerb der Kenntnisse über die wichtigsten Konzepte und
+erwerbende Kompetenzen: Methoden der Quantenstatistik.
+Die Fähigkeit zur selbstständigen Übertragung,
+Verallgemeinerung und Abstraktion der erlernten
+Beschreibungs- und Lösungsmethoden auf
+fortgeschrittene physikalische Problemstellungen.
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: Modul PHY-B-P-6 (Quantenmechanik I)
+b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc. Physik, BSc. Computational Science. Auch
+verwendbar für BSc. Nanoscience und Lehramt
+Gymnasium Physik; Standard sind hier aber eigene
+Module gemäß den entsprechenden Prüfungsordnungen
+7. Angebotsturnus des Moduls: jährlich
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 6
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 240
+davon:
+1. Präsenzzeit: 6 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 150 Std.
+Leistungspunkte: 8
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+36Modul: PHY-B-WV02
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+PHY- Pflicht Übung Thermodynamik und 6 Übungsaufgaben
+B - Vorlesung Quantenstatistik
+WV02 .1
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+PHY- Thermodynamik und Klausur Dauer: 105 min oder 135 1
+B - Quantenstatistik min oder 210 min (falls aus
+WV02 .1 zwei Teilen bestehend);
+Zeitpunkt: Vorlesungszeit
+bis Semesterende
+13. Bemerkungen:
+Die erfolgreiche Teilnahme an den Übungen ist Zulassungsvoraussetzung für die Klausur. Weitere
+Informationen geben die Dozenten zu Veranstaltungsbeginn bekannt.
+37Modul: PHY-B-WS02
+Modul: PHY-B-WS02
+Gültig ab WS15/16 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Programmieren in C und C++
+2. Fachgebiet / Verantwortlich: Physik / Fakultät, der Studiendekan
+3. Inhalte des Moduls: In dieser Veranstaltung wird die vollständige
+Programmiersprache C erlernt sowie wichtige Elemente
+von C++:
+•Ein-/Ausgabekonzepte von C und C++
+•Typen, Variablen, Konstanten, Operatoren,
+Kontrollstrukturen, Arrays
+•Funktionen, lokale/globale Variablen
+•abgeleitete Datentypen
+•Der C-Präprozessor
+•Dateibearbeitung
+•Zeiger, dynamische Speicherverwaltung
+•Fortgeschrittene Programmiertechniken wie verkettete
+Listen, generische Funktionen
+•erste Schritte der objektorientierten Programmierung mit
+C++
+4. Qualifikationsziele des Moduls / zu Die Teilnehmer sind am Ende in der Lage, auch
+erwerbende Kompetenzen: umfangreichere wissenschaftliche Algorithmen am
+Computer zu implementieren.
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: Keine
+b) verpflichtende Nachweise: Keine
+6. Verwendbarkeit des Moduls: B.Sc. Physik, B.Sc. Nanoscience, Lehramt mit
+Unterrichtsfach Physik; bei B.Sc. Computational Science
+ist diese Veranstaltung Bestandteil des Moduls CS-B-P6
+7. Angebotsturnus des Moduls: halbjährlich
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 1
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 180
+davon:
+1. Präsenzzeit: 4 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 120 Std.
+Leistungspunkte: 6
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+38Modul: PHY-B-WS02
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+PHY- Pflicht Übung Programmieren in C und C++ 4 Übungsaufgaben
+B - Vorlesung
+WS02 .1
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+PHY- Programmieren in C und C++ Projektarbeit 10 Stunden Zeitpunkt: Am 0 - unbenotet
+B - Ende des Kurses
+WS02 .1
+13. Bemerkungen:
+Zulassungsvorausetzung für die Modulprüfung ist der Nachweis der Studienleistungen (Abzeichnung der
+Übungsaufgaben durch den Kursleiter an jedem Kurstag).
+39Modul: PHY-B-WV03
+Modul: PHY-B-WV03
+Gültig ab WS11/12 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Fortgeschrittenenpraktikum II
+2. Fachgebiet / Verantwortlich: Physik / Fakultät, der Studiendekan
+3. Inhalte des Moduls: •AFM - Rasterkraftmikroskopie
+•Diodengepumpter Festkörperlaser
+•ESR - Ferromagnetische Resonanz
+•Fourierspektroskopie
+•Kernspektroskopie
+•Laser
+•Magnetooptik und magnetische Anisotropie
+•Magnetotransport in Halbleiterheterostrukturen
+•NMR - Kernspinresonanz
+•Optische Absorption
+•Optisches Pumpen
+•Quanten-Hall-Effekt
+•STM - Rastertunnelmikroskopie
+•Röntgenbeugung
+•Supraleitung
+•X-Band-Radar
+4. Qualifikationsziele des Moduls / zu Weitgehend selbständiges konkretes Messen von
+erwerbende Kompetenzen: physikalischen Effekten, Kennenlernen von und Umgang
+mit speziellen Messgeräten und Versuchsanordnungen,
+Verfassen eines aussagekräftigen Protokolls mit
+Auswertung und Fehlerbetrachtung.
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: siehe verpflichtende Nachweise
+b) verpflichtende Nachweise: Module PHY-B-P 3, PHY-B-P 4 (Praktika A,B)
+6. Verwendbarkeit des Moduls: BSc. Physik
+7. Angebotsturnus des Moduls: halbjährlich
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 5
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 240
+davon:
+1. Präsenzzeit: 10 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 90 Std.
+Leistungspunkte: 8
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+40Modul: PHY-B-WV03
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+PHY- Pflicht Praktikum Versuche 10 Versuche, Praktikum;
+B - Versuchsvorbereitung, Durchführung,
+WV03 .1 Versuchsprotokolle
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+13. Bemerkungen:
+Für das Bestehen des Moduls ist der Nachweis der Studienleistungen zu führen (Testat zu jedem Versuch).
+Eine Gutschrift von Leistungspunkten kann erst nach der vollständigen Erfüllung aller geforderten
+Studienleistungen erfolgen.
+41Modul: PHY-B-WE01
+Modul: PHY-B-WE01
+Gültig ab WS11/12 bis (leer)
+1. Name des Moduls: Ergänzungsfach Chemie
+2. Fachgebiet / Verantwortlich: Fakultät für Chemie und Pharmazie, der Studiendekan
+und Prof. Dr. H. Motschmann
+3. Inhalte des Moduls: PHY-B-WE 1.1: Chemie für Physiker I
+• Bausteine der Materie und Wechselwirkungen
+• Aufbau der Atome, Struktur der Elektronenhülle
+• Systematik der Elemente, Aufbauprinzip und
+Periodensystem
+• Chemische Bindung
+PHY-B-WE 1.2: Chemie für Physiker II
+• Chemische Kinetik
+• Lösungen, Säuren und Basen
+• Oxidation und Reduktion, Elektrochemie
+• Elemente der Hauptgruppen des PSE
+• Elemente der Nebengruppen des PSE, Metalle
+• Chemische Analytik, Spektroskopie
+• Komplexverbindungen und Organische
+Verbindungen
+PHY-B-WE 1.3: Chemisches Praktikum
+Versuche zu den Themen:
+• Gemisch und Verbindungen, Trennung durch
+Distillation und Chromotographie
+• Spannungsreihe, Redoxreaktionen
+• Chemisches Gleichgewicht, Massenwirkungsgesetz,
+Löslichkeit, pH - Wert, pK - Werte von Säuren
+• Qualitative Analyse
+• Quantitative Analyse, Gravimetrie, Elektrogravimetrie
+und Titration
+• Infrarotspektroskopie
+• Kinetik, Bestimmung von
+Geschwindigkeitskoeffizienten und
+Aktivierungsenergie
+Die Modulelemente müssen in der obigen Reihenfolge
+absolviert werden.
+4. Qualifikationsziele des Moduls / zu Die Fähigkeit, elementare Eigenschaften verschiedener
+erwerbende Kompetenzen: Stoffklassen aus ihrer atomar-chemischen Struktur
+heraus zu erklären, ihre wichtigsten Reaktionen zu
+verstehen. Die Fähigkeit, sich im Hinblick auf eine spätere
+wissenschaftliche Labortätigkeit
+42Modul: PHY-B-WE01
+a) ggf. selbständig Details über spezielle
+Alterungsprozesse von Proben aneignen zu können,
+sowie
+b) das notwendige grundlegende Bewusstsein
+insbesondere für toxische und explosive Gefahren
+anzueignen, um abschätzen zu können, wo Expertenrat
+sinnvoll ist.
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: keine
+b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: B.Sc. Physik
+7. Angebotsturnus des Moduls: jährlich
+8. Das Modul kann absolviert werden in: 3 Semestern
+9. Empfohlenes Fachsemester: 1
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 480
+davon:
+1. Präsenzzeit: 13 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 285 Std.
+Leistungspunkte: 16
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+PHY- Pflicht Vorlesung Chemie für Physiker I 3 Kenntnisstandgespräch
+B -
+WE01 .1
+PHY- Pflicht Vorlesung Chemie für Physiker II 3 Kenntnisstandgespräch
+B -
+WE01 .2
+PHY- Pflicht Praktikum Chemisches Praktikum 7 Chemisches Praktikum, siehe
+B - kommentiertes Vorlesungsverzeichnis;
+WE01 .3 regelmäßige Anwesenheit,
+Kenntnisstandgespräch
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+PHY- Chemie für Physiker I Klausur 2 Stunden am Ende oder nach dem 50%
+B - Ende des Semesters
+WE01 .1
+PHY- Chemie für Physiker II Klausur 2 Stunden am Ende oder nach dem 50%
+B - Ende des Semesters
+WE01 .2
+43Modul: PHY-B-WS03
+Modul: PHY-B-WS03
+Gültig ab WS15/16 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Wissenschaftliche Textverarbeitung mit LaTeX
+2. Fachgebiet / Verantwortlich: Physik / Fakultät, der Studiendekan
+3. Inhalte des Moduls: Einfache Textdokumente mit LaTeX:
+• System- & Sprachanpassung
+• Gliederungselemente
+• Automatismen justieren (Zähler und Längen)
+• Textformatierungen
+• Seitenlayout einstellen
+Elemente für wissenschaftliche Arbeiten:
+• Querverweise
+• Listen
+• Positionierung von Elementen
+• Grafiken
+• Tabellen
+• Verzeichnisse (Inhalts-, Abbildungs-, Tabellen-,
+Literatur- und Stichwortverzeichnisse)
+• Mathematik- und Formelsatz
+4. Qualifikationsziele des Moduls / zu Die Teilnehmer erlernen alle notwendigen Elemente
+erwerbende Kompetenzen: zum Erstellen auch umfangreicher Arbeiten bis hin zu
+Dissertationen und wissenschaftlichen Veröffentlichungen.
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: Keine
+b) verpflichtende Nachweise: Keine
+6. Verwendbarkeit des Moduls: B.Sc. Physik, B.Sc. Nanoscience, B.Sc. Computational
+Science, Lehramt mit Unterrichtsfach Physik
+7. Angebotsturnus des Moduls: halbjährlich
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 1
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 90
+davon:
+1. Präsenzzeit: 2 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 60 Std.
+Leistungspunkte: 3
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+44Modul: PHY-B-WS03
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+PHY- Pflicht Übung Wissenschaftliche 2 Übungsaufgaben
+B - Vorlesung Textverarbeitung mit LaTeX
+WS03 .1
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+PHY- Wissenschaftliche Projektarbeit 3 Stunden Zeitpunkt: am 0 - unbenotet
+B - Textverarbeitung mit LaTeX Ende des Kurses
+WS03 .1
+13. Bemerkungen:
+Zulassungsvorausetzung für die Modulprüfung ist der Nachweis der Studienleistungen (Abzeichnung der
+Übungsaufgaben durch den Kursleiter an jedem Kurstag).
+45Modul: PHY-B-WE02
+Modul: PHY-B-WE02
+Gültig ab WS11/12 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Ergänzungsfach Biologie
+2. Fachgebiet / Verantwortlich: Fakultät für Biologie und Vorklinische Medizin, Prof. Dr.
+Peter Flor
+3. Inhalte des Moduls: Wahlweise die Inhalte der ausgewählten
+Wahlpflichtvorlesungen im Umfang von 8 LP:
+Allgemeine Biologie - Zellbiologie und Botanik (3LP)
+Allgemeine Biologie - Zoologie (3LP)
+Pflanzenphysiologie, 1. Sem.-Hälfte (4LP)
+Tierphysiologie, 2. Sem.-Hälfte (4LP)
+Biochemie A (6LP)
+Ökologie (3LP)
+Evolutionsbiologie (3LP)
+Neurobiologie und Ethologie (3LP)
+Entwicklungsbiologie (3LP)
+Genetik (5LP)
+Mikrobiologie (5LP)
+Biochemie B (4LP)
+Pflicht: Praktikum für Biologie im Nebenfach im
+Umfang von 5 LP; Inhalte:
+• Klassische Genetik und DNA-Analyse
+• Pflanzenphysiologie; Messungen zur Photosynthese
+• Verhaltenspharmakologie bei Mäusen
+• Ökologische Morphologie und Anatomie der
+Pflanzen
+• Tierphysiologie; Versuche an der
+Wirbeltiermuskulatur
+Pflicht: Seminar herausragende Entdeckungen der
+Biologie der letzten 150 Jahre im Umfang von 3 LP;
+Inhalte:
+• Die Evolutionstheorie
+• Die Entdeckung und Bedeutung der Doppelhelix
+• Konditioniertes Verhalten und zelluläre
+Mechanismen von Lernen und Gedächtnis
+• Embryonale Stammzellen und Transgene Tiere
+• Die Photosynthese
+• Der Übergang von der unbelebten zur belebten Welt
+46Modul: PHY-B-WE02
+• Pathogenabwehr mittels Antikörper; Entstehen des
+Variationsreichtums der Antikörper
+• Sympathikus, Parasympathikus, Adrenerge
+Rezeptoren
+4. Qualifikationsziele des Moduls / zu Ein grundlegendes Verständnis in mehreren Disziplinen
+erwerbende Kompetenzen: der modernen Biologie zu erlangen, insb. in der Zell- und
+Molekularbiologie, der Tier- und Pflanzenphysiologie,
+sowie der Evolutions- und Neurobiologie.
+Außerdem sollen konkrete Beispiele kennengelernt und
+verstanden werden, wie grundlegende Entdeckungen der
+Biologie unser Weltbild und tägliches Leben verändert
+haben.
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: keine
+b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: B.Sc. Physik
+7. Angebotsturnus des Moduls: jährlich
+8. Das Modul kann absolviert werden in: 2 Semestern
+9. Empfohlenes Fachsemester: 1 bis 3
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 480
+davon:
+1. Präsenzzeit: 14 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 270 Std.
+Leistungspunkte: 16
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+47Modul: PHY-B-WE02
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+PHY- Wahlpflicht Vorlesung Allgemeine Biologie - Zellbiologie 3 unbenotete Klausur, siehe Bemerkungen
+B - und Botanik (WS, 3LP)
+WE02 .01
+PHY- Wahlpflicht Vorlesung Allgemeine Biologie - Zoologie 2,50 unbenotete Klausur, siehe Bemerkungen
+B - (WS, 3LP)
+WE02 .02
+PHY- Wahlpflicht Vorlesung Pflanzenphysiologie (WS, 4LP) 3 unbenotete Klausur, siehe Bemerkungen
+B -
+WE02 .03
+PHY- Wahlpflicht Vorlesung Tierphysiologie (WS, 4LP) 3 unbenotete Klausur, siehe Bemerkungen
+B -
+WE02 .04
+PHY- Wahlpflicht Übung Biochemie A (WS, 6LP) 5 unbenotete Klausur, siehe Bemerkungen
+B - Vorlesung
+WE02 .05
+PHY- Wahlpflicht Vorlesung Ökologie (SS, 3LP) 2 unbenotete Klausur, siehe Bemerkungen
+B -
+WE02 .06
+PHY- Wahlpflicht Vorlesung Evolutionsbiologie (SS, 3LP) 2 unbenotete Klausur, siehe Bemerkungen
+B -
+WE02 .7
+PHY- Wahlpflicht Vorlesung Neurobiologie und Ethologie (SS, 2 unbenotete Klausur, siehe Bemerkungen
+B - 3LP)
+WE02 .08
+PHY- Wahlpflicht Vorlesung Entwicklungsbiologie (SS, 3LP) 2 unbenotete Klausur, siehe Bemerkungen
+B -
+WE02 .09
+PHY- Wahlpflicht Übung Genetik (SS, 5LP) 4 unbenotete Klausur, siehe Bemerkungen
+B - Vorlesung
+WE02 .10
+PHY- Wahlpflicht Übung Mikrobiologie (SS, 5LP) 4 unbenotete Klausur, siehe Bemerkungen
+B - Vorlesung
+WE02 .11
+PHY- Wahlpflicht Vorlesung Biochemie B (SS, 4LP) 3 unbenotete Klausur, siehe Bemerkungen
+B -
+WE02 .12
+PHY- Pflicht Praktikum Biologie im Nebenfach (WS, 5LP) 5 Zum Praktikum müssen 5 Protokolle (je 1,5
+B - Seiten, max.) geschrieben werden; diese
+WE02 .13 dienen als Grundlage, das Praktikum als
+bestanden/nicht bestanden zu bewerten;
+regelmäßige Anwesenheit
+PHY- Pflicht Seminar Herausragende Entdeckungen 3 30 min. Vortrag (inkl. Diskussion; evtl. auf
+B - der Biologie der letzten 100 Jahre Englisch)
+WE02 .14 (WS, 3LP)
+48Modul: PHY-B-WE02
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+PHY- Praktikum, Seminar sowie Mündlich 30 Minuten jährlich im Juli bis September 100%
+B - die besuchten Vorlesungen
+WE02 .1
+13. Bemerkungen:
+Aus den Wahlpflichtvorlesungen müssen Vorlesungen im Umfang von mindestens 8 LP ausgewählt
+werden. Das Modul ist bestanden, wenn die unbenoteten Klausuren zu den ausgewählten Vorlesungen,
+Praktikum, Seminar und die mündliche Modulprüfung bestanden sind. Die mündliche Modulprüfung kann
+erst nach dem Nachweis der erforderlichen Studienleistungen absolviert werden.
+49Modul: PHY-B-WE03
+Modul: PHY-B-WE03
+Gültig ab WS07/08 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Ergänzungsfach Mathematik
+2. Fachgebiet / Verantwortlich: Fakultät für Mathematik, der Studiendekan
+3. Inhalte des Moduls: Im Rahmen des Ergänzungsfachs Mathematik müssen
+ausgewählte Veranstaltungen aus dem Mathematik-
+Studium im Gesamtumfang von mindestens 16 LP
+erfolgreich absolviert werden. Anerkannt werden alle
+Veranstaltungen im Fach Mathematik aus dem Bachelor-
+und Master-Bereich gemäß Vorlesungsverzeichnis
+der Fakultät für Mathematik. Die Inhalte sind den
+entsprechenden Modulbeschreibungen der Mathematik zu
+entnehmen. Ausgeschlossen sind die Veranstaltungen der
+Module PHY-B-P 11 „Mathematik für Physiker“, PHY-B-P
+2 „Mathematische Methoden und Lineare Algebra“ und die
+Lehrveranstaltungen Analysis II und Analysis III.
+4. Qualifikationsziele des Moduls / zu Die Studierenden besitzen über die Pflichtmodule
+erwerbende Kompetenzen: des Physikstudiums hinausgehende Kenntnisse in
+ausgewählten Bereichen der Mathematik. Sie verfügen
+über Erfahrungen mit wissenschaftlichen Fragestellungen
+und Arbeitstechniken der Mathematik.
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: Analysis I, Analysis II für Physiker, Lineare Algebra I,
+weitere empfohlene Voraussetzungen werden in den
+Vorlesungsbeschreibungen angegeben
+b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc. Physik
+7. Angebotsturnus des Moduls: WS, SS
+8. Das Modul kann absolviert werden in: 2 Semestern
+9. Empfohlenes Fachsemester: 3
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 480
+davon:
+1. Präsenzzeit: 12 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 300 Std.
+Leistungspunkte: 16
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+50Modul: PHY-B-WE03
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+PHY- Wahlpflicht Übung Lineare Algebra II (10 LP, aus 8 erfolgreiche Teilnahme an den Übungen
+B - Vorlesung Modul BGLA)
+WE03 .1
+PHY- Wahlpflicht Übung Numerik I (10 LP, aus Modul 8 erfolgreiche Teilnahme an den Übungen
+B - Vorlesung BPraMa1)
+WE03 .2
+PHY- Wahlpflicht Übung Algebra (10 LP, aus Modul BAlg1) 8 erfolgreiche Teilnahme an den Übungen
+B - Vorlesung
+WE03 .3
+PHY- Wahlpflicht Übung Analysis auf Mannigfaltigkeiten (9 6 erfolgreiche Teilnahme an den Übungen
+B - Vorlesung LP, aus Modul BAn2)
+WE03 .4
+PHY- Wahlpflicht Übung Einführung in die 6 erfolgreiche Teilnahme an den Übungen
+B - Vorlesung Wahrscheinlichkeitstheorie
+WE03 .5 und Statistik (9 LP, aus Modul
+BPraMa2)
+PHY- Wahlpflicht weitere Vorlesungen und Seminare
+B - aus dem Veranstaltungsangebot
+WE03 .6 der Mathematik
+51Modul: PHY-B-WE03
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+PHY- weitere Vorlesungen und Seminare siehe Bemerkungen
+B -WE aus dem Veranstaltungsangebot
+0 3.6 der Mathematik
+PHY- Lineare Algebra II Klausur oder mündliche
+B - Prüfung, 120 – 240
+WE03 .1 min. oder 25 – 40 min.,
+Anteil an Modulnote
+siehe Bemerkungen
+PHY- Numerik I Klausur oder mündliche
+B - Prüfung, 120 – 240
+WE03 .2 min. oder 25 – 40 min.,
+Anteil an Modulnote
+siehe Bemerkungen
+PHY- Algebra Klausur oder mündliche
+B - Prüfung, 120 – 240
+WE03 .3 min. oder 25 – 40 min.,
+Anteil an Modulnote
+siehe Bemerkungen
+PHY- Analysis auf Mannigfaltigkeiten Klausur oder mündliche
+B - Prüfung, 120 – 240
+WE03 .4 min. oder 25 – 40 min.,
+Anteil an Modulnote
+siehe Bemerkungen
+PHY- Einführung in die Klausur oder mündliche
+B - Wahrscheinlichkeitstheorie Prüfung, 120 – 240
+WE03 .5 und Statistik min. oder 25 – 40 min.,
+Anteil an Modulnote
+siehe Bemerkungen
+13. Bemerkungen:
+Die Modulteilprüfungen können benotet oder unbenotet sein. Der Anteil der benoteten Modulteilprüfungen
+muss sich auf Leistungen im Umfang von mindestens 8 LP beziehen. Die Modulnote ergibt sich wahlweise
+aus einer Prüfungsleistung mit einem Kompetenzbereich von mindestens 8 LP. Alle Informationen zu den
+Prüfungen und Studienleistungen sind den Veranstaltungsbeschreibungen der Mathematik zu entnehmen.
+52Modul: PHY-B-WE04
+Modul: PHY-B-WE04
+Gültig ab WS11/12 bis WS11/12 / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Ergänzungsfach Volkswirtschaftslehre
+2. Fachgebiet / Verantwortlich: Fakultät für Wirtschaftswissenschaften, der Studiendekan
+3. Inhalte des Moduls: Inhalte der Lehrveranstaltungen
+(Pflichtveranstaltungen):
+PHY-B-WE 4.1: Makroökonomik I (6 LP)
+PHY-B-WE 4.2: Mikroökonomik I (6 LP)
+PHY-B-WE 4.3: Makroökonomik II (6 LP)
+PHY-B-WE 4.4: Mikroökonomik II (6 LP)
+Wahlweise einer der Inhalte der Veranstaltungen
+(Wahlpflichtveranstaltungen):
+PHY-B-WE 4.5: Mathematik (6 LP)
+PHY-B-WE 4.6: Methoden der VWL (6 LP)
+PHY-B-WE 4.7: Ökonometrie I (6 LP)
+4. Qualifikationsziele des Moduls / zu Makroökonomik I:
+erwerbende Kompetenzen:
+Die Studierenden werden mit zentralen makro-
+ökonomischen Fakten und Institutionen vertraut gemacht.
+Sie lernen, wie sich gesamtwirtschaft-liche Aggregate
+wie das Bruttoinlandsprodukt und die Inflationsrate im
+wechselseitigen Zusammenspiel bestimmen und wie
+wirtschaftspolitische Maßnahmen darauf einwirken.
+Makroökonomik II:
+Die Studierenden werden mit zentralen makro-
+ökonomischen Fakten und Institutionen vertraut gemacht.
+Sie lernen, wie sich gesamtwirtschaftliche Aggregate
+wie das Bruttoinlandsprodukt und die Inflationsrate
+im wechselseitigen Zusammenspiel bestimmen und
+insbesondere wie die Zentralbank mit ihrer Geldpolitik
+sowie die öffentliche Hand mit ihrer Haushaltspolitik
+hierauf einwirken kann.
+Mikroökonomik I:
+Nach Abschluss des Moduls können die Studierenden
+das Verhalten von Marktteilnehmern theoretisch
+beschreiben und die Ergebnisse von Marktallokationen
+unter Wohlfahrtsgesichtspunkten einzuschätzen. Darüber
+hinaus sind die Studierenden nach Abschluss des
+Moduls mit der Grundlagen der strategischen Interaktion
+(zwischen Firmen im Rahmen der Oligopoltheorie und
+53Modul: PHY-B-WE04
+Spielern im Rahmen der allgemeinen Spieltheorie)
+vertraut.
+Mikroökonomik II:
+Nach Abschluss des Moduls können die Studierenden
+die grundlegenden mikro-ökonomischen Methoden
+zur Analyse der Entscheidungsfindungsprozesse von
+Individuen und Unternehmen benennen und aufzeigen,
+wie diese zur Analyse eingesetzt werden können. Darüber
+hinaus sind die Studierenden nach Abschluss des
+Moduls in der Lage in Abhängigkeit der betrachteten
+ökonomischen Rahmenbedingungen, Vorhersagen
+über das Verhalten von Individuen und Unternehmen
+zu machen, und die einzel- und gesamtwirtschaftliche
+Effizienz dieser Entscheidungen zu beleuchten.
+Mathematik:
+Ziele des Moduls sind die Vermittlung der für ein
+wirtschaftswissenschaftliches Studium benötigten
+Grundlagen aus Analysis und linearer Algebra sowie
+die Einführung in die mathematische Modellierung und
+Lösung ökonomischer Probleme.
+Methoden der VWL:
+Die Studierenden werden mit den gängigen Methoden
+der ökonomischen Theoriebildung vertraut gemacht:
+Optimierungsverfahren sowie Differenzengleichungen
+zur Beschreibung intertemporaler Phänomene. Sie
+lernen die grundlegenden Verfahrensweisen sowie deren
+Anwendung auf konkrete ökonomische Sachverhalte,
+wie z.B. Nutzen- und Gewinnmaximierung, die
+Stabilität dynamischer ökonomischer Systeme und
+Konjunkturanalyse.
+Ökonometrie I:
+Nach Abschluss des Moduls können die Studierenden
+die Grundlagen ökonometrischer Werkzeuge und die
+zugrunde liegende ökonometrische Theorie benennen
+und aufzeigen, wie diese in der empirischen Analyse
+eingesetzt werden können. Darüber hinaus sind die
+Studierenden nach Abschluss des Moduls in der Lage,
+eigenständig die gelernten Verfahren anzuwenden, um
+damit einfache empirisch-ökonometrische Analysen
+durchzuführen und dabei auch die Unsicherheit der
+Ergebnisse zu bewerten. Die Übung vertieft die Inhalte
+der Vorlesung mit selbst zu lösenden Aufgaben und
+empirischen Beispielen und versetzt die Studierenden
+54Modul: PHY-B-WE04
+in die Lage, mit ökonometrischer Software (EViews)
+umzugehen.
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: Mikroökonomik I: Grundlagen der Differential- und
+Integralrechnung
+Mikroökonomie II: Mikroökonomie I
+Makroökonomik II: Makroökonomik I
+Methoden der VWL: Mathematik für
+Wirtschaftswissenschaftler
+Ökonometrie I: Statistik I und Statistik II
+b) verpflichtende Nachweise: nicht angegeben
+6. Verwendbarkeit des Moduls: Bachelor Physik
+7. Angebotsturnus des Moduls: jährlich
+8. Das Modul kann absolviert werden in: 2 Semestern
+9. Empfohlenes Fachsemester: 1
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 480
+davon:
+1. Präsenzzeit: 20 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 180 Std.
+Leistungspunkte: 16
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+55Modul: PHY-B-WE04
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+PHY- Pflicht Übung Makroökonomik I 4
+B - Vorlesung
+WE04 .1
+PHY- Pflicht Übung Mikrooökonomik I 4
+B - Vorlesung
+WE04 .2
+PHY- Pflicht Übung Makroökonomik II 4
+B - Vorlesung
+WE04 .3
+PHY- Pflicht Übung Mikroökonomik II 4
+B - Vorlesung
+WE04 .4
+PHY- Wahlpflicht Übung Mathematik 4
+B - Vorlesung
+WE04 .5
+PHY- Wahlpflicht Übung Methoden der VWL 4
+B - Vorlesung
+WE04 .6
+PHY- Wahlpflicht Übung Ökonometrie I 4 Lösen von Übungsaufgaben
+B - Vorlesung
+WE04 .7
+56Modul: PHY-B-WE04
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+PHY- Mikroökonomik II Klausur 90 Minuten Erste bis vierte Woche 19%
+B -WE nach Vorlesungsende
+0 4.4a
+PHY- Mikroökonomik II 45 Minuten Fallstudien zur 1%
+B -WE experimentellen
+0 4.4b Wirtschaftsforschung -
+während der Vorlesungszeit
+PHY- Ökonometrie I Klausur 90 Minuten Erste bis vierte Woche 16,7%
+B -WE nach Vorlesungsende
+0 4.7a
+PHY- Ökonometrie I 40 Minuten Kurzpräsentation von 1,67%
+B -WE Übungsaufgaben
+0 4.7b
+PHY- Ökonometrie I Klausur 30 Minuten Lernzielkontrolle (Kurzklausur) 1,67%
+B -WE - während der Vorlesungszeit
+0 4.7c
+PHY- Makroökonomik I Klausur 60 Minuten Erste bis vierte Woche 20%
+B - nach Vorlesungsende
+WE04 .1
+PHY- Mikroökonomik I Klausur 60 Minuten Erste bis vierte Woche 20%
+B - nach Vorlesungsende
+WE04 .2
+PHY- Makroökonomik II Klausur 60 Minuten Erste bis vierte Woche 20%
+B - nach Vorlesungsende
+WE04 .3
+PHY- Mathematik Klausur 90 Minuten 20%
+B -
+WE04 .5
+PHY- Methoden der VWL Klausur 90 Minuten Erste bis vierte Woche 20%
+B - nach Vorlesungsende
+WE04 .6
+13. Bemerkungen:
+Das Modul ist bestanden, wenn die Prüfungen zu den Pflichtbestandteilen WE 4.1 bis WE 4.4 sowie die
+Prüfung(en) zu der jeweiligen Wahlveranstaltung WE 4.5 / WE 4.6 / WE 4.7 bestanden ist/sind. Die Fakultät
+für Wirtschaftswissenschaften vergibt dafür 30 LP, für das Ergänzungsfach werden von der Fakultät für
+Physik 16 LP angerechnet. Ein Teil der restlichen Punkte kann im Bachelor-Wahlbereich angrechnet
+werden. Durch die Übungsaufgaben werden die Inhalte der Vorlesung mit selbst zu lösenden Aufgaben
+und empirischen Beispielen vertieft. So werden die Studierenden in die Lage versetzt, mit ökonometrischer
+Software (EViews) umzugehen. Im Weiteren weisen die Studierenden während des Moduls die Fähigkeit
+nach, dass sie die für die Lösung von Übungsaufgaben erarbeitete methodische Vorgehensweise sowie
+die gewonnenen Ergebnisse auch mündlich vortragen und begründen können. Darüber hinaus weisen sie
+während des Moduls einmalig nach, dass sie bereits erlernte Verfahren schriftlich darstellen und damit
+einfache Probleme bearbeiten können.
+57Modul: PHY-B-WE05
+Modul: PHY-B-WE05
+Gültig ab WS07/08 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Ergänzungsfach Wissenschaftsgeschichte
+2. Fachgebiet / Verantwortlich: Prof. Dr. Christoph Meinel
+Fakultät für PKGG
+3. Inhalte des Moduls: Siehe Modulbeschreibungen für das Frei kombinierbare
+Nebenfach (FKN): Absolviert werden muss das Modul
+WIG-M 01; an Stelle des Seminars WIG-M 01.5 kann auch
+das Hauptseminar WIG-M 02.3 eingebracht werden.
+Das Modul vermittelt einen Überblick über zwei
+große Epochen der Wissenschaftsgeschichte und
+führt an Fragestellungen und unterschiedliche
+Forschungspositionen des Faches heran. Wissenschaft
+wird dabei in ihren Wechselwirkungen mit Kultur und
+Gesellschaft als historischer Prozess dargestellt.
+4. Qualifikationsziele des Moduls / zu Vermittlung der Kenntnisse und Methoden, die zur
+erwerbende Kompetenzen: historischen Reflexion über Wissenschaft sowie zur
+interdisziplinären Kommunikation über Wissenschaft
+befähigen.
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: keine
+b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: B.Sc. Physik
+7. Angebotsturnus des Moduls: WS, SS
+8. Das Modul kann absolviert werden in: 2 Semestern
+9. Empfohlenes Fachsemester: 1 bis 3
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 480
+davon:
+1. Präsenzzeit: 10 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 330 Std.
+Leistungspunkte: 16
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+58Modul: PHY-B-WE05
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+PHY- Pflicht Vorlesung Vorlesung 2
+B - Wissenschaftsgeschichte I
+WE05 .1
+(W IG-
+M0 1.1)
+PHY- Pflicht Tutorium zur Vorlesung I 2
+B -
+WE05 .2
+(W IG-
+M0 1.2)
+PHY- Pflicht Vorlesung Vorlesung 2
+B - Wissenschaftsgeschichte II
+WE05 .3
+(W IG-
+M0 1.3)
+PHY- Pflicht Tutorium zur Vorlesung II 2
+B -
+WE05 .4
+(W IG-
+M0 1.4)
+PHY- Wahlpflicht Seminar Seminar 2
+B -
+WE05 .5
+(W IG-
+M0 1.5)
+PHY- Wahlpflicht Hauptseminar Hauptseminar 2
+B -
+WE05 .6
+(W IG-
+M0 2.3)
+59Modul: PHY-B-WE05
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+PHY-B Tutorium zur Vorlesung II 2 Essays, bis Semesterende
+-WE05
+(WIG -
+M01. 4)
+PHY- Vorlesung Klausur 1 Stunden Semesterende 1/6
+B - Wissenschaftsgeschichte I
+WE05 .1
+(W IG-
+M0 1.1)
+PHY- Tutorium zur Vorlesung I 2 Essays, bis Semesterende 1/6
+B -
+WE05 .2
+(W IG-
+M0 1.2)
+PHY- Vorlesung Klausur 1 Stunden Semesterende 1/6
+B - Wissenschaftsgeschichte II
+WE05 .3
+(W IG-
+M0 1.3)
+PHY- Seminar/Übung Referat/Hausarbeit, 2/6
+B - bis Semesterende
+WE05 .5
+(W IG-
+M0 1.5)
+PHY- Hauptseminar Referat/Hausarbeit, 2/6
+B - bis Semesterende
+WE05 .6
+(W IG-
+M0 2.3)
+13. Bemerkungen:
+Absolviert werden muss das Modul WIG-M 01; an Stelle des Seminars WIG-M 01.5 kann auch das
+Hauptseminar WIG-M 02.3 eingebracht werden. Die Fakultät für Physik erkennt davon 16 LP für das
+Ergänzungsfach Wissenschaftsgeschichte an. Die Prüfungsmodalitäten werden von der Fakultät für
+PKGG bestimmt. Alle nötigen Prüfungsleistungen sowie die Gesamtnote müssen in der Fakultät für PKGG
+vergeben werden. Die Reihenfolge, in denen die Vorlesungen besucht werden, ist freigestellt; es muss sich
+nur um zwei verschiedene Vorlesungen handeln.
+60Modul: PHY-B-WE06
+Modul: PHY-B-WE06
+Gültig ab WS11/12 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Ergänzungsfach Philosophie
+2. Fachgebiet / Verantwortlich: Institut für Philosophie, Prof. Dr. Hans Rott
+3. Inhalte des Moduls: Das Ergänzungsfach Philosophie vermittelt sowohl
+Kenntnisse der Philosophie im Überblick als auch
+Kenntnisse zu Einzelthemen der Philosophie nach freier
+Wahl und Interesse der Studierenden.
+Die Teilmodule 1–4, von denen mind. eines gewählt
+werden muss, führen in Grundbegriffe und -probleme
+jeweils eines der Hauptbereiche der Philosophie ein,
+nämlich der Geschichte der Philosophie (von der Antike
+bis zur Gegenwart), der Praktischen Philosophie (insb.
+Ethik), der Theoretischen Philosophie (insb. Erkenntnis-
+und Wissenschaftstheorie, Philosophie des Geistes,
+Sprachphilosophie, Metaphysik) oder der modernen Logik
+(insb. Aussagen- und Prädikatenlogik und ihr Einsatz zur
+Analyse von Aussagen und Argumenten).
+Die Teilmodule 5–7 dienen einer Vertiefung der
+philosophischen Kenntnisse und Kompetenzen
+nach eigener Wahl, insbesondere in physiknahen
+Bereichen der Philosophie (z.B. Wissenschaftstheorie,
+Wissenschaftsethik, Philosophie der Mathematik,
+Philosophische Logik, Formale Philosophie).
+4. Qualifikationsziele des Moduls / zu Die Studierenden kennen und verstehen Grundbegriffe
+erwerbende Kompetenzen: mind. eines Hauptbereichs der Philosophie und können
+diese einsetzen, um in diesem Bereich der Philosophie
+grundlegende Probleme zu identifizieren, grundlegende
+Theorien zu formulieren und grundlegende Argumente für
+und wider solche Theorien abzuwägen.
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: keine
+b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc. Physik
+7. Angebotsturnus des Moduls:
+8. Das Modul kann absolviert werden in: 2 Semestern
+9. Empfohlenes Fachsemester: 1 bis 4
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 480
+davon:
+1. Präsenzzeit: 8 SWS
+61Modul: PHY-B-WE06
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 360 Std.
+Leistungspunkte: 16
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+PHY- Wahlpflicht Übung Einführung in die Geschichte der 4 qualifizierte Teilnahme, kleinere schriftliche
+B - Vorlesung Philosophie (9 LP) Leistung
+WE06 .1
+PHY- Wahlpflicht Übung Einführung in die Praktische 4 qualifizierte Teilnahme, kleinere schriftliche
+B - Vorlesung Philosophie (9 LP) Leistung
+WE06 .2
+PHY- Wahlpflicht Übung Einführung in die Theoretische 4 qualifizierte Teilnahme, kleinere schriftliche
+B - Vorlesung Philosophie (9 LP) Leistung
+WE06 .3
+PHY- Wahlpflicht Übung Einführung in die moderne Logik (9 4 qualifizierte Teilnahme, Bearbeitung von
+B - Vorlesung LP) Übungsblättern
+WE06 .4
+PHY- Wahlpflicht Proseminar Proseminar zu einem qualifizierte Teilnahme (2-3 SWS)
+B - philosophischen Thema (6 LP)
+WE06 .5
+PHY- Wahlpflicht Hauptseminar Hauptseminar zu einem qualifizierte Teilnahme (2-3 SWS)
+B - physiknahen Thema der
+WE06 .6 Philosophie (7 LP)
+PHY- Wahlpflicht Vorlesung Lehrveranstaltung zu einem qualifizierte Teilnahme (2-3 SWS), Klausur
+B - Proseminar philosophischen Thema (4 LP) oder kleinere schriftliche Leistung
+WE06 .7 Hauptseminar
+62Modul: PHY-B-WE06
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+PHY- Geschichte der Philosophie Klausur Dauer 45-90 Minuten zum gewichtet
+B - Ende der Vorlesungszeit nach LP
+WE06 .1
+PHY- Praktische Philosophie Klausur Klausur in zwei Teilklausuren, gewichtet
+B - je 45-90 Minuten zum nach LP
+WE06 .2 Ende der Vorlesungszeit
+PHY- Theoretische Philosophie Klausur Dauer 45-90 Minuten zum gewichtet
+B - Ende der Vorlesungszeit nach LP
+WE06 .3
+PHY- Moderne Logik Klausur Dauer 45-90 Minuten zum gewichtet
+B - Ende der Vorlesungszeit nach LP
+WE06 .4
+PHY- Proseminar zu einem Hausarbeit oder Essays, gewichtet
+B - philosophischen Thema 10-15 Seiten, zum nach LP
+WE06 .5 Ende des Semesters
+PHY- HS Physiknahes Hausarbeit, 15-20 Seiten, gewichtet
+B - Thema der Philosophie zum Ende des Semesters nach LP
+WE06 .6
+PHY- Lehrveranstaltung zu einem gewichtet
+B - philosophischen Thema (4 LP) nach LP
+WE06 .7
+13. Bemerkungen:
+Es muss mindestens eines der Teilmodule 1 bis 4 belegt werden. Die weiteren Teilmodule müssen
+so gewählt werden, dass insgesamt mindestens 16 LP erreicht werden. Im Teilmodul 5 können alle
+Proseminare im Fach Philosophie gewählt werden (Ausnahmen: Fachdidaktik, Studientechniken).
+Im Teilmodul 6 können Hauptseminare zu physiknahen Themen der Philosophie gewählt werden,
+insbesondere Wissenschaftstheorie, Wissenschaftsethik, Philosophie der Mathematik, Philosophische
+Logik und Formale Philosophie. Im Teilmodul 7 sind alle Lehrveranstaltungen, die auch in den Teilmodulen
+5 oder 6 wählbar sind, sowie ggf. weitere Vorlesungen wählbar. Jedes Teilmodul kann nur einmal gewählt
+werden. Teilmodul 7 ist unbenotet, alle anderen Teilmodule sind benotet. Die Modulnote setzt sich aus dem
+nach LP gewichteten Durchschnitt aller benoteten Teilmodule zusammen.
+63Modul: PHY-B-WE07
+Modul: PHY-B-WE07
+Gültig ab WS11/12 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Ergänzungsfach Betriebswirtschaftslehre
+2. Fachgebiet / Verantwortlich: Fakultät für Wirtschaftswissenschaften, der Studiendekan
+3. Inhalte des Moduls: Inhalte der Lehrveranstaltungen
+(Pflichtveranstaltungen):
+PHY-B-WE 7.1: Buchhaltung (6 LP)
+PHY-B-WE 7.2: Investition (6 LP)
+PHY-B-WE 7.3: Finanzierung (6 LP)
+PHY-B-WE 7.4: Grundlagen des Marketing (6 LP)
+PHY-B-WE 7.5: Kosten- und Leistungsrechnung (6 LP)
+4. Qualifikationsziele des Moduls / zu Buchhaltung:
+erwerbende Kompetenzen:
+Nach dem erfolgreichen Abschluss des Moduls
+haben die Studierenden grundlegende Kenntnisse
+des betrieblichen Rechnungswesens, insbesondere
+der Buchhaltung, erfahren. Sie sind in der Lage,
+unterschiedliche betriebliche Sachverhalte auf den
+entsprechenden Konten zu verbuchen. Die Studierenden
+können die Auswirkungen der erfassten Sachverhalte
+auf die Vermögens-, Finanz- und Ertragslage eines
+Unternehmens einschätzen. Außerdem wissen sie,
+wie auf Basis der Buchhaltung grundsätzlich ein
+Jahresabschluss zu erstellen ist.
+Investition:
+Die Studierenden sind nach Abschluss des Moduls
+in der Lage, die wesentlichen Verfahren der
+Investitionsrechnung anzuwenden. Hierzu zählen
+insbesondere die dynamischen Verfahren Barwert-, End-
+und Kapitalwertberechnung, interner Zinsfuß, vollständige
+Finanzpläne (VOFI), Renten- und Annuitätenrechnungen
+sowie unsicherheitsaufdeckende Verfahren, insbesondere
+Sensitivitätsanalyse. Ein wesentliches Lernziel ist dabei
+ein Verständnis von Möglichkeiten und Grenzen des
+Einsatzes dieser Verfahren.
+Finanzierung:
+Nach erfolgreicher Beendigung dieses Moduls können
+die Studierenden die Grundbegriffe der Finanzierung,
+insbesondere die verschiedenen Finanzierungsformen,
+benennen und definieren. Sie können die wesentlichen
+theoretischen Konzepte der Finanzierungslehre wie
+das Kapitalwertprinzip wiedergeben. Sie können
+den Kapitalwert berechnen und verschiedene
+Finanzinstrumente in einfachen Anwendungssituationen
+64Modul: PHY-B-WE07
+bewerten. Die Studierenden können finanzwirtschaftliche
+Basisprobleme der Betriebswirtschaft in stilisierter Form
+lösen, also die wesentlichen betriebswirtschaftlichen
+Entscheidungen in den Teilbereichen wie Investition
+und Finanzierung vornehmen. Dazu gehören etwa
+Entscheidungen für oder gegen die Durchführung
+möglicher Projekte.
+Grundlagen des Marketing:
+Überblick über die Grundlagen marktorientierter
+Unternehmensplanung, Entscheidungsrechnung,
+Käuferverhalten und der klassischen Marketing-
+Instrumente, um Marketing-Entscheidungen im
+Unternehmen zu verstehen. Die Studierenden können
+nach Abschluss des Moduls kleinere Problemstellungen
+selbstständig lösen.
+Kosten- und Leistungsrechnung:
+Nach dem erfolgreichen Abschluss des Moduls sind
+die Studierenden in der Lage, die Aufgaben und
+Möglichkeiten der Kosten- und Leistungsrechnung im
+betrieblichen Rechnungswesen richtig einzuordnen. Die
+Studierenden kennen die Unterschiede zwischen der
+Kostenarten-, Kostenstellen- und Kostenträgerrechnung
+und deren Aussagekraft. Außerdem können die
+Studierenden die Kostenrechnung für Planungs- und
+Kontrollzwecke einsetzen und auswerten.
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: Kosten- und Leistungsrechnung: Buchhaltung
+Restliche Module: Keine
+b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: Bachelor Physik
+7. Angebotsturnus des Moduls: jährlich
+8. Das Modul kann absolviert werden in: 2 Semestern
+9. Empfohlenes Fachsemester: 2
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 480
+davon:
+1. Präsenzzeit: 20 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 180 Std.
+Leistungspunkte: 16
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+65Modul: PHY-B-WE07
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+PHY- Pflicht Übung Buchhaltung 4
+B - Vorlesung
+WE07 .1
+PHY- Pflicht Übung Investition 4
+B - Vorlesung
+WE07 .2
+PHY- Pflicht Übung Finanzierung 4
+B - Vorlesung
+WE07 .3
+PHY- Pflicht Übung Grundlagen des Marketing 4
+B - Vorlesung
+WE07 .4
+PHY- Pflicht Übung Kosten- und Leistungsrechnung 4
+B - Vorlesung
+WE07 .5
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+PHY- Buchhaltung Klausur 90 Minuten Erste bis vierte Woche 1/5
+B - nach Vorlesungsende
+WE07 .1
+PHY- Investition Klausur 90 Minuten Erste bis vierte Woche 1/5
+B - nach Vorlesungsende
+WE07 .2
+PHY- Finanzierung Klausur 90 Minuten Erste bis vierte Woche 1/5
+B - nach Vorlesungsende
+WE07 .3
+PHY- Grundlagen des Marketing Klausur 90 Minuten Erste bis vierte Woche 1/5
+B - nach Vorlesungsende
+WE07 .4
+PHY- Kosten- und Leistungsrechnung Klausur 90 Minuten Erste bis vierte Woche 1/5
+B - nach Vorlesungsende
+WE07 .5
+13. Bemerkungen:
+Das Modul ist bestanden, wenn alle fünf Pflichtprüfungen von Punkt 12 bestanden sind. Die Fakultät
+für Wirtschaftswissenschaften vergibt dafür 30 LP, für das Ergänzungsfach werden von der Fakultät für
+Physik 16 LP angerechnet. Die restlichen Punkte können zum Teil im Wahlbereich des Bachelor-Studiums
+Physik eingebracht werden. Buchhaltung und Kosten- und Leistungsrechnung: Die Wiederholungsprüfung
+ist grundsätzlich nicht für Erstschreiber offen (Ausnahmen: Krankheit und Auslandsaufenthalt).
+Angebotsturnus: Buchhaltung / Investition / Finanzierung / Grundlagen des Marketing jeweils im
+Wintersemester, Kosten- und Leistungsrechnung im Sommersemester
+66Modul: PHY-B-WE08
+Modul: PHY-B-WE08
+Gültig ab WS11/12 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Ergänzungsfach Wirtschaftsinformatik
+2. Fachgebiet / Verantwortlich: Fakultät für Wirtschaftswissenschaften, der Studiendekan
+3. Inhalte des Moduls: Inhalte der Lehrveranstaltungen
+(Pflichtveranstaltungen):
+PHY-B-WE 8.1: Einführung in die Betriebswirtschaftslehre
+(erste Woche des WS)
+PHY-B-WE 8.2: Betriebliche Informationssysteme (6 LP)
+PHY-B-WE 8.3: Datenbanken im Unternehmen (6 LP)
+PHY-B-WE 8.4: Leistungserstellung (6 LP)
+PHY-B-WE 8.5: Objektorientierte Programmierung (6 LP)
+PHY-B-WE 8.6: Unternehmensmodellierung (6 LP)
+4. Qualifikationsziele des Moduls / zu Betriebliche Informationssysteme:
+erwerbende Kompetenzen:
+Die Studierenden werden in die Lage versetzt, den
+Einsatz, die Funktionalitäten und die Nutzungsformen
+betrieblicher und überbetrieblicher Informationssysteme
+zu erkennen und eine Klassifikation der unterschiedlichen
+Informationssysteme vorzunehmen. Die vermittelten
+Inhalte werden durch reale Fallstudien aus der
+betrieblichen Praxis veranschaulicht.
+Datenbanken im Unternehmen:
+Die Studierenden sind nach erfolgreichem Abschluss
+des Kurses in der Lage, Datenbankentwürfe von der
+Anforderungsanalyse über den konzeptuellen bis hin
+zum logischen Entwurf selbständig vorzunehmen.
+Zudem sind sie in der Lage, standard-konforme SQL-
+Abfragen auf komplexe Datenquellen zu erstellen und
+ein kommerzielles Datenbanksystem administrativ zu
+bedienen. Im Weiteren weisen die Studierenden des
+Moduls nach, dass sie die erarbeiteten Entwurfstechniken
+im Rahmen einer Fallstudie praktisch anwenden und
+einsetzten können.
+Leistungserstellung:
+Die Studierenden sollen Entscheidungsprobleme
+der betrieblichen Leistungserstellung, d.h. des
+Produktionsmanagements, insbesondere der
+Produktionsplanung und –steuerung kennen lernen
+sowie mit theoretisch geeigneten und praktisch erprobten
+Lösungskonzepten vertraut gemacht werden.
+67Modul: PHY-B-WE08
+Objektorientierte Programmierung:
+Einführung in die Softwareentwicklung anhand der
+objektorientierten Programmiersprache Java. Aneignen
+eines guten Programmierstils und selbständige Lösung
+von Programmierproblemen. Erlernen grundlegender
+Techniken des Software-Engineerings und moderner
+Softwareentwicklungsprinzipien: Objektorientierung,
+Decomposition, Encapsulation, Abstraction und Testing.
+Software-Entwicklung kann nur durch praktische
+Anwendung und Programmierung erlernt und verstanden
+werden. Studenten weisen deshalb nach Abschluss
+des Moduls die Fähigkeit nach, dass sie die erlernten
+Konzepte und Programmierprobleme anwenden und
+praktisch umsetzen können.
+Unternehmensmodellierung:
+Nach Abschluss des Moduls können die Studierenden
+verschiedene Techniken für die Gestaltung und
+Modellierung eines Unternehmens benennen und
+aufzeigen, mit welcher Zielsetzung diese eingesetzt
+werden können. Darüber hinaus sind die Studierenden
+nach Abschluss des Moduls in der Lage in Abhängigkeit
+der gewählten Zielsetzung, die Techniken im Rahmen von
+Methoden an Fallstudien anzuwenden. Die Übung vertieft
+die Inhalte der Vorlesung an Beispielen und versetzt die
+Studierenden in die Lage, mit folgenden Werkzeugen zur
+Unternehmensmodellierung umzugehen: ARIS Toolset
+und Oracle Designer.
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: Objektorientierte Programmierung: Tutorial über Karel the
+Robot
+Leistungserstellung: Quantitative Grundlagen aus der
+Studienphase 1
+b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: Bachelor Physik
+7. Angebotsturnus des Moduls: jährlich
+8. Das Modul kann absolviert werden in: 2 Semestern
+9. Empfohlenes Fachsemester: 2
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 480
+davon:
+1. Präsenzzeit: 22 SWS
+68Modul: PHY-B-WE08
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 150 Std.
+Leistungspunkte: 16
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+PHY- Pflicht Übung Einführung in die
+B - Vorlesung Betriebswirtschaftslehre (erste
+WE08 .1 Woche des WS)
+PHY- Pflicht Übung Betriebliche Informationssysteme 4
+B - Vorlesung
+WE08 .2
+PHY- Pflicht Übung Datenbanken im Unternehmen 4
+B - Vorlesung
+WE08 .3
+PHY- Pflicht Übung Leistungserstellung 4
+B - Vorlesung
+WE08 .4
+PHY- Pflicht Übung Objektorientierte Programmierung 4
+B - Vorlesung
+WE08 .5
+PHY- Pflicht Übung Unternehmensmodellierung 4
+B - Vorlesung
+WE08 .6
+69Modul: PHY-B-WE08
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+PHY- Unternehmensmodellierung Klausur 60 Minuten Erste bis vierte Woche 20%
+B -WE nach Vorlesungsende
+0 8.6
+PHY- Betriebliche Informationssysteme Klausur 90 Minuten Ende des 20%
+B - Vorlesungszeitraumes
+WE08 .2 bzw. erste bis vierte Woche
+nach Vorlesungsende
+PHY- Datenbanken im Unternehmen Klausur 90 Minuten Erste bis vierte Woche 15%
+B - nach Vorlesungsende
+WE08 .3a
+PHY- Datenbanken im Unternehmen 30 Minuten Fallstudie - während 5%
+B - der Vorlesungszeit
+WE08 .3b
+PHY- Leistungserstellung Klausur 60 Minuten Erste bis vierte Woche 20%
+B - nach Vorlesungsende
+WE08 .4
+PHY- Objektorientierte Programmierung Klausur 60 Minuten Regulärer Prüfgungszeitraum, 15%
+B - muss bestanden werden
+WE08 .5a
+PHY- Objektorientierte Programmierung Abgabe von Übungsaufgaben 5%
+B - (2-wöchige Abgabe).
+WE08 .5b Verpflichtend, während des
+Semesters zu absolvieren
+13. Bemerkungen:
+Das Modul ist bestanden, wenn alle Prüfungen aus Abschnitt 12 bestanden sind. Die Fakultät für
+Wirtschaftswissenschaften vergibt dafür 30 LP, für das Ergänzungsfach werden von der Fakultät
+für Physik 16 LP angerechnet. Die restlichen Punkte können teilweise im Wahlbereich von Bachelor
+Physik angerechnet werden. Einführung in die Betriebswirtschaftslehre: Es handelt sich um eine
+einmalige Einführungsveranstaltung, die nicht regelmäßig abgehalten wird. Es wird keine Studien- oder
+Prüfungsleistung erhoben. Datenbanken im Unternehmen: Die Studierenden weisen nach, dass sie die
+erarbeiteten Entwurfstechniken im Rahmen einer Fallstudie praktisch anwenden und einsetzen können.
+70Modul: PHY-B-WE09
+Modul: PHY-B-WE09
+Gültig ab WS12/13 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Ergänzungsfach Politikwissenschaft
+2. Fachgebiet / Verantwortlich: Fakultät für Philosophie, Kunst-, Geschichts - und
+Gesellschaftswissenschaften, der Studiendekan
+3. Inhalte des Moduls: Das Institut für Politikwissenschaft bietet je eine
+Basisvorlesung und eine Aufbauvorlesung für die im
+Folgenden genannten fünf Themenbereichen an.
+• Politische Philosophie
+• Westliche Regierungssyteme
+• Mittel- und osteuropäische Regierungssysteme
+• Internationale Politik
+• Methoden/Empirische Politikwissenschaft
+Jede Vorlesung schließt mit einer Klausur ab, die mit 4
+LP bewertet wird. Ein Studierender muss, nach freier
+Auswahl, insgesamt vier dieser acht Vorlesungen
+erfolgreich absolvieren. Zu den detaillierten Inhalten der
+Vorlesungen, siehe die Modulbeschreibungen des Instituts
+für Politikwissenschaft zu den Basis- und Aufbaumodulen.
+4. Qualifikationsziele des Moduls / zu Fachspezifische Kompetenzen:
+erwerbende Kompetenzen:
+• Die Studierenden verfügen über ein Verständnis
+für politikwissenschaftliche Fragestellungen
+sowie für zentrale theoretische Ansätze und
+Forschungskonzepte der Politikwissenschaft.
+Sie kennen die wichtigsten Begriffe der
+Politikwissenschaft und ihre Bedeutung. Sie sind in
+der Lage,  politikwissenschaftliche Fragestellungen
+zu bearbeiten und verfügen über Kenntnisse des
+wissenschaft-lichen Arbeitens für das Studium der
+Politikwissenschaft.
+• Die Studierenden kennen die wichtigsten
+erkenntnis- und messtheoretischen Grundlagen
+der qualitativen und quantitativen Methoden
+der Politikwissenschaft und verfügen über
+ein angemessenes politikwissenschaftliches,
+methodisches und methodologisches Fachvokabular.
+Sie sind in der Lage, empirische Arbeiten zu
+verstehen und deren Qualität einzuschätzen.
+Schlüsselkompetenzen:
+• Fähigkeit zum abstrakten Denken
+• kommunikative Kompetenz (schriftlich und
+mündlich) 
+71Modul: PHY-B-WE09
+• Argumentationsfähigkeit 
+• Methodenkenntnisse
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: keine
+b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: Bachelor Physik
+7. Angebotsturnus des Moduls: WS, SS
+8. Das Modul kann absolviert werden in: 2 Semestern
+9. Empfohlenes Fachsemester: 2
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 480
+davon:
+1. Präsenzzeit: 8 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 360 Std.
+Leistungspunkte: 16
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+72Modul: PHY-B-WE09
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+PHY- Wahlpflicht Vorlesung Einführung in die Politische 2
+B - Philosophie
+WE09 .1
+PHY- Wahlpflicht Vorlesung Einführung in Westliche 2
+B - Regierungssysteme
+WE09 .2
+PHY- Wahlpflicht Vorlesung Länderstudien Mittel- und 2
+B - Osteuropas / politische
+WE09 .3 Systeme, Völker und Nationen,
+gesellschaftliche und politische
+Entwicklung Mittel- und
+Osteuropas
+PHY- Wahlpflicht Vorlesung Einführung in die Internationale 2
+B - Politik
+WE09 .4
+PHY- Wahlpflicht Vorlesung Einführung in die Methoden der 2
+B - Politikwissenschaft
+WE09 .5
+PHY- Wahlpflicht Vorlesung Politische Philosophie 2
+B -
+WE09 .6
+PHY- Wahlpflicht Vorlesung Westliche Regierungssysteme 2
+B -
+WE09 .7
+PHY- Wahlpflicht Vorlesung Politische Systeme Mittel- und 2
+B - Osteuropas
+WE09 .8
+PHY- Wahlpflicht Vorlesung Spezialthema Internationale Politik 2
+B -
+WE09 .9
+PHY- Wahlpflicht Vorlesung Fortgeschrittene Methoden der 2
+B - Politikwissenschaft
+WE09 .A
+73Modul: PHY-B-WE09
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+PHY- Einführung in die Klausur 90 Minuten vor bzw. nach dem 1/4
+B - Politische Philosophie Semesterende
+WE09 .1
+PHY- Einführung in Westliche Klausur 90 Minuten vor bzw. nach dem 1/4
+B - Regierungssysteme Semesterende
+WE09 .2
+PHY- Länderstudien Mittel und Klausur 90 Minuten vor bzw. nach dem 1/4
+B - Osteuropas/ politische Semesterende
+WE09 .3 Systeme, Völker und Nationen,
+gesellschaftliche und politische
+Entwicklung Mittel- und Osteuropas
+PHY- Einführung in die Klausur 90 Minuten vor bzw. nach dem 1/4
+B - Internationale Politik Semesterende
+WE09 .4
+PHY- Einführung in die Methoden Klausur 90 Minuten vor bzw. nach dem 1/4
+B - der Politikwissenschaft Semesterende
+WE09 .5
+PHY- Politische Philosophie Klausur 90 Minuten vor bzw. nach dem 1/4
+B - Semesterende
+WE09 .6
+PHY- Westliche Regierungssysteme Klausur 90 Minuten vor bzw. nach dem 1/4
+B - Semesterende
+WE09 .7
+PHY- Politische Systeme Klausur 90 Minuten vor bzw. nach dem 1/4
+B - Mittel- und Osteuropas Semesterende
+WE09 .8
+PHY- Spezialthema Internationale Politik Klausur 90 Minuten vor bzw. nach dem 1/4
+B - Semesterende
+WE09 .9
+PHY- Fortgeschrittene Methoden Klausur 90 Minuten vor bzw. nach dem 1/4
+B - der Politikwissenschaft Semesterende
+WE09 .A
+13. Bemerkungen:
+Das Modul ist bestanden, wenn vier der unter 12. gelisteten Klausuren bestanden sind. Die Modulnote
+ergibt sich als Mittelwert der vier Klausurnoten. Die Fakultät für Physik vergibt dafür 16 LP für das
+Ergänzungsfach.
+74Modul: PHY-B-WE10
+Modul: PHY-B-WE10
+Gültig ab WS11/12 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Ergänzungsfach Bioinformatik
+2. Fachgebiet / Verantwortlich: Fakultät für Medizin, Prof. Dr. Rainer Spang
+3. Inhalte des Moduls: PHY-B-WE 10.1 Genomik und Bioinformatik I:
+In Wechsel werden einführende Themen der Biologie
+sowie der Biostatistik und Bioinformatik aufgegriffen.
+Aus biologischer Sicht wird ein Überblick über die
+Ebenen biologischer Interaktion und Regulation vom
+Gen zum Organismus gegeben. Dabei nimmt das
+Verstehen genomischer Daten wie Sequenz- und
+Molekülstrukturdaten eine zentrale Rolle ein. Probleme
+der Interpretation dieser Daten werden herausgearbeitet.
+Hier setzen dann Bioinformatik und Biostatistik ein.
+Die zugrunde liegenden Theorien werden anhand
+genomischer Daten entwickelt. Dabei stehen im ersten
+Semester diskrete Modelle aus Statistik und Algorithmik
+im Vordergrund.
+PHY-B-WE 10.2 Genomik und Bioinformatik II:
+Es werden im Wechsel Themen der Biomedizin und
+Bioinformatik dargestellt. Im Zentrum stehen krankhafte
+und physiologische Störungen der Organfunktion, die
+damit einhergehenden Störungen von Signalwegen
+und deren genetischen Ursachen. Der biomedizinische
+Kanon wird ergänzt durch Verfahren der medizinischen
+Bioinformatik und Biostatistik mit einem Schwerpunkt auf
+kontinuierlichen statistischen Modellen.
+4. Qualifikationsziele des Moduls / zu Die Studierenden sollen die Grundprinzipien der
+erwerbende Kompetenzen: Zellbiologie und Genomik kennen lernen und zeitgleich
+verstehen, welche Rolle der Computer in der modernen
+Genomforschung spielt. In den begleitenden Übungen
+im CIP-Pool sollen die Studierenden die Analyse
+genomischer Daten praktisch üben.
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: keine
+b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: Bachelor Physik
+7. Angebotsturnus des Moduls: SS, jährlich
+8. Das Modul kann absolviert werden in: 2 Semestern
+9. Empfohlenes Fachsemester: 1
+75Modul: PHY-B-WE10
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 480
+davon:
+1. Präsenzzeit: 16 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 240 Std.
+Leistungspunkte: 16
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+PHY- Pflicht Vorlesung Genomik und Bioinformatik I 4 Klausur (90 Min.) am Ende der Vorlesung
+B -
+WE10 .1a
+PHY- Pflicht Übung Genomik und Bioinformatik I 4
+B -
+WE10 .1b
+B-WE Pflicht Vorlesung Genomik und Bioinformatik II 4 Klausur (90 Min.) am Ende der Vorlesung
+10.2a
+PHY- Pflicht Übung Genomik und Bioinformatik II 4
+B -
+WE10 .2b
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+PHY- Genomik und Bioinformatik I und II Mündlich 30 Minuten nach erfolgreichem 1
+B -WE Absolvieren der
+1 0.1 Modulbestandteile
+13. Bemerkungen:
+Bevor mit Bioinformatik II begonnen werden kann, muss zunächst Bioinformatik I erfolgreich abgeschlossen
+werden. Die Übungen sind unterteilt in zwei SWS Übungen (anlehnend an die Vorlesungen) und zwei SWS
+mit allgemeinen Anleitungen zum Programmieren in der Bioinformatik.
+76Modul: PHY-B-WE11
+Modul: PHY-B-WE11
+Gültig ab SS 16 bis SS 19 / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Ergänzungsfach Biophysik
+2. Fachgebiet / Verantwortlich: Fakultät für Biologie, der Studiendekan
+3. Inhalte des Moduls: Einführende Themen der aktuellen Biophysik und
+Strukturbiologie werden erörtert mit dem Schwerpunkt auf
+physikalische Grundlagen, Konzepte und Verfahren.
+• Vorlesung Biophysik I (Physikalische Methoden zur
+Strukturbestimmung von Biomolekülen)
+• Vorlesung Biophysik II (Bioinformatik und
+Modellierung von unbekannten Strukturen)
+• Seminar Biophysik und Biophysikalisches Praktikum
+• Vorlesungen Datenanalyse und maschinelles Lernen
+• Vorlesung Grundlagen der biologischen NMR-
+Spektroskopie
+4. Qualifikationsziele des Moduls / zu Vermittlung von Grundkenntnissen über Konzepte
+erwerbende Kompetenzen: und physikalische Verfahren in der Biophysik. Die
+Studierenden sind dann in der Lage, biophysikalische
+Probleme einzuordnen und zielorientiert zu lösen. Sie
+sind in der Lage, NMR und ESR Spektren zu analysieren
+und zu deuten. Im Bereich Machine Learning sind die
+Studierenden in der Lage, moderne Lernalgorithmen
+selbst zu prgrammieren und auf Probleme der Daten- und
+Bildanalyse anzuwenden
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: keine
+b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: Bachelor Physik
+7. Angebotsturnus des Moduls: jährlich
+8. Das Modul kann absolviert werden in: 2 Semestern
+9. Empfohlenes Fachsemester: 1 bis 2
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 480
+davon:
+1. Präsenzzeit: 12 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 300 Std.
+Leistungspunkte: 16
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+77Modul: PHY-B-WE11
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+PHY- Wahlpflicht Vorlesung Biophysik I 2 Klausur
+B -
+WE11 .1
+PHY- Wahlpflicht Vorlesung Biophysik II 2 Klausur
+B -
+WE11 .2
+PHY- Wahlpflicht Seminar Biophysik 2 Seminarvortrag
+B -
+WE11 .3
+PHY- Wahlpflicht Praktikum Biophysikalisches Praktikum 5 Versuche mit Protokollen
+B -
+WE11 .4
+PHY- Wahlpflicht Übung Machine Learning I 4 Klausur oder Projektarbeit
+B - Vorlesung
+WE11 .5
+PHY- Wahlpflicht Übung Machine Learning II 4 Klausur oder Projekarbeit
+B - Vorlesung
+WE11 .6
+PHY- Wahlpflicht Vorlesung Grundlagen der biologischen 2 Klausur
+B - NMR-Spektroskopie
+WE11 .7
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+PHY- Biophysik Mündlich 30 Minuten nach den Modulbestandteilen 1
+B -
+WE11 .1
+13. Bemerkungen:
+Aus den Modulbestandteilen von Nr.11 sind Veranstaltungen im Umfang von 12 SWS frei wählbar, zu
+diesen Veranstaltungen müssen die aufgeführten Studienleistungen erbracht werden.
+78Modul: PHY-B-WE12
+Modul: PHY-B-WE12
+Gültig ab SS 15 bis (leer)
+1. Name des Moduls: Ergänzungsfach Didaktik der Physik
+2. Fachgebiet / Verantwortlich: Prof. Dr. Karsten Rincke
+3. Inhalte des Moduls: Es müssen die zwei Module PHY-LA-GYM-P9B und
+PHY-LA-GYM-W9 aus dem Angebot der Didaktik Physik
+absolviert werden. Zusätzlich müssen aus dem Angebot
+der Didaktik Physik und/oder Didaktik der Mathematik
+weitere Module im Umfang von 6 LP erfolgreich besucht
+werden.
+• Pflicht: PHY-LA-GYM-P9B - Konzeption von
+Lernumgebungen für den Physikunterricht (schr.
+Ausarb + Präs + mdl. Prüf. mit/ohne Exp.) - Seminar,
+6LP
+• Pflicht: PHY-LA-GYM-W9 - Lehren und Lernen im
+Physikunt. (Kl) - Vorlesung, 4 LP
+• Wahl: PHY-LA-GYM-W11 - Fachdidaktisches
+Prüfungsvorbereitungsseminar für LA Gy (schriftliche
+Ausarbeitungen und Präsentationen) - Seminar, 2LP
+• Wahl: PHY-LA-GYM-W14 - Idee, Medien
+und Gestaltung – kreativer Physikunterricht
+(Ausarbeitungen, Präsentationen) - Seminar, 2LP
+• Wahl: PHY-LA-GYM-W16 - Empirisch forschen in
+der Physikdidaktik (Ausarbeitungen, Präsentationen)
+Seminar, 2LP
+• Wahl: PHYLA-W21 - Planung, Durchführung
+und Reflexion von Unterricht (Schriftliche
+Ausarbeitungen, Unterrichtsvorbereitung und -
+durchführung) - Seminar, 4LP
+• Wahl: Didaktik der Algebra aus dem Modul FGyRH,
+Vorlesung mit Übung, mündliche oder schriftliche
+Prüfung, 4LP
+• Wahl: Didaktik der Geometrie aus dem Modul
+FGyRH, Vorlesung mit Übung, mündliche oder
+schriftliche Prüfung, 4LP
+• Wahl: Didaktik der Zahlbereiche aus dem Modul
+FGyRH, Vorlesung mit Übung, mündliche oder
+schriftliche Prüfung, 4LP
+• Wahl: Didaktik der Stochastik/Grundlagen der
+statistischen Datenanalyse  aus dem Modul FGyRH,
+79Modul: PHY-B-WE12
+Vorlesung mit Übung, mündliche oder schriftliche
+Prüfung, 4LP
+• Wahl: Mathematikunterricht in der Sekundarstufe II
+aus dem Modul FGySem, Vorlesung, Seminar und
+Übung, mündliche oder schriftliche Prüfung, 2LP
+• Wahl: Einführung in die Mathematikdidaktik aus
+dem Modul FED, Vorlesung und Übung, schriftliche
+Modulprüfung, 3LP
+4. Qualifikationsziele des Moduls / zu siehe Modulbeschreibungen der Einzelmodule
+erwerbende Kompetenzen:
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: siehe Modulbeschreibungen der Einzelmodule
+b) verpflichtende Nachweise: siehe Modulbeschreibungen der Einzelmodule
+6. Verwendbarkeit des Moduls: Bachelor of Science Physik
+7. Angebotsturnus des Moduls: WS, SS
+8. Das Modul kann absolviert werden in: 2 Semestern
+9. Empfohlenes Fachsemester: 3 bis 6
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 480
+davon:
+1. Präsenzzeit: 16 SWS
+Leistungspunkte: 16
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+80Modul: PHY-B-WE12
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+PHY- Pflicht Seminar Experimentelles Seminar 1 (für 3 schriftl. Ausarbeitung, Präsentation,
+L A- Ergänzungsfach) Anwesenheit
+GYM -
+P09B .1
+PHY- Pflicht Seminar Experimentelles Seminar 2 (für 3 schriftl. Ausarbeitung, Präsentation,
+L A- Ergänzungsfach) Anwesenheit
+GYM -
+P09B .2
+PHY-L Pflicht Vorlesung Einführung in die Physikdidaktik 2
+A-GYM (für Ergänzungsfach)
+-W9.1
+PHY-L Pflicht Vorlesung Physikdidaktische Vertiefung (für 2
+A-GYM Ergänzungsfach)
+-W9.2
+PHY-L Wahlpflicht Seminar Fachdidaktisches 2 schriftl. Ausarbeitung, Präsentation
+A-GYM Prüfungsvorbereitungsseminar für
+-W11. 1 LA Gy (für Ergänzungsfach)
+PHY-L Wahlpflicht Seminar Idee, Medien und Gestaltung - 2 schriftl. Ausarbeitung, Präsentation,
+A-GYM kreativer Physikunterricht (für Anwesenheit
+-W14. 1 Ergänzungsfach)
+PHY-L Wahlpflicht Seminar Schüler forschen in Projekten (für 3 schriftl. Ausarbeitung, Präsentation,
+A-GYM Ergänzungsfach) Betreuung von Schülerarbeiten
+-W15. 1
+PHY-L Wahlpflicht Seminar Empirisch forschen in 2 schriftl. Ausarbeitung, Präsentation,
+A-GYM der Physikdidaktik (für Anwesenheit
+-W16. 1 Ergänzungsfach)
+PHY- Wahlpflicht Seminar Planung, Durchführung und 4 schriftl. Ausarbeitungen,
+L A- Reflexion von Unterricht im Unterrichtsvorbereitung und -durchführung,
+W21 .1 Lernforschungslabor (für Anwesenheit
+Ergänzungsfach)
+FGy Wahlpflicht Übung Didaktik der Algebra (für 3 Angaben lt. Modulbeschr.
+R H.1 Vorlesung Ergänzungsfach)
+FGy Wahlpflicht Übung Didaktik der Geometrie (für 3 Angaben lt. Modulbeschr.
+R H.2 Vorlesung Ergänzungsfach)
+FGy Wahlpflicht Übung Didaktik der Zahlbereiche (für 3 Angaben lt. Modulbeschr.
+R H.3 Vorlesung Ergänzungsfach)
+FGy Wahlpflicht Übung Didaktik der Stochastik/ 3 Angaben lt. Modulbeschr.
+R H.4 Vorlesung Grundlagen der statistischen
+Datenanalyse (für
+Ergänzungsfach)
+FGy Wahlpflicht Übung Mathematikunterricht in 2 Angaben lt. Modulbeschr.
+S em Vorlesung der Sekundarstufe II (für
+Seminar Ergänzungsfach)
+FED Wahlpflicht Übung Einführung in die 3 Angaben lt. Modulbeschr.
+Vorlesung Mathematikdidaktik (für
+Ergänzungsfach)
+81Modul: PHY-B-WE12
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+PHY- mündliche Prüfung Mündlich 25 Minuten 60%
+L A- (für Ergänzungsfach)
+GYM -
+P09B .3
+PHY- Modulprüfung Lehren und Klausur 90 Minuten 40%
+L A- Lernen im Physikunterricht
+GYM - (für Ergänzungsfach)
+W9.M P
+82Modul: PHY-B-WS01
+Modul: PHY-B-WS01
+Gültig ab WS11/12 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Einführung in Maple
+2. Fachgebiet / Verantwortlich: Physik / Fakultät, der Studiendekan
+3. Inhalte des Moduls: In dieser Veranstaltung wird eine Einführung in das
+naturwissenschaftliche Software-Tool Maple gegeben:
+•Grundlagen, symbolische und numerische Rechnungen,
+Differenzieren und Integrieren
+•Lösen von Gleichungen und Gleichungssystemen
+•Graphik und Visualisierung
+•Lösung von Differentialgleichungen
+•Programmierung und Prozeduren
+•Lineare Algebra
+4. Qualifikationsziele des Moduls / zu Verständnis von Struktur und Konzepten von Maple,
+erwerbende Kompetenzen: Erlernen der Fähigkeit, Maple bei allen entsprechenden
+Problemstellungen in Studium und Beruf kompetent
+einzusetzen
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: Keine
+b) verpflichtende Nachweise: Keine
+6. Verwendbarkeit des Moduls: B.Sc. Physik, B.Sc.Nanoscience, B.Sc.Computational
+Science, Lehramt mit Unterrichtsfach Physik
+7. Angebotsturnus des Moduls: halbjährlich
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 1
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 90
+davon:
+1. Präsenzzeit: 2 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 60 Std.
+Leistungspunkte: 3
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+PHY- Pflicht Übung Einführung in Maple 2 Übungsaufgaben
+B - Vorlesung
+WS01 .1
+83Modul: PHY-B-WS01
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+PHY- Einführung in Maple Klausur Zeitpunkt: Am Ende des 0 - unbenotet
+B - Kurses; Dauer: 105 min
+WS01 .1 oder 135 min oder 210 min
+13. Bemerkungen:
+Zulassungsvorausetzung für die Modulprüfung ist der Nachweis der Studienleistungen (Abzeichnung der
+Übungsaufgaben durch den Kursleiter an jedem Kurstag).
+84Modul: PHY-B-WS04
+Modul: PHY-B-WS04
+Gültig ab WS11/12 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Einführung in Matlab
+2. Fachgebiet / Verantwortlich: Physik / Fakultät, der Studiendekan
+3. Inhalte des Moduls: In dieser Veranstaltung wird eine Einführung in das
+technische Software-Tool Matlab gegeben:
+•Grundlagen
+•Graphik und Datenanalyse
+•Programmierung
+•Function functions
+•Differentialgleichungen
+•Signalverarbeitung, FFT
+•Handle Graphics, Movies, Graphischer Input
+•Überblick über die Image Processing Toolbox
+4. Qualifikationsziele des Moduls / zu Verständnis der Struktur von Matlab, Erlernen
+erwerbende Kompetenzen: der Fähigkeit, Matlab bei allen entsprechenden
+Problemstellungen in Studium und Beruf kompetent
+einzusetzen; Einblick in die wissenschaftliche
+Bildverarbeitung (nicht nur mit Matlab)
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: Keine
+b) verpflichtende Nachweise: Keine
+6. Verwendbarkeit des Moduls: B.Sc. Physik, B.Sc. Nanoscience, B.Sc.Computational
+Science, Lehramt Gymnasien, Lehramt mit Unterrichtsfach
+Physik
+7. Angebotsturnus des Moduls: halbjährlich
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 1
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 90
+davon:
+1. Präsenzzeit: 2 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 60 Std.
+Leistungspunkte: 3
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+85Modul: PHY-B-WS04
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+PHY- Pflicht Übung Einführung in Matlab 2 Übungsaufgaben
+B - Vorlesung
+WS04 .1
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+PHY- Einführung in Matlab Klausur Dauer: 105 min oder 0 - unbenotet
+B - 135 min; Zeitpunkt:
+WS04 .1 Am Ende des Kurses
+13. Bemerkungen:
+Zulassungsvorausetzung für die Modulprüfung ist der Nachweis der Studienleistungen (Abzeichnung der
+Übungsaufgaben durch den Kursleiter an jedem Kurstag).
+86Modul: PHY-B-WS07
+Modul: PHY-B-WS07
+Gültig ab WS15/16 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: IT und Medien
+2. Fachgebiet / Verantwortlich: Physik / Fakultät, der Studiendekan; das Rechenzentrum
+der Universität
+3. Inhalte des Moduls: Jedes der 11 Module aus dem Programm der
+universitätsweiten studienbegleitenden IT-Ausbildung
+kann in das Bachelor-Studium Physik importiert werden.
+Die 11 Module decken folgende Themenbereiche ab:
+• Texte erstellen und gestalten
+• Daten analysieren und visualisieren
+• Webentwicklung und Webdesign
+• Algorithmen und Datenstrukturen
+• Programmierung und Softwareentwicklung
+• Mediengestütztes Lernen und Lehren
+• Grafik und Bildverarbeitung
+• Audio- und Videobearbeitung
+• Fachspezifische Angebote
+Details siehe https://www.uni-regensburg.de/
+rechenzentrum/lehre-lernen/it-ausbildung/
+4. Qualifikationsziele des Moduls / zu Das Rechenzentrum der Universität Regensburg bietet
+erwerbende Kompetenzen: in Kooperation mit den Fakultäten die Möglichkeit
+einer Studienbegleitenden IT-Ausbildung. Ziel ist es,
+Schlüsselkompetenzen zum Umgang mit Informations-
+und Kommunikationstechnologien zu vermitteln.
+Im Besonderen verfolgt die Studienbegleitende IT-
+Ausbildung folgende Bildungsziele: die Förderung von
+Handlungskompetenz zur medialen Herstellung und
+Verbreitung von Informationen bzw. der Gestaltung
+digitaler Medien, kompetente und zielgerichtete Nutzung
+von Informationstechnologien in Studium und Beruf, die
+Vorbereitung auf potentielle Tätigkeitsfelder im Bereich
+Informations- und Kommunikationstechnologie.
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: Siehe detaillierte Beschreibungen auf der Homepage der
+studienbegleitenden IT-Ausbildung
+b) verpflichtende Nachweise: Keine
+6. Verwendbarkeit des Moduls: B.Sc. Physik; dieses Modul kann mehrmals (mit
+unterschiedlichen Inhalten) in das Bachelorstudium Physik
+im ,Wahlbereich - Sonstiges' eingebracht werden.
+7. Angebotsturnus des Moduls: halbjährlich
+87Modul: PHY-B-WS07
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 1
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 180
+davon:
+1. Präsenzzeit: 4 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 120 Std.
+Leistungspunkte: 6
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+PHY- Pflicht IT und Medien - Themenbereich entsprechend den Regelungen der
+B - variiert studienbegleitenden IT-Ausbildung -
+WS07 .1 Siehe detaillierte Beschreibungen auf der
+Homepage der studienbegleitenden IT-
+Ausbildung
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+13. Bemerkungen:
+Modulprüfung: Siehe detaillierte Beschreibungen auf der Homepage der studienbegleitenden IT-
+Ausbildung. Das Modul ist unbenotet. Eine eventuell im Rahmen der IT-Ausbildung vergebene Note geht
+nicht in das Bachelor-Studium Physik ein.
+88Modul: PHY-B-WS09
+Modul: PHY-B-WS09
+Gültig ab WS11/12 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Ausbildungsseminar
+2. Fachgebiet / Verantwortlich: Physik / Fakultät, der Studiendekan
+3. Inhalte des Moduls: Ausbildungsseminare decken ein möglichst breites
+Themenspektrum ab. Thema und Inhalt dieser Seminare
+wird sich von Jahr zu Jahr unterscheiden, sie sollen
+jedoch vom allgemeinen Lehrplan abweichen um einen
+möglichst umfassenden Überblick über physikalische und
+interdisziplinäre Themen zu erhalten. Voraussetzungen
+sind hierbei themenabhängig.
+4. Qualifikationsziele des Moduls / zu Erwerb der Fähigkeit sich innerhalb kurzer Zeit in ein
+erwerbende Kompetenzen: neues Themengebiet einzuarbeiten und die erworbenen
+Kenntnisse in einem Referat mit grafischer Präsentation
+verständlich darzustellen.
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: abhängig vom Themengebiet
+b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: B.Sc. Physik
+7. Angebotsturnus des Moduls: jährlich
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 4
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 120
+davon:
+1. Präsenzzeit: 2 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 90 Std.
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+PHY- Pflicht Seminar Ausbildungsseminar 2 Seminarvortrag
+B - Themenbereich/Thema variiert
+WS09 .1
+PHY- Wahlpflicht Hausarbeit zum Hausarbeit zum Ausbildungsseminar,
+B - Ausbildungsseminar Hausarbeit;
+WS09 .2
+89Modul: PHY-B-WS09
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+PHY- Seminarvortrag Seminar 60 Minuten Der regelmäßige Besuch auch 0 - unbenotet
+B - der anderen Seminarvorträge
+WS09 .1 dieser Veranstaltung ist
+Voraussetzung für das
+Bestehen des Moduls.
+13. Bemerkungen:
+Der regelmäßige Besuch auch der anderen Seminarvorträge dieser Veranstaltung ist Voraussetzung
+für das Bestehen des Moduls. Es kann zusätzlich zum Vortrag eine schriftliche Ausarbeitung (max. 12
+Seiten) als Studienleistung abgegeben werden. In diesem Fall werden für das Ausbildungsseminar 6
+Leistungspunkte statt 4 vergeben.
+90Modul: WB-PHY
+Modul: WB-PHY
+Gültig ab WS08/09 bis (leer)
+1. Name des Moduls: Wahlbereich: freigegebene Leistungen aus Physik
+2. Fachgebiet / Verantwortlich: (alle)
+3. Inhalte des Moduls: nicht angegeben
+4. Qualifikationsziele des Moduls / zu nicht angegeben
+erwerbende Kompetenzen:
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: nicht angegeben
+b) verpflichtende Nachweise: nicht angegeben
+6. Verwendbarkeit des Moduls: nicht angegeben
+7. Angebotsturnus des Moduls:
+8. Das Modul kann absolviert werden in: Semester
+9. Empfohlenes Fachsemester:
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden:
+davon:
+1. Präsenzzeit: SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): Std.
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+WB- Wahlpflicht Wahlbereich: freigegebene
+PH Y Leistungen aus Physik
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+WB- Wahlbereich: freigegebene Klausur Minuten
+PH Y Leistungen aus Physik
+91Modul: PHY-E01
+Modul: PHY-E01
+Gültig ab WS11/12 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Vorbereitungskurs: Elektrodynamik und Optik
+2. Fachgebiet / Verantwortlich: Physik / Fakultät, der Studiendekan
+3. Inhalte des Moduls: Veranstaltung 3 aus PHY-B-P1: Experimentalphysik III:
+Wellen und Quanten
+•Einführung - Was ist Licht, elektromagnetische
+Strahlung?
+•Geometrische Optik / Strahlenoptik
+•Wellenoptik
+•Polarisationsoptik
+•Wellengleichung mit Randbedingungen
+•Welle-Teilchen Dualismus
+4. Qualifikationsziele des Moduls / zu Erwerb von vertieften Kenntnissen in Elektrodynamik und
+erwerbende Kompetenzen: Optik für die Aufnahme in das Beschleunigte Verfahren
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: Veranstaltung 1 und 2 aus PH-B-P 1
+b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: beschleunigtes Verfahren in BSc. Physik
+7. Angebotsturnus des Moduls: jährlich
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 3
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 210
+davon:
+1. Präsenzzeit: 6 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 120 Std.
+Leistungspunkte: 7
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+PHY- Pflicht Übung Experimentalphysik III: Wellen und 6 Übungsaufgaben
+E 01.1 Vorlesung Quanten
+92Modul: PHY-E01
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+PHY- Experimentalphysik III: Klausur Dauer: 105 min oder 135 1
+E 01.1 Wellen und Quanten min oder 210 min (falls aus
+zwei Teilen bestehend);
+Zeitpunkt: Vorlesungszeit
+bis Semesterende
+13. Bemerkungen:
+Die erfolgreiche Teilnahme an den Übungen ist Zulassungsvoraussetzung für die Klausur. Weitere
+Informationen geben die Dozenten zu Veranstaltungsbeginn bekannt.
+93Modul: PHY-E02
+Modul: PHY-E02
+Gültig ab WS11/12 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Integrierter Kurs I: Quantenmechanik
+2. Fachgebiet / Verantwortlich: Physik / Fakultät, der Studiendekan
+3. Inhalte des Moduls: •Resümee des Welle-Teilchen-Dualismus
+•Die Quantisierung des Drehimpulses
+•Das Stern-Gerlach-Experiment
+•Die Heisenberg’schen Ungleichungen
+•Wahrscheinlichkeiten und Quantenamplituden
+•Die Zeitabhängigkeit der Quantenamplitude
+•Wellenfunktionen im Orts- und Impulsraum
+•Superposition, Verschränkung, Dekohärenz
+•Die Schrödinger-Gleichung
+•3-dimensionale Probleme, Das H-Atom
+•Atome im Magnetfeld
+•Vielelektronensysteme
+•Das Periodensystem
+•Grundlagen der Streutheorie
+4. Qualifikationsziele des Moduls / zu Erwerb der Grundkenntnisse über Begriffe,
+erwerbende Kompetenzen: Phänomene und Konzepte der Quantenmechanik
+und Atomphysik.Die Fähigkeit zur selbstständigen
+Übertragung, Verallgemeinerung und Abstraktion der
+erlernten Beschreibungs- und Lösungsmethoden auf
+fortgeschrittene physikalische Problemstellungen.
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: Klassische Physik (Experiment und Theorie)
+b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: beschleunigtes Verfahren im BSc. Physik
+7. Angebotsturnus des Moduls: jährlich
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 4
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 480
+davon:
+1. Präsenzzeit: 12 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 320 Std.
+Leistungspunkte: 16
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+94Modul: PHY-E02
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+PHY- Pflicht Übung Integrierter Kurs I: Experimentelle 6 Übungsaufgaben
+E 02.1 Vorlesung Quantenmechanik inkl. Übung
+PHY- Pflicht Übung Integrierter Kurs I: Theoretische 6 Übungsaufgaben
+E 02.2 Vorlesung Quantenmechanik inkl. Übung
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+PHY- Integrierter Kurs I: Experimentelle Art der Prüfung: mündliche 1/2
+E 02.1 Quantenmechanik Prüfung oder Klausur; Dauer:
+30 min bzw. 105 min oder
+135 min oder 210 min (falls
+aus zwei Teilen bestehend)
+Zeitpunkt: Vorlesungszeit
+bis Semesterende
+PHY- Integrierter Kurs I: Theoretische Art der Prüfung: mündliche 1/2
+E 02.2 Quantenmechanik Prüfung oder Klausur; Dauer:
+30 min bzw. 105 min oder
+135 min oder 210 min (falls
+aus zwei Teilen bestehend)
+Zeitpunkt: Vorlesungszeit
+bis Semesterende
+13. Bemerkungen:
+Die erfolgreiche Teilnahme an den Übungen ist Zulassungsvoraussetzung für die Prüfung. Weitere
+Informationen geben die Dozenten zu Veranstaltungsbeginn bekannt.
+95Modul: PHY-E03
+Modul: PHY-E03
+Gültig ab WS11/12 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Integrierter Kurs II: Festkörperphysik
+2. Fachgebiet / Verantwortlich: Physik / Fakultät, der Studiendekan
+3. Inhalte des Moduls: •Kristalline Festkörper
+•Strukturanalyse
+•Gitterdynamik
+•Thermische Eigenschaften des Gitters
+•Elektronen in Festkörpern
+•Elektrische und thermische Leitfähigkeit von Metallen
+•Halbleiter
+•Elektronen im Magnetfeld
+•Magnetismus
+•Supraleitung
+•Quantenpunkte
+4. Qualifikationsziele des Moduls / zu Erwerb der Grundkenntnisse der grundlegenden
+erwerbende Kompetenzen: Methoden der statistischen Thermodynamik und der
+Festkörperphysik. Die Fähigkeit zur selbstständigen
+Übertragung, Verallgemeinerung und Abstraktion der
+erlernten Beschreibungs- und Lösungsmethoden auf
+fortgeschrittene physikalische Problemstellungen.
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: Integrierter Kurs I : Quantentheorie
+b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: beschleunigtes Verfahren im BSc. Physik
+7. Angebotsturnus des Moduls: jährlich
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 4
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 480
+davon:
+1. Präsenzzeit: 10 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 320 Std.
+Leistungspunkte: 16
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+96Modul: PHY-E03
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+PHY- Pflicht Übung Integrierter Kurs II: Experimentelle 6 Übungsaufgaben
+E 03.1 Vorlesung Festkörperphysik inkl. Übung
+PHY- Pflicht Übung Integrierter Kurs II: Theoretische 6 Übungsaufgaben
+E 03.2 Vorlesung Festkörperphysik inkl. Übung
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+PHY- Integrierter Kurs II: Art der Prüfung: Mündliche 1/2
+E 03.1 Experimentelle Festkörperphysik Prüfung oder Klausur; Dauer:
+30 min bzw. 105 min oder
+135 min oder 210 min (falls
+aus zwei Teilen bestehend)
+Zeitpunkt: Vorlesungszeit
+bis Semesterende
+PHY- Theoretische Festkörperphysik Art der Prüfung: Mündliche 1/2
+E 03.2 Prüfung oder Klausur; Dauer:
+30 min bzw. 105 min oder
+135 min oder 210 min (falls
+aus zwei Teilen bestehend)
+Zeitpunkt: Vorlesungszeit
+bis Semesterende
+13. Bemerkungen:
+Die erfolgreiche Teilnahme an den Übungen ist Zulassungsvoraussetzung für die Prüfung. Weitere
+Informationen geben die Dozenten zu Veranstaltungsbeginn bekannt.
+97Modul: PHY-E04
+Modul: PHY-E04
+Gültig ab WS11/12 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Integrierter Kurs III: Teilchenphysik
+2. Fachgebiet / Verantwortlich: Physik / Fakultät, der Studiendekan
+3. Inhalte des Moduls: •die wichtigsten bekannten Hadronen und einige ihrer
+Eigenschaften
+•Das einfache Quarkmodell
+•Die wichtigsten hadronischen Reaktionen
+•Erhaltungssätze
+•Die tief-inelastische Streuung und die Strukturfunktionen
+•Die schwache Wechselwirkung
+•Die Physik Schwerer Quarks
+•Neutrinophysik
+4. Qualifikationsziele des Moduls / zu Erwerb der Grundkenntnisse der modernen
+erwerbende Kompetenzen: Teilchenphysik. Die Fähigkeit zur selbstständigen
+Übertragung, Verallgemeinerung und Abstraktion der
+erlernten Beschreibungs- und Lösungsmethoden auf
+fortgeschrittene physikalische Problemstellungen.
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: Integrierter Kurs I und II
+b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: beschleunigtes Verfahren im BSc. Physik
+7. Angebotsturnus des Moduls: jährlich
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 4
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 480
+davon:
+1. Präsenzzeit: 10 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 320 Std.
+Leistungspunkte: 16
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+PHY- Pflicht Übung Integrierter Kurs III: Experimentelle 6 Übungsaufgaben
+E 04.1 Vorlesung Teilchenphysik inkl. Übung
+PHY- Pflicht Übung Integrierter Kurs III: Theoretische 6 Übungsaufgaben
+E 04.2 Vorlesung Teilchenphysik inkl. Ünung
+98Modul: PHY-E04
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+PHY- Integrierter Kurs III: Art der Prüfung: Mündliche 1/2
+E 04.1 Experimentelle Teilchenphysik Prüfung oder Klausur; Dauer:
+30 min bzw. 105 min oder
+135 min oder 210 min (falls
+aus zwei Teilen bestehend)
+Zeitpunkt: Vorlesungszeit
+bis Semesterende
+PHY- Integrierter Kurs III: Art der Prüfung: Mündliche 1/2
+E 04.2 Theoretische Teilchenphysik Prüfung oder Klausur; Dauer:
+30 min bzw. 105 min oder
+135 min oder 210 min (falls
+aus zwei Teilen bestehend)
+Zeitpunkt: Vorlesungszeit
+bis Semesterende
+13. Bemerkungen:
+Die erfolgreiche Teilnahme an den Übungen ist Zulassungsvoraussetzung für die Prüfung. Weitere
+Informationen geben die Dozenten zu Veranstaltungsbeginn bekannt.
+99Modul: PHY-E06
+Modul: PHY-E06
+Gültig ab WS11/12 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Seminar und Seminarwochen des Beschleunigten
+Verfahrens
+2. Fachgebiet / Verantwortlich: Physik / Fakultät, der Studiendekan
+3. Inhalte des Moduls: Ein Forschungsprojekt, das einem der zulässigen
+Fachmodule zugeordnet ist und auf den in diesem
+Fachmodul erworbenen Kenntnissen aufbaut.
+4. Qualifikationsziele des Moduls / zu Bearbeitung eines kleineren Forschungsprojekts
+erwerbende Kompetenzen: (selbständig unter intensiver Anleitung), abgeschlossen
+durch eine schriftliche Darstellung der verwendeten
+Methoden und erzielten Ergebnisse.
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: Inhalte des Fachmoduls
+b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: beschleunigtes Verfahren im BSc. Physik
+7. Angebotsturnus des Moduls:
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 4
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 90
+davon:
+1. Präsenzzeit: 4 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 30 Std.
+Leistungspunkte: 3
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+PHY- Pflicht Seminar Seminar 4 Teilnahme und ggf. Seminarvortrag
+E 06.1
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+13. Bemerkungen:
+Weitere Informationen geben die Dozenten zu Veranstaltungsbeginn bekannt.
+100

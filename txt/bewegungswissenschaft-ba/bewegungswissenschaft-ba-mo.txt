@@ -1,0 +1,1341 @@
+input_dictionary =  
+ 
+Bachelorstudiengang Angewandte Bewegungswissenschaften an der 
+Universität Regensburg 
+ 
+ 
+gültig ab Wintersemester 2017/2018 
+ 
+Inhaltsverzeichnis 
+ 
+ 
+SPO-BA-M 10   Statistik ......................................................................................................... 2 
+SPO-BA-M 11   Einführung in spezifische Bereiche der Sportwissenschaft ........................... 4 
+SPO-BA-M 12   Bewegungs- und trainingswissenschaftliche Kompetenz ............................. 6 
+SPO-BA-M 13   Medizinische Kompetenz I ............................................................................ 8 
+SPO-BA-M 14   Medizinische Kompetenz II ....................................................................... 120 
+SPO-BA-M 15   Psychologische Kompetenz I ..................................................................... 142 
+SPO-BA-M 16   Psychologische Kompetenz II .................................................................... 164 
+SPO-BA-M 17   Vertiefung der psychologischen und bewegungswiss. Kompetenz .......... 186 
+SPO-BA-M 18   Präventive und rehabilitative Kompetenz ................................................... 18 
+SPO-BA-M 19   Praktikum.................................................................................................. 220 
+SPO-BA-M 20   Bewegungspraktische Kompetenz ............................................................ 242 
+SPO-BA-M 21  Sportwissenschaftliche Basiskompetenz im NF .......................................... 264 
+SPO-BA-M 22   Bewegungswissenschaftliche Kompetenz (Vertiefung) im 2. HF und NF .. 286 
+SPO-BA-M 23   Bewegungspraktische Kompetenz im 2. HF und NF………………...............28 
+ 
+1 
+ SPO-BA-M 10 
+Statistik 
+1. Name des Moduls:
+Sportwissenschaften / Prof. Dr. Petra Jansen 
+2. Fachgebiet / Verantwortlich:
+In diesem Modul werden grundlegende Verfahren 
+3. Inhalte des Moduls:
+der beschreibenden und der schließenden Statistik 
+behandelt. Die Verfahren werden im weiteren 
+Studium für das Verstehen wissenschaftlicher 
+Abhandlungen sowie die Auswertung eigener Daten 
+(z.B. im Rahmen von Seminaren bzw. einer BA-
+Arbeit) benötigt.  
+Nach dem Abschluss des Moduls sind die 
+4. Qualifikationsziele des Moduls / zu
+Studierenden in der Lage, empirisch zu arbeiten. Sie 
+erwerbende Kompetenzen: 
+können eigene Daten statistisch auswerten und 
+fremde Datenanalysen verstehen.  
+5. Teilnahmevoraussetzungen:
+keine 
+a) empfohlene Kenntnisse:
+keine 
+b) verpflichtende Nachweise:
+B. Arts Angewandte Bewegungswissenschaft 
+6. Verwendbarkeit des Moduls:
+(Bachelorfach, Zweites Hauptfach) 
+Jedes Studienjahr 
+7. Angebotsturnus des Moduls:
+2 Semestern 
+8. Das Modul kann absolviert werden in:
+1. bis 2. Fachsemester
+9. Empfohlenes Fachsemester:
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls
+Gesamt in Stunden: 480 
+     (Workload) / Anzahl Leistungspunkte: 
+Davon: 
+1. Präsenszeit: 120 Std. (8 SWS)
+2. Selbststudium (inkl. Prüfung und
+Prüfungsvorbereitung): 360 Std. 
+Leistungspunkte: 16* 
+*Die LP für das Modul werden erst nach Bestehen der Modulprüfung bzw. aller
+Modulteilprüfungen vergeben. 
+2 11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen
+erfüllt sind: 
+12. Modulbestandteile:
+Nr  P /  Lehrform  Themenbereich/Thema  SWS /  Studienleistungen  LP 
+WP Std. 
+/ 
+W* 
+1  P  Vorlesung  Methodik 1:  2  (2) 
+Versuchsplanung 
+2  P  Vorlesung  Methodik 2: Statistik 1  3  (6) 
+3  P  Vorlesung  Methodik 3: Statistik 2  3  (6) 
+4  P  Praktikum  Teilnahme an  20 Zeitstunden  (2) 
+Forschungsarbeiten durch 
+Teilnahme an Versuchen  
+* P = Pflichtveranstaltung; WP = Wahlpflichtveranstaltung; W = Wahlveranstaltung
+13. Modulprüfung:
+Dauer  Zeitpunkt /  Anteil an 
+Kompetenz /  Art der 
+Nr 
+Bemerkungen  Modulnote 
+Thema  Prüfung 
+1  Versuchsplanung  Klausur  45 Minuten  Am Ende der  33,3% 
+Vorlesungszeit; 
+benotet 
+2  Statistik I  Klausur  90 Minuten  Am Ende der  33,3% 
+Vorlesungszeit; 
+benotet 
+3  Statistik II  Klausur  90 Minuten  Am Ende der  33,3% 
+Vorlesungszeit; 
+benotet 
+14. Bemerkungen:
+In Veranstaltung 4 müssen durch die Teilnahme an Experimenten als Versuchsperson insgesamt 20 
+Zeitstunden absolviert werden. 
+Zusätzliches freiwilliges Lehrangebot: Begleitübung zu Statistik I und Statistik II. 
+3 SPO-BA-M 11 
+Einführung in spezifische Bereiche der 
+1. Name des Moduls:
+Sportwissenschaft 
+Sportwissenschaften / Prof. Dr. Petra Jansen 
+2. Fachgebiet / Verantwortlich:
+In diesem Modul werden die theoretischen 
+3. Inhalte des Moduls:
+Grundlagen für das sportpädagogische Arbeiten 
+gelegt. Dabei liegt u.a. ein Schwerpunkt auf dem 
+Themenbereich Inklusion im Sport. Darüber hinaus 
+findet eine Einführung in die Grundlagen des 
+Sportmanagements statt. 
+Nach dem Abschluss des Moduls sind die 
+4. Qualifikationsziele des Moduls / zu
+Studierenden in der Lage, sportpädagogisches 
+erwerbende Kompetenzen: 
+Wissen sowie Aspekte des Sportmanagements in der 
+Praxis anzuwenden. 
+5. Teilnahmevoraussetzungen:
+keine 
+a) empfohlene Kenntnisse:
+keine 
+b) verpflichtende Nachweise:
+B. Arts Angewandte Bewegungswissenschaft 
+6. Verwendbarkeit des Moduls:
+(Bachelorfach, Zweites Hauptfach, Nebenfach) 
+Jedes Studienjahr 
+7. Angebotsturnus des Moduls:
+2 Semester 
+8. Das Modul kann absolviert werden in:
+1.Fachsemester
+9. Empfohlenes Fachsemester:
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls
+Gesamt in Stunden: 90 
+     (Workload) / Anzahl Leistungspunkte: 
+Davon: 
+1. Präsenszeit: 30 Std. (2 SWS)
+2. Selbststudium (inkl. Prüfung und
+Prüfungsvorbereitung): 60 Std. 
+Leistungspunkte: 4* 
+*Die LP für das Modul werden erst nach Bestehen der Modulprüfung bzw. aller
+Modulteilprüfungen vergeben. 
+4 11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen
+erfüllt sind: 
+12. Modulbestandteile:
+Nr  P /  Lehrform  Themenbereich/Thema  SWS /  Studienleistungen  LP 
+WP Std. 
+/ 
+W* 
+1  P  Vorlesung  Einführung in die  1  Wissenstest  (2) 
+Sportpädagogik 
+2  P  Vorlesung  Einführung in das  1  Wissenstest  (2) 
+Sportmanagement 
+* P = Pflichtveranstaltung; WP = Wahlpflichtveranstaltung; W = Wahlveranstaltung
+13. Modulprüfung:
+Dauer  Zeitpunkt /  Anteil an 
+Kompetenz /  Art der 
+Nr 
+Bemerkungen  Modulnote 
+Thema  Prüfung 
+14. Bemerkungen:
+In den Vorlesungen 1 und 2 ist am Ende jedes Semesters eine Studienleistung in Form eines 
+schriftlichen oder mündlichen Wissenstests zu erbringen. 
+Es findet keine Modulabschlussprüfung statt. Das Modul ist unbenotet. 
+5 SPO-BA-M 12 
+Bewegungs- und trainingswissenschaftliche 
+1. Name des Moduls:
+Kompetenz 
+Sportwissenschaften / Prof. Dr. Petra Jansen 
+2. Fachgebiet / Verantwortlich:
+In den Veranstaltungen werden biomechanische, 
+3. Inhalte des Moduls:
+ganzheitliche, funktionale und fähigkeitsorientierte 
+Ansätze in den Bewegungswissenschaften 
+vermittelt, ebenso Theorie und Methodik des 
+sportiven Trainings im Allgemeinen und des 
+Konditionstrainings, Koordinationstrainings, 
+Technik- und Taktiktrainings. Darüber hinaus 
+werden biomechanische Messmethodiken 
+vermittelt. 
+Nach dem Abschluss des Moduls haben die 
+4. Qualifikationsziele des Moduls / zu
+Studierenden ein tieferes Verständnis motorischer 
+erwerbende Kompetenzen: 
+Prozesse (z.B. motorisches Lernen und Kontrolle, 
+Leistungs- und Wettkampforientierung). Sie 
+erwerben Kenntnisse der bewegungs- und 
+trainingswissenschaftlichen Diagnostik und sie sind 
+in der Lage das erworbene Wissen anzuwenden, 
+z.B. Trainingskonzepte zu erstellen. 
+5. Teilnahmevoraussetzungen:
+keine 
+a) empfohlene Kenntnisse:
+keine 
+b) verpflichtende Nachweise:
+B. Arts Angewandte Bewegungswissenschaft 
+6. Verwendbarkeit des Moduls:
+(Bachelorfach, Zweites Hauptfach) 
+Jedes Studienjahr 
+7. Angebotsturnus des Moduls:
+2 Semester 
+8. Das Modul kann absolviert werden in:
+1. und 2. Fachsemester
+9. Empfohlenes Fachsemester:
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls
+Gesamt in Stunden: 360 
+     (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit: 90 Std. (6 SWS)
+2. Selbststudium (inkl. Prüfung und
+Prüfungsvorbereitung): 270 Std. 
+Leistungspunkte: 12* 
+*Die LP für das Modul werden erst nach Bestehen der Modulprüfung bzw. aller
+Modulteilprüfungen vergeben. 
+6  
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind:   
+12. Modulbestandteile: 
+Nr  P / 
+Lehrform  Themenbereich/Thema  SWS /  Studienleistungen  LP 
+WP
+Std. 
+/ 
+W* 
+1  P  Vorlesung  Grundlagen der  1    (2) 
+Bewegungswissenschaft I 
+2  P  Vorlesung  Grundlagen der  1    (2) 
+Bewegungswissenschaft II 
+3  P  Vorlesung  Grundlagen der  1    (2) 
+Trainingswissenschaft I  
+4  P  Vorlesung  Grundlagen der  1    (2) 
+Trainingswissenschaft II 
+5  WP  Seminar  Bewegungswissenschaft   2  Referat  (4) 
+6  WP  Seminar  Trainingswissenschaft   2  Referat  (4) 
+P = Pflichtveranstaltung; WP = Wahlpflichtveranstaltung; W = Wahlveranstaltung 
+13. Modulprüfung: 
+Kompetenz /  Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr 
+Thema  Prüfung  Bemerkungen  Modulnote 
+1  Inhalte der  Klausur  120 Minuten  Semesterende;  100% 
+Veranstaltung 1  benotet 
+bis 4 
+14. Bemerkungen:  
+ 
+Erforderlich ist der Besuch des Seminars 5 oder 6. 
+7 
+  
+SPO-BA-M 13 
+Medizinische Kompetenz I 
+1. Name des Moduls: 
+Sportwissenschaften / Prof. Dr. Petra Jansen 
+2. Fachgebiet / Verantwortlich: 
+Unter dem Aspekt der Gesundheitsorientierung 
+3. Inhalte des Moduls: 
+werden die medizinischen Grundlagen in Theorie 
+und Praxis erarbeitet. Theoretischer Schwerpunkt 
+sind hier die Veranstaltungen Physiotherapie und 
+Sportmedizin. Das im Modul angebotene Seminar 
+1. Hilfe ist praxisorientiert. 
+Die Studierenden erwerben Kenntnisse über die 
+4. Qualifikationsziele des Moduls / zu 
+sportmedizinischen und physiotherapeutischen 
+erwerbende Kompetenzen: 
+Grundlagen der Behandlung und Versorgung von 
+Sportverletzungen. 
+ 
+5. Teilnahmevoraussetzungen: 
+keine 
+a) empfohlene Kenntnisse: 
+keine 
+b) verpflichtende Nachweise: 
+B. Arts Angewandte Bewegungswissenschaft 
+6. Verwendbarkeit des Moduls: 
+(Bachelorfach, Zweites Hauptfach) 
+Jedes Studienjahr 
+7. Angebotsturnus des Moduls: 
+ 
+2 Semester 
+8. Das Modul kann absolviert werden in: 
+3. und 4. Fachsemester 
+9. Empfohlenes Fachsemester: 
+ 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+Gesamt in Stunden: 180 
+     (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit:  45 Std. (3 SWS) 
+2. Selbststudium (inkl. Prüfung und 
+Prüfungsvorbereitung): 135 Std. 
+ 
+Leistungspunkte: 6* 
+ 
+*Die LP für das Modul werden erst nach Bestehen der Modulprüfung bzw. aller 
+Modulteilprüfungen vergeben. 
+8 
+  
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+P / 
+Nr  Lehrform  Themenbereich/Thema  SWS /  Studienleistungen  LP 
+W
+Std. 
+P 
+1  P  Seminar  1. Hilfe  1  Wissenstest  (2) 
+2  P  Vorlesung  Physiotherapie  1  Wissenstest  (2) 
+3  P  Vorlesung  Sportmedizin  1  Wissenstest  (2) 
+ * P = Pflichtveranstaltung; WP = Wahlpflichtveranstaltung; W = Wahlveranstaltung 
+13. Modulprüfung: 
+Kompetenz /  Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr. 
+Thema  Prüfung  Bemerkungen  Modulnote 
+14. Bemerkungen:  
+Im Seminar 1 sowie in den Vorlesungen 2 und 3 ist am Ende jedes Semesters eine 
+Studienleistung in Form eines schriftlichen oder mündlichen Wissenstests zu erbringen. 
+ 
+Es findet keine Modulabschlussprüfung statt. Das Modul ist unbenotet. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9 
+  
+SPO-BA-M 14 
+Medizinische Kompetenz II 
+1. Name des Moduls: 
+Sportwissenschaften / Prof. Dr. Petra Jansen 
+2. Fachgebiet / Verantwortlich: 
+Unter dem Aspekt der Gesundheitsorientierung 
+3. Inhalte des Moduls: 
+werden weitergehende Grundlagen in Theorie und 
+Praxis erarbeitet. Theoretischer Schwerpunkt sind 
+hier die Veranstaltungen Anatomie und 
+Physiologie. Zusätzlich werden Grundkenntnisse zu 
+den Indikationsgebieten orthopädischer, innerer 
+und neurologischer Erkrankungen studiert. 
+Die Studierenden erwerben Kenntnisse über die 
+4. Qualifikationsziele des Moduls / zu 
+anatomischen und physiologischen Grundlagen 
+erwerbende Kompetenzen: 
+der Bewegung. Ziel ist die Wissensvermittlung zur 
+Struktur und Funktion der Organsysteme, und über 
+die Reaktionen bei körperlichen Belastungen. 
+Studierende sollen zur methodischen Gestaltung 
+und Belastungssteuerung insbesondere im 
+Gesundheitssport befähigt werden. 
+ 
+5. Teilnahmevoraussetzungen: 
+keine 
+a) empfohlene Kenntnisse: 
+keine 
+b) verpflichtende Nachweise: 
+B. Arts Angewandte Bewegungswissenschaft 
+6. Verwendbarkeit des Moduls: 
+(Bachelorfach, Zweites Hauptfach) 
+Jedes Studienjahr 
+7. Angebotsturnus des Moduls: 
+ 
+2 Semester 
+8. Das Modul kann absolviert werden in: 
+3. und 4. Fachsemester 
+9. Empfohlenes Fachsemester: 
+ 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+Gesamt in Stunden: 180 
+     (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit:  45 Std. (3 SWS) 
+2. Selbststudium (inkl. Prüfung und 
+Prüfungsvorbereitung): 135 Std. 
+ 
+Leistungspunkte: 6* 
+ 
+*Die LP für das Modul werden erst nach Bestehen der Modulprüfung bzw. aller 
+Modulteilprüfungen vergeben. 
+10 
+  
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+P / 
+Nr  Lehrform  Themenbereich/Thema  SWS /  Studienleistungen  LP 
+W
+Std. 
+P 
+1  P  Vorlesung  Sport und Gesundheit  1    (2) 
+2  P  Vorlesung  Anatomie  1    (2) 
+3  P  Vorlesung  Physiologie  1    (2) 
+ * P = Pflichtveranstaltung; WP = Wahlpflichtveranstaltung; W = Wahlveranstaltung 
+13. Modulprüfung: 
+Kompetenz /  Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr. 
+Thema  Prüfung  Bemerkungen  Modulnote 
+1  Inhalte der  Klausur  90 Minuten  Semesterende;  100% 
+Veranstaltung 1-3  benotet 
+14. Bemerkungen:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11 
+  
+SPO-BA-M 15 
+Psychologische Kompetenz I 
+1. Name des Moduls: 
+Sportwissenschaften/Prof. Dr. Petra Jansen 
+2. Fachgebiet / Verantwortlich: 
+Es wird psychologisches Grundlagenwissen im 
+3. Inhalte des Moduls: 
+Teilgebiet der Sportpsychologie 
+(sportpsychologische Bewegungs- und 
+Gesundheitsförderung, mentales Training) 
+vermittelt. Darüber hinaus wird eine Vertiefung 
+dieses Wissens in Bezug auf den Zusammenhang 
+motorischer und kognitiver/emotionaler Prozesse 
+in Theorie und Praxis angestrebt. 
+Das Modul befähigt die Studierenden die 
+4. Qualifikationsziele des Moduls / zu 
+psychischen Grundlagen und Folgen sportlicher 
+erwerbende Kompetenzen: 
+Handlung in ihrem situativen Kontext zu 
+untersuchen. So sollen sie den Einfluss der 
+Bewegung auf psychische Prozesse (kognitive und 
+emotionale) beurteilen und psychologische 
+Verfahren für den Sport nutzen können. 
+ 
+5. Teilnahmevoraussetzungen: 
+SPO-BA-M 01 und SPO-BA-M-03 
+a) empfohlene Kenntnisse: 
+keine 
+b) verpflichtende Nachweise: 
+B. Arts Angewandte Bewegungswissenschaft 
+6. Verwendbarkeit des Moduls: 
+(Bachelorfach, Zweites Hauptfach) 
+Jedes Studienjahr 
+7. Angebotsturnus des Moduls: 
+ 
+1 Semester 
+8. Das Modul kann absolviert werden in: 
+4. Fachsemester 
+9. Empfohlenes Fachsemester: 
+ 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+Gesamt in Stunden: 180 Std. 
+     (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit:  45 Std. (3 SWS) 
+2. Selbststudium (inkl. Prüfung und 
+Prüfungsvorbereitung): 135 Std. 
+ 
+Leistungspunkte: 6* 
+ 
+*Die LP für das Modul werden erst nach Bestehen der Modulprüfung bzw. aller 
+Modulteilprüfungen vergeben. 
+12 
+  
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind:   
+12. Modulbestandteile: 
+P / 
+Nr  Lehrform  Themenbereich/Thema  SWS /  Studienleistungen  LP 
+WP 
+Std. 
+1  P  Vorlesung  Einführung in die  1     (2) 
+Sportpsychologie   
+2  WP  Seminar  Motorik und Kognition  2  Referat  (4) 
+3  WP  Seminar  Motorik und Emotion  2  Referat  (4) 
+* P = Pflichtveranstaltung; WP = Wahlpflichtveranstaltung; W = Wahlveranstaltung 
+13. Modulprüfung: 
+Kompetenz /  Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr 
+Thema  Prüfung  Bemerkungen  Modulnote 
+1  Inhalte  der  Klausur  45 Minuten  Semesterende;  100% 
+Veranstaltung 1   benotet 
+14. Bemerkungen:  
+Im Wahlpflichtbereich muss ein Seminar aus den zwei Angebotenen gewählt werden. 
+13 
+  
+SPO-BA-M 16 
+Psychologische Kompetenz II 
+1. Name des Moduls: 
+Sportwissenschaften/Prof. Dr. Petra Jansen 
+2. Fachgebiet / Verantwortlich: 
+Es wird psychologisches Grundlagenwissen im 
+3. Inhalte des Moduls: 
+Teilgebiet der Biopsychologie (biopsychologische 
+Prozesse der Motorik, insbesondere motorisches 
+Lernen) vermittelt. Des Weiteren erfolgt in diesem 
+Modul eine theoretische sowie praktische 
+Einführung in bewegungstherapeutische 
+Grundlagen. 
+Das Modul befähigt die Studierenden die 
+4. Qualifikationsziele des Moduls / zu 
+Grundlagen motorischen Lernens in die Praxis zu 
+erwerbende Kompetenzen: 
+übertragen und diese vor dem Hintergrund 
+bewegungstherapeutischer Programme 
+anzuwenden.  
+ 
+5. Teilnahmevoraussetzungen: 
+SPO-BA-M 01, SPO-BA-M 03, SPO-BA-M 04 und 
+a) empfohlene Kenntnisse: 
+SPO-BA-M-05 
+keine 
+b) verpflichtende Nachweise: 
+B. Arts Angewandte Bewegungswissenschaft 
+6. Verwendbarkeit des Moduls: 
+(Bachelorfach) 
+Jedes Studienjahr 
+7. Angebotsturnus des Moduls: 
+ 
+1 Semester 
+8. Das Modul kann absolviert werden in: 
+4. Fachsemester 
+9. Empfohlenes Fachsemester: 
+ 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+Gesamt in Stunden: 180 
+     (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit:  45 Std. (3 SWS) 
+2. Selbststudium (inkl. Prüfung und 
+Prüfungsvorbereitung): 135 Std. 
+ 
+Leistungspunkte: 6* 
+ 
+*Die LP für das Modul werden erst nach Bestehen der Modulprüfung bzw. aller 
+Modulteilprüfungen vergeben. 
+14 
+  
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind:   
+12. Modulbestandteile: 
+P / 
+Nr  Lehrform  Themenbereich/Thema  SWS /  Studienleistungen  LP 
+WP 
+Std. 
+1  P  Vorlesung  Motorisches Lernen und  1    (2) 
+neuronale Grundlagen 
+2  P  Seminar  Bewegungstherapie  2  Referat  (4) 
+* P = Pflichtveranstaltung; WP = Wahlpflichtveranstaltung; W = Wahlveranstaltung 
+13. Modulprüfung: 
+Kompetenz /  Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr 
+Thema  Prüfung  Bemerkungen  Modulnote 
+1  Inhalte  der  Klausur  45 Minuten  Semesterende;  100% 
+Veranstaltung 1   benotet 
+14. Bemerkungen:  
+15 
+  
+SPO-BA-M 17 
+Vertiefung der psychologischen und  
+1. Name des Moduls: 
+bewegungswissenschaftlichen Kompetenz 
+Sportwissenschaften/Prof. Dr. Petra Jansen 
+2. Fachgebiet / Verantwortlich: 
+Es wird psychologisches Grundlagenwissen im 
+3. Inhalte des Moduls: 
+Teilgebiet der Entwicklungspsychologie 
+(motorische, kognitive und emotionale 
+Entwicklung) vermittelt. Das 
+bewegungswissenschaftliche Wissen soll im 
+Hinblick auf die individuelle Entwicklung im 
+Lebenslauf (unterschiedliche Entwicklungsphasen 
+und Folgen für den Sport, lebenslanges Lernen, 
+Sport und Geschlecht) und in der Gesellschaft 
+(Interventionsmöglichkeiten im Sport: sinnvolle 
+Erschließung, sportlichen Handelns, 
+Gesundheitssport in verschiedenen Settings) 
+vertieft werden. 
+Die Studierenden erwerben in diesem Modul ein 
+4. Qualifikationsziele des Moduls / zu 
+vertieftes Wissen zur Bedeutung der Bewegung im 
+erwerbende Kompetenzen: 
+Entwicklungsverlauf sowie in gesellschaftlichen 
+Institutionen, wie z.B. sozialen Einrichtungen. 
+Zudem erlangen sie die Kompetenz, 
+Bewegungsprogramme für unterschiedliche 
+Altersstufen und in unterschiedlichen sozialen 
+Einrichtungen (Vereine, Jugendhäuser, 
+Seniorenheime etc.) zu gestalten. 
+ 
+5. Teilnahmevoraussetzungen: 
+SPO-BA-M 03, SPO-BA-M 06 und SPO-BA-M-07 
+a) empfohlene Kenntnisse: 
+keine 
+b) verpflichtende Nachweise: 
+B. Arts Angewandte Bewegungswissenschaft 
+6. Verwendbarkeit des Moduls: 
+(Bachelorfach) 
+Jedes Studienjahr 
+7. Angebotsturnus des Moduls: 
+ 
+2 Semester 
+8. Das Modul kann absolviert werden in: 
+4. und 5. Fachsemester 
+9. Empfohlenes Fachsemester: 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+Gesamt in Stunden: 360 
+     (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit:  75 Std. (5 SWS) 
+2. Selbststudium (inkl. Prüfung und 
+Prüfungsvorbereitung): 285 Std. 
+ 
+Leistungspunkte: 12* 
+ 
+*Die LP für das Modul werden erst nach Bestehen der Modulprüfung bzw. aller 
+Modulteilprüfungen vergeben. 
+16 
+  
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind:   
+12. Modulbestandteile: 
+P / 
+Nr  Lehrform  Themenbereich/Thema  SWS /  Studienleistungen  LP 
+WP 
+Std. 
+1  P  Vorlesung  Entwicklung im Lebenslauf  1  Wissenstest  (2) 
+2  WP  Seminar  Bewegung im Kindes- und  2  Referat  (4 oder 6) 
+Jugendalter 
+3  WP  Seminar  Bewegung im Alter  2  Referat  (4 oder 6) 
+4  WP  Seminar  Bewegung in sozialen  2  Referat  (4 oder 6) 
+Einrichtungen 
+* P = Pflichtveranstaltung; WP = Wahlpflichtveranstaltung; W = Wahlveranstaltung 
+13. Modulprüfung: 
+Kompetenz /  Art der Prüfung  Dauer  Zeitpunkt /  Anteil an 
+Nr 
+Thema  Bemerkungen  Modulnote 
+1  Inhalt eines der  Seminararbeit in  4 Wochen  Semesterende;  100% 
+beiden  einem der gewählten  Bearbeitungszeit  benotet 
+gewählten  Seminare 
+Seminare  (Veranstaltung Nr. 2, 
+3, oder 4); 10 bis 15 
+Seiten 
+ 
+14. Bemerkungen:  
+ 
+In der Veranstaltung 1 ist am Ende des Semesters eine Studienleistung in Form eines schriftlichen 
+oder mündlichen Wissenstests zu erbringen. 
+ 
+Im Wahlpflichtbereich müssen zwei Seminare aus den drei Angebotenen gewählt werden. 
+Die in einem der beiden Seminare angefertigte Seminararbeit bildet die Modulnote.   
+Eine Notenverbesserung durch Anfertigung einer Seminararbeit im zweiten gewählten Seminar 
+ist nicht zulässig. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+17 
+  
+ 
+ 
+SPO-BA-M 18 
+Präventive und rehabilitative Kompetenz 
+1. Name des Moduls: 
+Sportwissenschaften/Prof. Dr. Petra Jansen 
+2. Fachgebiet / Verantwortlich: 
+Das bewegungswissenschaftlich erworbene Wissen 
+3. Inhalte des Moduls: 
+soll auf die Fachgebiete der Prävention und 
+Rehabilitation angewendet werden. Hierbei liegt 
+der Schwerpunkt in der Neurologie (Schlaganfälle, 
+Hirnblutungen, Parkinson, Epilepsien, MS etc.), der 
+Psychiatrie (Depressionen, Angststörungen, 
+Demenzen etc.), der Orthopädie (akut, 
+traumatologisch, chronisch, degenerativ) und der 
+Inneren Medizin (Diabetes mellitus, Herz-Kreislauf 
+Erkrankungen, maligne Neubildungen etc.). 
+Die Studierenden sollen mit Absolvierung dieses 
+4. Qualifikationsziele des Moduls / zu 
+Moduls die Fähigkeit erlangen, 
+erwerbende Kompetenzen: 
+Bewegungskonzepte in der klinischen Anwendung 
+zu erstellen und diese anzuwenden (Erstellung 
+sporttherapeutischer Interventionsprogramme für 
+unterschiedliche Erkrankungen). 
+ 
+5. Teilnahmevoraussetzungen: 
+SPO-BA-M 03,  SPO-BA-M 04, SPO-BA-M 05 und 
+a) empfohlene Kenntnisse: 
+SPO-BA-M-07 
+keine 
+b) verpflichtende Nachweise: 
+B. Arts Angewandte Bewegungswissenschaft 
+6. Verwendbarkeit des Moduls: 
+(Bachelorfach) 
+Jedes Studienjahr 
+7. Angebotsturnus des Moduls: 
+ 
+2 Semester 
+8. Das Modul kann absolviert werden in: 
+4. und 5. Fachsemester 
+9. Empfohlenes Fachsemester: 
+ 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+Gesamt in Stunden: 300 
+     (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit:  60 Std. (4 SWS) 
+2. Selbststudium (inkl. Prüfung und 
+Prüfungsvorbereitung): 240 Std. 
+ 
+Leistungspunkte: 10* 
+ 
+*Die LP für das Modul werden erst nach Bestehen der Modulprüfung bzw. aller 
+Modulteilprüfungen vergeben. 
+18 
+  
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind:   
+12. Modulbestandteile: 
+P / 
+Nr  Lehrform  Themenbereich/Thema  SWS /  Studienleistungen  LP 
+WP 
+Std. 
+1  WP  Seminar  Bewegung bei  2  Referat  (4 oder 6) 
+neurologischen Erkrankungen 
+2  WP  Seminar  Bewegung bei  2  Referat  (4 oder 6) 
+orthopädischen 
+Erkrankungen  
+3  WP  Seminar  Bewegung in der inneren  2  Referat  (4 oder 6) 
+Medizin/Onkologie 
+4  WP  Praktikum  4 Wochen in Vollzeit    Praktikumsbericht  (4) 
+* P = Pflichtveranstaltung; WP = Wahlpflichtveranstaltung; W = Wahlveranstaltung 
+13. Modulprüfung: 
+Art der Prüfung  Dauer  Zeitpunkt /  Anteil an 
+Kompetenz / 
+Nr  Bemerkungen  Modulno
+Thema 
+te 
+1  Inhalt eines der  Seminararbeit in einem  4 Wochen  Semesterende;  100% 
+beiden  der gewählten Seminare  Bearbeitungszeit  benotet 
+gewählten  (Veranstaltung Nr. 1, 2 
+Seminare  oder 3); 10 bis 15 Seiten 
+ 
+14. Bemerkungen:  
+Im Wahlpflichtbereich müssen zwei Seminare aus den drei Angebotenen gewählt 
+werden.. Die in einem der beiden Seminare angefertigte Seminararbeit bildet die Modulnote. 
+Eine Notenverbesserung durch Anfertigung einer Seminararbeit im zweiten gewählten Seminar 
+ist nicht zulässig.  
+Die Wahl eines Seminars kann durch ein Praktikum ersetzt werden, in diesem Fall ist nur 
+ein Seminar zu absolvieren, in welchem auch die Seminararbeit zu fertigen ist. 
+ 
+Das Praktikum kann in Betrieben und Organisationen, Bildungseinrichtungen und anderen 
+Hochschulen absolviert werden wie z.B. im Bereich der stationären und ambulanten 
+Rehabilitation, in Verbänden/ Vereinen, bei Krankenkassen, im Bereich der Sportökonomie etc. 
+Das Praktikum muss inhaltlich einen Bezug zur Neurologie, Onkologie/Inneren Medizin oder 
+Orthopädie aufweisen. Vor Antritt des Praktikums wird empfohlen, die Fachstudienberatung 
+aufzusuchen, um die Geeignetheit des Praktikums für dieses Modul (Ersatzfähigkeit eines 
+Seminars) zu klären. 
+Der Praktikumsbericht umfasst 6-10 Seiten und muss den formalen Vorgaben einer 
+Seminararbeit entsprechen.  
+ 
+ 
+ 
+19 
+  
+SPO-BA-M 19 
+Praktikum 
+1. Name des Moduls: 
+Sportwissenschaften/Prof. Dr. Petra Jansen 
+2. Fachgebiet / Verantwortlich: 
+Aneignung von Erfahrungswissen in 
+3. Inhalte des Moduls: 
+sportwissenschaftlichen Berufsfeldern parallel zu 
+dem im Studium erworbenen Wissen und 
+Fähigkeiten 
+Ziel ist die Überprüfung des im Studiums 
+4. Qualifikationsziele des Moduls / zu 
+erworbenen Wissens und der universitär erlangten 
+erwerbende Kompetenzen: 
+Fähigkeiten auf seine Anwendung hin.  
+ 
+5. Teilnahmevoraussetzungen: 
+keine 
+a) empfohlene Kenntnisse: 
+ 
+keine 
+b) verpflichtende Nachweise: 
+B. Arts Angewandte Bewegungswissenschaft 
+6. Verwendbarkeit des Moduls: 
+(Bachelorfach) 
+Jedes Studienjahr 
+7. Angebotsturnus des Moduls: 
+ 
+1 Semester 
+8. Das Modul kann absolviert werden in: 
+1.bis 6. Fachsemester 
+9. Empfohlenes Fachsemester: 
+ 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+Gesamt in Stunden: 180 
+     (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit:  160 Std. 
+2. Selbststudium (inkl. Prüfung und 
+Prüfungsvorbereitung): 20 Std. 
+ 
+Leistungspunkte: 6* 
+ 
+*Die LP für das Modul werden erst nach Bestehen der Modulprüfung bzw. aller 
+Modulteilprüfungen vergeben. 
+20 
+  
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind:   
+12. Modulbestandteile: 
+P / 
+Nr  Lehrform  Themenbereich/Thema  SWS /  Studienleistungen  LP 
+WP 
+Std. 
+1  P  Praktikum  Praktikum 4 Wochen in    Absolvieren des Praktikums,  (6) 
+Vollzeit  Praktikumsbericht 
+* P = Pflichtveranstaltung; WP = Wahlpflichtveranstaltung; W = Wahlveranstaltung 
+13. Modulprüfung: 
+Art der Prüfung  Dauer  Zeitpunkt /  Anteil an 
+Nr  Kompetenz / Thema 
+Bemerkungen  Modulnote 
+1  Beschreibung der  Praktikumsbericht,  4 Wochen  Semesterende;  100% 
+Praktikumseinrichtu 10-15 Seiten  Bearbeitungszeit  benotet 
+ng und Tätigkeit 
+sowie Reflexion vor 
+dem Hintergrund 
+sportwissenschaftlic
+her Theorien 
+14. Bemerkungen:  
+Das Praktikum kann in Betrieben und Organisationen, Bildungseinrichtungen und anderen 
+Hochschulen absolviert werden wie z.B. im Bereich der stationären und ambulanten 
+Rehabilitation, in Verbänden/ Vereinen, bei Krankenkassen, im Bereich der Sportökonomie etc. 
+ 
+Der über das Praktikum angefertigte Bericht muss den formalen Vorgaben einer Seminararbeit 
+entsprechen und bildet die Modulnote. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+21 
+  
+SPO-BA-M 20 
+Bewegungspraktische Kompetenz 
+1. Name des Moduls: 
+Sportwissenschaften/Prof. Dr. Petra Jansen 
+2. Fachgebiet / Verantwortlich: 
+Sportpraktische Vertiefung in mindestens einer 
+3. Inhalte des Moduls: 
+Individual- und einer Mannschaftssportart, darüber 
+hinaus in den Veranstaltungen Abenteuer, Wagnis, 
+Trendsport und Entspannungsmethoden. 
+Es soll eine Vertiefung der bewegungspraktischen 
+4. Qualifikationsziele des Moduls / zu 
+Kompetenz erreicht werden. Auf dieser Grundlage 
+erwerbende Kompetenzen: 
+sollen die Studierenden Bewegungskonzepte 
+erstellen können. Bei den Mannschaftssportarten 
+handelt es sich dabei um das Erlernen geeigneter 
+Interaktionen zur Aufrechterhaltung des Spiels und 
+des Erlernens kollektiven Spielverhaltens. Bei den 
+Individualsportarten handelt es sich um einen 
+kontrollierten Umgang mit dem Spielgerät, oder 
+eines sachgemäßen Körpereinsatzes oder das 
+Erlernen der Gestaltungsfähigkeit wie z.B. beim 
+Tanz. 
+ 
+5. Teilnahmevoraussetzungen: 
+keine 
+a) empfohlene Kenntnisse: 
+keine 
+b) verpflichtende Nachweise: 
+B. Arts Angewandte Bewegungswissenschaft 
+6. Verwendbarkeit des Moduls: 
+(Bachelorfach) 
+Jedes Studienjahr 
+7. Angebotsturnus des Moduls: 
+2 Semester 
+8. Das Modul kann absolviert werden in: 
+1. bis 6. Fachsemester 
+9. Empfohlenes Fachsemester: 
+ 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+Gesamt in Stunden: 240  
+     (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit:  60 Std. (4 SWS) 
+2. Selbststudium (inkl. Prüfung und 
+Prüfungsvorbereitung): 180 Std. 
+ 
+Leistungspunkte: 8* 
+ 
+*Die LP für das Modul werden erst nach Bestehen der Modulprüfung bzw. aller 
+Modulteilprüfungen vergeben. 
+ 
+ 
+ 
+ 
+ 
+ 
+22 
+  
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind:   
+12. Modulbestandteile: 
+P / 
+Nr  Lehrform  Themenbereich/Thema  SWS /  Studienleistungen  LP 
+W
+Std. 
+P 
+1  W Seminar  Leichtathletik  1   Kurzreferat und Demonstration  (2) 
+P 
+2  W Seminar  Schwimmen  1  Kurzreferat und Demonstration  (2) 
+P 
+3  W Seminar  Gymnastik/Tanz  1  Kurzreferat und Demonstration  (2) 
+P 
+4  W Seminar  Bewegungskünste  1  Kurzreferat und Demonstration  (2) 
+P 
+5  W Seminar  Geräteturnen  1  Kurzreferat und Demonstration  (2) 
+P 
+6  W Seminar  Basketball  1  Kurzreferat und Demonstration  (2) 
+P 
+7  W Seminar  Fußball  1  Kurzreferat und Demonstration  (2) 
+P 
+8  W Seminar  Handball  1  Kurzreferat und Demonstration  (2) 
+P 
+9  W Seminar  Volleyball  1  Kurzreferat und Demonstration  (2) 
+P 
+10  W Seminar  Badminton  1  Kurzreferat und Demonstration  (2) 
+P 
+11  W Seminar  Tennis  1  Kurzreferat und Demonstration  (2) 
+P 
+12  W Seminar  Tischtennis  1  Kurzreferat und Demonstration  (2) 
+P 
+13  P  Seminar  Entspannungsverfahren  1  Kurzreferat und Demonstration  (2) 
+14  P  Seminar  Wagnis, Abenteuer, Trendsport  1  Kurzreferat und Demonstration  (2) 
+* P = Pflichtveranstaltung; WP = Wahlpflichtveranstaltung; W = Wahlveranstaltung 
+13. Modulprüfung: 
+Kompetenz /  Art der Prüfung  Dauer  Zeitpunkt /  Anteil an 
+Nr 
+Thema  Bemerkungen  Modulnote 
+1  Inhalt einer  Praktische und  Je nach  Semesterende;  50% 
+selbstgewählt theoretische Prüfung in  Sportart, ca.  benotet 
+en Sportart  einer Wahlsportart  15 Minuten 
+2  Inhalt einer  Praktische und  Je nach  Semesterende;  50% 
+selbstgewählt theoretische Prüfung in  Sportart, ca.  benotet 
+en Sportart  einer Wahlsportart  15 Minuten 
+14. Bemerkungen:  
+Erforderlich ist der Besuch von insgesamt vier Seminaren, darunter ein Seminars aus 1.- 5., ein 
+weiteres Seminar aus 6.-12. sowie die beiden Seminare 13 und 14.  
+Die beiden Modulprüfungen müssen in Sportarten aus zwei unterschiedlichen Bereichen (1.-5., 
+6.-12., 13. und 14.) abgelegt werden. 
+23 
+  
+SPO-BA-M 21 
+Sportwissenschaftliche Basiskompetenz im 
+1. Name des Moduls: 
+Nebenfach 
+Sportwissenschaften/Prof. Dr. Petra Jansen 
+2. Fachgebiet / Verantwortlich: 
+In diesem Modul werden die theoretischen 
+3. Inhalte des Moduls: 
+Grundlagen innerhalb der Bewegungs-
+wissenschaften (motorisches Lernen, motorische 
+Kontrolle, motorische Steuerung) und 
+Trainingswissenschaften (Technik-, Taktik-, 
+Ausdauer-, Konditions-, und Krafttraining) 
+vermittelt. Diese Grundlagen sind zum einen 
+notwendig für das Verständnis der weiteren 
+Module, zum anderen um wissenschaftlich 
+arbeiten zu können. 
+Nach dem Abschluss des Moduls haben die 
+4. Qualifikationsziele des Moduls / zu 
+Studierenden ein tieferes Verständnis motorischer 
+erwerbende Kompetenzen: 
+Prozesse (z.B. motorisches Lernen und Kontrolle, 
+Leistungs- und Wettkampforientierung). Sie 
+erwerben Kenntnisse der bewegungs- und 
+trainingswissenschaftlichen Diagnostik und sie sind 
+in der Lage das erworbene Wissen anzuwenden, 
+z.B. Trainingskonzepte zu erstellen. 
+ 
+5. Teilnahmevoraussetzungen: 
+keine 
+a) empfohlene Kenntnisse: 
+keine 
+b) verpflichtende Nachweise: 
+B. Arts Angewandte Bewegungswissenschaft 
+6. Verwendbarkeit des Moduls: 
+(Nebenfach) 
+Jedes Studienjahr 
+7. Angebotsturnus des Moduls: 
+2 Semester 
+8. Das Modul kann absolviert werden in: 
+1. und 2. Fachsemester 
+9. Empfohlenes Fachsemester: 
+ 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+Gesamt in Stunden: 360 
+     (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenszeit:  90 Std. (6 SWS) 
+2. Selbststudium (inkl. Prüfung und 
+Prüfungsvorbereitung): 270 Std. 
+ 
+Leistungspunkte: 12* 
+ 
+*Die LP für das Modul werden erst nach Bestehen der Modulprüfung bzw. aller 
+Modulteilprüfungen vergeben. 
+24 
+  
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+Nr  P /  Lehrform  Themenbereich/Thema  SWS /  Studienleistungen  LP 
+W Std. 
+P 
+1  P  Vorlesung  Grundlagen der  1    (2) 
+Bewegungswissenschaft I 
+2  P  Vorlesung  Grundlagen der  1    (2) 
+Bewegungswissenschaft II 
+3  P  Vorlesung  Grundlagen der  1    (2) 
+Trainingswissenschaft I 
+4  P  Vorlesung  Grundlagen der  1    (2) 
+Trainingswissenschaft II 
+5  P  Vorlesung  Sport und Gesundheit  1   Wissenstest  (2) 
+ 
+6  P  Vorlesung  Motorisches Lernen und  1  Wissenstest  (2) 
+neuronale Grundlagen 
+* P = Pflichtveranstaltung; WP = Wahlpflichtveranstaltung; W = Wahlveranstaltung 
+13. Modulprüfung: 
+Kompetenz /  Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr 
+Thema  Prüfung  Bemerkungen  Modulnote 
+1  Abgefragt werden  Klausur  120 Minuten  Semesterende;  100% 
+Inhalte aus der  benotet 
+Veranstaltung 1 
+bis 4 
+14. Bemerkungen: 
+In den Vorlesungen 5 und 6 ist am Ende des Semesters eine Studienleistung in Form eines 
+schriftlichen oder mündlichen Wissenstests zu erbringen. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+25 
+  
+SPO-BA-M 22 
+Bewegungswissenschaftliche Kompetenz 
+1. Name des Moduls: 
+(Vertiefung) im zweiten Hauptfach und Nebenfach 
+Sportwissenschaften/Prof. Dr. Petra Jansen 
+2. Fachgebiet / Verantwortlich: 
+Das bewegungswissenschaftliche Wissen soll im 
+3. Inhalte des Moduls: 
+Hinblick auf die individuelle Entwicklung im 
+Lebenslauf (unterschiedliche Entwicklungsphasen 
+und Folgen für den Sport, lebenslanges Lernen, 
+Sport und Geschlecht) und in der Gesellschaft 
+(Interventionsmöglichkeiten im Sport: sinnvolle 
+Erschließung, sportlichen Handelns, 
+Gesundheitssport in verschiedenen Settings) 
+erworben und angewendet werden. 
+Erwerb eines vertieften Wissens zur Bedeutung der 
+4. Qualifikationsziele des Moduls / zu 
+Bewegung im Entwicklungsverlauf und bzgl. 
+erwerbende Kompetenzen: 
+gesellschaftlicher Institutionen, wie z.B. sozialen 
+Einrichtungen. Die Studierenden erlangen die 
+Kompetenz, Bewegungsprogramme für 
+unterschiedliche Altersstufen und in 
+unterschiedlichen sozialen Einrichtungen (Vereine, 
+Jugendhäuser, Seniorenheime etc.) zu gestalten. 
+ 
+5. Teilnahmevoraussetzungen: 
+SPO-BA-M0 3 bzw. SPO-BA-M0 12 
+a) empfohlene Kenntnisse: 
+keine 
+b) verpflichtende Nachweise: 
+B. Arts Angewandte Bewegungswissenschaft 
+6. Verwendbarkeit des Moduls: 
+(Zweites Hauptfach, Nebenfach) 
+Jedes Studienjahr 
+7. Angebotsturnus des Moduls: 
+1 Semester 
+8. Das Modul kann absolviert werden in: 
+3. und 4. Fachsemester 
+9. Empfohlenes Fachsemester: 
+ 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+Gesamt in Stunden: 300 
+     (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit:  60 Std. (4 SWS) 
+2. Selbststudium (inkl. Prüfung und 
+Prüfungsvorbereitung): 240 Std. 
+ 
+Leistungspunkte: 10* 
+ 
+*Die LP für das Modul werden erst nach Bestehen der Modulprüfung bzw. aller 
+Modulteilprüfungen vergeben. 
+26 
+  
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind:   
+12. Modulbestandteile: 
+P / 
+Nr  Lehrform  Themenbereich/Thema  SWS /  Studienleistungen  LP 
+WP 
+Std. 
+1  WP  Seminar  Bewegung im Kindes- und  2  Referat  (4 oder 6) 
+Jugendalter 
+2  WP  Seminar  Bewegung im Alter  2  Referat  (4 oder 6) 
+3  WP  Seminar  Bewegung in sozialen  2  Referat  (4 oder 6) 
+Einrichtungen 
+* P = Pflichtveranstaltung; WP = Wahlpflichtveranstaltung; W = Wahlveranstaltung 
+13. Modulprüfung: 
+Kompetenz /  Art der Prüfung  Dauer  Zeitpunkt /  Anteil an 
+Nr 
+Thema  Bemerkungen  Modulnote 
+1  Inhalte eines  Seminararbeit in  4 Wochen  Semesterende;  100% 
+der beiden  einem der gewählten  Bearbeitungszeit  benotet 
+gewählten  Seminare 
+Seminare  (Veranstaltung Nr. 1, 2 
+oder 3); 10 bis 15 
+Seiten 
+14. Bemerkungen:  
+Im Wahlpflichtbereich müssen zwei Seminare aus den drei Angebotenen gewählt werden. 
+ 
+Die in einem der beiden Seminare angefertigte Seminararbeit bildet die Modulnote.  
+Eine Notenverbesserung durch Anfertigung einer Seminararbeit im zweiten gewählten Seminar 
+ist nicht zulässig. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+27 
+  
+SPO-BA-M 23 
+Bewegungspraktische Kompetenz im zweiten 
+1. Name des Moduls: 
+Hauptfach und Nebenfach 
+Sportwissenschaften/Prof. Dr. Petra Jansen 
+2. Fachgebiet / Verantwortlich: 
+Sportpraktische Vertiefung in einer Individual-, 
+3. Inhalte des Moduls: 
+einer Mannschaftssportart, der Veranstaltung 
+Abenteuer, Wagnis, Trendsport und/ oder der 
+Veranstaltung Entspannungsmethoden. 
+Es soll eine Vertiefung der bewegungspraktischen 
+4. Qualifikationsziele des Moduls / zu 
+Kompetenz erreicht werden. Auf dieser Grundlage 
+erwerbende Kompetenzen: 
+sollen die Studierenden Bewegungskonzepte 
+erstellen können. Bei den Mannschaftssportarten 
+handelt es sich dabei um das Erlernen geeigneter 
+Interaktionen zur Aufrechterhaltung des Spiels und 
+des Erlernens kollektiven Spielverhaltens. Bei den 
+Individualsportarten handelt es sich um einen 
+kontrollierten Umgang mit dem Spielgerät, oder 
+eines sachgemäßen Körpereinsatzes oder das 
+Erlernen der Gestaltungsfähigkeit wie z.B. beim 
+Tanz. 
+ 
+5. Teilnahmevoraussetzungen: 
+keine 
+a) empfohlene Kenntnisse: 
+keine 
+b) verpflichtende Nachweise: 
+B. Arts Angewandte Bewegungswissenschaft 
+6. Verwendbarkeit des Moduls: 
+(Zweites Hauptfach, Nebenfach) 
+Jedes Studienjahr 
+7. Angebotsturnus des Moduls: 
+2 Semester 
+8. Das Modul kann absolviert werden in: 
+1. bis 6. Fachsemester 
+9. Empfohlenes Fachsemester: 
+ 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+Gesamt in Stunden: 120 
+     (Workload) / Anzahl Leistungspunkte: 
+davon: 
+1. Präsenzzeit: 30 Std. (2 SWS) 
+2. Selbststudium (inkl. Prüfung und 
+Prüfungsvorbereitung): 90 Std. 
+ 
+Leistungspunkte: 4* 
+ 
+*Die LP für das Modul werden erst nach Bestehen der Modulprüfung bzw. aller 
+Modulteilprüfungen vergeben. 
+28 
+  
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind:   
+12. Modulbestandteile: 
+P / 
+Nr  Lehrform  Themenbereich/Thema  SWS /  Studienleistungen  LP 
+W
+Std. 
+P 
+1  W Seminar  Leichtathletik  1   Kurzreferat und Demonstration  (2) 
+P 
+2  W Seminar  Schwimmen  1  Kurzreferat und Demonstration  (2) 
+P 
+3  W Seminar  Gymnastik/Tanz  1  Kurzreferat und Demonstration  (2) 
+P 
+4  W Seminar  Bewegungskünste  1  Kurzreferat und Demonstration  (2) 
+P 
+5  W Seminar  Geräteturnen  1  Kurzreferat und Demonstration  (2) 
+P 
+6  W Seminar  Basketball  1  Kurzreferat und Demonstration  (2) 
+P 
+7  W Seminar  Fußball  1  Kurzreferat und Demonstration  (2) 
+P 
+8  W Seminar  Handball  1  Kurzreferat und Demonstration  (2) 
+P 
+9  W Seminar  Volleyball  1  Kurzreferat und Demonstration  (2) 
+P 
+10  W Seminar  Badminton  1  Kurzreferat und Demonstration  (2) 
+P 
+11  W Seminar  Tennis  1  Kurzreferat und Demonstration  (2) 
+P 
+12  W Seminar  Tischtennis  1  Kurzreferat und Demonstration  (2) 
+P 
+13  W Seminar  Entspannungsverfahren  1  Kurzreferat und Demonstration  (2) 
+P 
+14  W Seminar  Wagnis, Abenteuer, Trendsport  1  Kurzreferat und Demonstration  (2) 
+P 
+* P = Pflichtveranstaltung; WP = Wahlpflichtveranstaltung; W = Wahlveranstaltung 
+13. Modulprüfung: 
+Kompetenz /  Art der Prüfung  Dauer  Zeitpunkt /  Anteil an 
+Nr 
+Thema  Bemerkungen  Modulnote 
+14. Bemerkungen:  
+Aus den Bereichen 1.-5., 6.-12., 13 sowie 14 sind insgesamt zwei Seminare zu wählen.. 
+ 
+Es findet keine Modulabschlussprüfung statt. Das Modul ist unbenotet. 
+ 
+ 
+ 
+29 
+ 
