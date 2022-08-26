@@ -1,0 +1,114 @@
+input_dictionary = Modulhandbuch
+Lehramt Mittelschule - Geschichte
+(Didaktikfach) - ab WS11/12
+gültig ab Wintersemester 2011/12 Inhaltsverzeichnis
+Module
+GES-LA-M23/GES-LA-HSD03: Basismodul Didaktik einer Fächergruppe der 2
+Hauptschule
+GES-LA-M24/GES-LA-HSD04: Aufbaumodul Didaktik einer Fächergruppe der 4
+HauptschuleModul: GES-LA-M23/GES-LA-HSD03
+Modul: GES-LA-M23/GES-LA-HSD03 
+Gültig ab WS11/12
+1.Name des Moduls: Basismodul Didaktik einer Fächergruppe der
+Hauptschule
+2.Fachgebiet / Verantwortlich: Abteilung Geschichtsdidaktik / Dr. Josef Memminger
+3.Inhalte des Moduls: Grundlegender Überblick über Theorien der
+Geschichtsdidaktik, Methoden, Medien und Arbeitsformen
+des Geschichtsunterrichts. Ausgewählte Einblicke in
+Herangehensweisen und Themenfelder der historischen
+Fachwissenschaft.
+4.Qualifikationsziele des Moduls / zu Nach Abschluss des Moduls sollen die Studierenden
+erwerbende Kompetenzen: einen soliden Überblick über theoretische
+geschichtsdidaktische Aspekte (Unterrichtsprinzipien,
+Kompetenzmodelle, Geschichtskultur  etc.) erworben
+haben. Sie sollen fähig sein, diese Theorien kritisch
+zu reflektieren. Sie besitzen zu einem Teilbereich der
+Fachwissenschaft weiterführende Kenntnisse.
+5.Teilnahmevoraussetzungen:
+a)empfohlene Kenntnisse: -
+b)verpflichtende Nachweise: -
+6.Verwendbarkeit des Moduls: Studium der Didaktik einer Fächergruppe der Hauptschule
+7.Angebotsturnus des Moduls: WS, SS
+8.Das Modul kann absolviert werden in: 1 Semester
+9.Empfohlenes Fachsemester:
+10.Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 240
+davon:
+1.Präsenzzeit: 4 SWS
+2.Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 180 Std.
+Leistungspunkte: 8
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+2Modul: GES-LA-M23/GES-LA-HSD03
+11.Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+GES- Pflicht Grundkurs Grundkurs Einführung in die 2 siehe kommentiertes Vorlesungsverzeichnis
+L A- Didaktik des Geschichtsunterrichts
+M23 .1
+GES- Pflicht Vorlesung Vorlesung in einem Teilfach der 2 siehe kommentiertes Vorlesungsverzeichnis
+L A- Geschichte
+M23 .2
+12.Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+GES- Grundkurs Einführung in die Klausur Dauer 45-90 Min; Zeitpunkt: 100 %
+L A- Didaktik des Geschichtsunterrichts am Ende des Kurses
+M23 .1
+3Modul: GES-LA-M24/GES-LA-HSD04
+Modul: GES-LA-M24/GES-LA-HSD04 
+Gültig ab WS11/12 
+1.Name des Moduls: Aufbaumodul Didaktik einer Fächergruppe der
+Hauptschule
+2.Fachgebiet / Verantwortlich: Abteilung Geschichtsdidaktik / Dr. Josef Memminger
+3.Inhalte des Moduls: Vertiefte Beschäftigung mit Einzelaspekten der
+Geschichtsdidaktik und des Geschichtsunterrichts.
+Vorbereitung auf das Staatsexamen.
+Ausgewählte inhaltliche Aspekte eines Teilfachs der
+Fachwissenschaft.
+4.Qualifikationsziele des Moduls / zu Nach Abschluss des Moduls haben sich die Studierenden
+erwerbende Kompetenzen: vertieft mit Sekundärliteratur zu einem bestimmten Bereich
+der Geschichtsdidaktik auseinandergesetzt und können
+die wissenschaftliche Diskussion reflektieren, einen
+eigenen Standpunkt formulieren sowie die Erkenntnisse
+auf eine Unterrichtssituation beziehen.
+Sie wenden im Lauf des Studiums erworbenen Kenntnisse
+und Fertigkeiten an. Zu relevanten Lehrplanthemen
+können Unterrichtseinheiten entworfen werden. Sie
+besitzen zu einem geschichtlichen Teilbereich fundierte
+Kenntnisse.
+5.Teilnahmevoraussetzungen:
+a)empfohlene Kenntnisse: -
+b)verpflichtende Nachweise: Absolvierung Basismodul Didaktik einer Fächergruppe der
+Hauptschule (GES-LA-M23/ GES-LA-HSD03)
+6.Verwendbarkeit des Moduls: Studium der Didaktik einer Fächergruppe der Hauptschule
+7.Angebotsturnus des Moduls: WS, SS
+8.Das Modul kann absolviert werden in: 2 Semestern
+9.Empfohlenes Fachsemester:
+10.Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 270
+davon:
+1.Präsenzzeit: 4 SWS
+2.Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 210 Std.
+Leistungspunkte: 9
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+4Modul: GES-LA-M24/GES-LA-HSD04
+11.Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+GES- Pflicht Seminar S Geschichtsdidaktik 2 siehe kommentiertes Vorlesungsverzeichnis
+L A-
+M24 .1
+GES- Pflicht Grundkurs Grundkurs in einem Teilfach der 2 siehe kommentiertes Vorlesungsverzeichnis
+L A- Geschichte
+M24 .2
+12.Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+GES- Seminar Geschichtsdidaktik Hausarbeit Umfang: 15-20 Seiten; 100 %
+L A- Abgabetermin: Semesterende
+M24 .1
+5

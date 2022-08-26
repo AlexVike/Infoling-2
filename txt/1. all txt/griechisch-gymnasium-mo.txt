@@ -1,0 +1,695 @@
+input_dictionary = Modulhandbuch
+Lehramt Gymnasium - Griechisch
+gültig ab Wintersemester 2008/2009 bis <kein Semester zugewiesen>Inhaltsverzeichnis
+Module
+GRI-LA-M 01: Basismodul Griechische Sprache I 2
+GRI-LA-M 02: Basismodul Griechische Sprache II 4
+GRI-LA-M 03: Basismodul Griechische Antike 6
+GRI-LA-M 04: Basismodul Griechische Literaturwissenschaft Prosa 8
+GRI-LA-M 05: Basismodul Griechische Literaturwissenschaft Poesie 10
+GRI-LA-M 11: Aufbaumodul Griechische Sprache I 12
+GRI-LA-M 12: Aufbaumodul Griechische Sprache II 14
+GRI-LA-M 13: Aufbaumodul Griechische Antike 16
+GRI-LA-M 14: Aufbaumodul Griechische Literaturwissenschaft Prosa 18
+GRI-LA-M 15: Aufbaumodul Griechische Literaturwissenschaft Poesie 20
+GRI-LA-M 21: Grund- und Aufbaumodul Griechische Fachdidaktik 22Modul: GRI-LA-M 01
+Modul: GRI-LA-M 01
+Gültig ab WS08/09 / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Basismodul Griechische Sprache I
+2. Fachgebiet / Verantwortlich: Akad. Rat Dr. Markus Gruber
+3. Inhalte des Moduls: Sprach- und Übersetzungsübungen; Wiederholung und
+Festigung der sprachlichen, grammatikalischen und
+phraseologischen Grundkenntnisse.
+4. Qualifikationsziele des Moduls / zu Fähigkeit zur selbständigen korrekten und sinngerechten
+erwerbende Kompetenzen: Übersetzung griechischer Texte einfacheren
+Schwierigkeitsgrades ins Deutsche und deutscher
+Einzelsätze ins Griechische.
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: Nachweis des Graecum oder Griechischkenntnisse auf
+dem Niveau des Graecum.
+b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: Lehramt am Gymnasium (Griechisch) Bachelor
+(Griechische Philologie HF / NF)
+7. Angebotsturnus des Moduls: jährlich
+8. Das Modul kann absolviert werden in: 1 - 2 Semester
+9. Empfohlenes Fachsemester: 1 bis 2
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 210
+davon:
+1. Präsenzzeit: 4 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 150 Std.
+Leistungspunkte: 7
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+GRI- Pflicht Übung Griechisch-deutsche 2
+L A-M Übersetzungen I 1 Unterstufe
+0 1.1
+GRI- Pflicht Übung Deutsch-griechische 2
+L A-M Übersetzungen I 1 Unterstufe
+0 1.2
+2Modul: GRI-LA-M 01
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+GRI- Griechisch-deutsche Klausur 180 zwei Klausuren; 2 x 90 50 %
+L A-M Übersetzung I 1 Unterstufe Minuten Minuten; Zeitpunkt: Mitte
+0 1.1 und Ende der Vorlesungszeit
+GRI- Deutsch-griechische Klausur 180 zwei Klausuren; 2 x 90 50 %
+L A-M Übersetzung I 1 Unterstufe Minuten Minuten; Zeitpunkt: Mitte
+0 1.2 und Ende der Vorlesungszeit
+13. Bemerkungen:
+Die zwei Klausuren nach Nr. 1 und  Nr. 2 ergeben jeweils zusammen eineModulteilprüfung.
+3Modul: GRI-LA-M 02
+Modul: GRI-LA-M 02
+Gültig ab WS08/09
+1. Name des Moduls: Basismodul Griechische Sprache II
+2. Fachgebiet / Verantwortlich: Akad. Rat Dr. Markus Gruber
+3. Inhalte des Moduls: Sprach- und Übersetzungsübungen; Ausbau und
+Festigung der Kenntnisse in Sprache, Grammatik und
+Phraseologie.
+4. Qualifikationsziele des Moduls / zu Fähigkeit zur selbständigen korrekten und sinngerechten
+erwerbende Kompetenzen: Übersetzung griechischer Texte einfacheren und mittleren
+Schwierigkeitsgrades ins Deutsche und deutscher Texte
+einfacheren und mittleren Schwierigkeitsgrades ins
+Griechische.
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: Keine
+b) verpflichtende Nachweise: Basismodul Griechische Sprache I (M 01)
+6. Verwendbarkeit des Moduls: Lehramt am Gymnasium (Griechisch)
+7. Angebotsturnus des Moduls: jährlich
+8. Das Modul kann absolviert werden in: 2 Semestern
+9. Empfohlenes Fachsemester: 2 bis 4
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 210
+davon:
+1. Präsenzzeit: 4 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 150 Std.
+Leistungspunkte: 7
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+GRI- Pflicht Übung Griechisch-deutsche 2
+L A-M Übersetzungen I 2 Mittelstufe
+0 2.1
+GRI- Pflicht Übung Deutsch-griechische 2
+L A-M Übersetzungen I 2 Mittelstufe
+0 2.2
+4Modul: GRI-LA-M 02
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+GRI- Griechisch-deutsche Klausur 180 zwei Klausuren; 2 x 50 %
+L A-M Übersetzungen I 2 Mittelstufe Minuten 90 Minuten; Zeitpunkt:
+0 2.1 Mitte und Ende der
+Vorlesungszeit;zusammen
+50%
+GRI- Deutsch-griechische Klausur 180 zwei Klausuren; 2 x 50 %
+L A-M Übersetzungen I 2 Mittelstufe Minuten 90 Minuten; Zeitpunkt:
+0 2.2 Mitte und Ende der
+Vorlesungszeit;zusammen
+50%
+5Modul: GRI-LA-M 03
+Modul: GRI-LA-M 03
+Gültig ab WS08/09 / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Basismodul Griechische Antike
+2. Fachgebiet / Verantwortlich: Prof. Dr. Georg Rechenauer mit Assistenten, Akad. Rat
+Dr. Markus Gruber
+3. Inhalte des Moduls: Überblick über Methoden und Grundlagen der
+Griechischen Altertumswissenschaft.
+4. Qualifikationsziele des Moduls / zu Fähigkeit zur Analyse grundlegender Methoden der
+erwerbende Kompetenzen: Griechischen Philologie, ihrer Hilfsdisziplinen und
+Nachbarfächer wie auch Anwendung dieser Methoden;
+Grundkompetenz in interdisziplinären Analyse- und
+Interpretationsverfahren (M03).
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: für Veranstaltung Nr. 3: Nachweis des Graecum oder
+Griechischkenntnisse auf dem Niveau des Graecum.
+b) verpflichtende Nachweise: Keine
+6. Verwendbarkeit des Moduls: Lehramt am Gymnasium (Griechisch), Bachelor
+(Griechische Philologie HF / NF)
+7. Angebotsturnus des Moduls: jährlich
+8. Das Modul kann absolviert werden in: 2 Semestern
+9. Empfohlenes Fachsemester: 1 bis 4
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 180
+davon:
+1. Präsenzzeit: 6 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 90 Std.
+Leistungspunkte: 6
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+6Modul: GRI-LA-M 03
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+GRI- Pflicht Übung Einführung in die Klassische 2
+L A-M Philologie
+0 3.1
+GRI- Pflicht Vorlesung Griechische Geschichte 2 Siehe Kommentiertes Vorlesungsverzeichnis
+L A-M Übung (Lehrimport)
+0 3.2
+GRI- Pflicht Übung Übung Griechische 2
+L A-M Sprachwissenschaft oder: Übung
+0 3.3 zu Mythologie (oder) griechischen
+Religion (oder) Alltagskultur
+(oder) Metrik (oder) Textkritik und
+Paläographie
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+GRI- Einführung in die Klausur 90 Minuten Zeitpunkt: Ende 50 %
+L A-M Klassische Philologie der Vorlesungszeit
+0 3.1
+GRI- Übung Griech. Sprachwiss./ Prüfung: Klausur: 45 Min.; 50 %
+L A-M Mythol./Relig./Alltagskult/ oder Mündl. Prüfung: ca.
+0 3.3 Metrik/Textkritik+Paläografie 30 Minuten; Zeitpunkt:
+Ende der Vorlesungszeit
+13. Bemerkungen:
+Da Nr. 2 ein Lehrimport ist, bestimmt das zuständige Fach die Studien- und Prüfungsleistungen.
+7Modul: GRI-LA-M 04
+Modul: GRI-LA-M 04
+Gültig ab WS08/09 / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Basismodul Griechische Literaturwissenschaft Prosa
+2. Fachgebiet / Verantwortlich: Prof. Dr. Georg Rechenauer
+mit Assistenten
+3. Inhalte des Moduls: Grundkenntnisse der griechischen Literaturwissenschaft
+und Literaturgeschichte (Prosa); Überblick über Methoden
+der Interpretation.
+4. Qualifikationsziele des Moduls / zu Fähigkeit zur Analyse von Inhalt und Aufbau ausgewählter
+erwerbende Kompetenzen: Werke der griechischen Prosa; selbständige Anwendung
+von Methoden literaturwissenschaftlicher Interpretation.
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: Nachweis des Graecum oder Griechischkenntnisse auf
+dem Niveau des Graecum.
+b) verpflichtende Nachweise: Keine
+6. Verwendbarkeit des Moduls: Lehramt am Gymnasium (Griechisch) Bachelor
+(Griechische Philologie HF / NF)
+7. Angebotsturnus des Moduls: jährlich
+8. Das Modul kann absolviert werden in: 2 - 3 Semester
+9. Empfohlenes Fachsemester: 1 bis 4
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 360
+davon:
+1. Präsenzzeit: 10 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 210 Std.
+Leistungspunkte: 12
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+8Modul: GRI-LA-M 04
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+GRI- Pflicht Vorlesung griechische Prosa 2
+L A-M
+0 4.1
+GRI- Pflicht Vorlesung griechische Prosa 2
+L A-M
+0 4.2
+GRI- Pflicht Proseminar griechische Prosa 2
+L A-M
+0 4.3
+GRI- Pflicht Übung Lektüre griechischer Prosa 2
+L A-M
+0 4.4
+GRI- Pflicht Übung Lektüre griechischer Prosa 2
+L A-M
+0 4.5
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+GRI- Vorlesung griechische Prosa Klausur 90 Minuten Zeitpunkt: Ende 10 %
+L A-M der Vorlesungszeit
+0 4.1
+GRI- Vorlesung griechische Prosa Klausur 90 Minuten Zeitpunkt: Ende 10 %
+L A-M der Vorlesungszeit
+0 4.2
+GRI- Proseminar griechische Prosa Hausarbeit 7 Wochen Zeitpunkt: vorlesungsfreie 40 %
+L A-M Zeit nach Vorlesungsende.
+0 4.3
+GRI- Lektüre griechischer Prosa Klausur: 90 Min. oder 20 %
+L A-M mündl. Prüfung: ca. 20 Min.;
+0 4.4 Zeitpunkt: - Klausur: Ende
+derVorlesungszeit; - mündl.
+Prüfung: vorlesungsfreie Zeit
+GRI- Lektüre griechischer Prosa Klausur: 90 Min. oder 20 %
+L A-M mündl. Prüfung: ca. 20 Min.;
+0 4.5 Zeitpunkt: - Klausur: Ende
+derVorlesungszeit; - mündl.
+Prüfung: vorlesungsfreie Zeit
+13. Bemerkungen:
+Im Bachelor Nebenfach ist entweder M 04 oder M 05 oder eine alle in diesenModulen enthaltenen
+Veranstaltungstypen einmal abdeckende Auswahl im Umfang von 12 LP zu erbringen.
+9Modul: GRI-LA-M 05
+Modul: GRI-LA-M 05
+Gültig ab WS08/09 / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Basismodul Griechische Literaturwissenschaft Poesie
+2. Fachgebiet / Verantwortlich: Prof. Dr. Georg Rechenauer
+mit Assistenten
+3. Inhalte des Moduls: Grundkenntnisse der griechischen Literaturwissenschaft
+und Literaturgeschichte (Poesie); Überblick über
+Methoden der Interpretation
+4. Qualifikationsziele des Moduls / zu Fähigkeit zur Analyse von Inhalt und Aufbau ausgewählter
+erwerbende Kompetenzen: Werke der griechischen Poesie; selbständige Anwendung
+von Methoden literaturwissenschaftlicher Interpretation.
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: Nachweis des Graecum oder Griechischkenntnisse auf
+dem Niveau des Graecum.
+b) verpflichtende Nachweise: Keine
+6. Verwendbarkeit des Moduls: Lehramt am Gymnasium (Griechisch) Bachelor
+(Griechische Philologie HF / NF)
+7. Angebotsturnus des Moduls: jährlich
+8. Das Modul kann absolviert werden in: 2 - 3 Semester
+9. Empfohlenes Fachsemester: 1 bis 4
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 360
+davon:
+1. Präsenzzeit: 10 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 210 Std.
+Leistungspunkte: 12
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+10Modul: GRI-LA-M 05
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+GRI- Pflicht Vorlesung Vorlesung griechische Poesie 2
+L A-M
+0 5.1
+GRI- Pflicht Vorlesung Vorlesung griechische Poesie 2
+L A-M
+0 5.2
+GRI- Pflicht Proseminar Proseminar griechische Poesie 2
+L A-M
+0 5.3
+GRI- Pflicht Übung Lektüre griechische Poesie 2
+L A-M
+0 5.4
+GRI- Pflicht Übung Lektüre griechische Poesie 2
+L A-M
+0 5.5
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+GRI- Vorlesung griechische Poesie Klausur 90 Minuten Zeitpunkt: Ende 10 %
+L A-M der Vorlesungszeit
+0 5.1
+GRI- Vorlesung griechische Poesie Klausur 90 Minuten Zeitpunkt: Ende 10 %
+L A-M der Vorlesungszeit
+0 5.2
+GRI- Proseminar griechische Poesie Hausarbeit 7 Wochen Zeitpunkt: vorlesungsfreie Zeit 40 %
+L A-M nach dem Vorlesungsende
+0 5.3
+GRI- übung griechische Poesie Klausur: 90 Min.; 20 %
+L A-M mündl. Prüfung:ca. 20
+0 5.4 Min.; Klausur: Ende
+derVorlesungszeit.; mündl.
+Prüfung: vorlesungsfreie Zeit
+GRI- übung griechische Poesie Klausur: 90 Min.; 20 %
+L A-M mündl. Prüfung:ca. 20
+0 5.5 Min.; Klausur: Ende
+derVorlesungszeit.; mündl.
+Prüfung: vorlesungsfreie Zeit
+13. Bemerkungen:
+Im Bachelor Nebenfach ist entweder M 04 oder M 05 oder eine alle in diesenModulen enthaltenen
+Veranstaltungstypen einmal abdeckende Auswahl im Umfang von 12 LP zu erbringen.
+11Modul: GRI-LA-M 11
+Modul: GRI-LA-M 11
+Gültig ab WS08/09 / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Aufbaumodul Griechische Sprache I
+2. Fachgebiet / Verantwortlich: Akad. Rat Dr. Markus Gruber
+3. Inhalte des Moduls: Sprach- und Übersetzungsübungen; Vertiefung der
+sprachlich-phraseologischen Kenntnisse sowie der
+Übersetzungsfähigkeit.
+4. Qualifikationsziele des Moduls / zu Fähigkeit zur selbständigen korrekten und sinngerechten
+erwerbende Kompetenzen: Übersetzung griechischer Texte gehobenen
+Schwierigkeitsgrades ins Deutsche und deutscher Texte
+gehobenen Schwierigkeitsgrades ins Griechische; Analyse
+der sprachlichen Eigenheiten unterschiedlicher Autoren.
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: Keine
+b) verpflichtende Nachweise: BA 1. HF: Basismodul Griechische Sprache I (M 01)
+Lehramt: Basismodul Griechische Sprache II (M 02)
+6. Verwendbarkeit des Moduls: Lehramt am Gymnasium Griechisch; Bachelor
+Griechische Philologie (1. HF)
+7. Angebotsturnus des Moduls: jährlich
+8. Das Modul kann absolviert werden in: 1 - 2 Semester
+9. Empfohlenes Fachsemester: 5 bis 6
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 240
+davon:
+1. Präsenzzeit: 4 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 180 Std.
+Leistungspunkte: 8
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+GRI- Pflicht Übung Griechisch-deutsche 2
+L A-M Übersetzungen II 1 Mittelstufe
+1 1.1
+GRI- Pflicht Übung Deutsch-griechische 2
+L A-M Übersetzungen II 1 Mittelstufe
+1 1.2
+12Modul: GRI-LA-M 11
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+GRI- Griechisch-deutsche Klausur 180 zwei Klausuren 2 x 90 50 %
+L A-M Übersetzung II 1 Mittelstufe Minuten Minuten; Zeitpunkt: Mitte und
+1 1.1 Ende der Vorlesungszeit;
+zusammen 50%
+GRI- Deutsch-griechische Klausur 180 zwei Klausuren 2 x 90 50 %
+L A-M Übersetzung II 1 Mittelstufe Minuten Minuten; Zeitpunkt: Mitte und
+1 1.2 Ende der Vorlesungszeit;
+zusammen 50%
+13. Bemerkungen:
+Die zwei Klausuren nach 13.1 und 13.2 ergeben jeweils zusammen eineModulteilprüfung.
+13Modul: GRI-LA-M 12
+Modul: GRI-LA-M 12
+Gültig ab WS08/09 / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Aufbaumodul Griechische Sprache II
+2. Fachgebiet / Verantwortlich: Akad. Rat Dr. Markus Gruber
+3. Inhalte des Moduls: Sprach- und Übersetzungsübungen: Vertiefung der
+Übersetzungsfähigkeit bis zur Examensreife durch
+umfassende sprachliche Kenntnisse.
+4. Qualifikationsziele des Moduls / zu Fähigkeit zur selbständigen korrekten und
+erwerbende Kompetenzen: sinngerechten Übersetzung griechischer Texte hohen
+Schwierigkeitsgrades ins Deutsche und deutscher Texte
+hohen Schwierigkeitsgrades ins Griechische; Fähigkeit
+zur detaillierten Analyse der sprachlichen Eigenheiten
+unterschiedlicher Autoren; kreative Aneignung der
+sprachlichen Eigenheiten unterschiedlicher Autoren (M12).
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: Keine
+b) verpflichtende Nachweise: Aufbaumodul Griechische Sprache I (M 11)
+6. Verwendbarkeit des Moduls: Lehramt am Gymnasium (Griechisch)
+7. Angebotsturnus des Moduls: jährlich
+8. Das Modul kann absolviert werden in: 1 - 2 Semester
+9. Empfohlenes Fachsemester: 7 bis 8
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 240
+davon:
+1. Präsenzzeit: 4 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 180 Std.
+Leistungspunkte: 8
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+GRI- Pflicht Übung Griechisch-deutsche 2
+L A-M Übersetzungen II 2 Oberstufe
+1 2.1
+GRI- Pflicht Übung Deutsch-griechische 2
+L A-M Übersetzungen II 2 Oberstufe
+1 2.2
+14Modul: GRI-LA-M 12
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+GRI- Griechisch-deutsche Klausur 180 zwei Klausuren 2 x 90 50 %
+L A-M Übersetzung II 2 Oberstufe Minuten Minuten; Zeitpunkt: Mitte
+1 2.1 und Ende derVorlesungszeit;
+zusammen 50%
+GRI- Deutsch-griechische Klausur 180 zwei Klausuren 2 x 90 50 %
+L A-M Übersetzung II 2 Oberstufe Minuten Minuten; Zeitpunkt: Mitte
+1 2.2 und Ende derVorlesungszeit;
+zusammen 50%
+13. Bemerkungen:
+Die zwei Klausuren nach Nr. 1 und Nr. 2 ergeben jeweils zusammen eineModulteilprüfung.
+15Modul: GRI-LA-M 13
+Modul: GRI-LA-M 13
+Gültig ab WS08/09 / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Aufbaumodul Griechische Antike
+2. Fachgebiet / Verantwortlich: Prof. Dr. Georg Rechenauer
+mit Assistenten
+3. Inhalte des Moduls: Vertiefung der Kenntnisse in Griechischer Kunst,
+Zivilisation und Philosophie.
+4. Qualifikationsziele des Moduls / zu Fähigkeit zur vertieften Analyse der Methoden der
+erwerbende Kompetenzen: altertumswissenschaftlichen Nachbarfächer und zur
+selbständiger Anwendung interdisziplinärer Methoden.
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: Nachweis des Graecum oder Griechischkenntnisse auf
+dem Niveau des Graecum
+b) verpflichtende Nachweise: Keine
+6. Verwendbarkeit des Moduls: Lehramt am Gymnasium (Griechisch) Bachelor
+Griechische Philologie (HF)
+7. Angebotsturnus des Moduls: jährlich
+8. Das Modul kann absolviert werden in: 2 Semestern
+9. Empfohlenes Fachsemester: 3 bis 8
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 360
+davon:
+1. Präsenzzeit: 8 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 240 Std.
+Leistungspunkte: 8
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+GRI- Pflicht Vorlesung Vorlesung/Übung Griechische 2 Siehe
+L A-M Übung Archäologie KommentiertesVorlesungsverzeichnis(Lehrimport)
+1 3.1
+GRI- Pflicht Übung Teilnahme an Exkursion zu Stätten 4
+L A-M d. griech. Antike
+1 3.2
+GRI- Pflicht Vorlesung Vorlesung/Übung Antike 2 Siehe
+L A-M Übung Philosophie KommentiertesVorlesungsverzeichnis(Lehrimport)
+1 3.3
+16Modul: GRI-LA-M 13
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+GRI- Teilnahme an Exkursion zu Referat 30 Minuten Zeitpunkt: während 100 %
+L A-M Stätten der griechischen Antike derExkursion, i.d.R. inder
+1 3.2 vorlesungsfreienZeit
+13. Bemerkungen:
+Da Nr. 1 und Nr. 3 Lehrimporte sind, bestimmt das zuständige Fach dieStudien- und Prüfungsleistungen
+17Modul: GRI-LA-M 14
+Modul: GRI-LA-M 14
+Gültig ab WS08/09 / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Aufbaumodul Griechische Literaturwissenschaft
+Prosa
+2. Fachgebiet / Verantwortlich: Prof. Dr. Georg Rechenauer
+mit Assistenten
+3. Inhalte des Moduls: Erweiterung und Vertiefung der Kenntnisse der
+griechischen Literaturwissenschaft und Literaturgeschichte
+(Prosa); erweiterter Überblick über verschiedene
+Interpretationsmethoden und deren kritische Analyse.
+4. Qualifikationsziele des Moduls / zu Fähigkeit zur selbständigen vertieften Analyse von
+erwerbende Kompetenzen: Inhalt und Aufbau unterschiedlicher Werke der
+griechischen Prosa in diachroner und synchroner
+Perspektive; Entwicklung und Anwendung eigenständiger
+literaturwissenschaftlicher Interpretationsansätze, v.a. in
+Hinblick auf die Zulassungs- bzw. B.A.-Arbeit.
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: Keine
+b) verpflichtende Nachweise: Basismodul Griechische Literaturwissenschaft Prosa (M
+04).
+6. Verwendbarkeit des Moduls: Lehramt am Gymnasium (Griechisch) Bachelor
+Griechische Philologie(HF / NF); Master Griechische
+Philologie
+7. Angebotsturnus des Moduls: jährlich
+8. Das Modul kann absolviert werden in: 2 - 3 Semester
+9. Empfohlenes Fachsemester: 5 bis 7
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden:
+davon:
+1. Präsenzzeit: SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): Std.
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+18Modul: GRI-LA-M 14
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+GRI- Pflicht Vorlesung Vorlesung griechische 2
+L A-M Prosaliteratur
+1 4.1
+GRI- Pflicht Hauptseminar Hauptseminar griechische Prosa 2
+L A-M
+1 4.2
+GRI- Pflicht Übung Lektüreübung griechische Prosa 2
+L A-M
+1 4.3
+GRI- Wahlpflicht Übung Interpretationsübung 2 Die Interpretationsübung im Pflichtprogramm
+L A-M Oberseminar kann wahlweise im Aufbaumodul
+1 4.4 Griechische Literaturwissenschaft Prosa
+oder Poesie absolviert werden.
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+GRI- Vorlesung griechische Prosaliteratur Klausur 90 Minuten Zeitpunkt: Ende 1/5 bzw. 1/7
+L A-M der Vorlesungszeit
+1 4.1
+GRI- Hauptseminar griechische Prosa Hausarbeit 11 Wochen Zeitpunkt: vorlesungsfreie Zeit 3/5 bzw. 3/7
+L A-M nach dem Vorlesungsende
+1 4.2
+GRI- übung griechische Prosa alternativ:- Klausur- 1/5 bzw. 1/7
+L A-M mündl.Prüfung- Klausur: 90
+1 4.3 Min.- mündl. Prüfung:ca.
+20 Min.- Klausur: Ende
+derVorlesungszeit- mündl.
+Prüfung:vorlesungsfreie Zeit
+GRI- OS/Übung Interpretationsübung Einzelprüfung mündlich 30 Minuten Zeitpunkt: vorlesungsfreie Zeit 2/7
+L A-M Griechische Prosa nach dem Vorlesungsende
+1 4.4
+13. Bemerkungen:
+a) Die Interpretationsübung (Oberseminar) im Pflichtprogramm (Nr. 12.4 / 13.4) kann wahlweise im
+Aufbaumodul Griechische Literaturwissenschaft Prosa oder Poesie absolviert werden; dementsprechend
+ergeben sich 11 oder 15 LP für M14 oder M15 (zusammen 26 LP). b) Im Bachelor 1. HF sind aus M14
+und M15 insgesamt 15 LP zu absolvieren (entweder M14 oder M15 oder eine alle darin enthaltenen
+Veranstaltungstypen einmal abdeckende Auswahl aus beiden im Umfang von 15 LP). Im Bachelor 2. HF
+ist mindestens ein Seminar aus M14 oder M15 nachzuweisen. Im Bachelor NF ist eine Auswahl aus M14
+und/oder M15 im Umfang von 5 LP nachzuweisen. Workload und Präsenzzeit variieren entsprechend der
+Modulbelegung (mit oder ohne Interpretationsübung): Arbeitsaufwand: 275 bis 450 Std. Präsenzzeit: 6 bis 8
+SWS Selbsttudium: 170 bis 330 Std.
+19Modul: GRI-LA-M 15
+Modul: GRI-LA-M 15
+Gültig ab WS08/09 / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Aufbaumodul Griechische Literaturwissenschaft
+Poesie
+2. Fachgebiet / Verantwortlich: Prof. Dr. Georg Rechenauer
+mit Assistenten
+3. Inhalte des Moduls: Erweiterung und Vertiefung der Kenntnisse der
+griechischen Literaturwissenschaft und Literaturgeschichte
+(Poesie); erweiterter Überblick über verschiedene
+Interpretationsmethoden und deren kritische Analyse.
+4. Qualifikationsziele des Moduls / zu Fähigkeit zur selbständigen vertieften Analyse von
+erwerbende Kompetenzen: Inhalt und Aufbau unterschiedlicher Werke der
+griechischen Poesie in diachroner und synchroner
+Perspektive; Entwicklung und Anwendung eigenständiger
+literaturwissenschaftlicher Interpretationsansätze, v.a. in
+Hinblick auf die Zulassungs- bzw. B.A.-Arbeit.
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: Keine
+b) verpflichtende Nachweise: Basismodul Griechische Literaturwissenschaft
+Poesie (M 05)
+6. Verwendbarkeit des Moduls: Lehramt am Gymnasium Griechisch Bachelor Griechische
+Philologie (HF / NF)
+7. Angebotsturnus des Moduls: jährlich
+8. Das Modul kann absolviert werden in: 2 - 3 Semester
+9. Empfohlenes Fachsemester: 5 bis 7
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden:
+davon:
+1. Präsenzzeit: SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): Std.
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+20Modul: GRI-LA-M 15
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+GRI- Pflicht Vorlesung Vorlesung griechische Poesie 2
+L A-M
+1 5.1
+GRI- Pflicht Hauptseminar Hauptseminar griechische Poesie 2
+L A-M
+1 5.2
+GRI- Pflicht Übung Lektüre griechische Poesie 2
+L A-M
+1 5.3
+GRI- Wahlpflicht Übung Interpretationsübung 2 Die Interpretationsübung im Pflichtprogramm
+L A-M Oberseminar kann wahlweise im Aufbaumodul
+1 5.4 Griechische Literaturwissenschaft Prosa
+oder Poesie absolviert werden.
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+GRI- Vorlesung griechische Poesie Klausur 90 Minuten Zeitpunkt: Ende 1/5 bzw. 1/7
+L A-M derVorlesungszeit
+1 5.1
+GRI- Hauptseminar griechische Poesie Hausarbeit 11 Wochen Zeitpunkt: vorlesungsfreie 3/5 bzw. 3/7
+L A-M Zeitnach dem Vorlesungsende
+1 5.2
+GRI- Lektüreübung griechische Poesie alternativ:- Klausur- 1/5 bzw. 1/7
+L A-M mündl.Prüfung- Klausur: 90
+1 5.3 Min.- mündl. Prüfung:ca.
+20 Min.- Klausur: Ende
+derVorlesungszeit- mündl.
+Prüfung:vorlesungsfreie Zeit
+GRI- OS/Übung Interpretationsübung Einzelprüfung mündlich 30 Minuten Zeitpunkt: vorlesungsfreie 2/7
+L A-M Griechische Poesie Zeitnach dem Vorlesungsende
+1 5.4
+13. Bemerkungen:
+a) Die Interpretationsübung (Oberseminar) im Pflichtprogramm (Nr. 12.4 / 13.4) kann wahlweise im
+Aufbaumodul Griechische Literaturwissenschaft Prosa oder Poesie absolviert werden; dementsprechend
+ergeben sich 11 oder 15 LP für M14 oder M15 (zusammen 26 LP). b) Im Bachelor 1. HF sind aus M14
+und M15 insgesamt 15 LP zu absolvieren (entweder M14 oder M15 oder eine alle darin enthaltenen
+Veranstaltungstypen einmal abdeckende Auswahl aus beiden im Umfang von 15 LP). Im Bachelor 2. HF
+ist mindestens ein Seminar aus M14 oder M15 nachzuweisen. Im Bachelor NF ist eine Auswahl aus M14
+und/oder M15 im Umfang von 5 LP nachzuweisen. Workload und Präsenzzeit variieren entsprechend der
+Modulbelegung (mit oder ohne Interpretationsübung): Arbeitsaufwand: 275 bis 450 Std. Präsenzzeit: 6 bis 8
+SWS Selbsttudium: 170 bis 330 Std.
+21Modul: GRI-LA-M 21
+Modul: GRI-LA-M 21
+Gültig ab WS08/09 / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Grund- und Aufbaumodul Griechische Fachdidaktik
+2. Fachgebiet / Verantwortlich: Prof. Dr. Georg Rechenauer
+mit Assistenten
+3. Inhalte des Moduls: Grundkenntnisse der Methodik des
+Griechischunterrichts und deren Vertiefung
+4. Qualifikationsziele des Moduls / zu Fähigkeit zur Analyse und selbständigen
+erwerbende Kompetenzen: Anwendung didaktischer Modelle und Methoden
+des Griechischunterrichts in allen Jahrgangsstufen
+des Gymnasiums (in enger Verzahnung mit den
+erforderlichen Schulpraktika und als Vorbereitung auf das
+Referendariat).
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: Nachweis des Graecum oder Griechischkenntnisse
+auf dem Niveau des Graecum
+b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: Lehramt am Gymnasium (Griechisch)
+7. Angebotsturnus des Moduls: jährlich
+8. Das Modul kann absolviert werden in: 2 - 3 Semester
+9. Empfohlenes Fachsemester: 3 bis 6
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 300
+davon:
+1. Präsenzzeit: 4 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 240 Std.
+Leistungspunkte: 10
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+GRI- Pflicht Übung Einführung in die Fachdidaktik des 2
+L A-M Griechischunterrichts
+2 1.1
+GRI- Pflicht Übung Fachdidaktisches Seminar 2
+L A-M
+2 1.2
+22Modul: GRI-LA-M 21
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+GRI- Grundlagen der Referat 30 Minuten Zeitpunkt: während 50 %
+L A-M griechischen Fachdidaktik der Vorlesungszeit
+2 1.1
+GRI- Vertiefung der Referat 30 Minuten Zeitpunkt: während 50 %
+L A-M griechischen Fachdidaktik der Vorlesungszeit
+2 1.2
+13. Bemerkungen:
+Die Wiederholbarkeit der Veranstaltungen ergibt sich aus der Prüfungsordnung.Die Modulnote wird aus
+dem Durchschnitt der in den Veranstaltungen Nr. 1 + 2 erreichten Noten ermittelt.
+23

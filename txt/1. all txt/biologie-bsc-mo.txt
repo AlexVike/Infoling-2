@@ -1,0 +1,2021 @@
+input_dictionary = Modulkatalog  
+Bachelor of Science Biologie 
+gültig für Studienanfänger ab dem WS 20/21 
+(Geändert durch Satzung vom 28. Mai 2020) 
+ 
+Modul BIO-BSc-01   Allgemeine Biologie – Zellbiologie und Botanik      2 
+Modul BIO-BSc-02   Allgemeine Biologie – Zoologie          4 
+Modul BIO-BSc-03   Ökologie und Evolutionsbiologie          6 
+Modul BIO-BSc-04   Formenkenntnis und Systematik von Pflanzen      8 
+Modul BIO-BSc-05   Formenkenntnis und Systematik von Tieren      10 
+Modul BIO-BSc-06   Pflanzen- und Tierphysiologie        12 
+Modul BIO-BSc-07   Neurobiologie, Ethologie und Entwicklungsbiologie    14 
+Modul BIO-BSc-08   Genetik            17 
+Modul BIO-BSc-09  Mikrobiologie              19 
+Modul BIO-BSc-10   Biochemie            21 
+Modul BIO-BSc-11   Mathematik            23 
+Modul BIO-BSc-12  Physik            25 
+Modul BIO-BSc-13  Biologische Physik            27 
+Modul BIO-BSc-14   Allgemeine Chemie            29 
+Modul BIO-BSc-15  Anorganische Chemie            31 
+Modul BIO-BSc-16  Organische Chemie I            33 
+Modul BIO-BSc-17  Organische Chemie II            35 
+Modul BIO-BSc-18  Physikalische Chemie            37 
+Modul BIO-BSc-19  Praxismodul            39 
+Modul BIO-BSc-21  Schlüsselkompetenzen            43 
+Modul BIO-BSc-22  Statistik und Bioinformatik          45 
+Modul BIO-BSc-23  Spezialisierungsmodul – Vorlesungen       47 
+Modul BIO-BSc-24  Spezialisierungsmodul - Praktika        48 
+Modul BIO-BSc-25  Forschungsmodul            49 
+Modul BIO-BSc-26  Bachelorarbeit            51 
+ 
+ 
+ 
+ 
+ 
+ 
+Zeichenerklärung: 
+P = Pflicht, WP = Wahlpflicht, SWS = Semesterwochenstunde (1 SWS = 45 min/Semesterwoche), 
+LP = Leistungspunkte (1 LP = 25-30 h workload), V = Vorlesung, Ü = Übung 
+ 
+   
+1 
+ Modul BIO-BSc-01 
+ 
+1. Name des Moduls  Allgemeine Biologie – Zellbiologie und Botanik 
+2. Fachgebiet / Verantwortlich  Prof. Dr. Thomas Dresselhaus 
+3. Inhalte des Moduls  Grundkenntnisse der Allgemeinen und Molekularen 
+Zellbiologie, sowie der Botanik. 
+Vorlesung Zellbiologie und Botanik 
+-  Methoden der Zellbiologie  
+-  Aufbau und Funktionen der eukaryotischen Zelle und 
+seiner Bestandteile 
+-  Aufbau pflanzlicher Gewebe, Organe und deren 
+Funktionen 
+-  wesentliche Organisationsformen und Baupläne der 
+Pflanzen 
+-  Vermehrung und Fortpflanzung der Pflanzen (Algen, 
+Moose, Farne, Samenpflanzen) 
+Übungen zur Zytologie und Anatomie der Pflanzen  
+-  praktischer Umgang mit dem Lichtmikroskop 
+-  Herstellung pflanzenanatomischer Präparate 
+-  wissenschaftliches Zeichnen 
+-  Kenntnis der Organe und Gewebe der höheren Pflanzen 
+4. Qualifikationsziele des Moduls / zu  Nach erfolgreichem Abschluss sind Studierende in der Lage, 
+erwerbende Kompetenzen 
+-  die Feinstruktur von Zellen und seiner Bestandteile 
+(Organelle) zu skizzieren und benennen, sowie die 
+jeweiligen Funktionen zu erläutern 
+-  Gewebe, Organe und Baupläne von Pflanzen zu skizzieren 
+und benennen, sowie Funktionen zu erklären   
+-  Baupläne von Pflanzen in ökologischen und evolutionären 
+Kontexten zu interpretieren, 
+-  die Vermehrung und Fortpflanzung der verschiedenen 
+Organisationsformen zu erläutern, 
+-  die Struktur von pflanzlichen Zellen und Geweben im 
+Lichtmikroskop zu identifizieren und Zeichnungen nach 
+vorgegebenen wissenschaftlichen Kriterien anzufertigen,   
+-  eigenständig Präparate von pflanzlichen Zellen und 
+Geweben herzustellen und lichtmikroskopisch zu 
+untersuchen, 
+-  mikroskopische Arbeitsweisen zur Untersuchung von 
+pflanzlichen Zellen und Geweben zielorientiert zu 
+optimieren. 
+5. Teilnahmevoraussetzungen 
+    a) empfohlene Kenntnisse   
+    b) verpflichtende Nachweise   
+6. Verwendbarkeit des Moduls  BSc Biologie 
+7. Angebotsturnus des Moduls  WS, jährlich 
+8. Das Modul kann absolviert werden in  1 Semester 
+9. Empfohlenes Fachsemester  1. Semester 
+10. Arbeitsaufwand des Moduls (Workload) /  Gesamt in Stunden: 190 
+2 
+ Anzahl Leistungspunkte  davon: 
+1. Präsenzzeit: 70 Std. 
+2. Selbststudium (inkl. Prüfungsvorbereitung/Prüfung): 120 Std. 
+Leistungspunkte: 7 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren 
+aller in den Nrn. 11 und 12 aufgeführten Leistungen.  
+11. Modulbestandteile 
+Nr.  P /  Lehrform  Themenbereich/Thema  SWS   LP1  Studienleistungen 
+WP 
+1  P  Vorlesung  Allgemeine Biologie – Zellbiologie  2,5  3   
+und Botanik 
+2  P  Vorlesung  Vorlesung zu den Übungen zur  1  2   
+Zytologie u. Anatomie der Pflanzen 
+3  P  Übung  Übungen zur Zytologie und  3  2  Teilnahme; Protokolle (Zeichnungen) 
+Anatomie der Pflanzen (10 Kurstage)  zu jedem Kurstag2 
+12. Modulprüfung 
+Art der  Dauer  Zeitpunkt  Anteil an 
+Kompetenz/Thema/Bereich 
+Prüfung  Modulnote 
+Allgemeine Biologie – Zellbiologie und  Klausur  90 min  Ende des Kurses (Mitte WS)3  100% 
+Botanik, Zytologie u. Anatomie der 
+Pflanzen 
+13. Bemerkungen  
+1 Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Veranstaltung zum Gesamtaufwand des 
+Moduls. Die LP werden erst mit Bestehen der Modulprüfung vergeben. 
+2 Bei weniger als 80% der Protokolle (mehr als zwei Fehltagen) darf die Klausur nicht angetreten werden. 
+3 Ein Wiederholungstermin wird in der anschließenden vorlesungsfreien Zeit angeboten. 
+ 
+ 
+Zeichenerklärung: 
+P = Pflicht, WP = Wahlpflicht, SWS = Semesterwochenstunde (1 SWS = 45 min/Semesterwoche), 
+LP = Leistungspunkte (1 LP = 25-30 h workload). 
+ 
+   
+3 
+ Modul BIO-BSc-02 
+ 
+1. Name des Moduls  Allgemeine Biologie - Zoologie 
+2. Fachgebiet / Verantwortlich  Prof. Dr. Jürgen Heinze 
+3. Inhalte des Moduls  Grundkenntnisse der Allgemeinen Biologie und Überblick 
+über die grundlegenden Aspekte der Zoologie. 
+-  Aufbau von tierischen Zellen, Geweben und Organismen,  
+-  wesentliche Baupläne von Tieren, 
+-  Physiologie der Tiere, 
+-  Verhalten der Tiere.  
+-  Überblick über die Diversität von Tieren und ihrer 
+Lebensweisen 
+4. Qualifikationsziele des Moduls / zu  Nach erfolgreichem Abschluss sind Studierende in der Lage, 
+erwerbende Kompetenzen 
+-  die Baupläne der wesentlichen Tierstämme zu 
+rekonstruieren, und verfügen damit über die Grundlagen 
+für ein Verständnis weiter in die Tiefe führender 
+Veranstaltungen höherer Semester,  
+-  selbstständig einfache Präparationen und Experimente 
+durchzuführen und zu interpretieren.  
+5. Teilnahmevoraussetzungen 
+    a) empfohlene Kenntnisse   
+    b) verpflichtende Nachweise   
+6. Verwendbarkeit des Moduls  BSc Biologie 
+7. Angebotsturnus des Moduls  WS, jährlich 
+8. Das Modul kann absolviert werden in  1 Semester 
+9. Empfohlenes Fachsemester  1. Semester 
+10. Arbeitsaufwand des Moduls (Workload) /  Gesamt in Stunden: 190 
+Anzahl Leistungspunkte 
+davon: 
+1. Präsenzzeit: 70 Std. 
+2. Selbststudium (inkl. Prüfungsvorbereitung/ 
+Prüfung): 120 Std. 
+Leistungspunkte: 7 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren 
+aller in den Nrn. 11 und 12 aufgeführten Leistungen.  
+11. Modulbestandteile 
+Nr.  P /  Lehrform  Themenbereich/Thema  SWS   LP1  Studienleistungen 
+WP 
+1  P  Vorlesung  Allgemeine Biologie – Zoologie  2,5  3   
+2  P  Vorlesung  Vorlesung zu den Übungen zur  1  2   
+Zytologie u. Anatomie der Tiere 
+3  P  Übung  Übungen zur Zytologie und  3  2  Teilnahme; Protokolle (Zeichnungen) 
+Anatomie der Tiere (10 Kurstage)  zu jedem Kurstag2 
+   
+4 
+ 12. Modulprüfung 
+Art der  Dauer  Zeitpunkt  Anteil an 
+Kompetenz/Thema/Bereich 
+Prüfung  Modulnote 
+Allgemeine Biologie – Zoologie,  Klausur  90 min  Ende des Kurses (Ende WS)3  100% 
+Zytologie und Anatomie der Tiere 
+13. Bemerkungen  
+1 Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Veranstaltung zum Gesamtaufwand des 
+Moduls. Die LP werden erst mit Bestehen der Modulprüfung vergeben. 
+2 Bei weniger als 80% der Protokolle (mehr als zwei Fehltagen) darf die Klausur nicht angetreten werden. 
+3 Ein Wiederholungstermin wird in der anschließenden vorlesungsfreien Zeit angeboten. 
+ 
+Zeichenerklärung: 
+P = Pflicht, WP = Wahlpflicht, SWS = Semesterwochenstunde (1 SWS = 45 min/Semesterwoche), 
+LP = Leistungspunkte (1 LP = 25-30 h workload). 
+ 
+ 
+   
+5 
+ Modul BIO-BSc-03 
+ 
+1. Name des Moduls  Ökologie und Evolutionsbiologie 
+2. Fachgebiet / Verantwortlich  Prof. Dr. Peter Poschlod 
+3. Inhalte des Moduls  Grundkenntnisse der Ökologie und des Naturschutzes sowie 
+der Evolutionsbiologie. 
+Vorlesung Ökologie 
+-  Steuerungsfaktoren globaler und lokaler Artenvielfalt 
+-  Zonobiome der Erde und ihre klimatische 
+Charakterisierung 
+-  ökologische bzw. physiologische Anpassungen von 
+Organismen an ihren Lebensraum 
+-  intra- und interspezifische Interaktionen 
+-  ökologische Auswirkungen und naturschutzfachliche 
+Konsequenzen des Klima- und Landnutzungswandels und 
+deren ethische Aspekte 
+-  Grundlagen des Naturschutzes 
+Vorlesung Evolutionsbiologie 
+-  Entstehung und Diversifizierung des Lebens unter 
+Berücksichtigung grundlegender Mechanismen der 
+Evolution 
+-  populationsgenetische Grundlagen 
+-  Bedeutung von Konflikt und Kooperation in der Evolution 
+komplexer Einheiten 
+4. Qualifikationsziele des Moduls / zu  Nach erfolgreichem Abschluss sind Studierende in der Lage, 
+erwerbende Kompetenzen  im Bereich der Ökologie 
+-  die grundlegenden ökologischen Zusammenhänge auf 
+globaler und lokaler Ebene zu definieren, 
+-  Naturschutz- und Umweltprobleme auf der Basis  
+ökologischer Forschung zu interpretieren, 
+im Bereich der Evolutionsbiologie 
+-  die Grundlagen der heute gängigen Vorstellungen zur 
+Evolution durch natürliche Selektion darzulegen und 
+unsachliche Evolutionskritik auszuräumen.  
+5. Teilnahmevoraussetzungen 
+    a) empfohlene Kenntnisse   
+    b) verpflichtende Nachweise   
+6. Verwendbarkeit des Moduls  BSc Biologie 
+7. Angebotsturnus des Moduls  SS, jährlich 
+8. Das Modul kann absolviert werden in  1 Semester 
+9. Empfohlenes Fachsemester  2. Semester 
+10. Arbeitsaufwand des Moduls (Workload) /  Gesamt in Stunden: 160 
+Anzahl Leistungspunkte 
+davon: 
+1. Präsenzzeit: 45 Std. 
+2. Selbststudium (inkl. Prüfungsvorbereitung/ 
+Prüfung): 115 Std. 
+Leistungspunkte: 6 
+6 
+ Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren 
+aller in den Nrn. 11 und 12 aufgeführten Leistungen.  
+11. Modulbestandteile 
+Nr.  P /  Lehrform  Themenbereich/Thema  SWS   LP1  Studienleistungen 
+WP 
+1  P  Vorlesung  Ökologie  2  3   
+2  P  Vorlesung  Evolutionsbiologie  2  3   
+12. Modulprüfung 
+Kompetenz/Thema/Bereich  Art der Prüfung  Dauer  Zeitpunkt  Anteil an Modulnote 
+Ökologie    Klausur  60 min  Ende SS2  50 % 
+Evolutionsbiologie  Klausur  60 min  Ende SS  50 % 
+13. Bemerkungen  
+1 Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Veranstaltung zum Gesamtaufwand des 
+Moduls. Die LP werden erst mit Bestehen der Modulprüfung vergeben. 
+2 Ein Wiederholungstermin wird in der anschließenden vorlesungsfreien Zeit angeboten. 
+ 
+Zeichenerklärung: 
+P = Pflicht, WP = Wahlpflicht, SWS = Semesterwochenstunde (1 SWS = 45 min/Semesterwoche), 
+LP = Leistungspunkte (1 LP = 25-30 h workload). 
+ 
+   
+7 
+ Modul BIO-BSc-04 
+ 
+1. Name des Moduls  Formenkenntnis und Systematik von Pflanzen 
+2. Fachgebiet / Verantwortlich  Prof. Dr. Christoph Oberprieler 
+3. Inhalte des Moduls  Grundkenntnisse der Formenkenntnis und Systematik 
+insbesondere der heimischen Flora. 
+Vorlesung und Übung 
+Morphologie und Terminologie der Bedecktsamer 
+(Angiospermae) 
+-  Eigenschaften der wichtigsten heimischen 
+Pflanzenfamilien 
+-  Arbeitsfelder der Systematischen Botanik (Taxonomie, 
+Nomenklatur, Phylogenie, Evolutionsbiologie, 
+Biogeographie)  
+-  Bestimmen von einheimischen Blütenpflanzen 
+-  Erkennen der charakteristischen Merkmale der wichtigsten 
+Familien 
+-  Anfertigung von Blütendiagrammen  
+-  Anfertigung eines Herbariums 
+Exkursionen 
+-  Anwendung bereits in den Übungen angeeigneten 
+Wissens über die wichtigsten einheimischen 
+Pflanzengruppen in der freien Natur 
+-  Vermittlung biologischen Hintergrundwissens über die 
+Ökologie der gefundenen Pflanzen und der 
+dazugehörigen Pflanzengesellschaften und Lebensräume 
+4. Qualifikationsziele des Moduls / zu  Nach erfolgreichem Abschluss sind Studierende in der Lage, 
+erwerbende Kompetenzen 
+-  die 100 wichtigsten einheimischen Blütenpflanzenarten 
+anzusprechen,  
+-  weitere Vertreter der heimischen Flora mittels 
+Bestimmungsliteratur zu bestimmen, 
+-  botanische Terminologie zu verstehen und zu gebrauchen,  
+-  die Systematik und Ökologie einheimischer Pflanzen und 
+Pflanzengesellschaften zu vermitteln, 
+-  Anfertigung von Blütendiagrammen  
+-  Anfertigung eines Herbariums 
+-  die Arbeitsfelder der Systematischen Botanik (Taxonomie, 
+Phylogenie, Evolutionsbiologie, Biogeographie) zu kennen 
+und darzustellen. 
+5. Teilnahmevoraussetzungen 
+    a) empfohlene Kenntnisse   
+    b) verpflichtende Nachweise  Modul BIO-BSc-01 
+6. Verwendbarkeit des Moduls  BSc Biologie 
+7. Angebotsturnus des Moduls  SS, jährlich 
+8. Das Modul kann absolviert werden in  1 Semester 
+9. Empfohlenes Fachsemester  2. Semester 
+   
+8 
+ 10. Arbeitsaufwand des Moduls (Workload) /  Gesamt in Stunden: 130 
+Anzahl Leistungspunkte 
+davon: 
+1. Präsenzzeit: 50 Std. 
+2. Selbststudium (inkl. Prüfungsvorbereitung/ 
+Prüfung): 80 Std. 
+Leistungspunkte: 5 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren 
+aller in den Nrn. 11 und 12 aufgeführten Leistungen.  
+11. Modulbestandteile 
+Nr.  P /  Lehrform  Themenbereich/Thema  SWS   LP1  Studienleistungen 
+WP 
+1  P  Vorlesung  Vorlesung zu den Übungen zur  1  2   
+Formenkenntnis und Systematik von 
+Pflanzen 
+2  P  Übung  Formenkenntnis und Systematik von  2,5  2  Teilnahme; Protokolle zu jedem 
+Pflanzen (10 Kurstage)  Kurstag2; Herbarium 
+3  P  Exkursion  Botanische Exkursionen (2 Halbtage)  0,5  1  Teilnahme an beiden Exkursionen 
+ 
+12. Modulprüfung 
+Kompetenz/Thema/Bereich  Art der Prüfung  Dauer  Zeitpunkt  Anteil an Modulnote 
+Formenkenntnis und Systematik  Klausur   90 min  Ende SS3  30 % Klausur 
+von Pflanzen  praktische Prüfung  90 min  20 % Herbarium  
+(Herbarium, 
+20 % Pflanzenansprache 
+Pflanzenansprache, 
+(Pflanze muss ohne 
+Pflanzenbestimmun
+Bestimmung erkannt werden) 
+g) 
+30 % Pflanzenbestimmung 
+13. Bemerkungen  
+1 Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Veranstaltung zum Gesamtaufwand des 
+Moduls. Die LP werden erst mit Bestehen der Modulprüfung vergeben. 
+2 Bei weniger als 80% der Protokolle (mehr als zwei Fehltagen) darf die Klausur nicht angetreten werden. 
+3 Ein Wiederholungstermin wird in der anschließenden vorlesungsfreien Zeit angeboten. 
+ 
+Zeichenerklärung: 
+P = Pflicht, WP = Wahlpflicht, SWS = Semesterwochenstunde (1 SWS = 45 min/Semesterwoche), 
+LP = Leistungspunkte (1 LP = 25-30 h workload). 
+   
+9 
+ Modul BIO-BSc-05 
+ 
+1. Name des Moduls  Formenkenntnis und Systematik von Tieren 
+2. Fachgebiet / Verantwortlich  Prof. Dr. Erhard Strohm 
+3. Inhalte des Moduls  Grundkenntnisse der Formenkenntnis und Systematik 
+insbesondere der heimischen Fauna. 
+Vorlesung und Übung 
+-  wichtige biologische Phänomene mit ökologischem, 
+evolutionsbiologischem und verhaltensbiologischem 
+Bezug jeweils in Anlehnung an die in den Übungen 
+behandelter Tiergruppe.  
+-  Bestimmen von einheimischen Tieren 
+-  Erkennen der charakteristischen Merkmale der wichtigsten 
+Taxa 
+Exkursionen 
+-  Anwendung bereits in den Übungen angeeigneten 
+Wissens über die wichtigsten einheimischen Tiergruppen 
+in der freien Natur 
+-  Vermittlung biologischen Hintergrundwissens über die 
+systematische Einordnung, Ökologie Evolutionsbiologie 
+und Verhalten der gefundenen Tiere  
+4. Qualifikationsziele des Moduls / zu  Nach erfolgreichem Abschluss sind Studierende in der Lage: 
+erwerbende Kompetenzen 
+-  die wichtigsten einheimischen zoologischen Taxa anhand 
+ihrer charakteristischen Merkmale zu erkennen und 
+systematisch einzuordnen, 
+-  zoologische Terminologie zu verstehen und zu 
+gebrauchen, 
+-  Ökologie, Evolutionsbiologie und Verhalten einheimischer 
+Tiere darzulegen und zu interpretieren. 
+5. Teilnahmevoraussetzungen 
+    a) empfohlene Kenntnisse   
+    b) verpflichtende Nachweise  Modul BIO-BSc-02 
+6. Verwendbarkeit des Moduls  BSc Biologie 
+7. Angebotsturnus des Moduls  SS, jährlich 
+8. Das Modul kann absolviert werden in  1 Semester 
+9. Empfohlenes Fachsemester  2. Semester 
+10. Arbeitsaufwand des Moduls (Workload) /  Gesamt in Stunden: 130 
+Anzahl Leistungspunkte 
+davon: 
+1. Präsenzzeit: 50 Std. 
+2. Selbststudium (inkl. Prüfungsvorbereitung/ 
+Prüfung): 80 Std. 
+Leistungspunkte: 5 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren 
+aller in den Nrn. 11 und 12 aufgeführten Leistungen.  
+   
+10 
+ 11. Modulbestandteile 
+Nr.  P /  Lehrform  Themenbereich/Thema  SWS   LP1  Studienleistungen 
+WP 
+1  P  Vorlesung  Vorlesung zu den Übungen zur  1  2   
+Formenkenntnis und Systematik von 
+Tieren 
+2  P  Übung  Formenkenntnis und Systematik von  2,5  2  Teilnahme; Protokolle zu jedem 
+Tieren (10 Kurstage)  Kurstag2 
+3  P  Exkursion  Zoologische Exkursionen (2  0,5  1  Teilnahme an beiden Exkursionen 
+Halbtage)   
+12. Modulprüfung 
+Kompetenz/Thema/Bereich  Art der Prüfung  Dauer  Zeitpunkt  Anteil an Modulnote 
+Formenkenntnis und Systematik  Klausur   60 min  Ende SS3  ⅔ Klausur 
+von Tieren  praktische Prüfung  20 min  ⅓ praktische Prüfung 
+13. Bemerkungen  
+1 Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Veranstaltung zum Gesamtaufwand des 
+Moduls. Die LP werden erst mit Bestehen der Modulprüfung vergeben. 
+2 Bei weniger als 80% der Protokolle (mehr als zwei Fehltagen) darf die Klausur nicht angetreten werden. 
+3 Ein Wiederholungstermin wird in der anschließenden vorlesungsfreien Zeit angeboten. 
+ 
+Zeichenerklärung: 
+P = Pflicht, WP = Wahlpflicht, SWS = Semesterwochenstunde (1 SWS = 45 min/Semesterwoche), 
+LP = Leistungspunkte (1 LP = 25-30 h workload) 
+   
+11 
+ Modul BIO-BSc-06 
+ 
+1. Name des Moduls  Pflanzen- und Tierphysiologie 
+2. Fachgebiet / Verantwortlich  Prof. Dr. Klaus Grasser, PD Dr. Oliver Bosch 
+3. Inhalte des Moduls  Pflanzenphysiologie 
+Grundkenntnisse über molekulare, zelluläre  und 
+physiologische Stoffwechsel-, Entwicklungs- und 
+Bewegungsvorgänge bei Pflanzen. 
+-  Prinzipien der Genregulation 
+-  Pflanzenbiotechnologie 
+-  Bewegungsphysiologie 
+-  Stoffwechselphysiologie 
+-  Entwicklungsphysiologie 
+ 
+Tierphysiologie 
+Grundkenntnisse über Organ-, Muskel- und 
+Sinnesphysiologie bei Tieren, sowie deren Zusammenspiel im 
+Tier und/oder Mensch. 
+4. Qualifikationsziele des Moduls / zu  Pflanzenphysiologie 
+erwerbende Kompetenzen 
+Nach erfolgreichem Abschluss sind Studierende in der Lage, 
+-  molekulare Grundlagen der Genexpression zu erklären, 
+-  Prinzipien und Anwendungen der Pflanzenbiotechnologie 
+zu erläutern, 
+-  pflanzliche Bewegungsvorgänge und deren Regulation zu 
+veranschaulichen, 
+-  die Steuerung pflanzlicher Stoffwechselreaktionen (z.B. 
+Photosynthese, Nährstoffassimilation) und deren 
+Zusammenhang mit Transportprozessen abzuleiten, 
+-  Wachstum und Entwicklung zu erläutern sowie deren 
+Regulation durch Licht und Phytohormone. 
+ 
+Tierphysiologie 
+Nach erfolgreichem Abschluss sind Studierende in der Lage, 
+-  die Physiologie der Atmung darzustellen, 
+-  die Physiologie des Herz-Kreislauf-Systems darzustellen, 
+-  die Physiologie der Verdauung und der Exkretionsorgane 
+darzustellen, 
+-  die Grundlagen der Neuroendokrinologie und der 
+Neurophysiologie darzustellen, 
+-  die Physiologie der Sinnesorgane darzustellen, 
+-  die Physiologie der Muskulatur darzustellen, 
+-  das erlangte physiologische Wissen zu einem 
+Gesamtkontext zusammenzufügen, 
+-  das erlangte physiologische Wissen anzuwenden. 
+5. Teilnahmevoraussetzungen 
+    a) empfohlene Kenntnisse   
+    b) verpflichtende Nachweise   
+6. Verwendbarkeit des Moduls  BSc Biologie 
+12 
+ 7. Angebotsturnus des Moduls  WS, jährlich 
+8. Das Modul kann absolviert werden in  1 Semester 
+9. Empfohlenes Fachsemester  3. Semester 
+10. Arbeitsaufwand des Moduls (Workload) /  Gesamt in Stunden: 211 
+Anzahl Leistungspunkte 
+davon: 
+1. Präsenzzeit: 66 Std. 
+2. Selbststudium (inkl. Prüfungsvorbereitung/ 
+Prüfung): 145 Std. 
+Leistungspunkte: 8 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren 
+aller in den Nrn. 11 und 12 aufgeführten Leistungen.  
+11. Modulbestandteile 
+Nr.  P /  Lehrform  Themenbereich/Thema  SWS   LP1  Studienleistungen 
+WP 
+1  P  Vorlesung  Pflanzenphysiologie  3  4   
+2  P  Vorlesung  Tierphysiologie  3  4   
+12. Modulprüfung 
+Kompetenz/Thema/Bereich  Art der Prüfung  Dauer  Zeitpunkt  Anteil an Modulnote 
+Pflanzenphysiologie  Klausur  60 min  Mitte WS2  50% 
+Tierphysiologie  Klausur  120 min  Ende WS3  50% 
+13. Bemerkungen  
+1 Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Veranstaltung zum Gesamtaufwand des 
+Moduls. Die LP werden erst mit Bestehen der Modulprüfung vergeben. 
+2 Ein Wiederholungstermin wird in der zweiten Hälfte des Semesters angeboten. 
+3 Ein Wiederholungstermin wird in der anschließenden vorlesungsfreien Zeit angeboten. 
+ 
+ 
+Zeichenerklärung: 
+P = Pflicht, WP = Wahlpflicht, SWS = Semesterwochenstunde (1 SWS = 45 min/Semesterwoche), 
+LP = Leistungspunkte (1 LP = 25-30 h workload) 
+ 
+   
+13 
+ Modul BIO-BSc-07 
+ 
+1. Name des Moduls  Neurobiologie, Ethologie und Entwicklungsbiologie 
+2. Fachgebiet / Verantwortlich  Prof. Dr. Inga Neumann 
+3. Inhalte des Moduls  Vorlesung Neurobiologie und Ethologie 
+-  funktionelle Anatomie von hirnversorgenden Gefäßen, 
+Hirnhäuten, Ventrikeln, Blut-Hirnschranke  
+-  funktionelle Anatomie der Hirnregionen, Fokus 
+Rückenmark, limbisches System, Basalganglien, Cortex, 
+Hypothalamus   
+-  Aufbau und Funktion der Neuronen des Säugergehirns 
+-  Rezeptoren, Enzyme und Neurotransmittersysteme bei 
+Säugern 
+-  neurobiologische Verhaltenstests für Emotionalität und 
+Sozialverhalten beim Labornager 
+-  Neuropeptide als Neuromodulatoren den Gehirns und ihre 
+Funktionen in komplexen Verhaltensweisen 
+-  Modelle für psychopathologisches Verhalten 
+-  wichtigste Neuropharmaka und deren Wirkmechanismen 
+sowie ausgewählte Straßendrogen und ihre Wirkungen 
+-  klassische und moderne Methoden der Ethologie sowie 
+Einblicke in die Bereiche Habitatwahl, 
+Nahrungsversorgung, Revierverteidigung, Partnerfindung, 
+Fortpflanzung, Jungenaufzucht 
+Vorlesung Entwicklungsbiologie 
+-  Modellorganismen in der Entwicklungsbio!ogie 
+-  pflanzliche, tierische und menschliche 
+Embryonalentwicklung 
+-  Bedeutung und Funktion von Stammzellen und 
+Meristemen  
+-  Zellpolarität, Zellkommunikation und Musterbildung 
+-  postembryonale Organentwicklung bei Pflanzen 
+-  Genetische Steuerung von Körperbauplänen, Entstehung 
+von Körperachsen,  
+-  Bedeutung der homöotischen Gene bei Pflanzen und 
+Tieren 
+-  Entstehung und Funktion von Keimzellen, 
+Befruchtungsvorgänge bei Pflanzen und Tieren 
+-  Vergleich wesentlicher Entwicklungsvorgänge 
+unterschiedlicher Tiergruppen 
+-  Einsatz entwicklungsbiologischer Methoden in der 
+Medizin 
+4. Qualifikationsziele des Moduls / zu  Nach erfolgreichem Abschluss sind Studierende in der Lage, 
+erwerbende Kompetenzen  im Bereich Neurobiologie und Ethologie 
+-  Ventrikel, BHS, Hirngefäße und Hirnhäute zu erläutern, 
+-  den Hirnregionen Funktionen zuzuordnen, 
+-  physiologische Leistungen des Neurons detailliert 
+darzustellen, 
+14 
+ -  die Zelltypen und deren Funktionen im Gehirn zu 
+benennen, 
+-  die wichtigsten Neurotransmittersysteme, Rezeptoren und 
+Enzyme, und deren Funktionen zu erläutern, 
+-  experimentelle Ansätze zur Aufklärung der Funktionen 
+von Neurotransmittern und Neuromodulatoren zu 
+erläutern,  
+-  Wirkungsweise und Targets der wichtigsten 
+Psychopharmaka und einiger Straßendrogen darzustellen,  
+-  klassische und moderne Methoden der Ethologie zu 
+verstehen, 
+-  ethologische Fragestellungen zu formulieren, 
+-  die Grundzüge tierischen Verhaltens zu beschreiben und 
+in einen größeren Kontext einzuordnen 
+im Bereich Entwicklungsbiologie 
+-  Embryonalstadien, Keimbahnen und 
+Befruchtungsvorgänge skizzieren, benennen und 
+unterscheiden, 
+-  entwicklungsgenetische Mutantenscreens erläutern, 
+-  klassische und moderne Methoden der 
+Entwicklungsbiologie zu verstehen, 
+-  Stammzellnischen veranschaulichen. 
+-  evolutionäre Zusammenhänge der Entwicklungsbiologie 
+zu erkennen, 
+-  Einsatz von Stammzellen in Forschung und Therapie 
+verstehen, 
+-  ethische Beurteilung der Anwendung 
+entwicklungsbiologischer Methoden in der Medizin 
+durchführen 
+5. Teilnahmevoraussetzungen 
+    a) empfohlene Kenntnisse  Modul BIO-BSc-06, Nr. 6.2 
+    b) verpflichtende Nachweise  Module BIO-BSc-01 und BIO-BSc-02 
+6. Verwendbarkeit des Moduls  BSc Biologie 
+7. Angebotsturnus des Moduls  SS, jährlich 
+8. Das Modul kann absolviert werden in  1 Semester 
+9. Empfohlenes Fachsemester  4. Semester 
+10. Arbeitsaufwand des Moduls (Workload) /  Gesamt in Stunden: 160 
+Anzahl Leistungspunkte 
+davon: 
+1. Präsenzzeit: 45 Std. 
+2. Selbststudium (inkl. Prüfungsvorbereitung/ 
+Prüfung): 115 Std. 
+Leistungspunkte: 6 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren 
+aller in den Nrn. 11 und 12 aufgeführten Leistungen.  
+   
+15 
+ 11. Modulbestandteile 
+Nr.  P /  Lehrform  Themenbereich/Thema  SWS   LP1  Studienleistungen 
+WP 
+1  P  Vorlesung  Neurobiologie und Ethologie  2  3   
+2  P  Vorlesung  Entwicklungsbiologie  2  3   
+12. Modulprüfung 
+Art der Prüfung  Dauer  Zeitpunkt  Anteil an 
+Kompetenz/Thema/Bereich 
+Modulnote 
+Neurobiologie und Ethologie  Klausur  120 min  Ende WS  50% 
+Entwicklungsbiologie  Klausur  60 min  Ende WS  50% 
+13. Bemerkungen  
+1 Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Veranstaltung zum Gesamtaufwand des 
+Moduls. Die LP werden erst mit Bestehen der Modulprüfung vergeben. 
+ 
+ 
+Zeichenerklärung: 
+P = Pflicht, WP = Wahlpflicht, SWS = Semesterwochenstunde (1 SWS = 45 min/Semesterwoche), 
+LP = Leistungspunkte (1 LP = 25-30 h workload). 
+ 
+   
+16 
+ Modul BIO-BSc-08 
+ 
+ 
+1. Name des Moduls  Genetik 
+2. Fachgebiet / Verantwortlich  Prof. Dr. Wolfgang Seufert 
+3. Inhalte des Moduls  Vorlesung 
+-  Struktur und Dynamik des Erbmaterials: Aufbau von DNA 
+und Chromatin, Replikation, Mutation, DNA-Reparatur, 
+Transposons, Chromosomenvariation 
+-  Genexpression: Transkription, RNA-
+Prozessierung,Translation, genetischer Code, Regulation 
+der Genexpression in Pro- und Eukaryoten einschl. 
+Epigenetik und RNAi 
+-  Anwendung genetischer Techniken: rekombinanten DNA-
+Technologie, transgene Organismen, Klonierung 
+-  Zellzyklus: Mitose, Meiose 
+-  klassische Genetik: mono und dihybride Erbgänge nach 
+Mendel, geschlechtsgekoppelt Vererbung, Stammbaum-
+analyse, Kopplung und Kartierung von Genen, multiple 
+Allele und Dominanzbeziehungen 
+-  genetische Interaktion: Epistasie, Komplementation, 
+Suppression 
+-  cytoplasmatische Vererbung   
+Übung 
+Vertiefung des Stoffs der Vorlesung mit Hilfe von 
+prüfungsrelevanten Fragen 
+4. Qualifikationsziele des Moduls / zu  Nach erfolgreichem Abschluss sind Studierende in der Lage, 
+erwerbende Kompetenzen 
+-  den Aufbau, die Dynamik sowie Expression und 
+Weitergabe des Erbmaterials zu beschreiben 
+-  Vererbungsmuster einschl. ihrer molekularen und 
+zellulären Basis zu erklären 
+5. Teilnahmevoraussetzungen 
+    a) empfohlene Kenntnisse   
+    b) verpflichtende Nachweise  Module BIO-BSc-01 und BIO-BSc-02 
+6. Verwendbarkeit des Moduls  BSc Biologie 
+7. Angebotsturnus des Moduls  SS, jährlich 
+8. Das Modul kann absolviert werden in  1 Semester 
+9. Empfohlenes Fachsemester  4. Semester 
+10. Arbeitsaufwand des Moduls (Workload) /  Gesamt in Stunden: 135 
+Anzahl Leistungspunkte 
+davon: 
+1. Präsenzzeit: 45 Std. 
+2. Selbststudium (inkl. Prüfungsvorbereitung/ 
+Prüfung): 90 Std. 
+Leistungspunkte: 5 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren 
+aller in den Nrn. 11 und 12 aufgeführten Leistungen.  
+   
+17 
+ 11. Modulbestandteile 
+Nr.  P /  Lehrform  Themenbereich/Thema  SWS   LP1  Studienleistungen 
+WP 
+1  P  Vorlesung  Genetik  3  4   
+2  P  Übung zur  Genetik  1  1   
+Vorlesung 
+12. Modulprüfung 
+Kompetenz/Thema/Bereich  Art der Prüfung  Dauer  Zeitpunkt  Anteil an Modulnote 
+Genetik  Klausur  90 min  Ende SS2  100% 
+13. Bemerkungen  
+1 Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Veranstaltung zum Gesamtaufwand des 
+Moduls. Die LP werden erst mit Bestehen der Modulprüfung vergeben. 
+2 Ein Wiederholungstermin wird in der anschließenden vorlesungsfreien Zeit angeboten. 
+ 
+Zeichenerklärung: 
+P = Pflicht, WP = Wahlpflicht, SWS = Semesterwochenstunde (1 SWS = 45 min/Semesterwoche), 
+LP = Leistungspunkte (1 LP = 25-30 h workload). 
+   
+18 
+ Modul BIO-BSc-09 
+1. Name des Moduls  Mikrobiologie 
+2. Fachgebiet / Verantwortlich  Prof. Dr. Dina Grohmann 
+3. Inhalte des Moduls  Vorlesung  
+Grundlagen 
+-  des mikrobiellen Zellaufbaus (z.B. Bestandteile in einer 
+Bakterienzelle, Zellwände, Pili, Flagellen, 
+Genomorganisation, Sporen, etc.) 
+-  des mikrobiellen Stoffwechsels und der 
+Wachstumsphysiologie 
+-  der Molekularbiologie prokaryotischer Zellen 
+-  der Genomregulation am Beispiel des Phagen λ 
+-  der Bakteriensystematik.  
+Übung  
+-  praktische Aspekte der Mikrobiologie (z.B. Licht-, 
+Elektronenmikroskopie) 
+-  Wiederholung der Inhalte Vorlesung mit Hilfe 
+prüfungsrelevanter Fragen  
+4. Qualifikationsziele des Moduls / zu  Nach erfolgreichem Abschluss sind Studierende in der Lage, 
+erwerbende Kompetenzen 
+-  die Struktur und Baupläne von prokaryotischen Zellen zu 
+skizzieren und zu benennen (insbesondere dabei auch die 
+Unterschiede zwischen bakteriellen und archaeellen 
+Zellen),   
+-  die Funktionen prokaryotischer Zellbausteinen 
+wiederzugeben und zu erklären, 
+-  Gemeinsamkeiten und Unterschiede prokaryotischer 
+Zellen zu eukaryotischen Systemen abzuleiten,   
+-  die grundlegenden Stoffwechselprozesse bakterieller 
+Zellen wiederzugeben und ihre Besonderheiten zu 
+benennen, 
+-  die molekularen Abläufe innerhalb der prokaryotischen 
+Zelle (z.B. Transkription, Translation, Regulation des 
+Stoffwechsels) zu beschreiben, 
+-  die Methoden und den Stand der Bakterientaxonomie und 
+Systematik zu benennen. 
+5. Teilnahmevoraussetzungen 
+    a) empfohlene Kenntnisse   
+    b) verpflichtende Nachweise  Module BIO-BSc-01 und BIO-BSc-02 
+6. Verwendbarkeit des Moduls  BSc Biologie 
+7. Angebotsturnus des Moduls  SS, jährlich 
+8. Das Modul kann absolviert werden in  1 Semester 
+9. Empfohlenes Fachsemester  4. Semester 
+10. Arbeitsaufwand des Moduls (Workload) /  Gesamt in Stunden: 135 
+Anzahl Leistungspunkte 
+davon: 
+1. Präsenzzeit: 45 Std. 
+2. Selbststudium (inkl. Prüfungsvorbereitung/ 
+Prüfung): 90 Std. 
+Leistungspunkte: 5 
+19 
+ Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren 
+aller in den Nrn. 11 und 12 aufgeführten Leistungen.  
+11. Modulbestandteile 
+Nr.  P /  Lehrform  Themenbereich/Thema  SWS   LP1  Studienleistungen 
+WP 
+1  P  Vorlesung  Mikrobiologie  3  4   
+2  P  Übung zur  Mikrobiologie  1  1   
+Vorlesung 
+12. Modulprüfung 
+Kompetenz/Thema/Bereich  Art der Prüfung  Dauer  Zeitpunkt  Anteil an Modulnote 
+Mikrobiologie  Klausur  90 min  Ende SS2  100% 
+13. Bemerkungen  
+1 Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Veranstaltung zum Gesamtaufwand des 
+Moduls. Die LP werden erst mit Bestehen der Modulprüfung vergeben. 
+2 Ein Wiederholungstermin wird in der anschließenden vorlesungsfreien Zeit angeboten. 
+ 
+Zeichenerklärung: 
+P = Pflicht, WP = Wahlpflicht, SWS = Semesterwochenstunde (1 SWS = 45 min/Semesterwoche), 
+LP = Leistungspunkte (1 LP = 25-30 h workload). 
+ 
+   
+20 
+ Modul BIO-BSc-10 
+ 
+1. Name des Moduls  Biochemie 
+2. Fachgebiet / Verantwortlich  Prof. Dr. Reinhard Sterner 
+3. Inhalte des Moduls  Biochemie A 
+-  Struktur und Eigenschaften der Aminosäuren 
+-  Struktur, Funktion und Reinigung von Proteinen 
+-  Enzymkinetik und ausgewählte katalytische Mechanismen 
+-  Stoffwechsel-Grundprinzipien (Anabolismus, 
+Katabolismus, ATP, thermodynamische Grundlagen) 
+-  Kohlenhydrat- und Fettabbau zur Energiegewinnung 
+(Glycolyse, Lipolyse, β-Oxidation) 
+-  Fettsäure- und Lipidbiosynthese 
+-  Citratzyklus 
+-  Atmungskette und oxidative Phosphorylierung 
+-  Gluconeogenese und Cori-Zyklus 
+-  Proteinabbau 
+-  Aminosäurestoffwechsel (Transaminierung, 
+Harnstoffzyklus) 
+-  Glycogenstoffwechsel 
+-  Membranbiochemie (Aufbau, 
+Membrantransportmechanismen, Ionenkanäle, Membran- 
+und Aktionspotentiale, Ligandengesteuerte Ionenkanäle) 
+-  Hormonelle Regulation des Stoffwechsels (G-Protein-
+gekoppelte Rezeptoren, Kernrezeptoren, Kinase-
+gekoppelte Rezeptoren, Glucagon und Insulin) 
+Biochemie B 
+-  Nucleotide und Nucleinsäuren 
+-  Struktur der Nucleinsäuren 
+-  Nucleotidmetabolismus 
+-  DNA-Replikation, -Reparatur und –Rekombination 
+-  Transkription und RNA-Prozessierung 
+-  Regulation der Transkription 
+-  Proteinbiosynthese (Translation) 
+-  Regulation der Proteinbiosynthese 
+4. Qualifikationsziele des Moduls / zu  Nach erfolgreichem Abschluss sind Studierende in der Lage, 
+erwerbende Kompetenzen  Biochemie A 
+-  chemische Eigenschaften und Reaktionsfähigkeiten der 
+wichtigsten Stoffklassen wiederzugeben, 
+-  Energiegewinnung und Regulation des Katabolismus 
+sowie deren grundlegenden Motive zu erklären, 
+-  die Grundprinzipien ausgewählter anaboler Prozesse zu 
+erläutern. 
+Biochemie B 
+Die Studierenden haben einen Einblick in die Chemie der 
+Nukleinsäuren erhalten. Sie verstehen die Replikation, 
+Transkription und Translation der genetischen Information 
+sowie deren Regulation  auf molekularer Ebene. Kenntnisse 
+über zentrale immunologische Moleküle wurden erworben. 
+21 
+ 5. Teilnahmevoraussetzungen 
+    a) empfohlene Kenntnisse  Module BIO-BSc 14 und BIO-BSc 16 
+    b) verpflichtende Nachweise   
+6. Verwendbarkeit des Moduls  BSc Biologie 
+7. Angebotsturnus des Moduls  WS, jährlich 
+8. Das Modul kann absolviert werden in  2 Semester 
+9. Empfohlene Fachsemester  3./4. Semester 
+10. Arbeitsaufwand des Moduls (Workload) /  Gesamt in Stunden: 274 
+Anzahl Leistungspunkte 
+davon: 
+1. Präsenzzeit: 88 Std. 
+2. Selbststudium (inkl. Prüfungsvorbereitung/ 
+Prüfung): 186 Std. 
+Leistungspunkte: 10 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren 
+aller in den Nrn. 11 und 12 aufgeführten Leistungen.  
+11. Modulbestandteile 
+Nr.  P /  Lehrform  Themenbereich/Thema  SWS   LP1  Studienleistungen 
+WP 
+1  P  Vorlesung  Biochemie A  4  5   
+2  P  Übung zur  Biochemie A  1  1   
+Vorlesung 
+3  P  Vorlesung  Biochemie B  3  4   
+12. Modulprüfung 
+Kompetenz/Thema/Bereich  Art der Prüfung  Dauer  Zeitpunkt  Anteil an Modulnote 
+Biochemie A  Klausur  60 min  Ende WS2  50% 
+Biochemie B  Klausur  60 min  Ende SS2  50% 
+13. Bemerkungen  
+1 Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Veranstaltung zum Gesamtaufwand des 
+Moduls. Die LP werden erst mit Bestehen der Modulprüfung vergeben. 
+2 Ein Wiederholungstermin wird in der anschließenden vorlesungsfreien Zeit angeboten. 
+ 
+  
+Zeichenerklärung: 
+P = Pflicht, WP = Wahlpflicht, SWS = Semesterwochenstunde (1 SWS = 45 min/Semesterwoche), 
+LP = Leistungspunkte (1 LP = 25-30 h workload). 
+   
+22 
+ Modul BIO-BSc-11 
+1. Name des Moduls  Mathematik 
+2. Fachgebiet / Verantwortlich  Studiendekan der Mathematik 
+3. Inhalte des Moduls  Das Modul vermittelt grundlegende Fertigkeiten aus der 
+Mathematik, die für das Studium sowie den späteren Einsatz 
+relevant sind. Dabei werden behandelt: Mengen und 
+Kombinatorik, Elementare Funktionen, Folgen und Reihen, 
+Grenzwerte, Stetigkeit von Funktionen, Differential- und 
+Integralrechnung. Es wird auch eine Einführung in die 
+Wahrscheinlichkeitsrechnung und die Statistik als 
+Vorbereitung für höhere Veranstaltungen gegeben. 
+4. Qualifikationsziele des Moduls / zu  Nach erfolgreichem Abschluss sind Studierende in der Lage, 
+erwerbende Kompetenzen  grundlegende mathematische Methoden anzuwenden. 
+Sie können elementare Funktionen unterscheiden und 
+identifizieren. 
+Sie können Folgen und Reihen berechnen und anhand 
+qualitativer Aspekte beschreiben. 
+Sie sind in der Lage reelle Funktionen zu untersuchen und 
+deren Merkmale zu bestimmen.  
+Die geläufigsten Integrale können berechnet werden. 
+Die Grundbegriffe der Wahrscheinlichkeitsrechnung und der 
+Statistik können benannt und angewendet werden. 
+In Bezug auf die Inhalte des Moduls können einfache 
+mathematische Probleme selbständig analysiert und gelöst 
+werden. 
+5. Teilnahmevoraussetzungen 
+    a) empfohlene Kenntnisse   
+    b) verpflichtende Nachweise   
+6. Verwendbarkeit des Moduls  BSc Biologie 
+7. Angebotsturnus des Moduls  WS, jährlich 
+8. Das Modul kann absolviert werden in  1 Semester 
+9. Empfohlenes Fachsemester  1. Semester 
+10. Arbeitsaufwand des Moduls (Workload) /  Gesamt in Stunden: 167 
+Anzahl Leistungspunkte 
+davon: 
+1. Präsenzzeit: 66 Std. 
+2. Selbststudium (inkl. Prüfungsvorbereitung/ 
+Prüfung): 101 Std. 
+Leistungspunkte: 6 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren 
+aller in den Nrn. 11 und 12 aufgeführten Leistungen.  
+   
+23 
+ 11. Modulbestandteile 
+Nr.  P /  Lehr-form  Themenbereich/Thema  SWS   LP1  Studienleistungen 
+WP 
+1  P  Vorlesung  Mathematik für Biologen  2  3   
+2  P  Übung zur  Übungen zur Vorlesung Mathematik  2  3  Übungsaufgaben  
+Vorlesung  für Biologen 
+3  O  Übung zur  Zentralübung zur Vorlesung  2     
+Vorlesung  Mathematik für Biologen 
+12. Modulprüfung 
+Kompetenz/Thema/Bereich  Art der Prüfung  Dauer  Zeitpunkt  Anteil an Modulnote 
+Mathematik für Biologen  Klausur  60-120 min  Ende WS2  100% 
+13. Bemerkungen  
+1 Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Veranstaltung zum Gesamtaufwand 
+des Moduls. Die LP werden erst mit Bestehen der Modulprüfung vergeben. 
+2 Ein Wiederholungstermin wird in der anschließenden vorlesungsfreien Zeit angeboten. 
+ 
+Zeichenerklärung: 
+P = Pflicht, O = Optional, SWS = Semesterwochenstunde (1 SWS = 45 min/Semesterwoche), 
+LP = Leistungspunkte (1 LP = 25-30 h workload). 
+   
+24 
+ Modul BIO-BSc-12 
+ 
+1. Name des Moduls  Physik 
+2. Fachgebiet / Verantwortlich  Prof. Dr. Remco Sprangers 
+3. Inhalte des Moduls 
+-  Grundlagen 
+-  Translationsbewegungen 
+-  Kräfte und Bewegung im Kraftfeld  
+-  Energie und Arbeit  
+-  Der Stoß 
+-  Physik ausgedehnter Körper und Rotation  
+-  Schwingungen und Wellen  
+-  Physik der Fluide: Hydrostatik und -dynamik 
+-  Temperatur und Wärme  
+-  Gase 
+-  Zustandsänderungen und Kreisprozesse  
+-  Kinetische Gastheorie 
+-  Elektrostatik 
+-  Elektrodynamik 
+-  Magnetismus 
+-  Elektromagnetische Wellen  
+-  Geometrische Optik 
+-  Welleneigenschaften des Lichts 
+-  Beugung an Spalt und Gitter  
+-  Das Lichtmikroskop 
+4. Qualifikationsziele des Moduls / zu  Die Absolventen kennen die wesentlichen Grundbegriffe, 
+erwerbende Kompetenzen  Phänomene und Konzepte der Physik. Damit sind sie in der 
+Lage, den auf physikalischen Gesetzmäßigkeiten beruhenden 
+Überlegungen und Herleitungen in den naturwissenschaft-
+lichen Fächern zu folgen. Sie können einfache Probleme der 
+Mechanik, Elektrizitätslehre und Optik lösen. 
+5. Teilnahmevoraussetzungen 
+    a) empfohlene Kenntnisse  Physikalische Schulvorbildung 
+    b) verpflichtende Nachweise   
+6. Verwendbarkeit des Moduls  BSc Biologie 
+7. Angebotsturnus des Moduls  WS, jährlich 
+8. Das Modul kann absolviert werden in  1 Semester 
+9. Empfohlenes Fachsemester  1. Semester 
+10. Arbeitsaufwand des Moduls (Workload) /  Gesamt in Stunden: 133 
+Anzahl Leistungspunkte 
+davon: 
+1. Präsenzzeit: 44 Std. 
+2. Selbststudium (inkl. Prüfungsvorbereitung/ 
+Prüfung): 89 Std. 
+Leistungspunkte: 5 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren 
+aller in den Nrn. 11 und 12 aufgeführten Leistungen.  
+ 
+ 
+ 
+ 
+25 
+ 11. Modulbestandteile 
+Nr.  P /  Lehrform  Themenbereich/Thema  SWS  LP1  Studienleistungen 
+WP 
+1  P  Vorlesung  Physik für Biologen  3  4   
+2  P  Übung zur  Physik für Biologen  1  1   
+Vorlesung 
+12. Modulprüfung 
+Kompetenz/Thema/Bereich  Art der Prüfung  Dauer  Zeitpunkt  Anteil an Modulnote 
+Physik für Biologen  Klausur  60 min  Ende WS2  100% 
+13. Bemerkungen  
+1 Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Veranstaltung zum Gesamtaufwand des 
+Moduls. Die LP werden erst mit Bestehen der Modulprüfung vergeben. 
+2 Ein Wiederholungstermin wird in der anschließenden vorlesungsfreien Zeit angeboten. 
+ 
+Zeichenerklärung: 
+P = Pflicht, WP = Wahlpflicht, SWS = Semesterwochenstunde (1 SWS = 45 min/Semesterwoche), 
+LP = Leistungspunkte (1 LP = 25-30 h workload). 
+   
+26 
+ Modul BIO-BSc-13 
+ 
+1. Name des Moduls  Biologische Physik 
+2. Fachgebiet / Verantwortlich  Prof. Dr. Christine Ziegler 
+3. Inhalte des Moduls  -  zu den Inhalten des Moduls BIO-BSc-12 
+korrespondierende Versuche 
+-  Transportprozesse: Brown’sche Diffusion, Sedimentation 
+und Zentrifuge, Elektrophorese, Membrantransport 
+-  Thermodynamik: statistische Deutung, Mikro- und 
+Makrozustände, Zustandsänderungen, thermodynamische 
+Potentiale, intermolekulare Wechselwirkungen 
+-  Spektroskopie: Optische Rotationsdispersion, 
+Zirkulardichroismus, Photobiophysik, Kleinwinkelstreuung, 
+Fluoreszenz- und Infrarotspektroskopie, Magnetische 
+Resonanzspektroskopie, Signaltheorie und 
+Fouriertransformation  
+-  Die Vorlesung „Einführung in das Praktikum“ vertieft die 
+theoretischen Grundlagen der Experimente. 
+4. Qualifikationsziele des Moduls / zu  Nach erfolgreichem Abschluss sind Studierende in der Lage, 
+erwerbende Kompetenzen  biologisch relevante physikalische Sachverhalte und 
+Methoden zu verstehen. Zudem werden die  
+Grundkenntnisse spektroskopischer und dynamischer 
+Methoden vermittelt. 
+5. Teilnahmevoraussetzungen 
+    a) empfohlene Kenntnisse  Physikalische Schulvorbildung 
+    b) verpflichtende Nachweise  für den Modulteil Nr. 13.3 sind das Modul BIO-BSc-12 und 
+der Modulteil Nr. 13.1 Voraussetzung 
+6. Verwendbarkeit des Moduls  BSc Biologie 
+7. Angebotsturnus des Moduls  WS, jährlich 
+8. Das Modul kann absolviert werden in  2 Semester 
+9. Empfohlenes Fachsemester  2. und 3. Semester 
+10. Arbeitsaufwand des Moduls (Workload) /  Gesamt in Stunden: 149 
+Anzahl Leistungspunkte 
+davon: 
+1. Präsenzzeit: 55 Std. 
+2. Selbststudium (inkl. Prüfungsvorbereitung/ 
+Prüfung): 94 Std. 
+Leistungspunkte: 5 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren 
+aller in den Nrn. 11 und 12 aufgeführten Leistungen.  
+ 
+   
+27 
+ 11. Modulbestandteile 
+Nr.  P /  Lehrform  Themenbereich/Thema  SWS  LP1  Sem.  Studienleistungen 
+WP 
+1  P  Vorlesung  Biologische Physik  2  3  2. (SS)   
+2  P  Vorlesung  Physik für Biologen –  1  1  3. (WS)   
+Einführung in das Praktikum 
+3  P  Praktikum  Physik für Biologen  2  1  3. (WS)  Teilnahme; Protokolle zu jedem 
+Kurstag 
+12. Modulprüfung 
+Kompetenz/Thema/Bereich  Art der Prüfung  Dauer  Zeitpunkt  Anteil an Modulnote 
+Biologische Physik  Klausur  60 min  Ende SS2  100% 
+13. Bemerkungen  
+1 Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Veranstaltung zum Gesamtaufwand des 
+Moduls. Die LP werden erst mit Bestehen der Modulprüfung vergeben. 
+2 Ein Wiederholungstermin wird in der anschließenden vorlesungsfreien Zeit angeboten. 
+ 
+Zeichenerklärung: 
+P = Pflicht, WP = Wahlpflicht, SWS = Semesterwochenstunde (1 SWS = 45 min/Semesterwoche), 
+LP = Leistungspunkte (1 LP = 25-30 h workload). 
+   
+28 
+ Modul BIO-BSc-14 
+ 
+1. Name des Moduls  Allgemeine Chemie 
+2. Fachgebiet / Verantwortlich  Studiendekan der Chemie 
+3. Inhalte des Moduls  Atomtheorie, empirische Gasgesetze und kinetische 
+Gastheorie, mikroskopischer Aufbau der Materie: 
+Elementarteilchen, Atome, Welle-Teilchen-Dualismus und 
+Ansatz der Quantentheorie zur Beschreibung von Elektronen 
+in Atomen, Diskussion der Resultate einfacher 
+Einteilchensysteme, Ein- und Mehrelektronenatome, 
+Aufbauprinzip des Periodensystems der Elemente, 
+radioaktiver Zerfall. 
+Grundlagen der Stöchiometrie, chemisches Gleichgewicht 
+und Massenwirkungsgesetz, Lösungsvorgänge und 
+Löslichkeitsprodukt, Säuren und Basen: Definitionen und 
+quantitative Behandlung von Säure-Base-Gleichgewichten 
+und Puffersystemen, elektrochemisches Potenzial, 
+Spannungsreihe, Redox- und Komplexgleichgewichte. 
+Die chemische Bindung: Ionenverbindungen, Metalle, die 
+kovalente Bindung, Elektronegativität, Polarität und 
+Dipolmoment, Beschreibung einfacher Moleküle anhand der 
+MO-Theorie, räumliche Struktur von Molekülen, schwache 
+Bindungskräfte. 
+4. Qualifikationsziele des Moduls / zu  Nach erfolgreichem Abschluss sind Studierende in der Lage, 
+erwerbende Kompetenzen  empirische Beschreibungen und theoretische Ansätze in der 
+Naturwissenschaft zu unterscheiden. Der Studierende 
+versteht die Notwendigkeit der Quantenmechanik zur 
+Beschreibung der atomistischen Struktur der Materie und 
+kann ihre Resultate auf die Beschreibung chemischer 
+Bindungen anwenden. Er versteht den Zusammenhang 
+zwischen der Elektronenstruktur und der räumlichen Struktur 
+chemischer Verbindungen. Auch ist er in der Lage, 
+stöchiometrische Berechnungen im Kontext von 
+Reaktionsabläufen und Gleichgewichtsprozessen in Lösung 
+anzuwenden. 
+5. Teilnahmevoraussetzungen 
+    a) empfohlene Kenntnisse   
+    b) verpflichtende Nachweise   
+6. Verwendbarkeit des Moduls  BSc Biologie 
+7. Angebotsturnus des Moduls  WS, jährlich 
+8. Das Modul kann absolviert werden in  1 Semester 
+9. Empfohlenes Fachsemester  1. Semester 
+10. Arbeitsaufwand des Moduls (Workload) /  Gesamt in Stunden: 134 
+Anzahl Leistungspunkte 
+davon: 
+1. Präsenzzeit: 44 Std. 
+2. Selbststudium (inkl. Prüfungsvorbereitung/ 
+Prüfung): 90 Std. 
+Leistungspunkte: 5 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren 
+aller in den Nrn. 11 und 12 aufgeführten Leistungen.  
+29 
+  
+11. Modulbestandteile 
+Nr.  P /  Lehrform  Themenbereich/Thema  SWS  LP1  Studienleistungen 
+WP 
+1  P  Vorlesung  Allgemeine Chemie für Biologen  2  3   
+2  P  Übung zur  Allgemeine Chemie für Biologen  2  2   
+Vorlesung 
+12. Modulprüfung 
+Kompetenz/Thema/Bereich  Art der Prüfung  Dauer  Zeitpunkt  Anteil an Modulnote 
+Allgemeine Chemie für Biologen  Klausur  120 min  Ende WS2  100% 
+13. Bemerkungen  
+1 Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Veranstaltung zum Gesamtaufwand des 
+Moduls. Die LP werden erst mit Bestehen der Modulprüfung vergeben. 
+2 Ein Wiederholungstermin wird in der anschließenden vorlesungsfreien Zeit angeboten. 
+ 
+Zeichenerklärung: 
+P = Pflicht, WP = Wahlpflicht, SWS = Semesterwochenstunde (1 SWS = 45 min/Semesterwoche), 
+LP = Leistungspunkte (1 LP = 25-30 h workload. 
+ 
+   
+30 
+ Modul BIO-BSc-15 
+ 
+1. Name des Moduls  Anorganische Chemie 
+2. Fachgebiet / Verantwortlich  Studiendekan der Chemie 
+3. Inhalte des Moduls  Quantitativer Teil 
+Es werden quantitative Bestimmungen von bekannten Ionen 
+in wässriger Lösung durchgeführt. Es kommen verschiedene 
+nasschemische Analyseverfahren, wie Titrationen (z.B. Säure-
+Base- und Redoxtitrationen) und Bestimmungen unter 
+Hinzuziehung einfacher apparativer bzw. instrumenteller 
+Hilfsmittel (z.B. Gravimetrie, quantitative Elektrolyse) zum 
+Einsatz. Zudem wird die Einstellung von Stoffmengen-
+konzentrationen nach Vorgabe durchgeführt (z.B. Puffer-
+system). So werden Prinzipien von Reaktionen in wässriger 
+Lösung, wie z.B. Dissoziationsgleichgewichte, pH-Wert, 
+Komplexbildungskonstanten und Löslichkeitsprodukte an 
+praktischen Beispielen vermittelt.  
+Qualitativer Teil 
+Anhand von einfachen chemischen Experimenten und 
+qualitativ-chemischen Analysen werden Stoffkenntnisse 
+vermittelt, das Reaktionsverhalten ausgewählter Kationen 
+und Anionen und der sichere Umgang mit Chemikalien 
+erlernt. Die theoretische und experimentelle Behandlung 
+wichtiger chemischer Grundlagen, wie z.B. Löslichkeit und 
+Löslichkeitsprodukt (Metathesereaktionen, 
+Fällungsreaktionen), pH-Wert (Abhängigkeiten, 
+Puffersysteme), Dissoziationsgleichgewichte, 
+Komplexbildungskonstanten, Reduktions-Oxidations-
+Reaktionen werden in einfachen Handversuchen kennen 
+gelernt und dann im Trennungsgang angewendet.  
+4. Qualifikationsziele des Moduls / zu  Nach erfolgreichem Abschluss sind Studierende in der Lage, 
+erwerbende Kompetenzen  einfache Reaktionsgleichungen zu formulieren und erkennen 
+die Zusammenhänge von chemischem Gleichgewicht und 
+ablaufenden Reaktionen. Sie sind in der Lage, einfache 
+theoretische Zusammenhänge im Kontext praktischer 
+Problemstellungen anzuwenden. Sie sind in der Lage, 
+einfache Glasapparaturen aufzubauen und erste chemische 
+Reaktionen nach Vorschrift durchzuführen. Daneben können 
+sie gängige Laborchemikalien hinsichtlich wichtiger 
+Eigenschaften unterscheiden und deren Reaktivität 
+einschätzen. 
+5. Teilnahmevoraussetzungen 
+    a) empfohlene Kenntnisse   
+    b) verpflichtende Nachweise  Modul BIO-BSc-14 
+6. Verwendbarkeit des Moduls  BSc Biologie 
+7. Angebotsturnus des Moduls  SS, jährlich 
+8. Das Modul kann absolviert werden in  1 Semester 
+9. Empfohlenes Fachsemester  2. Semester 
+   
+31 
+ 10. Arbeitsaufwand des Moduls (Workload) /  Gesamt in Stunden: 139 
+Anzahl Leistungspunkte 
+davon: 
+1. Präsenzzeit: 66 Std. 
+2. Selbststudium (inkl. Prüfungsvorbereitung/ 
+Prüfung): 73 Std. 
+Leistungspunkte: 5 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren 
+aller in den Nrn. 11 und 12 aufgeführten Leistungen.  
+11. Modulbestandteile 
+Nr.  P /  Lehrform  Themenbereich/Thema  SWS  LP1  Studienleistungen 
+WP 
+1  P  Praktikum  Anorganische Chemie  4  3  Kolloquien und Protokolle zu 
+jedem Kurstag 
+2  P  Seminar  Anorganische Chemie  2  2   
+zum 
+Praktikum 
+12. Modulprüfung 
+Kompetenz/Thema/Bereich  Art der Prüfung  Dauer  Zeitpunkt  Anteil an Modulnote 
+Anorganische Chemie  Klausur   120 min  Ende SS2  100% 
+13. Bemerkungen  
+1 Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Veranstaltung zum Gesamtaufwand des 
+Moduls. Die LP werden erst mit Bestehen der Modulprüfung vergeben. 
+2 Ein Wiederholungstermin wird in der anschließenden vorlesungsfreien Zeit angeboten. 
+ 
+Zeichenerklärung: 
+P = Pflicht, WP = Wahlpflicht, SWS = Semesterwochenstunde (1 SWS = 45 min/Semesterwoche), 
+LP = Leistungspunkte (1 LP = 25-30 h workload). 
+   
+32 
+ Modul BIO-BSc-16 
+ 
+1. Name des Moduls  Organische Chemie I 
+2. Fachgebiet / Verantwortlich  Chemie / Studiendekan der Chemie 
+3. Inhalte des Moduls  -  Prinzipien der Organischen Chemie: Nomenklatur, Struktur 
+und Bindung, funktionelle Gruppen, Stereoisomerie, 
+Delokalisation, Mesomerie, Katalyse 
+-  Zusammenhang zwischen organischer Stoffklasse, 
+charakteristischer funktioneller Gruppe und deren 
+Reaktivität: Alkane/Radikalische Substitution, 
+Alkene/Elektrophile Addition, Halogenalkane/Nucleophile 
+Substitution, Aromaten/Elektrophile Substitution, 
+Carbonylverbindungen/Nucleophile Acylsubstitution und 
+Addition, Oxidationen/Reduktionen 
+-  Einführung in die Bioorganische Chemie: Kohlenhydrate, 
+Proteine/Enzyme/Coenzyme, Nucleinsäuren 
+4. Qualifikationsziele des Moduls / zu  Nach erfolgreichem Abschluss kennen die Studierenden die 
+erwerbende Kompetenzen  organischen Stoffgruppen und ihre spezifischen 
+Eigenschaften, die jeweiligen funktionellen Gruppen und 
+deren grundlegende Reaktionsmechanismen und 
+Einflussparameter, die Prinzipien der Stereoisomerie und 
+Stereoselektivität, und außerdem die wichtigsten 
+bioorganischen Stoffgruppen und ihre Bedeutung in der 
+chemischen Biologie.  
+Die Studierenden können das erworbene exemplarische 
+Wissen nutzen, um ihnen unbekannte organische 
+Verbindungen einzuordnen. Auf der Basis der Struktur 
+können die Studierenden sinnvolle Vorschläge zu den 
+Eigenschaften dieser Verbindungen sowie zur Reaktivität 
+machen. Für die Synthese einfacher organischer 
+Verbindungen können die Studierenden verschiedene Routen 
+vorschlagen und bewerten.  
+5. Teilnahmevoraussetzungen 
+    a) empfohlene Kenntnisse   
+    b) verpflichtende Nachweise   
+6. Verwendbarkeit des Moduls  BSc Biologie 
+7. Angebotsturnus des Moduls  SS, jährlich 
+8. Das Modul kann absolviert werden in  1 Semester 
+9. Empfohlenes Fachsemester  2. Semester 
+10. Arbeitsaufwand des Moduls (Workload) /  Gesamt in Stunden: 180  
+Anzahl Leistungspunkte 
+davon: 
+1. Präsenzzeit: 75 h  
+2. Selbststudium (inkl. Prüfungsvorbereitung/Prüfung): 105 h  
+Leistungspunkte: 6 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren 
+aller in den Nrn. 11 und 12 aufgeführten Leistungen. 
+ 
+   
+33 
+ 11. Modulbestandteile 
+Nr.  P /  Lehrform  Themenbereich/Thema  SWS  LP1  Studienleistungen 
+WP 
+1  P  Vorlesung  Organische Chemie I  4  5   
+2  P  Seminar zur  Organische Chemie I  1  1   
+Vorlesung 
+12. Modulprüfung 
+Kompetenz/Thema/Bereich  Art der Prüfung  Dauer  Zeitpunkt  Anteil an Modulnote 
+Organische Chemie I  Klausur  120 min  Ende SS2  100% 
+13. Bemerkungen  
+1 Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Veranstaltung zum Gesamtaufwand des 
+Moduls. Die LP werden erst mit Bestehen der Modulprüfung vergeben. 
+2 Ein Wiederholungstermin wird in der anschließenden vorlesungsfreien Zeit angeboten. 
+ 
+Zeichenerklärung: 
+P = Pflicht, WP = Wahlpflicht, SWS = Semesterwochenstunde (1 SWS = 45 min/Semesterwoche), 
+LP = Leistungspunkte (1 LP = 25-30 h workload). 
+   
+34 
+ Modul BIO-BSc-17 
+ 
+1. Name des Moduls  Organische Chemie II 
+2. Fachgebiet / Verantwortlich  Chemie / Studiendekan der Chemie 
+3. Inhalte des Moduls  Vorlesung und Seminar 
+-  Vertiefung und Verbreiterung des Wissens über 
+organische Reaktionsmechanismen 
+-  Neue Reaktionsmechanismen: Umlagerungen, 
+Cycloadditionen 
+-  Präparativ wichtige Reaktionen in der Theorie 
+-  Prinzip regio- und stereoselektiver Synthesen 
+-  Planung einfacher mehrstufiger Synthesen 
+Praktikum 
+-  Synthese organischer Moleküle geringer bis mittlerer 
+Komplexität 
+-  Systematisches Erlernen von grundlegenden 
+Laboratoriumsmethoden und Arbeitstechniken, wie  
+Sublimation, Destillation, Extraktion oder 
+Chromatographie 
+-  Planung von Experimenten nach Fachvorschriften 
+-  Sicherer Umgang mit und fachgerechte Entsorgung von 
+Gefahrstoffen 
+-  Analytische Verfolgung des Reaktionsfortschritts durch 
+einfache Techniken und Charakterisierung von 
+Reaktionsprodukten durch Standardanalysetechniken, wie 
+Schmelzpunkt- und Brechungsindexbestimmung, IR- und 
+NMR-Spektroskopie 
+-  Protokollieren von Versuchsabläufen und-ergebnissen 
+4. Qualifikationsziele des Moduls / zu  Nach erfolgreichem Abschluss sind Studierende in der Lage, 
+erwerbende Kompetenzen  Mechanismen organisch-chemischer Reaktionen zu 
+erkennen. Die Studierenden können das erworbene 
+exemplarische Wissen nutzen, um ihnen unbekannte 
+organisch-chemische Reaktionen einzuordnen. Auf der Basis 
+der Struktur von Verbindungen können die Studierenden 
+sinnvolle Vorschläge zu den Eigenschaften dieser 
+Verbindungen, zu deren Reaktivität und zur gezielten 
+Umwandlung in neue Verbindungen machen. Für die 
+Synthese einfacher organischer Verbindungen können die 
+Studierenden verschiedene, auch mehrstufige, Routen 
+vorschlagen und bewerten. 
+Nach Abschluss des Moduls sind die Studierenden in der 
+Lage, organische Synthesen, auch über mehrere Schritte, 
+nach Fachanleitungen selbstständig zu planen und sicher 
+durchzuführen. Dazu werden grundlegende Laboratoriums- 
+und Analysetechniken, sowie der Umgang und die sichere 
+Entsorgung von Gefahrstoffen beherrscht und angewandt. 
+Die Studierenden können Reaktionsprodukte durch 
+Standardverfahren analysieren.  
+5. Teilnahmevoraussetzungen 
+    a) empfohlene Kenntnisse   
+    b) verpflichtende Nachweise  Für das Modulbestandteil Nr. 3: Modul BIO-BSc-16 
+6. Verwendbarkeit des Moduls  BSc Biologie 
+7. Angebotsturnus des Moduls  WS, jährlich 
+35 
+ 8. Das Modul kann absolviert werden in  1 Semester 
+9. Empfohlenes Fachsemester  3. Semester 
+10. Arbeitsaufwand des Moduls (Workload) /  Gesamt in Stunden:  270 h 
+Anzahl Leistungspunkte 
+davon: 
+1. Präsenzzeit: 150 h  
+2. Selbststudium (inkl. Prüfungsvorbereitung/Prüfung): 120 h 
+Leistungspunkte: 9 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren 
+aller in den Nrn. 11 und 12 aufgeführten Leistungen.  
+11. Modulbestandteile 
+Nr.  P /  Lehrform  Themenbereich/Thema  SWS  LP1  Studienleistungen 
+WP 
+1  P  Vorlesung  Organische Chemie II  3  4   
+2  P  Seminar zur  Organische Chemie II  2  2   
+Vorlesung 
+3  P  Praktikum  Organische Chemie  5  3  Protokolle zu jedem Versuch 
+12. Modulprüfung 
+Kompetenz/Thema/Bereich  Art der Prüfung  Dauer  Zeitpunkt  Anteil an Modulnote 
+Organische Chemie II  Klausur  120 min  Ende WS2  100% 
+13. Bemerkungen  
+1 Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Veranstaltung zum Gesamtaufwand des 
+Moduls. Die LP werden erst mit Bestehen der Modulprüfung vergeben. 
+2 Ein Wiederholungstermin wird in der anschließenden vorlesungsfreien Zeit angeboten. 
+ 
+Zeichenerklärung: 
+P = Pflicht, WP = Wahlpflicht, SWS = Semesterwochenstunde (1 SWS = 45 min/Semesterwoche), 
+LP = Leistungspunkte (1 LP = 25-30 h workload). 
+   
+36 
+ Modul BIO-BSc-18 
+ 
+1. Name des Moduls  Physikalische Chemie 
+2. Fachgebiet / Verantwortlich  Studiendekan der Chemie 
+3. Inhalte des Moduls  Die physikalische Chemie behandelt Konzepte, die zu einem 
+besseren Verständnis der makroskopischen Eigenschaften der 
+Materie führen.  
+Thermodynamik: Verhalten idealer und realer Gase, Prinzip 
+der Zustandsfunktionen (totales Differential), Wärme und 
+Arbeit, Hauptsätze der Thermodynamik, Analyse der 
+energetischen Verhältnisse von Prozessen (innere Energie 
+und Enthalpie), Spontanität von Prozessen (Kreisprozesse, 
+Wärmekraftmaschine, Entropie), Gleichgewichtszustände 
+(chemisches Potenzial), Phasengleichgewichte von Rein-
+stoffen (Schmelzen, Verdampfen), kolligative Eigenschaften 
+von Mischungen (Gefrierpunktserniedrigung, osmotischer 
+Druck, Raoultsches und Henrysches Gesetz), Gleichgewicht 
+chemischer Reaktionen und Massenwirkungsgesetz. 
+Grenzflächenchemie: Oberflächenspannung, Kapillardruck, 
+Benetzungswinkel, Adsorptionsvorgänge, Bildung 
+monomolekularer Schichten. 
+Elektrochemie: Galvanische und elektrolytische Zellen, 
+elektrochemische Spannungsreihe, Nernst-Gleichung, 
+Faradaysche Gesetze, Korrosion, Brennstoffzellen. 
+Kinetik: differentielle und integrale Zeitgesetzte für einfache 
+und zusammengesetzte Reaktionen, Temperaturabhängigkeit 
+der Reaktionsgeschwindigkeit (Arrhenius-Gleichung), 
+Aktivierungsenergie. 
+In den die Vorlesung begleitenden Übungen werden die in 
+der Vorlesung erworbenen Kenntnisse zur Lösung konkreter 
+physikalisch-chemischer Aufgaben angewendet. 
+4. Qualifikationsziele des Moduls / zu  Nach erfolgreichem Abschluss sind Studierende in der Lage, 
+erwerbende Kompetenzen  die Konzepte der chemischen Thermodynamik, der Elektro- 
+und Grenzflächenchemie sowie der Kinetik chemischer 
+Reaktionen wiederzugeben und diese problemorientiert 
+anzuwenden. Die Studierenden können verschiedene 
+Alltagsphänomene mithilfe physikalisch-chemischer Größen 
+erklären und diese konkret berechnen. Das Modul soll den 
+Studierenden die wissenschaftliche Denkweise der physi-
+kalischen Chemie vermitteln und damit zum Erkennen und 
+Lösen fachrelevanter Probleme beitragen.  
+5. Teilnahmevoraussetzungen 
+    a) empfohlene Kenntnisse  Module BIO-BSc-11 und BIO-BSc-14 
+    b) verpflichtende Nachweise   
+6. Verwendbarkeit des Moduls  BSc Biologie 
+7. Angebotsturnus des Moduls  WS, jährlich 
+8. Das Modul kann absolviert werden in  1 Semester 
+9. Empfohlenes Fachsemester  3. Semester 
+   
+37 
+ 10. Arbeitsaufwand des Moduls (Workload) /  Gesamt in Stunden: 140 
+Anzahl Leistungspunkte 
+davon: 
+1. Präsenzzeit: 66 Std. 
+2. Selbststudium (inkl. Prüfungsvorbereitung/ 
+Prüfung): 74 Std. 
+Leistungspunkte: 5 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren 
+aller in den Nrn. 11 und 12 aufgeführten Leistungen.  
+11. Modulbestandteile 
+Nr.  P /  Lehrform  Themenbereich/Thema  SWS  LP1  Studienleistungen 
+WP 
+1  P  Vorlesung  Physikalische Chemie  2  3   
+2  P  Übung zur  Physikalische Chemie  1  1   
+Vorlesung 
+3  P  Tutorium  Tutorium zur Vorlesung Physikalische Chemie  3  1   
+12. Modulprüfung 
+Kompetenz/Thema/Bereich  Art der Prüfung  Dauer  Zeitpunkt  Anteil an Modulnote 
+Physikalische Chemie  Klausur  120 min  Ende WS2  100% 
+13. Bemerkungen  
+1 Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Veranstaltung zum Gesamtaufwand des 
+Moduls. Die LP werden erst mit Bestehen der Modulprüfung vergeben. 
+2 Ein Wiederholungstermin wird in der anschließenden vorlesungsfreien Zeit angeboten. 
+ 
+Zeichenerklärung: 
+P = Pflicht, WP = Wahlpflicht, SWS = Semesterwochenstunde (1 SWS = 45 min/Semesterwoche), 
+LP = Leistungspunkte (1 LP = 25-30 h workload). 
+   
+38 
+ Modul BIO-BSc-19 
+ 
+1. Name des Moduls  Praxismodul 
+2. Fachgebiet / Verantwortlich  Studiendekan der Biologie 
+3. Inhalte des Moduls  Praktikum Pflanzenphysiologie 
+-  Analyse einiger physiologisch relevanter Mechanismen wie 
+Phytohormon-/Lichtwirkung und Photosynthese 
+-  einige biochemische Arbeitsweisen wie z.B. 
+Chromatographie und Elektrophorese 
+ 
+Praktikum Tierphysiologie 
+Vertiefung theoretischer Kenntnisse aus der Vorlesung 
+Tierphysiologie durch anschauliche Versuche 
+(Sinnesphysiologie, Herztätigkeit, Blutdruck, 
+Neuroendokrinologie). 
+ 
+Praktikum Genetik 
+Experimente zur Mutationsanalyse, Komplementation und 
+Genkopplung, rekombinationsvermittelten Gendeletion, 
+Proteinexpression und DNA-Fingerprintanalyse 
+Methoden: Transformation von E. coli und S. cerevisiae, 
+DNA-Präparation, Restriktionsverdau, PCR, Agarosegel-
+elektrophorese, SDS-PAGE, Mikroskopie 
+ 
+Praktikum Mikrobiologie 
+-  Grundlagen mikrobieller Arbeitstechniken 
+-  steriles Arbeiten 
+-  Medienherstellung 
+-  Färbungen 
+-  Umgang mit dem Lichtmikroskop 
+-  Versuche zur Isolierung und Charakterisierung von 
+Mikroorganismen aus Umweltproben 
+-  einfache physiologische Tests 
+-  Bestimmungen des bakteriellen Wachstums  
+-  Auswirkungen von Antibiotika und Bakteriophagen 
+ 
+Praktikum Evolutionsbiologie und Molekulare Ökologie 
+Einführung in die Arbeitsweisen, Fragestellungen und 
+Methoden der modernen organismischen Biologie an Hand 
+aktueller Forschungsbeispiele 
+Themen der Experimente: 
+-  Bestimmung der Struktur von Pflanzenpopulationen und 
+Insektenstaaten 
+-  Analyse ökologischer Prozesse mit Hilfe molekularer 
+Methoden 
+-  Wechselwirkungen zwischen Tieren und Pflanzen 
+-  Stammbaum-Rekonstruktion 
+-  Identifikation von Organismen durch molekulare Marker 
+-  Chemische Kommunikation 
+Methoden: 
+-  Polymerase-Kettenreaktion 
+-  Gen-Sequenzierung 
+-  "Bar-Coding" 
+-  Gas-Chromatographie 
+39 
+ -  Massenspektrometrie  
+ 
+Praktikum Physikalische Chemie 
+Vertiefung des in der Vorlesung „Physikalische Chemie für 
+Biologen“ vermittelten theoretischen Wissens durch angelei-
+tetes experimentelles Arbeiten. Schwerpunkte sind dabei das 
+Erlernen der Funktionsweise der eingesetzten Geräte und 
+Methoden, die Beurteilung der versuchsspezifischen 
+Gefahrenpotenziale und die Anwendung der Prinzipien guter 
+wissenschaftlicher Praxis bei der Auswertung von Messdaten 
+(Versuchsprotokolle). 
+Das Praktikum umfasst folgende acht Versuche: 
+-  Bestimmung der Verbrennungswärmen biologischer 
+Grundbausteine sowie der Lösungswärmen von Salzen. 
+-  Bestimmung der molaren Massen von Verbindungen 
+durch Analyse der Gefrierpunktserniedrigung von 
+Lösungen. 
+-  Analyse von Grenzflächenphänomenen und 
+monomolekularer Schichten. 
+-  Optische Methoden zur Konzentrationsbestimmung. 
+-  Strukturaufklärung durch dynamische Lichtstreuung. 
+-  Analyse galvanischer Zellen und Brennstoffzellen 
+-  Leitfähigkeit von Elektrolytlösungen als wichtige 
+analytische Methode. 
+-  Untersuchung von biologisch relevanten Puffersystemen 
+mit der Glaselektrode. 
+4. Qualifikationsziele des Moduls / zu  Nach erfolgreichem Abschluss sind Studierende in der Lage, 
+erwerbende Kompetenzen  im Bereich Praktikum Pflanzenphysiologie 
+-  photosynthetische Aktivität und Wirkung von 
+Phytohormonen experimentell nachzuweisen,  
+-  pflanzliche Transportprozesse zu untersuchen,  
+-  wichtige biochemische Trennmethoden (Elektrophorese, 
+Chromatographie) einzusetzen,  
+-  biochemische Eigenschaften von Enzymen zu 
+charakterisieren, 
+-  Lösungen und Reaktionsgemische anzusetzen, 
+biochemische Extrakte herzustellen, sowie Pipetten und 
+andere Laborinstrumente zu nutzen, 
+-  und selbst erzielte experimentelle Ergebnisse zu bewerten 
+und zu interpretieren. 
+im Bereich Praktikum Tierphysiologie 
+-  vergleichende physiologische Experimente zum Sehen bei 
+Insekten und Menschen durchzuführen, 
+-  physiologische Experimente zum Kreislauf beim Menschen 
+durchzuführen, 
+-  physiologische Experimente zur Herztätigkeit bei 
+Wirbeltieren durchzuführen, 
+-  physiologische Experimente zur Neuroendokrinologie bei 
+Wirbeltieren durchzuführen, 
+-  experimentelle Ergebnisse statistisch einzuschätzen und zu 
+diskutieren. 
+im Bereich Praktikum Genetik 
+Grundlegende Techniken der Molekulargenetik anzuwenden. 
+ 
+40 
+ im Bereich Praktikum Mikrobiologie 
+-  sterile Kulturmedien herzustellen, sowie Bakterienkulturen 
+steril zu transferieren und zu reinigen, 
+-  einfache Klassifizierungen von Bakterien mit Hilfe 
+physiologischer Tests nach wissenschaftlichen Kriterien 
+vorzunehmen und zu beurteilen, 
+-  eigenständig Präparate von Bakterienkulturen für 
+Phasenkontrastmikroskope sowie 
+Differenzierungsfärbungen herzustellen und 
+lichtmikroskopisch zu untersuchen. 
+im Bereich Praktikum Evolutionsbiologie und 
+Molekulare Ökologie 
+-  den unterschiedlichen Fragestellungen der molekularen 
+Ökologie und Evolutionsbiologie geeignete 
+Untersuchungsmethoden zuzuordnen, 
+-  PCR und Mikrosatelliten-Genotypisierungen 
+durchzuführen, 
+-  in Grundzügen populationsgenetische und 
+phylogenetische / phylogeographische Analysen mit 
+entsprechenden statistischen Programmen durchzuführen, 
+-  zu verstehen, wie komplexe Duftmischungen mit GC/MS 
+analysiert werden können,  
+-  Arten durch molekulare Marker zu identifizieren. 
+im Bereich Praktikum Physikalische Chemie 
+-  verschiedene physikalisch-chemische Messmethoden 
+anzuwenden und die damit erhaltenen experimentellen 
+Daten kritisch zu analysieren.  
+-  die selbst produzierten Daten anhand der erlernten 
+theoretischen Modelle auszuwerten und konkrete 
+Fragstellungen zu berechnen. 
+5. Teilnahmevoraussetzungen 
+    a) empfohlene Kenntnisse  Für das Modulbestandteil: 
+Nr. 6: Module BIO-BSc 11, BIO-BSc 14, BIO-BSc 18 
+    b) verpflichtende Nachweise  Für das jeweilige Modulbestandteil: 
+Nr. 1: Veranstaltung 6.1 aus dem Modul BIO-BSc-06 
+Nr. 2: Veranstaltung 6.2 aus dem Modul BIO-BSc-06 
+Nr. 3: Modul BIO-BSc-08 
+Nr. 4: Modul BIO-BSc-09 
+Nr. 5: Module BIO-BSc-01 bis 05 
+6. Verwendbarkeit des Moduls  BSc Biologie 
+7. Angebotsturnus des Moduls  WS/SS, jährlich 
+8. Das Modul kann absolviert werden in  2 Semester 
+9. Empfohlenes Fachsemester  3./4./5. Semester 
+10. Arbeitsaufwand des Moduls (Workload) /  Gesamt in Stunden: 238 
+Anzahl Leistungspunkte 
+davon: 
+1. Präsenzzeit: 132 Std. 
+2. Selbststudium (inkl. Prüfungsvorbereitung/ 
+Prüfung): 106 Std. 
+Leistungspunkte: 9 
+ 
+41 
+ Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren 
+aller in den Nrn. 11 und 12 aufgeführten Leistungen.  
+11. Modulbestandteile1 
+Nr.  P /  Lehrform  Themenbereich/Thema  SWS  LP2  Studienleistungen 
+WP 
+1  WP  Praktikum  Pflanzenphysiologie/Biochemie  4  3  Teilnahme; Protokolle zu jd. Kurstag 
+2  WP  Praktikum  Tierphysiologie  4  3  Teilnahme; Protokolle zu jd. Kurstag 
+3  WP  Praktikum  Genetik  4  3  Teilnahme; Klausur 
+4  WP  Praktikum  Mikrobiologie  4  3  Teilnahme; Klausur 
+Evolutionsbiologie und Molekulare 
+5  WP  Praktikum  4  3  Teilnahme; Protokolle zu jd. Kurstag 
+Ökologie 
+6  WP  Praktikum  Physikalische Chemie  4  3  Teilnahme; Protokolle zu jd. Kurstag 
+12. Modulprüfung 
+Das Modul ist nicht benotet. 
+13. Bemerkungen  
+1 Es müssen mindestens drei Wahlpflichtpraktika gewählt werden; davon mindestens eines der beiden 
+Wahlpflichtpraktika Nr. 1 und 2, sowie mindestens eines der beiden Wahlpflichtpraktika Nr. 3 und 4. 
+2 Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Veranstaltung zum Gesamtaufwand des 
+Moduls. Die LP werden erst mit Bestehen der Modulprüfung vergeben. 
+ 
+Zeichenerklärung: 
+P = Pflicht, WP = Wahlpflicht, SWS = Semesterwochenstunde (1 SWS = 45 min/Semesterwoche), 
+LP = Leistungspunkte (1 LP = 25-30 h workload). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+42 
+ Modul BIO-BSc-21 
+ 
+1. Name des Moduls  Schlüsselkompetenzen 
+2. Fachgebiet / Verantwortlich  Studiendekan der Biologie 
+3. Inhalte des Moduls  Seminare 
+-  Präsentation eines forschungsbasierten Themas aus dem 
+Bereich der Biologie 
+Versuchsdesign 
+-  Wissenschaftliche Vorgehensweise 
+-  verschiedene Versuchsdesigns und deren Vor- und 
+Nachteile 
+-  Möglichkeiten und Grenzen statistischer Aussagen 
+-  Regeln bei Versuchsdurchführung und Auswertung 
+Digitale Bildverarbeitung 
+-  Was ist und wie entsteht ein digitales Bild? 
+-  Welche Informationen enthalten digitale Bilddaten? 
+-  Bearbeitung von digitalen Bildern durch open source 
+Programme 
+-  Erlaubte und unerlaubte Bearbeitungsschritte bei 
+wissenschaftlichen Daten 
+-  Quantifizierung von Bildinhalten 
+-  Erstellung einer Abbildung für einen wissenschaftlichen 
+Text (z.B. Bachelorarbeit) 
+ Wissenschaftliches Schreiben 
+-  Funktion und Format wissenschaftlicher Publikationen 
+-  Wissenschaftliche Abbildungen und Legenden 
+-  Stilistische Optionen 
+-  Praktische Herangehensweisen für das Verfassen 
+wissenschaftlicher Arbeiten 
+4. Qualifikationsziele des Moduls / zu  Nach erfolgreichem Abschluss sind Studierende in der Lage, 
+erwerbende Kompetenzen  im Bereich Seminare 
+-  wissenschaftliche Inhalte anhand vorgegebener Literatur 
+zu strukturieren und in Form eines Vortrags zu vermitteln, 
+-  verschiedene Quellen zu bestimmten wissenschaftlichen 
+Inhalten selbständig zu recherchieren und zu beurteilen 
+und die Inhalte anderer Seminarvorträge zu analysieren 
+und diskutieren. 
+im Bereich Versuchsdesign 
+-  auf der Basis der wissenschaftlichen Vorgehensweise (d.h. 
+hypothesenbasiert) verschiedene grundlegende 
+Versuchsdesigns zu verstehen und zu entwickeln und 
+-  im Sinne guter wissenschaftlicher Praxis ethische 
+Grundsätze bei der Versuchsdurchführung und -
+auswertung zu berücksichtigen 
+im Bereich digitale Bildverarbeitung 
+-  digitale Bilddaten von unterschiedlichen Quellen zu 
+analysieren und zu quantifizieren 
+-  aus digitalen Rohdaten, Abbildungen für wissenschaftliche 
+Publikation zusammenzustellen 
+-  Bildanalyse und Bildbearbeitung nach wissenschaftlichen 
+Kriterien kritisch durchzuführen 
+-  gute wissenschaftliche Regeln zur Bildbearbeitung und 
+43 
+ Darstellung anzuwenden 
+ im Bereich Wissenschaftliches Schreiben 
+-  Verständnis der Informations-Struktur wissenschaftlicher 
+Arbeiten 
+5. Teilnahmevoraussetzungen 
+    a) empfohlene Kenntnisse   
+    b) verpflichtende Nachweise   
+6. Verwendbarkeit des Moduls  BSc Biologie 
+7. Angebotsturnus des Moduls  WS/SS, jährlich 
+8. Das Modul kann absolviert werden in  2 Semester 
+9. Empfohlenes Fachsemester  4./5./6. Semester 
+10. Arbeitsaufwand des Moduls (Workload) /  Gesamt in Stunden: 271 
+Anzahl Leistungspunkte 
+davon: 
+1. Präsenzzeit: 148 Std. 
+2. Selbststudium (inkl. Prüfungsvorbereitung/ 
+Prüfung): 123 Std. 
+Leistungspunkte: 10 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren 
+aller in den Nrn. 11 und 12 aufgeführten Leistungen.  
+11. Modulbestandteile 
+Nr.  P /  Lehrform  Themenbereich/Thema  SWS  LP3  Studienleistungen 
+WP 
+1  P  Seminar  Biologisches Seminar I 1  2  2  Seminarvortrag 
+2  P  Seminar  Biologisches Seminar  II 1  2  2  Seminarvortrag 
+3  P    Berufsqualifizierende Veranstaltungen2  3  3  aktive Teilnahme 
+4  P  Vorlesung  Design und Auswertung:  2  3  Portfolio 
+Versuchsdesign, digitale 
+Bildverarbeitung, wissenschaftliches 
+Schreiben 
+12. Modulprüfung Das Modul ist nicht benotet. 
+13. Bemerkungen  
+1 Es kann aus dem Angebot von Seminaren gewählt werden. 
+2 Es kann aus dem Angebot von berufsqualifizierenden Veranstaltungen gewählt werden. Unter anderem können 
+Karrieretage und Messebesuche mit jeweils 1 LP verbucht werden, wobei insgesamt nur maximal zwei 
+Karrieretage und/oder Messebesuche verbucht werden können. 
+3 Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Veranstaltung zum Gesamtaufwand des 
+Moduls. Die LP werden erst mit Bestehen der Modulprüfung vergeben. 
+Zeichenerklärung: 
+P = Pflicht, WP = Wahlpflicht, SWS = Semesterwochenstunde (1 SWS = 45 min/Semesterwoche), 
+LP = Leistungspunkte (1 LP = 25-30 h workload).   
+44 
+ Modul BIO-BSc-22 
+ 
+1. Name des Moduls  Statistik und Bioinformatik 
+2. Fachgebiet / Verantwortlich  Statistik / Prof. Dr. Florian Hartig 
+Bioinformatik / Prof. Dr. Rainer Merkl 
+3. Inhalte des Moduls  Statistik 
+-  Univariate und multivariate deskriptive Statistik 
+-  Hypothesentests  
+-  Maximum Likelihood 
+-  Bayes'sche Statistik  
+-  Regression (inkl. multipler Regression und GLM) 
+-  ANOVA  
+-  Kausalität in der Statistik 
+-  Einführung maschinelles Lernen 
+-  Versuchsplanung 
+Alle Methoden werden theoretisch und in ihrer praktischen 
+Anwendung in R durchgenommen. 
+Bioinformatik 
+-  Bayessche Verfahren 
+-  Theorie und Anwendungen des paarweisen 
+Sequenzvergleichs 
+-  Erstellen und Auswerten von multiplen 
+Sequenzalignments 
+-  Verwenden von Markovketten und Hidden Markov 
+Modellen 
+-  phylogenetische Verfahren 
+-  Einführung in Python 
+-  Protein 3D-Strukturvorhersage  
+4. Qualifikationsziele des Moduls / zu  Nach erfolgreichem Abschluss sind Studierende in der Lage, 
+erwerbende Kompetenzen 
+im Bereich Statistik 
+-  Die grundlegenden Konzepte der Statistik und des 
+maschinellen Lernens zu verstehen 
+-  Erhobene Daten in geeigneter Form darzustellen und zu 
+analysieren 
+-  Hypothesen oder kausale Zusammenhänge mittels 
+geeigneter statistischer Tests oder Regressionsanalysen zu 
+überprüfen 
+-  Statistische Kompetenzen in die Versuchsplanung 
+miteinzubeziehen 
+im Bereich Bioinformatik 
+-  Sequenzvergleichsverfahren für biologische Probleme zu 
+nutzen 
+-  die Relevanz der Ergebnisse abzuschätzen 
+-  Biologisch relevante Datenbanken zu nutzen. 
+-  Die Bioinformatischen Algorithmen grundlegen zu 
+verstehen 
+5. Teilnahmevoraussetzungen 
+    a) empfohlene Kenntnisse   
+    b) verpflichtende Nachweise   
+6. Verwendbarkeit des Moduls  BSc Biologie 
+7. Angebotsturnus des Moduls  WS, jährlich 
+45 
+ 8. Das Modul kann absolviert werden in  1 Semester 
+9. Empfohlenes Fachsemester  5. Semester 
+10. Arbeitsaufwand des Moduls (Workload) /  Gesamt in Stunden: 179 
+Anzahl Leistungspunkte 
+davon: 
+1. Präsenzzeit: 55 Std. 
+2. Selbststudium (inkl. Prüfungsvorbereitung/ 
+Prüfung): 124 Std. 
+Leistungspunkte: 6 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren 
+aller in den Nrn. 11 und 12 aufgeführten Leistungen.  
+11. Modulbestandteile 
+Nr.  P /  Lehrform  Themenbereich/Thema  SWS   LP1  Studienleistungen 
+WP 
+1  P  Vorlesung  Statistik und Bioinformatik  4  5   
+2  P  Übung zur  Übung zur Vorlesung Statistik und  1  1  Übungsaufgaben 
+Vorlesung  Bioinformatik 
+12. Modulprüfung 
+Kompetenz/Thema/Bereich  Art der Prüfung  Dauer  Zeitpunkt  Anteil an Modulnote 
+Statistik und Bioinformatik  Klausur  120 min  Ende WS2  100% 
+13. Bemerkungen  
+1 Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Veranstaltung zum Gesamtaufwand des 
+Moduls. Die LP werden erst mit Bestehen der Modulprüfung vergeben. 
+2 Ein Wiederholungstermin wird in der anschließenden vorlesungsfreien Zeit angeboten. 
+ 
+Zeichenerklärung: 
+P = Pflicht, WP = Wahlpflicht, SWS = Semesterwochenstunde (1 SWS = 45 min/Semesterwoche), 
+LP = Leistungspunkte (1 LP = 25-30 h workload). 
+   
+46 
+ Modul BIO-BSc-23 
+ 
+1. Name des Moduls  Spezialisierungsmodul - Vorlesungen 
+2. Fachgebiet / Verantwortlich  Studiendekan der Biologie 
+3. Inhalte des Moduls  -  Vertiefung der Kenntnisse zu einem speziellen 
+biologischen Thema 
+4. Qualifikationsziele des Moduls / zu  Nach erfolgreichem Abschluss sind Studierende in der Lage, 
+erwerbende Kompetenzen 
+-  neue wissenschaftliche Arbeiten und wissenschaftlichen 
+Kontroversen in einem Spezialgebiet zu analysieren  
+5. Teilnahmevoraussetzungen 
+    a) empfohlene Kenntnisse   
+    b) verpflichtende Nachweise   
+6. Verwendbarkeit des Moduls  BSc Biologie 
+7. Angebotsturnus des Moduls  WS und SS, jährlich 
+8. Das Modul kann absolviert werden in  1 Semester 
+9. Empfohlenes Fachsemester  5./6. Semester 
+10. Arbeitsaufwand des Moduls (Workload) /  Gesamt in Stunden: 238 
+Anzahl Leistungspunkte 
+davon: 
+1. Präsenzzeit: 66 Std. 
+2. Selbststudium (inkl. Prüfungsvorbereitung/ 
+Prüfung): 172 Std. 
+Leistungspunkte: 9 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren 
+aller in den Nrn. 11 und 12 aufgeführten Leistungen.  
+11. Modulbestandteile 
+Nr.  P /  Lehrform  Themenbereich/Thema  SWS  LP2  Studienleistungen 
+WP 
+1  P  Vorlesung  Biologische Spezialvorlesung I1  2  3  Klausur od. mündl. Prüfung 
+2  P  Vorlesung  Biologische Spezialvorlesung II1  2  3  Klausur od. mündl. Prüfung 
+3  P  Vorlesung  Biologische oder nicht-biologische  2  3  Klausur od. mündl. Prüfung 
+Spezialvorlesung III1 
+12. Modulprüfung 
+Das Modul ist nicht benotet. 
+13. Bemerkungen  
+1 Es kann aus dem Angebot von biologischen Spezialvorlesungen gewählt werden. 
+2 Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Veranstaltung zum Gesamtaufwand des 
+Moduls. Die LP werden erst mit Bestehen der Modulprüfung vergeben. 
+ 
+Zeichenerklärung: 
+P = Pflicht, WP = Wahlpflicht, SWS = Semesterwochenstunde (1 SWS = 45 min/Semesterwoche), 
+LP = Leistungspunkte (1 LP = 25-30 h workload). 
+   
+47 
+ Modul BIO-BSc-24 
+ 
+1. Name des Moduls  Spezialisierungsmodul - Praktika 
+2. Fachgebiet / Verantwortlich  Studiendekan der Biologie 
+3. Inhalte des Moduls  -  Vertiefung der Kenntnisse zu einem speziellen 
+biologischen Thema 
+-  Vertiefung praktischer Fertigkeiten im Labor 
+4. Qualifikationsziele des Moduls / zu  Nach erfolgreichem Abschluss sind Studierende in der Lage 
+erwerbende Kompetenzen  eigenständig forschungsorientiert zu arbeiten. 
+5. Teilnahmevoraussetzungen 
+    a) empfohlene Kenntnisse   
+    b) verpflichtende Nachweise  Module BIO-BSc-01 bis 05, BIO-BSc-11,  BIO-BSc-12 und BIO-
+BSc-14 bis 16 
+6. Verwendbarkeit des Moduls  BSc Biologie 
+7. Angebotsturnus des Moduls  WS und SS, jährlich 
+8. Das Modul kann absolviert werden in  1 Semester 
+9. Empfohlenes Fachsemester  5./6. Semester 
+10. Arbeitsaufwand des Moduls (Workload) /  Gesamt in Stunden: 325 
+Anzahl Leistungspunkte 
+davon: 
+1. Präsenzzeit: 210 Std. 
+2. Selbststudium (inkl. Prüfungsvorbereitung/ 
+Prüfung): 115 Std. 
+Leistungspunkte: 12 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren 
+aller in den Nrn. 11 und 12 aufgeführten Leistungen.  
+11. Modulbestandteile 
+Nr.  P /  Lehrform  Themenbereich/Thema  SWS  LP2  Studienleistungen 
+WP 
+1  P  Praktikum  Projektpraktikum I1  9  6  Protokoll und/oder Präsentation 
+2  P  Praktikum  Projektpraktikum II1  9  6  Protokoll und/oder Präsentation 
+12. Modulprüfung 
+Das Modul ist nicht benotet. 
+13. Bemerkungen  
+1 Es kann aus dem Angebot von Projektpraktika gewählt werden. 
+2 Die Angaben zu den LP dienen lediglich der rechnerischen Zuordnung der Veranstaltung zum Gesamtaufwand des 
+Moduls. Die LP werden erst mit Bestehen der Modulprüfung vergeben. 
+ 
+Zeichenerklärung: 
+P = Pflicht, WP = Wahlpflicht, SWS = Semesterwochenstunde (1 SWS = 45 min/Semesterwoche), 
+LP = Leistungspunkte (1 LP = 25-30 h workload). 
+   
+48 
+ Modul BIO-BSc-25 
+ 
+1. Name des Moduls  Forschungsmodul 
+2. Fachgebiet / Verantwortlich  Studiendekan der Biologie 
+3. Inhalte des Moduls  -  Vertiefung der Kenntnisse zu einem speziellen 
+biologischen Thema 
+-  Vertiefung praktischer Fertigkeiten im Labor 
+-  Präsentation eines forschungsbasierten Themas aus dem 
+Bereich der Biologie 
+4. Qualifikationsziele des Moduls / zu  Nach erfolgreichem Abschluss sind Studierende in der Lage, 
+erwerbende Kompetenzen 
+-  eigenständig forschungsorientiert zu arbeiten; 
+-  wissenschaftliche Inhalte anhand vorgegebener Literatur 
+zu strukturieren und in Form eines Vortrags zu vermitteln, 
+-  verschiedene Quellen zu bestimmten wissenschaftlichen 
+Inhalten selbständig zu recherchieren und zu beurteilen, 
+-  die Inhalte der weiteren Seminarvorträge zu analysieren 
+und diskutieren 
+5. Teilnahmevoraussetzungen 
+    a) empfohlene Kenntnisse   
+    b) verpflichtende Nachweise  Mindestens 132 LP, darunter der erfolgreiche Abschluss 
+folgender Module: 
+- BIO-BSc-01 bis 06,  
+- mindestens drei Module aus BIO-BSc-07 bis 10,  
+- BIO-BSc-11 bis 18, 
+- BIO-BSc-24 
+6. Verwendbarkeit des Moduls  BSc Biologie 
+7. Angebotsturnus des Moduls  WS/SS, jährlich 
+8. Das Modul kann absolviert werden in  1 Semester 
+9. Empfohlenes Fachsemester  6. Semester 
+10. Arbeitsaufwand des Moduls (Workload) /  Gesamt in Stunden: 320 
+Anzahl Leistungspunkte 
+davon: 
+1. Präsenzzeit: 232 Std. 
+2. Selbststudium (inkl. Prüfungsvorbereitung/ 
+Prüfung): 88 Std. 
+Leistungspunkte: 12 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren 
+aller in den Nrn. 11 und 12 aufgeführten Leistungen.  
+11. Modulbestandteile 
+Nr.  P /  Lehrform  Themenbereich/Thema  SWS  LP  Studienleistungen 
+WP 
+1  P  Praktikum  Forschungspraktikum1 (6 Wochen) mit  19  12  Seminarvortrag und/oder Bericht 
+Seminar 
+Das Forschungspraktikum wird in einer 
+Arbeitsgruppe der Fakultät in 
+Vorbereitung auf die Bachelorarbeit 
+absolviert. 
+49 
+ 12. Modulprüfung 
+Das Modul ist nicht benotet. 
+13. Bemerkungen  
+1 Es kann aus dem Angebot von Forschungspraktika gewählt werden. 
+ 
+Zeichenerklärung: 
+P = Pflicht, WP = Wahlpflicht, SWS = Semesterwochenstunde (1 SWS = 45 min/Semesterwoche), 
+LP = Leistungspunkte (1 LP = 25-30 h workload). 
+   
+50 
+ Modul BIO-BSc-26 
+ 
+1. Name des Moduls  Bachelorarbeit 
+2. Fachgebiet / Verantwortlich  Studiendekan der Biologie 
+3. Inhalte des Moduls  -  Vertiefung der Kenntnisse zu einem speziellen 
+biologischen Thema 
+-  Vertiefung praktischer Fertigkeiten im Labor 
+-  Präsentation eines forschungsbasierten Themas aus dem 
+Bereich der Biologie 
+4. Qualifikationsziele des Moduls / zu  Nach erfolgreichem Abschluss sind Studierende in der Lage, 
+erwerbende Kompetenzen 
+-  eigenständig forschungsorientiert zu arbeiten; 
+-  wissenschaftliche Inhalte anhand vorgegebener Literatur 
+zu strukturieren und in Form eines Vortrags zu vermitteln, 
+-  verschiedene Quellen zu bestimmten wissenschaftlichen 
+Inhalten selbständig zu recherchieren und zu beurteilen, 
+-  die Inhalte der weiteren Seminarvorträge zu analysieren 
+und diskutieren 
+5. Teilnahmevoraussetzungen 
+    a) empfohlene Kenntnisse   
+    b) verpflichtende Nachweise  Mindestens 132 LP, darunter der erfolgreiche Abschluss 
+folgender Module: 
+- BIO-BSc-01 bis 06,  
+- mindestens drei Module aus BIO-BSc-07 bis 10,  
+- BIO-BSc-11 bis 18, 
+- BIO-BSc-24 
+6. Verwendbarkeit des Moduls  BSc Biologie 
+7. Angebotsturnus des Moduls  WS/SS, jährlich 
+8. Das Modul kann absolviert werden in  1 Semester 
+9. Empfohlenes Fachsemester  6. Semester 
+10. Arbeitsaufwand des Moduls (Workload) /  Gesamt in Stunden: 350 
+Anzahl Leistungspunkte 
+davon: 
+1. Präsenzzeit: 245 Std. 
+2. Selbststudium (inkl. Prüfungsvorbereitung/ 
+Prüfung): 105 Std. 
+Leistungspunkte: 12 
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren 
+aller in den Nrn. 11 und 12 aufgeführten Leistungen.  
+11. Modulbestandteile 
+Nr.  P /  Lehrform  Themenbereich/Thema  SWS  LP  Studienleistungen 
+WP 
+1  P    Bachelorarbeit (10 Wochen)  19  12  Seminarvortrag 
+12. Modulprüfung 
+Kompetenz/Thema/Bereich  Art der Prüfung  Dauer  Zeitpunkt  Anteil an Modulnote 
+Bachelorarbeit  Bachelorarbeit      100 % 
+51 
+ 13. Bemerkungen  
+Zeichenerklärung: 
+P = Pflicht, WP = Wahlpflicht, SWS = Semesterwochenstunde (1 SWS = 45 min/Semesterwoche), 
+LP = Leistungspunkte (1 LP = 25-30 h workload). 
+52 
+ 

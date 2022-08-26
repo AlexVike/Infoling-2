@@ -1,0 +1,541 @@
+input_dictionary = Modulbeschreibungen Lehramt für Realschule   Stand: 26.10.2020 
+Studienbeginn ab WS 20/21 
+ 
+BIO-LA-M 01a/b/c  
+(Anatomie und Zytologie) 
+LA  GS+HS / RS / GY 
+ 
+1. Name des Moduls:  Modul Biologie I 
+Anatomie und Zytologie 
+ 
+2. Fachgebiet / Verantwortlich:  Prof. Dr. Jürgen Heinze 
+ 
+3. Inhalte / Lehrziele:  Vermittlung der Grundkenntnisse des Aufbaus von 
+Zellen, Geweben und Organismen, sowie der 
+wesentlichen Baupläne von Tieren und Pflanzen 
+ 
+4. Voraussetzungen:   
+a) allgemeiner Art   
+b) vorausgesetzte universitäre  Keine 
+Veranstaltungen: 
+ 
+5. Wie häufig wird das Modul angeboten?  In jedem Wintersemester (WS) 
+ 
+6. In welcher Zeit kann das Modul absolviert  Innerhalb eines Semesters 
+werden? 
+ 
+8. Zusammensetzung: 
+ 
+Nr.  Veranstaltungen  SWS  LP 
+(Semester) 
+  A Pflichtbereich     
+1a  Vorlesung: Allgemeine Biologie   2,5 (1 = WS)  2,5b 
+(botanisch-zytologischer Teil) 
+1b  Vorlesung: Allgemeine Biologie   2,5 (1 = WS)  2,5b 
+(zoologischer Teil) 
+2  Übungen z. Zytologie u. Anatomie der Pflanzen     4 (1 = WS)  5b 
+3  Übungen z. Zytologie u. Anatomie der Tiere     4 (1 = WS)  4b 
+       
+  Summe   13  14b 
+ 
+9. Wiederholbarkeit 
+Jede Klausur kann zweimal wiederholt werden. Wiederholungsklausuren zu Beginn und 
+Ende der Vorlesungszeit des folgenden Semesters.  
+ 
+10. Modulnote/Modulprüfung/Teilprüfungen  
+Die Modulnote ergibt sich aus dem Durchschnitt der Noten in den drei Klausuren, wobei 
+sich die Note zur Vorlesung Allgemeine Biologie aus dem Querschnitt der Noten zu den 
+Teilen a und b ergibt. 
+ 
+ 
+ 
+ 
+ 
+ Modulbeschreibungen Lehramt für Realschule   Stand: 26.10.2020 
+Studienbeginn ab WS 20/21 
+ 
+BIO-LA-M 02 a/b/c  
+(Formenkenntnis und Ökologie) 
+LA  GS+HS / RS / GY 
+ 
+1. Name des Moduls:  Modul Biologie II 
+Formenkenntnis und Ökologie 
+ 
+2. Fachgebiet / Verantwortlich:  Prof. Dr. P. Poschlod 
+ 
+3. Inhalte / Lehrziele:  Vermittlung von Grundkenntnissen der Ökologie 
+und zum Aufbau der einheimischen Fauna und Flora  
+ 
+4. Voraussetzungen:   
+a) allgemeiner Art   
+b) vorausgesetzte universitäre  Keine 
+Veranstaltungen: 
+ 
+5. Wie häufig wird das Modul angeboten?  Einmal jährlich 
+ 
+6. In welcher Zeit kann das Modul absolviert  Innerhalb eines Jahres 
+werden? 
+ 
+8. Zusammensetzung: 
+ 
+Nr.  Veranstaltungen  SWS (Semester)  LP 
+  A Pflichtbereich     
+1  Vorlesung: Ökologie  2   (2 = SS)  3b 
+2  Übungen z. Formenkenntnis u. Systematik v.  3 + 1  (2 = SS)  5b 
+Pflanzen 
+3  Übungen z. Formenkenntnis u. Systematik v.  3 + 1  (2 = SS)  5b 
+Tieren 
+4a  Zwei botanische Exkursionen   1   (2 = SS)  1 
+(2 Halbtage) 
+4b  Zwei zoologische Exkursionen   1   (2 = SS)  1 
+(2 Halbtage) 
+       
+  Summe   12  15b 
+ 
+9. Wiederholbarkeit 
+Jede Klausur kann zweimal wiederholt werden.  
+ 
+10. Modulnote/Modulprüfung/Teilprüfungen  
+Die Modulnote ergibt sich aus dem nach Leistungspunkten gewichteten Mittelwert der 
+Noten in den drei Klausuren (Ökologie, Formenkenntnis und Systematik von Pflanzen, 
+Formenkenntnis und Systematik von Tieren). 
+ 
+ 
+ 
+ Modulbeschreibungen Lehramt für Realschule   Stand: 26.10.2020 
+Studienbeginn ab WS 20/21 
+ 
+BIO-LA-M 03a/b/c  
+(Physiologie) 
+LA  GS+HS / RS / GY 
+ 
+1. Name des Moduls:  Biologie III 
+Modul Physiologie 
+ 
+2. Fachgebiet / Verantwortlich:  Prof. Dr. Th. Dresselhaus 
+ 
+3. Inhalte / Lehrziele:  Vermittlung von Grundkenntnissen über 
+  physiologische Stoffwechsel- Entwicklungs- und 
+  Bewegungsvorgänge bei Pflanzen sowie der Organ-, 
+Muskel- und Sinnesphysiologie bei Tieren  
+ 
+4. Voraussetzungen:   
+a) allgemeiner Art  - 
+b) vorausgesetzte universitäre  - 
+Veranstaltungen:
+ 
+ 
+ 
+ 
+   
+ 
+5. Wie häufig wird das Modul angeboten?  Jährlich 
+   
+6. In welcher Zeit kann das Modul absolviert  In zwei Semestern 
+werden? 
+ 
+8. Zusammensetzung: 
+ 
+Nr.  Veranstaltungen  SWS (Semester)  LP 
+  Pflichtbereich     
+       
+1  Vorlesung: Tierphysiologie  3   (3 = WS)  3b 
+2  Vorlesung: Pflanzenphysiologie  3   (3 = WS)  3b 
+       
+3  Praktikum: Tierphysiologie  2  (3 = WS)  2 
+4  Praktikum: Pflanzenphysiologie  2  (3 = WS)  2 
+       
+  Summe   10  10b 
+ 
+9. Wiederholbarkeit 
+Jede Klausur kann zweimal wiederholt werden.  
+ 
+10. Modulnote/Modulprüfung/Teilprüfungen  
+Die Modulnote ergibt sich aus dem Durchschnitt der Noten in den beiden Klausuren. 
+ 
+ 
+ 
+ Modulbeschreibungen Lehramt für Realschule   Stand: 26.10.2020 
+Studienbeginn ab WS 20/21 
+ 
+ 
+ Modulbeschreibungen Lehramt für Realschule   Stand: 26.10.2020 
+Studienbeginn ab WS 20/21 
+ 
+BIO-LA-M 04b  
+(Evolution und Ethologie) 
+LA  RS  
+ 
+1. Name des Moduls:  Biologie IV 
+Evolution und Ethologie 
+ 
+2. Fachgebiet / Verantwortlich:  Prof. Dr. I. Neumann 
+ 
+3. Inhalte / Lehrziele:  Vermittlung von Kenntnissen in der 
+  Evolutionsbiologie und der Neurobiologie / 
+  Ethologie 
+ 
+4. Voraussetzungen:   
+a) allgemeiner Art  - 
+b) vorausgesetzte universitäre     - 
+Veranstaltungen: 
+ 
+5. Wie häufig wird das Modul angeboten?  Jährlich 
+   
+6. In welcher Zeit kann das Modul absolviert  Innerhalb eines Semesters 
+werden? 
+ 
+8. Zusammensetzung: 
+ 
+Nr.  Veranstaltungen  SWS (Semester)  LP 
+  Pflichtbereich     
+       
+1  Vorlesung: Evolutionsbiologie  2 (4 = SS)  3b 
+2  Vorlesung: Ethologie und Neurobiologie  2 (4 = SS)  3b 
+       
+       
+3  Praktische Übungen zur Verhaltensbiologie  1   1 
+  (als Teil der Übungen zur Zytologie und Anatomie     
+der Tiere im Modul BIO-LA-M 01) 
+       
+  Summe   5  7b 
+ 
+9. Wiederholbarkeit 
+Jede Klausur kann zweimal wiederholt werden. Wiederholungsklausuren zu Beginn und 
+Ende der Vorlesungszeit des folgenden Semesters.  
+ 
+10. Modulnote/Modulprüfung/Teilprüfungen  
+Die Modulnote ergibt sich aus dem Durchschnitt der Noten in den beiden Klausuren. 
+ 
+ 
+ 
+ 
+ Modulbeschreibungen Lehramt für Realschule   Stand: 26.10.2020 
+Studienbeginn ab WS 20/21 
+ 
+BIO-LA-M 05a/b  
+(Genetik / Mikrobiologie / Biochemie) 
+LA  GS+HS / RS  
+ 
+1. Name des Moduls:  Biologie V 
+Genetik / Mikrobiologie / Biochemie 
+ 
+2. Fachgebiet / Verantwortlich:  Dr. H. Huber / Dr. W. Mages 
+ 
+3. Inhalte / Lehrziele:  Vermittlung von theoretischen und praktischen 
+  Grundkenntnissen in Biochemie, Genetik und 
+  Mikrobiologie 
+ 
+4. Voraussetzungen:   
+a) allgemeiner Art   
+b) vorausgesetzte universitäre  Keine 
+Veranstaltungen: 
+ 
+5. Wie häufig wird das Modul angeboten?  Einmal jährlich 
+   
+6. In welcher Zeit kann das Modul absolviert  Innerhalb eines Jahres 
+werden?   
+ 
+8. Zusammensetzung: 
+Nr.  Veranstaltungen  SWS (Semester)  LP 
+  Pflichtbereich     
+       
+1  Vorlesung: Einführung in die Biochemie,  3 (4 = SS)  3b 
+Mikrobiologie und Genetik    
+       
+2  Praktikum: Mikrobiologisch-genetisches  3 (4 = SS)  3b 
+Praktikum 
+       
+  Summe   6  6b 
+ 
+9. Wiederholbarkeit 
+Die Prüfung kann zweimal wiederholt werden. Die Wiederholungsprüfung findet zu 
+Beginn und zum Ende des folgenden Semesters statt. 
+ 
+10. Modulnote/Modulprüfung/Teilprüfungen  
+Die Abschlussprüfung zur Vorlesung (Klausur) findet am Ende des Wintersemesters  
+statt, die Abschlussprüfung zum Praktikum (das am Ende des darauf folgenden 
+Sommersemesters stattfindet) wird unmittelbar nach Praktikumsende schriftlich (Klausur) 
+abgehalten.  
+Wiederholungsprüfungen finden, abhängig von der Zahl der Anmeldungen, entweder 
+schriftlich (Klausur) oder als mündliche Kollegialprüfung (die beteiligten Dozenten als 
+Prüfer und je ein Kandidat) statt. Die Prüfungsform wird den betreffenden Kandidaten 
+mindestens vier Wochen vor der Wiederholungsprüfung per e-mail mitgeteilt. Die 
+Modulnote ist das arithmetische Mittel der beiden Prüfungsleistungen. 
+ Modulbeschreibungen Lehramt für Realschule   Stand: 26.10.2020 
+Studienbeginn ab WS 20/21 
+ 
+BIO-LA-M 06a/b/c  
+(Humanbiologie) 
+LA  GS+HS / RS / GY 
+ 
+1. Name des Moduls:  Biologie VI 
+  Humanbiologie 
+ 
+2. Fachgebiet / Verantwortlich:  Prof. Dr. S. Schneuwly 
+ 
+3. Inhalte / Lehrziele:  Vermittlung von theoretischen und praktischen 
+  Kenntnissen in der Humanbiologie 
+ 
+4. Voraussetzungen:   
+ 
+a) allgemeiner Art   
+b) vorausgesetzte universitäre  Keine 
+Veranstaltungen: 
+ 
+5. Wie häufig wird das Modul angeboten?  Jährlich 
+ 
+6. In welcher Zeit kann das Modul absolviert  Innerhalb von einem Semester 
+werden?   
+ 
+8. Zusammensetzung: 
+ 
+Nr.  Veranstaltungen  SWS (Semester)  LP 
+  Pflichtbereich     
+1  Vorlesung: Humanbiologie   2 (6 = SS)  2b 
+2  Vorlesung: Humangenetik  1 (5 oder 7 = WS)  1b 
+3  Seminar:  Humanbiologie  1 (6 = SS)  2 
+4  Praktische Übungen in Humanbiologie  3 (6 = SS)  3 
+       
+  Summe   7  8b 
+ 
+9. Wiederholbarkeit  
+Die Prüfungen können zweimal wiederholt werden. Eine erste Möglichkeit zur 
+Wiederholung findet im Folgesemester statt, eine zweite innerhalb eines Jahres.  
+ 
+10. Modulnote/Modulprüfung/Teilprüfungen  
+Die Modulnote ergibt sich aus dem nach Leistungspunkten gewichteten Mittelwert der 
+Noten in den zwei Klausuren (Klausur zur Vorlesung „Humanbiologie“ sowie Klausur zur 
+Vorlesung „Humangenetik“).  
+ 
+ 
+ Modulbeschreibungen Lehramt für Realschule   Stand: 26.10.2020 
+Studienbeginn ab WS 20/21 
+ 
+Mehrtätige botanische oder zoologische 
+Exkursion 
+ 
+LA  RS
+ 
+ 
+Nr.  Veranstaltungen  SWS (Semester)  LP 
+  Wahlpflichtbereich     
+1  Mehrtägige botanische Exkursion  4 (beliebig, z. B. 6 = SS)  2 
+2  Mehrtägige zoologische Exkursion  4 (beliebig, z. B. 6 = SS)  2 
+       
+  Summe   4  2 
+ 
+Die mehrtägige botanische oder zoologische Exkursion stellt eine nichtbenotete, 
+eigenständige Studienleistung dar.  
+ 
+Sie ist Bestandteil der Prüfungs- und Studienordnung für den universitären Prüfungsteil 
+der Ersten Prüfung für ein Lehramt an öffentlichen Schulen (Erste Lehramtsprüfung) für 
+Studierende and der Universität Regensburg (§ 28 Biologie) 
+ 
+ Modulbeschreibungen Lehramt für Realschule   Stand: 26.10.2020 
+Studienbeginn ab WS 20/21 
+ 
+BIO-LA-M 08a/b/c  
+(Biologiedidaktik I) 
+LA  GS+HS / RS / GY 
+ 
+1. Name des Moduls:  Biologiedidaktik I 
+Grundlagen biologiedidaktischen Lernens und Lehrens 
+ 
+2. Fachgebiet / Verantwortlich:  Prof. Dr. Arne Dittmer 
+ 
+3. Inhalte / Lehrziele:  Vermittlung der Grundkenntnisse 
+biologiedidaktischer Theorien und deren 
+Konsequenzen für die Unterrichtspraxis; 
+Einführung in die Planung und Gestaltung von 
+Biologieunterricht 
+ 
+4. Voraussetzungen:   
+a) allgemeiner Art   
+b) vorausgesetzte universitäre  Keine 
+Veranstaltungen: 
+5. Wie häufig wird das Modul angeboten?  In jedem Wintersemester (WS) 
+ 
+6. In welcher Zeit kann das Modul absolviert  Innerhalb von drei Semestern 
+werden? 
+ 
+8. Zusammensetzung: 
+Nr.  Veranstaltungen  SWS  LP 
+(Semester) 
+  Pflichtbereich     
+1  Vorlesung: Einführung in die Didaktik der Biologie  2 (1 = WS)  2 
+2  Seminar: Einführung in die Planung und  1 (3 = WS)  1 
+Gestaltung von Biologieunterricht 
+       
+  Summe   3  3 
+ 
+9. Wiederholbarkeit  
+ 
+Ein nicht akzeptiertes Portfolio (für Nr. 1) kann zweimal in einer jeweils verbesserten 
+Version abgegeben werden. Die letzte Version muss bis zum Ende der Vorlesungszeit 
+des folgenden Semesters abgegeben werden. 
+ 
+Eine nicht akzeptierte Seminararbeit (für Nr. 2) kann zweimal in einer jeweils 
+verbesserten Version abgegeben werden. Die letzte Version muss bis zum Ende der 
+Vorlesungszeit des folgenden Semesters abgegeben werden.  
+ 
+10. Modulnote/Modulprüfung/Teilprüfungen  
+ 
+Das Modul ist bestanden, wenn beide Leistungsnachweise (Portfolio für Nr. 1; 
+Seminararbeit für Nr. 2) erbracht worden sind. Sowohl das Portfolio als auch die 
+Seminararbeit müssen mit „bestanden“ bewertet worden sein. 
+ Modulbeschreibungen Lehramt für Realschule   Stand: 26.10.2020 
+Studienbeginn ab WS 20/21 
+ 
+BIO-LA-M 09b (Biologiedidaktik II) 
+LA  RS 
+ 
+1. Name des Moduls:  Modul Biologiedidaktik II 
+Konzeption und Gestaltung von Biologieunterricht 
+ 
+2. Fachgebiet / Verantwortlich:  Prof. Dr. Arne Dittmer 
+3. Inhalte / Lehrziele:  Vermittlung von Kenntnissen zur Konzeption und 
+Gestaltung von Biologieunterricht. 
+ 
+4. Voraussetzungen:   
+a) allgemeiner Art   
+b) vorausgesetzte universitäre  Keine 
+Veranstaltungen: 
+ 
+5. Wie häufig wird das Modul angeboten?  Jährlich  
+ 
+6. In welcher Zeit kann das Modul absolviert  Innerhalb eines Jahres 
+werden? 
+ 
+8. Zusammensetzung: 
+ 
+Nr.  Veranstaltungen  SWS (Semester)  LP 
+  Wahlpflichtbereich      
+1  Biologiedidaktisches Seminar1   2 (3 = WS)  2 
+       
+  Pflichtbereich     
+2  Seminar: Naturwissenschaftliche  3 (3 =  WS)  2 
+Arbeitsweisen im Biologieunterricht der 
+Realschule  
+3  Seminar: Naturwissenschaftliche  2 (5 = WS)  2b 
+Arbeitsweisen im Biologieunterricht: 
+Nature of Bioscience 
+  Summe   7  6b 
+1 Es stehen mehrere biologiedidaktische Seminare zur Wahl (siehe aktuelles 
+  Vorlesungsverzeichnis) 
+ 
+9. Wiederholbarkeit  
+Nicht erfolgreich besuchte Seminare können im folgenden Jahr wiederholt werden. 
+Eine nicht akzeptierte Seminararbeit (für Nr. 3) kann zweimal in einer jeweils 
+verbesserten Version abgegeben werden. Die letzte Version muss bis zum Ende der 
+Vorlesungszeit des folgenden Semesters abgegeben werden.  
+ 
+10. Modulnote/Modulprüfung/Teilprüfungen  
+ Die Modulnote entspricht der Note der Seminararbeit. 
+ 
+ Modulbeschreibungen Lehramt für Realschule   Stand: 26.10.2020 
+Studienbeginn ab WS 20/21 
+ 
+BIO-LA-M 10a/b/c  
+(Biologiedidaktik III) 
+LA  GS+HS / RS / GY 
+ 
+1. Name des Moduls:  Biologiedidaktik III 
+ 
+2. Fachgebiet / Verantwortlich:  Dr. Christine Fischer 
+ 
+3. Inhalte / Lehrziele:  Optimierung fachspezifischer Lehr-Lern-Prozesse 
+ 
+4. Voraussetzungen:   
+a) allgemeiner Art   
+b) vorausgesetzte universitäre  BIO-LA-M 8a/b/c 
+Veranstaltungen: 
+ 
+5. Wie häufig wird das Modul  In jedem Semester   
+angeboten? 
+ 
+6. In welcher Zeit kann das  Innerhalb eines Semesters 
+Modul absolviert werden? 
+ 
+ 
+8. Zusammensetzung: 
+ 
+Nr.  Veranstaltungen  SWS (Semester)  LP 
+  Pflichtbereich     
+1  Biologiedidaktisches Hauptseminar1  3   (6 = SS oder 7 = WS)  3b 
+2  Tutorium zum biologiedidaktischen  1   (6 = SS oder 7 = WS)  1 
+Hauptseminar1 
+       
+  Summe   4  4b 
+1 Es stehen mehrere Hauptseminare / Tutorien zur Wahl (siehe aktuelles 
+Vorlesungsverzeichnis) 
+ 
+9. Wiederholbarkeit  
+Eine nicht akzeptierte Seminararbeit kann zweimal in einer jeweils verbesserten Version 
+abgegeben werden. Die letzte Version muss bis zum Ende der Vorlesungszeit des 
+folgenden Semesters abgegeben werden. 
+ 
+10. Modulnote/Modulprüfung/Teilprüfungen  
+Die Modulnote entspricht der Note der Seminararbeit. 
+. 
+ 
+ Modulbeschreibungen Lehramt für Realschule   Stand: 26.10.2020 
+Studienbeginn ab WS 20/21 
+ 
+BIO-LA-M 11a/b/c  
+(Unterrichtspraxis Biologie) 
+LA  GS+HS / RS / GY 
+ 
+1.  Name des Moduls:  Unterrichtspraxis Biologie 
+Grundlagen biologiedidaktischen Lernens und Lehrens 
+ 
+2.  Fachgebiet:  Didaktik der Biologie   
+  Verantwortlich:  Dr. Christine Fischer (GY) 
+Barbara Saß (GS+HS / RS) 
+ 
+3.  Inhalte:   Fachbezogenes Unterrichten: Planung, Durchführung und 
+  Analyse von Lernprozessen im Fach Biologie (bzw. PCB / 
+    HSU) 
+4. Qualifikationsziele:  Fähigkeit zur Gestaltung, Durchführung und Reflexion 
+eigener Unterrichtsstunden im Fach Biologie  
+(bzw. PCB / HSU) 
+5. Voraussetzungen:   
+a) empfohlene Kenntnisse  Die Inhalte der Module 
+BIO-LA-M 08a/b/c (Biologiedidaktik I) 
+BIO-LA-M 09a/b/c (Biologiedidaktik II) 
+ 
+b) verpflichtende Nachweise  BIO-LA-M 08a/b/c (Biologiedidaktik I) 
+   
+8. Angebotsturnus des Moduls:  Jedes Semester  
+ 
+7. Das Modul kann absolviert  Innerhalb eines Semesters 
+werden: 
+ 
+8. Empfohlenes Semester:  4. oder 5. Fachsemester (LA GS+HS / RS) 
+6. oder 7. Fachsemester (LA GY) 
+ 
+9. Modulbestandteile: 
+Nr.  Veranstaltungen  Studienleistung  SWS   LP 
+ 
+  Pflichtbereich       
+1  Praktikum:  Begleitung und Analyse des 
+Studienbegleitendes fachdidaktisches  Unterrichts in der 
+Praktikumsschule  4   3 
+Praktikum 
+ 
+Eigene Unterrichtsversuche 
+2  Seminar: 
+Seminar zum studienbegleitenden  Seminararbeit  2  2 
+fachdidaktischen Praktikum 
+         
+  Summe     6  5 
+ 
+10. Das Modul ist erfolgreich absolviert, wenn  
+  1. Die erfolgreiche Teilnahme am studienbegleitenden fachdidaktischen Praktikum  
+  von der Praktikumsschule bestätigt wurde. 
+  2. Die Seminararbeit mit „bestanden“ bewertet wurde. Eine nicht akzeptierte    
+  Seminararbeit kann zweimal in einer jeweils verbesserten Version abgegeben    
+  werden. Die letzte Version muss bis zum Ende der Vorlesungszeit des folgenden  
+  Semesters abgegeben werden. 
+ 
+ 

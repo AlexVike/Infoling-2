@@ -1,0 +1,779 @@
+input_dictionary = Modulhandbuch
+Lehramt Gymnasium - Geschichte
+(Unterrichtsfach) - ab WS11/12
+gültig ab Wintersemester 2011/12 Inhaltsverzeichnis
+Module
+GES-LA-M01: Basismodul Alte Geschichte 2
+GES-LA-M02: Basismodul Mittelalterliche Geschichte 4
+GES-LA-M04: Basismodul Bayerische Landesgeschichte 6
+GES-LA-M05: Basismodul Neuere / Neueste Geschichte II 8
+GES-LA-M10: Aufbaumodul Alte Geschichte 10
+GES-LA-M11: Aufbaumodul Mittelalterliche Geschichte 12
+GES-LA-M12: Aufbaumodul Neuere / Neueste Geschichte 14
+GES-LA-M13: Aufbaumodul Bayerische Landesgeschichte 16
+GES-LA-M14: Vertiefungsmodul I 18
+GES-LA-M15: Vertiefungsmodul II 20
+GES-LA-M20: Basismodul Fachdidaktik Geschichte 22
+GES-LA-M21: Aufbaumodul Fachdidaktik Geschichte 24
+GES-LA-Pra: Geschichte Lehramt studienbegleitendes fachdidaktisches 26
+PraktikumModul: GES-LA-M01
+Modul: GES-LA-M01
+Gültig ab WS11/12 bis (leer)
+1.Name des Moduls: Basismodul Alte Geschichte
+2.Fachgebiet / Verantwortlich: Lehrstuhl für Alte Geschichte/ Prof. Dr. Peter Herz
+3.Inhalte des Moduls: Einführung in die teilfachspezifischen Arbeitsweisen,
+Hilfsmittel und Methoden; exemplarische Behandlung
+zentraler Themenfelder der griechischen und römischen
+Geschichte (Politik-, Wirtschafts-, Sozial- und
+Kulturgeschichte)
+4.Qualifikationsziele des Moduls / zu Anleitung zum wissenschaftlichen Umgang mit Quellen
+erwerbende Kompetenzen: aus der Alten Geschichte und zur historischen Analyse
+in ausgewählten Problembereichen der griechischen
+und römischen Welt; Vermittlung von Grundkenntnissen
+politischer, gesellschaftlicher, ökonomischer und
+kultureller Strukturen und Entwicklungen in der antiken
+Welt
+5.Teilnahmevoraussetzungen:
+a)empfohlene Kenntnisse: keine
+b)verpflichtende Nachweise: Einführungskurs Propädeutikum Voraussetzung für den
+Besuch des Proseminars (kann auch begleitend absolviert
+werden)
+6.Verwendbarkeit des Moduls: Geschichte Lehramt Grund-, Haupt- und Realschule,
+Lehramt Gymnasium
+7.Angebotsturnus des Moduls: WS, SS
+8.Das Modul kann absolviert werden in: 1 Semester
+9.Empfohlenes Fachsemester:
+10.Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 330
+davon:
+1.Präsenzzeit: 4 SWS
+2.Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 270 Std.
+Leistungspunkte: 11
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+2Modul: GES-LA-M01
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+GES- Pflicht Proseminar Alte Geschichte 2 siehe kommentiertes Vorlesungsverzeichnis
+L A-
+M01 .1
+GES- Pflicht Vorlesung Alte Geschichte 2 siehe kommentiertes Vorlesungsverzeichnis
+L A-
+M01 .2
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+GES- Prüfung zu Proseminar Hausarbeit erste Vorlesungswoche 100 %
+L A- aus der Alten Geschichte im Folgesemester
+M01 .1
+3Modul: GES-LA-M02
+Modul: GES-LA-M02
+Gültig ab WS11/12 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Basismodul Mittelalterliche Geschichte
+2. Fachgebiet / Verantwortlich: Lehrstuhl für Mittelalterliche Geschichte/ Prof. Dr. Hans-
+Henning Kortüm; Professur für Mittelalterliche Geschichte
+und Historische Hilfswissenschaften/ Prof. Dr. Jörg
+Oberste
+3. Inhalte des Moduls: Einführung in die teilfachspezifischen Arbeitsweisen,
+Hilfsmittel und Methoden; Einübung von
+Darstellungstechniken (Referat, Seminararbeit);
+exemplarische Behandlung zentraler Themenfelder der
+deutschen und europäischen Geschichte des Mittelalters.
+4. Qualifikationsziele des Moduls / zu Grundlegende Kenntnisse zentraler Ereignisse, Strukturen
+erwerbende Kompetenzen: und Prozesse der deutschen und europäischen
+Geschichte des Mittelalters; Fähigkeit zum kritischen
+Umgang mit Quellen und Sekundärliteratur; Fähigkeit
+zur Einordnung epochenspezifischer Probleme in den
+weiteren Forschungszusammenhang; Beherrschung
+grundlegender Darstellungstechniken (Referat,
+Seminararbeit).
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: keine
+b) verpflichtende Nachweise: Einführungskurs Propädeutikum Voraussetzung für den
+Besuch des Proseminars (kann auch begleitend absolviert
+werden)
+6. Verwendbarkeit des Moduls: Geschichte Lehramt Grund-, Haupt- und Realschule,
+Lehramt Gymnasium
+7. Angebotsturnus des Moduls: WS, SS
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester:
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 330
+davon:
+1. Präsenzzeit: 4 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 270 Std.
+Leistungspunkte: 11
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+4Modul: GES-LA-M02
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+GES- Pflicht Proseminar Proseminar Mittelalterliche 2 siehe kommentiertes Vorlesungsverzeichnis
+L A- Geschichte
+M02 .1
+GES- Pflicht Vorlesung Vorlesung Mittelalterliche 2 siehe kommentiertes Vorlesungsverzeichnis
+L A- Geschichte
+M02 .2
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+GES- Prüfung zu Proseminar Hausarbeit erste Vorlesungswoche 100 %
+L A- Mittelalterliche Geschichte im Folgesemester
+M02 .1
+13. Bemerkungen:
+Veranstaltungen in Ost- und Südosteuropäischer Geschichte sowie Wirtschafts- und Sozialgeschichte
+werden in Modul GES-LA-M02 anerkannt.
+5Modul: GES-LA-M04
+Modul: GES-LA-M04
+Gültig ab WS11/12 bis (leer)
+1. Name des Moduls: Basismodul Bayerische Landesgeschichte
+2. Fachgebiet / Verantwortlich: Lehrstuhl für Bayerische Landesgeschichte/ Prof. Dr.
+Bernhard Löffler
+3. Inhalte des Moduls: Vermittlung teilfachspezifischer Arbeitsweisen, Hilfsmittel
+und Methoden; exemplarische Behandlung zentraler
+Themenfelder der Bayerischen und Vergleichenden
+Landes- und Regionalgeschichte
+4. Qualifikationsziele des Moduls / zu Grundlegende Kenntnisse zentraler Ereignisse,
+erwerbende Kompetenzen: Strukturen und Prozesse der Bayerischen und
+Vergleichenden Landes- und Regionalgeschichte;
+Fähigkeit zum kritischen Umgang mit Quellen und
+Literatur; Fähigkeit zur Einordnung spezifischer landes-
+und regionalgeschichtlicher Probleme in den weiteren
+Forschungszusammenhang; Beherrschung grundlegender
+Darstellungstechniken (Referat, Seminararbeit)
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: -
+b) verpflichtende Nachweise: -
+6. Verwendbarkeit des Moduls: Geschichte Lehramt Grund-, Haupt- und Realschule,
+Lehramt Gymnasium
+7. Angebotsturnus des Moduls: WS, SS
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester:
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 330
+davon:
+1. Präsenzzeit: 6 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 240 Std.
+Leistungspunkte: 11
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+6Modul: GES-LA-M04
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+GES- Pflicht Grundkurs Grundkurs Bayerische 2 siehe kommentiertes Vorlesungsverzeichnis
+L A- Landesgeschichte
+M04 .1
+GES- Pflicht Übung Bayerische Landesgeschichte 2 siehe kommentiertes Vorlesungsverzeichnis
+L A-
+M04 .2
+GES- Pflicht Vorlesung Bayerischen Landesgeschichte 2 siehe kommentiertes Vorlesungsverzeichnis
+L A-
+M04 .3
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+GES- Prüfung zu Vorlesung zum Ende der Vorlesungszeit: 100 %
+L A- Bayerische Landesgeschichte Klausur: 60-90 Min. ODER
+M04 .3 mündliche Prüfung: 15-30 Min.
+7Modul: GES-LA-M05
+Modul: GES-LA-M05
+Gültig ab WS11/12 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Basismodul Neuere / Neueste Geschichte II
+2. Fachgebiet / Verantwortlich: LST für Neuere Geschichte/ Prof. Dr. Harriet Rudolph;
+LST für Neuere und Neueste Geschichte/ Prof. Dr. Franz
+Bauer; LST für Geschichte Südost- und Osteuropas/
+Prof. Dr. Ulf Brunnbauer; LST für Wirtschafts- und
+Sozialgeschichte/ Prof. Dr. Mark Spoerer
+3. Inhalte des Moduls: Einführung in die teilfachspezifischen Arbeitsweisen,
+Hilfsmittel und Methoden; exemplarische Behandlung
+zentraler Themenfelder der deutschen und europäischen,
+insbesondere südosteuropäischen Politik-, Wirtschafts-,
+Sozial- und Kulturgeschichte seit dem späten 15.
+Jahrhundert
+4. Qualifikationsziele des Moduls / zu Grundlegende Kenntnisse zentraler Ereignisse, Strukturen
+erwerbende Kompetenzen: und Prozesse der deutschen und europäischen,
+insbesondere südosteuropäischen Politik-, Wirtschafts-,
+Sozial-, und Kulturgeschichte seit dem späten 15.
+Jahrhundert; Erfahrung im kritischen Umgang mit
+Quellen und Sekundärliteratur; Fähigkeit zur Einordnung
+epochenspezifischer Probleme in den weiteren
+Forschungszusammenhang; Beherrschung grundlegender
+Präsentationstechniken (Referat, Arbeitsauftrag,
+Seminararbeit)
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: -
+b) verpflichtende Nachweise: Einführungskurs Propädeutikum Voraussetzung für den
+Besuch des Proseminars (kann auch begleitend absolviert
+werden)
+6. Verwendbarkeit des Moduls: Geschichte Lehramt Gymnasium
+7. Angebotsturnus des Moduls: WS, SS
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester:
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 420
+davon:
+1. Präsenzzeit: 6 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 330 Std.
+Leistungspunkte: 14
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+8Modul: GES-LA-M05
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+GES- Pflicht Proseminar Neuere / Neueste Geschichte 2 siehe kommentiertes Vorlesungsverzeichnis
+L A-
+M05 .1
+GES- Pflicht Vorlesung Neuere / Neueste Geschichte 2 siehe kommentiertes Vorlesungsverzeichnis
+L A-
+M05 .2
+GES- Pflicht Grundkurs Grundkus Neuere / Neueste 2 siehe kommentiertes Vorlesungsverzeichnis
+L A- Geschichte
+M05 .3
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+GES- Prüfung zu Proseminar Hausarbeit erste Vorlesungswoche 100 %
+L A- Neuere/Neueste Geschichte im Folgesemester
+M05 .1
+13. Bemerkungen:
+Veranstaltungen in Ost- und Südosteuropäischer Geschichte sowie Wirtschafts- und Sozialgeschichte
+werden in Modul GES-LA-M05 anerkannt.
+9Modul: GES-LA-M10
+Modul: GES-LA-M10
+Gültig ab WS11/12 bis (leer)
+1. Name des Moduls: Aufbaumodul Alte Geschichte
+2. Fachgebiet / Verantwortlich: Lehrstuhl für Alte Geschichte/ Prof. Dr. Peter Herz
+3. Inhalte des Moduls: Vertiefender wissenschaftlicher Umgang mit Quellen und
+Forschungen an ausgewählten Themen aus dem Bereich
+der Alten Geschichte. Vermittlung zentraler Inhalte
+und Kenntnisse politischer, sozialer, wirtschaftlicher
+und kultureller Strukturen an ausgewählten Themen
+aus dem Bereich der Alten Geschichte; Einübung von
+Präsentationsformen und –techniken.
+4. Qualifikationsziele des Moduls / zu Angestrebt ist eine Erweiterung der Grundkenntnisse
+erwerbende Kompetenzen: im Bereich des Forschungsgebietes Alte Geschichte.
+Zugleich sollen die Studierenden in der Lage sein, das
+in ausgewählten Themen und Forschungsfeldern der
+Alten Geschichte erarbeitete Wissen sachgerecht zu
+interpretieren und dieses Wissen angemessen weiter zu
+vermitteln
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: -
+b) verpflichtende Nachweise: Zulassungsvoraussetzung für das Hauptseminar:
+Basismodul Alte Geschichte: Modul GES-LA-M 01
+6. Verwendbarkeit des Moduls: Geschichte Lehramt Gymnasium
+7. Angebotsturnus des Moduls: WS, SS
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester:
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 510
+davon:
+1. Präsenzzeit: 6 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 420 Std.
+Leistungspunkte: 17
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+10Modul: GES-LA-M10
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+GES- Pflicht Hauptseminar Alte Geschichte 2 siehe kommentiertes Vorlesungsverzeichnis
+L A-
+M10 .1
+GES- Pflicht Übung Alte Geschichte 2 siehe kommentiertes Vorlesungsverzeichnis
+L A-
+M10 .2
+GES- Pflicht Grundkurs Grundkurs Alte Geschichte 2 siehe kommentiertes Vorlesungsverzeichnis
+L A-
+M10 .3
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+GES- Hauptseminar alte Geschichte Hausarbeit erste Vorlesungswoche 100 %
+L A- im Folgesemester
+M10 .1
+11Modul: GES-LA-M11
+Modul: GES-LA-M11
+Gültig ab WS11/12 bis (leer)
+1. Name des Moduls: Aufbaumodul Mittelalterliche Geschichte
+2. Fachgebiet / Verantwortlich: Lehrstuhl für Mittelalterliche Geschichte/ Prof. Dr. Hans-
+Henning Kortüm; Professur für Mittelalterliche Geschichte
+und Historische Hilfswissenschaften/ Prof. Dr. Jörg
+Oberste
+3. Inhalte des Moduls: Wissenschaftlicher Umgang mit Quellen und Forschungen
+an ausgewählten Beispielen der europäischen
+Geschichte des Mittelalters; problemorientierte und
+eigenständige Auseinandersetzung mit Methoden und
+Theorien des geschichtswissenschaftlichen Arbeitens;
+Einübung der Verwendung von Hilfsmitteln und von
+Präsentationsformen und –techniken.
+4. Qualifikationsziele des Moduls / zu Nach Abschluss des Moduls verfügt die/der Studierende
+erwerbende Kompetenzen: über die methodische Kompetenz, sich auf einem
+wissenschaftlichen Niveau mit Fragen der europäischen
+Geschichte des Mittelalters auseinanderzusetzen. Die
+Studierenden sollen insbesondere in der Lage sein, zu
+ausgewählten Themen der mittelalterlichen Geschichte die
+vorhandenen Überlieferungen zu ermitteln, sie im Kontext
+der einschlägigen historischen Forschung angemessen
+zu interpretieren und die Ergebnisse verständlich
+darzustellen.
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: -
+b) verpflichtende Nachweise: Zulassungsvoraussetzung für das Hauptseminar:
+Basismodul Mittelalterliche Geschichte: Modul GES-LA-M
+02
+6. Verwendbarkeit des Moduls: Geschichte Lehramt Gymnasium
+7. Angebotsturnus des Moduls: WS, SS
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester:
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 510
+davon:
+1. Präsenzzeit: 6 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 420 Std.
+Leistungspunkte: 17
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+12Modul: GES-LA-M11
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+GES- Pflicht Hauptseminar Mittelalterliche Geschichte 2 siehe kommentiertes Vorlesungsverzeichnis
+L A-
+M11 .1
+GES- Pflicht Übung Mittelalterliche Geschichte 2 siehe kommentiertes Vorlesungsverzeichnis
+L A-
+M11 .2
+GES- Pflicht Grundkurs Grundkurs Mittelalterliche 2 siehe kommentiertes Vorlesungsverzeichnis
+L A- Geschichte
+M11 .3
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+GES- Hauptseminar aus der Hausarbeit erste Vorlesungswoche 100 %
+L A- Mitteralterlichen Geschichte im Folgesemester
+M11 .1
+13Modul: GES-LA-M12
+Modul: GES-LA-M12
+Gültig ab WS11/12 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Aufbaumodul Neuere / Neueste Geschichte
+2. Fachgebiet / Verantwortlich: LST für Neuere Geschichte/ Prof. Dr. Harriet Rudolph;
+LST für Neuere und Neueste Geschichte/ Prof. Dr. Franz
+Bauer; LST für Geschichte Südost- und Osteuropas/
+Prof. Dr. Ulf Brunnbauer; LST für Wirtschafts- und
+Sozialgeschichte/ Prof. Dr. Mark Spoerer
+3. Inhalte des Moduls: Vertiefender Umgang mit teilfachspezifischen
+Arbeitsweisen, Hilfsmitteln und Methoden; vertiefte
+exemplarische Behandlung zentraler Themenfelder der
+deutschen und europäischen Politik-, Wirtschafts-, Sozial-
+und Kulturgeschichte seit dem späten 15. Jahrhundert
+4. Qualifikationsziele des Moduls / zu Erweiterte Kenntnisse zentraler Ereignisse, Strukturen
+erwerbende Kompetenzen: und Prozesse der deutschen und europäischen Politik-,
+Wirtschafts-, Sozial- und Kulturgeschichte seit dem
+späten 15. Jahrhundert; vertiefte Erfahrung im kritischen
+Umgang mit grundlegenden Quellengattungen und der
+Breite themenspezifischer Sekundärliteratur; erweiterte
+Fähigkeit zur Einordnung epochenspezifischer Probleme
+in den thematischen Forschungszusammenhang; präzise
+Beherrschung grundlegender Präsentationstechniken
+(Referat, Arbeitsauftrag, Seminararbeit).
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: -
+b) verpflichtende Nachweise: Zulassungsvoraussetzung für das Hauptseminar:
+Basismodul Neuere / Neueste Geschichte: Modul GES-
+LA-M 05
+6. Verwendbarkeit des Moduls: Geschichte Lehramt Gymnasium
+7. Angebotsturnus des Moduls: WS, SS
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester:
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 420
+davon:
+1. Präsenzzeit: 4 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 360 Std.
+Leistungspunkte: 14
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+14Modul: GES-LA-M12
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+GES- Pflicht Hauptseminar Neuere / Neueste Geschichte 2 siehe kommentiertes Vorlesungsverzeichnis
+L A-
+M12 .1
+GES- Pflicht Übung Neuere / Neueste Geschichte 2 siehe kommentiertes Vorlesungsverzeichnis
+L A-
+M12 .2
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+GES- Hauptseminar aus der Hausarbeit erste Vorlesungswocheim 100 %
+L A- Neueren/ Neuesten Geschichte Folgesemester
+M12 .1
+13. Bemerkungen:
+Veranstaltungen in Ost- und Südosteuropäischer Geschichte sowie Wirtschafts- und Sozialgeschichte
+werden in Modul GES-LA-M12 anerkannt.
+15Modul: GES-LA-M13
+Modul: GES-LA-M13
+Gültig ab WS11/12 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Aufbaumodul Bayerische Landesgeschichte
+2. Fachgebiet / Verantwortlich: Lehrstuhl für Bayerische Landesgeschichte/ Prof. Dr.
+Bernhard Löffler
+3. Inhalte des Moduls: Vertiefender Umgang mit teilfachspezifischen
+Arbeitsweisen, Hilfsmitteln und Methoden; vertiefte
+exemplarische Behandlung zentraler Themenfelder
+aus dem Bereich der Bayerischen und Vergleichenden
+Landes- und Regionalgeschichte.
+4. Qualifikationsziele des Moduls / zu Erweiterte Kenntnisse zentraler Ereignisse, Strukturen
+erwerbende Kompetenzen: und Prozesse der Bayerischen und Vergleichenden
+Landes- und Regionalgeschichte; vertiefte Erfahrung im
+kritischen Umgang mit grundlegenden Quellengattungen
+und der Breite themenspezifischer Sekundärliteratur;
+erweiterte Fähigkeit zur Einordnung spezifischer
+Probleme der Bayerischen und Vergleichenden
+Landes- und Regionalgeschichte in den thematischen
+Forschungszusammenhang; präzise Beherrschung
+grundlegender Präsentationstechniken (Referat,
+Arbeitsauftrag, Seminararbeit).
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: -
+b) verpflichtende Nachweise: Zulassungsvoraussetzung für das Hauptseminar:
+Basismodul Bayerische Landesgeschichte: Modul GES-
+LA-M 04
+6. Verwendbarkeit des Moduls: Geschichte Lehramt Gymnasium
+7. Angebotsturnus des Moduls: WS, SS
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester:
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 420
+davon:
+1. Präsenzzeit: 4 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 360 Std.
+Leistungspunkte: 14
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+16Modul: GES-LA-M13
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+GES- Pflicht Hauptseminar Bayerische Landesgeschichte 2 siehe kommentiertes Vorlesungsverzeichnis
+L A-
+M13 .1
+GES- Pflicht Übung Bayerische Landesgeschichte 2 siehe kommentiertes Vorlesungsverzeichnis
+L A- Vorlesung
+M13 .2
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+GES- Hauptseminar aus der Hausarbeit erste Vorlesungswoche 100 %
+L A- Bayerischen Landesgeschichte im Folgesemester
+M13 .1
+13. Bemerkungen:
+Insgesamt sind zwei Veranstaltungen zu absolvieren. Ein Hauptseminar muss absolviert werden.
+Hinzukommt entweder eine Vorlesung oder eine Übung.
+17Modul: GES-LA-M14
+Modul: GES-LA-M14
+Gültig ab WS11/12 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Vertiefungsmodul I
+2. Fachgebiet / Verantwortlich: Institut für Geschichte: Prof. Dr. Peter Herz, Prof. Dr.
+Hans-Henning Kortüm, Prof. Dr. Jörg Oberste, Prof. Dr.
+Harriet Rudolph, Prof. Dr. Bernhard Löffler, Prof. Dr. Franz
+Bauer, Prof. Dr. Ulf Brunnbauer, Prof. Dr. Mark Spoerer
+3. Inhalte des Moduls: Vermittlung von forschungsbezogenen Inhalten und
+tiefergehende Strukturen aus ausgewählten Bereichen
+der antiken, mittelalterlichen und neuzeitlichen Geschichte
+sowie der Bayerischen Landesgeschichte, der Ost- und
+Südosteuropäischen Geschichte und der Wirtschafts- und
+Sozialgeschichte.
+4. Qualifikationsziele des Moduls / zu Erweiterte Kenntnis themenbezogener Forschungen
+erwerbende Kompetenzen: aus den Bereichen der antiken, mittelalterlichen und
+neuzeitlichen Geschichte sowie der Bayerischen
+Landesgeschichte, der Ost- und Südosteuropäischen
+Geschichte und der Wirtschafts- und Sozialgeschichte.
+Intensivierung des kritischen Umgangs mit Quellen
+und themenspezifischer Sekundärliteratur; Bildung
+epochen- oder teilfachbezogener Schwerpunkte;
+Vertiefung methodischer und theoretischer Kenntnisse zur
+Geschichtswissenschaft;
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: -
+b) verpflichtende Nachweise: Zulassungsvoraussetzung für das Hauptseminar:
+abgeschlossenes Basismodul in dem für das
+Hauptseminar gewählten Teilfach
+6. Verwendbarkeit des Moduls: Geschichte Lehramt Gymnasium
+7. Angebotsturnus des Moduls: WS, SS
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester:
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 420
+davon:
+1. Präsenzzeit: 4 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 360 Std.
+Leistungspunkte: 14
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+18Modul: GES-LA-M14
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+GES- Wahlpflicht Hauptseminar Hauptseminar aus der Alten 2 siehe kommentiertes Vorlesungsverzeichnis
+L A- Geschichte
+M14 .1a
+GES- Wahlpflicht Hauptseminar Hauptseminar Mittelalterliche 2 siehe kommentiertes Vorlesungsverzeichnis
+L A- Geschichte
+M14 .1b
+GES- Wahlpflicht Hauptseminar Hauptseminar Neuere/Neueste 2 siehe kommentiertes Vorlesungsverzeichnis
+L A- Geschichte
+M14 .1c
+GES- Wahlpflicht Hauptseminar Hauptseminar Bayerische 2 siehe kommentiertes Vorlesungsverzeichnis
+L A- Landesgeschichte
+M14 .1d
+GES- Pflicht Übung Übung in einem Teilfach der 2 siehe kommentiertes Vorlesungsverzeichnis
+L A- Geschichte
+M14 .2
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+GES- Hauptseminar aus der Hausarbeit erste Vorlesungswoche 100 %
+L A- Alten Geschichte ODER im Folgesemester
+M14 .1a
+GES- Hauptseminar Mittelalterliche Hausarbeit erste Vorlesungswoche 100 %
+L A- Geschichte ODER im Folgesemester
+M14 .1b
+GES- Hauptseminar Neuere/ Hausarbeit erste Vorlesungswoche 100 %
+L A- Neueste Geschichte ODER im Folgesemester
+M14 .1c
+GES- Hauptseminar Bayerische Hausarbeit erste Vorlesungswoche 100 %
+L A- Landesgeschichte im Folgesemester
+M14 .1d
+13. Bemerkungen:
+Hauptseminar und Übung können, müssen aber nicht aus demselben Teilfach stammen.
+19Modul: GES-LA-M15
+Modul: GES-LA-M15
+Gültig ab WS11/12 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Vertiefungsmodul II
+2. Fachgebiet / Verantwortlich: Institut für Geschichte: Prof. Dr. Peter Herz, Prof. Dr.
+Hans-Henning Kortüm, Prof. Dr. Jörg Oberste, Prof. Dr.
+Harriet Rudolph, Prof. Dr. Bernhard Löffler, Prof. Dr. Franz
+Bauer, Prof. Dr. Ulf Brunnbauer, Prof. Dr. Mark Spoerer
+3. Inhalte des Moduls: Vermittlung eines breiten Überblickswissens über Inhalte,
+Fragestellungen und Strukturen in den Teilfächern Alte
+Geschichte, Mittelalterliche Geschichte, Neuere/ Neueste
+Geschichte, Bayerische Landesgeschichte, Ost-und
+Südosteuropäische Geschichte sowie Wirtschafts- und
+Sozialgeschichte.
+4. Qualifikationsziele des Moduls / zu Aneignung eines breiten Überblickswissens und
+erwerbende Kompetenzen: vertiefte Kenntnisse, grundlegender Strukturen in
+größeren, zusammenhängenden Fachgebieten der
+Geschichtswissenschaft; präzise Beherrschung
+grundlegender Präsentationstechniken (Referat,
+Arbeitsauftrag, Seminararbeit).
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: -
+b) verpflichtende Nachweise: -
+6. Verwendbarkeit des Moduls: Geschichte Lehramt Gymnasium
+7. Angebotsturnus des Moduls: WS, SS
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester:
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 450
+davon:
+1. Präsenzzeit: 8 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 330 Std.
+Leistungspunkte: 14
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+20Modul: GES-LA-M15
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+GES- Pflicht Vorlesung Vorlesung in einem Teilfach der 2 siehe kommentiertes Vorlesungsverzeichnis
+L A- Geschichte
+M15 .1
+GES- Pflicht Vorlesung Vorlesung in einem Teilfach der 2 siehe kommentiertes Vorlesungsverzeichnis
+L A- Geschichte
+M15 .2
+GES- Wahlpflicht Grundkurs Grundkurs in einem Teilfach der 2 siehe kommentiertes Vorlesungsverzeichnis
+L A- Geschichte
+M15 .3
+GES- Wahlpflicht Grundkurs Grundkurs in einem Teilfach der 2 siehe kommentiertes Vorlesungsverzeichnis
+L A- Geschichte
+M15 .4
+GES- Wahlpflicht Übung Übung ein einem Teilfach der 2 siehe kommentiertes Vorlesungsverzeichnis
+L A- Geschichte
+M15 .5
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+GES- Vorlesung in einem zum Ende der Vorlesungszeit: 100 %
+L A- Teilfach der Geschichte Klausur: 60-90 Min. ODER
+M15 .1 mündliche Prüfung: 15-30 Min.
+13. Bemerkungen:
+Insgesamt sind vier Veranstaltungen zu absolvieren. Es müssen zwei Vorlesungen absolviert werden.
+Hinzukommen entweder zwei Grundkurse oder ein Grundkurs und ein Übung. Sämtliche Veranstaltungen
+können, müssen aber nicht aus demselben Teilfach stammen. Je nach Wahl der Veranstaltungen wird das
+Modul mit 14-15 Leistungspunkten abgeschlossen.
+21Modul: GES-LA-M20
+Modul: GES-LA-M20
+Gültig ab WS11/12 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Basismodul Fachdidaktik Geschichte
+2. Fachgebiet / Verantwortlich: Abteilung Geschichtsdidaktik/ Dr. Josef Memminger
+3. Inhalte des Moduls: Grundlegender Überblick über Theorien der
+Geschichtsdidaktik, Methoden, Medien und Arbeitsformen
+des Geschichtsunterrichts. Lehrpläne der jeweiligen
+Schularten, Unterrichtsplanung, Analyse bzw. Gestaltung
+von Unterrichtsmaterialien.
+4. Qualifikationsziele des Moduls / zu Nach Abschluss des Moduls sollen die Studierenden
+erwerbende Kompetenzen: einen soliden Überblick über theoretische
+geschichtsdidaktische Aspekte (Unterrichtsprinzipien,
+Kompetenzmodelle, Geschichtskultur etc.) erworben
+haben. Sie sollen fähig sein, diese Theorien kritisch
+zu reflektieren und in praktischen Zusammenhängen
+schulartbezogen (lehrplankonform) einzubringen.
+Sie setzen sich mit Unterrichtsmaterial (Text-, Bild- und
+Sachquellen, Darstellungen, Schulbücher) auseinander
+und sind in der Lage, eigene, didaktisch aufbereitete
+Materialien zu erstellen. Sie üben, Unterrichtssequenzen
+und –einheiten zu planen und evtl. durchzuführen.
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: -
+b) verpflichtende Nachweise: -
+6. Verwendbarkeit des Moduls: Lehramt Geschichte (Gymnasium, Realschule,
+Hauptschule Grundschule)
+7. Angebotsturnus des Moduls: WS, SS
+8. Das Modul kann absolviert werden in: 2 Semestern
+9. Empfohlenes Fachsemester: 2 bis 4
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 180
+davon:
+1. Präsenzzeit: 4 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 120 Std.
+Leistungspunkte: 6
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+22Modul: GES-LA-M20
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+GES- Pflicht Grundkurs Grundkurs: Einführung in die 2 siehe kommentiertes Vorlesungsverzeichnis
+L A- Didaktik des Geschichtsunterrichts
+M20 .1
+GES- Pflicht Übung Geschichtsdidaktik 2 siehe kommentiertes Vorlesungsverzeichnis
+L A-
+M20 .2
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+GES- Übung Geschichtsdidaktik am Ende der Übung: 100 %
+L A- Seminararbeit oder Kausur
+M20 .2
+13. Bemerkungen:
+Es wird dringend empfohlen, den Grundkurs Einführung in die Didaktik des Geschichtsunterrichts zu
+absolvieren, bevor die Übung Geschichtsdidaktik begonnen wird. Falls das fachdidaktische Praktikum im
+Fach Geschichte abgeleistet wird, sollte der Grundkurs Einführung in die Didaktik des Geschichtsunterrichts
+bereits vor der Bewerbung für das Praktikum absolviert sein. Es wird empfohlen den Grundkurs im zweiten
+Semester zu belegen.
+23Modul: GES-LA-M21
+Modul: GES-LA-M21
+Gültig ab WS11/12 bis (leer)
+1. Name des Moduls: Aufbaumodul Fachdidaktik Geschichte
+2. Fachgebiet / Verantwortlich: Abteilung Geschichtsdidaktik/ Dr. Josef Memminger
+3. Inhalte des Moduls: Vertiefte Beschäftigung mit Einzelaspekten der
+Geschichtsdidaktik und des Geschichtsunterrichts.
+4. Qualifikationsziele des Moduls / zu Nach Abschluss des Moduls haben sich die Studierenden
+erwerbende Kompetenzen: vertieft mit Sekundärliteratur zu einem bestimmten Bereich
+der Geschichtsdidaktik auseinandergesetzt und können
+die wissenschaftliche Diskussion reflektieren, einen
+eigenen Standpunkt formulieren sowie die Erkenntnisse
+auf eine Unterrichtssituation beziehen.
+Sie wenden im Lauf des Studiums erworbenen Kenntnisse
+und Fertigkeiten an. Zu relevanten Lehrplanthemen
+können Unterrichtseinheiten entworfen werden.
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: -
+b) verpflichtende Nachweise: Absolviertes Basismodul Fachdidaktik
+(GES-LA-M20)
+6. Verwendbarkeit des Moduls: Lehramt Geschichte (Gymnasium, Realschule,
+Hauptschule Grundschule)
+7. Angebotsturnus des Moduls: halbjährlich
+8. Das Modul kann absolviert werden in: 2 Semestern
+9. Empfohlenes Fachsemester: 3 bis 7
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 240
+davon:
+1. Präsenzzeit: 4 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 180 Std.
+Leistungspunkte: 8
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+GES- Pflicht Seminar Geschichtsdidaktik 2 siehe kommentiertes Vorlesungsverzeichnis
+L A-
+M21 .1
+GES- Pflicht Übung Geschichtsdidaktik 2 siehe kommentiertes Vorlesungsverzeichnis
+L A-
+M21 .2
+24Modul: GES-LA-M21
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+GES- Seminar Geschichtsdidaktik Hausarbeit Semesterende 100 %
+L A-
+M21 .1
+25Modul: GES-LA-Pra
+Modul: GES-LA-Pra
+Gültig ab WS08/09 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Geschichte Lehramt studienbegleitendes
+fachdidaktisches Praktikum
+2. Fachgebiet / Verantwortlich: Dr. Josef Memminger
+3. Inhalte des Moduls: -
+4. Qualifikationsziele des Moduls / zu -
+erwerbende Kompetenzen:
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: -
+b) verpflichtende Nachweise: -
+6. Verwendbarkeit des Moduls: Lehramt Unterrichtsfach Geschichte
+7. Angebotsturnus des Moduls:
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester:
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden:
+davon:
+1. Präsenzzeit: SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): Std.
+Leistungspunkte: 5
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+GES- Pflicht Seminar Geschichte Lehramt 2 siehe kommentiertes Vorlesungsverzeichnis
+L A-Pra Praktikum studienbegleitendes
+fachdidaktisches Praktikum
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+13. Bemerkungen:
+Sofern das studienbegleitende fachdiaktische Praktikum im Unterrichtsfach Geschichte absolviert wird,
+können damit weitere 5 Leistungspunkte für die Fachdidaktik Geschichte erworben werden (Überschüssige
+LP werden mit dem allgemeinen Wahlbereich verrechnet).
+26

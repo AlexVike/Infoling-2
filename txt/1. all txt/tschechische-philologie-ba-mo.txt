@@ -1,0 +1,551 @@
+input_dictionary = Modulhandbuch
+Tschechische Philologie (BA) - Bachelorfach
+gültig ab Wintersemester 2008/2009Inhaltsverzeichnis
+Module
+TSC-M 01: Basismodul Sprachausbildung Tschechisch 1 (Haupt-und Nebenfach)2
+TSC-M 02: Basismodul Sprachausbildung Tschechisch 2 (Hauptfach) 4
+TSC-M 04: Basismodul Tschechische Sprachwissenschaft 6
+TSC-M 05: Basismodul Tschechische Literaturwissenschaft 8
+TSC-M 06: Basismodul Tschechische Kultur- und Medienwissenschaft 10
+TSC-M 09: Aufbaumodul Sprachausbildung Tschechisch 3 (Hauptfach) 12
+TSC-M 23: Aufbaumodul Tschechische Sprachwissenschaft 14
+TSC-M 24: Aufbaumodul Tschechische Literaturwissenschaft 16
+TSC-M 25: Aufbaumodul Tschechische Kulturwissenschaft 18Modul: TSC-M 01
+Modul: TSC-M 01
+Gültig ab WS08/09 / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Basismodul Sprachausbildung Tschechisch 1 (Haupt-
+und Nebenfach)
+2. Fachgebiet / Verantwortlich: Tschechische Philologie / Dr. Lenka Nerlich
+3. Inhalte des Moduls: Erwerb und Vertiefung von Tschechisch-
+Grundkenntnissen, insbesondere in folgenden
+Fertigkeiten: Hör- und Leseverständnis, Grammatik sowie
+schriftliche und mündliche Sprachkompetenz
+4. Qualifikationsziele des Moduls / zu Das Zielniveau orientiert sich an den Niveaustufen
+erwerbende Kompetenzen: „A2+“ bis „B1“ des „Gemeinsamen europäischen
+Referenzrahmens für Sprachen“ des Europarats bzw. an
+UNIcert®-Stufe I
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: Keine oder geringe Vorkenntnisse
+b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: Tschechische Philologie als Haupt- oder Nebenfach;
+Studieneinheit Tschechisch I ;Master Slavistik; DTS; FKN;
+IVWL; UNIcert®
+7. Angebotsturnus des Moduls: jährlich
+8. Das Modul kann absolviert werden in: 2 Semestern
+9. Empfohlenes Fachsemester: 1 bis 2
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 360
+davon:
+1. Präsenzzeit: 10 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 210 Std.
+Leistungspunkte: 12
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+2Modul: TSC-M 01
+11.Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+TSC- Pflicht Übung Grundkurs Tschechisch I oder 4 siehe kommentiertes Vorlesungsverzeichnis
+M 01.1 Grundkurs Tschechisch I - Intensiv
+(Blockkurs vor SS)
+TSC- Pflicht Übung Grundkurs Tschechisch II 4 siehe kommentiertes Vorlesungsverzeichnis
+M 01.2
+TSC- Pflicht Übung Phonetische und sprachpraktische 2 siehe kommentiertes Vorlesungsverzeichnis
+M 01.3 Übungen
+TSC- Wahlpflicht Übung freiwilliger Zusatzkurs: Intensivkurs 2 siehe kommentiertes Vorlesungsverzeichnis
+M 01.4 zur Vertiefung der Sprechfertigkeit
+TSC- Wahlpflicht Übung freiwilliger Zusatzkurs: Intensivkurs 2 siehe kommentiertes Vorlesungsverzeichnis
+M 01.5 im Ausland
+TSC- Wahlpflicht Übung Intensivkurs I (siehe Bemerkungen 4 siehe kommentiertes Vorlesungsverzeichnis
+M 01.6 unter Punkt 13)
+TSC- Wahlpflicht Übung Sprachkurs I (siehe Bemerkungen 4 siehe kommentiertes Vorlesungsverzeichnis
+M 01.7 unter Punkt 13)
+12.Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+TSC- Grundkurs Tschechisch I oder siehe kommentiertes siehe kommentiertes 4/12
+M 01.1 Grundkurs Tschechisch I - Vorlesungsverzeichnis Vorlesungsverzeichnis
+Intensiv (Blockkurs vor SS)
+TSC- Grundkurs Tschechisch II siehe kommentiertes siehe kommentiertes 5/12
+M 01.2 Vorlesungsverzeichnis Vorlesungsverzeichnis
+TSC- Phonetische und siehe kommentiertes siehe kommentiertes 3/12
+M 01.3 sprachpraktische Übungen Vorlesungsverzeichnis Vorlesungsverzeichnis
+TSC- Alternative Prüfung:  Klausur siehe kommentiertes 1/2
+M 01.6 Intensivkurs I (siehe  Vorlesungsverzeichnis
+Bemerkungen unter Punkt 13)
+TSC- Alternative Prüfung:  Klausur siehe kommentiertes 1/2
+M 01.7 Sprachkurs I (siehe  Vorlesungsverzeichnis
+Bemerkungen unter Punkt 13)
+13.Bemerkungen:
+Alternativ zum Pflichtbereich können auf Antrag beim Modulverantwortlichen die Sprachkurse des
+Bohemicums angerechnet werden (Übung Nr. 6 Intensivkurs I und Nr. 7 Sprachkurs I). Falls die
+Pflichtveranstaltungen durch die Kurse des Bohemicums ersetzt werden, berechnet sich die Modulnote aus
+dem Durchschnitt der dort absolvierten Leistungen. Der Grundkurs Tschechisch I wird im SS zusätzlich
+als Blockkurs vor Semesterbeginn angeboten. Zusätzliche Wahlangebote: Intensivkurs zur Vertiefung der
+Sprechfertigkeit und Intensivkurs im Ausland
+3Modul: TSC-M 02
+Modul: TSC-M 02
+Gültig ab WS08/09 / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Basismodul Sprachausbildung Tschechisch 2
+(Hauptfach)
+2. Fachgebiet / Verantwortlich: Tschechische Philologie / Dr. Lenka Nerlich
+3. Inhalte des Moduls: Vertiefung der im Basismodul Sprachausbildung 1
+erworbenen Fertigkeiten; Training des schriftlichen und
+mündlichen Ausdrucks sowie des Übersetzens und der
+Grammatik
+4. Qualifikationsziele des Moduls / zu Das Zielniveau orientiert sich an den Niveaustufen
+erwerbende Kompetenzen: „B1+“ bis „B2“ des „Gemeinsamen europäischen
+Referenzrahmens für Sprachen“ des Europarats bzw.
+an UNIcert®-Stufe II und befähigt zu einem Studien-
+und Arbeitsaufenthalt im Land der Zielsprache (unterste
+Mobilitätsstufe).
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: Erfolgreich abgeschlossenes Basismodul
+Sprachausbildung Tschechisch 1 Master Slavistik oder
+vergleichbarer Sprachausbildungsnachweis (GER B1)
+b) verpflichtende Nachweise: nicht angegeben
+6. Verwendbarkeit des Moduls: Tschechische Philologie als Hauptfach; DTS; FKN; IVWL;
+UNIcert®
+7. Angebotsturnus des Moduls: jährlich
+8. Das Modul kann absolviert werden in: 2 Semestern
+9. Empfohlenes Fachsemester: 3 bis 4
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 360
+davon:
+1. Präsenzzeit: 8 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 240 Std.
+Leistungspunkte: 12
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+4Modul: TSC-M 02
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+TSC- Pflicht Übung Tschechisch-deutsche 2 siehe kommentiertes Vorlesungsverzeichnis
+M 02.1 Übersetzung I
+TSC- Pflicht Übung Konversation I oder Intensivkurs im 2 siehe kommentiertes Vorlesungsverzeichnis
+M 02.2 Ausland
+TSC- Pflicht Übung Deutsch-tschechische 2 siehe kommentiertes Vorlesungsverzeichnis
+M 02.3 Übersetzung I
+TSC- Pflicht Übung Systematische Grammatik I 2 siehe kommentiertes Vorlesungsverzeichnis
+M 02.4
+TSC- Wahlpflicht Übung Intensivkurs II (siehe 2 siehe kommentiertes Vorlesungsverzeichnis
+M 02.5 Bemerkungen unter Punkt 13)
+TSC- Wahlpflicht Übung Sprachkurs II (siehe Bemerkungen 4 siehe kommentiertes Vorlesungsverzeichnis
+M 02.6 unter Punkt 13)
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+TSC- Tschechisch- siehe kommentiertes siehe kommentiertes 1/4
+M 02.1 deutsche Übersetzung I Vorlesungsverzeichnis Vorlesungsverzeichnis
+TSC- Konversation I oder siehe kommentiertes siehe kommentiertes 1/4
+M 02.2 Intensivkurs im Ausland Vorlesungsverzeichnis Vorlesungsverzeichnis
+TSC- Deutsch-tschechische siehe kommentiertes siehe kommentiertes 1/4
+M 02.3 Übersetzung I Vorlesungsverzeichnis Vorlesungsverzeichnis
+TSC- Systematische Grammatik I siehe kommentiertes siehe kommentiertes 1/4
+M 02.4 Vorlesungsverzeichnis Vorlesungsverzeichnis
+TSC- Intensivkurs II (siehe siehe kommentiertes siehe kommentiertes 1/2
+M 02.5 Bemerkungen unter Punkt 13) Vorlesungsverzeichnis Vorlesungsverzeichnis
+TSC- Sprachkurs II (siehe siehe kommentiertes siehe kommentiertes 1/2
+M 02.6 Bemerkungen unter Punkt 13) Vorlesungsverzeichnis Vorlesungsverzeichnis
+13. Bemerkungen:
+Alternativ zum Pflichtbereich können auf Antrag beim Modulverantwortlichen die Sprachkurse des
+Bohemicums angerechnet werden (Nr. 5 und 6). Falls die Pflichtveranstaltungen durch die Kurse des
+Bohemicums ersetzt werden, berechnet sich die Modulnote aus dem Durchschnitt der dort absolvierten
+Leistungen.
+5Modul: TSC-M 04
+Modul: TSC-M 04
+Gültig ab WS08/09 / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1.Name des Moduls: Basismodul Tschechische Sprachwissenschaft
+2.Fachgebiet / Verantwortlich: Prof. Dr. Björn Hansen / Prof. Dr. Marek Nekula
+3.Inhalte des Moduls: Einführung in die Thematik und Methodik der
+tschechischen Sprachwissenschaft mit Vertiefung in
+einem ausgewählten Teilbereich
+4.Qualifikationsziele des Moduls / zu Erwerb von Grundbegriffen und grundlegenden
+erwerbende Kompetenzen: Methoden der Sprachwissenschaft und ihre Anwendung
+auf synchrone Sprachzustände; Vertiefung der
+Anwendung sprachwissenschaftlicher Fragestellungen in
+ausgewählten Teilbereichen.
+5.Teilnahmevoraussetzungen:
+a)empfohlene Kenntnisse: Grundkenntnisse des Tschechischen (können parallel im
+Sprachunterricht erworben werden)
+b)verpflichtende Nachweise: keine
+6.Verwendbarkeit des Moduls: Grundstudium Tschechische Philologie; Deutsch-
+Tschechische Studien / Cesko-nemecká studia;
+Tschechisch-Studien I
+7.Angebotsturnus des Moduls: WS, jährlich
+8.Das Modul kann absolviert werden in: 2 Semestern
+9.Empfohlenes Fachsemester: 1 bis 2
+10.Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 540
+davon:
+1.Präsenzzeit: 7 SWS
+2.Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 435 Std.
+Leistungspunkte: 18
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+11.Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+TSC- Pflicht Übung Einführung in die tschechische 3 siehe kommentiertes Vorlesungsverzeichnis
+M 04.1 Sprachwissenschaft
+TSC- Pflicht Seminar Proseminar Tschechische 2 siehe kommentiertes Vorlesungsverzeichnis
+M 04.2 Sprachwissenschaft
+TSC- Pflicht Vorlesung Tschechische Sprachwissenschaft 2 siehe kommentiertes Vorlesungsverzeichnis
+M 04.3
+6Modul: TSC-M 04
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+TSC- Einführung in die tschechische siehe kommentiertes siehe kommentiertes 1/3
+M 04.1 Sprachwissenschaft Vorlesungsverzeichnis Vorlesungsverzeichnis
+TSC- Proseminar zur tschechischen siehe kommentiertes siehe kommentiertes 1/3
+M 04.2 Sprachwissenschaft Vorlesungsverzeichnis Vorlesungsverzeichnis
+TSC- Vorlesung zur tschechischen siehe kommentiertes siehe kommentiertes 1/3
+M 04.3 Sprachwissenschaft Vorlesungsverzeichnis Vorlesungsverzeichnis
+13. Bemerkungen:
+Falls aufgrund der Fachkombination (zwei oder drei slavistische Fächer) zwei oder drei der Module OSL-
+M04, POL-M04, TSC-M04, BKS-M04 absolviert werden, so kann die Übung „Einführung in die tschechische
+Sprachwissenschaft“ (04.1 (6 LP)) nur einmal eingebracht werden. In den jeweils anderen Modulen ist die
+Übung mit einer thematischen Übung zu ersetzen.
+7Modul: TSC-M 05
+Modul: TSC-M 05
+Gültig ab WS08/09 / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Basismodul Tschechische Literaturwissenschaft
+2. Fachgebiet / Verantwortlich: Tschechische Philologie / Prof. Dr. Mirja Lecke
+3. Inhalte des Moduls: Einführung in die Thematik und Methoden der
+tschechischen Literaturwissenschaft; Überblick über die
+tschechische Literaturgeschichte
+4. Qualifikationsziele des Moduls / zu Orientierung in der tschechischen Literaturwissenschaft
+erwerbende Kompetenzen: und Literaturgeschichte; Fähigkeit zur Anwendung
+literaturwissenschaftlicher Methoden bei der Analyse
+tschechischer literarischer Werke
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: keine
+b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: Grundstudium Tschechische Philologie; Deutsch-
+Tschechische Studien / Cesko-nemecká studia;
+Tschechisch-Studien I
+7. Angebotsturnus des Moduls: WS, jährlich
+8. Das Modul kann absolviert werden in: 2 Semestern
+9. Empfohlenes Fachsemester:
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 540
+davon:
+1. Präsenzzeit: 7 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 435 Std.
+Leistungspunkte: 18
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+TSC- Pflicht Übung Einführung in die tschechische 3 siehe kommentiertes Vorlesungverzeichnis
+M 05.1 Literaturwissenschaft
+TSC- Pflicht Vorlesung Tschechische 2 siehe kommentiertes Vorlesungverzeichnis
+M 05.2 Literaturwissenschaft
+TSC- Pflicht Seminar Proseminar Tschechische 2 siehe kommentiertes Vorlesungverzeichnis
+M 05.3 Literaturwissenschaft
+8Modul: TSC-M 05
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+TSC- Einführung in die tschechische siehe kommentiertes siehe kommentiertes 1/3
+M 05.1 Literaturwissenschaft Vorlesungsverzeichnis Vorlesungverzeichnis
+TSC- Tschechische Literaturwissenschaft siehe kommentiertes siehe kommentiertes 1/3
+M 05.2 Vorlesungsverzeichnis Vorlesungverzeichnis
+TSC- Proseminar Tschechische siehe kommentiertes siehe kommentiertes 1/3
+M 05.3 Literaturwissenschaft Vorlesungsverzeichnis Vorlesungverzeichnis
+13. Bemerkungen:
+Falls aufgrund der Fachkombination (zwei oder drei slavistische Fächer) zwei oder drei der Module OSL-
+M05, POL-M05, TSC-M05, BKS-M05 absolviert werden, so kann die Übung „Einführung in die tschechische
+Literaturwissenschaft“ (04.1 (6 LP)) nur einmal eingebracht werden. In den jeweils anderen Modulen ist die
+Übung mit einer thematischen Übung zu ersetzen.
+9Modul: TSC-M 06
+Modul: TSC-M 06
+Gültig ab WS08/09 / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1. Name des Moduls: Basismodul Tschechische Kultur- und
+Medienwissenschaft
+2. Fachgebiet / Verantwortlich: Prof. Dr. Björn Hansen
+Prof. Dr. Marek Nekula
+3. Inhalte des Moduls: Einführung in die Thematik und Methodik der
+tschechischen Kultur- und Medienrwissenschaft;
+Kenntnisse in ausgewählten Bereichen der tschechischen
+Kultur- und Medienwissenschaft (Sprache, Literatur, Film,
+Medien u.a.). Die relevanten Leistungen sind i.d.R. in der
+Bohemistik (Slavistik und Bohemicum) zu erbringen.
+4. Qualifikationsziele des Moduls / zu Erwerb von Grundbegriffen und grundlegenden Methoden
+erwerbende Kompetenzen: der Kultur- und Medienwissenschaft; Kompetenz zur
+Beschaffung und Aufbereitung von Informationen
+über die entsprechende Kultur; Kenntnis und Erfassen
+ausgewählter fremdkultureller Orientierungssysteme.
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: Grundkenntnisse des Tschechischen (können parallel im
+Sprachunterricht erworben werden)
+b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: Grundstudium Tschechische Philologie; Deutsch-
+Tschechische Studien / Cesko-nemecká studia;
+Tschechisch-Studien I
+7. Angebotsturnus des Moduls: WS, jährlich
+8. Das Modul kann absolviert werden in: 2 Semestern
+9. Empfohlenes Fachsemester: 1 bis 2
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 540
+davon:
+1. Präsenzzeit: 7 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 435 Std.
+Leistungspunkte: 18
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+10Modul: TSC-M 06
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+TSC- Pflicht Übung Einführung in die tschechische 3 siehe kommentieres Vorlesungsverzeichnis
+M 06.1 Kulturwissenschaft
+TSC- Pflicht Übung Übung o. Proseminar zur 2 siehe kommentieres Vorlesungsverzeichni
+M 06.2 Seminar tschechischen Kulturwissenschaft
+TSC- Pflicht Vorlesung Vorlesung o. Übung o. 2 siehe kommentieres Vorlesungsverzeichni
+M 06.3 Übung Proseminar zur tschechischen
+Seminar Kulturwissenschaft
+TSC- Wahlpflicht Praktikum Auslandspraktikum von
+M 06.4 mindestens 4 Wochen
+als Alternative für die
+Veranstaltung Nr. 3) (mit
+ausführlichem Ergebnisbericht als
+Leistungsnachweis)
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+TSC- Einführung in die tschechische siehe kommentiertes siehe kommentiertes 1/3
+M 06.1 Kulturwissenschaft Vorlesungsverzeichnis Vorlesungverzeichnis
+TSC- Prüfung zu Übung o. Proseminar zur siehe kommentiertes siehe kommentiertes 1/3
+M 06.2 tschechischen Kulturwissenschaft Vorlesungsverzeichnis Vorlesungverzeichnis
+TSC- Vorlesung o. Übung o. siehe kommentiertes siehe kommentiertes 1/3
+M 06.3 Proseminar zur tschechischen Vorlesungsverzeichnis Vorlesungverzeichnis
+Kulturwissenschaft
+13. Bemerkungen:
+Im Rahmen der Deutsch-Tschechischen Studien kann im Modul TSC-M06 für die Veranstaltung "Vorlesung
+o. Übung o. Proseminar zur tschechischen Kulturwissenschaft" kein Praktikum eingebracht werden. Falls
+aufgrund der Fachkombination (zwei oder drei slavistische Fächer) zwei oder drei der Module OSL-M06,
+POL-M06, TSC-M06, BKS-M06 absolviert werden, so kann die Übung „Einführung in die tschechische
+Kultur- und Medienwissenschaft“ (04.1 (6 LP)) nur einmal eingebracht werden. In den jeweils anderen
+Modulen ist die Übung mit einer thematischen Übung zu ersetzen.
+11Modul: TSC-M 09
+Modul: TSC-M 09
+Gültig ab WS08/09
+1. Name des Moduls: Aufbaumodul Sprachausbildung Tschechisch 3
+(Hauptfach)
+2. Fachgebiet / Verantwortlich: (alle)
+Tschechische Philologie / Dr. Lenka Nerlich
+3. Inhalte des Moduls: Vertiefung der Kenntnisse in den Bereichen Übersetzung,
+Konversation und Landeskunde
+4. Qualifikationsziele des Moduls / zu Das Zielniveau orientiert sich an den Niveaustufen
+erwerbende Kompetenzen: „B2+“ bis „C1“ des „Gemeinsamen europäischen
+Referenzrahmens für Sprachen“ des Europarats bzw. an
+UNIcert®-Stufe III und qualifiziert für einen Studien- und
+Arbeitsaufenthalt im Land der Zielsprache (= empfohlene
+Mobilitätsstufe)
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: GER B1
+b) verpflichtende Nachweise: Erfolgreich abgeschlossenes Basismodul
+Sprachausbildung Tschechisch 2 oder vergleichbarer
+Sprachausbildungsnachweis
+6. Verwendbarkeit des Moduls: Tschechische Philologie als Hauptfach; DTS; FKN; IVWL;
+UNIcert®
+7. Angebotsturnus des Moduls: jährlich
+8. Das Modul kann absolviert werden in: 2 Semestern
+9. Empfohlenes Fachsemester: 5 bis 6
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 270
+davon:
+1. Präsenzzeit: 6 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 180 Std.
+Leistungspunkte: 9
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+12Modul: TSC-M 09
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+TSC- Pflicht Übung Tschechisch-deutsche 2 siehe kommentiertes Vorlesungsverzeichnis
+M 09.1 Übersetzung II
+TSC- Pflicht Übung Konversation und Landeskunde II 2 siehe kommentiertes Vorlesungsverzeichnis
+M 09.2
+TSC- Pflicht Übung Eine Veranstaltung aus dem 2 siehe kommentiertes Vorlesungsverzeichnis
+M 09.3 Seminar Wahlpflichtbereich
+TSC-M Wahlpflicht Seminar Spezialseminar mit wechselnden 2 siehe kommentiertes Vorlesungsverzeichnis
+09.3 a Exkursion Themen zu Tschechien
+(Tandemseminar mit Exkursion
+nach Tschechien)
+TSC-M Wahlpflicht Übung Lektürekurs Tschechisch 2 siehe kommentiertes Vorlesungsverzeichnis
+09.3 b
+TSC-M Wahlpflicht Übung Hörverstehen 2 siehe kommentiertes Vorlesungsverzeichnis
+09.3 c
+TSC-M Wahlpflicht Übung Systematische Grammatik II 2 siehe kommentiertes Vorlesungsverzeichnis
+09.3 d
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+TSC- Tschechisch-deutsche siehe kommentiertes siehe kommentiertes 1/3
+M 09.1 Übersetzung II Vorlesungsverzeichnis Vorlesungsverzeichnis
+TSC- Konversation und Landeskunde II siehe kommentiertes siehe kommentiertes 1/3
+M 09.2 Vorlesungsverzeichnis Vorlesungsverzeichnis
+TSC- Veranstaltung aus dem siehe kommentiertes siehe kommentiertes 1/3
+M 09.3 Wahlpflichtbereich Vorlesungsverzeichnis Vorlesungsverzeichnis
+13Modul: TSC-M 23
+Modul: TSC-M 23
+Gültig ab WS08/09
+1. Name des Moduls: Aufbaumodul Tschechische Sprachwissenschaft
+2. Fachgebiet / Verantwortlich: Prof. Dr. Marek Nekula
+3. Inhalte des Moduls: Fähigkeit zur selbständigen Anwendung
+sprachwissenschaftlicher Methoden in einem
+ausgewählten Teilbereich der tschechischen
+Sprachwissenschaft
+4. Qualifikationsziele des Moduls / zu Vertiefung des theoretischen Denkens im
+erwerbende Kompetenzen: sprachwissenschaftlichen Bereich; Fähigkeit zu
+Erschließung und Analyse sprachwissenschaftlich
+relevanter tschechischer Daten; Verfassung
+und Präsentation von sprachwissenschaftlich
+basierten Texten; Orientierung in der tschechischen
+Sprachgeschichte
+5. Teilnahmevoraussetzungen:
+a) empfohlene Kenntnisse: nicht angegeben
+b) verpflichtende Nachweise: erfolgreich abgeschlossenes Basismodul Tschechische
+Sprachwissenschaft
+6. Verwendbarkeit des Moduls: Tschechische Philologie als Bachelorfach [ nicht
+verwendbar in Master Slavistik (Jede Veranstaltung ist nur
+einmal anrechenbar) ]
+7. Angebotsturnus des Moduls: WS, jährlich
+8. Das Modul kann absolviert werden in: 2 Semestern
+9. Empfohlenes Fachsemester:
+10. Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 360
+davon:
+1. Präsenzzeit: 4 SWS
+2. Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 300 Std.
+Leistungspunkte: 12
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+11. Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+TSC- Pflicht Hauptseminar Hauptseminar Tschechische 2 siehe kommentiertes Vorlesungsverzeichnis
+M 23.1 Sprachwissenschaft
+TSC- Pflicht Übung Geschichte des Tschechischen 2 siehe kommentiertes Vorlesungsverzeichnis
+M 23.2
+14Modul: TSC-M 23
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+TSC- Prüfung zu Hauptseminar siehe kommentiertes 1
+M 23.1 Tschechische Sprachwissenschaft Vorlesungsverzeichnis
+15Modul: TSC-M 24
+Modul: TSC-M 24
+Gültig ab WS08/09
+1.Name des Moduls: Aufbaumodul Tschechische Literaturwissenschaft
+2.Fachgebiet / Verantwortlich: Prof. Dr. Mirja Lecke 
+3.Inhalte des Moduls: Vermittlung der Fähigkeit zur selbständigen Anwendung
+literaturwissenschaftlicher Methoden in einem begrenzten
+Teilgebiet der tschechischen Literaturwissenschaft.
+Vertiefung eines oder mehrerer Teilgebiete der
+tschechischen Literaturwissenschaft an ausgewählten
+Beispielen und an ausgewählten Gattungen.
+Eigenständige Erarbeitung tschechischer literaturwissen-
+schaftlicher Forschungsliteratur und ihre kritische
+Diskussion.
+4.Qualifikationsziele des Moduls / zu Ziel ist die Befähigung zum eigenständigen Umgang mit
+erwerbende Kompetenzen: literarischen und literaturwissenschaftlichen tschechischen
+bzw. bohemistischen Texten und die Diskussion der
+Ergebnisse im Kontext tschechischer Literaturen.
+5.Teilnahmevoraussetzungen:
+a)empfohlene Kenntnisse: -
+b)verpflichtende Nachweise: erfolgreich abgeschlossenes Basismodul Tschechische
+Literaturwissenschaft
+6.Verwendbarkeit des Moduls: Tschechische Philologie als Bachelorfach [ nicht
+verwendbar in Master Slavistik (Jede Veranstaltung ist nur
+einmal anrechenbar) ]
+7.Angebotsturnus des Moduls: WS, jährlich
+8.Das Modul kann absolviert werden in: 2 Semestern
+9.Empfohlenes Fachsemester:
+10.Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 360
+davon:
+1.Präsenzzeit: 4 SWS
+2.Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 300 Std.
+Leistungspunkte: 12
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+16Modul: TSC-M 24
+11.Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+TSC- Pflicht Hauptseminar Hauptseminar Tschechische 2 siehe kommentiertes Vorlesungsverzeichnis
+M 24.1 Literaturwissenschaft
+TSC- Pflicht Vorlesung Übung zur tschechischen 2 siehe kommentiertes Vorlesungsverzeichnis
+M 24.2 Übung Literaturwissenschaft ODER
+Vorlesung zur tschechischen
+Literaturwissenschaft
+12.Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+TSC- Prüfung zu Hauptseminar siehe kommentiertes 1
+M 24.1 Tschechische Literaturwissenschaft Vorlesungsverzeichnis
+17Modul: TSC-M 25
+Modul: TSC-M 25
+Gültig ab WS08/09 / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1.Name des Moduls: Aufbaumodul Tschechische Kulturwissenschaft
+2.Fachgebiet / Verantwortlich: Prof. Dr. Sabine Koller / Prof. Dr. Marek Nekula
+3.Inhalte des Moduls: Fähigkeit zur selbständigen Anwendung
+kulturwissenschaftlicher Methoden in einem ausgewählten
+Teilgebiet der tschechischen Kulturwissenschaft.
+4.Qualifikationsziele des Moduls / zu Vertiefung des theoretischen Denkens im
+erwerbende Kompetenzen: kulturwissenschaftlichen Bereich; Fähigkeit zu
+Erschließung und Analyse kulturwissenschaftlich
+relevanter tschechischer Daten; Verfassung und
+Präsentation von kulturwissenschaftlich basierten Texten
+5.Teilnahmevoraussetzungen:
+a)empfohlene Kenntnisse: nicht angegeben
+b)verpflichtende Nachweise: Erfolgreich abgeschlossenes Basismodul Tschechische
+Kulturwissenschaft
+6.Verwendbarkeit des Moduls: Tschechische Philologie als Bachelorfach [ nicht
+verwendbar in Master Slavistik (Jede Veranstaltung ist nur
+einmal anrechenbar) ]
+7.Angebotsturnus des Moduls: WS, jährlich
+8.Das Modul kann absolviert werden in: 2 Semestern
+9.Empfohlenes Fachsemester:
+10.Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 360
+davon:
+1.Präsenzzeit: 4 SWS
+2.Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 300 Std.
+Leistungspunkte: 12
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+11.Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+TSC- Pflicht Hauptseminar Hauptseminar Tschechische 2 siehe kommentiertes Vorlesungsverzeichnis
+M 25.1 Kulturwissenschaft
+TSC- Pflicht Vorlesung Übung zur tschechischen 2 siehe kommentiertes Vorlesungsverzeichnis
+M 25.2 Übung Kulturwissenschaft ODER
+Vorlesung zur tschechischen
+Kulturwissenschaft
+18Modul: TSC-M 25
+12. Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+TSC- Prüfung zu Hauptseminar siehe kommentiertes 1
+M 25.1 tschechische Kulturwissenschaft Vorlesungsverzeichnis
+13. Bemerkungen:
+Das Hauptseminar ist aus dem Angebot der Tschechischen Philologie zu wählen
+19

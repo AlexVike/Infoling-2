@@ -1,0 +1,1729 @@
+input_dictionary =     
+ 
+ 
+ 
+ 
+Modulhandbuch LPO I neu 
+ 
+ 
+   
+ 
+Didaktik Grundschule (§36)            S. 2 
+Didaktik Mittelschule (§38)            S. 6 
+Lehramt Grund-, Mittel- und Realschule (§57)     S. 11 
+Lehramt Gymnasium (§ 83)            S. 21 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+Modulhandbuch gesamt Stand 28.02.2019 
+Seite 1 
+  
+ 
+ 
+ 
+ 
+Modulhandbuch LPO I neu 
+ 
+Didaktik Grundschule 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Veränderungen: 
+29.10.2009  Modul 30 Basisqualifikation Grundschule (3 SWS-3 LP)   
+09.04.2010  Neue Anwesenheitsregelung 
+06.05.2010  Modul M01 Nr. 10 geteilt in 10a und 10b; Nr.11 Winter-/Sommersportwoche aufgenommen, Abfolge geändert   
+28.09.2010  Modul Nr. 1 und Nr. 3: Ziff.8 Zusammensetzung geändert 
+15.06.2015  Modul M01/10a und M01/10b keine Vorleistungen mehr für die Fachdidaktischen Seminare 
+28.02.2019  Modul M01: unterschiedliche Sportspiele für Staatsexamen und falls Sportspiel als Modulprüfung gewählt 
+ 
+Modulhandbuch gesamt Stand 28.02.2019 
+Seite 2 
+ Modulkonzept LPO I neu § 36 
+Universität Regensburg
+ 
+Didaktik der Grundschule - Sport 
+    LP  Art  SWS  Prüfung  Wert 
+M 01              
+Sportwissenschaftliche und  Didaktik der Sporterziehung  1   S  1  A/SA  1-fach 
+fachdidaktische Kompetenz 
+1 LP – 1 SWS 
+             
+M 01             
+Unterrichtliche  Fachdidaktische Seminare           
+Handlungskompetenz  Mit- und gegeneinander spielen           
+8 LP – 8 SWS  - Kleine Spiele  1   S  1  A  keine 
+  - Spiele: Hinführen zu BB, FB, HB, VB  1   S  1  A/SA  keine 
+             
+  Bewegung erleben und erweitern           
+  - Leichtathletik: Laufen, Springen, Werfen  1   S  1  A/SA  keine 
+  - Schwimmen: Fortbewegen im Wasser (erste  1   S  1  A/SA  keine 
+Technik) 
+             
+  Bewegung gestalten           
+  - Turnen an Geräten/Bewegungskünste  1   S   1  A/SA  keine 
+  - Bewegungsgrundformen/sich zur Musik               
+bewegen  1   S  1  A/SA  keine 
+  1 SA nach Wahl aus Spiele,        Praxis  1-fach 
+Bewegungsgrundformen, Leichtathletik, 
+Spiele, Schwimmen oder Turnen 
+             
+  Gesundheit fördern           
+  - Fitness  1   S  1  A  keine 
+  - Körper erleben    1   S  1  A/KL  1-fach 
+Note Uni:              
+3 Prüfungen (1-fach) : 3 
+Tutorium/Übung  Sportspiele, Gymnastik/Tanz, Turnen an           
+  Geräten, Leichtathletik, Schwimmen  3  Ü  3  A  keine 
+             
+Winter-/Sommersportwoche             
+(optional)     2 (optional)      A  keine 
+             
+Zusätzliches Studienbegleitendes             
+Praktikum (Freier Bereich)   5 (Fr. Bereich)    A  keine 
+             
+Basisqualifikation/Zulassungs-            
+voraussetzung (Freier Bereich)     3 (Fr. Bereich)  S  3  A/SA  keine 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Legende:             
+E   = Eintragung             
+A   = Anwesenheit             
+KL = Klausur             
+LV = Lehrversuch             
+MP = mündliche Prüfung             
+Praxis = praktische Prüfung             
+SA = Seminararbeit             
+Keine = keine Benotung             
+Modulhandbuch gesamt Stand 28.02.2019 
+Seite 3 
+ SPO-LA-M01  
+ 
+1. Name des Moduls:   Sportwissenschaftliche/fachdidaktische sowie 
+unterrichtliche Handlungskompetenz  
+ 
+2. Inhalte / Lehrziele:  Das Übersichtswissen der fachdidaktischen Fragen 
+des Sportunterrichts an der Grundschule stellt die 
+Basis dar, auf der verschiedene Anwendungs-
+möglichkeiten in der Unterrichtspraxis behandelt 
+werden. Im Tutorium wird die eigene sportliche 
+Leistungsfähigkeit verbessert.  
+3. Voraussetzungen: 
+a) allgemeiner Art              keine 
+b) vorausgesetzte universitäre Veranstaltungen:       keine 
+ 
+4. Bedingungen: 
+- verwendbar in:   Lehramtsstudium Didaktik Grundschule 
+- nicht verwendbar in / nicht kombinierbar mit: 
+ 
+5. Wie häufig wird das Modul angeboten?        Einmal pro Studienjahr 
+ 
+6. In welcher Zeit kann das Modul absolviert  
+     werden?              Vier Semester 
+ 
+7. Zusammensetzung:  Abfolge beliebig  
+ 
+Nr.  Veranstaltungen  SWS  LP 
+1  Seminar Didaktik der Sporterziehung  1  1  
+2  Seminar Kleine Spiele: Tanz-, Fang-, Musikspiele  1  1  
+3  Seminar Spiele: Hinführen zu Basketball. Fußball, Handball, Volleyball  1  1 
+4  Seminar Leichtathletik:  Bewegung erleben und erweitern:      
+Laufen, springen, werfen  1  1  
+5  Seminar Schwimmen: Bewegung erleben und erweitern:     
+(Erste Technik)  1  1  
+6  Seminar Turnen an Geräten/Bewegungskünste:     
+Bewegung gestalten  1  1  
+7  Seminar Bewegungsgrundformen/sich zur Musik bewegen:     
+Bewegung gestalten  1  1 
+8  Seminar Gesundheit fördern: Fitness  1  1  
+9  Seminar Gesundheit fördern: Körper erleben  1  1 
+10a  Tutorium:  1  1  
+  Übung Gymnastik/Tanz, Turnen an Geräten , Schwimmen 
+10b  Tutorium:   2  2  
+Übung Leichtathletik, Sportspiele 
+  Summe   12  12  
+11  Zum Erwerb zusätzlicher Leistungspunkte wird die Teilnahme an folgender  2  2  
+Veranstaltung verbucht: Winter-/Sommersportwoche (optional) 
+ 
+8. Die Wiederholbarkeit der Veranstaltungen ergibt sich aus der universitären Prüfungsordnung. 
+ 
+9. In den Veranstaltungen 1 und 9 sowie wahlweise aus 3,4,5,6 oder 7 werden Modulteilprüfungen durchgeführt. 
+    Wird für die sportpraktische Prüfung die Veranstaltung 3 gewählt, darf keines der bereits für das Staatsexamen ausgewählten  
+    Ballspiele erneut gewählt werden.  
+ 
+    Die Endnote des Moduls wird aus dem Durchschnitt der in den Veranstaltungen 1 und 9 sowie 3, 4, 5, 6 oder sieben erreichten    
+    Noten ermittelt.   
+ 
+10. Eine Staatsexamensprüfung darf abgelegt werden, wenn das dazugehörende fachdidaktische Seminar erfolgreich absolviert  
+ 
+      wurde. 
+ 
+Modulhandbuch gesamt Stand 28.02.2019 
+Seite 4 
+ SPO-LA-M30 Basisqualifikation Grundschule 
+ 
+1. Name des Moduls:   Sportwissenschaftliche/fachdidaktische Basisqualifikation 
+ 
+2. Inhalte / Lehrziele:  Das Übersichtswissen der fachdidaktischen Fragen 
+des Sportunterrichts an der Grundschule wird mit 
+dem Schwerpunkt Vermittlungskompetenz 
+aufgearbeitet. 
+ 
+3. Voraussetzungen: 
+a) allgemeiner Art              keine 
+b) vorausgesetzte universitäre Veranstaltungen:       keine 
+ 
+4. Bedingungen: 
+- verwendbar in:   Lehramtsstudium Didaktik Grundschule 
+- nicht verwendbar in / nicht kombinierbar mit: 
+ 
+5. Wie häufig wird das Modul angeboten?        Jedes Semester 
+ 
+6. In welcher Zeit kann das Modul absolviert  
+     werden?              Ein Semester 
+ 
+7. Zusammensetzung:            Abfolge beliebig 
+ 
+Nr.  Veranstaltungen  SWS  LP 
+1  Basisqualifikation  3  3 
+ 
+8. Für die Veranstaltung ist der Nachweis der Anwesenheit erforderlich. 
+Modulhandbuch gesamt Stand 28.02.2019 
+Seite 5 
+  
+ 
+ 
+ 
+ 
+Modulhandbuch LPO I neu 
+ 
+Didaktik Mittelschule 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Veränderungen: 
+29.10.2009  Modul 31 Basisqualifikation Mittelschule (3 SWS-3 LP) 
+09.04.2010  Neue Anwesenheitsregelung 
+06.05.2010  Modul M03 Nr. 13 geteilt in 13a und 13b; Nr.14 Winter-/Sommersportwoche aufgenommen, Abfolge geändert 
+28.09.2010  Modul Nr. 1 und Nr. 3: Ziff.8 Zusammensetzung geändert 
+15.06.2015  Modul M03/13a und M03/13b keine Vorleistungen mehr für die Fachdidaktischen Seminare 
+28.02.2019  Modul M01: unterschiedliche Sportspiele für Staatsexamen und falls Sportspiel als Modulprüfung gewählt 
+ 
+Modulhandbuch gesamt Stand 28.02.2019 
+Seite 6 
+ Modulkonzept LPO I neu § 38 
+Universität Regensburg
+ 
+Didaktik der Mittelschule - Sport 
+ 
+    LP  Art  SWS  Prüfung  Wert 
+M 02             
+Sportwissenschaftliche und   Einführung in die Sportpädagogik  1   V  1  E  keine 
+fachdidaktische Kompetenz;  Didaktik der Sporterziehung  1  S  1  A/SA  1-fach 
+Unterrichtskompetenz in  Sportbiologisches und           
+Gesundheit und Gestalten  trainingswissenschaftliches Basiswissen  1   V  1  E/KL  1-fach 
+             
+  Fachdidaktische Seminare           
+  Gesundheit fördern/           
+  Gesundheitsorientierte Fitness  1     S  1  A/KL  1-fach 
+  Trend-/Freizeitsport  1   S  1  A/SA  keine 
+Modulprüfung: SA +KL+KL: 3             
+             
+M 03  Fachdidaktische Seminare           
+Unterrichtskompetenz in den   Mit- und gegeneinander spielen           
+Spielen sowie im Individual- und  - Basketball   1  S  1  A/SA  keine 
+Freizeitsport  - Fußball  1   S  1  A/SA  keine 
+  - Handball  1   S  1  A/SA  keine 
+  - Volleyball   1   S  1  A/SA  keine 
+  1 SA nach Wahl aus BB, FB, HB oder VB        Praxis  1-fach 
+             
+  Bewegung erleben und erweitern           
+  - Leichtathletik  2   S  2  A/SA  Keine 
+  - Schwimmen  2   S  2  A/SA  keine 
+             
+Modulprüfung: SA +SA :2  Bewegung gestalten           
+  - Turnen an Geräten/Bewegungskünste  2   S  2  A/SA  keine 
+  - Gymnastik und Tanz  2   S  2  A/SA  keine 
+  1 SA nach Wahl  aus Gerätturnen,        Praxis  1-fach 
+Gymnastik, Leichtathletik oder Schwimmen 
+Note Uni:  M02 + M03 : 2             
+Tutorium/Übung  Sportspiele, Gymnastik/Tanz, Turnen an           
+  Geräten, Leichtathletik, Schwimmen  3   Ü  3  A  keine 
+             
+Winter-/Sommersportwoche             
+(optional)    2 (optional)      A  keine 
+             
+Zusätzliches Studienbegleitendes             
+Praktikum (Freier Bereich)  5 (Fr. Bereich)      A  keine 
+             
+Basisqualifikation    3 (Fr. Bereich)  S  3  A/SA  keine 
+(Freier Bereich)  
+ 
+ 
+ 
+ 
+ 
+ 
+Legende:             
+E   = Eintragung             
+A   = Anwesenheit             
+KL = Klausur             
+LV = Lehrversuch             
+MP = mündliche Prüfung             
+Praxis = praktische Prüfung             
+SA = Seminararbeit             
+Keine = keine Benotung             
+Modulhandbuch gesamt Stand 28.02.2019 
+Seite 7 
+ SPO-LA-M02  
+ 
+1. Name des Moduls:   Sportwissenschaftliche und fachdidaktische Kompetenz; 
+Unterrichtskompetenz in Gesundheit und Gestalten sowie 
+im Freizeitsport 
+ 
+2. Inhalte / Lehrziele:  Das Übersichtswissen der fachdidaktischen Fragen 
+des Sportunterrichts an der Mittelschule stellt die 
+Basis dar, auf der die Unterrichtskompetenz in den für 
+die Mittelschule wichtigen Bereichen Gesundheit und 
+Gestalten sowie in den Freizeitsportarten entwickelt 
+wird 
+3. Voraussetzungen: 
+a) allgemeiner Art              keine 
+b) vorausgesetzte universitäre Veranstaltungen:       keine 
+ 
+4. Bedingungen: 
+- verwendbar in:   Lehramtsstudium Didaktik Mittelschule 
+- nicht verwendbar in / nicht kombinierbar mit: 
+ 
+5. Wie häufig wird das Modul angeboten?        Einmal pro Studienjahr 
+ 
+6. In welcher Zeit kann das Modul absolviert  
+     werden?              Vier Semester 
+ 
+7. Zusammensetzung:            Abfolge beliebig 
+ 
+Nr.  Veranstaltungen  SWS  LP 
+1  Vorlesung Einführung in die Sportpädagogik  1  1  
+2  Seminar Didaktik der Sporterziehung  1  1  
+3  Vorlesung Sportbiologisches und trainingswissenschaftliches Basiswissen   1  1  
+4  Seminar Gesundheit fördern – Gesundheitsorientierte Fitness   1  1  
+5  Seminar Trend/Freizeitsport  1  1  
+  Summe     5  5  
+ 
+8. Die Wiederholbarkeit der Veranstaltungen ergibt sich aus der universitären Prüfungsordnung. 
+ 
+9. In den Veranstaltungen 2, 3 und 4 werden Modulteilprüfungen durchgeführt. 
+Die Endnote des Moduls wird aus dem Durchschnitt der in den Veranstaltungen 2, 3 und 4 erreichten Noten ermittelt.  
+ 
+Modulhandbuch gesamt Stand 28.02.2019 
+Seite 8 
+ SPO-LA-M03  
+ 
+1. Name des Moduls:   Unterrichtskompetenz in den Spielen sowie im Individual- 
+sport 
+ 
+2. Inhalte / Lehrziele:  Das Übersichtswissen der fachdidaktischen Fragen 
+des Sportunterrichts an der Mittelschule wird in den 
+Bereichen Spielen sowie in den Individualsportarten 
+erarbeitet. Zusätzlich wird die eigene Leistungs- und 
+Demonstrationsfähigkeit in den für die in der 
+Mittelschule wichtigen Sportarten verbessert. 
+3. Voraussetzungen: 
+a) allgemeiner Art              keine 
+b) vorausgesetzte universitäre Veranstaltungen:       keine 
+ 
+4. Bedingungen: 
+- verwendbar in:   Lehramtsstudium Didaktik Mittelschule 
+- nicht verwendbar in / nicht kombinierbar mit: 
+ 
+5. Wie häufig wird das Modul angeboten?        Einmal pro Studienjahr 
+ 
+6. In welcher Zeit kann das Modul absolviert  
+     werden?              Vier Semester 
+ 
+   
+ 
+Nr.  Veranstaltungen  SWS  LP 
+1  Seminar Mit und gegeneinander Spielen: Basketball  1  1  
+2  Seminar Mit und gegeneinander Spielen: Fußball  1  1  
+3  Seminar Mit und gegeneinander Spielen: Handball  1  1  
+4  Seminar Mit und gegeneinander Spielen: Volleyball  1  1  
+5  Seminar Bewegung erleben und erweitern: Leichtathletik I  1  1  
+6  Seminar Bewegung erleben und erweitern: Leichtathletik II   1  1  
+7  Seminar Bewegung erleben und erweitern: Schwimmen I  1  1  
+8  Seminar Bewegung erleben und erweitern: Schwimmen II   1  1  
+9  Seminar Bewegung gestalten: Turnen an Geräten I/Bewegungskünste  1  1  
+10  Seminar Bewegung gestalten: Turnen an Geräten II/Bewegungskünste  1  1  
+11  Seminar Bewegung gestalten: Gymnastik und Tanz I  1  1  
+12  Seminar Bewegung gestalten: Gymnastik und Tanz II  1  1  
+13a  Tutorium:   1  1  
+Übung Gymnastik/Tanz, Turnen an Geräten, Schwimmen 
+13b  Tutorium:   2  2  
+Übung Sportspiele, Leichtathletik 
+  Summe   15  15 
+14  Zum Erwerb zusätzlicher Leistungspunkte wird die Teilnahme an folgender  2  2  
+Veranstaltung verbucht: Winter-/Sommersportwoche (optional) 
+ 
+8. Die Wiederholbarkeit der Veranstaltungen ergibt sich aus der universitären Prüfungsordnung. 
+ 
+9. In den Veranstaltungen 1, 2, 3 oder 4 sowie 6,8,10 oder 12 wird wahlweise eine Modulprüfung durchgeführt.  
+    Bei der Wahl des Sportspiels darf keine der bereits für das Staatsexamen ausgewählten Sportspiele erneut gewählt werden.  
+ 
+     Die Endnote des Moduls wird aus dem Durchschnitt der in den Veranstaltungen 1, 2, 3 oder 4 und 6, 8, 10 oder 12 erreichten  
+     Noten ermittelt.  
+ 
+10. Eine Staatsexamensprüfung in einem Sportspiel darf abgelegt werden, wenn das dazugehörende fachdidaktische Seminar  
+      absolviert wurde. Eine Staatsexamensprüfung in einer Individualsportart darf abgelegt werden, wenn die beiden  
+      dazugehörenden fachdidaktischen Seminare erfolgreich absolviert wurden.  
+ 
+ 
+ 
+Modulhandbuch gesamt Stand 28.02.2019 
+Seite 9 
+ SPO-LA-M31 Basisqualifikation Mittelschule 
+ 
+1. Name des Moduls:   Sportwissenschaftliche/fachdidaktische Basisqualifikation 
+  Mittelschule 
+ 
+2. Inhalte / Lehrziele:  Das Übersichtswissen der fachdidaktischen Fragen 
+des Sportunterrichts an der Mittelschule wird mit 
+dem Schwerpunkt Vermittlungskompetenz 
+aufgearbeitet. 
+ 
+3. Voraussetzungen: 
+a) allgemeiner Art              keine 
+b) vorausgesetzte universitäre Veranstaltungen:       keine 
+ 
+4. Bedingungen: 
+- verwendbar in:   Lehramtsstudium Didaktik Mittelschule 
+- nicht verwendbar in / nicht kombinierbar mit: 
+ 
+5. Wie häufig wird das Modul angeboten?        Jedes Semester 
+ 
+6. In welcher Zeit kann das Modul absolviert  
+     werden?              Ein Semester 
+ 
+7. Zusammensetzung:            Abfolge beliebig 
+ 
+Nr.  Veranstaltungen  SWS  LP 
+1  Basisqualifikation   3  3 
+ 
+8. Für die Veranstaltung ist der Nachweis der Anwesenheit erforderlich.  
+ 
+Modulhandbuch gesamt Stand 28.02.2019 
+Seite 10 
+  
+ 
+ 
+ 
+ 
+ 
+Modulhandbuch LPO I neu 
+ 
+Lehramt Grund-, Mittel- und 
+Realschule (§57) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Veränderungen: 
+30.07.2009  Modul 8 Wintersport I und Wintersport II (0.5 und 0,33 LP beseitigt)  
+09.12.2009  Modul 6 Nr.13 in Modulteilprüfung Nr.9 streichen 
+11.12.2009  Modul 20 entfällt bei Erweiterung (vgl. Ziff. 11. Erweiterung) 
+09.02.2010  Modul 08 Nr. 9: Bei Erweiterung entfällt der optionale Punkt 
+09.04.2010  Neue Anwesenheitsregelung 
+19.05.2010  Modul M08: Redaktionelle Verdeutlichung der Modulteilprüfung in den Veranstaltungen Nr. 8 und Nr.9.  
+ 
+Modulhandbuch gesamt Stand 28.02.2019 
+Seite 11 
+ M  odulkonzept LPO I n eu § 57    Unive rsi tät Re gensb urg 
+Fachwissenschaftliche Leistungen  
+ 
+    LP  Art  SWS  Prüf.  Wert 
+M 04  Grundlagen der Sportwissenschaft                
+Spo rtwissenschaftliche  als Integrationswissenschaft  1  V  1  E  keine 
+Basiskompetenzen und sport-  Arbeitstechniken und Forschungsmethoden  1  V  1  E/KL  1-fach 
+  Einführung in die Sportpädagogik  1  V  1  E  keine 
+7 LP - 7 SWS  Seminar Sportpädagogik I   2  S  2  A/SA  1-fach 
+ 
+  Seminar Sportpädagogik II (nicht GS/MS)  2  S  2  A/SA  keine 
+Modulprüfung: SA + KL : 2             
+             
+M  05   Sport u. Gesundheit  1  V   1  E/KL  keine 
+Sportbiologische, sportmed.,  1. Hilfe  1  V  1  E/KL  keine 
+trainings-, bewegungswiss.   Anatomie  1  V  1  E  keine 
+Kompetenz  Physiologie (nicht GS und HS)  1  V  1  E  keine 
+ 
+11 LP - 11 SWS  Gesundheitsorientierte Fitness  1  S  1  A/KL  keine 
+  Ausdauer, Kräftigen, Dehnen  2  S  2  A/SA  keine 
+  Grundlagen der Trainingswissenschaft  1  V  1  E  Keine 
+    Grundlagen der Bewegungswissenschaft  1  V  1  E  keine 
+  Seminar wahlweise Trainings- oder 
+Bewegungswissenschaft  2  S  2  A/SA  keine 
+Modulprüfung: keine             
+ 
+              
+M 06  Leichtathletik    4  S  4  A/SA  keine 
+Unterrichtskompetenz   Schwimmen    4  S  4  A/SA  keine 
+ 
+Bewegung gestalten  Gerätturnen  2  S  2  A/SA  keine 
+14 LP - 14 SWS  Bewegungskünste  1  S  1  A/SA  keine 
+   Gymnastik I  1  S  1  A/SA  keine 
+    Tanz I   1  S  1  A/SA  keine 
+   Gymnastik/Tanz II  1  S  1  A/SA  keine 
+1 SA nach Wahl in Leichtathletik o. Schwimmen 
+Modulprüfung: SA   o. Gerätturnen o. Gymnastik/Tanz              1-fach 
+ 
+                    
+M 07  Kleine Spiele  1  S  1  A  keine 
+Unterrichtskompetenz   Schieds- und Kampfrichterkompetenz  1  S  1  A/SA  keine 
+Spi el gestalten  Basketball  2  S  2  A/SA  keine 
+11 LP - 11 SWS  Fußball  2  S  2  A/SA  keine 
+   Handball  2  S  2  A/SA  keine 
+   Volleyball   2  S  2  A/SA  keine 
+ 
+Rückschlagspiele - Badminton o. Tennis o. TT 
+  (nicht für GS/MS)  1  S  1  A/Praxis  keine 
+Modulprüfung: SA  1 SA nach Wahl  in BB o. FB o. HB o. VB          1-fach 
+                      
+M 08  Wintersport I   2  S  2  A/SA  keine 
+Unterrichtskompetenz Bewegung  Wintersport II   1  S  2  A/Praxis  1-fach 
+erleben und erweitern   Eislauf          1  S  1  A/Praxis  keine 
+ 
+Schneesport, Trend/Freizeit  Trend /Freizeit (GS und MS nur 3 LP)  3 +1 opt.  S  4  A/Praxis  1-fach 
+8 LP - 9 SWS             
+Modulprüfung: 2x Praxis  : 2                  
+   
+ 
+Modulhandbuch gesamt Stand 28.02.2019 
+Seite 12 
+  
+    LP  Art  SWS  Prüf.  Wert 
+M 09  Übung Basketball  1  Ü  1  A  keine 
+Demonstrations- und Leistungs-  Übung Fußball  1  Ü  1  A  keine 
+kompetenz  Übung Handball  1   Ü  1  A  keine 
+9 LP - 9 SWS   Übung Volleyball  1  Ü  1  A  keine 
+   Übung Gerätturnen/Bewegungskünste  1  Ü  1  A  keine 
+   Übung Gymnastik und Tanz  1  Ü  1  A  keine 
+   Übung Leichtathletik  1  Ü  1  A  keine 
+   Übung Schwimmen  1  Ü  1  A  keine 
+   Übung Schneesport  1  Ü  1  A  keine 
+Fachwissenschaftliche Leistungen                   
+Note  Uni: M4+M6+M7+M8 : 4                   
+  
+F achdidaktische Kompetenz 
+                   
+M 20     LP  Art  SWS  Prüf.  Wert 
+Fachdidaktische Kompetenz  Einführung in die Fachdidaktik  2   V  1  E/KL  1-fach 
+Sportunterricht begründen,   Differenzierung der Fachdidaktik                 
+planen, durchführen   Grundschule (Elementare Bew.erz) od.                
+und auswerten  Mittel-/Realschule (Kompensation)  2   S  2  A/SA  1-fach 
+10 LP + 2 optional LP - 9 SWS  Lehrübungen Individual      2  S  1  A/SA  keine 
+  Lehrübungen Mannschaft   2  S  1  A/SA  keine 
+   Allgemeine Spieltheorie  1 optional  V  1  E/KL  keine 
+  Seminar Fachdidaktik  2  S  2  A/SA  keine 
+  Begleitveranstaltung  1 optional  V/S  1  A/SA  keine 
+Fachdidaktische Leistungen                    
+Note Uni: KL                   
+Gesamt: 45 LP +15 opt. LP = 60             
+Fachdidaktik: 10 LP +2 opt. LP = 12             
+             
+Freier Bereich:                   
+Stud. Begl. Praktikum     4             
+Diverse Sportangebote     3             
+ 
+ 
+             
+ 
+ 
+ 
+ 
+ 
+Legende:             
+E   = Eintragung             
+A   = Anwesenheit             
+KL = Klausur             
+LV = Lehrversuch             
+MP = mündliche Prüfung             
+Praxis = praktische Prüfung             
+SA = Seminararbeit             
+Keine = keine Benotung             
+Modulhandbuch gesamt Stand 28.02.2019 
+Seite 13 
+ SPO-LA-M04  
+ 
+1. Name des Moduls:   Sportwissenschaftliche Basiskompetenzen und 
+sportpädagogische Kompetenz 
+ 
+2. Inhalte / Lehrziele:  Zunächst werden die Grundlagen der Sportwissenschaft 
+und der Sportpädagogik einschließlich der Methodologie 
+vermittelt. Ein sportpädagogisches Seminar fasst die 
+Kenntnisse zusammen. Des Weiteren behandelt das 
+Modul das für den Sportunterricht wichtige 
+Handlungsfeld Wagnis. 
+ 
+3. Voraussetzungen: 
+a) allgemeiner Art              keine 
+b) vorausgesetzte universitäre Veranstaltungen:   Für Veranstaltungen 4 und 5 sind Nr. 1 und Nr. 2 
+vorausgesetzt 
+4. Bedingungen: 
+- verwendbar in:   Unterrichtsfach Lehramtsstudium Grund-, Mittel- und 
+Realschule 
+  Erweiterungsfach  
+- nicht verwendbar in 
+/ nicht kombinierbar mit: 
+ 
+5. Wie häufig wird das Modul angeboten?        Einmal pro Studienjahr 
+ 
+6. In welcher Zeit kann das Modul absolviert  
+     werden?              Vier Semester 
+ 
+7. Zusammensetzung:  Die Veranstaltung 5 gilt nicht für Grund- und 
+Mittelschule 
+ 
+Nr.  Veranstaltungen  SWS  LP 
+1  Vorlesung Grundlagen der Sportwissenschaft als Integrationswissenschaft  1  1  
+2  Vorlesung Arbeitstechniken und Forschungsmethoden  1  1  
+3  Vorlesung: Einführung in die Sportpädagogik  1  1  
+4  Seminar Sportpädagogik I  2  2  
+5  Seminar Sportpädagogik II  2  2  
+  Summe  7  7  
+ 
+8. Die Wiederholbarkeit der Veranstaltungen ergibt sich aus der universitären Prüfungsordnung. 
+ 
+9. Grund- und Mittelschule: Für Veranstaltung 4 ist eine Seminararbeit anzufertigen. In den Veranstaltungen 2 und 4 werden 
+Modulteilprüfungen durchgeführt. Die Endnote des Moduls wird aus dem Durchschnitt der in den Modulteilprüfungen erreichten 
+Noten ermittelt. 
+Realschule: Für Veranstaltung 4 und 5 ist eine Seminararbeit anzufertigen. In den Veranstaltungen 2 und 4 werden 
+Modulteilprüfungen durchgeführt. Die Endnote des Moduls wird aus dem Durchschnitt der in den Modulteilprüfungen erreichten 
+Noten ermittelt. 
+ 
+10. Erweiterungsfach 
+Die Veranstaltungen 3 und 4 sind notwendig (inkl. Seminararbeit). Es entfallen die Veranstaltungen 1, 2 und 5. 
+Modulhandbuch gesamt Stand 28.02.2019 
+Seite 14 
+ SPO-LA-M05  
+ 
+1. Name des Moduls:   Sportbiologische, sportmedizinische, trainings- und 
+bewegungswissenschaftliche Kompetenz  
+ 
+2. Inhalte / Lehrziele:  In beiden Veranstaltungen werden die jeweiligen 
+Grundlagen der Gesundheits- und Fitnesserziehung auf 
+breiter sportmedizinischer Basis erarbeitet und spezielle 
+Fragen der Bewegungs- bzw. Trainingswissenschaften 
+diskutiert. 
+ 
+3. Voraussetzungen: 
+a) allgemeiner Art              keine 
+b) vorausgesetzte universitäre Veranstaltungen:   Für Veranstaltung 9 sind Nr. 1 und Nr. 2 aus Modul 04 
+vorausgesetzt 
+ 
+4. Bedingungen: 
+- verwendbar in:   Unterrichtsfach Lehramt Grund-, Mittel-, und 
+Realschule  
+  Erweiterungsfach 
+- nicht verwendbar in 
+/ nicht kombinierbar mit: 
+ 
+5. Wie häufig wird das Modul angeboten?        Einmal pro Studienjahr 
+ 
+6. In welcher Zeit kann das Modul absolviert  
+     werden?              Vier Semester 
+ 
+7. Zusammensetzung:  Veranstaltung 4 gilt nicht für Grund- und Mittelschule 
+ 
+Nr.  Veranstaltungen  SWS  LP 
+1  Vorlesung Sport und Gesundheit  1  1  
+2  Vorlesung Erste Hilfe  1  1  
+3  Vorlesung Anatomie  1  1  
+4  Vorlesung Physiologie  1  1  
+5  Seminar Gesundheitsorientierte Fitness  1  1  
+6  Seminar Ausdauer, Kräftigen, Dehnen  2  2  
+7  Vorlesung Grundlagen der Trainingswissenschaft I  1  1  
+8  Vorlesung Grundlagen der Bewegungswissenschaft I  1  1  
+9  Seminar wahlweise aus Bewegungs- oder Trainingswissenschaft  2  2  
+  Summe  11  11  
+ 
+8. Die Wiederholbarkeit der Veranstaltungen ergibt sich aus der universitären Prüfungsordnung. 
+ 
+9. Die erfolgreiche Teilnahme an den Vorlesungen 1, 2 und 5 wird durch eine Klausur nachgewiesen.  
+Die erfolgreiche Teilnahme an den Seminaren 6 und 9 wird durch eine Seminararbeit erreicht. Eine Modulnote wird nicht gebildet. 
+ 
+10. Erweiterungsfach 
+Die erfolgreiche Teilnahme an den Vorlesungen 1, 2 und 5 wird durch eine Klausur nachgewiesen.  
+Die erfolgreiche Teilnahme an den Seminaren 6 und 9 wird durch eine Seminararbeit erreicht. Eine Modulnote wird nicht gebildet. 
+Es entfällt Veranstaltung 4. 
+Modulhandbuch gesamt Stand 28.02.2019 
+Seite 15 
+ SPO-LA-M06  
+ 
+1. Name des Moduls:   Unterrichtskompetenz Bewegung gestalten 
+ 
+2. Inhalte / Lehrziele:  In den sportlichen Handlungsfeldern Leichtathletik, 
+Schwimmen, Gerätturnen/Bewegungskünste und 
+Gymnastik/Tanz werden didaktisch-methodische 
+Informationen für die Unterrichtspraxis gegeben. 
+  
+3. Voraussetzungen: 
+a) allgemeiner Art              keine 
+b) vorausgesetzte universitäre Veranstaltungen:   Für Veranstaltung 4 sind Nr. 8, für 8 und 9 Nr. 5, für 
+11 und 12 Veranstaltung Nr. 6 jeweils aus Modul 09 
+vorausgesetzt 
+ 
+4. Bedingungen: 
+- verwendbar in:   Unterrichtsfach Lehramt Grund-, Mittel- und 
+Realschule 
+  Erweiterungsfach  
+ 
+- nicht verwendbar in 
+/ nicht kombinierbar mit: 
+ 
+5. Wie häufig wird das Modul angeboten?        Einmal pro Studienjahr 
+ 
+6. In welcher Zeit kann das Modul absolviert  
+     werden?              Vier Semester 
+ 
+7. Zusammensetzung:  Abfolge 1 vor 2, 2 vor 3; 4 vor 5, 5 vor 6, 6 vor 7; 8 vor 
+10; 11 und 12 vor 13 
+ 
+Nr.  Veranstaltungen  SWS  LP 
+ 
+1  Seminar Leichtathletik I  1  1    
+2  Seminar Leichtathletik II  1  1    
+3  Seminar Leichtathletik III  2  2    
+4  Seminar Schwimmen I  1  1    
+5  Seminar Schwimmen II  1  1    
+6  Seminar Schwimmen III  1  1    
+7  Seminar Schwimmen IV  1  1    
+8  Seminar Gerätturnen I  1  1    
+ 
+9  Seminar Bewegungskünste   1  1  
+ 
+10  Seminar Gerätturnen II  1  1  
+ 
+11  Seminar Gymnastik I  1  1  
+ 
+12  Seminar Tanz I  1  1  
+ 
+13  Seminar Gymnastik/Tanz II  1  1 
+ 
+  Summe  14  14  
+ 
+ 
+8. Die Wiederholbarkeit der Veranstaltungen ergibt sich aus der universitären Prüfungsordnung. 
+ 
+9. Die Modulteilprüfung erfolgt nach Wahl durch eine Seminararbeit in den Veranstaltungen 3 oder 7 oder 10 oder 13. 
+ 
+10. Erweiterungsfach 
+Bei Erweiterung ist das gesamte Modul erforderlich. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Modulhandbuch gesamt Stand 28.02.2019 
+Seite 16 
+ SPO-LA-M07  
+ 
+1. Name des Moduls:   Unterrichtskompetenz Spiel gestalten 
+ 
+2. Inhalte / Lehrziele:  Um die Unterrichtskompetenz im Spiel abzusichern, 
+werden didaktisch-methodische Informationen zur 
+Entwicklung einer allgemeinen Spielfähigkeit sowie  
+zu den kleinen Spielen und den Sportspielen Basketball, 
+Fußball, Handball, Volleyball gegeben.  
+ 
+3. Voraussetzungen: 
+a) allgemeiner Art              keine 
+b) vorausgesetzte universitäre Veranstaltungen:   Für Veranstaltung 3 ist Nr. 1, für 5 Nr. 2, für 6 Nr. 3, 
+für 8 Nr. 4 jeweils aus Modul 09 vorausgesetzt 
+ 
+4. Bedingungen: 
+- verwendbar in:   Unterrichtsfach Lehramt Grund-, Mittel- und 
+Realschule 
+  Erweiterungsfach  
+ 
+- nicht verwendbar in 
+/ nicht kombinierbar mit: 
+ 
+5. Wie häufig wird das Modul angeboten?        Einmal pro Studienjahr 
+ 
+6. In welcher Zeit kann das Modul absolviert  
+     werden?              Vier Semester 
+ 
+7. Zusammensetzung:  Abfolge 3 vor 4, 6 vor 7, 8 vor 9 
+    Veranstaltung 10 gilt nicht für Grund- und 
+Mittelschule 
+ 
+Nr.  Veranstaltungen  SWS  LP 
+ 
+1  Seminar Schieds- und Kampfrichterkompetenz  1  1  
+ 
+2  Seminar Kleine Spiele  1  1  
+ 
+3  Seminar Basketball I  1  1  
+ 
+4  Seminar Basketball II  1  1  
+ 
+5  Seminar Fußball   2  2    
+6  Seminar Handball I  1  1    
+7  Seminar Handball II  1  1    
+8  Seminar Volleyball I  1  1    
+9  Seminar Volleyball II  1  1    
+10  Seminar Rückschlagspiele (Badminton o. Tennis o. Tischtennis)  1  1    
+  Summe  11  11    
+ 
+ 
+8. Die Wiederholbarkeit der Veranstaltungen ergibt sich aus der universitären Prüfungsordnung. 
+ 
+9. In den Veranstaltungen 1, 3 bis 9 sind für die erfolgreiche Teilnahme Seminararbeiten nachzuweisen. 
+In der Veranstaltung 10 findet eine praktische Prüfung statt. In den Veranstaltungen 4, 5, 7 und 9 findet eine Modulteilprüfung 
+(eine Seminararbeit) nach Wahl in einem im Kerncurriculum nicht gewählten Spiel statt.  
+ 
+10. Erweiterungsfach 
+In den Veranstaltungen 1, 3 bis 9 sind für die erfolgreiche Teilnahme Seminararbeiten nachzuweisen. 
+In der Veranstaltung 10 findet eine praktische Prüfung statt. In den Veranstaltungen 4, 5, 7 und 9 findet eine Modulteilprüfung 
+(eine Seminararbeit) nach Wahl in einem im Kerncurriculum nicht gewählten Spiel statt.  
+Bei Erweiterung entfällt Veranstaltung 10. 
+Modulhandbuch gesamt Stand 28.02.2019 
+Seite 17 
+ SPO-LA-M08  
+ 
+1. Name des Moduls:   Unterrichtskompetenz Bewegung erleben und 
+erweitern - Wintersport, Trend + Freizeit 
+ 
+2. Inhalte / Lehrziele:  Die Grundlagen für die Vermittlung wintersportlicher 
+Aktivitäten an der Schule werden auf breiter Gerätebasis 
+geschaffen sowie trendorientierte Entwicklungen 
+einbezogen. 
+ 
+3. Voraussetzungen: 
+a) allgemeiner Art              keine 
+b) vorausgesetzte universitäre Veranstaltungen:       keine 
+ 
+4. Bedingungen: 
+- verwendbar in:   Unterrichtsfach Lehramt Grund-, Mittel- und 
+Realschule 
+  Erweiterungsfach  
+ 
+- nicht verwendbar in 
+/ nicht kombinierbar mit: 
+ 
+5. Wie häufig wird das Modul angeboten?        Einmal pro Studienjahr 
+ 
+6. In welcher Zeit kann das Modul absolviert  
+     werden?              Sechs Semester 
+ 
+7. Zusammensetzung:                                                                                                    Abfolge 1, 2, 3 vor 4, 5 und 6 
+ 
+ 
+Nr.  Veranstaltungen  SWS  LP 
+ 
+1  Seminar Wintersport I  Ski alpin     
+ 
+2  Seminar Wintersport I  Snowboard       
+ 
+3  Seminar Wintersport I  Skilanglauf  2  2  
+ 
+4   Seminar Wintersport II Ski alpin und     
+ 
+5 o. 6  Seminar Wintersport II Snowboard oder Wintersport II Skilanglauf  2  1 
+ 
+7  Seminar Eislauf   1  1    
+8  Seminar Freizeit/Trend (GS und MS nur 3 SWS/2 LP + 1 opt.)  4  3 +1 opt.    
+  Summe  9  8    
+ 
+8. Die Wiederholbarkeit der Veranstaltungen ergibt sich aus der universitären Prüfungsordnung. 
+ 
+9. In den Veranstaltungen 1, 7 und 8 ist für die erfolgreiche Teilnahme eine praktische Prüfung (bestanden/nicht bestanden) 
+erforderlich. In der Veranstaltung 4 muss eine Staatsexamensprüfung abgelegt werden. In den Veranstaltungen 5 oder 6 muss eine 
+Modulteilprüfung nachgewiesen werden. 
+In der Veranstaltung 8 werden 1- und 2-stündige Veranstaltungen angeboten. Es können zwei 1-stündige und eine 2-stündige 
+Veranstaltung oder zwei 2-stündige Veranstaltungen belegt werden. In einer 2-stündigen Veranstaltung muss eine 
+Modulteilprüfung abgelegt werden. Für Grund- und Hauptschule gilt: Es muss eine 1-stündige und eine 2-stündige Veranstaltung 
+abgelegt werden. In der 2-stündigen Veranstaltung muss eine Modulteilprüfung abgelegt werden. 
+ 
+10. Erweiterungsfach 
+Bei Erweiterung entfallen die Veranstaltungen 4, 5 und 6. In der Veranstaltung 4 muss eine Staatsexamensprüfung abgelegt 
+werden. Bei Veranstaltung 8 entfällt der optionale Punkt. 
+Modulhandbuch gesamt Stand 28.02.2019 
+Seite 18 
+ SPO-LA-M09  
+ 
+1. Name des Moduls:   Demonstrations- und Leistungskompetenz 
+ 
+2. Inhalte / Lehrziele:  In den genannten Sportarten werden die 
+sportartspezifische Demonstrationsfähigkeit sowie  
+das Leistungsvermögen als Vorbereitung für die 
+Prüfungen im Staatsexamen verbessert. 
+ 
+3. Voraussetzungen: 
+a) allgemeiner Art              keine 
+b) vorausgesetzte universitäre Veranstaltungen:       keine 
+ 
+4. Bedingungen: 
+- verwendbar in:   Unterrichtsfach Lehramt Grund-, Mittel- und 
+Realschule 
+Erweiterungsfach  
+- nicht verwendbar in / nicht kombinierbar mit: 
+ 
+5. Wie häufig wird das Modul angeboten?        Einmal pro Studienjahr 
+ 
+6. In welcher Zeit kann das Modul absolviert werden?      Zwei Semester 
+ 
+7. Zusammensetzung:            Abfolge beliebig 
+ 
+Nr.  Veranstaltungen  SWS  LP 
+1  Übung Basketball   1  1  
+2  Übung Fußball  1  1  
+3  Übung Handball  1  1  
+4  Übung Volleyball  1  1  
+5  Übung Gerätturnen/Bewegungskünste  1  1  
+6  Übung Gymnastik/Tanz  1  1  
+7  Übung Leichtathletik  1  1  
+8  Übung Schwimmen  1  1  
+9  Übung Schneesport  1  1  
+  Summe  9  9  
+ 
+8. Die Wiederholbarkeit der Veranstaltungen ergibt sich aus der universitären Prüfungsordnung. 
+ 
+9. Erweiterungsfach 
+Bei Erweiterung entfällt das gesamte Modul. 
+Modulhandbuch gesamt Stand 28.02.2019 
+Seite 19 
+ SPO-LA-M20  
+ 
+1. Name des Moduls:   Fachdidaktische Kompetenz 
+ 
+2. Inhalte / Lehrziele:  Im Einzelnen wird vermittelt, wie man Sportunterricht 
+begründet, plant, durchführt und auswertet. 
+Lehrübungen in Individual- und Mannschaftssportarten 
+sowie eine Einführung in die Spieltheorie und die 
+Gestaltung von Schulsportveranstaltungen komplettieren 
+die didaktischen Aussagen.  
+ 
+3. Voraussetzungen: 
+a) allgemeiner Art              keine 
+b) vorausgesetzte universitäre Veranstaltungen:       keine 
+ 
+4. Bedingungen: 
+- verwendbar in:   Unterrichtsfach Fachdidaktik Lehramt Grund-, Mittel- 
+und Realschule 
+- nicht verwendbar in 
+/ nicht kombinierbar mit:            Erweiterungsfach 
+ 
+5. Wie häufig wird das Modul angeboten?        Einmal pro Studienjahr 
+ 
+6. In welcher Zeit kann das Modul absolviert  
+     werden?              Fünf Semester 
+ 
+7. Zusammensetzung:            Abfolge beliebig 
+ 
+Nr.  Veranstaltungen  SWS  LP 
+1  Vorlesung Einführung in die Fachdidaktik   1  2  
+2  Seminar Differenzierung der Fachdidaktik     
+Grundschule: Elementare Bewegungserziehung     
+Mittel- und Realschule: Kompensation  2  2  
+3  Seminar Lehrübung Individualsportart  1  2  
+4  Seminar Lehrübung Mannschaftsportart  1  2  
+5  Vorlesung Allgemeine Spieltheorie  1  1  
+6  Seminar Fachdidaktik   2  2 
+7  Seminar Begleitveranstaltung zum stud. begl. Praktikum  1  1 
+Gilt auch für  Studierende, die das Praktikum nicht im Sport besuchen. 
+  Summe  9  12  
+ 
+8. Die Wiederholbarkeit der Veranstaltungen ergibt sich aus der universitären Prüfungsordnung. 
+ 
+9. In der Veranstaltung 1 findet eine Modulteilprüfung statt. Die erfolgreiche Teilnahme an den Veranstaltungen 2, 3, 4, 6 und 7 
+wird durch eine Seminararbeit bescheinigt. Die erfolgreiche Teilnahme an den Veranstaltungen 5 wird durch eine Klausur bestätigt.  
+ 
+10. Erweiterungsfach 
+Bei Erweiterung entfällt das gesamte Modul. 
+ 
+Modulhandbuch gesamt Stand 28.02.2019 
+Seite 20 
+  
+ 
+ 
+ 
+ 
+Modulhandbuch LPO I neu 
+ 
+Lehramt Gymnasium  
+(§ 83) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Veränderungen: 
+30.07.2009           Modul 18 Wintersport I und Wintersport II (0.5 und 0,33 LP beseitigt)  
+11.12.2009  Modul 14 und Modul 21 entfällt bei Erweiterung (vgl. Ziff. 11. Erweiterung) 
+09.02.2010  Modul 10 Nr. 5: Bei Erweiterung entfällt der optionale Punkt. 
+  Modul 18 Nr. 9: Bei Erweiterung entfällt der optionale Punkt. 
+  Übersicht § 83 M10: Statt S geändert V und statt SA nur A. 
+  Übersicht § 83 M21: 1. Spalte Gesamtzahl SWS 7 statt 6. 
+09.04.2010  Neue Anwesenheitsregelung 
+15.04.2010  Modul 15 Nr. 10 und Nr. 11 Rückschlagspiele präzisiert 
+19.05.2010  Modul M18: Redaktionelle Verdeutlichung der Modulteilprüfung in den Veranstaltungen Nr. 8 und Nr.9.  
+21.01.2011  Modul 13: Redaktionelle Änderung in Veranstaltung Nr. 5 
+ 
+Modulhandbuch gesamt Stand 28.02.2019 
+Seite 21 
+ Modulkonzept LPO I neu § 83
+ 
+Universität Regensburg
+Fachwissenschaftliche Leistungen  
+ 
+   
+    LP  Art  SWS  Prüfung  Wert 
+M 10  Grundlagen der Sportwissenschaft als           
+Sportwissenschaftliche/sport-  Integrationswissenschaft  1  V  1  E  keine 
+pädagogische Basiskompetenz  Arbeitstechniken und Forschungsmethoden  1  V  1  E  keine 
+8 LP - 6 SWS  2  S  1  A/KL  1-fach 
+  Einführung in die Sportpädagogik Teil I  1  V  1  E  keine 
+Einführung in die Sportpädagogik Teil II  1   V  1  E/KL  keine 
+  Einführung in die Sportpsychologie  1 + 1 opt.  V  1  E  keine 
+Modulprüfung: KL             
+             
+M 11  Seminar Sportpädagogik I  4  S  2  A/SA  1-fach 
+Sportpädagogische Kompetenz  Seminar Sportpädagogik II Projekt  5  S  2  A/SA  keine 
+9 LP – 4 SWS             
+Modulprüfung: SA             
+             
+M 12  Sport und Gesundheit  1  V  1  E/KL  keine 
+Sportbiologische, sportmedizi-  1. Hilfe  1  V  1  E/KL  keine 
+nische Kompetenz  Anatomie  1  V  1  E  keine 
+10 LP - 10 SWS  Physiologie  1  V  1  E  keine 
+  Physiotherapie   1  V  1  E  keine 
+  Krafttraining  1  V  1  E  keine 
+  Sportbiologie  1  V  1  E  keine 
+  Gesundheitsorientierte Fitness  1  S  1  A/KL  keine. 
+  Ausdauer, Kräftigen, Dehnen  2  S  2  A/SA  keine 
+Modulprüfung: keine (Kerncurr.)             
+             
+M 13  Grundlagen der Trainingswissenschaft I   1  V  1  E  keine 
+Trainingswissenschaftliche/  Grundlagen der Trainingswissenschaft  II  1  V  1  E  keine 
+Bewegungswissenschaftliche  Grundlagen der Bewegungswissenschaft I  1  V  1  E  keine 
+Kompetenz  Grundlagen der Bewegungswissenschaft II  1  V  1  E  keine 
+8 LP – 6 SWS  Seminar Trainings- o. Bewegungswissenschaft  4  S  2  A/SA  1-fach 
+Modulprüfung: SA  1 Modulteilprüfung          1 Note 
+             
+M14  Vorlesung: Biopsychologie  1  V  1  E  keine 
+Bewegungswissenschaftliche   Vorlesung: Entwicklungspsychologie  1  V  1  E  keine 
+Profil-Kompetenz (optional):  Vorlesung: Motorisches Lernen und   1  V  1  E  keine 
+Biopsychische und neuronale  neuronale Grundlagen 
+Grundlagen  Seminar: Motorik und Kognition  3  S  2  A/SA  1-fach  
+9 LP – 7 SWS  Seminar: Bewegungstherapie   3  S  2  A/SA  1-fach 
+Modulprüfung: SA  1 Modulteilprüfung wahlweise          1 Note 
+             
+M 15  Kleine Spiele  1  S  1  A  keine 
+Unterrichtskompetenz  Schieds- und Kampfrichterkompetenz  1  S  1  A/SA  keine 
+Spiel  Basketball  2  S  2  A/SA  keine 
+12 LP – 12 SWS  Fußball    2  S  2  A/SA  keine 
+  Handball       2  S  2  A/SA  keine 
+  Volleyball  2  S  2  A/SA  keine 
+  Badminton  1 opt.  S  1  A/SA/Pr.  keine 
+  Tennis oder Tischtennis (Wahl)  1 opt.  S  1  A/SA/Pr.  keine 
+Modulprüfung: SA  1 SA nach Wahl in BB, FB, HB oder VB          1-fach 
+             
+M 16  Gerätturnen/ Bewegungskünste  4 (3/1)  S  4  A/SA  keine 
+Unterrichtskompetenz  Gymnastik/Tanz  4  S  4  A/SA  keine 
+Bewegung gestalten             
+8 LP – 8 SWS             
+Modulprüfung: SA o. keine  Aus M 16 oder M 17 eine Prüfung nach Wahl           
+Modulhandbuch gesamt Stand 28.02.2019 
+Seite 22 
+     LP  Art  SWS  Prüfung  Wert 
+M 17  Leichtathletik  4  S  4  A/SA  keine 
+Unterrichtskompetenz     Schwimmen      4  S  4  A/SA  1-fach 
+Bewegung erleben und             
+erweitern             
+8 LP – 8 SWS             
+Modulprüf.: SA o. keine  Aus M 17 oder M 16 eine Prüfung nach Wahl           
+             
+M 18  Wintersport I  3  S  2  A/SA  keine 
+Unterrichtskompetenz Bewegung   Wintersport II  2   S  2  A/Praxis  1-fach 
+erleben und erweitern   Eislauf  1  S  1  A/Praxis  keine 
+Schneesport, Trend + Freizeit   Trend/Freizeit  4  + 1 opt.  S  4  A/Praxis  1-fach 
+11 LP – 9 SWS             
+Modulprüf.: 2 x Praxis : 2             
+             
+M 19  Übung Basketball  1  Ü  1  A  keine 
+Demonstrations- und   Übung Fußball  1  Ü  1  A  keine 
+Leistungskompetenz  Übung Handball  1  Ü  1  A  keine 
+9 LP – 9 SWS  Übung Volleyball  1  Ü  1  A  keine 
+  Übung Gerätturnen/Bewegungskünste  1  Ü  1  A  keine 
+  Übung Gymnastik/Tanz  1  Ü  1  A  keine 
+  Übung Leichtathletik  1  Ü  1  A  keine 
+  Übung Schwimmen  1  Ü  1  A  keine 
+  Übung Schneesport  1  Ü  1  A  keine 
+92 LP = 70 + 22 optional  Note Sport Uni: 7 Modulnoten : Teiler 7           
+             
+             
+Fachdidaktische Kompetenz 
+             
+M 21  Einführung in die Fachdidaktik  2  V  1  E/KL  1-fach 
+Fachdidaktik  Lehrübung Individual     2  S  1  A/SA  keine 
+Sportunterricht begründen,   Lehrübung Mannschaft   2  S  1  A/SA  keine 
+planen, durchführen und  Allgemeine Spieltheorie   1 optional  V  1  E/KL  keine 
+auswerten  Seminar Fachdidaktik.  2  S  2  A/KL  keine 
+10 LP = 8 + 2 optional – 7 SWS  Begleitveranstaltung/kein Praktikum  1 optional  S  1  A/SA  keine 
+Modulprüf.: KL             
+Insgesamt 102 LP             
+             
+Freier Bereich             
+Stud. Begl. Praktikum    4         
+Diverse Sportangebote    3         
+             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Legende:             
+E   = Eintragung             
+A   = Anwesenheit             
+KL = Klausur             
+LV = Lehrversuch             
+MP = mündliche Prüfung             
+Praxis = praktische Prüfung             
+SA = Seminararbeit             
+Keine = keine Benotung             
+Modulhandbuch gesamt Stand 28.02.2019 
+Seite 23 
+ SPO-LA-M10  
+ 
+1. Name des Moduls:   Sportwissenschaftliche/sportpädagogische Basiskompetenz 
+ 
+2. Inhalte / Lehrziele:  Übersichtswissen in der Sportwissenschaft 
+insbesondere in den Teildisziplinen Sportpädagogik 
+und -psychologie 
+ 
+3. Voraussetzungen: 
+a) allgemeiner Art              keine 
+b) vorausgesetzte universitäre Veranstaltungen:       keine 
+ 
+4. Bedingungen: 
+- verwendbar in:   Unterrichtsfach Lehramt Gymnasium 
+Erweiterungsfach  
+    
+- nicht verwendbar in / nicht kombinierbar mit: 
+ 
+5. Wie häufig wird das Modul angeboten?        Einmal pro Studienjahr 
+ 
+6. In welcher Zeit kann das Modul absolviert  
+     werden?              Zwei Semester 
+ 
+7. Zusammensetzung:            Abfolge beliebig 
+ 
+Nr.  Veranstaltungen  SWS  LP 
+1  Vorlesung Grundlagen der Sportwissenschaft als Integrationswissenschaft   1  1  
+2.1  Vorlesung Arbeitstechniken und Forschungsmethoden  1  1  
+2.2  Seminar Arbeitstechniken und Forschungsmethoden  1  2  
+3  Vorlesung Einführung in die Sportpädagogik Teil I  1  1  
+4  Vorlesung Einführung in die Sportpädagogik Teil II  1  1  
+5  Vorlesung Einführung in die Sportpsychologie  1  1 + 1 opt. 
+  Summe  6  8  
+ 
+8. Die Wiederholbarkeit der Veranstaltungen ergibt sich aus der universitären Prüfungsordnung. 
+ 
+9. In der Veranstaltung 2.2 wird eine Modulteilprüfung durchgeführt. Für die erfolgreiche Teilnahme an der Veranstaltung 4 ist eine 
+Klausur erforderlich. 
+ 
+10. Erweiterungsfach 
+Bei Erweiterung entfallen die Veranstaltungen 1, 2.1, 2.2 und 4.  
+Modulhandbuch gesamt Stand 28.02.2019 
+Seite 24 
+ SPO-LA-M11  
+ 
+1. Name des Moduls:   Sportpädagogische Kompetenz 
+ 
+2. Inhalte / Lehrziele:  Durch Vertiefung der sportpädagogischen Kenntnisse in 
+Seminaren soll die Befähigung zur Lösung von Problemen 
+im Sportunterricht erworben werden.  
+ 
+3. Voraussetzungen: 
+a) allgemeiner Art              keine 
+b) vorausgesetzte universitäre Veranstaltungen:   Für Veranstaltungen 1 und 2 sind Nr. 1, 2.1 und 2.2 
+aus Modul 10 vorausgesetzt 
+ 
+4. Bedingungen: 
+- verwendbar in:   Unterrichtsfach Lehramt Gymnasium 
+Erweiterungsfach 
+ 
+- nicht verwendbar in / nicht kombinierbar mit: 
+ 
+5. Wie häufig wird das Modul angeboten?        Einmal pro Studienjahr 
+ 
+6. In welcher Zeit kann das Modul absolviert  
+     werden?              Zwei Semester 
+ 
+7. Zusammensetzung: 
+   
+Nr.  Veranstaltungen  SWS  LP 
+1  Seminar Sportpädagogik I  2  4  
+2  Seminar Sportpädagogik II - Projekt  2  5 
+  Summe  4  9 
+ 
+8. Die Wiederholbarkeit der Veranstaltungen ergibt sich aus der universitären Prüfungsordnung. 
+ 
+9. Für Veranstaltungen 1 und 2 ist eine Seminararbeit vorzulegen. In der Veranstaltung 1 findet eine Modulteilprüfung statt.  
+ 
+10. Erweiterungsfach 
+Bei Erweiterung entfällt die Veranstaltung 2. 
+Modulhandbuch gesamt Stand 28.02.2019 
+Seite 25 
+ SPO-LA-M12  
+ 
+1. Name des Moduls:   Sportbiologische, sportmedizinische Kompetenz 
+ 
+2. Inhalte / Lehrziele:  Unter dem Aspekt der Gesundheitsorientierung werden 
+die Grundlagen in Theorie und Praxis erarbeitet sowie 
+einzelne Modelle der Umsetzung im Sportunterricht.  
+Eine Ergänzung bilden die Veranstaltungen 
+„Physiotherapie“ und der „Sportförderunterricht“. 
+ 
+3. Voraussetzungen: 
+a) allgemeiner Art              keine 
+b) vorausgesetzte universitäre Veranstaltungen:   keine 
+ 
+4. Bedingungen: 
+- verwendbar in:   Unterrichtsfach Lehramt Gymnasium 
+Erweiterungsfach  
+- nicht verwendbar in 
+/ nicht kombinierbar mit: 
+ 
+5. Wie häufig wird das Modul angeboten?        Einmal pro Studienjahr 
+ 
+6. In welcher Zeit kann das Modul absolviert  
+     werden?              Zwei Semester 
+ 
+7. Zusammensetzung:            Abfolge beliebig 
+ 
+Nr.  Veranstaltungen  SWS  LP 
+1  Vorlesung Sport und Gesundheit  1  1  
+2  Vorlesung 1. Hilfe  1  1  
+3  Vorlesung Anatomie  1  1  
+4  Vorlesung Physiologie  1  1  
+5  Vorlesung Physiotherapie   1  1  
+6  Vorlesung Sportbiologie  1  1  
+7  Vorlesung Krafttraining  1  1  
+8  Seminar Gesundheitsorientierte Fitness  1  1  
+9  Seminar Ausdauer, Kräftigen, Dehnen  2  2  
+  Summe  10  10 
+ 
+8. Die Wiederholbarkeit der Veranstaltungen ergibt sich aus der universitären Prüfungsordnung. 
+ 
+9. Für Veranstaltung 1, 2 und 8 ist eine Klausur zu bestehen. Für die erfolgreiche Teilnahme an Veranstaltung 9 ist eine 
+Seminararbeit erforderlich. Das Modul wird nach dem Kriterium „bestanden“ bewertet. Eine Modulnote wird nicht errechnet.  
+ 
+10. Erweiterungsfach 
+ Bei Erweiterung entfällt die Veranstaltung 6. 
+Modulhandbuch gesamt Stand 28.02.2019 
+Seite 26 
+ SPO-LA-M13  
+ 
+  1. Name des Moduls:   Trainingswissenschaftliche/bewegungs- 
+wissenschaftliche Kompetenz  
+ 
+2. Inhalte / Lehrziele:  In beiden Veranstaltungen werden die jeweiligen 
+Grundlagen erarbeitet und spezielle Fragen der 
+Bewegungs- bzw. Trainingswissenschaften diskutiert. 
+ 
+3. Voraussetzungen: 
+a) allgemeiner Art              keine 
+b) vorausgesetzte universitäre Veranstaltungen:   Für Veranstaltung 5 sind Nr. 1, 2.1 und 2.2 aus Modul 
+10 vorausgesetzt 
+ 
+4. Bedingungen: 
+- verwendbar in:   Unterrichtsfach Lehramt Gymnasium, 
+Erweiterungsfach 
+ 
+- nicht verwendbar in / nicht kombinierbar mit: 
+ 
+5. Wie häufig wird das Modul angeboten?        Einmal pro Studienjahr 
+ 
+6. In welcher Zeit kann das Modul absolviert werden?      Zwei Semester 
+ 
+7. Zusammensetzung:            Abfolge beliebig 
+ 
+Nr.  Veranstaltungen  SWS  LP 
+1  Vorlesung Trainingswissenschaft I  1  1  
+2  Vorlesung Trainingswissenschaft II  1  1  
+3  Vorlesung Bewegungswissenschaft I  1  1  
+4  Vorlesung Bewegungswissenschaft II   1  1  
+5  Seminar wahlweise Trainings- oder Bewegungswissenschaft   2  4  
+  Summe  6  8  
+ 
+8. Die Wiederholbarkeit der Veranstaltungen ergibt sich aus der universitären Prüfungsordnung. 
+ 
+9. In der Veranstaltung 5 (wahlweise Trainings- oder Bewegungswissenschaft) ist eine Seminararbeit vorzulegen und eine 
+Modulteilprüfung wird durchgeführt. 
+ 
+10. Erweiterungsfach 
+Bei Erweiterung ist das gesamte Modul erforderlich. 
+Modulhandbuch gesamt Stand 28.02.2019 
+Seite 27 
+ SPO-LA-M14  
+ 
+1. Name des Moduls:   Bewegungswissenschaftliche Profil-Kompetenz: 
+Psychologische und neuronale Grundlagen 
+ 
+2. Inhalte / Lehrziele:  In den Veranstaltungen dieses Moduls wird die 
+Betrachtungsweise der Bewegungswissenschaften  
+in Theorie und Praxis durch psychologische Aspekte 
+erweitert.  
+ 
+3. Voraussetzungen: 
+a) allgemeiner Art              keine 
+b) vorausgesetzte universitäre Veranstaltungen:   Für Veranstaltung 4 und 5 ist eine Veranstaltung aus 1 
+bis 3 vorausgesetzt 
+ 
+4. Bedingungen: 
+- verwendbar in:   Unterrichtsfach Lehramt Gymnasium,  
+Bachelor-Studiengang 
+- nicht verwendbar in 
+/ nicht kombinierbar mit:  Erweiterungsfach Lehramt Gymnasium  
+ 
+5. Wie häufig wird das Modul angeboten?        Einmal pro Studienjahr 
+ 
+6. In welcher Zeit kann das Modul absolviert werden?      Zwei Semester 
+ 
+7. Zusammensetzung:            Abfolge beliebig 
+ 
+Nr.  Veranstaltungen  SWS  LP 
+1  Vorlesung: Biopsychologie  1  1 
+2  Vorlesung: Entwicklungspsychologie  1  1 
+3  Vorlesung: Motorisches Lernen und neuronale Grundlagen  1  1 
+4  Seminar: Motorik und Kognition  2  3 
+5  Seminar: Bewegungstherapie  2  3 
+  Summe  7  9  
+ 
+8. Die Wiederholbarkeit der Veranstaltungen ergibt sich aus der universitären Prüfungsordnung. 
+ 
+9. In den Veranstaltungen von 4 und 5 sind Seminararbeiten vorzulegen. In den Veranstaltungen 4 oder 5 ist eine Modulteilprüfung 
+nach Wahl erforderlich. 
+ 
+10. Erweiterungsfach 
+Bei Erweiterung entfällt das gesamte Modul. 
+Modulhandbuch gesamt Stand 28.02.2019 
+Seite 28 
+ SPO-LA-M15  
+ 
+1. Name des Moduls:   Unterrichtskompetenz Spiel 
+ 
+2. Inhalte / Lehrziele:  Um die Unterrichtskompetenz im Spiel abzusichern, 
+werden didaktisch-methodische Informationen zur 
+Entwicklung einer allgemeinen Spielfähigkeit sowie  
+zu den kleinen Spielen und den Sportspielen Basketball, 
+Fußball, Handball, Volleyball gegeben.  
+ 
+3. Voraussetzungen: 
+a) allgemeiner Art              keine 
+b) vorausgesetzte universitäre Veranstaltungen:   Für Veranstaltung 3 ist Nr. 1 aus Modul 19, für 5 Nr. 2 
+aus Modul 19, für 6 Nr. 3 aus Modul 19, für 8 Nr. 4 
+aus Modul 19 vorausgesetzt 
+   
+4. Bedingungen: 
+- verwendbar in:   Unterrichtsfach Lehramt Gymnasium 
+  Erweiterungsfach 
+ 
+- nicht verwendbar in 
+/ nicht kombinierbar mit: 
+ 
+5. Wie häufig wird das Modul angeboten?        Einmal pro 2 Studienjahre 
+ 
+6. In welcher Zeit kann das Modul absolviert werden?      Vier Semester 
+ 
+7. Zusammensetzung:  Abfolge 3 vor 4, 6 vor 7, 8 vor 9 
+ 
+Nr.  Veranstaltungen  SWS  LP 
+1  Seminar Kleine Spiele  1  1  
+2  Seminar Schieds- und Kampfrichterkompetenz  1  1  
+3  Seminar Basketball I  1  1  
+4  Seminar Basketball II  1  1  
+5  Seminar Fußball   2  2  
+6  Seminar Handball I  1  1  
+7  Seminar Handball II  1  1  
+8  Seminar Volleyball I  1  1  
+9  Seminar Volleyball II  1  1  
+10  Seminar Badminton  1  1   
+11  Seminar Tennis oder Tischtennis nach Wahl   1  1  
+  Summe  12  12  
+ 
+8. Die Wiederholbarkeit der Veranstaltungen ergibt sich aus der universitären Prüfungsordnung. 
+ 
+9. In den Veranstaltungen von 2 bis 11 sind Seminararbeiten vorzulegen. In den Veranstaltungen 4, 5, 7 und 9 ist als 
+Modulteilprüfungen eine Seminararbeit nach Wahl in den im Staatsexamen nicht gewählten Spielen nachzuweisen. In den 
+Veranstaltungen 10 und 11 ist eine Praxisprüfung abzulegen. 
+ 
+10. Erweiterungsfach 
+Bei Erweiterung entfallen die Veranstaltungen 10 und 11. 
+Modulhandbuch gesamt Stand 28.02.2019 
+Seite 29 
+ SPO-LA-M16  
+ 
+1. Name des Moduls:   Unterrichtskompetenz Bewegung gestalten 
+ 
+2. Inhalte / Lehrziele:  Das gestalterische Element im Sportunterricht wird  
+in den Bereichen Gerätturnen, Bewegungskünste, 
+Gymnastik/Tanz in Theorie und Praxis aufbereitet.  
+ 
+3. Voraussetzungen: 
+a) allgemeiner Art              keine 
+b) vorausgesetzte universitäre Veranstaltungen:   Für Veranstaltung 1 ist Nr. 5 aus Modul 19,  
+für 5 Nr. 6 aus Modul 19 vorausgesetzt 
+ 
+4. Bedingungen: 
+- verwendbar in:   Unterrichtsfach Lehramt Gymnasium 
+Erweiterungsfach 
+ 
+- nicht verwendbar in 
+/ nicht kombinierbar mit: 
+ 
+5. Wie häufig wird das Modul angeboten?        Einmal pro Studienjahr 
+ 
+6. In welcher Zeit kann das Modul absolviert  
+     werden?              Vier Semester 
+ 
+7. Zusammensetzung:  Abfolge 1 vor 3,3 vor 4, 5 und 6 vor 7, 7 vor 8 
+ 
+Nr.  Veranstaltungen  SWS  LP 
+1  Seminar Gerätturnen I   1  1 
+2  Seminar Bewegungskünste   1  1 
+3  Seminar Gerätturnen II  1  1 
+4  Seminar Gerätturnen III  1  1 
+5  Seminar Gymnastik I  1  1 
+6  Seminar Tanz I   1  1 
+7  Seminar Gymnastik/Tanz II  1  1 
+8  Seminar Gymnastik/Tanz III  1  1 
+  Summe  8  8 
+ 
+8. Die Wiederholbarkeit der Veranstaltungen ergibt sich aus der universitären Prüfungsordnung. 
+ 
+9. In den Veranstaltungen 1 bis 8 sind Seminararbeiten vorzulegen. Aus den Veranstaltungen 4 oder 8 aus Modul 16 oder den 
+Veranstaltungen 3 oder 7 aus Modul 17 kann die Modulteilprüfung (eine Seminararbeit) gewählt werden. 
+ 
+10. Erweiterungsfach 
+Bei Erweiterung ist das gesamte Modul erforderlich. 
+Modulhandbuch gesamt Stand 28.02.2019 
+Seite 30 
+ SPO-LA-M17  
+ 
+1. Name des Moduls:   Unterrichtskompetenz Bewegung erleben und 
+erweitern 
+ 
+2. Inhalte / Lehrziele:  Leichtathletik und Schwimmen sind für die sportliche 
+Entwicklung der Schüler von großer Bedeutung.  
+Die didaktisch-methodischen Kenntnisse werden in 
+Theorie und Praxis vermittelt.  
+ 
+3. Voraussetzungen: 
+a) allgemeiner Art              keine 
+b) vorausgesetzte universitäre Veranstaltungen:   Für Veranstaltung 4 ist Nr. 8 aus Modul 19 
+vorausgesetzt 
+ 
+4. Bedingungen: 
+- verwendbar in:   Unterrichtsfach Lehramt Gymnasium 
+Erweiterungsfach 
+ 
+- nicht verwendbar in 
+/ nicht kombinierbar mit: 
+ 
+5. Wie häufig wird das Modul angeboten?        Einmal pro 2 Studienjahre 
+ 
+6. In welcher Zeit kann das Modul absolviert werden?      Vier Semester 
+ 
+7. Zusammensetzung:  Abfolge 1 vor 2, 2 vor 3, 4 vor 5, 5 vor 6, 6 vor 7 
+ 
+Nr.  Veranstaltungen  SWS  LP 
+1  Seminar Leichtathletik I  1  1  
+2  Seminar Leichtathletik II  1  1  
+3  Seminar Leichtathletik III  2  2  
+4  Seminar Schwimmen I  1  1  
+5  Seminar Schwimmen II  1  1  
+6  Seminar Schwimmen III  1  1  
+7  Seminar Schwimmen IV  1  1  
+  Summe  8  8  
+ 
+8. Die Wiederholbarkeit der Veranstaltungen ergibt sich aus der universitären Prüfungsordnung. 
+ 
+9.  Aus den Veranstaltungen 3 oder 7 aus Modul 17 oder den Veranstaltungen 4 oder 8 aus Modul 16 kann die Modulteilprüfung 
+(eine  Seminararbeit) gewählt werden. 
+ 
+10. Erweiterung 
+Bei Erweiterung ist das gesamte Modul erforderlich. 
+Modulhandbuch gesamt Stand 28.02.2019 
+Seite 31 
+ SPO-LA-M18  
+ 
+1. Name des Moduls:   Unterrichtskompetenz Wintersport, Trend + Freizeit 
+ 
+2. Inhalte / Lehrziele:  Methodisch-didaktische Informationen werden neben 
+den für den Sportunterricht wichtigen Sportarten Skilauf, 
+Snowboard und Eislauf in zwei weiteren Sportarten 
+vermittelt. 
+ 
+3. Voraussetzungen: 
+a) allgemeiner Art              keine 
+b) vorausgesetzte universitäre Veranstaltungen:       keine 
+ 
+4. Bedingungen: 
+- verwendbar in:   Unterrichtsfach Lehramt Gymnasium 
+Erweiterungsfach  
+- nicht verwendbar in 
+/ nicht kombinierbar mit: 
+ 
+5. Wie häufig wird das Modul angeboten?        Einmal pro Studienjahr 
+ 
+6. In welcher Zeit kann das Modul absolviert  
+     werden?              Vier Semester 
+ 
+7. Zusammensetzung:  Abfolge 1, 2, 3 vor 4, 5 und 6 
+ 
+Nr.  Veranstaltungen  SWS  LP 
+1  Seminar Wintersport I Ski alpin     
+2  Seminar Wintersport I Snowboard     
+3  Seminar Wintersport I Skilanglauf  2  3 
+4   Seminar Wintersport II Ski alpin      
+5 o. 6  Seminar Wintersport II Snowboard oder Wintersport II Skilanglauf  2  2 
+7  Seminar Eislauf  1  1  
+8  Seminar Trend/Freizeit   4  4 + 1 opt. 
+  Summe  9  11  
+ 
+8. Die Wiederholbarkeit der Veranstaltungen ergibt sich aus der universitären Prüfungsordnung. 
+ 
+9.  In den Veranstaltungen 1, 7 und 8 ist für die erfolgreiche Teilnahme eine praktische Prüfung (bestanden/nicht bestanden) 
+erforderlich. In der Veranstaltung 4 muss eine Staatsexamensprüfung abgelegt werden. In den Veranstaltungen 5 oder 6 muss eine 
+Modulteilprüfung nachgewiesen werden. 
+In der Veranstaltung 8 werden 1- und 2-stündige Veranstaltungen angeboten. Es können zwei 1-stündige und eine 2-stündige 
+Veranstaltung oder zwei 2-stündige Veranstaltungen belegt werden. In einer 2-stündigen Veranstaltung muss eine 
+Modulteilprüfung abgelegt werden. 
+ 
+10. Erweiterungsfach 
+Bei Erweiterung entfallen die Veranstaltungen 4, 5 und 6. In der Veranstaltung 4 muss eine Staatsexamensprüfung abgelegt 
+werden. Bei Veranstaltung 8 entfällt der optionale Punkt. 
+Modulhandbuch gesamt Stand 28.02.2019 
+Seite 32 
+ SPO-LA-M19  
+ 
+1. Name des Moduls:   Demonstrations- und Leistungskompetenz 
+ 
+2. Inhalte / Lehrziele:  In den genannten Sportarten werden die 
+sportartspezifische Demonstrationsfähigkeit sowie das 
+Leistungsvermögen als Vorbereitung für die Prüfungen im 
+Staatsexamen verbessert. 
+3. Voraussetzungen: 
+a) allgemeiner Art              keine 
+b) vorausgesetzte universitäre Veranstaltungen:       keine 
+ 
+4. Bedingungen: 
+- verwendbar in:   Unterrichtsfach Lehramt Gymnasium, 
+Erweiterungsfach 
+ 
+- nicht verwendbar in 
+/ nicht kombinierbar mit: 
+  
+5. Wie häufig wird das Modul angeboten?        Einmal pro Studienjahr 
+ 
+6. In welcher Zeit kann das Modul absolviert  
+     werden?              Zwei Semester 
+ 
+7. Zusammensetzung:            Abfolge beliebig 
+ 
+Nr.  Veranstaltungen  SWS  LP   
+1  Übung Basketball   1  1    
+2  Übung Fußball  1  1    
+3  Übung Handball  1  1    
+ 
+4  Übung Volleyball  1  1  
+ 
+5  Übung Gerätturnen/Bewegungskünste  1  1 
+ 
+6  Übung Gymnastik/Tanz  1  1 
+ 
+7  Übung Leichtathletik  1  1 
+ 
+8  Übung Schwimmen  1  1 
+ 
+9  Übung Schneesport  1  1 
+ 
+  Summe  9  9   
+ 
+ 
+8. Die Wiederholbarkeit der Veranstaltungen ergibt sich aus der universitären Prüfungsordnung. 
+ 
+9. Erweiterungsfach 
+Bei Erweiterung ist das gesamte Modul erforderlich. 
+Modulhandbuch gesamt Stand 28.02.2019 
+Seite 33 
+ SPO-LA-M21  
+ 
+1. Name des Moduls:   Fachdidaktische Kompetenz 
+ 
+2. Inhalte / Lehrziele:  Im Einzelnen wird vermittelt, wie man Sportunterricht 
+begründet, plant, durchführt und auswertet. 
+Lehrübungen in Individual- und Mannschaftssportarten 
+sowie eine Einführung in die Spieltheorie und die 
+Gestaltung von Schulsportveranstaltungen komplettieren 
+die didaktischen Aussagen. 
+ 
+3. Voraussetzungen: 
+a) allgemeiner Art              keine 
+b) vorausgesetzte universitäre Veranstaltungen:       keine 
+ 
+4. Bedingungen: 
+- verwendbar in:   Unterrichtsfach Fachdidaktik Lehramt Gymnasium 
+- nicht verwendbar in 
+/ nicht kombinierbar mit:            Erweiterungsfach 
+ 
+5. Wie häufig wird das Modul angeboten?        Einmal pro Studienjahr 
+ 
+6. In welcher Zeit kann das Modul absolviert  
+     werden?              Zwei Semester 
+ 
+7. Zusammensetzung:            Abfolge beliebig 
+ 
+Nr.  Veranstaltungen  SWS  LP 
+1  Vorlesung Einführung in die Fachdidaktik   1  2  
+2  Seminar Lehrübung Individualsportart  1  2  
+3  Seminar Lehrübung Mannschaftsportart  1  2  
+4  Vorlesung Allgemeine Spieltheorie  1  1  
+5  Seminar Fachdidaktik   2  2 
+6  Seminar Begleitveranstaltung zum stud. begl. Praktikum     
+Gilt auch für  Studierende, die das Praktikum nicht im Sport besuchen.  1   1 
+  Summe  7  10 
+ 
+8. Die Wiederholbarkeit der Veranstaltungen ergibt sich aus der universitären Prüfungsordnung. 
+ 
+9. In der Veranstaltung 1 findet eine Modulteilprüfung statt. Die erfolgreiche Teilnahme an den Veranstaltungen 2, 3 und 6 wird 
+durch eine Seminararbeit bescheinigt. Bei den Veranstaltungen 4 und 5 wird die erfolgreiche Teilnahme durch eine Klausur 
+bescheinigt. 
+ 
+10. Erweiterungsfach 
+Bei Erweiterung entfällt das gesamte Modul. 
+ 
+Modulhandbuch gesamt Stand 28.02.2019 
+Seite 34 
+ 

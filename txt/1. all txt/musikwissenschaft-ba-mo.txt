@@ -1,0 +1,712 @@
+input_dictionary =  
+ 
+ 
+ 
+ 
+ 
+ 
+Fakultät für Philosophie, Kunst-, Geschichts- und Gesellschafts-
+wissenschaften 
+Universität Regensburg 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bachelor of Arts 
+ 
+Musikwissenschaft 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Modulhandbuch 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Institut für Musikwissenschaft 
+ 
+ 
+ 
+ 
+ 
+ 
+Gültig ab Sommersemester 2020 
+– Fassung vom 05.03.2020 – 
+  
+Inhaltsverzeichnis 
+ 
+ 
+ 
+ 
+1  Basismodule im 1. und 2. Hauptfach 
+  MUWI–M 01  Basismodul Musikgeschichte  6 
+  MUWI–M 02a  Basismodul Grundbegriffe und Arbeitstechniken I  8 
+  MUWI–M 02b  Basismodul Grundbegriffe und Arbeitstechniken II  10 
+  MUWI–M 03  Basismodul Werk- und Partiturkunde  12 
+  MUWI–M 04  Basismodul Musiktheorie  13 
+2  Aufbaumodule (nur 1. Hauptfach) 
+  MUWI–M 11  Aufbaumodul Musikgeschichte  15 
+  MUWI–M 12  Aufbaumodul Musiktheorie/Berufspraxis  17 
+3  Basismodule im Nebenfach 
+  MUWI–M 05  Basismodul Musikgeschichte (Nebenfach)  19 
+  MUWI–M 06  Basismodul Grundbegriffe und Arbeitstechniken (Nebenfach)  21 
+  MUWI–M 07  Basismodul Werk- und Partiturkunde (Nebenfach)  23 
+  MUWI–M 08  Basismodul Musiktheorie (Nebenfach)  24 1 Basismodule im 1. und 2. Hauptfach 
+ 
+ 
+MUWI-M 01 
+1. Name des Moduls:  Basismodul Musikgeschichte (Hauptfach) 
+2. Fachgebiet / Verantwortlich:  Musikwissenschaft/ 
+Prof. Dr. Katelijne Schiltz, N. N., Dr. Michael Braun 
+3. Inhalte des Moduls:  Überblick über wichtige Stationen und Gattungsent-
+wicklungen der europäischen Musikgeschichte vom Mit-
+telalter bis zum 20. Jahrhundert; zentrale Komponisten 
+und ihre Werke 
+4. Qualifikationsziele des Moduls /   Absolventen und Absolventinnen des Moduls kennen 
+    zu erwerbende Kompetenzen:  die Charakteristika verschiedener Epochen, deren be-
+stimmende Persönlichkeiten, Institutionen und ästheti-
+sche Positionen und sind in der Lage, diese sowie 
+grundlegende Entwicklungsstränge der europäischen 
+Musikgeschichte strukturiert darzustellen. Nach indivi-
+dueller Schwerpunktsetzung können sie zu bestimmten 
+Komponisten, Gattungen oder Werken kompositorische 
+oder entstehungs- oder gattungsgeschichtliche Einzel-
+heiten wiedergeben. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  keine 
+b) verpflichtende Nachweise:  keine 
+6. Verwendbarkeit des Moduls:  Bachelorstudiengang Musikwissenschaft 
+7. Angebotsturnus des Moduls:  mindestens eine Veranstaltung pro Semester 
+8. Das Modul kann absolviert werden in:  2 Semestern 
+9. Empfohlenes Fachsemester:  1–4 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+      (Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: 480 
+ 
+davon: 
+1. Präsenzzeit: 120 Std. (8 SWS) 
+2. Selbststudium (inkl. Prüfung): 360 Std. 
+ 
+Leistungspunkte: 16 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt 
+sind: 
+12. Modulbestandteile: 
+Nr.  P /  Lehrform  Themenbereich / Thema  SWS  Studienleistungen  LP 
+WP  / Std. 
+1  WP  Vorlesung  Allgemeine Musikgeschichte I  2  Klausur oder mündliche Prüfung  4 
+(Mittelalter) 
+2  WP  Vorlesung  Allgemeine Musikgeschichte II  2  Klausur oder mündliche Prüfung  4 
+(Renaissance) 
+3  WP  Vorlesung  Allgemeine Musikgeschichte III  2  Klausur oder mündliche Prüfung  4 
+(Barock/Klassik) 
+5 4  WP  Vorlesung  Allgemeine Musikgeschichte IV  2  Klausur oder mündliche Prüfung  4 
+(Klassik/Romantik) 
+5  WP  Vorlesung  Allgemeine Musikgeschichte V  2  Klausur oder mündliche Prüfung  4 
+(20. Jahrhundert) 
+13. Modulprüfung: 
+Nr.  Kompetenz / Thema  Art der Prüfung  Dauer  Zeitpunkt / Be- Anteil an 
+merkungen  Modulnote 
+1  Fähigkeit, Charakteristika und mündliche   30 Minuten  in der Vorle- 100 % 
+Entwicklungen bestimmter  Prüfung  sungszeit 
+Epochen der europäischen 
+Musikgeschichte anhand 
+dreier besuchter Vorlesungen 
+erkennen und strukturiert dar-
+stellen zu können  
+14. Bemerkungen:  
+Es sind vier der fünf angebotenen Vorlesungen zu absolvieren. 
+Die Vorlesungen können in beliebiger Abfolge besucht werden. Eine oder zwei der oben angeführten Vor-
+lesungen kann/können durch eine Vorlesung/zwei Vorlesungen aus dem Kursangebot des Faches Musikwis-
+senschaft an der Universität Regensburg, aber außerhalb des Musikgeschichtszyklus ersetzt werden (siehe 
+Kommentiertes Vorlesungsverzeichnis).  
+Der jeweilige Dozent/die jeweilige Dozentin legt zu Beginn der Lehrveranstaltung die Form der zu erbringen-
+den Studienleistung (Klausur oder mündliche Prüfung) fest.  
+Die Modulprüfung kann erst nach Absolvierung von vier Modulbestandteilen und dem Ablegen der vier 
+zugehörigen Studienleistungen erfolgen. MUWI-M 02a 
+1. Name des Moduls:  Basismodul Grundbegriffe und Arbeitstechniken I 
+(Hauptfach) 
+2. Fachgebiet / Verantwortlich:  Musikwissenschaft/ 
+Prof. Dr. Katelijne Schiltz, N. N., Dr. Michael Braun 
+3. Inhalte des Moduls:  Grundkenntnisse im musikwissenschaftlichen Arbeiten, 
+in musikwissenschaftlicher Begriffsbildung und musika-
+lischer Analyse  
+4. Qualifikationsziele des Moduls /   Nach Abschluss des Moduls sind Studierende in der 
+    zu erwerbende Kompetenzen:  Lage, analytisch mit Notentexten umzugehen und sich 
+mit spezifischen musikwissenschaftlichen Fragestellun-
+gen auseinanderzusetzen. Sie verstehen es, musikwis-
+senschaftliche Basisliteratur heranzuziehen und auszu-
+werten und adäquate Recherchewerkzeuge anzuwen-
+den, um dadurch gewonnene Erkenntnisse unter Ver-
+wendung einschlägiger Terminologie schriftlich auf 
+eine Weise zu formulieren, die wissenschaftlichem 
+Standard angemessen ist. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  keine 
+b) verpflichtende Nachweise:  keine 
+6. Verwendbarkeit des Moduls:  Bachelorstudiengang Musikwissenschaft 
+7. Angebotsturnus des Moduls:  mindestens eine Veranstaltung pro Semester 
+8. Das Modul kann absolviert werden in:  1 Semester 
+9. Empfohlenes Fachsemester:  1–4 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+      (Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: 360 
+ 
+davon: 
+1. Präsenzzeit: 60 Std. (4 SWS) 
+2. Selbststudium (inkl. Prüfung): 300 Std. 
+ 
+Leistungspunkte: 12 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen er-
+füllt sind: 
+12. Modulbestandteile: 
+Nr.  P /  Lehrform  Themenbereich / Thema  SWS / Studienleistungen  LP 
+WP  Std. 
+1  P  Proseminar  Einführung in das musikwissen- 2  regelmäßige Teilnahme, Refe- 6 
+schaftliche Arbeiten  rat zur Vorbereitung der Haus-
+arbeit 
+2  P  Proseminar  Einführung in Terminologie und  2  regelmäßige Teilnahme, Refe- 6 
+Techniken der Analyse  rat zur Vorbereitung der Haus-
+arbeit 
+   
+7  
+13. Modulprüfung: 
+Nr. Kompetenz / Thema  Art der Prü- Dauer / Um- Zeitpunkt / Be- Anteil an 
+fung  fang  merkungen  Modulnote 
+1  Fähigkeit im Umgang mit mu- Hausarbeit im  mind. 8 Wochen  Abgabetermin: je- 50 % 
+sikwissenschaftlicher Basislite- Anschluss an  weils letzter Tag 
+ratur, Kenntnis verschiedener  das Referat   10-15 Textseiten  im Semester 
+Methoden des Bibliographie-  
+rens und Methoden zur Be-
+wältigung einer konkreten 
+musikwissenschaftlichen Fra-
+gestellung 
+2  Erwerb von Grundkenntnissen  Hausarbeit im  mind. 8 Wochen  Abgabetermin: je- 50 % 
+in der musikalischen Analyse  Anschluss an  weils letzter Tag 
+und in der Anwendung ver- das Referat   10-15 Textseiten  im Semester 
+schiedener Analysemethoden   
+14. Bemerkungen: 
+Es wird empfohlen, das Proseminar Nr. 1 im ersten oder zweiten Semester zu absolvieren. MUWI-M 02b 
+1. Name des Moduls:  Basismodul Grundbegriffe und Arbeitstechniken II 
+(Hauptfach) 
+2. Fachgebiet / Verantwortlich:  Musikwissenschaft/ 
+Prof. Dr. Katelijne Schiltz, N. N., Dr. Michael Braun 
+3. Inhalte des Moduls:  Grundkenntnisse in Notations- und Quellenkunde 
+4. Qualifikationsziele des Moduls /   Absolventen und Absolventinnen des Moduls sind in 
+    zu erwerbende Kompetenzen:  der Lage, ältere Notationsformen des 9.–16. Jahrhun-
+derts zu lesen und in moderne Notation zu übertragen. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  keine 
+b) verpflichtende Nachweise:  keine 
+6. Verwendbarkeit des Moduls:  Bachelorstudiengang Musikwissenschaft 
+7. Angebotsturnus des Moduls:  eine Veranstaltung pro Semester 
+8. Das Modul kann absolviert werden in:  1 Semester 
+9. Empfohlenes Fachsemester:  1–4 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+      (Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: 360 
+ 
+davon: 
+1. Präsenzzeit: 60 Std. (4 SWS) 
+2. Selbststudium (inkl. Prüfung): 300 Std. 
+ 
+Leistungspunkte: 12 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen er-
+füllt sind: 
+12. Modulbestandteile: 
+Nr.  P /  Lehrform  Themenbereich / Thema  SWS / Studienleistungen  LP 
+WP  Std. 
+1  P  Proseminar  Notations- und Quellenkunde I  2  Hausaufgaben  6 
+(9.–14. Jh.) 
+2  P  Proseminar  Notations- und Quellenkunde II  2  Hausaufgaben  6 
+(15.–16. Jh.) 
+13. Modulprüfung: 
+Nr.  Kompetenz / Thema  Art der Prü- Dauer  Zeitpunkt / Bemer- Anteil an 
+fung  kungen  Modulnote 
+1  Beschäftigung mit älteren For- Klausur  90 Minuten  am Ende der   50 % 
+men der musikalischen Nota- Vorlesungszeit 
+tion und Quellen des 9.–14. 
+Jahrhunderts; Erarbeitung ei-
+gener Übertragungen nach 
+den Quellen 
+2  Beschäftigung mit älteren  Klausur  90 Minuten  am Ende der Vorle- 50 % 
+Formen der musikalischen  sungszeit 
+Notation und Quellen des 
+9 15./16. Jahrhunderts; Erarbei-
+tung eigener Übertragungen 
+nach den Quellen 
+14. Bemerkungen: 
+Die Proseminare können in beliebiger Abfolge besucht werden. Eines der beiden Proseminare kann durch 
+ein thematisch und/oder methodisch anders ausgerichtetes Proseminar aus dem Kursangebot des Faches 
+Musikwissenschaft an der Universität Regensburg ersetzt werden (vgl. Vorlesungsverzeichnis). 
+Für die Zulassung zu den Modulprüfungen ist die Erfüllung von 50% der Studienleistungen im jeweiligen 
+Kurs nötig. MUWI-M 03 
+1. Name des Moduls:  Basismodul Werk- und Partiturkunde (Hauptfach) 
+2. Fachgebiet / Verantwortlich:  Musikwissenschaft/ 
+Prof. Dr. Katelijne Schiltz, N. N., Dr. Michael Braun 
+3. Inhalte des Moduls:  Repertoirekenntnisse; Grundlagen der Partiturkunde, 
+des Notensatzes, der Instrumentenkunde; Gehörbil-
+dung 
+4. Qualifikationsziele des Moduls /   Das Modul erlaubt den Studierenden durch die Aus-
+    zu erwerbende Kompetenzen:  wahl dreier einzubringender Kurse aus einem vielfälti-
+gen Angebot eine individuelle Schwerpunktsetzung im 
+Bereich der Werk- und Partiturkunde. Nach Abschluss 
+des Moduls verfügen Studierende über erweiterte und 
+themenspezifisch vertiefte Repertoirekenntnisse bzw. 
+grundlegende Kenntnisse zur Instrumentenkunde bzw. 
+sind in der Lage, Partituren zu lesen, bzw. einfache mu-
+sikalische Strukturen analytisch zu hören und zu notie-
+ren. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  keine 
+b) verpflichtende Nachweise:  keine 
+6. Verwendbarkeit des Moduls:  Bachelorstudiengang Musikwissenschaft 
+7. Angebotsturnus des Moduls:  mindestens zwei Veranstaltungen pro Semester 
+8. Das Modul kann absolviert werden in:  2 Semestern 
+9. Empfohlenes Fachsemester:  1–4 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+      (Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: 270 
+ 
+davon: 
+1. Präsenzzeit: 90 Std. (6 SWS) 
+2. Selbststudium (inkl. Prüfung): 180 Std. 
+ 
+Leistungspunkte: 9 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen er-
+füllt sind: 
+12. Modulbestandteile: 
+Nr.  P /  Lehr-  Themenbereich / Thema  SWS /  Studienleistungen  LP 
+WP  form  Std. 
+1  WP  Übung  Repertoirekunde  2  Referat(e)  3 
+2  WP  Übung  Instrumentenkunde  2  Klausur  3 
+3  WP  Übung  Partiturkunde und Notensatz  2  Hausaufgaben  3 
+4  WP  Übung  Gehörbildung  2  Klausur  3 
+13. Modulprüfung: keine   
+14. Bemerkungen:  
+Es sind drei der vier angebotenen Übungen zu absolvieren. 
+Eine der oben angeführten Übungen kann durch eine Übung nach Wahl aus dem Kursangebot des Faches 
+11 Musikwissenschaft an der Universität Regensburg ersetzt werden (vgl. Vorlesungsverzeichnis).  
+Das Modul wird nicht benotet. MUWI-M 04 
+1. Name des Moduls:  Basismodul Musiktheorie (Hauptfach) 
+2. Fachgebiet / Verantwortlich:  Musikwissenschaft/ 
+Prof. Dr. Katelijne Schiltz, N. N., Dr. Michael Braun 
+3. Inhalte des Moduls:  Überblick zur Harmonie- und Kontrapunktlehre ein-
+schließlich der historischen Satzlehre, Regeln des zwei- 
+und dreistimmigen Kontrapunkts in Anlehnung an die 
+historische Satztechnik vor 1600, Analyse von Chorsät-
+zen der Renaissance 
+4. Qualifikationsziele des Moduls /   Absolventen und Absolventinnen des Moduls sind in 
+    zu erwerbende Kompetenzen:  der Lage, harmonische Zusammenhänge in Musik vom 
+Hochbarock bis zur durmolltonalen Musik des späten 
+19. und frühen 20. Jahrhunderts analytisch zu erfassen 
+und nach den Prinzipien der Funktionstheorie zu be-
+nennen. Sie können vierstimmige, durmolltonale (Vo-
+kal-)Sätze nach den Regeln des strengen Satzes anferti-
+gen, Sätze zwei- und dreistimmigen Kontrapunkts nach 
+den Prinzipien des „Palestrinastils“ entwerfen. Poly-
+phone Vokalsätze der Renaissance können sie nach 
+grundlegenden Kriterien und mit adäquater Terminolo-
+gie beschreiben und analysieren. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  keine 
+b) verpflichtende Nachweise:  keine 
+6. Verwendbarkeit des Moduls:  Bachelorstudiengang Musikwissenschaft 
+7. Angebotsturnus des Moduls:  zwei Veranstaltungen pro Semester 
+8. Das Modul kann absolviert werden in:  2 Semestern 
+9. Empfohlenes Fachsemester:  1–4 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+      (Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: 360 
+ 
+davon: 
+1. Präsenzzeit: 120 Std. (8 SWS) 
+2. Selbststudium (inkl. Prüfung): 240 Std. 
+ 
+Leistungspunkte: 12 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen er-
+füllt sind: 
+12. Modulbestandteile: 
+Nr.  P /  Lehrform  Themenbereich / Thema  SWS /  Studienleistungen  LP 
+WP  Std. 
+1  P  Übung  Harmonielehre I  2  Hausaufgaben und Klausur  3 
+2  P  Übung  Kontrapunkt I  2  Hausaufgaben und Klausur  3 
+3  P  Übung  Harmonielehre II  2  Hausaufgaben  3 
+4  P  Übung  Kontrapunkt II  2  Hausaufgaben  3 
+13. Modulprüfung: 
+13 Nr.  Kompetenz / Thema  Art der  Dauer  Zeitpunkt / Be- Anteil an 
+Prüfung  merkungen  Modulnote 
+1  Erweiterung der Kenntnisse der  Klausur  90 Minuten  am Ende der  50 % 
+Harmonielehre: vierstimmiger  Vorlesungszeit 
+Satz und Funktionsanalyse 
+2  Erweiterung kontrapunktischer  Klausur  90 Minuten  am Ende der  50 % 
+Regelkenntnis zur Dreistimmig- Vorlesungszeit 
+keit, grundlegende Satzanalyse 
+14. Bemerkungen: 
+Übung Harmonielehre II kann erst nach erfolgreichem Abschluss der Übung Harmonielehre I und  
+Übung Kontrapunkt II erst nach erfolgreichem Abschluss der Übung Kontrapunkt I absolviert werden.  
+Die unter Nr. 12. 1 und Nr. 12. 2 abzulegenden Klausuren zu Harmonielehre I und Kontrapunkt I sind 
+jeweils unbenotet und stehen unabhängig von den Modulprüfungen. Sie dienen der Leistungsstandabfrage 
+nach Abschluss der Übungen Harmonielehre I und Kontrapunkt I und sollen den Studierenden Aufschluss 
+über ihren persönlichen Lernfortschritt geben. 
+Die Modulprüfungen finden jeweils am Ende der Übungen Harmonielehre II und Kontrapunkt II statt.  
+Die Abgabe von 50% der Hausaufgaben in Harmonielehre I und II ist Voraussetzung für die Zulassung zur 
+Prüfung unter Nr. 1; analog gilt dies für Kontrapunkt I und II und Prüfung Nr. 2.  2 Aufbaumodule (nur 1. Hauptfach) 
+MUWI-M 11 
+ 
+1. Name des Moduls:  Aufbaumodul Musikgeschichte (Hauptfach) 
+2. Fachgebiet / Verantwortlich:  Musikwissenschaft/ 
+Prof. Dr. Katelijne Schiltz, N. N., Dr. Michael Braun 
+3. Inhalte des Moduls:  Vertiefter Überblick über die europäische Musikge-
+schichte 
+4. Qualifikationsziele des Moduls /   Nach Abschluss des Moduls verfügen Studierende über 
+    zu erwerbende Kompetenzen:  vertieftes und spezialisiertes Wissen zur Musikge-
+schichte, auf dessen Basis sie in der Lage sind, musik-
+historische Fragestellungen zu entwickeln, sie metho-
+disch zu reflektieren und in schriftlicher Form wissen-
+schaftlich angemessen zu bearbeiten. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  Es wird empfohlen, die Module MUWI-M 02a und 
+MUWI-M 04 vor dem Besuch des Hauptseminars zu ab-
+solvieren. 
+b) verpflichtende Nachweise:  keine 
+6. Verwendbarkeit des Moduls:  Bachelorstudiengang Musikwissenschaft 
+7. Angebotsturnus des Moduls:  mindestens eine Veranstaltung pro Semester 
+8. Das Modul kann absolviert werden in:  2 Semestern 
+9. Empfohlenes Fachsemester:  4–6 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+      (Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: 360 
+ 
+davon: 
+1. Präsenzzeit: 60 Stunden (4 SWS) 
+2. Selbststudium (inkl. Prüfung): 300 Std. 
+ 
+Leistungspunkte: 12 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen er-
+füllt sind: 
+12. Modulbestandteile: 
+Nr.  P /  Lehrform  Themenbereich / Thema  SWS /  Studienleistungen  LP 
+WP  Std. 
+1  P  Vorlesung  Vorlesung (außerhalb des  2  Klausur, mündliche Prüfung oder  4 
+Zyklus „Allgemeine  Hausaufgabe 
+Musikgeschichte“) 
+2  P  Hauptseminar  Historisch orientiertes  2  regelmäßige Teilnahme, Referat  8 
+Hauptseminar  zur Vorbereitung der Hausarbeit 
+ 
+ 
+15 13. Modulprüfung: 
+Nr.  Kompetenz / Thema  Art der Prüfung  Dauer / Um- Zeitpunkt / Bemer- Anteil an 
+fang  kungen  Modulnote 
+1  Fähigkeit, musikhistorische  Hausarbeit im An- mind. 8 Wo- Abgabetermin:   100 % 
+Fragestellungen entwi- schluss an das Re- chen  jeweils letzter Tag  
+ckeln, methodisch reflek- ferat     im Semester 
+tieren und in einer Hausar- 15-20 Text-  
+beit wissenschaftlich ange- seiten 
+messen bearbeiten zu kön-
+nen 
+14. Bemerkungen: MUWI-M 12 
+1. Name des Moduls:  Aufbaumodul Musiktheorie / Berufspraxis 
+2. Fachgebiet / Verantwortlich:  Musikwissenschaft/ 
+Prof. Dr. Katelijne Schiltz, N. N., Dr. Michael Braun 
+3. Inhalte des Moduls:  Vertiefung musiktheoretischer Fähigkeiten und Einbli-
+cke in mögliche Berufsfelder 
+4. Qualifikationsziele des Moduls /   Absolventen und Absolventinnen des Moduls verfügen 
+    zu erwerbende Kompetenzen:  über praktische Kompetenzen in möglichen Berufsfel-
+dern und sind in der Lage, das erworbene musiktheore-
+tische und analytische Wissen zur schriftlichen Erörte-
+rung und Diskussion musikwissenschaftlicher Fragestel-
+lungen einzusetzen. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  Es wird empfohlen, die Module MUWI-M 02a und 
+MUWI-M 04 vor dem Besuch des Hauptseminars zu ab-
+solvieren. 
+b) verpflichtende Nachweise:  keine 
+6. Verwendbarkeit des Moduls:  Bachelorstudiengang Musikwissenschaft 
+7. Angebotsturnus des Moduls:  mindestens eine Veranstaltung pro Semester 
+8. Das Modul kann absolviert werden in:  2 Semestern 
+9. Empfohlenes Fachsemester:  4–6 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+      (Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: 540 
+ 
+davon: 
+1. Präsenzzeit: 90 Std. (6 SWS) 
+2. Fachpraktikum: ca. 120 Std. 
+2. Selbststudium (inkl. Prüfung): 330 Std. 
+ 
+Leistungspunkte: 18 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen er-
+füllt sind: 
+12. Modulbestandteile: 
+Nr.  P /  Lehrform  Themenbereich /  SWS /  Studienleistungen  LP 
+WP  Thema  Std. 
+1  P  Hauptseminar  theoretisch/analytisch ori- 2  regelmäßige Teilnahme, Referat  8 
+entiertes Hauptseminar  zur Vorbereitung der Hausarbeit 
+2  P  Übung  praktisch orientierte  2  Hausaufgaben oder Referat  3 
+Übung (I) 
+3  P  Übung  praktisch orientierte  2  Hausaufgaben oder Referat  3 
+Übung (II) 
+4  P  Praktikum  vierwöchiges Fachprakti-   schriftlicher Bericht am Ende des  4 
+kum (Wochenarbeitszeit  Praktikums (5–7 Textseiten) 
+ca. 30 Std.) 
+13. Modulprüfung: 
+17 Nr.  Kompetenz / Thema  Art der Prü- Dauer / Um- Zeitpunkt / Be- Anteil an 
+fung  fang  merkungen  Modulnote 
+1  Fähigkeit, das erworbene  Hausarbeit   mind. 8 Wo- Abgabetermin:   100 % 
+musiktheoretische und ana- chen  jeweils letzter Tag 
+lytische Wissen zur Diskus-   im Semester 
+sion einer bestimmten mu- 15-20 Text-  
+sikwissenschaftlichen Fra- seiten 
+gestellung einsetzen zu 
+können 
+14. Bemerkungen: 
+In Absprache mit den Modulverantwortlichen kann die Veranstaltung Nr. 4 durch Projektmitarbeit, Hos-
+pitationen, Volunteering (auch außeruniversitär) gleichen Umfangs ersetzt werden.  
+Sinnvolle Ausrichtungen des Praktikums sind etwa die Mitarbeit in Musikverlagen, im Rundfunk oder bei 
+der Organisation von Musikfestivals. Um die Verwendbarkeit eines Praktikums (Nr. 4) für das Modul si-
+cherzustellen, ist unbedingt vor Beginn des Praktikums Kontakt mit den Modulverantwortlichen aufzu-
+nehmen. Ein Nachweis über das Praktikum ist vorzulegen. 3 Basismodule im Nebenfach 
+ 
+ 
+MUWI-M 05 
+1. Name des Moduls:  Basismodul Musikgeschichte (Nebenfach) 
+2. Fachgebiet / Verantwortlich:  Musikwissenschaft/ 
+Prof. Dr. Katelijne Schiltz, N. N., Dr. Michael Braun 
+3. Inhalte des Moduls:  Überblick über wichtige Stationen und Gattungsent-
+wicklungen in ausgewählten Abschnitten der europäi-
+schen Musikgeschichte vom Mittelalter bis zum 
+20. Jahrhundert; zentrale Komponisten und ihre Werke 
+4. Qualifikationsziele des Moduls /   Studierende können nach Abschluss des Moduls zu ein-
+    zu erwerbende Kompetenzen:  zelnen Epochen der europäischen Musikgeschichte we-
+sentliche Gattungen, Komponisten, Institutionen und 
+Einzelwerke nennen und beschreiben. Je nach individu-
+eller Schwerpunktsetzung sind sie außerdem in der 
+Lage, zu bestimmten Repertoireausschnitten bzw. 
+Komponisten wichtige Grundinformationen, Entwick-
+lungen und herausragende Einzelkompositionen zu be-
+nennen. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  keine 
+b) verpflichtende Nachweise:  keine 
+6. Verwendbarkeit des Moduls:  Bachelorstudiengang Musikwissenschaft 
+7. Angebotsturnus des Moduls:  mindestens zwei Veranstaltungen pro Semester 
+8. Das Modul kann absolviert werden in:  1 Semester 
+9. Empfohlenes Fachsemester:  1–4 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+      (Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: 240 
+ 
+davon: 
+1. Präsenzzeit: 60 Std. (4 SWS) 
+2. Selbststudium (inkl. Prüfung) 180 Std. 
+ 
+Leistungspunkte: 8 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen er-
+füllt sind: 
+12. Modulbestandteile: 
+Nr.  P /  Lehrform  Themenbereich / Thema  SWS /  Studienleistungen  LP 
+WP  Std. 
+1  WP  Vorlesung  Allgemeine Musikgeschichte I  2  Klausur oder mündliche Prüfung  4 
+(Mittelalter) 
+2  WP  Vorlesung  Allgemeine Musikgeschichte II  2  Klausur oder mündliche Prüfung  4 
+(Renaissance) 
+3  WP  Vorlesung  Allgemeine Musikgeschichte III  2  Klausur oder mündliche Prüfung  4 
+(Barock/Klassik) 
+4  WP  Vorlesung  Allgemeine Musikgeschichte IV  2  Klausur oder mündliche Prüfung  4 
+19 (Klassik/Romantik) 
+5  WP  Vorlesung  Allgemeine Musikgeschichte V  2  Klausur oder mündliche Prüfung  4 
+(20. Jahrhundert) 
+13. Modulprüfung: keine   
+14. Bemerkungen:  
+Es sind zwei der fünf angebotenen Vorlesungen zu absolvieren. 
+Die Vorlesungen können in beliebiger Abfolge besucht werden. Eine der oben angeführten Vorlesungen 
+kann durch eine Vorlesung aus dem Kursangebot des Faches Musikwissenschaft an der Universität Regens-
+burg, aber außerhalb des Musikgeschichtszyklus ersetzt werden (siehe Kommentiertes Vorlesungsverzeich-
+nis).  
+Das Modul wird nicht benotet. MUWI-M 06 
+1. Name des Moduls:  Basismodul Grundbegriffe und Arbeitstechniken 
+(Nebenfach) 
+2. Fachgebiet / Verantwortlich:  Musikwissenschaft/ 
+Prof. Dr. Katelijne Schiltz, N. N., Dr. Michael Braun 
+3. Inhalte des Moduls:  Grundkenntnisse im musikwissenschaftlichen Arbeiten, 
+in musikwissenschaftlicher Begriffsbildung und musikali-
+scher Analyse sowie in Notations- und Quellenkunde 
+4. Qualifikationsziele des Moduls /   Absolventen und Absolventinnen des Moduls sind in der 
+    zu erwerbende Kompetenzen:  Lage, spezifische musikwissenschaftliche Fragestellungen 
+nach wissenschaftlichem Standard schriftlich zu bearbei-
+ten und dazu je nach gewähltem Schwerpunkt auf ver-
+tieften Kenntnissen zu adäquaten Recherchewerkzeugen 
+bzw. zur analytischen Erfassung von Notentexten aufzu-
+bauen (Einführungen in das Musikwissenschaftliche Ar-
+beiten bzw. in Terminologie und Techniken der Analyse), 
+sowie ältere Notationssysteme zu lesen und in moderne 
+Notation zu übertragen. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  keine 
+b) verpflichtende Nachweise:  keine 
+6. Verwendbarkeit des Moduls:  Bachelorstudiengang Musikwissenschaft 
+7. Angebotsturnus des Moduls:  mindestens zwei Veranstaltungen pro Semester 
+8. Das Modul kann absolviert werden in:  1 Semester 
+9. Empfohlenes Fachsemester:  1–4 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+      (Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: 360 
+ 
+davon: 
+1. Präsenzzeit: 60 Std. (4 SWS) 
+2. Selbststudium (inkl. Prüfung): 300 Std. 
+ 
+Leistungspunkte: 12 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt 
+sind: 
+12. Modulbestandteile: 
+Nr.  P /  Lehrform  Themenbereich / Thema  SWS  Studienleistungen  LP 
+WP  / Std. 
+1  WP  Proseminar  Einführung in das musikwis- 2  regelmäßige Teilnahme, Referat  6 
+senschaftliche Arbeiten  zur Vorbereitung der Hausarbeit  
+2  WP  Proseminar  Einführung in Terminologie  2  regelmäßige Teilnahme, Referat  6 
+und Techniken der Analyse  zur Vorbereitung der Hausarbeit 
+3  WP  Proseminar  Notations- und Quellenkunde I  2  Hausaufgaben  6 
+(9.–14. Jh.) 
+4  WP  Proseminar  Notations- und Quellenkunde  2  Hausaufgaben  6 
+II (15.–16. Jh.) 
+21 13. Modulprüfung: 
+Nr. Kompetenz / Thema  Art der Prü- Dauer /  Zeitpunkt / Bemer- Anteil an 
+fung  Umfang  kungen  Modulnote 
+1  Fähigkeit im Umgang mit mu- Hausarbeit im  mind. 8  Abgabetermin:   50 % 
+sikwissenschaftlicher Basislite- Anschluss an  Wochen  jeweils letzter Tag  
+ratur, Kenntnis verschiedener  ein Referat     im Semester 
+Methoden des Bibliographie- 10-15   
+rens und Methoden zur Be- Textseiten 
+wältigung einer konkreten 
+musikwissenschaftlichen Fra-
+gestellung oder Erwerb von 
+Grundkenntnissen der musi-
+kalischen Analyse und An-
+wendung verschiedener Ana-
+lysemethoden  
+2  Beschäftigung mit älteren For- Klausur  90 Minu- Klausur am Ende   50 % 
+men der musikalischen Nota- ten  der Vorlesungszeit  
+tion und mit Quellen; Erarbei-
+tung eigener Übertragungen 
+nach den Quellen 
+14. Bemerkungen:  
+Es sind zwei der vier angebotenen Proseminare zu absolvieren. 
+Verpflichtend ist der Besuch eines der beiden Einführungsseminare (Nr. 1 oder 2) und eines der Seminare 
+zur Notations- und Quellenkunde (Nr. 3 oder 4). 
+Für die Zulassung zur Klausur unter Modulprüfungsposition Nr. 2 ist die Erfüllung von 50% der Studienleis-
+tungen im gewählten Notations- und Quellenkunde-Kurs nötig. MUWI-M 07 
+1. Name des Moduls:  Basismodul Werk- und Partiturkunde (Nebenfach) 
+2. Fachgebiet / Verantwortlich:  Musikwissenschaft/ 
+Prof. Dr. Katelijne Schiltz, N. N., Dr. Michael Braun 
+3. Inhalte des Moduls:  Repertoirekenntnisse; Grundlagen der Partiturkunde, 
+des Notensatzes, der Instrumentenkunde; Gehörbil-
+dung 
+4. Qualifikationsziele des Moduls /   Das Modul erlaubt den Studierenden durch die Aus-
+    zu erwerbende Kompetenzen:  wahl zweier einzubringender Kurse aus einem vielfälti-
+gen Angebot eine individuelle Schwerpunktsetzung im 
+Bereich der Werk- und Partiturkunde. Nach Abschluss 
+des Moduls verfügen Studierende über erweiterte und 
+themenspezifisch vertiefte Repertoirekenntnisse bzw. 
+grundlegende Kenntnisse zur Instrumentenkunde bzw. 
+sind in der Lage, Partituren zu lesen, bzw. einfache mu-
+sikalische Strukturen analytisch zu hören und zu notie-
+ren. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  keine 
+b) verpflichtende Nachweise:  keine 
+6. Verwendbarkeit des Moduls:  Bachelorstudiengang Musikwissenschaft 
+7. Angebotsturnus des Moduls:  mindestens zwei Veranstaltungen pro Semester 
+8. Das Modul kann absolviert werden in:  1 Semester 
+9. Empfohlenes Fachsemester:  1–4 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+      (Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: 180 
+ 
+davon: 
+1. Präsenzzeit: 60 Std. (4 SWS) 
+2. Selbststudium (inkl. Prüfung): 120 Std. 
+ 
+Leistungspunkte: 6 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen er-
+füllt sind: 
+12. Modulbestandteile: 
+Nr.  P /  Lehrform  Themenbereich/Thema  SWS /  Studienleistungen  LP 
+WP  Std. 
+1  WP  Übung  Repertoirekunde  2  Referat(e)  3 
+2  WP  Übung  Instrumentenkunde  2  Klausur  3 
+3  WP  Übung  Partiturkunde und Notensatz  2  Hausaufgaben  3 
+4  WP  Übung  Gehörbildung  2  Klausur  3 
+13. Modulprüfung: keine   
+14. Bemerkungen:  
+Es sind zwei der vier angebotenen Übungen zu absolvieren. 
+Eine der oben angeführten Übungen kann durch eine Übung nach Wahl aus dem Kursangebot des Faches 
+23 Musikwissenschaft an der Universität Regensburg ersetzt werden (vgl. Kommentiertes Vorlesungsverzeich-
+nis).  
+Das Modul wird nicht benotet. MUWI-M 08 
+1. Name des Moduls:  Basismodul Musiktheorie (Nebenfach) 
+2. Fachgebiet / Verantwortlich:  Musikwissenschaft/ 
+Prof. Dr. Katelijne Schiltz, N. N., Dr. Michael Braun 
+3. Inhalte des Moduls:  Grundzüge der Harmonie- und der Kontrapunktlehre 
+einschließlich der historischen Satzlehre, Regeln des 
+zweistimmigen Kontrapunkts in Anlehnung an die his-
+torische Satztechnik vor 1600 
+4. Qualifikationsziele des Moduls /   Absolventen und Absolventinnen des Moduls sind in 
+    zu erwerbende Kompetenzen:  der Lage, harmonische Zusammenhänge in Musik vom 
+Hochbarock bis zur Klassik analytisch zu erfassen und 
+nach den Prinzipien der Funktionstheorie zu benennen. 
+Sie können vierstimmige, durmolltonale (Vokal-)Sätze 
+nach den Regeln des strengen Satzes anfertigen und 
+Sätze zweistimmigen Kontrapunkts nach den Prinzipien 
+des „Palestrinastils“ entwerfen. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  keine 
+b) verpflichtende Nachweise:  keine 
+6. Verwendbarkeit des Moduls:  Bachelorstudiengang Musikwissenschaft 
+7. Angebotsturnus des Moduls:  jeweils im Wintersemester 
+8. Das Modul kann absolviert werden in:  1 Semester 
+9. Empfohlenes Fachsemester:  1–4 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+      (Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: 180 
+ 
+davon: 
+1. Präsenzzeit: 60 Std. (4 SWS) 
+2. Selbststudium (inkl. Prüfung): 120 Std. 
+ 
+Leistungspunkte: 6 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen er-
+füllt sind: 
+12. Modulbestandteile: 
+Nr.  P /  Lehrform  Themenbereich / Thema  SWS /  Studienleistungen  LP 
+WP  Std. 
+1  P  Übung  Harmonielehre I  2  Hausaufgaben  3 
+2  P  Übung  Kontrapunkt I  2  Hausaufgaben  3 
+13. Modulprüfung: 
+Nr.  Kompetenz / Thema  Art der  Dauer  Zeitpunkt / Be- Anteil an 
+Prüfung  merkungen  Modulnote 
+1  Erwerb von Grundkenntnis- Klausur  90 Minuten  am Ende der   50 % 
+sen der Harmonielehre: vier- Vorlesungszeit 
+stimmiger Satz und Funkti-
+onsanalyse 
+25 2  Erwerb von Grundkenntnis- Klausur  90 Minuten  am Ende der   50 % 
+sen kontrapunktischer Satz- Vorlesungszeit 
+regeln (Zweistimmigkeit) 
+14. Bemerkungen:  
+Für die Zulassung zu den Prüfungen ist die Abgabe von 50% der Hausaufgaben im zugehörigen Kurs 
+notwendig. 
+ 

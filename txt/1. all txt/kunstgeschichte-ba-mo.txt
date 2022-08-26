@@ -1,0 +1,876 @@
+input_dictionary = BA 1. HF 90 ECTS 
+Alle Personen- und Funktionsbezeichnungen in dieser Satzung gelten für Personen jeder 
+geschlechtlichen Identität in gleicher Weise. 
+ 
+Grundstudium (3-4 Semester) 51 ECTS 
+ 
+Einführungskurse  2 aus 2  Jeweils 4 SWS 
+     
+KUGBA-M01 GRUNDKURS I  Grundkurs I. Form,  6 LP 
+Stil, Ikonographie 
+  Tutorium zu  2 LP 
+Grundkurs I 
+  Online-Tutorium.  2 LP 
+Ikonographie und 
+künstlerische 
+Techniken 
+  Einführung in das  1 LP 
+wiss. Arbeiten für 
+Kunsthistoriker 
+     
+     
+KUGBA-M02 GRUNDKURS II  Grundkurs II.  6 LP 
+Methoden 
+  Tutorium zu  2 LP 
+Grundkurs II 
+  Einführung in die  2 LP 
+Terminologie der 
+Architekturanalyse 
+     
+    Summe: 21 LP 
+ 
+Epochen I  3 aus 3  Jeweils 4 SWS 
+     
+KUGBA-M03 KUNST DES  Proseminar   6 LP 
+MITTELALTERS I 
+  Vorlesung   4 LP 
+     
+KUGBA-M04 KUNST DER  Proseminar   6 LP 
+NEUZEIT I 
+  Vorlesung   4 LP 
+     
+KUGBA-M05 KUNST DER  Proseminar   6 LP 
+MODERNE und GEGENWART I 
+  Vorlesung   4 LP 
+     
+    Summe: 30 LP 
+ 
+Aufbaustudium (3 Semester) 39 ECTS 
+ 
+Vertiefung Kunstgeschichte  2 aus 2  Jeweils 4 SWS 
+     
+KUGBA-M06 BILDKÜNSTE –  Hauptseminar  8 LP 
+HISTORISCHE 
+BILDWISSENSCHAFT   Vorlesung  4 LP 
+     
+KUGBA-M07 ARCHITEKTUR,  Hauptseminar  8 LP 
+DESIGN und NEUE MEDIEN 
+  Vorlesung  4 LP 
+     
+    Summe: 24 LP 
+ 
+ 
+Digitale Kunstgeschichte und  1 aus 1  Jeweils 2 SWS 
+kunsthistorische Praxis 
+     
+KUGBA-M08  Praxisseminar I  4 LP 
+  Praxisseminar II oder  4 LP 
+Fachpraktikum.   
+     
+    Summe: 8 LP 
+ 
+Exkursionen/Kolloquium  1 aus 1   
+     
+KUGBA-M09  12 Tagesexkursionen  6 LP 
+  Kolloquium  1 LP 
+     
+    Summe: 7 LP 
+ 
+Bachelorarbeit 10 ECTS 
+ 
+Wahlbereich 20 ECTS 
+   BA 2. HF 60 ECTS 
+ 
+Grundstudium (3-4 Semester) 40 ECTS 
+ 
+Einführungskurse  2 aus 2  Jeweils 4 SWS 
+     
+KUGBA-M01 GRUNDKURS I  Grundkurs I. Form, Stil,  6 LP 
+Ikonographie 
+  Tutorium zu Grundkurs  2 LP 
+I 
+  Online-Tutorium.  2 LP 
+Ikonographie und 
+künstlerische 
+Techniken 
+  Einführung in das wiss.  1 LP 
+Arbeiten für 
+Kunsthistoriker 
+     
+KUGBA-M02 GRUNDKURS II  Grundkurs II.  6 LP 
+Methoden 
+  Tutorium zu Grundkurs  2 LP 
+II 
+  Einführung in die  2 LP 
+Terminologie der 
+Architekturanalyse 
+     
+    Summe: 21 LP 
+ 
+Epochen I  2 aus 3  Jeweils 4 SWS 
+     
+KUGBA-M03 KUNST DES  Proseminar   6 LP 
+MITTELALTERS I 
+  Vorlesung   4 LP 
+     
+KUGBA-M04 KUNST DER  Proseminar   6 LP 
+NEUZEIT I 
+  Vorlesung   4 LP 
+     
+KUGBA-M05 KUNST DER  Proseminar   6 LP 
+MODERNE und GEGENWART I 
+  Vorlesung   4 LP 
+     
+    Summe: 20 LP 
+ 
+Aufbaustudium (3 Semester) 20 ECTS 
+ 
+Vertiefung Kunstgeschichte  1 aus 2  Jeweils 4 SWS 
+     
+KUGBA-M06 BILDKÜNSTE –  Hauptseminar  8 LP 
+HISTORISCHE 
+BILDWISSENSCHAFT 
+  Vorlesung  4 LP 
+     
+KUGBA-M07 ARCHITEKTUR,  Hauptseminar  8 LP DESIGN und NEUE MEDIEN 
+  Vorlesung  4 LP 
+     
+    Summe: 12 LP 
+ 
+ 
+Digitale Kunstgeschichte und  1 aus 1   
+kunsthistorische Praxis 
+     
+KUGBA-2HF-M08  Praxisseminar  4 LP 
+  6 Tagesexkursionen  3 LP 
+     
+    Summe: 7 LP 
+   BA-Nebenfach 30 ECTS - Alternative 
+ 
+Einführungskurse  1 aus 1  Jeweils 4 SWS 
+     
+KUGBA-M01 GRUNDKURS I  Grundkurs I. Form, Stil,  6 LP 
+Ikonographie 
+  Tutorium zu Grundkurs  2 LP 
+I 
+  Online-Tutorium.  2 LP 
+Ikonographie und 
+künstlerische 
+Techniken 
+  Einführung in das wiss.  1 LP 
+Arbeiten für 
+Kunsthistoriker 
+     
+    Summe: 11 LP 
+ 
+Epochen I  1 aus 3  Jeweils 4 SWS 
+     
+KUGBA-M03 KUNST DES  Proseminar   6 LP 
+MITTELALTERS I 
+  Vorlesung   4 LP 
+     
+KUGBA-M04 KUNST DER  Proseminar   6 LP 
+NEUZEIT I 
+  Vorlesung   4 LP 
+     
+KUGBA-M05 KUNST DER  Proseminar   6 LP 
+MODERNE und GEGENWART I 
+  Vorlesung   4 LP 
+     
+    Summe: 10 LP 
+ 
+Digitale Kunstgeschichte und  1 aus 1   
+kunsthistorische Praxis 
+     
+KUGBA-NF-M08  Vorlesung  4 LP 
+  Praxisseminar  4 LP 
+  2 Tagesexkursionen  1 LP 
+     
+    Summe: 9 LP 
+ 
+ 
+   KUGBA-M01 
+ 
+1. Name des Moduls:  Grundkurs I. Stil, Form und Ikonographie 
+2. Fachgebiet / Verantwortlich:  Kunstgeschichte/ Prof. Dr. Dietl, Prof. Dr. Jachmann, 
+Prof. Dr. Schöller, Prof. Dr. Wagner, Dr. Delarue 
+3. Inhalte des Moduls:  Das Modul gibt einen Überblick über die verschiedenen 
+Epochen der Kunstgeschichte, wesentliche Fachtermini, 
+künstlerische Techniken und Ikonographien. 
+4. Qualifikationsziele des Moduls / zu  Nach erfolgreicher Beendigung dieses Moduls können 
+erwerbende Kompetenzen:  die Studierenden Kunstwerke aller Epochen nach 
+stilistischen Kriterien datieren und lokalisieren, zentrale 
+ikonographische Themen erkennen und die für 
+Werkanalysen grundlegenden Fachtermini anwenden. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  keine 
+b) verpflichtende Nachweise:  keine 
+6. Verwendbarkeit des Moduls:  BA Kunstgeschichte: 1. Hauptfach, 2. Hauptfach, 
+Nebenfach 
+7. Angebotsturnus des Moduls:  mindestens eine Veranstaltung pro Studienjahr 
+8. Das Modul kann absolviert werden in:  in einem Semester 
+9. Empfohlenes Fachsemester:  1 bis 2 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand:  
+(Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: ca. 300 
+davon: 
+Präsenzzeit: 90 Stunden (6 SWS) 
+ 
+Leistungspunkte: 11 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind: 
+ 
+12. Modulbestandteile: 
+Nr  P /  Lehr- Themenbereich/Thema  SWS /  Studienleistungen  LP 
+W form  Std. 
+P 
+1.  P  S  Grundkurs I. Form, Stil und  2  Klausur, Übungsaufgaben  6 
+Ikonographie  und/oder Vorbereitung von 
+Lektüre 
+2.  P  Ü  Tutorium zum Grundkurs I  2  Aktive Teilnahme,  2 
+Übungsaufgaben und/oder 
+Vorbereitung von Lektüre 
+3.  P  Ü  Online-Tutorium. Ikonographie und  2  Aktive Teilnahme,  2 
+künstlerische Techniken  Übungsaufgaben und/oder 
+Vorbereitung von Lektüre 
+4.  P  Ü  Einführung in das wiss. Arbeiten für    Aktive Teilnahme,  1 
+Kunsthistoriker  Übungsaufgaben und/oder 
+Vorbereitung von Lektüre 
+13. Modulprüfung 
+Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr  Kompetenz / Thema 
+Prüfung  Bemerkungen  Modulnote 
+1.  Grundkenntnisse in  Klausur  90–120 min.  in der Prüfungsperiode  100% 
+Form, Stil und  am Ende der 
+Ikonographie  Vorlesungszeit 
+14. Bemerkungen:  Die Klausur findet am Ende des Grundkurses statt. Der Grundkurs und die dazugehörigen Übungen sind im 
+selben Semester zu absolvieren. Die Einführung ins wissenschaftliche Arbeiten für Kunsthistoriker ist im 
+ersten Semester zu belegen. 
+Modulprüfung: Stellt der Prüfer die Nichterbringung der geforderten Studienleistungen fest, wird dem 
+Prüfling die Zulassung zur Modulprüfung verwehrt. 
+Wiederholbarkeit: Bei nicht bestandener Prüfung kann diese innerhalb von vier Wochen nach Bekanntgabe 
+der Bewertung an einem vom Prüfer festgesetzten Termin wiederholt werden. Bei abermaligem 
+Nichtbestehen sind Grundkurs und die zugehörigen Übungen vor dem Drittversuch zu wiederholen. Nach 
+drittmaligem Nichtbestehen der Prüfung ist das Modul endgültig nicht bestanden. 
+ 
+ 
+   KUGBA-M02 
+ 
+1. Name des Moduls:  Grundkurs II. Methoden 
+2. Fachgebiet / Verantwortlich:  Kunstgeschichte/ Prof. Dr. Dietl, Prof. Dr. Jachmann, 
+Prof. Dr. Schöller, Prof. Dr. Wagner, Dr. Delarue 
+3. Inhalte des Moduls:  Das Modul führt in die Methoden der Kunstgeschichte 
+ein. 
+4. Qualifikationsziele des Moduls / zu  Nach erfolgreicher Beendigung dieses Moduls sind die 
+erwerbende Kompetenzen:  Studierenden mit der Fachgeschichte und den 
+wesentlichen kunsthistorischen Methoden vertraut. Sie 
+können eine methodische Position in die Fachgeschichte 
+einordnen, anhand von Fallbeispielen erläutern und 
+kritisch darstellen. Die Studierenden verfügen über ein 
+methodisch-terminologisches Grundwissen in einer 
+kunsthistorischen Spezialdisziplin. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  keine 
+b) verpflichtende Nachweise:  keine 
+6. Verwendbarkeit des Moduls:  BA Kunstgeschichte: 1. Hauptfach, 2. Hauptfach,  
+7. Angebotsturnus des Moduls:  mindestens eine Veranstaltung pro Studienjahr 
+8. Das Modul kann absolviert werden in:  in einem Semester 
+9. Empfohlenes Fachsemester:  1 bis 2 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+(Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: ca. 300 
+davon: 
+Präsenzzeit: 90 Stunden (6 SWS) 
+ 
+Leistungspunkte: 10 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind: 
+ 
+12. Modulbestandteile: 
+Nr  P /  Lehr- Themenbereich/Thema  SWS /  Studienleistungen  LP 
+W form  Std. 
+P 
+1  P  S  Grundkurs II. Methoden  2  Klausur, Übungsaufgaben  6 
+und/oder Vorbereitung von 
+Lektüre 
+2  P  Ü  Tutorium zum Grundkurs II  2  Aktive Teilnahme,  2 
+Übungsaufgaben und/oder 
+Vorbereitung von Lektüre 
+3  P  Ü  Einführung in die Terminologie der  2  Klausur  2 
+Architekturanalyse 
+13. Modulprüfung 
+Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr  Kompetenz / Thema 
+Prüfung  Bemerkungen  Modulnote 
+1  Geschichte und  Klausur oder  Klausur: 90-120  in der Prüfungsperiode  100% 
+Methoden der  mündliche  Min.  am Ende der 
+Kunstgeschichte  Prüfung  mündliche  Vorlesungszeit 
+Prüfung: 15-30 
+Min. 
+14. Bemerkungen:  
+Die Klausur oder mündliche Prüfung findet am Ende des Grundkurses statt. Der Grundkurs und die dazugehörigen Übungen sind im selben Semester zu absolvieren. 
+Modulprüfung: Die Prüfungsform wird zu Beginn der Lehrveranstaltung bekannt gegeben. Stellt der Prüfer 
+die Nichterbringung der geforderten Studienleistungen fest, wird dem Prüfling die Zulassung zur 
+Modulprüfung verwehrt. 
+Wiederholbarkeit: Bei nicht bestandener Prüfung kann diese innerhalb von vier Wochen nach Bekanntgabe 
+der Bewertung an einem vom Prüfer festgesetzten Termin wiederholt werden. Bei abermaligem 
+Nichtbestehen sind Grundkurs und die zugehörige Übung vor dem Drittversuch zu wiederholen. Nach 
+drittmaligem Nichtbestehen der Prüfung ist das Modul endgültig nicht bestanden. 
+ 
+   KUGBA-M03  
+ 
+1. Name des Moduls:  Kunst des Mittelalters 
+2. Fachgebiet / Verantwortlich:  Kunstgeschichte/ Prof. Dr. Dietl, Prof. Dr. Jachmann, 
+Prof. Dr. Schöller, Prof. Dr. Wagner, Dr. Delarue 
+3. Inhalte des Moduls:  Das Modul führt anhand exemplarischer Themen in die 
+Teilgebiete der Kunstgeschichte des europäischen 
+Mittelalters ein. 
+4. Qualifikationsziele des Moduls / zu  Nach erfolgreicher Beendigung dieses Moduls verfügen 
+erwerbende Kompetenzen:  die Studierenden über eine vertiefte Kenntnis eines 
+Teilgebietes in der Kunst des europäischen Mittelalters. 
+Die Studierenden sind in der Lage ausgehend von den 
+Seminarunterlagen den Forschungsstand zu einem Objekt 
+kritisch aufzuarbeiten, es terminologisch adäquat zu 
+analysieren, ihre Beobachtungen im Kontext des 
+Seminars einzuordnen und dies in einer Hausarbeit 
+wissenschaftlichen Konventionen entsprechend 
+darzulegen. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  keine 
+b) verpflichtende Nachweise:  Übung: Einführung in das wiss. Arbeiten für 
+Kunsthistoriker 
+6. Verwendbarkeit des Moduls:  BA Kunstgeschichte: 1. Hauptfach, 2. Hauptfach, 
+Nebenfach 
+7. Angebotsturnus des Moduls:  mindestens eine Veranstaltung pro Studienjahr 
+8. Das Modul kann absolviert werden in:  ein bis maximal zwei Semestern 
+9. Empfohlenes Fachsemester:  1 bis 3 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+(Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: ca. 300  
+davon: 
+Präsenzzeit: 60 Stunden (4 SWS) 
+ 
+Leistungspunkte: 10 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind: 
+12. Modulbestandteile: 
+Nr  P /  Lehr- Themenbereich/Thema  SWS /  Studienleistungen  LP 
+W form  Std. 
+P 
+1  P  VL  Kunstgeschichte (Mittelalter)  2  Klausur, Protokoll und/oder  4 
+Vorbereitung von Lektüre 
+2  P  S  Kunstgeschichte (Mittelalter)  2  Referat, Übungsaufgaben und/oder  6 
+Vorbereitung von Lektüre 
+13. Modulprüfung: 
+Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr  Kompetenz / Thema 
+Prüfung  Bemerkungen  Modulnote 
+1  Ausarbeiten eines  Hausarbeit    10-15 Seiten,  100% 
+Referates  Abgabefrist 
+Sommersemester: 30.9., 
+Wintersemester: 31.3. 
+14. Bemerkungen:  
+Modulprüfung: Die Modulprüfungen erfolgen im Rahmen des Proseminars. Stellt der Prüfer die Nichterbringung der geforderten Studienleistungen fest, wird dem Prüfling die Zulassung zur Modulprüfung 
+verwehrt. Eine Überschreitung der Abgabefristen führt zum Nichtbestehen des jeweiligen Versuchs. 
+Wiederholbarkeit: Eine Hausarbeit als Modulprüfung kann zweimal wiederholt werden. Eine nicht 
+bestandene Hausarbeit führt nicht zur Wiederholung des Kurses, sondern zur Nachbesserung der Hausarbeit. 
+Die Hausarbeit ist nach der Rückgabe innerhalb einer Frist von vier Wochen zu überarbeiten und zur 
+erneuten Bewertung vorzulegen. Ist die Hausarbeit auch nach der ersten Wiederholung nicht bestanden, wird 
+dem Studierenden eine weitere Frist von acht Wochen zur nochmaligen Vorlegung gesetzt. Wird die 
+Hausarbeit auch nach dieser zweiten Wiederholung als nicht ausreichend bewertet, führt dies zum 
+endgültigen Nichtbestehen des Moduls.  
+ 
+ 
+   KUGBA-M04  
+ 
+1. Name des Moduls:  Kunst der Neuzeit 
+2. Fachgebiet / Verantwortlich:  Kunstgeschichte/ Prof. Dr. Dietl, Prof. Dr. Jachmann, 
+Prof. Dr. Schöller, Prof. Dr. Wagner, Dr. Delarue 
+3. Inhalte des Moduls:  Das Modul führt anhand exemplarischer Themen in die 
+Teilgebiete der Kunstgeschichte der Neuzeit ein. 
+4. Qualifikationsziele des Moduls / zu  Nach erfolgreicher Beendigung dieses Moduls verfügen 
+erwerbende Kompetenzen:  die Studierenden über eine vertiefte Kenntnis eines 
+Teilgebietes in der Kunst der Neuzeit. Die Studierenden 
+sind in der Lage ausgehend von den Seminarunterlagen 
+den Forschungsstand zu einem Objekt kritisch 
+aufzuarbeiten, es terminologisch adäquat zu analysieren, 
+ihre Beobachtungen im Kontext des Seminars 
+einzuordnen und dies in einer Hausarbeit 
+wissenschaftlichen Konventionen entsprechend 
+darzulegen. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  keine 
+b) verpflichtende Nachweise:  Übung: Einführung in das wiss. Arbeiten für 
+Kunsthistoriker 
+6. Verwendbarkeit des Moduls:  BA Kunstgeschichte: 1. Hauptfach, 2. Hauptfach, 
+Nebenfach 
+7. Angebotsturnus des Moduls:  mindestens eine Veranstaltung pro Studienjahr 
+8. Das Modul kann absolviert werden in:  ein bis maximal zwei Semestern 
+9. Empfohlenes Fachsemester:  1 bis 3 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand:  
+(Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: ca. 300 
+davon: 
+Präsenzzeit: 60 Stunden (4 SWS) 
+ 
+Leistungspunkte: 10 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind: 
+ 
+12. Modulbestandteile: 
+Nr  P /  Lehr- Themenbereich/Thema  SWS /  Studienleistungen  LP 
+W form  Std. 
+P 
+1  P  VL  Kunstgeschichte (Neuzeit)  2  Klausur, Protokoll und/oder  4 
+Vorbereitung von Lektüre 
+2  P  S  Kunstgeschichte (Neuzeit)  2  Referat, Übungsaufgaben und/oder  6 
+Vorbereitung von Lektüre 
+13. Modulprüfung 
+Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr  Kompetenz / Thema 
+Prüfung  Bemerkungen  Modulnote 
+1  Ausarbeitung eines  Hausarbeit    10-15 Seiten,  100% 
+Referats  Abgabefrist 
+Sommersemester: 30.9., 
+Wintersemester: 31.3. 
+14. Bemerkungen:  
+Modulprüfung: Die Modulprüfungen erfolgen im Rahmen des Proseminars. Stellt der Prüfer die 
+Nichterbringung der geforderten Studienleistungen fest, wird dem Prüfling die Zulassung zur Modulprüfung verwehrt. Eine Überschreitung der Abgabefristen führt zum Nichtbestehen des jeweiligen Versuchs. 
+Wiederholbarkeit: Eine Hausarbeit als Modulprüfung kann zweimal wiederholt werden. Eine nicht 
+bestandene Hausarbeit führt nicht zur Wiederholung des Kurses, sondern zur Nachbesserung der 
+Hausarbeit. Die Hausarbeit ist nach der Rückgabe innerhalb einer Frist von vier Wochen zu überarbeiten und 
+zur erneuten Bewertung vorzulegen. Ist die Hausarbeit auch nach der ersten Wiederholung nicht 
+bestanden, wird dem Studierenden eine weitere Frist von acht Wochen zur nochmaligen 
+Vorlegung gesetzt. Wird die Hausarbeit auch nach dieser zweiten Wiederholung 
+als nicht ausreichend bewertet, führt dies zum endgültigen Nichtbestehen des Moduls.  
+ 
+   KUGBA-M05 
+ 
+1. Name des Moduls:  Kunst der Moderne und Gegenwart 
+2. Fachgebiet / Verantwortlich:  Kunstgeschichte/ Prof. Dr. Dietl, Prof. Dr. Jachmann, 
+Prof. Dr. Schöller, Prof. Dr. Wagner, Dr. Delarue 
+3. Inhalte des Moduls:  Das Modul führt anhand exemplarischer Themen in die 
+Teilgebiete der Kunst der Moderne und Gegenwart ein. 
+4. Qualifikationsziele des Moduls / zu  Nach erfolgreicher Beendigung dieses Moduls verfügen 
+erwerbende Kompetenzen:  die Studierenden über eine vertiefte Kenntnis eines 
+Teilgebietes in der Kunst der Moderne und Gegenwart. 
+Die Studierenden sind in der Lage ausgehend von den 
+Seminarunterlagen den Forschungsstand zu einem Objekt 
+kritisch aufzuarbeiten, es terminologisch adäquat zu 
+analysieren, ihre Beobachtungen im Kontext des 
+Seminars einzuordnen und dies in einer Hausarbeit 
+wissenschaftlichen Konventionen entsprechend 
+darzulegen. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  keine 
+b) verpflichtende Nachweise:  Übung: Einführung in das wiss. Arbeiten für 
+Kunsthistoriker 
+6. Verwendbarkeit des Moduls:  BA Kunstgeschichte: 1. Hauptfach, 2. Hauptfach, 
+Nebenfach 
+7. Angebotsturnus des Moduls:  mindestens eine Veranstaltung pro Studienjahr 
+8. Das Modul kann absolviert werden in:  ein bis maximal zwei Semestern 
+9. Empfohlenes Fachsemester:  1 bis 3 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+(Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: ca. 300 
+davon: 
+Präsenzzeit: 60 Stunden (4 SWS) 
+ 
+Leistungspunkte: 10 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind: 
+ 
+12. Modulbestandteile: 
+Nr  P /  Lehr- Themenbereich/Thema  SWS /  Studienleistungen  LP 
+W form  Std. 
+P 
+1  P  VL  Kunstgeschichte (Kunst der  2  Klausur, Protokoll und/oder  4 
+Moderne und Gegenwart)  Vorbereitung von Lektüre 
+2  P  S  Kunstgeschichte (Kunst der  2  Referat, Übungsaufgaben und/oder  6 
+Moderne und Gegenwart)  Vorbereitung von Lektüre 
+13. Modulprüfung 
+Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr  Kompetenz / Thema 
+Prüfung  Bemerkungen  Modulnote 
+1  Ausarbeiten eines  Hausarbeit    10-15 Seiten,  100% 
+Referats  Abgabefrist 
+Sommersemester: 30.9., 
+Wintersemester: 31.3. 
+14. Bemerkungen:  
+Modulprüfung: Die Modulprüfungen erfolgen im Rahmen des Proseminars. Stellt der Prüfer die 
+Nichterbringung der geforderten Studienleistungen fest, wird dem Prüfling die Zulassung zur Modulprüfung verwehrt. Eine Überschreitung der Abgabefristen führt zum Nichtbestehen des jeweiligen Versuchs. 
+Wiederholbarkeit: Eine Hausarbeit als Modulprüfung kann zweimal wiederholt werden. Eine nicht 
+bestandene Hausarbeit führt nicht zur Wiederholung des Kurses, sondern zur Nachbesserung der Hausarbeit. 
+Die Hausarbeit ist nach der Rückgabe innerhalb einer Frist von vier Wochen zu überarbeiten und zur 
+erneuten Bewertung vorzulegen. Ist die Hausarbeit auch nach der ersten Wiederholung nicht bestanden, wird 
+dem Studierenden eine weitere Frist von acht Wochen zur nochmaligen Vorlegung gesetzt. Wird die 
+Hausarbeit auch nach dieser zweiten Wiederholung als nicht ausreichend bewertet, führt dies zum 
+endgültigen Nichtbestehen des Moduls.  
+ 
+   KUGBA-M06 
+ 
+1. Name des Moduls:  Bildkünste – Historische Bildwissenschaft 
+2. Fachgebiet / Verantwortlich:  Kunstgeschichte/ Prof. Dr. Dietl, Prof. Dr. Jachmann, 
+Prof. Dr. Schöller, Prof. Dr. Wagner, Dr. Delarue 
+3. Inhalte des Moduls:  Das Modul erweitert anhand exemplarischer Themen die 
+Kenntnisse in den Gattungen der Bildkünste. 
+4. Qualifikationsziele des Moduls / zu  Nach erfolgreicher Beendigung dieses Moduls verfügen 
+erwerbende Kompetenzen:  die Studierenden über eine vertiefte Kenntnis eines 
+Teilgebietes in den Bildkünsten. Die Studierenden sind 
+in der Lage selbstständig den Forschungsstand zu einem 
+Objekt kritisch aufzuarbeiten, eine wissenschaftliche 
+These zu entwickeln, sie schlüssig zu präsentieren und in 
+einer Hausarbeit systematisch und methodisch 
+angemessen zu bearbeiten. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  keine 
+b) verpflichtende Nachweise:  erfolgreicher Abschluss der Module KUGBA-M01 bis 
+KUGBA-M05 
+6. Verwendbarkeit des Moduls:  BA Kunstgeschichte: 1. Hauptfach, 2. Hauptfach 
+7. Angebotsturnus des Moduls:  mindestens eine Veranstaltung pro Studienjahr 
+8. Das Modul kann absolviert werden in:  ein bis maximal zwei Semestern 
+9. Empfohlenes Fachsemester:  3 bis 6 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+(Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: ca. 360 
+davon: 
+Präsenzzeit: 60 Stunden (4 SWS) 
+ 
+Leistungspunkte: 12 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind: 
+ 
+12. Modulbestandteile: 
+Nr  P /  Lehr- Themenbereich/Thema  SWS /  Studienleistungen  LP 
+W form  Std. 
+P 
+1  P  VL  Bildkünste – Historische  2  Klausur, Protokoll und/oder  4 
+Bildwissenschaft  Vorbereitung von Lektüre 
+2  P  S  Bildkünste – Historische  2  Referat, Übungsaufgaben und/oder  8 
+Bildwissenschaft  Vorbereitung von Lektüre 
+13. Modulprüfung 
+Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr  Kompetenz / Thema 
+Prüfung  Bemerkungen  Modulnote 
+1  Ausarbeiten eines  Hausarbeit    20-25 Seiten,  100% 
+Referats  Abgabefrist 
+Sommersemester: 30.9., 
+Wintersemester: 31.3. 
+14. Bemerkungen:  
+Modulprüfung: Die Modulprüfungen erfolgen im Rahmen des Proseminars. Stellt der Prüfer die 
+Nichterbringung der geforderten Studienleistungen fest, wird dem Prüfling die Zulassung zur Modulprüfung 
+verwehrt. Eine Überschreitung der Abgabefristen führt zum Nichtbestehen des jeweiligen Versuchs. 
+Wiederholbarkeit: Eine Hausarbeit als Modulprüfung kann zweimal wiederholt werden. Eine nicht 
+bestandene Hausarbeit führt nicht zur Wiederholung des Kurses, sondern zur Nachbesserung der Hausarbeit. Die Hausarbeit ist nach der Rückgabe innerhalb einer Frist von vier Wochen zu überarbeiten und zur 
+erneuten Bewertung vorzulegen. Ist die Hausarbeit auch nach der ersten Wiederholung nicht bestanden, wird 
+dem Studierenden eine weitere Frist von acht Wochen zur nochmaligen Vorlegung gesetzt. Wird die 
+Hausarbeit auch nach dieser zweiten Wiederholung als nicht ausreichend bewertet, führt dies zum 
+endgültigen Nichtbestehen des Moduls.  
+ 
+ 
+   KUGBA-M07 
+ 
+1. Name des Moduls:  Architektur, Design und Neue Medien 
+2. Fachgebiet / Verantwortlich:  Kunstgeschichte/ Prof. Dr. Dietl, Prof. Dr. Jachmann, 
+Prof. Dr. Schöller, Prof. Dr. Wagner, Dr. Delarue 
+3. Inhalte des Moduls:  Das Modul erweitert anhand exemplarischer Themen die 
+Kenntnisse in den Gattungen Architektur, Design und 
+Neuen Medien. 
+4. Qualifikationsziele des Moduls / zu  Nach erfolgreicher Beendigung dieses Moduls verfügen 
+erwerbende Kompetenzen:  die Studierenden über eine vertiefte Kenntnis eines 
+Teilgebietes der Architektur, des Designs und/oder der 
+Neuen Medien. Die Studierenden sind in der Lage 
+selbstständig den Forschungsstand zu einem Objekt 
+kritisch aufzuarbeiten, eine wissenschaftliche These zu 
+entwickeln, sie schlüssig zu präsentieren und in einer 
+Hausarbeit systematisch und methodisch angemessen zu 
+bearbeiten. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  keine 
+b) verpflichtende Nachweise:  erfolgreicher Abschluss der Module KUGBA-M01 bis 
+KUGBA-M05 
+6. Verwendbarkeit des Moduls:  BA Kunstgeschichte: 1. Hauptfach, 2. Hauptfach 
+7. Angebotsturnus des Moduls:  mindestens eine Veranstaltung pro Studienjahr 
+8. Das Modul kann absolviert werden in:  ein bis maximal zwei Semestern 
+9. Empfohlenes Fachsemester:  3 bis 6 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+(Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: ca. 360 
+davon: 
+Präsenzzeit: 60 Stunden (4 SWS) 
+ 
+Leistungspunkte: 12 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind: 
+ 
+12. Modulbestandteile: 
+Nr  P /  Lehr- Themenbereich/Thema  SWS /  Studienleistungen  LP 
+W form  Std. 
+P 
+1  P  VL  Architektur, Design und Neue  2  Klausur, Protokoll und/oder  4 
+Medien  Vorbereitung von Lektüre 
+2  P  S  Architektur, Design und Neue  2  Referat, Übungsaufgaben und/oder  8 
+Medien  Vorbereitung von Lektüre 
+13. Modulprüfung 
+Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr  Kompetenz / Thema 
+Prüfung  Bemerkungen  Modulnote 
+1  Ausarbeiten eines  Hausarbeit    20-25 Seiten,  100% 
+Referats  Abgabefrist 
+Sommersemester: 30.9., 
+Wintersemester: 31.3. 
+14. Bemerkungen:  
+Modulprüfung: Die Modulprüfungen erfolgen im Rahmen des Proseminars. Stellt der Prüfer die 
+Nichterbringung der geforderten Studienleistungen fest, wird dem Prüfling die Zulassung zur Modulprüfung 
+verwehrt. Eine Überschreitung der Abgabefristen führt zum Nichtbestehen des jeweiligen Versuchs. Wiederholbarkeit: Eine Hausarbeit als Modulprüfung kann zweimal wiederholt werden. Eine nicht 
+bestandene Hausarbeit führt nicht zur Wiederholung des Kurses, sondern zur Nachbesserung der Hausarbeit. 
+Die Hausarbeit ist nach der Rückgabe innerhalb einer Frist von vier Wochen zu überarbeiten und zur 
+erneuten Bewertung vorzulegen. Ist die Hausarbeit auch nach der ersten Wiederholung nicht bestanden, wird 
+dem Studierenden eine weitere Frist von acht Wochen zur nochmaligen Vorlegung gesetzt. Wird die 
+Hausarbeit auch nach dieser zweiten Wiederholung als nicht ausreichend bewertet, führt dies zum 
+endgültigen Nichtbestehen des Moduls.  
+ 
+ 
+   KUGBA-M08 
+ 
+1. Name des Moduls:  Digitale Kunstgeschichte und kunsthistorische Praxis 
+2. Fachgebiet / Verantwortlich:  Kunstgeschichte/ Prof. Dr. Dietl, Prof. Dr. Jachmann, 
+Prof. Dr. Schöller, Prof. Dr. Wagner, Dr. Delarue 
+3. Inhalte des Moduls:  In diesem Modul wird die Gelegenheit eröffnet, das Feld 
+der digitalen Kunstgeschichte kennenzulernen, praktische 
+Erfahrungen in den Arbeitsfeldern des Studienfaches zu 
+sammeln und im Rahmen des Praxisseminars kritisch zu 
+reflektieren. 
+4. Qualifikationsziele des Moduls / zu erwerbende  Nach erfolgreicher Beendigung dieses Moduls kennen 
+Kompetenzen:  die Studierenden Arbeitstechniken der Digitalen 
+Kunstgeschichte und die Anforderungen eines 
+spezifischen Berufsfeldes des Faches. Sie haben die für 
+den jeweiligen Arbeitsbereich nötigen Grundkenntnisse 
+erworben und können ihre weitere Studienplanung ggf. 
+selbstständig auf ein Berufsziel in diesem Bereich hin 
+optimieren. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  keine 
+b) verpflichtende Nachweise:  keine 
+6. Verwendbarkeit des Moduls:  BA Kunstgeschichte: 1. Hauptfach 
+7. Angebotsturnus des Moduls:  mindestens eine Veranstaltung pro Semester 
+8. Das Modul kann absolviert werden in:  ein bis maximal zwei Semestern 
+9. Empfohlenes Fachsemester:  2 bis 5 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+(Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: ca. 240 
+davon: 
+Präsenzzeit: 60 Stunden (4 SWS) 
+ 
+Leistungspunkte: 8 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:   
+ 
+12. Modulbestandteile: 
+Nr  P /  Lehr- Themenbereich/Thema  SWS /  Studienleistungen  LP 
+W form  Std. 
+P 
+1  P  S  Praxisseminar I  2  Aktive Teilnahme (je nach  4 
+Kurswahl); Referat und/oder 
+Übungsaufgaben 
+2  P  S  Praxisseminar II  2  Aktive Teilnahme (je nach  4 
+Kurswahl); Referat und/oder 
+Übungsaufgaben 
+13. Modulprüfung 
+Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr  Kompetenz / Thema 
+Prüfung  Bemerkungen  Modulnote 
+1  zielgruppenorientiertes  Hausarbeit,    Schriftliche andere  50% 
+Schreiben, Ausarbeiten  Essay oder  Prüfungsleistung: 10-15 
+eines Referats,  Bericht  Seiten 
+Dokumentation der 
+eigenen Arbeit  Abgabefrist 
+Sommersemester: 30.9., Wintersemester: 31.3 
+2  zielgruppenorientiertes  Hausarbeit,    Schriftliche Andere  50% 
+Schreiben, Ausarbeiten  Essay oder  Prüfungsleistung: 10-15 
+eines Referats,  Bericht  Seiten 
+Dokumentation der 
+eigenen Arbeit  Abgabefrist 
+Sommersemester: 30.9., 
+Wintersemester: 31.3 
+14. Bemerkungen:  
+Praxisseminare behandeln Themen, die entweder zum Bereich der Digitalen Kunstgeschichte gehören oder zu 
+einem anderen praxisnahen Teilbereich des Faches, wie beispielsweise Provenienzforschung, Museologie, 
+Denkmalpflege oder der Kunstmarkt. 
+Ein Praxisseminar kann durch ein vierwöchiges Fachpraktikum ersetzt werden. Die Wochenarbeitszeit sollte bei 
+ca. 30 h liegen. Am Ende des Praktikums ist ein Bericht von ca. 7 Seiten als Modulprüfung abzugeben. Die 
+Modalitäten zur Genehmigung von Fachpraktika und Richtlinien für den Bericht sind separat auf der Homepage 
+des Instituts für Kunstgeschichte aufgeführt. 
+Praxisseminare, insb. aus dem Bereich der Digitalen Kunstgeschichte, können die aktive Teilnahme als 
+Studienleistung verlangen. 
+Modulprüfung: Stellt der Prüfer die Nichterbringung der geforderten Studienleistungen fest, wird dem Prüfling 
+die Zulassung zur Modulprüfung verwehrt. 
+Wiederholbarkeit: Ein schriftlicher Leistungsnachweis als Modulprüfung kann zweimal wiederholt werden.  
+Ein nicht bestandener schriftlicher Leistungsnachweis, wie Hausarbeit etc., führt nicht zur Wiederholung des 
+Kurses, sondern zu seiner Nachbesserung. Der schriftliche Leistungsnachweis ist nach der Rückgabe innerhalb 
+einer Frist von vier Wochen zu überarbeiten und zur erneuten Bewertung vorzulegen. Ist der schriftliche 
+Leistungsnachweis auch nach der ersten Wiederholung nicht bestanden, wird dem Studierenden eine weitere 
+Frist von acht Wochen zur nochmaligen Vorlegung gesetzt. Wird der schriftliche Leistungsnachweis auch nach 
+dieser zweiten Wiederholung als nicht ausreichend bewertet, führt dies zum endgültigen Nichtbestehen des 
+Moduls. Auch eine Überschreitung der Abgabefristen führt zum Nichtbestehen des jeweiligen Versuchs. Ist 
+keine Wiederholung der Prüfung vorgesehen, muss der Kurs bei Nichtbestehen wiederholt werden. 
+ KUGBA-M09 
+ 
+1. Name des Moduls:  Exkursionen/Kolloquium 
+2. Fachgebiet / Verantwortlich:  Kunstgeschichte/ Prof. Dr. Dietl, Prof. Dr. Jachmann, 
+Prof. Dr. Schöller, Prof. Dr. Wagner, Dr. Delarue 
+3. Inhalte des Moduls:  In dem Modul werden Kenntnisse im Umgang mit 
+Originalen, der Einschätzung ihres Erhaltungszustandes 
+und in der Reflexion kuratorischer Praxis vermittelt. 
+4. Qualifikationsziele des Moduls / zu  Nach erfolgreicher Beendigung dieses Moduls sind die 
+erwerbende Kompetenzen:  Studierenden in der Lage, die in der Theorie erlernten 
+Kenntnisse vor dem Original anzuwenden. 
+5. Teilnahmevoraussetzungen:   
+a) empfohlene Kenntnisse:  keine 
+b) verpflichtende Nachweise:  keine 
+6. Verwendbarkeit des Moduls:  BA Kunstgeschichte: 1. Hauptfach 
+7. Angebotsturnus des Moduls:  mindestens eine Veranstaltung pro Semester 
+8. Das Modul kann absolviert werden in:  sechs Semestern 
+9. Empfohlenes Fachsemester:  2 bis 5 
+10. Arbeitsaufwand des Moduls  Arbeitsaufwand: 
+(Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: ca. 180  
+davon: 
+Präsenzzeit: ca. 10 Stunden pro Tagesexkursion 
+ 
+Leistungspunkte: 7 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind: 
+12. Modulbestandteile: 
+Nr  P /  Lehr- Themenbereich/Thema  SWS /  Studienleistungen  LP 
+W form  Std. 
+P 
+1  P  E  12 Tagesexkursionen    Aktive Teilnahme und/oder Referat  6 
+2  P  KL  Kolloquium    Referat  1 
+13. Modulprüfung 
+Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr  Kompetenz / Thema 
+Prüfung  Bemerkungen  Modulnote 
+1           
+14. Bemerkungen:  
+Modulprüfung: Das Modul bleibt unbenotet. Stellt der Prüfer die Nichterbringung der geforderten 
+Studienleistungen fest, wird die Teilnahme an Exkursionen und dem Kolloquium nicht bestätigt. 
+   KUGBA-2HF-M08 
+1.Name des Moduls: Digitale Kunstgeschichte und kunsthistorische Praxis für 
+zweites Hauptfach Kunstgeschichte 
+2.Fachgebiet / Verantwortlich: Kunstgeschichte/ Prof. Dr. Dietl, Prof. Dr. Jachmann, 
+Prof. Dr. Schöller, Prof. Dr. Wagner, Dr. Delarue 
+3.Inhalte des Moduls: In diesem Modul wird die Gelegenheit eröffnet, das Feld 
+der digitalen Kunstgeschichte kennenzulernen, praktische 
+Erfahrungen in den Arbeitsfeldern des Studienfaches zu 
+sammeln und im Rahmen des Praxisseminars kritisch zu 
+reflektieren. 
+4.Qualifikationsziele des Moduls / zu Nach erfolgreicher Beendigung dieses Moduls kennen 
+erwerbende Kompetenzen:  die Studierenden Arbeitstechniken der Digitalen 
+Kunstgeschichte und die Anforderungen eines 
+spezifischen Berufsfeldes des Faches. Sie haben die für 
+den jeweiligen Arbeitsbereich nötigen Grundkenntnisse 
+erworben und können ihre weitere Studienplanung ggf. 
+selbstständig auf ein Berufsziel in diesem Bereich hin 
+optimieren. 
+5.Teilnahmevoraussetzungen:
+a)empfohlene Kenntnisse: keine 
+b)verpflichtende Nachweise: keine 
+6.Verwendbarkeit des Moduls: BA Kunstgeschichte: 2. Hauptfach 
+7.Angebotsturnus des Moduls: mindestens einmal pro Studienjahr 
+8.Das Modul kann absolviert werden in: drei bis maximal vier Semestern 
+9.Empfohlenes Fachsemester: 1 bis 6 
+10.Arbeitsaufwand des Moduls Arbeitsaufwand: 
+(Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: ca. 210 
+davon: 
+Präsenzzeit: 90 Stunden (2 SWS + 6 Tagesexkursionen 
+zu je ca. 10 Stunden) 
+Leistungspunkte: 7 LP 
+11.Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12.Modulbestandteile:
+Nr  P /  Lehrform  Themenbereich/Thema  SWS /  Studienleistungen  LP 
+W Std. 
+P 
+1  P  S  Praxisseminar  2  Aktive Teilnahme (je nach  4 
+Kurswahl); Vorbereitung von 
+Lektüre, Referat und/oder 
+Übungsaufgaben 
+2  P  E  6 Tagesexkursion  Aktive Teilnahme und/oder Referat  3 
+13.Modulprüfung
+Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr  Kompetenz / Thema 
+Prüfung  Bemerkungen  Modulnote 
+1  zielgruppenorientiertes  Hausarbeit,  Schriftliche andere  100% 
+Schreiben, Ausarbeiten  Essay oder  Prüfungsleistung: 10-15 
+eines Referats,  Bericht  Seiten 
+Dokumentation der eigenen Arbeit  Abgabefrist 
+Sommersemester: 30.9., 
+Wintersemester: 31.3 
+14.Bemerkungen:
+Praxisseminare behandeln Themen, die entweder zum Bereich der Digitalen Kunstgeschichte gehören oder 
+zu einem anderen praxisnahen Teilbereich des Faches, wie beispielsweise Provenienzforschung, Museologie, 
+Denkmalpflege oder der Kunstmarkt. Praxisseminare, insb. aus dem Bereich der Digitalen Kunstgeschichte, 
+können die aktive Teilnahme als Studienleistung verlangen. 
+Modulprüfung: Stellt der Prüfer die Nichterbringung der geforderten Studienleistungen fest, wird dem 
+Prüfling die Zulassung zur Modulprüfung verwehrt. 
+Wiederholbarkeit: Ein schriftlicher Leistungsnachweis als Modulprüfung kann zweimal wiederholt werden. 
+Ein nicht bestandener schriftlicher Leistungsnachweis, wie Hausarbeit etc., führt nicht zur Wiederholung des 
+Kurses, sondern zu seiner Nachbesserung. Der schriftliche Leistungsnachweis ist nach der Rückgabe 
+innerhalb einer Frist von vier Wochen zu überarbeiten und zur erneuten Bewertung vorzulegen. Ist der 
+schriftliche Leistungsnachweis auch nach der ersten Wiederholung nicht bestanden, wird dem Studierenden 
+eine weitere Frist von acht Wochen zur nochmaligen Vorlegung gesetzt. Wird der schriftliche 
+Leistungsnachweis auch nach dieser zweiten Wiederholung als nicht ausreichend bewertet, führt dies zum 
+endgültigen Nichtbestehen des Moduls. Auch eine Überschreitung der Abgabefristen führt zum 
+Nichtbestehen. Ist keine Wiederholung der Prüfung vorgesehen, muss der Kurs bei Nichtbestehen wiederholt 
+werden. KUGBA-NF-M08 
+1.Name des Moduls: Digitale Kunstgeschichte und kunsthistorische Praxis für 
+Nebenfach Kunstgeschichte 
+2.Fachgebiet / Verantwortlich: Kunstgeschichte/ Prof. Dr. Dietl, Prof. Dr. Jachmann, 
+Prof. Dr. Schöller, Prof. Dr. Wagner, Dr. Delarue 
+3.Inhalte des Moduls: In diesem Modul wird die Gelegenheit eröffnet, das Feld 
+der digitalen Kunstgeschichte kennenzulernen, praktische 
+Erfahrungen in den Arbeitsfeldern des Studienfaches zu 
+sammeln und im Rahmen des Praxisseminars kritisch zu 
+reflektieren. 
+4.Qualifikationsziele des Moduls / zu Nach erfolgreicher Beendigung dieses Moduls kennen 
+erwerbende Kompetenzen:  die Studierenden Arbeitstechniken der Digitalen 
+Kunstgeschichte und die Anforderungen eines 
+spezifischen Berufsfeldes des Faches. Sie haben die für 
+den jeweiligen Arbeitsbereich nötigen Grundkenntnisse 
+erworben und können ihre weitere Studienplanung ggf. 
+selbstständig auf ein Berufsziel in diesem Bereich hin 
+optimieren. 
+5.Teilnahmevoraussetzungen:
+a)empfohlene Kenntnisse: keine 
+b)verpflichtende Nachweise: keine 
+6.Verwendbarkeit des Moduls: BA Kunstgeschichte: Nebenfach 
+7.Angebotsturnus des Moduls: mindestens einmal pro Studienjahr 
+8.Das Modul kann absolviert werden in: drei bis maximal vier Semestern 
+9.Empfohlenes Fachsemester: 1 bis 6 
+10.Arbeitsaufwand des Moduls Arbeitsaufwand: 
+(Workload) / Anzahl Leistungspunkte:  Gesamt in Stunden: ca. 270 
+davon: 
+Präsenzzeit: 80 Stunden (4 SWS + 2 Tagesexkursionen 
+zu je ca. 10 Stunden) 
+Leistungspunkte: 9 LP 
+11.Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12.Modulbestandteile:
+Nr  P /  Lehrform  Themenbereich/Thema  SWS /  Studienleistungen  LP 
+W Std. 
+P 
+1  P  V Vorlesung  2  Klausur  4 
+2  P  S  Praxisseminar  2  Aktive Teilnahme (je nach  4 
+Kurswahl); Vorbereitung von 
+Lektüre, Referat und/oder 
+Übungsaufgaben 
+3  P  E  2 Tagesexkursion  Aktive Teilnahme und/oder  1 
+Referat 
+13.Modulprüfung
+Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr  Kompetenz / Thema 
+Prüfung  Bemerkungen  Modulnote 1  zielgruppenorientiertes  Hausarbeit,  Schriftliche andere  100% 
+Schreiben, Ausarbeiten  Essay oder  Prüfungsleistung: 10-15 
+eines Referats,  Bericht  Seiten 
+Dokumentation der 
+eigenen Arbeit  Abgabefrist 
+Sommersemester: 30.9., 
+Wintersemester: 31.3 
+14.Bemerkungen:
+Praxisseminare behandeln Themen, die entweder zum Bereich der Digitalen Kunstgeschichte gehören oder 
+zu einem anderen praxisnahen Teilbereich des Faches, wie beispielsweise Provenienzforschung, Museologie, 
+Denkmalpflege oder der Kunstmarkt. Praxisseminare, insb. aus dem Bereich der Digitalen Kunstgeschichte, 
+können die aktive Teilnahme als Studienleistung verlangen. 
+Modulprüfung: Stellt der Prüfer die Nichterbringung der geforderten Studienleistungen fest, wird dem 
+Prüfling die Zulassung zur Modulprüfung verwehrt. 
+Wiederholbarkeit: Ein schriftlicher Leistungsnachweis als Modulprüfung kann zweimal wiederholt werden. 
+Ein nicht bestandener schriftlicher Leistungsnachweis, wie Hausarbeit etc., führt nicht zur Wiederholung des 
+Kurses, sondern zu seiner Nachbesserung. Der schriftliche Leistungsnachweis ist nach der Rückgabe 
+innerhalb einer Frist von vier Wochen zu überarbeiten und zur erneuten Bewertung vorzulegen. Ist der 
+schriftliche Leistungsnachweis auch nach der ersten Wiederholung nicht bestanden, wird dem Studierenden 
+eine weitere Frist von acht Wochen zur nochmaligen Vorlegung gesetzt. Wird der schriftliche 
+Leistungsnachweis auch nach dieser zweiten Wiederholung als nicht ausreichend bewertet, führt dies zum 
+endgültigen Nichtbestehen des Moduls. Auch eine Überschreitung der Abgabefristen führt zum 
+Nichtbestehen. Ist keine Wiederholung der Prüfung vorgesehen, muss der Kurs bei Nichtbestehen wiederholt 
+werden. 

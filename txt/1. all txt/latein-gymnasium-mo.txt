@@ -1,0 +1,925 @@
+input_dictionary = Stand: WS 11/12 
+LAT - M 101
+ 
+ 
+ 
+ 
+1. Name des Moduls:  Basismodul Lat. Literaturwissenschaft 
+ 
+2. Fachgebiet / Verantwortlich:  Klassische Philologie (Latein) 
+Dr. Andreas Hagmaier, Dr. Rainer Held 
+ 
+3. Inhalte / Lehrziele:  Vermittlung von Grundkenntnissen zum Umgang mit lateinischen 
+Texten (z. B. Primär- und Sekundärliteratur, bibliograph. Hilfs-
+mittel und Bibliographieren, Textgeschichte und -kritik, Metrik, 
+Mythologie, Literatur- und Gattungsgeschichte, Geschichte, Rhe-
+torik) 
+ 
+4. Voraussetzungen:   
+a) allgemeiner Art   
+b) vorausgesetzte universitäre Veranstaltungen:   
+5. Bedingungen:   
+- verwendbar in:  Bachelor (Lat. Philologie HF, NF) 
+Lehramt (Latein) 
+ 
+- nicht verwendbar in / nicht kombinierbar mit:   
+6. Wie häufig wird das Modul angeboten:  Die Veranstaltungen werden mindestens einmal 
+pro Jahr angeboten; 
+genaue Beschreibung im Kommentierten Vorle-
+sungsverzeichnis: 
+‚Klassische Altertumswissenschaften‘ 
+ 
+7. In welcher Zeit kann das Modul absolviert werden?  1-2 Semester 
+ 
+8. Zusammensetzung: 
+ 
+Nr.  Veranstaltungen  SWS  LP 
+  A Pflichtbereich     
+1  Einführung in das Studium der Klass. Philologie  2  2 
+2  Einführung in eine Teildisziplin  2  2 
+       
+       
+       
+  B Wahlbereich     
+       
+  mit oder ohne Nachweis von LP     
+       
+  Summe aus dem Pflichtbereich  4  4 
+ 
+9.  Alle Veranstaltungen sind innerhalb der für den Abschluss des Studiengangs gesetzten Frist einmal 
+  wiederholbar. 
+ 
+10. Die Modulnote ergibt sich aus den in den Veranstaltungen Nr. 1 + 2 erreichten Noten (1:1). 
+ Stand: WS 11/12 
+LAT - M 102
+ 
+ 
+ 
+ 
+1. Name des Moduls:  Aufbaumodul Lat. Literaturwissenschaft I (Prosa) 
+ 
+2. Fachgebiet / Verantwortlich:  Klassische Philologie (Latein) 
+Dr. Andreas Hagmaier, Dr. Rainer Held 
+ 
+3. Inhalte / Lehrziele:  Anleitung zum selbständigen Umgang mit lat. Texten in Anwen-
+dung der Inhalte des Basismoduls. 
+Erwerb von Kenntnissen in lateinischer Literatur (-wissenschaft 
+und -geschichte Prosa); Einübung von Methoden der Interpreta-
+tion. 
+ 
+4. Voraussetzungen:   
+a) allgemeiner Art   
+b) vorausgesetzte universitäre Veranstaltungen:  Einführung in das Studium der Klass. Phil. 
+ 
+5. Bedingungen:   
+- verwendbar in:  Bachelor (Lat. Philologie HF, NF) 
+Lehramt (Latein) 
+ 
+- nicht verwendbar in / nicht kombinierbar mit:   
+6. Wie häufig wird das Modul angeboten:  Die Veranstaltungen werden mindestens einmal 
+pro Jahr angeboten; 
+genaue Beschreibung im Kommentierten Vorle-
+sungsverzeichnis: 
+‚Klassische Altertumswissenschaften‘ 
+ 
+7. In welcher Zeit kann das Modul absolviert werden?  1-2 Semester 
+ 
+8. Zusammensetzung: 
+ 
+Nr.  Veranstaltungen  SWS  LP 
+  A Pflichtbereich     
+1  Proseminar Prosa  2  4 
+2  Vorlesung Prosa  2  2 
+       
+       
+       
+  B Wahlbereich     
+       
+  mit oder ohne Nachweis von LP     
+       
+  Summe aus dem Pflichtbereich  4  6 
+ 
+9.  Alle Veranstaltungen sind innerhalb der für den Abschluss des Studiengangs gesetzten Frist einmal 
+  wiederholbar. 
+ 
+10. Die Modulnote ergibt sich aus den in den Veranstaltungen Nr. 1 + 2 erreichten Noten (3:1). 
+ Stand: WS 11/12 
+LAT - M 103
+ 
+ 
+ 
+ 
+1. Name des Moduls:  Aufbaumodul Lat. Literaturwissenschaft II (Poesie) 
+ 
+2. Fachgebiet / Verantwortlich:  Klassische Philologie (Latein) 
+Dr. Andreas Hagmaier, Dr. Rainer Held 
+ 
+3. Inhalte / Lehrziele:  Anleitung zum selbständigen Umgang mit lat. Texten in Anwen-
+dung der Inhalte des Basismoduls. 
+Erwerb von Kenntnissen in lateinischer Literatur (-wissenschaft 
+und -geschichte Poesie); Einübung von Methoden der Interpreta-
+tion. 
+ 
+4. Voraussetzungen:   
+a) allgemeiner Art   
+b) vorausgesetzte universitäre Veranstaltungen:  Einführung in das Studium der Klass. Phil. 
+ 
+5. Bedingungen:   
+- verwendbar in:  Bachelor (Lat. Philologie HF, NF) 
+Lehramt (Latein) 
+ 
+- nicht verwendbar in / nicht kombinierbar mit:   
+6. Wie häufig wird das Modul angeboten:  Die Veranstaltungen werden mindestens einmal 
+pro Jahr angeboten; 
+genaue Beschreibung im Kommentierten Vorle-
+sungsverzeichnis: 
+‚Klassische Altertumswissenschaften‘ 
+ 
+7. In welcher Zeit kann das Modul absolviert werden?  1-2 Semester 
+ 
+8. Zusammensetzung: 
+ 
+Nr.  Veranstaltungen  SWS  LP 
+  A Pflichtbereich     
+1  Proseminar Poesie  2  4 
+2  Vorlesung Poesie  2  2 
+       
+       
+       
+  B Wahlbereich     
+       
+  mit oder ohne Nachweis von LP     
+       
+  Summe aus dem Pflichtbereich  4  6 
+ 
+9.  Alle Veranstaltungen sind innerhalb der für den Abschluss des Studiengangs gesetzten Frist einmal 
+  wiederholbar. 
+ 
+10. Die Modulnote ergibt sich aus den in den Veranstaltungen Nr. 1 + 2 erreichten Noten (3:1). 
+ Stand: WS 11/12 
+LAT - M 106
+ 
+ 
+ 
+ 
+1. Name des Moduls:  Vertiefungsmodul Lat. Literaturwissenschaft I (Prosa) 
+ 
+2. Fachgebiet / Verantwortlich:  Klassische Philologie (Latein) 
+Prof. Dr. Jan Beck 
+ 
+3. Inhalte / Lehrziele:  Vertiefung der Kenntnisse in lateinischer Literatur 
+(-wissenschaft und -geschichte Prosa); selbständige Interpretation 
+als Examensvorbereitung. 
+ 
+4. Voraussetzungen:   
+a) allgemeiner Art   
+b) vorausgesetzte universitäre Veranstaltungen:  Aufbaumodul Lat. Literaturwissenschaft I (Prosa) 
+Aufbaumodul Lat. Literaturwissenschaft II (Poesie) 
+Aufbaumodul Lat. Sprachpraxis 
+ 
+5. Bedingungen:   
+- verwendbar in:  Bachelor (Lat. Philologie HF) 
+Lehramt (Latein) 
+ 
+- nicht verwendbar in / nicht kombinierbar mit:   
+6. Wie häufig wird das Modul angeboten:  Die Veranstaltungen werden mindestens einmal 
+pro Jahr angeboten; 
+genaue Beschreibung im Kommentierten Vorle-
+sungsverzeichnis: 
+‚Klassische Altertumswissenschaften‘ 
+ 
+7. In welcher Zeit kann das Modul absolviert werden?  1-2 Semester 
+ 
+8. Zusammensetzung: 
+ 
+Nr.  Veranstaltungen  SWS  LP 
+  A Pflichtbereich     
+1  Hauptseminar Prosa  2  7 
+2  Vorlesung Prosa  2  2 
+3  Interpretationsübung Prosa  2  2 
+       
+       
+  B Wahlbereich     
+       
+  mit oder ohne Nachweis von LP     
+       
+  Summe aus dem Pflichtbereich  6  11 
+ 
+9.  Alle Veranstaltungen sind innerhalb der für den Abschluss des Studiengangs gesetzten Frist einmal 
+  wiederholbar. 
+ 
+10. Die Modulnote ergibt sich aus den in den Veranstaltungen Nr. 1 + 2 erreichten Noten (3:1). 
+ Stand: WS 11/12 
+LAT - M 107
+ 
+ 
+ 
+ 
+1. Name des Moduls:  Vertiefungsmodul Lat. Literaturwissenschaft II (Poesie) 
+ 
+2. Fachgebiet / Verantwortlich:  Klassische Philologie (Latein) 
+Prof. Dr. Jan Beck 
+ 
+3. Inhalte / Lehrziele:  Vertiefung der Kenntnisse in lateinischer Literatur 
+(-wissenschaft und -geschichte Poesie); selbständige Interpretati-
+on als Examensvorbereitung. 
+ 
+4. Voraussetzungen:   
+a) allgemeiner Art   
+b) vorausgesetzte universitäre Veranstaltungen:  Aufbaumodul Lat. Literaturwissenschaft I (Prosa) 
+Aufbaumodul Lat. Literaturwissenschaft II (Poesie) 
+Aufbaumodul Lat. Sprachpraxis 
+ 
+5. Bedingungen:   
+- verwendbar in:  Bachelor (Lat. Philologie HF) 
+Lehramt (Latein) 
+ 
+- nicht verwendbar in / nicht kombinierbar mit:   
+6. Wie häufig wird das Modul angeboten:  Die Veranstaltungen werden mindestens einmal 
+pro Jahr angeboten; 
+genaue Beschreibung im Kommentierten Vorle-
+sungsverzeichnis: 
+‚Klassische Altertumswissenschaften‘ 
+ 
+7. In welcher Zeit kann das Modul absolviert werden?  1-2 Semester 
+ 
+8. Zusammensetzung: 
+ 
+Nr.  Veranstaltungen  SWS  LP 
+  A Pflichtbereich     
+1  Hauptseminar Poesie  2  7 
+2  Vorlesung Poesie  2  2 
+3  Interpretationsübung Poesie  2  2 
+       
+       
+  B Wahlbereich     
+       
+  mit oder ohne Nachweis von LP     
+       
+  Summe aus dem Pflichtbereich  6  11 
+ 
+9.  Alle Veranstaltungen sind innerhalb der für den Abschluss des Studiengangs gesetzten Frist einmal 
+  wiederholbar. 
+ 
+10. Die Modulnote ergibt sich aus den in den Veranstaltungen Nr. 1 + 2 erreichten Noten (3:1). 
+ Stand: WS 11/12 
+LAT - M 201
+ 
+ 
+ 
+ 
+1. Name des Moduls:  Basismodul Lat. Lektürepraxis 
+ 
+2. Fachgebiet / Verantwortlich:  Klassische Philologie (Latein) 
+Dr. Andreas Hagmaier, Dr. Rainer Held 
+ 
+3. Inhalte / Lehrziele:  sprachliche und inhaltliche Erfassung je eines Werkes oder 
+Werkausschnittes eines lateinischen Prosaikers und eines lateini-
+schen Dichters in einem für Studienanfänger angemessenen 
+Schwierigkeitsgrad; begleitete Lektüre und einführende Anleitung 
+zur eigenständigen Lektüre. 
+ 
+4. Voraussetzungen:   
+a) allgemeiner Art   
+b) vorausgesetzte universitäre Veranstaltungen:   
+5. Bedingungen:   
+- verwendbar in:  Bachelor (Lat. Philologie HF, NF) 
+Lehramt (Latein) 
+ 
+- nicht verwendbar in / nicht kombinierbar mit:   
+6. Wie häufig wird das Modul angeboten:  Die Veranstaltungen werden mindestens einmal 
+pro Jahr angeboten; 
+genaue Beschreibung im Kommentierten Vorle-
+sungsverzeichnis: 
+‚Klassische Altertumswissenschaften‘ 
+ 
+7. In welcher Zeit kann das Modul absolviert werden?  1-2 Semester 
+ 
+8. Zusammensetzung: 
+ 
+Nr.  Veranstaltungen  SWS  LP 
+  A Pflichtbereich     
+1  Lektüreübung oder -prüfung Prosa  2  2 
+2  Lektüreübung oder -prüfung Poesie  2  2 
+       
+       
+       
+  B Wahlbereich     
+       
+  mit oder ohne Nachweis von LP     
+       
+  Summe aus dem Pflichtbereich  4  4 
+ 
+9.  Alle Veranstaltungen sind innerhalb der für den Abschluss des Studiengangs gesetzten Frist einmal 
+  wiederholbar. 
+ 
+10. Die Modulnote ergibt sich aus den in den Veranstaltungen Nr. 1 + 2 erreichten Noten (1:1). 
+ Stand: WS 11/12 
+LAT - M 202
+ 
+ 
+ 
+ 
+1. Name des Moduls:  Aufbaumodul Lat. Lektürepraxis 
+ 
+2. Fachgebiet / Verantwortlich:  Klassische Philologie (Latein) 
+Dr. Andreas Hagmaier, Dr. Rainer Held 
+ 
+3. Inhalte / Lehrziele:  sprachliche und inhaltliche Erfassung je eines Werkes oder 
+Werkausschnittes eines lateinischen Prosaikers und eines lateini-
+schen Dichters von mittlerem Schwierigkeitsgrad; begleitete Lek-
+türe und Anleitung zur eigenständigen Lektüre auch größerer 
+Textmengen. 
+ 
+4. Voraussetzungen:   
+a) allgemeiner Art   
+b) vorausgesetzte universitäre Veranstaltungen:  Basismodul Lat. Lektürepraxis 
+5. Bedingungen:   
+- verwendbar in:  Bachelor (Lat. Philologie NF) 
+Lehramt (Latein) 
+ 
+- nicht verwendbar in / nicht kombinierbar mit:   
+6. Wie häufig wird das Modul angeboten:  Die Veranstaltungen werden mindestens einmal 
+pro Jahr angeboten; 
+genaue Beschreibung im Kommentierten Vorle-
+sungsverzeichnis: 
+‚Klassische Altertumswissenschaften‘ 
+ 
+7. In welcher Zeit kann das Modul absolviert werden?  1-2 Semester 
+ 
+8. Zusammensetzung: 
+ 
+Nr.  Veranstaltungen  SWS  LP 
+  A Pflichtbereich     
+1  Lektüreübung oder -prüfung Prosa  2  2 
+2  Lektüreübung oder -prüfung Poesie  2  2 
+       
+       
+       
+  B Wahlbereich     
+       
+  mit oder ohne Nachweis von LP     
+       
+  Summe aus dem Pflichtbereich  4  4 
+ 
+9.  Alle Veranstaltungen sind innerhalb der für den Abschluss des Studiengangs gesetzten Frist einmal 
+  wiederholbar. 
+ 
+10. Die Modulnote ergibt sich aus den in den Veranstaltungen Nr. 1 + 2 erreichten Noten (1:1). 
+ Stand: WS 11/12 
+LAT - M 206
+ 
+ 
+ 
+ 
+1. Name des Moduls:  Vertiefungsmodul Lat. Lektürepraxis I (Prosa) 
+ 
+2. Fachgebiet / Verantwortlich:  Klassische Philologie (Latein) 
+Prof. Dr. Jan Beck 
+ 
+3. Inhalte / Lehrziele:  sprachliche und inhaltliche Erfassung zweier Werke oder 
+Werkausschnitte lateinischer Prosaiker von anspruchsvollerem 
+Schwierigkeitsgrad; begleitete Lektüre und Anleitung zur eigen-
+ständigen Lektüre umfangreicher Textmengen in Prosa. 
+ 
+4. Voraussetzungen:   
+a) allgemeiner Art   
+b) vorausgesetzte universitäre Veranstaltungen:  Aufbaumodul Lat. Lektürepraxis 
+5. Bedingungen:   
+- verwendbar in:  Lehramt (Latein) 
+ 
+- nicht verwendbar in / nicht kombinierbar mit:   
+6. Wie häufig wird das Modul angeboten:  Die Veranstaltungen werden mindestens einmal 
+pro Jahr angeboten; 
+genaue Beschreibung im Kommentierten Vorle-
+sungsverzeichnis: 
+‚Klassische Altertumswissenschaften‘ 
+ 
+7. In welcher Zeit kann das Modul absolviert werden?  1-2 Semester 
+ 
+8. Zusammensetzung: 
+ 
+Nr.  Veranstaltungen  SWS  LP 
+  A Pflichtbereich     
+1  Lektüreübung oder -prüfung Prosa  2  2 
+2  Lektüreübung oder -prüfung Prosa  2  2 
+       davon mindestens 1 mündlich     
+       
+       
+  B Wahlbereich     
+       
+  mit oder ohne Nachweis von LP     
+       
+  Summe aus dem Pflichtbereich  4  4 
+ 
+9.  Alle Veranstaltungen sind innerhalb der für den Abschluss des Studiengangs gesetzten Frist einmal 
+  wiederholbar. 
+ 
+10. Die Modulnote ergibt sich aus einer mündlichen Lektüreprüfung der Veranstaltungen Nr. 1 oder 2. 
+ Stand: WS 11/12 
+LAT - M 207
+ 
+ 
+ 
+ 
+1. Name des Moduls:  Vertiefungsmodul Lat. Lektürepraxis II (Poesie) 
+ 
+2. Fachgebiet / Verantwortlich:  Klassische Philologie (Latein) 
+Prof. Dr. Jan Beck 
+ 
+3. Inhalte / Lehrziele:  sprachliche und inhaltliche Erfassung zweier Werke oder 
+Werkausschnitte lateinischer Dichter von anspruchsvollerem 
+Schwierigkeitsgrad; begleitete Lektüre und Anleitung zur eigen-
+ständigen Lektüre umfangreicher Textmengen in Poesie. 
+ 
+4. Voraussetzungen:   
+a) allgemeiner Art   
+b) vorausgesetzte universitäre Veranstaltungen:  Aufbaumodul Lat. Lektürepraxis 
+5. Bedingungen:   
+- verwendbar in:  Lehramt (Latein) 
+ 
+- nicht verwendbar in / nicht kombinierbar mit:   
+6. Wie häufig wird das Modul angeboten:  Die Veranstaltungen werden mindestens einmal 
+pro Jahr angeboten; 
+genaue Beschreibung im Kommentierten Vorle-
+sungsverzeichnis: 
+‚Klassische Altertumswissenschaften‘ 
+ 
+7. In welcher Zeit kann das Modul absolviert werden?  1-2 Semester 
+ 
+8. Zusammensetzung: 
+ 
+Nr.  Veranstaltungen  SWS  LP 
+  A Pflichtbereich     
+1  Lektüreübung oder -prüfung Poesie  2  2 
+2  Lektüreübung oder -prüfung Poesie  2  2 
+       davon mindestens 1 mündlich     
+       
+       
+  B Wahlbereich     
+       
+  mit oder ohne Nachweis von LP     
+       
+  Summe aus dem Pflichtbereich  4  4 
+ 
+9.  Alle Veranstaltungen sind innerhalb der für den Abschluss des Studiengangs gesetzten Frist einmal 
+  wiederholbar. 
+ 
+10. Die Modulnote ergibt sich aus einer mündlichen Lektüreprüfung der Veranstaltungen Nr. 1 oder 2. 
+ Stand: WS 11/12 
+LAT - M 301
+ 
+ 
+ 
+ 
+1. Name des Moduls:  Basismodul Lat. Sprachpraxis 
+ 
+2. Fachgebiet / Verantwortlich:  Klassische Philologie (Latein) 
+Dr. Andreas Hagmaier, Dr. Rainer Held 
+ 
+3. Inhalte / Lehrziele:  Einblick in die lateinische Grammatik; Techniken der Überset-
+zung einfacherer lateinischer Texte (meist Prosa) ins Deutsche; 
+Hinführung zur Übersetzung deutscher Texte ins Lateinische auf 
+einem für Studienanfänger geeigneten Anforderungsniveau. 
+ 
+4. Voraussetzungen:   
+a) allgemeiner Art   
+b) vorausgesetzte universitäre Veranstaltungen:   
+5. Bedingungen:   
+- verwendbar in:  Bachelor (Lat. Philologie HF, NF) 
+Lehramt (Latein) 
+ 
+- nicht verwendbar in / nicht kombinierbar mit:   
+6. Wie häufig wird das Modul angeboten:  Die Veranstaltungen werden mindestens einmal 
+pro Jahr angeboten; 
+genaue Beschreibung im Kommentierten Vorle-
+sungsverzeichnis: 
+‚Klassische Altertumswissenschaften‘ 
+ 
+7. In welcher Zeit kann das Modul absolviert werden?  1-2 Semester 
+ 
+8. Zusammensetzung: 
+ 
+Nr.  Veranstaltungen  SWS  LP 
+  A Pflichtbereich     
+1  Übersetzung D-L Unterstufe  2  2 
+2  Übersetzung L-D Unterstufe  2  2 
+3  Übersetzung D-L (oder L-D) Unterstufe  2  2 
+       
+       
+  B Wahlbereich     
+       
+  mit oder ohne Nachweis von LP     
+       
+  Summe aus dem Pflichtbereich  6  6 
+ 
+9.  Alle Veranstaltungen sind innerhalb der für den Abschluss des Studiengangs gesetzten Frist einmal 
+  wiederholbar. 
+ 
+10.  Die Modulnote ergibt sich aus zwei der in den Veranstaltungen Nr. 1 + 2 + 3 erreichten Noten 
+   (D-L und L-D, 1:1). 
+ Stand: WS 11/12 
+LAT - M 302
+ 
+ 
+ 
+ 
+1. Name des Moduls:  Aufbaumodul Lat. Sprachpraxis 
+ 
+2. Fachgebiet / Verantwortlich:  Klassische Philologie (Latein) 
+Dr. Andreas Hagmaier, Dr. Rainer Held 
+ 
+3. Inhalte / Lehrziele:  Vertiefung der Kenntnisse der lateinischen Grammatik; Einblick 
+in die lateinische Stilistik; Einüben der Techniken der Überset-
+zung lateinischer Texte (Prosa und Poesie) von mittlerem Schwie-
+rigkeitsgrad ins Deutsche; Übersetzung zusammenhängender 
+deutscher Texte ins Lateinische auf einem mittleren Anforde-
+rungsniveau. 
+ 
+4. Voraussetzungen:   
+a) allgemeiner Art   
+b) vorausgesetzte universitäre Veranstaltungen:  Basismodul Lat. Sprachpraxis 
+5. Bedingungen:   
+- verwendbar in:  Bachelor (Lat. Philologie HF) 
+Lehramt (Latein) 
+ 
+- nicht verwendbar in / nicht kombinierbar mit:   
+6. Wie häufig wird das Modul angeboten:  Die Veranstaltungen werden mindestens einmal 
+pro Jahr angeboten; 
+genaue Beschreibung im Kommentierten Vorle-
+sungsverzeichnis: 
+‚Klassische Altertumswissenschaften‘ 
+ 
+7. In welcher Zeit kann das Modul absolviert werden?  1-2 Semester 
+ 
+8. Zusammensetzung: 
+ 
+Nr.  Veranstaltungen  SWS  LP 
+  A Pflichtbereich     
+1  Übersetzung L-D Mittelstufe  2  3 
+2  Übersetzung D-L Mittelstufe  2  3 
+       
+       
+       
+  B Wahlbereich     
+       
+  mit oder ohne Nachweis von LP     
+       
+  Summe aus dem Pflichtbereich  4  6 
+ 
+9.  Alle Veranstaltungen sind innerhalb der für den Abschluss des Studiengangs gesetzten Frist einmal 
+  wiederholbar. 
+ 
+10. Die Modulnote ergibt sich aus einer Modulprüfung gegen Ende der Semesterferien. 
+ Stand: WS 11/12 
+LAT - M 305
+ 
+ 
+ 
+ 
+1. Name des Moduls:  Vertiefungsmodul Lat. Sprachpraxis I (L-D) 
+ 
+2. Fachgebiet / Verantwortlich:  Klassische Philologie (Latein) 
+Dr. Andreas Hagmaier, Dr. Rainer Held 
+ 
+3. Inhalte / Lehrziele:  Beherrschung auch schwieriger Phänomene der lateinischen 
+Grammatik; vertiefter Einblick in die lateinische Stilistik; vertief-
+tes Einüben der Techniken der Übersetzung lateinischer Texte 
+(Prosa und Poesie) von höherem Schwierigkeitsgrad ins Deut-
+sche; Anleitung zur Bearbeitung von Staatsexamensklausuren 
+(Übersetzung Latein-Deutsch) und zur eigenständigen Examens-
+vorbereitung. 
+ 
+4. Voraussetzungen:   
+a) allgemeiner Art   
+b) vorausgesetzte universitäre Veranstaltungen:  Aufbaumodul Lat. Sprachpraxis 
+5. Bedingungen:   
+- verwendbar in:  Lehramt (Latein) 
+ 
+- nicht verwendbar in / nicht kombinierbar mit:   
+6. Wie häufig wird das Modul angeboten:  Die Veranstaltungen werden mindestens einmal 
+pro Jahr angeboten; 
+genaue Beschreibung im Kommentierten Vorle-
+sungsverzeichnis: 
+‚Klassische Altertumswissenschaften‘ 
+ 
+7. In welcher Zeit kann das Modul absolviert werden?  1-2 Semester 
+ 
+8. Zusammensetzung: 
+ 
+Nr.  Veranstaltungen  SWS  LP 
+  A Pflichtbereich     
+1  Übersetzung L-D Oberstufe  2  3 
+2  Übersetzung L-D Oberstufe  2  3 
+3  Klausurenkurs für Examenskandidaten  2  1 
+       
+       
+  B Wahlbereich     
+       
+  mit oder ohne Nachweis von LP     
+       
+  Summe aus dem Pflichtbereich  6  7 
+ 
+9.  Alle Veranstaltungen sind innerhalb der für den Abschluss des Studiengangs gesetzten Frist einmal 
+  wiederholbar. 
+ 
+10.  Die Modulnote ergibt sich aus der Durchschnittsnote von zwei in den Veranstaltungen Nr. 1 + 2 
+   bestandenen Klausuren. 
+ Stand: WS 11/12 
+LAT - M 306
+ 
+ 
+ 
+ 
+1. Name des Moduls:  Vertiefungsmodul Lat. Sprachpraxis II (D-L) 
+ 
+2. Fachgebiet / Verantwortlich:  Klassische Philologie (Latein) 
+Dr. Andreas Hagmaier, Dr. Rainer Held 
+ 
+3. Inhalte / Lehrziele:  Beherrschung auch schwieriger Phänomene der lateinischen 
+Grammatik; vertiefter Einblick in die lateinische Stilistik; Ein-
+blick in die lateinische Phraseologie und Synonymik; Übersetzung 
+zusammenhängender deutscher Texte ins Lateinische auf einem 
+höheren Anforderungsniveau; Anleitung zur Bearbeitung von 
+Staatsexamensklausuren (Übersetzung Deutsch-Latein) und zur 
+eigenständigen Examensvorbereitung. 
+ 
+4. Voraussetzungen:   
+a) allgemeiner Art   
+b) vorausgesetzte universitäre Veranstaltungen:  Aufbaumodul Lat. Sprachpraxis 
+5. Bedingungen:   
+- verwendbar in:  Lehramt (Latein) 
+ 
+- nicht verwendbar in / nicht kombinierbar mit:   
+6. Wie häufig wird das Modul angeboten:  Die Veranstaltungen werden mindestens einmal 
+pro Jahr angeboten; 
+genaue Beschreibung im Kommentierten Vorle-
+sungsverzeichnis: 
+‚Klassische Altertumswissenschaften‘ 
+ 
+7. In welcher Zeit kann das Modul absolviert werden?  1-2 Semester 
+ 
+8. Zusammensetzung: 
+ 
+Nr.  Veranstaltungen  SWS  LP 
+  A Pflichtbereich     
+1  Übersetzung D-L Oberstufe  2  3 
+2  Übersetzung D-L Oberstufe  2  3 
+3  Klausurenkurs für Examenskandidaten  2  1 
+       
+       
+  B Wahlbereich     
+       
+  mit oder ohne Nachweis von LP     
+       
+  Summe aus dem Pflichtbereich  6  7 
+ 
+9.  Alle Veranstaltungen sind innerhalb der für den Abschluss des Studiengangs gesetzten Frist einmal 
+  wiederholbar. 
+ 
+10.  Die Modulnote ergibt sich aus der Durchschnittsnote von zwei in den Veranstaltungen Nr. 1 + 2 
+   bestandenen Klausuren. 
+ Stand: WS 11/12 
+LAT - M 401
+ 
+ 
+ 
+ 
+1. Name des Moduls:  Basismodul Griech. Sprache und Literatur 
+ 
+2. Fachgebiet / Verantwortlich:  Klassische Philologie (Latein) 
+Prof. Dr. Georg Rechenauer 
+ 
+3. Inhalte / Lehrziele:  Grundkenntnisse der griechischen Sprache (Morphologie, Syntax, 
+Wortschatz); Fähigkeit, griechische Originaltexte im sprachlichen 
+Schwierigkeitsgrad etwa einer inhaltlich anspruchvolleren Pla-
+ton- oder Xenophon- Stelle in Inhalt, Aufbau und Aussage zu 
+erfassen und zu übersetzen; Einblick in die Literatur, Philosophie, 
+Geschichte und Kultur der griechischen Antike. 
+ 
+4. Voraussetzungen:   
+a) allgemeiner Art   
+b) vorausgesetzte universitäre Veranstaltungen:   
+5. Bedingungen:   
+- verwendbar in:  Lehramt (Latein) 
+ 
+- nicht verwendbar in / nicht kombinierbar mit:   
+6. Wie häufig wird das Modul angeboten:  Die Veranstaltungen werden mindestens einmal 
+pro Jahr angeboten; 
+genaue Beschreibung im Kommentierten Vorle-
+sungsverzeichnis: 
+‚Klassische Altertumswissenschaften‘ 
+ 
+7. In welcher Zeit kann das Modul absolviert werden?  2 Semester 
+ 
+8. Zusammensetzung: 
+ 
+Nr.  Veranstaltungen  SWS  LP 
+  A Pflichtbereich     
+1  Graecum I  6  5 
+2  Graecum II  6  5 
+       
+       
+       
+  B Wahlbereich     
+       
+  mit oder ohne Nachweis von LP     
+       
+  Summe aus dem Pflichtbereich  12  10 
+ 
+9.  Alle Veranstaltungen sind innerhalb der für den Abschluss des Studiengangs gesetzten Frist einmal 
+  wiederholbar. 
+ 
+10. Die Modulnote ergibt sich aus der Note des staatlichen Graecum. 
+ Stand: WS 11/12 
+LAT - M 403
+1.Name des Moduls: Aufbaumodul Griech. Literaturwissenschaft 
+2.Fachgebiet / Verantwortlich: Klassische Philologie (Latein) 
+Prof. Dr. Georg Rechenauer 
+3.Inhalte / Lehrziele: Erwerb von Kenntnissen in griechischer Literatur (-wissenschaft 
+und -geschichte); Einübung von Methoden der Interpretation 
+griechischer Texte etwa unter Berücksichtigung ihrer Nachwir-
+kung in der lateinischen Literatur; Anwendung der Inhalte des 
+Basismoduls „Griechische Sprache und Literatur“. 
+4.Voraussetzungen:
+a)allgemeiner Art
+b)vorausgesetzte universitäre Veranstaltungen: 
+5.Bedingungen:
+- verwendbar in:  Bachelor (Lat. Philologie HF, NF) 
+Lehramt (Latein) 
+- nicht verwendbar in / nicht kombinierbar mit: 
+6.Wie häufig wird das Modul angeboten: Die Veranstaltungen werden einmal pro Seme-
+ster angeboten; 
+genaue Beschreibung im Kommentierten Vorle-
+sungsverzeichnis: 
+‚Klassische Altertumswissenschaften‘ 
+7.In welcher Zeit kann das Modul absolviert werden?  1-2 Semester
+8.Zusammensetzung:
+Nr.  Veranstaltungen  SWS  LP 
+A Pflichtbereich
+1  Griech. Proseminar  2 3
+2  Griech. Vorlesung  2 2
+B Wahlbereich
+mit oder ohne Nachweis von LP 
+Summe aus dem Pflichtbereich  4  5 
+9. Alle Veranstaltungen sind innerhalb der für den Abschluss des Studiengangs gesetzten Frist einmal
+wiederholbar.
+10.Die Modulnote ergibt sich aus den in den Veranstaltungen Nr. 1 + 2 erreichten Noten (2:1).Stand: WS 11/12 
+LAT - M 501
+ 
+ 
+ 
+ 
+1. Name des Moduls:  Basismodul Antike Kulturwissenschaft 
+ 
+2. Fachgebiet / Verantwortlich:  Klassische Philologie (Latein) 
+Prof. Dr. Jan Beck 
+ 
+3. Inhalte / Lehrziele:  Überblick über die Kultur der Antike; Teilnahme an einer Exkur-
+sion zu einer Stätte der Antike; Einblick in wichtige Themenfelder 
+der Klassischen Archäologie und Alten Geschichte, wahlweise 
+auch der antiken Philosophie, Indogermanistik oder Theologie 
+(insbesondere Patristik). 
+ 
+4. Voraussetzungen:   
+a) allgemeiner Art   
+b) vorausgesetzte universitäre Veranstaltungen:   
+5. Bedingungen:   
+- verwendbar in:  Bachelor (Lat. Philologie HF) 
+Lehramt (Latein) 
+ 
+- nicht verwendbar in / nicht kombinierbar mit:   
+6. Wie häufig wird das Modul angeboten:  Die Veranstaltungen werden mindestens einmal 
+pro Jahr angeboten; 
+genaue Beschreibung im Kommentierten Vorle-
+sungsverzeichnis: 
+‚Klassische Altertumswissenschaften‘ 
+ 
+7. In welcher Zeit kann das Modul absolviert werden?  1-2 Semester 
+ 
+8. Zusammensetzung: 
+ 
+Nr.  Veranstaltungen  SWS  LP 
+  A Pflichtbereich     
+1  Vorlesung Klass. Archäologie  2  2 
+2  Vorlesung Alte Geschichte  2  2 
+3  Übung Klass. Archäologie oder Alte Geschichte  2  2 
+4  Exkursion (mit Exursionsseminar)  (2)  1 (3) 
+       
+Der erfolgreiche Besuch eines Exkursionsseminars kann einen der anderen 
+Nachweise ersetzen; ersatzweise möglich ist auch eine thematisch bezogene 
+Veranstaltung aus z. B. Philosophie, Theologie/Patristik, Indogermanistik. 
+Zwingend notwendig ist jedoch der Besuch von je einer Veranstaltung aus 
+Klass. Archäol. und Alte Geschichte. 
+ 
+  Summe aus dem Pflichtbereich  6  7 
+ 
+9.  Alle Veranstaltungen sind innerhalb der für den Abschluss des Studiengangs gesetzten Frist einmal 
+  wiederholbar. 
+ 
+10. Eine Modulnote wird nicht vergeben. 
+ Stand: WS 11/12 
+LAT - M 601
+ 
+ 
+ 
+ 
+1. Name des Moduls:  Basismodul Lat. Fachdidaktik 
+ 
+2. Fachgebiet / Verantwortlich:  Klassische Philologie (Latein) 
+OStR Harald Kloiber 
+ 
+3. Inhalte / Lehrziele:  Kenntnis der Bildungsaufgaben, Lernziele und Lernbedingungen 
+des Lateinunterrichts; Einblick in Unterrichtsmethoden, Medien 
+und Leistungsmessung im Lateinunterricht; Überblick über Ge-
+schichte und Bedeutung des Faches Latein; Durchführung und 
+Reflexion des Blockpraktikums. 
+ 
+4. Voraussetzungen:   
+a) allgemeiner Art   
+b) vorausgesetzte universitäre Veranstaltungen:   
+5. Bedingungen:   
+- verwendbar in:  Lehramt (Latein) 
+ 
+- nicht verwendbar in / nicht kombinierbar mit:   
+6. Wie häufig wird das Modul angeboten:  Die Veranstaltungen werden mindestens einmal 
+pro Jahr angeboten; 
+genaue Beschreibung im Kommentierten Vorle-
+sungsverzeichnis: 
+‚Klassische Altertumswissenschaften‘ 
+ 
+7. In welcher Zeit kann das Modul absolviert werden?  1-2 Semester 
+ 
+8. Zusammensetzung: 
+ 
+Nr.  Veranstaltungen  SWS  LP 
+  A Pflichtbereich     
+1  Übung Fachdiaktik  2  2 
+2  Seminar Fachdidaktik  2  3 
+       
+       
+       
+  B Wahlbereich     
+       
+  mit oder ohne Nachweis von LP     
+       
+  Summe aus dem Pflichtbereich  4  5 
+ 
+9.  Alle Veranstaltungen sind innerhalb der für den Abschluss des Studiengangs gesetzten Frist einmal 
+  wiederholbar. 
+ 
+10. Die Modulnote ergibt sich aus den in den Veranstaltungen Nr. 1 + 2 erreichten Noten (1:2). 
+ Stand: WS 11/12 
+LAT - M 602
+ 
+ 
+ 
+ 
+1. Name des Moduls:  Vertiefungsmodul Lat. Fachdidaktik 
+ 
+2. Fachgebiet / Verantwortlich:  Klassische Philologie (Latein) 
+OStR Harald Kloiber 
+ 
+3. Inhalte / Lehrziele:  vertiefte Kenntnis der Bildungsaufgaben, Lernziele und Lernbe-
+dingungen des Lateinunterrichts; exemplarisch vertiefter Einblick 
+in Unterrichtsmethoden, Medien und Leistungsmessung im La-
+teinunterricht; gegebenenfalls Durchführung und Reflexion des 
+studienbegleitenden Praktikums; Anwendung der Inhalte des 
+Basismoduls „lateinische Fachdidaktik“. 
+ 
+4. Voraussetzungen:   
+a) allgemeiner Art   
+b) vorausgesetzte universitäre Veranstaltungen:   
+5. Bedingungen:   
+- verwendbar in:  Lehramt (Latein) 
+ 
+- nicht verwendbar in / nicht kombinierbar mit:   
+6. Wie häufig wird das Modul angeboten:  Die Veranstaltungen werden mindestens einmal 
+pro Jahr angeboten; 
+genaue Beschreibung im Kommentierten Vorle-
+sungsverzeichnis: 
+‚Klassische Altertumswissenschaften‘ 
+ 
+7. In welcher Zeit kann das Modul absolviert werden?  1-2 Semester 
+ 
+8. Zusammensetzung: 
+ 
+Nr.  Veranstaltungen  SWS  LP 
+  A Pflichtbereich     
+1  Übung Fachdiaktik  2  2 
+2  Seminar Fachdidaktik  2  3 
+       
+       
+       
+  B Wahlbereich     
+  Studienbegleitendes fachdidaktisches Praktikum, sofern im    3 
+Fach Latein absolviert 
+  mit oder ohne Nachweis von LP     
+       
+  Summe aus dem Pflichtbereich  4  5 
+ 
+9.  Alle Veranstaltungen sind innerhalb der für den Abschluss des Studiengangs gesetzten Frist einmal 
+  wiederholbar. 
+ 
+10. Die Modulnote ergibt sich aus den in den Veranstaltungen Nr. 1 + 2 erreichten Noten (1:2). 
+ 

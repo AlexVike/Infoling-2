@@ -1,0 +1,323 @@
+input_dictionary = Modulhandbuch
+Bachelorfach Medienwissenschaft
+gültig ab Wintersemester 2014/15Inhaltsverzeichnis
+Module
+MED-M 11: Grundlagen der Medienwissenschaft 2
+MED-M 12: Mediengeschichte 4
+MED-M 13: Medientheorie und Medienästhetik 6
+MED-M 14: Medienpraxis 8
+MED-M 19: Theorie und Geschichte digitaler Medien 10
+MED-M 20: Medienkulturanalyse 12Modul: MED-M 11
+Modul: MED-M 11
+Gültig ab WS14/15 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1.Name des Moduls: Grundlagen der Medienwissenschaft
+2.Fachgebiet / Verantwortlich: Prof. Dr. Bernhard Dotzler 
+Prof. Dr. Christiane Heibach
+3.Inhalte des Moduls: Überblick über die Materialobjekte der Mediengeschichte;
+Grundbegriffe der Medientheorie; Überblick über
+medientheoretische Ansätze; Informationstechnische und
+–theoretische Grundkenntnisse.
+4.Qualifikationsziele des Moduls / zu Nach erfolgreichem Abschluss des Moduls sind die
+erwerbende Kompetenzen: Studierenden in der Lage, die historische Entwicklung
+der Materialobjekte der Mediengeschichte vom Übergang
+Mündlichkeit/Schriftlichkeit bis hin zur Gegenwart der
+sogenannten neuen Medien zu beschreiben. Sie haben
+die Fähigkeit, verschiedene medientheoretische Ansätze
+sowie informationstechnische Zusammenhänge unter der
+Nutzung entsprechender Fachbegriffe zu skizzieren
+5.Teilnahmevoraussetzungen:
+a)empfohlene Kenntnisse: Keine
+b)verpflichtende Nachweise: Keine
+6.Verwendbarkeit des Moduls: Medienwissenschaft - Hauptfach oder Nebenfach im B.A.-
+Studiengang
+7.Angebotsturnus des Moduls: WS, SS
+8.Das Modul kann absolviert werden in: 2 Semestern
+9.Empfohlenes Fachsemester: 1 bis 2
+10.Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 325
+davon:
+1.Präsenzzeit: 4 SWS
+2.Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 265 Std.
+Leistungspunkte: 13
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+2Modul: MED-M 11
+11.Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+MED- Pflicht Vorlesung Mediengeschichte 2
+M 11.1
+MED- Pflicht Vorlesung Medientheorie 2
+M 11.2
+MED- Pflicht Übung Informationstechnische und - Übungsaufgaben
+M 11.3 theoretische Grundlagen
+12.Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+MED-M Modulprüfung: Mediengeschichte Klausur 90 Minuten Zeitpunkt: Am Ende 100 %
+11.M P und Medientheorie/Medienästhetik der Vorlesungszeit
+13.Bemerkungen:
+Das Modul schließt mit einer Modulprüfung ab, die sowohl die Inhalte der VL Mediengeschichte als auch
+der VL Medientheorie abprüft
+3Modul: MED-M 12
+Modul: MED-M 12
+Gültig ab WS14/15 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1.Name des Moduls: Mediengeschichte
+2.Fachgebiet / Verantwortlich: Prof. Dr. Bernhard Dotzler 
+Prof. Dr. Christiane Heibach
+3.Inhalte des Moduls: Einzelne Perioden der Mediengeschichte bzw. Geschichte
+ausgewählter Einzelmedien.
+4.Qualifikationsziele des Moduls / zu Nach erfolgreichem Abschluss des Moduls sind die
+erwerbende Kompetenzen: Studierenden in der Lage, einzelne Perioden der
+Mediengeschichte bzw. die Geschichte ausgewählter
+Einzelmedien zu erläutern. Die Studierenden
+verfügen über die Fähigkeit, mediengeschichtliche
+Forschungsfragen zu entwickeln und zu bearbeiten.
+5.Teilnahmevoraussetzungen:
+a)empfohlene Kenntnisse: Keine
+b)verpflichtende Nachweise: Keine
+6.Verwendbarkeit des Moduls: Medienwissenschaft - Hauptfach im B.A.-Studiengang
+7.Angebotsturnus des Moduls: WS, SS
+8.Das Modul kann absolviert werden in: 2 Semestern
+9.Empfohlenes Fachsemester: 1 bis 4
+10.Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 350
+davon:
+1.Präsenzzeit: 4 SWS
+2.Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 290 Std.
+Leistungspunkte: 14
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+11.Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+MED- Pflicht Seminar Mediengeschichte I 2 Referat, Hausarbeit
+M 12.1
+MED- Pflicht Seminar Mediengeschichte II 2 Referat, Hausarbeit
+M 12.2
+4Modul: MED-M 12
+12.Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+MED- Mediengeschichte I Hausarbeit Abgabe bis zum 100 %
+M 12.1 Semesterende
+MED- Mediengeschichte II Hausarbeit Abgabe bis zum 100 %
+M 12.2 Semesterende
+13.Bemerkungen:
+Die Hausarbeiten stellen in der Regel eine Ausarbeitung der Referate dar. Referate und Hausarbeiten
+können in englischer Sprache abgefasst werden. Die Modulprüfung wird nach Wahl der Studierenden
+in einem der beiden Seminare durchgeführt. Im jeweils anderen Seminar ist eine Hausarbeit als
+Studienleistung abzulegen.
+5Modul: MED-M 13
+Modul: MED-M 13
+Gültig ab WS14/15 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1.Name des Moduls: Medientheorie und Medienästhetik
+2.Fachgebiet / Verantwortlich: Prof. Dr. Bernhard Dotzler 
+Prof. Dr. Christiane Heibach
+3.Inhalte des Moduls: Methoden der Analyse medialer Inhalte;
+Formalobjekt „Medium/Medialität“;
+Grundbegriffe der Medientheorie;
+Ausgewählte medientheoretische Ansätze;
+4.Qualifikationsziele des Moduls / zu Nach erfolgreichem Abschluss des Moduls sind die
+erwerbende Kompetenzen: Studierenden in der Lage, unter Verwendung geeigneter
+Fachbegriffe medientheoretische und -ästhetische
+Zusammenhänge zu erschließen sowie entsprechende
+Forschungsfragen zu entwickeln und zu bearbeiten.
+Sie verfügen über die Fähigkeit, Methoden der Analyse
+medialer Inhalte anzuwenden und das Formalobjekt
+„Medium/Medialität“ zu konzeptionalisieren.
+5.Teilnahmevoraussetzungen:
+a)empfohlene Kenntnisse: Keine
+b)verpflichtende Nachweise: Keine
+6.Verwendbarkeit des Moduls: Medienwissenschaft - Hauptfach im B.A.-Studiengang
+7.Angebotsturnus des Moduls: WS, SS
+8.Das Modul kann absolviert werden in: 2 Semestern
+9.Empfohlenes Fachsemester: 1 bis 4
+10.Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 375
+davon:
+1.Präsenzzeit: 6 SWS
+2.Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 285 Std.
+Leistungspunkte: 15
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+6Modul: MED-M 13
+11.Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+MED- Pflicht Vorlesung Medienästhetik 2
+M 13.1
+MED- Pflicht Seminar Medientheorie 2 Referat
+M 13.2
+MED- Pflicht Übung Medienanalyse 2 Analyseaufgaben
+M 13.3
+12.Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+MED- Medienästhetik Klausur 60 Minuten in der letzten 30 %
+M 13.1 Vorlesungswoche
+MED- Medientheorie Hausarbeit Abgabe bis zum 70 %
+M 13.2 Semesterende
+13.Bemerkungen:
+Die Hausarbeit stellt in der Regel eine Ausarbeitung des Referats dar. Das Referat und die Hausarbeit
+können in englischer Sprache abgefasst werden.
+7Modul: MED-M 14
+Modul: MED-M 14
+Gültig ab WS14/15 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1.Name des Moduls: Medienpraxis
+2.Fachgebiet / Verantwortlich: Prof. Dr. Bernhard Dotzler
+Prof. Dr. Christiane Heibach, Dr. Solveig Ottmann
+3.Inhalte des Moduls: Techniken der Medienproduktion; Einübung in die
+Verwendung neuer Medien zur Wissensvermittlung
+und Ergebnispräsentation. Einblick in ein
+medienwissenschaftliches Berufsfeld.
+4.Qualifikationsziele des Moduls / zu Nach erfolgreichem Abschluss des Moduls sind
+erwerbende Kompetenzen: die Studierenden in der Lage, medienpraktische
+Projekte zu planen und zu realisieren. Sie verfügen
+über erste praktische Erfahrungen in einem
+medienwissenschaftlichen Berufsfeld.
+5.Teilnahmevoraussetzungen:
+a)empfohlene Kenntnisse: Keine
+b)verpflichtende Nachweise: Keine
+6.Verwendbarkeit des Moduls: Medienwissenschaft - Hauptfach im B.A.-Studiengang
+7.Angebotsturnus des Moduls: WS, jährlich
+8.Das Modul kann absolviert werden in: 2 Semestern
+9.Empfohlenes Fachsemester: 1 bis 4
+10.Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 450
+davon:
+1.Präsenzzeit: 8 SWS
+2.Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 330 Std.
+Leistungspunkte: 18
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+11.Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+MED- Pflicht Kurs Medienpraxis 2 Projektarbeit
+M 14.1
+MED- Wahlpflicht Proseminar Projektseminar 4 Projektmitarbeit
+M 14.2
+MED- Wahlpflicht Seminar Praktikum mit Praktikumsseminar 1 Praktikumsbericht
+M 14.3 Praktikum
+MED- Wahlpflicht Seminar Praktikum mit Praktikumsseminar 1 Praktikumsbericht
+M 14.4 Praktikum
+8Modul: MED-M 14
+12.Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+13.Bemerkungen:
+Die Leistungspunkte für das Modul werden vergeben, wenn die Studienleistungen erbracht sind. Aus
+dem Wahlpflichtbereich des Moduls müssen zwei Veranstaltungen gewählt werden: Es sind entweder
+das Projektseminar (MED-M14.2) und ein Praktikum mit Praktikumsseminar (MED-M14.3) oder zwei
+Praktika mit Praktikumsseminar (MED-M14.3 und MED-M14.4) zu absolvieren. Die Praktika müssen je
+einen Umfang von mindestens 4 Wochen in Vollzeit aufweisen. Die Studienleistungen können in englischer
+Sprache abgefasst werden.
+9Modul: MED-M 19
+Modul: MED-M 19
+Gültig ab WS14/15 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1.Name des Moduls: Theorie und Geschichte digitaler Medien
+2.Fachgebiet / Verantwortlich: Prof. Dr. Bernhard Dotzler 
+Prof. Dr. Christiane Heibach
+3.Inhalte des Moduls: Überblick über die Entstehung digitaler Medien, ihre
+Strukturen und ihre Entwicklung sowie die Transformation
+der ‚alten‘ durch die ‚neuen‘ Medien.
+4.Qualifikationsziele des Moduls / zu Nach erfolgreichem Abschluss des Moduls sind die
+erwerbende Kompetenzen: Studierenden in der Lage, Geschichte und Theorie
+digitaler Medien zu skizzieren und deren Einfluss auf
+die Wissenskultur zu erörtern. Sie können Prozesse
+der Medienkonvergenz sowie der Digitalisierung
+unterschiedlicher Medienbereiche beschreiben,
+analysieren sowie entsprechende Forschungsfragen
+entwickeln und diskutieren.
+5.Teilnahmevoraussetzungen:
+a)empfohlene Kenntnisse: Kenntnisse aus den Modulen MED-M11 bis MED-M13
+b)verpflichtende Nachweise: erfolgreicher Abschluss des Moduls MED-M11
+6.Verwendbarkeit des Moduls: Medienwissenschaft - Hauptfach im B.A.-Studiengang
+7.Angebotsturnus des Moduls: WS, jährlich
+8.Das Modul kann absolviert werden in: 2 Semestern
+9.Empfohlenes Fachsemester: 4 bis 6
+10.Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 375
+davon:
+1.Präsenzzeit: 4 SWS
+2.Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 315 Std.
+Leistungspunkte: 15
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+11.Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+MED- Pflicht Übung Grundkonzepte digitaler Medien 2 Klausur
+M 19.1
+MED- Pflicht Seminar Theorie und Geschichte digitaler 2 Referat
+M 19.2 Medien
+10Modul: MED-M 19
+12.Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+MED- Theorie und Geschichte Hausarbeit Abgabe bis zum 100 %
+M 19.2 digitaler Medien Semesterende
+13.Bemerkungen:
+Die Hausarbeit stellt in der Regel eine Ausarbeitung des Referats dar. Das Referat und die Hausarbeit
+können in englischer Sprache abgefasst werden.
+11Modul: MED-M 20
+Modul: MED-M 20
+Gültig ab WS14/15 bis (leer) / Bitte beachten Sie auch die Bemerkungen unter Punkt 13.
+1.Name des Moduls: Medienkulturanalyse
+2.Fachgebiet / Verantwortlich: Prof. Dr. Bernhard Dotzler 
+Prof. Dr. Christiane Heibach
+3.Inhalte des Moduls: Einsicht in die kulturellen Wurzeln und Folgen
+verschiedener Informations- und Medientechnologien
+sowie in den Zusammenhang zwischen
+Kommunikationstechniken und der aktuell beobachtbaren
+Konstitution einer Wissensgesellschaft.
+4.Qualifikationsziele des Moduls / zu Nach erfolgreichem Abschluss des Moduls
+erwerbende Kompetenzen: verfügen die Studierenden über fortgeschrittene
+medienkulturanalytische Kompetenzen als die Fähigkeit,
+die Effekte der Medien auf die Gesellschaft bzw. die
+gesamtkulturelle Rolle der Medien zu erörtern und
+zu reflektieren. Sie sind in der Lage, fachspezifische
+Texte zu analysieren, entsprechende Forschungsfragen
+eigenständig zu entwickeln und zu diskutieren sowie
+Forschungsfelder selbständig zu erschließen.
+5.Teilnahmevoraussetzungen:
+a)empfohlene Kenntnisse: Kenntnisse aus den Modulen MED-M11 bis MED-M13
+b)verpflichtende Nachweise: erfolgreicher Abschluss des Moduls MED-M11
+6.Verwendbarkeit des Moduls: Medienwissenschaft - Hauptfach im B.A.-Studiengang
+7.Angebotsturnus des Moduls: WS, jährlich
+8.Das Modul kann absolviert werden in: 2 Semestern
+9.Empfohlenes Fachsemester: 4 bis 6
+10.Gesamtaufwand des Moduls Arbeitsaufwand:
+(Workload) / Anzahl Leistungspunkte: Gesamt in Stunden: 375
+davon:
+1.Präsenzzeit: 5 SWS
+2.Selbststudium (inkl. Prüfungsvorbereitung/
+Prüfung): 300 Std.
+Leistungspunkte: 15
+Voraussetzung für die Vergabe der in Nr. 10 genannten Leistungspunkte ist das erfolgreiche Absolvieren aller
+in den Nrn. 11 und 12 aufgeführten Leistungen.
+12Modul: MED-M 20
+11.Modulbestandteile:
+Nr P/WP Lehrform Themenbereich/Thema SWS/ Studienleistungen
+Std.
+MED- Pflicht Seminar Medienkulturanalyse 2 Referat
+M 20.1
+MED- Pflicht Kurs Lektürekurs 1
+M 20.2
+MED- Pflicht Seminar Forschungsseminar 2 Präsentation
+M 20.3
+12.Modulprüfung:
+Nr Kompetenz / Thema Art der Prüfung Dauer Zeitpunkt / Anteil an
+Bemerkungen Modulnote
+MED- Medienkulturanalyse Hausarbeit Abgabe bis zum 100 %
+M 20.1 Semesterende
+13.Bemerkungen:
+Die Hausarbeit stellt in der Regel eine Ausarbeitung des Referats dar. Die Studien- und Prüfungsleistungen
+können in englischer Sprache abgefasst werden.
+13

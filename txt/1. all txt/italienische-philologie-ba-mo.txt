@@ -1,0 +1,1554 @@
+input_dictionary = Modulkatalog  
+ 
+Italienische Philologie (Bachelor) 
+ 
+Stand 13.10.2021 
+ 
+gültig ab Sommersemester 2022 
+ 
+ 
+ITA-SP-M01 Basismodul Italienische Sprachpraxis 1 ...................................................... 2 
+ITA-SP-M02 Basismodul Italienische Sprachpraxis 2 ...................................................... 4 
+ITA-SP-M03 Aufbaumodul Italienische Sprachpraxis ..................................................... 6 
+ITA-SW-M01A Basismodul Italienische Sprachwissenschaft 1A .................................. 8 
+ITA-SW-M01B Basismodul Italienische Sprachwissenschaft 1B ................................. 10 
+ITA-LW-M01A Basismodul Italienische Literaturwissenschaft 1A ............................. 12 
+ITA-LW-M01B Basismodul Italienische Literaturwissenschaft 1B ............................. 14 
+ITA-KW-M01A Basismodul Italienische Kulturwissenschaft 1A ................................. 16 
+ITA-KW-M01B Basismodul Italienische Kulturwissenschaft 1B ................................. 18 
+ITA-SW-M02 Aufbaumodul Italienische Sprachwissenschaft ..................................... 20 
+ITA-LW-M02 Aufbaumodul Italienische Literaturwissenschaft .................................. 22 
+ITA-KW-M02 Aufbaumodul Italienische Kulturwissenschaft ...................................... 24 
+ITA-FW-M01 Erweiterungsmodul Italienische Fachwissenschaften .......................... 26 
+ITA-AUS-M01 Vertiefung Sprachpraxis und Fachwissenschaft im Ausland ............ 28 
+ITA-PK-M01 Praktikumsmodul .......................................................................................... 31 
+ 
+   
+1 
+ ITA-SP-M01 
+ 
+1. Name des Moduls:  Basismodul Italienische Sprachpraxis 1 
+Romanistik (Italienisch) / Dr. Giulia de Savorgnani 
+2. Fachgebiet / Verantwortlich: 
+Anwendung von niveauangemessenen morpho-
+3. Inhalte des Moduls: 
+syntaktischen und lexikalischen Strukturen;  
+schriftlicher und mündlicher Ausdruck, Hör- und 
+Lese-Verständnis  
+4. Qualifikationsziele des Moduls:  Nach Abschluss des Moduls haben die Studierenden 
+Italienischkenntnisse auf dem Niveau B2.2 des 
+Gemeinsamen Europäischen Referenzrahmens für 
+Sprachen (GER) erreicht. 
+Die Teilnehmenden können die Hauptinhalte 
+komplexer Texte zu konkreten und abstrakten 
+Themen verstehen; sie verstehen im eigenen 
+Spezialgebiet auch Fachdiskussionen. Sie können sich 
+so spontan und fließend verständigen, dass ein 
+normales Gespräch mit Muttersprachlern ohne 
+größere Anstrengung auf beiden Seiten gut möglich 
+ist. Sie können sich zu einem breiten 
+Themenspektrum mündlich wie schriftlich klar und 
+detailliert ausdrücken und ihren einen Standpunkt zu 
+einer aktuellen Frage erläutern. 
+ 
+5. Teilnahmevoraussetzungen: 
+Italienischkenntnisse auf dem Niveau B2.1 des 
+a) empfohlene Kenntnisse: 
+Gemeinsamen Europäischen Referenzrahmens für 
+Sprachen GER, zu erwerben durch z. B. 3 Jahre 
+Italienischunterricht in der Schule; diese sprachlichen 
+Vorkenntnisse sind dringend empfohlen (es wird ein 
+Einstufungstest angeboten). 
+ 
+b) verpflichtende Nachweise: 
+Bachelor (Italien. Philologie: Bachelorfach, Zweites 
+6. Verwendbarkeit des Moduls: 
+Hauptfach, Nebenfach)   
+Bachelor (Deutsch-Italienische Studien) 
+Lehramt Französisch an Gymnasien 
+Master Romanische Kulturräume (als zweite 
+romanische Sprache) 
+Master Interkulturelle Europa-Studien (als zweite 
+romanische Sprache) 
+Die einzelnen Veranstaltungen werden jedes Jahr 
+7. Angebotsturnus des Moduls: 
+angeboten. 
+8. Das Modul kann absolviert werden  1 Semester  
+in/vorgesehene Dauer des Moduls: 
+1.-3. Fachsemester, jeweils im WiSe  
+9. Empfohlenes Fachsemester: 
+Arbeitsaufwand: 
+10. Gesamtarbeitsaufwand des Moduls 
+2 
+      (Workload) / Anzahl  Gesamt in Stunden: 360  
+Leistungspunkte:  davon: 
+1. Präsenzzeit: 6 SWS/ 90 Std. 
+2. Selbststudium (inkl. Prüfung): 270 Std.  
+ 
+Leistungspunkte: 12*  
+*Die LP für das Modul werden erst nach Bestehen 
+der Modulprüfung bzw. aller Modulteilprüfungen 
+vergeben. 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+ 
+12. Modulbestandteile: 
+P / 
+Nr  Lehr- Themenbereich/Thema  SWS  Studienleistungen  LP 
+WP 
+form  / Std. 
+1  P  Übung  Corso di lingua italiana 1  4  Präsentation*  8 
+2  P  Übung  Traduzione 1 (I-D)  2  Klausur   4 
+             
+ 
+ 
+13. Modulprüfung 
+Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr  Kompetenz / Thema 
+Prüfung  Bemerkungen  Modulnote 
+1   Hörverständnis, Lese-  Klausur  90 Min.  Ende der  100 % 
+und Textverständnis,    Vorlesungszeit 
+Grammatik, 
+schriftlicher Ausdruck, 
+thematische 
+Kenntnisse (zu 12.1.) 
+14. Bemerkungen:  
+*Die Präsentation zu Nr. 1 ist eine dringend empfohlene freiwillige Leistung, die ergänzend speziell 
+die Sprechkompetenz schult. 
+ 
+Die Prüfung wird in italienischer Sprache abgelegt. Die jeweils zuständige Lehrperson kann zudem 
+festlegen, dass die Studienleistung ebenfalls in italienischer Sprache abgelegt werden. Wenn eine 
+Studienleistung in italienischer Sprache abzulegen ist, wird dies den Studierenden spätestens zu 
+Beginn der Vorlesungszeit bekannt gegeben. 
+3 
+ ITA-SP-M02 
+ 
+1. Name des Moduls:  Basismodul Italienische Sprachpraxis 2  
+Romanistik (Italienisch) / Dr. Giulia de Savorgnani 
+2. Fachgebiet / Verantwortlich: 
+Techniken und Strategien zur sicheren 
+3. Inhalte des Moduls: 
+Sprachbeherrschung; morphosyntaktische und 
+lexikalische Strukturen; schriftliche Texte 
+verschiedener Genres sowie mündliche Kontexte und 
+Übersetzungsübungen in die Fremdsprache.  
+4. Qualifikationsziele des Moduls:  Nach Abschluss des Moduls haben die Studierenden 
+  hinsichtlich ihrer Italienischkenntnisse das Niveau 
+C1.1 des Gemeinsamen Europäischen 
+Referenzrahmens für Sprachen (GER) erreicht. 
+Die Teilnehmenden können ein breites Spektrum 
+anspruchsvoller, längerer Texte verstehen, auch 
+wenn diese nicht klar strukturiert sind, und auch 
+implizite Bedeutungen erfassen. Sie können sich 
+spontan und fließend ausdrücken, ohne öfter 
+deutlich erkennbar nach Worten suchen zu müssen. 
+Sie können sich klar, strukturiert und ausführlich zu 
+komplexen Sachverhalten äußern und dabei 
+verschiedene Mittel zur Textverknüpfung 
+angemessen verwenden. 
+ 
+5. Teilnahmevoraussetzungen: 
+Sprachkenntnisse auf dem Niveau B2.2 des 
+a) empfohlene Kenntnisse: 
+Europäischen Referenzrahmens GER, zu erwerben 
+z.B. durch ITA-SP-M01 
+ITA-SP-M01.1 für ITA-SP-M02.1 
+b) verpflichtende Nachweise: 
+Bachelor (Italien. Philologie: Bachelorfach, Zweites 
+6. Verwendbarkeit des Moduls: 
+Hauptfach)   
+Bachelor (Deutsch-Italienische Studien) 
+Lehramt Französisch an Gymnasien 
+Master Romanische Kulturräume (als zweite 
+romanische Sprache) 
+Master Interkulturelle Europa-Studien (als zweite 
+romanische Sprache) 
+Die einzelnen Veranstaltungen werden jedes Jahr 
+7. Angebotsturnus des Moduls: 
+angeboten. 
+8. Das Modul kann absolviert werden  2 Semester 
+in/ vorgesehene Dauer des Moduls: 
+2.-4. Fachsemester (Bachelor), jeweils im SoSe 
+9. Empfohlenes Fachsemester: 
+2.-4. Fachsemester Lehramt), jeweils im SoSe 
+1.-3. Fachsemester (Master), jeweils im SoSe 
+Arbeitsaufwand: 
+10. Gesamtarbeitsaufwand des Moduls 
+Gesamt in Stunden: 360   
+4 
+      (Workload) / Anzahl  davon: 
+Leistungspunkte:  1. Präsenzzeit: 6 SWS/ 90 Std. 
+2. Selbststudium (inkl. Prüfung): 270 Std.  
+ 
+Leistungspunkte: 12*  
+*Die LP für das Modul werden erst nach Bestehen 
+der Modulprüfung bzw. aller Modulteilprüfungen 
+vergeben. 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind:   
+ 
+12. Modulbestandteile: 
+P / 
+Nr  Lehr- Themenbereich/Thema  SWS  Studienleistungen  LP 
+WP 
+form  / Std. 
+1  P  Übung  Corso di lingua italiana 2  4  Klausur   8 
+2  P  Übung  Traduzione 2 (D-I)   2    4 
+ 
+             
+             
+ 
+ 
+13. Modulprüfung 
+Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr  Kompetenz / Thema 
+Prüfung  Bemerkungen  Modulnote 
+1  Übersetzung in die  Klausur  90 Min.  Ende der  100 % 
+  Fremdsprache (zu  Vorlesungszeit 
+  12.2.) 
+ 
+ 
+14. Bemerkungen:  
+ 
+Die Prüfung wird in italienischer Sprache abgelegt. Die jeweils zuständige Lehrperson kann zudem 
+festlegen, dass die Studienleistungen ebenfalls in italienischer Sprache abgelegt werden. Wenn die 
+Studienleistung in italienischer Sprache abzulegen ist, wird dies den Studierenden spätestens zu 
+Beginn der Vorlesungszeit bekannt gegeben. 
+ 
+ 
+ 
+   
+5 
+ ITA-SP-M03 
+ 
+Aufbaumodul Italienische Sprachpraxis  
+1. Name des Moduls: 
+ 
+Romanistik (Italienisch) / Dr. Simona Fabellini 
+2. Fachgebiet / Verantwortlich: 
+Stilistische und grammatische Probleme, komplexe 
+3. Inhalte des Moduls: 
+syntaktische Strukturen; Arbeit mit verschiedenen 
+mündlichen und schriftlichen Textsorten  
+Nach Abschluss des Moduls haben die 
+4. Qualifikationsziele des Moduls: 
+Studierenden das Niveau C1.2 des Gemeinsamen 
+Europäischen Referenzrahmens für Sprachen (GER). 
+Die Studierenden können sich schriftlich klar und 
+gut strukturiert ausdrücken und dabei verschiedene 
+Mittel zur Textverknüpfung angemessen 
+verwenden. Sie können lange und komplexe 
+Sachtexte und literarische Texte verstehen und 
+deren stilistische Merkmale wahrnehmen. Sie 
+können sich ausführlich zu komplexen 
+Sachverhalten äußern und ihre Ansichten 
+ausführlich darstellen.   
+ 
+5. Teilnahmevoraussetzungen: 
+ 
+Sprachkenntnisse auf dem Niveau C1.1 des 
+a) empfohlene Kenntnisse: 
+Europäischen Referenzrahmens GER, zu erwerben 
+z.B. durch ITA-SP-M02  
+ 
+b) verpflichtende Nachweise: 
+Bachelor (Italien. Philologie: Bachelorfach)  
+6. Verwendbarkeit des Moduls: 
+Lehramt Italienisch an Gymnasien 
+Master Romanische Kulturräume (als zweite 
+romanische Sprache) 
+Die einzelnen Veranstaltungen werden jedes Jahr 
+7. Angebotsturnus des Moduls: 
+angeboten.  
+8. Das Modul kann absolviert werden  2 Semester 
+in/ vorgesehene Dauer des Moduls: 
+4.-6. Fachsemester (Bachelor) 
+9. Empfohlenes Fachsemester: 
+4.-8. Fachsemester (Lehramt) 
+1.-3. Fachsemester (Master) 
+Arbeitsaufwand: 
+10. Gesamtarbeitsaufwand des Moduls 
+Gesamt in Stunden: 360  
+     (Workload) / Anzahl 
+davon: 
+Leistungspunkte: 
+1. Präsenzzeit: 6 SWS/ 90 Std. 
+2. Selbststudium (inkl. Prüfung): 270 Std.  
+ 
+Leistungspunkte: 12*  
+*Die LP für das Modul werden erst nach Bestehen 
+der Modulprüfung bzw. aller Modulteilprüfungen 
+vergeben. 
+6 
+ 11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen 
+erfüllt sind: 
+12. Modulbestandteile: 
+P / 
+Nr  Lehr- Themenbereich/Thema  SWS  Studienleistungen  LP 
+WP 
+form  / Std. 
+1  P  Übung  Analisi testuale e composizione  2     
+2  P  Übung  Corso di lingua italiana 3  2  Klausur  4  
+3  WP  Übung  Grammatica  2  Klausur  4  
+4  WP  Übung  Traduzione  3 (I-D)  2  Klausur  4  
+5  WP  Übung  Traduzione  3 (D-I)   2  Klausur*  4 
+ 
+ 
+13. Modulprüfung 
+Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr  Kompetenz / Thema 
+Prüfung  Bemerkungen  Modulnote 
+1   Anwendung  Klausur  90 Min.  Ende der  100 % 
+morphosyntaktischer    Vorlesungszeit 
+Strukturen, Lese- und 
+Textverständnis  
+(zu 12.1.) 
+ 
+14. Bemerkungen:  
+Von den Kursen 12.3, 12.4, 12.5 muss ein Kurs gewählt werden. 
+Die Klausur in 12.5. ist eine dringend empfohlene freiwillige Leistung. 
+ 
+Die Prüfung wird in italienischer Sprache abgelegt. Die jeweils zuständige Lehrperson kann zudem 
+festlegen, dass die Studienleistung ebenfalls in italienischer Sprache abgelegt werden. Wenn eine 
+Studienleistung in italienischer Sprache abzulegen ist, wird dies den Studierenden spätestens zu 
+Beginn der Vorlesungszeit bekannt gegeben. 
+ 
+ 
+   
+7 
+ ITA-SW-M01A 
+ 
+Basismodul Italienische Sprachwissenschaft 1A 
+1. Name des Moduls: 
+Romanistik (Italienisch) / Prof. Dr. Maria Selig 
+2. Fachgebiet / Verantwortlich: 
+Grundlagen der Sprachwissenschaft; Methoden 
+3. Inhalte des Moduls: 
+der italienischen Sprachwissenschaft; italienische 
+Phonetik  
+4. Qualifikationsziele des Moduls / zu  Die Studierenden verfügen über grundlegende 
+Kenntnisse der italienischen Sprachwissenschaft; 
+erwerbende Kompetenzen: 
+sie sind nach Abschluss des Moduls in der Lage, 
+sprachwissenschaftliche Methoden im Bereich der 
+Synchronie und Diachronie anzuwenden.  
+ 
+5. Teilnahmevoraussetzungen: 
+Italienischkenntnisse auf dem Niveau B2.1 des 
+a) empfohlene Kenntnisse: 
+Gemeinsamen Europäischen Referenzrahmens für 
+Sprachen GER, zu erwerben durch z. B. 3 Jahre 
+Italienischunterricht in der Schule; diese 
+sprachlichen Vorkenntnisse sind dringend 
+empfohlen (es wird ein Einstufungstest 
+angeboten). 
+ 
+b) verpflichtende Nachweise: 
+Bachelor (Ital. Philologie: Bachelorfach, Zweites 
+6. Verwendbarkeit des Moduls: 
+Hauptfach, Nebenfach)  
+Lehramt Italienisch an Gymnasien 
+ 
+Die einzelnen Veranstaltungen werden jedes Jahr 
+7. Angebotsturnus des Moduls: 
+angeboten. 
+8. Das Modul kann absolviert werden  2 Semester 
+ 
+in/ vorgesehene Dauer des Moduls: 
+1.-2. Fachsemester, jeweils im WiSe 
+9. Empfohlenes Fachsemester: 
+ 
+ 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+Gesamt in Stunden: 210  
+     (Workload) / Anzahl 
+davon: 
+Leistungspunkte: 
+1. Präsenzzeit: 5 SWS/75 Std. 
+2. Selbststudium (inkl. Prüfung): 135 Std. 
+ 
+Leistungspunkte: 7*  
+*Die LP für das Modul werden erst nach Bestehen 
+der Modulprüfung bzw. aller Modulteilprüfungen 
+vergeben. 
+ 
+ 
+ 
+ 
+ 
+8 
+ 11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen 
+Leistungen erfüllt sind:   
+ 
+12. Modulbestandteile: 
+P / 
+Nr  Lehrform  Themenbereich/Thema  SWS  Studienleistungen  LP 
+WP 
+/ Std. 
+1a)  P  Vorlesung  Einführende Vorlesung in die  2    3 
+    Romanische 
+    Sprachwissenschaft oder 
+1b  WP  Thematische Vorlesung  
+(s. Bemerkung) 
+2   P  Übung  Einführung in die italienische  3  Übungsaufgabe*  3 
+Sprachwissenschaft 
+   
+   
+3  P  Übung  Phonetik und Phonologie des  1  Klausur  1 
+Italienischen 
+ 
+13. Modulprüfung 
+Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr  Kompetenz / Thema 
+Prüfung  Bemerkungen  Modulnote 
+1  Grundlagen der  Klausur  120 Min.  Ende der  100% 
+Sprachwissenschaft und    Vorlesungszeit 
+Methoden der italienischen 
+Sprachwissenschaft im 
+Bereich der Synchronie und 
+Diachronie (Prüfung im 
+Rahmen der Vorlesung zu 
+12.1 und 12.2) 
+14. Bemerkungen:  
+zu 12. Im Falle der Kombination von zwei oder drei romanistischen Fächern (Französisch, 
+Italienisch, Spanisch) ist in einem der Module FRA-SW-M01A, ITA-SW-M01A oder SPA-SW-
+M01A die 'Einführende Vorlesung' (1a) einzubringen. In den weiteren gemäß der 
+Fächerkombination zu absolvierenden Modulen ist die Einführende Vorlesung durch eine 
+thematische Vorlesung aus dem Bereich der französischen bzw. italienischen bzw. spanischen 
+Sprachwissenschaft (1b) zu ersetzen. 
+Die Veranstaltungen 12.1a und 12.2 sollten in einem Semester, also parallel, absolviert werden. 
+ 
+*Die Übungsaufgabe in 12. 2 ist eine dringend empfohlene freiwillige Leistung, die speziell auf 
+die Klausur vorbereitet. 
+ 
+ 
+9 
+ ITA-SW-M01B 
+ 
+Basismodul Italienische Sprachwissenschaft 1B  
+1. Name des Moduls: 
+ 
+Romanistik (Italienisch) / Prof. Dr. Maria Selig 
+2. Fachgebiet / Verantwortlich: 
+ 
+Methoden der italienischen Sprachwissenschaft  
+3. Inhalte des Moduls: 
+4. Qualifikationsziele des Moduls / zu  Die Studierenden verfügen nach Abschluss des 
+Moduls über verfestigte Kenntnisse der 
+erwerbende Kompetenzen: 
+italienischen Sprachwissenschaft; sie sind in der 
+Lage, sprachwissenschaftliche Methoden 
+annähend selbstständig umzusetzen.  
+ 
+5. Teilnahmevoraussetzungen: 
+ 
+Italienischkenntnisse auf dem Niveau B2.1 des 
+a) empfohlene Kenntnisse: 
+Gemeinsamen Europäischen Referenzrahmens für 
+Sprachen GER, zu erwerben durch z. B. 3 Jahre 
+Italienischunterricht in der Schule; diese 
+sprachlichen Vorkenntnisse sind dringend 
+empfohlen (es wird ein Einstufungstest 
+angeboten). Es wird dringend empfohlen, das 
+Modul ITA-SW-M01A vorher abzuschließen. 
+ 
+b) verpflichtende Nachweise: 
+Bachelor (Ital. Philologie: Bachelorfach, Zweites 
+6. Verwendbarkeit des Moduls: 
+Hauptfach, Nebenfach) 
+Lehramt Italienisch an Gymnasien 
+ 
+Die einzelnen Veranstaltungen werden jedes Jahr 
+7. Angebotsturnus des Moduls: 
+angeboten. 
+ 
+8. Das Modul kann absolviert werden  2 Semester 
+ 
+in/vorgesehene Dauer des Moduls: 
+2.-3. Fachsemester 
+9. Empfohlenes Fachsemester: 
+ 
+ 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+Gesamt in Stunden: 150  
+     (Workload) / Anzahl 
+davon: 
+Leistungspunkte: 
+1. Präsenzzeit: 2 SWS/30 Std. oder 3 SWS/45 Std. 
+(falls Übung in diesem Modul absolviert wird) 
+2. Selbststudium (inkl. Prüfung): 120 Std. oder 105 
+Std. 
+ 
+Leistungspunkte: 5* 
+ 
+*Die LP für das Modul werden erst nach Bestehen 
+der Modulprüfung bzw. aller Modulteilprüfungen 
+vergeben. 
+10 
+ 11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen 
+Leistungen erfüllt sind:   
+ 
+12. Modulbestandteile: 
+P / 
+Nr  Lehrform  Themenbereich/Thema  SWS  Studienleistungen  LP 
+WP 
+/ Std. 
+1  P  Proseminar  PS Italienische  2  *Vortrag  5 
+Sprachwissenschaft  regelmäßige Teilnahme  
+2  WP  Übung  Wissenschaftliches  1     
+Arbeiten 
+ 
+13. Modulprüfung 
+Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr  Kompetenz / Thema 
+Prüfung  Bemerkungen  Modulnote 
+1  Anwendung sprachwissen- Hausarbeit  Umfang 10  zum  100% 
+schaftlicher Methoden im    Seiten  Semesterende 
+Bereich der Synchronie  Mindestbearb
+oder Diachronie (zu 12.1)  eitungszeit: 6 
+Wochen 
+14. Bemerkungen 
+zu 12. Die Übung Wissenschaftliches Arbeiten (12.2) soll vor dem Proseminar oder parallel zum 
+Proseminar belegt werden. Sie muss nur einmal absolviert werden, entweder in ITA-SW-M01B 
+oder in ITA-LW-M01B oder in ITA-KW-M01B.  
+Auch im Falle der Kombination von zwei oder drei romanistischen Fächern (Französisch, 
+Italienisch, Spanisch) ist sie insgesamt nur einmal zu absolvieren. 
+ 
+*Der Vortrag hat das gleiche Thema wie die Hausarbeit. 
+ 
+Wird die Übung zum wissenschaftlichen Arbeiten im Rahmen des Moduls ITA-SW-M01B 
+absolviert, so erhöht sich die Präsenzzeit in diesem Modul auf 3 SWS. Wird sie im Rahmen eines 
+der beiden Modulen ITA -LW-M01B oder ITA -KW-M01B absolviert, so beträgt die Präsenzzeit 
+nur 2 SWS. Da in der Übung zum wissenschaftlichen Arbeiten keine zusätzlichen Leistungen 
+gefordert werden und die Präsenzzeit für dieses Lehrangebot weit unter dem Arbeitsaufwand 
+liegt, für den normalerweise ein LP vergeben wird, wird für diese Übung kein separater LP 
+ausgewiesen. 
+ 
+11 
+ ITA-LW-M01A 
+ 
+Basismodul Italienische Literaturwissenschaft 1A 
+1. Name des Moduls: 
+ 
+Romanistik (Italienisch) / Prof. Dr. Isabella von 
+2. Fachgebiet / Verantwortlich: 
+Treskow 
+Grundlagen der Literaturwissenschaft, Überblick 
+3. Inhalte des Moduls: 
+über die italienische Literaturgeschichte  
+4. Qualifikationsziele des Moduls / zu  Die Studierenden beherrschen die Grundlagen der 
+Literaturwissenschaft; sie können sich in der 
+erwerbende Kompetenzen: 
+italienischen Literaturgeschichte orientieren und 
+besitzen Textkenntnisse in der italienischen 
+Literatur seit den Anfängen; sie sind sensibilisiert 
+für komparatistisch-interkulturelle Besonderheiten 
+der italienischen Literatur im europäischen 
+Kontext. 
+ 
+5. Teilnahmevoraussetzungen: 
+ 
+Italienischkenntnisse auf dem Niveau B2.1 des 
+a) empfohlene Kenntnisse: 
+Gemeinsamen Europäischen Referenzrahmens für 
+Sprachen GER, zu erwerben durch z. B. 3 Jahre 
+Italienischunterricht in der Schule; diese 
+sprachlichen Vorkenntnisse sind dringend 
+empfohlen (es wird ein Einstufungstest 
+angeboten). 
+ 
+b) verpflichtende Nachweise: 
+Bachelor (Ital. Philologie: Bachelorfach, Zweites 
+6. Verwendbarkeit des Moduls: 
+Hauptfach, Nebenfach)  
+Lehramt Italienisch an Gymnasien 
+ 
+ 
+Die einzelnen Veranstaltungen werden jedes Jahr 
+7. Angebotsturnus des Moduls: 
+angeboten. 
+8. Das Modul kann absolviert werden  2 Semester 
+ 
+in/ vorgesehene Dauer des Moduls: 
+1.-3. Fachsemester 
+9. Empfohlenes Fachsemester: 
+jeweils im WiSe 
+ 
+ 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+Gesamt in Stunden: 210  
+     (Workload) / Anzahl 
+davon: 
+Leistungspunkte: 
+1. Präsenzzeit: 5 SWS/75 Std. 
+2. Selbststudium (inkl. Prüfung): 135 Std. 
+ 
+Leistungspunkte: 7* 
+ 
+12 
+ *Die LP für das Modul werden erst nach Bestehen 
+der Modulprüfung bzw. aller Modulteilprüfungen 
+vergeben. 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen 
+Leistungen erfüllt sind:   
+ 
+12. Modulbestandteile: 
+P / 
+Nr  Lehrform  Themenbereich/Thema  SWS  Studienleistungen  LP 
+WP 
+/ Std. 
+1a)  P  Vorlesung  Einführende Vorlesung in die  2    3 
+    Romanische Literatur-
+    wissenschaft 
+1b    oder 
+WP  Thematische Vorlesung  
+ s. Bemerkung) 
+2   P  Übung  Einführung in die italienische  3  *Essay  4 
+Literaturwissenschaft 
+ 
+ 
+ 
+13. Modulprüfung 
+Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr  Kompetenz / Thema 
+Prüfung  Bemerkungen  Modulnote 
+1  Grundlagen der  Klausur  120 Min.  Ende der  100% 
+Literaturwissenschaft und    Vorlesungszeit 
+Methoden der italienischen 
+Literaturwissenschaft; 
+Orientierung in der 
+Literaturgeschichte 
+(Prüfung im Rahmen der 
+Vorlesung zu 12.1.) 
+14. Bemerkung 
+Zu 12:  Im Falle der Kombination von zwei oder drei romanistischen Fächern (Französisch, 
+Italienisch, Spanisch) ist in einem der Module FRA-LW-M01A, ITA-LW-M01A oder SPA-LW-
+M01A die 'Einführende Vorlesung' (1a) einzubringen. In den weiteren gemäß der 
+Fächerkombination zu absolvierenden Modulen ist die Einführende Vorlesung durch eine 
+thematische Vorlesung aus dem Bereich der französischen bzw. italienischen bzw. spanischen 
+Literaturwissenschaft (1b) zu ersetzen.  
+ 
+Die Veranstaltungen 12.1a und 12.2 sollten in einem Semester parallel absolviert werden. 
+ 
+*Der Essay zu Nr. 2 ist eine dringend empfohlene freiwillige Leistung, die speziell auf die Klausur 
+vorbereitet. 
+ 
+13 
+ ITA-LW-M01B 
+ 
+Basismodul Italienische Literaturwissenschaft 1B  
+1. Name des Moduls: 
+ 
+Romanistik (Italienisch) / Prof. Dr. Isabella von 
+2. Fachgebiet / Verantwortlich: 
+Treskow 
+ 
+Literaturwissenschaftliches Arbeiten; methoden-
+3. Inhalte des Moduls: 
+geleitete Interpretation  
+4. Qualifikationsziele des Moduls / zu  Die Studierenden sind mit Grundfragen 
+literaturwissenschaftlichen Arbeitens und der 
+erwerbende Kompetenzen: 
+exemplarischen Anwendung auf Einzelthemen der 
+italienischen Literatur (Autoren, Gattungen, 
+Epochen etc.) vertraut; sie beherrschen nach 
+Abschluss des Moduls die methodengeleitete 
+Interpretation fiktionaler Texte und ihre 
+kulturgeschichtliche Kontextualisierung. 
+ 
+5. Teilnahmevoraussetzungen: 
+ 
+Italienischkenntnisse auf dem Niveau B2.1 des 
+a) empfohlene Kenntnisse: 
+Gemeinsamen Europäischen Referenzrahmens für 
+Sprachen GER, zu erwerben durch z. B. 3 Jahre 
+Italienischunterricht in der Schule; diese 
+sprachlichen Vorkenntnisse sind dringend 
+empfohlen (es wird ein Einstufungstest 
+angeboten). Es wird dringend empfohlen, das 
+Modul ITA-LW-M01A vorher abzuschließen. 
+ 
+b) verpflichtende Nachweise: 
+Bachelor (Ital. Philologie: Bachelorfach, Zweites 
+6. Verwendbarkeit des Moduls: 
+Hauptfach, Nebenfach)  
+Lehramt Italienisch an Gymnasien 
+ 
+Die einzelnen Veranstaltungen werden jedes Jahr 
+7. Angebotsturnus des Moduls: 
+angeboten. 
+8. Das Modul kann absolviert werden  2 Semester 
+ 
+in/ vorgesehene Dauer des Moduls: 
+2.-4. Fachsemester 
+9. Empfohlenes Fachsemester: 
+ 
+ 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+Gesamt in Stunden: 150  
+     (Workload) / Anzahl 
+davon: 
+Leistungspunkte: 
+1. Präsenzzeit: 2 SWS/30 Std. oder 3 SWS/45 Std. 
+(falls Übung in diesem Modul absolviert wird) 
+2. Selbststudium (inkl. Prüfung): 120 Std. oder 105 
+Std. 
+ 
+Leistungspunkte: 5* 
+14 
+  
+*Die LP für das Modul werden erst nach Bestehen 
+der Modulprüfung bzw. aller Modulteilprüfungen 
+vergeben. 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen 
+Leistungen erfüllt sind:   
+ 
+12. Modulbestandteile: 
+P / 
+Nr  Lehrform  Themenbereich/Thema  SWS /  Studienleistungen  LP 
+WP 
+Std. 
+1  P  Proseminar  PS Italienische  2  *Vortrag  5 
+Literaturwissenschaft  regelmäßige Teilnahme 
+2  WP  Übung  Wissenschaftliches Arbeiten  1     
+ 
+ 
+13. Modulprüfung 
+Art der Prüfung  Dauer  Zeitpunkt /  Anteil an 
+Nr  Kompetenz / Thema 
+Bemerkungen  Modulnote 
+1  Anwendung  Hausarbeit  Umfang 10  Semesterende  100 % 
+literaturwissen-   Seiten 
+schaftlicher Methoden  Mindestbearb
+(zu 12.1)  eitungszeit: 6 
+Wochen 
+14. Bemerkungen:  
+zu 12. Die Übung Wissenschaftliches Arbeiten (12.2) soll vor dem Proseminar oder parallel zum 
+Proseminar belegt werden. Sie muss nur einmal absolviert werden, entweder in ITA-SW-M01B 
+oder in ITA-LW-M01B oder in ITA-KW-M01B.  
+Auch im Falle der Kombination von zwei oder drei romanistischen Fächern (Französisch, 
+Italienisch, Spanisch) ist sie insgesamt nur einmal zu absolvieren. 
+ 
+*Der Vortrag hat das gleiche Thema wie die Hausarbeit. 
+ 
+Wird die Übung zum wissenschaftlichen Arbeiten im Rahmen des Moduls ITA-LW-M01B 
+absolviert, so erhöht sich die Präsenzzeit in diesem Modul auf 3 SWS. Wird sie im Rahmen eines 
+der beiden Modulen ITA -SW-M01B oder ITA -KW-M01B absolviert, so beträgt die Präsenzzeit 
+nur 2 SWS. Da in der Übung zum wissenschaftlichen Arbeiten keine zusätzlichen Leistungen 
+gefordert werden und die Präsenzzeit für dieses Lehrangebot weit unter dem Arbeitsaufwand 
+liegt, für den normalerweise ein LP vergeben wird, wird für diese Übung kein separater LP 
+ausgewiesen. 
+ 
+15 
+ ITA-KW-M01A 
+ 
+Basismodul Italienische Kulturwissenschaft 1A   
+1. Name des Moduls: 
+Romanistik (Italienisch) / Prof. Dr. Isabella von 
+2. Fachgebiet / Verantwortlich: 
+Treskow 
+ 
+Themen der italienischen Kulturwissenschaft zur 
+3. Inhalte des Moduls: 
+italienischen Geschichte, Politik, Gesellschaft.  
+ 
+4. Qualifikationsziele des Moduls / zu  Die Studierenden kennen die Grundlagen und 
+erwerbende Kompetenzen:  Methoden der allgemeinen und spezifisch 
+italienischen Kulturwissenschaft. Sie können nach 
+Abschluss des Moduls Entwicklungen der 
+italienischen Geschichte, Politik und Gesellschaft 
+beschreiben und bewerten. 
+ 
+5. Teilnahmevoraussetzungen: 
+ 
+Italienischkenntnisse auf dem Niveau B2.1 des 
+a) empfohlene Kenntnisse: 
+Gemeinsamen Europäischen Referenzrahmens für 
+Sprachen GER, zu erwerben durch z. B. 3 Jahre 
+Italienischunterricht in der Schule; diese 
+sprachlichen Vorkenntnisse sind dringend 
+empfohlen (es wird ein Einstufungstest 
+angeboten). 
+ 
+b) verpflichtende Nachweise: 
+Bachelor (Ital. Philologie: Bachelorfach, Zweites 
+6. Verwendbarkeit des Moduls: 
+Hauptfach, Nebenfach)  
+Bachelor Deutsch-Italienische Studien 
+Lehramt Italienisch an Gymnasien 
+ 
+Die einzelnen Veranstaltungen werden jedes Jahr 
+7. Angebotsturnus des Moduls: 
+angeboten. 
+ 
+8. Das Modul kann absolviert werden  2 Semester 
+ 
+in/ vorgesehene Dauer des Moduls: 
+1.- 2. Fachsemester 
+9. Empfohlenes Fachsemester: 
+ 
+ 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+Gesamt in Stunden: 210  
+     (Workload) / Anzahl 
+davon: 
+Leistungspunkte: 
+1. Präsenzzeit: 5 SWS/75 Std. 
+2. Selbststudium (inkl. Prüfung): 135 Std. 
+ 
+Leistungspunkte: 7* 
+ 
+16 
+ *Die LP für das Modul werden erst nach Bestehen 
+der Modulprüfung bzw. aller Modulteilprüfungen 
+vergeben. 
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen 
+Leistungen erfüllt sind:   
+ 
+12. Modulbestandteile: 
+P / 
+Nr  Lehrform  Themenbereich/Thema  SWS /  Studienleistungen  LP 
+WP 
+Std. 
+1a)  P  Vorlesung  Einführende Vorlesung in die  2    3 
+    Romanische 
+    Kulturwissenschaft  
+o.  WP  oder 
+1b)  Thematische Vorlesung (s. 
+Bemerkung) 
+2    Übung  Grundlagen der Landeskunde  3  Klausur  4 
+Italiens  
+ 
+13. Modulprüfung 
+Art der Prüfung  Dauer  Zeitpunkt /  Anteil an 
+Nr  Kompetenz / Thema 
+Bemerkungen  Modulnote 
+1  Grundlagen und  Klausur  90 Min.  Ende der  100 % 
+Methoden der    Vorlesungszeit 
+allgemeinen und 
+spezifisch italienischen 
+Kulturwissenschaft (zu 
+12.1a oder 12.1b) 
+14. Bemerkungen 
+zu 12: Im Falle der Kombination von zwei oder drei romanistischen Fächern (Französisch, 
+Italienisch, Spanisch) ist in einem der Module FRA-KW-M01A, ITA-KW-M01 A oder SPA-KW-
+M01A die 'Einführende Vorlesung' (1a) einzubringen. In den weiteren gemäß der 
+Fächerkombination zu absolvierenden Modulen ist die Einführende Vorlesung durch eine 
+thematische Vorlesung aus dem Bereich der französischen bzw. italienischen bzw. spanischen 
+Kulturwissenschaft (1b) zu ersetzen.  
+ 
+Die Studienleistung ist in italienischer Sprache abzulegen.  
+ 
+   
+17 
+ ITA-KW-M01-B 
+ 
+Basismodul Italienische Kulturwissenschaft 1B  
+1. Name des Moduls: 
+ 
+Romanistik (Italienisch) / Prof. Dr. Isabella von 
+2. Fachgebiet / Verantwortlich: 
+Treskow 
+ 
+Themen der italienischen Kulturwissenschaft zur 
+3. Inhalte des Moduls: 
+italienischen Geschichte, Politik, Gesellschaft.  
+ 
+4. Qualifikationsziele des Moduls / zu  Die Studierenden beherrschen nach Abschluss des 
+erwerbende Kompetenzen:  Moduls die Anwendung der Grundlagen und 
+Methoden der allgemeinen und spezifisch 
+italienischen Kulturwissenschaft. Sie besitzen 
+vertiefte Kenntnisse der italienischen Geschichte, 
+Politik und Gesellschaft. 
+ 
+5. Teilnahmevoraussetzungen: 
+ 
+Italienischkenntnisse auf dem Niveau B2.1 des 
+a) empfohlene Kenntnisse: 
+Gemeinsamen Europäischen Referenzrahmens für 
+Sprachen GER, zu erwerben durch z. B. 3 Jahre 
+Italienischunterricht in der Schule; diese 
+sprachlichen Vorkenntnisse sind dringend 
+empfohlen (es wird ein Einstufungstest 
+angeboten). Es wird dringend empfohlen, das 
+Modul ITA-KW-M01A vorher abzuschließen. 
+ 
+b) verpflichtende Nachweise: 
+Bachelor (Ital. Philologie:  Bachelorfach, Zweites 
+6. Verwendbarkeit des Moduls: 
+Hauptfach, Nebenfach)  
+Lehramt Italienisch an Gymnasien 
+Innerhalb von 2 Semestern werden alle Kurse 
+7. Angebotsturnus des Moduls: 
+angeboten. 
+ 
+8. Das Modul kann absolviert werden  2 Semester 
+ 
+in/ vorgesehene Dauer des Moduls: 
+2.- 3. Fachsemester 
+9. Empfohlenes Fachsemester: 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+Gesamt in Stunden: 150  
+     (Workload) / Anzahl 
+davon: 
+Leistungspunkte: 
+1. Präsenzzeit: 2 SWS/30 Std. oder 3 SWS/45 Std. 
+(falls Übung in diesem Modul absolviert wird) 
+2. Selbststudium (inkl. Prüfung): 120 Std. oder 105 
+Std. 
+ 
+Leistungspunkte: 5* 
+18 
+ *Die LP für das Modul werden erst nach Bestehen 
+der Modulprüfung bzw. aller Modulteilprüfungen 
+vergeben. 
+ 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen 
+Leistungen erfüllt sind:   
+ 
+12. Modulbestandteile: 
+P / 
+Nr  Lehrform  Themenbereich/Thema  SWS /  Studienleistungen  LP 
+WP 
+Std. 
+1  P  Proseminar  PS Italienische  2  *Vortrag  5 
+Kulturwissenschaft  regelmäßige Teilnahme 
+2  WP  Übung  Wissenschaftliches Arbeiten  1     
+ 
+ 
+13. Modulprüfung 
+Art der Prüfung  Dauer  Zeitpunkt /  Anteil an 
+Nr  Kompetenz / Thema 
+Bemerkungen  Modulnote 
+1  Kenntnis und  Hausarbeit  Umfang 10  Semesterende  100 % 
+Anwendung  Seiten 
+kulturwissenschaftlicher  Mindestbearb
+Methoden (zu 12.1)  eitungszeit: 6 
+Wochen 
+14. Bemerkungen: 
+zu 12. Die Übung Wissenschaftliches Arbeiten (12.2) soll vor dem Proseminar oder parallel zum 
+Proseminar belegt werden. Sie muss nur einmal absolviert werden, entweder in ITA-SW-M01B 
+oder in ITA-LW-M01B oder in ITA-KW-M01B.  
+Auch im Falle der Kombination von zwei oder drei romanistischen Fächern (Französisch, 
+Italienisch, Spanisch) ist sie insgesamt nur einmal zu absolvieren. 
+ 
+*Der Vortrag hat das gleiche Thema wie die Hausarbeit. 
+ 
+Wird die Übung zum wissenschaftlichen Arbeiten im Rahmen des Moduls ITA-KW-M01B 
+absolviert, so erhöht sich die Präsenzzeit in diesem Modul auf 3 SWS. Wird sie im Rahmen eines 
+der beiden Modulen ITA -SW-M01B oder ITA -LW-M01B absolviert, so beträgt die Präsenzzeit 
+nur 2 SWS. Da in der Übung zum wissenschaftlichen Arbeiten keine zusätzlichen Leistungen 
+gefordert werden und die Präsenzzeit für dieses Lehrangebot weit unter dem Arbeitsaufwand 
+liegt, für den normalerweise ein LP vergeben wird, wird für diese Übung kein separater LP 
+ausgewiesen. 
+   
+19 
+ ITA-SW-M02 
+ 
+Aufbaumodul Italienische Sprachwissenschaft 
+1. Name des Moduls: 
+Romanistik (Italienisch) / Prof. Dr. Maria Selig 
+2. Fachgebiet / Verantwortlich: 
+3. Inhalte des Moduls:  Ausgewählte Problembereiche der synchronen 
+und / oder diachronen Linguistik  
+4. Qualifikationsziele des Moduls / zu  Die Studierenden verfügen nach Abschluss des 
+erwerbende Kompetenzen:  Moduls über vertiefte fachliche und methodische 
+Kenntnisse und sind in der Lage, 
+sprachwissenschaftliche Methoden selbständig auf 
+die Gegenwartssprache und auf frühere 
+Sprachstufen anzuwenden. Sie sind vertraut mit 
+der Geschichte der italienischen Sprache. Sie sind 
+in der Lage, fachwissenschaftliche Methoden auf 
+eng begrenzte Forschungsfragen anzuwenden 
+und sie kritisch zu reflektieren.  
+ 
+5. Teilnahmevoraussetzungen: 
+ 
+a) empfohlene Kenntnisse: 
+Für Lehramt und Bachelor Italienische Philologie 
+b) verpflichtende Nachweise: 
+gilt: ITA-SW-M01B.1 für ITA-SW-M02.2  
+Für DIS gilt: DIS-SW-M01.3 für ITA-SW-M02.2 
+Bachelor (Ital. Philologie: Bachelorfach, Zweites 
+6. Verwendbarkeit des Moduls: 
+Hauptfach),  
+Bachelor (Deutsch-Italienische Studien), 
+Lehramt Italienisch an Gymnasien 
+Die einzelnen Veranstaltungen werden jedes Jahr 
+7. Angebotsturnus des Moduls: 
+angeboten. 
+8. Das Modul kann absolviert werden  2 Semester 
+in/ vorgesehene Dauer des Moduls: 
+3.-5. Fachsemester (Bachelor) 
+9. Empfohlenes Fachsemester: 
+3.-8. Fachsemester Lehramt) 
+ 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+Gesamt in Stunden: 360  
+     (Workload) / Anzahl 
+davon: 
+Leistungspunkte: 
+1. Präsenzzeit: 4 SWS / 60 Std. 
+2. Selbststudium (inkl. 
+Prüfungsvorbereitung/Prüfung): 300 Std. 
+ 
+Leistungspunkte: 12* 
+*Die LP für das Modul werden erst nach Bestehen 
+der Modulprüfung bzw. aller Modulteilprüfungen 
+vergeben. 
+ 
+   
+20 
+  
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen 
+Leistungen erfüllt sind: 
+12. Modulbestandteile: 
+P / 
+Nr  Lehrform  Themenbereich/Thema  SWS /  Studienleistungen  LP 
+WP 
+Std. 
+1  P  Vorlesung  V Italienische  2  Klausur  4 
+  Sprachwissenschaft 
+ 
+ 
+ 
+2  P  Hauptseminar  HS Italienische  2  *Vortrag  8 
+Sprachwissenschaft 
+ 
+ 
+ 
+13. Modulprüfung 
+Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr  Kompetenz / Thema 
+Prüfung  Bemerkungen  Modulnote 
+1  Anwendung  Hausarbeit  Umfang 20  Abgabe  100% 
+fachwissenschaftlicher    Seiten  spätestens 
+Methoden auf eng  Mindestbearb bis Semesterende 
+begrenzte  eitungszeit: 8 
+Forschungsfragen (zu  Wochen 
+12.2) 
+14. Bemerkung 
+Für Lehramt Gymnasium gilt: Nur in einem der Aufbaumodule ITA-SW-M02 und ITA-LW-M02 
+muss die Vorlesung mit Studienleistung absolviert werden. Das jeweils andere Modul reduziert 
+sich somit auf 8 LP (nur Hauptseminar). 
+ 
+*Der Vortrag hat das gleiche Thema wie die Hausarbeit. 
+ 
+ 
+ 
+21 
+  ITA-LW-M02 
+ 
+Aufbaumodul Italienische Literaturwissenschaft 
+1. Name des Moduls: 
+ 
+Romanistik (Italienisch) / Prof. Dr. Isabella von 
+2. Fachgebiet / Verantwortlich: 
+Treskow 
+Das Modul beschäftigt sich mit der Einzelver-
+3. Inhalte des Moduls: 
+tiefung wissenschaftlicher Forschungsfragen, der 
+Vorbereitung eigenständiger literaturwissen-
+schaftlicher Forschung und der Einübung typischer 
+Arbeitsformen (z.B. Recherche, Rezension, wiss. 
+Textsorten und mündliche Präsentationsformen); 
+es vermittelt Textkenntnisse in der italienischen 
+Literatur seit den Anfängen. 
+4. Qualifikationsziele des Moduls / zu  Nach Abschluss des Moduls verfügen die 
+Studierenden über vertiefte fachliche 
+erwerbende Kompetenzen: 
+und methodische Kenntnisse. Sie können 
+literaturwissenschaftliche Methoden in einem 
+begrenzten Teilgebiet der italienischen Literatur-
+geschichte und der Literaturkritik kritisch 
+reflektieren und anwenden. Sie sind in der Lage, 
+wissenschaftliche Forschungsfragen unter 
+Einbezug von Sekundärliteratur weitgehend 
+eigenständig zu bearbeiten und beherrschen die 
+literaturgeschichtliche Orientierung in der 
+italienischen Literatur seit den Anfängen. 
+ 
+5. Teilnahmevoraussetzungen: 
+ 
+a) empfohlene Kenntnisse: 
+Für Lehramt und Bachelor Italienische Philologie: 
+b) verpflichtende Nachweise: 
+ITA-LW-M01B.1 für ITA-LW-M02.2 
+Für Bachelor DIS gilt: DIS-LW-M01.3 für ITA-LW-
+M02.2 
+Bachelor (Ital. Philologie:  Bachelorfach, Zweites 
+6. Verwendbarkeit des Moduls: 
+Hauptfach),  
+Bachelor (Deutsch-Italienische Studien), 
+Lehramt Italienisch an Gymnasien 
+Die einzelnen Veranstaltungen werden jedes Jahr 
+7. Angebotsturnus des Moduls: 
+angeboten. 
+8. Das Modul kann absolviert werden  2 Semester 
+in/ vorgesehene Dauer des Moduls: 
+3.-5. Fachsemester (Bachelor) 
+9. Empfohlenes Fachsemester: 
+3.-8. Fachsemester Lehramt) 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+Gesamt in Stunden: 360  
+     (Workload) / Anzahl 
+davon: 
+Leistungspunkte: 
+1. Präsenzzeit: 4 SWS  
+22 
+ 2. Selbststudium (inkl. 
+Prüfungsvorbereitung/Prüfung): 300 Std. 
+ 
+Leistungspunkte: 12* 
+*Die LP für das Modul werden erst nach Bestehen 
+der Modulprüfung bzw. aller Modulteilprüfungen 
+vergeben. 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen 
+Leistungen erfüllt sind: 
+12. Modulbestandteile: 
+P / 
+Nr  Lehrform  Themenbereich/Thema  SWS /  Studienleistungen  LP 
+WP 
+Std. 
+1  P  Vorlesung  V Italienische  2  Klausur  4 
+  Literaturwissenschaft 
+ 
+ 
+ 
+2  P  Hauptseminar  HS Italienische  2  *Vortrag  8 
+Literaturwissenschaft 
+ 
+ 
+ 
+13. Modulprüfung 
+Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr  Kompetenz / Thema 
+Prüfung  Bemerkungen  Modulnote 
+1  Anwendung  Hausarbeit  Umfang: 20  Zeitpunkt: Ende  100% 
+fachwissenschaftlicher    Seiten  der 
+Methoden auf eng  Mindestbearb Vorlesungszeit. 
+begrenzte  eitungszeit: 8  Abgabe 
+Forschungsfragen (zu  Wochen  spätestens 
+12.2)  bis Semesterende. 
+14. Bemerkung 
+Für Lehramt Gymnasium gilt: Nur in einem der Aufbaumodule ITA-SW-M02 und ITA-LW-M02 
+muss die Vorlesung mit Studienleistung absolviert werden. Das jeweils andere Modul reduziert 
+sich somit auf 8 LP (nur Hauptseminar). 
+ 
+*Der Vortrag hat das gleiche Thema wie die Hausarbeit. 
+ 
+ 
+ 
+23 
+ ITA-KW-M02 
+ 
+Aufbaumodul Italienische Kulturwissenschaft 
+1. Name des Moduls: 
+ 
+Romanistik (Italienisch) / Prof. Dr. Isabella von 
+2. Fachgebiet / Verantwortlich: 
+Treskow 
+Vertiefung der theoretischen und methodischen 
+3. Inhalte des Moduls: 
+Kenntnisse in der italienischen Kulturwissenschaft, 
+u.a. Analyse von Kulturbegriffen, aktuelle 
+Theorien; Fachwissen über die italienische Kultur 
+bzw. italienischsprachige Kulturen, auch im 
+Vergleich zu Deutschland (z.B. Erinnerungs-
+kulturen, Gedächtnisorte); 
+Überblick und Reflexion über aktuelle Aspekte, 
+geschichtliche Verläufe und kulturelle 
+Entwicklungen in Bezug auf Medien, Literatur, 
+Gesellschaft und Politik italienischsprachiger 
+Kulturen 
+4. Qualifikationsziele des Moduls / zu  Die Studierenden verfügen nach Abschluss des 
+Moduls über vertiefte Kenntnisse zu 
+erwerbende Kompetenzen: 
+kulturwissenschaftlichen Theorien und 
+Schlüsselbegriffen. Sie sind in der Lage, 
+eigenständig zu recherchieren und fachspezifische 
+Methoden in einem begrenzten Teilgebiet der 
+italienischen Kulturwissenschaft weitgehend 
+selbständig anzuwenden. Sie verstehen die 
+historischen Entwicklungen der italienischen 
+Kultur bzw. italienischsprachiger Kulturen und 
+können eigene Analyseergebnisse fundiert 
+darlegen, z.B. in den Themengebieten der 
+Erinnerungskultur, Zivilisationsgeschichte oder 
+Film- bzw. Mediengeschichte. 
+ 
+5. Teilnahmevoraussetzungen: 
+ 
+a) empfohlene Kenntnisse: 
+ITA-KW-M01 B.1 für ITA -KW-M02.2 
+b) verpflichtende Nachweise: 
+Bachelor (Italien. Philologie: Bachelorfach, Zweites 
+6. Verwendbarkeit des Moduls: 
+Hauptfach),  
+Bachelor Deutsch-Italienische Studien 
+Lehramt Italienisch an Gymnasien 
+Die einzelnen Veranstaltungen werden jedes Jahr 
+7. Angebotsturnus des Moduls: 
+angeboten. 
+8. Das Moduls kann absolviert werden  2 Semester 
+in/ vorgesehene Dauer des Moduls: 
+3.-5. Fachsemester (Bachelor) 
+9. Empfohlenes Fachsemester: 
+3.-8. Fachsemester Lehramt) 
+Arbeitsaufwand: 
+10. Arbeitsaufwand des Moduls 
+24 
+      (Workload) / Anzahl  Gesamt in Stunden: 360  
+Leistungspunkte:  davon: 
+1. Präsenzzeit: 4 SWS  
+2. Selbststudium (inkl. 
+Prüfungsvorbereitung/Prüfung): 300 Std. 
+ 
+Leistungspunkte: 12* 
+*Die LP für das Modul werden erst nach Bestehen 
+der Modulprüfung bzw. aller Modulteilprüfungen 
+vergeben. 
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen 
+Leistungen erfüllt sind: 
+12. Modulbestandteile: 
+P / 
+Nr  Lehrform  Themenbereich/Thema  SWS /  Studienleistungen  LP 
+WP 
+Std. 
+1  P  Vorlesung  VL Italienische  2  Klausur  4 
+  Kulturwissenschaft 
+2  P  Hauptseminar  HS Italienische  2  *Vortrag  8 
+Kulturwissenschaft 
+ 
+ 
+ 
+13. Modulprüfung 
+Art der  Dauer  Zeitpunkt /  Anteil an 
+Nr  Kompetenz / Thema 
+Prüfung  Bemerkungen  Modulnote 
+1  Anwendung  Hausarbeit  Umfang:20  Zeitpunkt: Ende  100% 
+fachwissenschaftlicher    Seiten  der 
+Methoden auf  Mindestbearb Vorlesungszeit. 
+Forschungsfragen der  eitungszeit: 8  Abgabe 
+italienischen  Wochen  spätestens 
+Kulturwissenschaft (zu  bis Semesterende. 
+12.2) 
+14. Bemerkung 
+*Der Vortrag hat das gleiche Thema wie die Hausarbeit. 
+ 
+ 
+ 
+   
+25 
+ ITA-FW-M01 
+ 
+Erweiterungsmodul Italienische 
+1. Name des Moduls: 
+Fachwissenschaften 
+Romanistik / Prof. Dr. Ralf Junkerjürgen 
+2. Fachgebiet / Verantwortlich: 
+3. Inhalte des Moduls:  Problembereiche der synchronen bzw. diachronen 
+Linguistik; Erarbeitung der spezifischen Methodik 
+in ausgewählten Teilbereichen der italienischen 
+Sprachwissenschaft;  
+Texte der italienischen Literatur seit den 
+Anfängen; Theorien und Methoden der 
+italienischen Kulturwissenschaft; Fachwissen über 
+die italienische Kultur, teils im Vergleich zu 
+Deutschland; 
+Analyse wissenschaftlicher Forschungsfragen 
+4. Qualifikationsziele des Moduls / zu  Die Studierenden verfügen nach Abschluss des 
+erwerbende Kompetenzen:  Moduls über erweiterte fachliche und 
+methodische Kenntnisse im Bereich der 
+italienischen Sprach-, Literatur- bzw. Kulturwissen-
+schaft.  
+Sie verfügen über Kenntnisse der Geschichte der 
+italienischen Sprache bzw. literatur- und 
+kulturwissenschaftlicher Methoden in einem 
+begrenzten Teilgebiet der italienischen Literatur- 
+bzw. Kulturgeschichte.  
+ 
+5. Teilnahmevoraussetzungen: 
+ 
+a) empfohlene Kenntnisse: 
+ 
+b) verpflichtende Nachweise: 
+Bachelor (Italienische Philologie: Bachelorfach, 
+6. Verwendbarkeit des Moduls: 
+Nebenfach) 
+Master Romanische Kulturräume 
+Die einzelnen Veranstaltungen werden jedes Jahr 
+7. Angebotsturnus des Moduls: 
+angeboten. 
+8. Das Modul kann absolviert werden  2 Semester 
+in/ vorgesehene Dauer des Moduls: 
+4.-6. Fachsemester (Bachelor) 
+9. Empfohlenes Fachsemester: 
+1.-3. Fachsemester (Master) 
+Arbeitsaufwand:  
+10. Arbeitsaufwand des Moduls 
+Gesamt in Stunden: 180 
+     (Workload) / Anzahl 
+davon: 
+Leistungspunkte: 
+1. Präsenzzeit: 4 SWS /60 Std. 
+2. Selbststudium (inkl. Prüfung): 120 Std. 
+Leistungspunkte: 6 * 
+26 
+ *Die LP für das Modul werden erst nach Bestehen 
+der Modulprüfung bzw. aller Modulteilprüfungen 
+vergeben.   
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen 
+Leistungen erfüllt sind:   
+ 
+12. Modulbestandteile: 
+P / 
+Nr  Lehrform  Themenbereich/Thema  SWS  Studienleistungen  LP 
+WP 
+/ Std. 
+1  P  Vorlesung  Italienische Sprach-, Literatur-  2    4 
+oder Kulturwissenschaft I 
+2  P  Vorlesung/  Italienische Sprach-, Literatur-  2  Klausur oder  2 
+Übung  oder Kulturwissenschaft II  Übungsaufgaben 
+             
+             
+ 
+ 
+13. Modulprüfung 
+Art der Prüfung  Dauer  Zeitpunkt /  Anteil an 
+Nr  Kompetenz / Thema 
+Bemerkungen  Modulnote 
+1   Anwendung fachwissen- Klausur  90 Min.  Ende der  100% 
+  schaftlicher Methoden auf      Vorlesungszeit  
+Themen der Sprach-,       
+Literatur- oder   
+Kulturwissenschaft (zu 12.1) 
+14. Bemerkungen:  
+ 
+ 
+ 
+ 
+   
+27 
+ ITA-AUS-M01 
+ 
+Vertiefung Sprachpraxis und Fachwissenschaft im 
+1. Name des Moduls: 
+Ausland 
+Romanistik / Dr. Christine Lessle 
+2. Fachgebiet / Verantwortlich: 
+Veranstaltungen im Rahmen eines 
+3. Inhalte des Moduls: 
+Auslandsaufenthalts aus folgenden Bereichen: 
+ 
+Italienische Sprache: Ausbau der passiven und 
+aktiven Sprachkompetenzen; vertieftes 
+Verständnis und Analyse von italienischen Texten.  
+Italienische Sprach-, Literatur- und/oder 
+Kulturwissenschaft: Differenzierung und 
+Vertiefung inhaltlicher und theoretischer 
+Kenntnisse unter Berücksichtigung interkultureller 
+Aspekte 
+4. Qualifikationsziele des Moduls / zu  Nach Abschluss des Moduls verfügen die 
+Studierenden über vertiefte sprachpraktische 
+erwerbende Kompetenzen: 
+Kenntnisse, insbesondere im Bereich der 
+ 
+Grammatik und des schriftlichen Ausdrucks.  
+ 
+Vertiefung der sprach-, literatur- und kultur-
+wissenschaftlichen Kenntnisse; Vertrautheit mit 
+Theorien und Methoden der Sprach-, Literatur- 
+und Kulturwissenschaft sowie mit ihrer 
+Anwendung zeichnen die Studierenden nach 
+Abschluss des Moduls aus. 
+ 
+5. Teilnahmevoraussetzungen: 
+ 
+a) empfohlene Kenntnisse: 
+ 
+b) verpflichtende Nachweise: 
+Bachelor (Italienische Philologie: Bachelorfach, 
+6. Verwendbarkeit des Moduls: 
+Nebenfach) 
+Master Romanische Kulturräume 
+ 
+7. Angebotsturnus des Moduls: 
+8. Das Modul kann absolviert werden in/  1 Semester 
+vorgesehene Dauer des Moduls: 
+4.-5. Fachsemester (Bachelor)  
+9. Empfohlenes Fachsemester: 
+1.-3. Fachsemester (Master) 
+10. Gesamtarbeitsaufwand des Moduls  Arbeitsaufwand: 
+Gesamt in Stunden: 180 
+(Leistungspunkte): 
+davon: 
+1. Präsenzzeit: abhängig von den gewählten 
+Veranstaltungen 
+2. Selbststudium (inkl. Prüfung): abhängig von 
+den gewählten Veranstaltungen 
+Leistungspunkte: 6  
+ 
+28 
+ 11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen 
+Leistungen erfüllt sind:   
+ 
+12. Modulbestandteile: 
+P / 
+Nr  Lehrform  Themenbereich/Thema  SWS / Std.  Studienleistungen  LP 
+WP 
+1  P  V / Ü / S  Veranstaltung I an einer  Nach  Nach Vorgabe der  Na
+ausländischen  Vorgabe der  ausländischen Universität  ch 
+Universität zur  ausländische Vor
+italienischen Sprach- n Universität  ga
+praxis oder Sprach-,  be 
+Literatur- und  der 
+Kulturwissenschaft  aus
+län
+dis
+che
+n 
+Uni
+ver
+sitä
+t 
+2  P  V / Ü / S  Veranstaltung II an  Nach  Nach Vorgabe der  Na
+einer ausländischen  Vorgabe der  ausländischen Universität  ch 
+Universität zur  ausländische Vor
+italienischen Sprach- n Universität  ga
+praxis oder Sprach-,  be 
+Literatur- und  der 
+Kulturwissenschaft  aus
+län
+dis
+che
+n 
+Uni
+ver
+sitä
+t 
+3  P  V / Ü / S  Veranstaltung III an  Nach  Nach Vorgabe der  Na
+einer ausländischen  Vorgabe der  ausländischen Universität  ch 
+Universität zur  ausländische Vor
+italienischen Sprach- n Universität  ga
+praxis oder Sprach-,  be 
+Literatur- und  der 
+Kulturwissenschaft  aus
+län
+dis
+che
+n 
+Uni
+29 
+ ver
+sitä
+t 
+ 
+13. Modulprüfung 
+Art der Prüfung  Dauer  Zeitpunkt /  Anteil an 
+Nr  Kompetenz / Thema 
+Bemerkungen  Modulnote 
+-  -  -  -  -  - 
+14. Bemerkungen:  
+Es müssen Kurse im Umfang von mindestens 6 LP absolviert werden. 
+Die Studien- und Prüfungsleistungen entsprechen den in den gewählten Veranstaltungen 
+einzubringenden und von der ausländischen Universität festgelegten Leistungen. 
+Das Modul ist unbenotet. 
+ 
+ 
+ 
+   
+30 
+ ITA-PK-M01 
+ 
+1. Name des Moduls:   Praktikumsmodul  
+2. Fachgebiet / Verantwortlich:   Romanistik / Dr. Christine Lessle  
+3. Inhalte des Moduls:   Praxiserfahrung in deutschen bzw.  
+italienischen Unternehmen und Institutionen, 
+in Bezug zum gewählten Studienfach oder 
+Studienschwerpunkt 
+4. Qualifikationsziele des Moduls / zu  Die Studierenden sind nach Abschluss des 
+erwerbende Kompetenzen:   Moduls in der Lage, die in der bisherigen 
+universitären Ausbildung erworbenen 
+Kenntnisse in einem Unternehmen oder einer 
+Institution mit Schwerpunkt auf 
+internationalen oder deutsch-italienischen 
+Beziehungen umzusetzen sowie ggf. national 
+geprägte Unternehmensstile und 
+Verwaltungsabläufe einzuordnen; sie stärken 
+ihre interkulturelle Kompetenz und erwerben 
+Kenntnisse, die ihnen bei der Vorbereitung 
+auf künftige Tätigkeitsfelder zugutekommen. 
+5. Teilnahmevoraussetzungen:  
+a) empfohlene Kenntnisse:    
+b) verpflichtende Nachweise:    
+6. Verwendbarkeit des Moduls:   Bachelor (Italienische Philologie: 
+Bachelorfach, Nebenfach) 
+Master Romanische Kulturräume 
+7. Angebotsturnus des Moduls:    
+8. Das Modul kann absolviert werden in/  1 Semester 
+vorgesehene Dauer des Moduls: 
+9. Empfohlenes Fachsemester:   3.-5. Fachsemester (Bachelor) 
+1.-3. Fachsemester (Master) 
+10. Gesamtarbeitsaufwand des Moduls   Arbeitsaufwand:  
+(Workload) / Anzahl Leistungspunkte:   Gesamt in Stunden: 180  
+davon:  
+Präsenzzeit: Std. 160  
+Selbststudium: Std. 20  
+Prüfung (inkl. Vorbereitung): Std.-  
+Leistungspunkte: 6* 
+*Die LP für das Modul werden erst nach 
+Bestehen der Modulprüfung bzw. aller 
+Modulteilprüfungen vergeben.   
+  
+ 
+   
+31 
+ 11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen 
+Leistungen erfüllt sind:   
+ 
+12. Modulbestandteile: 
+P / 
+Nr  Lehrform  Themenbereich/Thema  SWS  Studienleistungen  LP 
+WP 
+/ Std. 
+1  P  Praktikum    160    6 
+             
+             
+ 
+ 
+ 
+13. Modulprüfung 
+Art der Prüfung  Dauer  Zeitpunkt /  Anteil an 
+Nr  Kompetenz / Thema 
+Bemerkungen  Modulnote 
+1  Reflexion der während des  Praktikums- Bearbeitu zum Semester- unbenotet 
+  Praktikums erworbenen  bericht (3-5  ngsdauer  ende 
+Fähigkeiten   Seiten)  mind. 4 
+  Wochen 
+14. Bemerkungen:  
+Das Praktikum hat einen Umfang von vier Wochen (160 Stunden/Vollzeit). Das Praktikum kann 
+in einem privaten Unternehmen oder einer öffentlichen Institution absolviert werden, sofern die 
+Praktikumsstelle und die Tätigkeit während des Praktikums einen Schwerpunkt auf 
+internationalen oder deutsch-italienischen Beziehungen aufweist und während des Praktikums 
+der Erwerb interkultureller Kompetenzen nachweisbar ist.  
+ 
+Um die Geeignetheit des geplanten Praktikums zur Erreichung der Kompetenzziele des 
+Moduls und damit die Verwendbarkeit des Praktikums für das Modul sicherzustellen, 
+ist unbedingt vor Beginn des Praktikums Kontakt mit der Modulverantwortlichen 
+aufzunehmen. 
+ 
+ 
+ 
+ 
+32 
+ 

@@ -1,0 +1,68 @@
+input_dictionary = WIG-M01 
+1.Name des Moduls: Wissenschaftsgeschichte I 
+2.Fachgebiet / Verantwortlich: Wissenschaftsgeschichte / Prof. Dr. Omar Nasim 
+3.Inhalte / Lehrziele Das Modul vermittelt einen Überblick über zwei große Epochen 
+aus der Geschichte der Naturwissenschaften und führt an Fra-
+gestellungen und unterschiedliche Forschungspositionen der 
+modernen Wissenschaftsgeschichte heran. Die Studierenden 
+sollen die Wissenschaft in ihren Wechselwirkungen mit Kultur 
+und Gesellschaft als historischen Prozeß begreifen und dieses 
+Wissen in Tutorium und Seminar/Übung exemplarisch anwen-
+den.  
+4.Voraussetzungen:
+a)allgemeiner Art
+b)vorausgesetzte universitäre Veranstaltungen:  keine
+5.Bedingungen:
+- verwendbar in:  Bachelor-Nebenfach, Frei Kombinierbares Neben-
+fach, Studieneinheit im EWS 
+- nicht verwendbar in / nicht kombinierbar mit:  BA-Nebenfach, wenn zugleich FKN, und umge-
+kehrt 
+6.Wie häufig wird das Modul angeboten einmal im Studienjahr 
+7.In welcher Zeit kann das Modul absolviert in zwei Semestern 
+werden? 
+8.Zusammensetzung:
+Nr. Veranstaltungen SWS  LP
+A Pflichtbereich
+1  Vorlesung Wissenschaftsgeschichte (1. Semester)  2 4
+2  Tutorium zur Vorlesung (1. Semester)  1 2
+3  Vorlesung Wissenschaftsgeschichte (2. Semester)  2 4
+4  Tutorium zur Vorlesung (2. Semester)  1 2
+5  Seminar / Übung    2  3 
+Summe aus dem Pflichtbereich  8  15 
+9.Die Veranstaltungen sind im Rahmen der für die Prüfungen gesetzten Fristen wiederholbar.
+10.Die Endnote des Moduls ergibt sich aus den gewichteten Noten der Lehrveranstaltungen, wobei Nr. 1
+bis 4 jeweils ein Sechstel und Nr. 5 zwei Sechstel zur Gesamtnote beitragen. 
+BA_WIG-Module.doc – Version WS 2006/07 WIG-M02 
+1.Name des Moduls: Wissenschaftsgeschichte II 
+2.Fachgebiet / Verantwortlich: Wissenschaftsgeschichte / Prof. Dr. Omar Nasim 
+3.Inhalte / Lehrziele Das Modul vermittelt einen Überblick über mindestens eine 
+weitere große Epoche aus der Geschichte der Naturwissenschaf-
+ten und führt an Fragestellungen und unterschiedliche For-
+schungspositionen der modernen Wissenschaftsgeschichte her-
+an. Die Studierenden sollen die Wissenschaft in ihren Wechsel-
+wirkungen mit Kultur und Gesellschaft als historischen Prozeß 
+begreifen und dieses Wissen in Tutorium exemplarisch anwen-
+den. Im Hauptseminar erfolgt eine erste forschungsorientierte 
+Vertiefung.  
+4.Voraussetzungen:
+a)allgemeiner Art
+b)vorausgesetzte universitäre Veranstaltungen:  keine
+5.Bedingungen:
+- verwendbar in:  Bachelor-Nebenfach, Frei Kombinierbares Neben-
+fach, Studieneinheit im EWS 
+- nicht verwendbar in / nicht kombinierbar mit:  BA-Nebenfach, wenn zugleich FKN, und umge-
+kehrt  
+6.Wie häufig wird das Modul angeboten einmal im Studienjahr 
+7.In welcher Zeit kann das Modul absolviert in zwei Semestern 
+werden? 
+8.Zusammensetzung:
+Nr. Veranstaltungen SWS  LP
+A Pflichtbereich
+1  Vorlesung Wissenschaftsgeschichte (3. Semester)  2 4
+2  Vorlesung Wissenschaftsgeschichte  (4. Semester)  2 4
+3  Hauptseminar 2 7
+Summe aus dem Pflichtbereich  6  15 
+9.Die Veranstaltungen sind im Rahmen der für die Prüfungen gesetzten Fristen wiederholbar.
+10.Die Endnote des Moduls ergibt sich aus dem Durchschnitt der Noten der Lehrveranstaltungen Nr. 1, 2
+und 3. 
+BA_WIG-Module.doc – Version WS 2006/07 

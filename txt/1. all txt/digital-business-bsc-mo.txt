@@ -1,0 +1,2662 @@
+input_dictionary = Modulkatalog der Fakultät für Wirtschaftswissenschaften für den
+Studiengang B.Sc. Digital Business
+Wintersemester 2022/23
+(11.05.2022)
+1. Pflichtmodulgruppe: Betriebswirtschaftliche Grundlagen
+ECTS: 12; Modulgruppenverantwortliche*r: Prof. Dr. Axel Haller
+Modulkennung Modulname P/WP/W SWS G Seite
+BWL-BSc-GL-M01 Buchhaltung Pflicht 2V+2Ü 6 5
+BWL-BSc-GL-M05 Kosten- und Leistungsrechnung Pflicht 2V+2Ü 6 7
+2. Pflichtmodulgruppe: Quantitative Grundlagen
+ECTS: 24; Modulgruppenverantwortliche*r: Prof. Dr. Daniel Rösch
+Modulkennung Modulname P/WP/W SWS G Seite
+WiWi-BSc-Q02 Statistik 1 für Wirtschaftswissenschaften Pflicht 2V+2Ü 6 10
+WiWi-BSc-Q03 Statistik 2 für Wirtschaftswissenschaften Pflicht 2V+2Ü 6 12
+WiWi-BSc-Q01 Mathematik Pflicht 2V+2Ü 6 14
+WI-BSc-QG-M01 Mathematik für Wirtschaftsinformatiker Pflicht 2V+2Ü 6 16
+3. Pflichtmodulgruppe: Digitalisierung
+ECTS: 24; Modulgruppenverantwortliche*r: Prof. Dr. Günther Pernul
+Modulkennung Modulname P/WP/W SWS G Seite
+WI-BSc-WI-M01 Betriebliche Informationssysteme Wahlpflicht 2V+2Ü 6 19
+WI-BSc-WI-M02 Unternehmensmodellierung Wahlpflicht 2V+2Ü 6 20
+WI-BSc-WI-M03 Datenbanken im Unternehmen Wahlpflicht 2V+2Ü 6 22
+WI-BSc-WI-M05 Grundlagen digitaler Wertschöpfungsketten Wahlpflicht 2V+2Ü 6 24
+WI-BSc-WI-M06 Datengetriebene, digitale Dienstleistungen Wahlpflicht 2V+2Ü 6 26
+4. Pflichtmodulgruppe: Technologien & Management der Digitalisierung
+ECTS: 12; Modulgruppenverantwortliche*r: Prof. Dr. Julia Klier
+Modulkennung Modulname P/WP/W SWS G Seite
+WI-BSc-AWI-M01 Informationsmanagement Wahlpflicht 2V+2Ü 6 28
+WI-BSc-AWI-M02 Internettechnologien und Network Wahlpflicht 2V+2Ü 6 30
+Computing
+WI-BSc-WI-M07 Methoden des Projektmanagements Wahlpflicht 2V+2Ü 6 32
+5. Pflichtmodulgruppe: Data Analytics
+ECTS: 24; Modulgruppenverantwortliche*r: Prof. Dr. Daniel Rösch
+Modulkennung Modulname P/WP/W SWS G Seite
+BWL-BSc-BA-M01 Applied Data Science Pflicht 2V+2Ü 6 35
+VWL-BSc-GL-M05 Einführung in die Ökonometrie Pflicht 2V+2Ü 6 37
+VWL-BSc-EW-M03 Zeitreihenökonometrie Pflicht 2V+2Ü 6 39
+WI-BSc-AWI-M03 Data Analytics: Methoden und Pflicht 2V+2Ü 6 41
+Programmierung
+6. Schwerpunktmodulgruppen
+6.1. Schwerpunktmodulgruppe: Digital Information Systems
+ECTS: 24; Modulgruppenverantwortliche*r: Prof. Dr. Stefan Schönig
+Modulkennung Modulname P/WP/W SWS G Seite
+WI-BSc-IBIS-M01 Internet Business I Wahlpflicht 2V+2Ü 6 44
+WI-BSc-IBIS-M02 Internet Business II Wahlpflicht 2V+2Ü 6 46
+WI-BSc-IBIS-M03 IT Security I Wahlpflicht 2V+2Ü 6 48
+1WI-BSc-IBIS-M04 IT Security II Wahlpflicht 2V+2Ü 6 50
+WI-BSc-AWI-M04 Architektur von Informationssystemen Wahlpflicht 2V+2Ü 6 52
+6.2. Schwerpunktmodulgruppe: BWL 1:  Wertschöpfungsmanagement
+ECTS: 18; Modulgruppenverantwortliche*r: Prof. Dr. Thomas Steger
+Modulkennung Modulname P/WP/W SWS G Seite
+BWL-BSc-WM-M02 Logistik Wahlpflicht 2V+2Ü 6 55
+BWL-BSc-WM-M03 Personalmanagement Wahlpflicht 2V+2Ü 6 56
+BWL-BSc-WM-M05 Quantitative Methoden des digitalen Wahlpflicht 2V+2Ü 6 58
+Produktionsmanagements
+BWL-BSc-WM-M04 Strategisches Business Marketing Wahlpflicht 2V+2Ü 6 60
+BWL-BSc-WM-M01 Internationales Management Wahlpflicht 2V 6 62
+6.3. Schwerpunktmodulgruppe: BWL2: Finanzmanagement
+ECTS: 18; Modulgruppenverantwortliche*r: Prof. Dr. Inga Hardeck
+Modulkennung Modulname P/WP/W SWS G Seite
+BWL-BSc-FI-M01 Betriebswirtschaftliche Steuerlehre Wahlpflicht 2V+2Ü 6 65
+BWL-BSc-FI-M02 Corporate Finance Wahlpflicht 2V+2Ü 6 67
+BWL-BSc-FI-M03 Kapitalmarktmanagement Wahlpflicht 2V+2Ü 6 69
+BWL-BSc-FI-M04 Externe Unternehmensberichterstattung II Wahlpflicht 2V+2Ü 6 71
+DB-BSc-FI-M01 Digital Real Estate Wahlpflicht 2V+2Ü 6 73
+7. Freie Schwerpunktmodulgruppen
+7.1. Freie Schwerpunktmodulgruppe: Wertschöpfungsmanagement
+ECTS: 18; Modulgruppenverantwortliche*r: Prof. Dr. Roland Helm
+Modulkennung Modulname P/WP/W SWS G Seite
+BWL-BSc-PG-M03 Produktionsmanagement Wahlpflicht 2V+2Ü 6 76
+BWL-BSc-GL-M06 Marketing Wahlpflicht 2V+2Ü 6 78
+BWL-BSc-PG-M04 Organisationslehre (PO2021) Wahlpflicht 2V+2Ü 6 80
+BWL-BSc-PG-M05 Management und Unternehmensgründung Wahlpflicht 2V 6 82
+BWL-BSc-PG-M01 Leistungserstellung Wahlpflicht 2V+2Ü 6 84
+7.2. Freie Schwerpunktmodulgruppe: Finanzmanagement
+ECTS: 18; Modulgruppenverantwortliche*r: Prof. Dr. Klaus Röder
+Modulkennung Modulname P/WP/W SWS G Seite
+BWL-BSc-GL-M03 Finanzierung Wahlpflicht 2V+2Ü 6 87
+BWL-BSc-GL-M04 Investitionsentscheidungen Wahlpflicht 2V+2Ü 6 89
+BWL-BSc-GL-M02 Externe Unternehmensberichterstattung I Wahlpflicht 2V+2Ü 6 91
+BWL-BSc-PG-M02 Steuerrechtliche Grundlagen Wahlpflicht 2V+2Ü 6 93
+8.  Wahlmodulgruppe Digital Business
+ECTS: 12; Modulgruppenverantwortliche*r: Prof. Dr. Thomas Steger
+Modulkennung Modulname P/WP/W SWS G Seite
+  aus dem Studienangebot der Fakultät Wahl max 12
+Wirtschaftswissenschaften
+  aus dem Studienangebot anderer Fakultäten Wahl max 12
+oder zentraler Einrichtungen der Universität
+Regensburg
+  aus einem Auslandsemester / Auslandjahr Wahl max 12
+  von anderen Hochschulen im Falle eines Wahl max 12
+Studienortswech-sels
+9.  Forschungsmodulgruppe Digital Business
+ECTS: 12; Modulgruppenverantwortliche*r: Prof. Dr. Roland Helm
+Modulkennung Modulname P/WP/W SWS G Seite
+2BWL-BSc-F01 Bachelorarbeit Pflicht 10 96
+BWL-BSc-F02 Einführung in wissenschaftliches Arbeiten Pflicht 1V 2 97
+3Beschreibung aller Module der Fakultät für Wirtschaftswissenschaften –
+B.Sc. Digital Business
+1. Pflichtmodulgruppe: Betriebswirtschaftliche Grundlagen
+Qualifikationsziele der Modulgruppe:
+Die Studierenden werden mit den Basisdisziplinen der Betriebswirtschaftslehre vertraut ge-macht. In Buchhaltung
+sollen sie in der Lage sein, laufende Geschäftsvorfälle zu verbuchen und Abschlussbuchungen vorzunehmen. In
+der Kostenrechnung steht die Nutzung von Informationen aus der Kostenrechnung für die betriebliche Produkt-
+und Programmplanung im Vordergrund.
+ECTS: 12; Modulgruppenverantwortliche*r: Prof. Dr. Axel Haller
+Modulkennung Modulname P/WP/W SWS G
+BWL-BSc-GL-M01 Buchhaltung Pflicht 2V+2Ü 6
+BWL-BSc-GL-M05 Kosten- und Leistungsrechnung Pflicht 2V+2Ü 6
+4Modul BWL-BSc-GL-M01
+1. Name des Moduls: Buchhaltung
+2. Fachgebiet / Verantwortlich: Dr. Daniel Blab
+3. Inhalte des Moduls: -  Aufbau  und  Funktionsweise  des  betrieblichen
+Rechnungswesens
+- Rechtliche Grundlagen
+- Inventur und Inventar
+- Organisation der Bücher
+- Kontensystematik
+-  Buchungstechnik  anhand  verschiedener,  betrieblicher
+Sachverhalte
+- Vorbereitung des Jahresabschlusses
+4. Qualifikationsziele des Moduls / zu Nach dem erfolgreichen Abschluss des Moduls haben die
+erwerbende Kompetenzen: Studierenden  grundlegende  Kenntnisse  des  betrieblichen
+Rechnungswesens, insbesondere der Buchhaltung, erfahren.
+Sie  sind  in  der  Lage,  unterschiedliche  betriebliche
+Sachverhalte auf den entsprechenden Konten zu verbuchen.
+Die Studierenden können die Auswirkungen der erfassten
+Sachverhalte auf die Vermögens-, Finanz- und Ertragslage
+eines Unternehmens einschätzen. Außerdem wissen sie, wie
+auf Basis der Buchhaltung grundsätzlich ein Jahresabschluss
+zu erstellen ist.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc DB, PMG "Betriebswirtschaftliche Grundlagen"
+7. Angebotsturnus des Moduls: im Turnus Wintersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 1. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Std.)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Buchhaltung 2
+2 P Übung Buchhaltung 2
+513. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Buchhaltung Klausur 90 Prüfungszeitraum: 100
+Minuten erste bis vierte
+Woche nach
+Vorlesungsende
+14. Bemerkungen:
+Bei einem geplanten Auslandsaufenthalt ist eine potenzielle Modulanrechnung mit dem Prüfer oder der Prüferin
+im Vorfeld abzuklären.
+6Modul BWL-BSc-GL-M05
+1. Name des Moduls: Kosten- und Leistungsrechnung
+2. Fachgebiet / Verantwortlich: Dr. Daniel Blab
+3. Inhalte des Moduls: - Grundlagen der Kosten- und Leistungsrechnung
+- Aufbau und Systeme der Kosten- und Leistungsrechnung
+- Kostenartenrechnung
+- Kostenstellenrechnung
+- Kostenträgerrechnung
+- Kostenanalyse
+4. Qualifikationsziele des Moduls / zu Nach  dem  erfolgreichen  Abschluss  des  Moduls  sind  die
+erwerbende Kompetenzen: Studierenden in der Lage, die Aufgaben und Möglichkeiten
+der  Kosten-  und  Leistungsrechnung  im  betrieblichen
+Rechnungswesen  richtig  einzuordnen.  Die  Studierenden
+kennen  die  Unterschiede  zwischen  der  Kostenarten-,
+Kostenstellen-  und  Kostenträgerrechnung  und  deren
+Aussagekraft.  Außerdem  können  die  Studierenden  die
+Kostenrechnung für Planungs- und Kontrollzwecke einsetzen
+und auswerten.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: BWL-BSc-GL-M01 Buchhaltung
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc DB, PMG "Betriebswirtschaftliche Grundlagen"
+7. Angebotsturnus des Moduls: im Turnus Sommersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 2. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Std.)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Kosten- und Leistungsrechnung 2
+2 P Übung Kosten- und Leistungsrechnung 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Kosten- und Klausur 90 Prüfungszeitraum: 100
+Leistungsrechnung Minuten erste bis vierte
+Woche nach
+Vorlesungsende
+714. Bemerkungen:
+Bei einem geplanten Auslandsaufenthalt ist eine potenzielle Modulanrechnung mit dem Prüfer oder der Prüferin
+im Vorfeld abzuklären.
+82. Pflichtmodulgruppe: Quantitative Grundlagen
+Qualifikationsziele der Modulgruppe:
+Den Studierenden werden die mathematischen Methoden und Fähigkeiten vermittelt, die in den Modulen des
+Studiengangs Digital Business und später im beruflichen Alltag benötigt werden. Zusätzlich sind Studierende nach
+Abschluss des Moduls in der Lage, Probleme der Praxis in die Sprache der Mathematik zu transformieren
+verstanden. Hinzu kommen die wesentlichen statistischen Schätz- und Testverfahren, die für die empirische
+Forschung in den Wirtschafts- und Sozialwissenschaften unentbehrlich sind. Einen wichtigen Bestandteil dieser
+Einführung in die Statistik bilden die grundlegenden Verfahren zur Aufbereitung, Darstellung und Analyse von
+Daten.
+ECTS: 24; Modulgruppenverantwortliche*r: Prof. Dr. Daniel Rösch
+Modulkennung Modulname P/WP/W SWS G
+WiWi-BSc-Q02 Statistik 1 für Wirtschaftswissenschaften Pflicht 2V+2Ü 6
+WiWi-BSc-Q03 Statistik 2 für Wirtschaftswissenschaften Pflicht 2V+2Ü 6
+WiWi-BSc-Q01 Mathematik Pflicht 2V+2Ü 6
+WI-BSc-QG-M01 Mathematik für Wirtschaftsinformatiker Pflicht 2V+2Ü 6
+9Modul WiWi-BSc-Q02
+1. Name des Moduls: Statistik 1 für Wirtschaftswissenschaften
+2. Fachgebiet / Verantwortlich: Prof. Dr. Daniel Rösch
+3. Inhalte des Moduls: - Deskriptive Statistik
+- Häufigkeitsverteilung eindimensionaler Merkmale
+- Konzentrationsmessung
+- Zweidimensionale Häufigkeitsverteilungen
+- Korrelationsrechnung
+- Wahrscheinlichkeitsrechnung
+- Eindimensionale Zufallsvariablen und ihre Verteilung
+4. Qualifikationsziele des Moduls / zu Nach Abschluss des Moduls kennen die Studierenden die
+erwerbende Kompetenzen: wesentlichen  Methoden  der  Deskriptiven  Statistik  und
+können diese zur Darstellung und Beschreibung von Daten
+anwenden  und  interpretieren.  Darüber  hinaus  sind  sie
+entsprechend  einer  vorwiegend  problemorientierten
+Auffassung von angewandter Statistik mit den Grundlagen
+der Wahrscheinlichkeitsrechnung und theoretischer Modelle,
+insbesondere mit ökonomischem Bezug, vertraut. Die Übung
+hat die Inhalte der Vorlesung an Beispielen und Fallstudien
+vertieft  und  die  Studierenden  in  die  Lage  versetzt,
+eigenständige statistische Analysen zu betreiben.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc DB, PMG "Quantitative Grundlagen"
+7. Angebotsturnus des Moduls: im Turnus Wintersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 1. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Std.)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Statistik 1 2
+2 P Übung Statistik 1 2
+1013. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Statistik 1 Klausur 90 Prüfungszeitraum: 100
+erste bis vierte
+Woche nach
+Vorlesungsende
+14. Bemerkungen:
+-  Die  Wiederholungsprüfung  ist  grundsätzlich  nicht  für  Erstschreiber  offen  (Ausnahmen:  Krankheit  und
+Auslandsaufenthalt).
+- Bei einem geplanten Auslandsaufenthalt ist eine potentielle Modulanrechnung mit der Lehrperson im Vorfeld
+abzuklären.
+11Modul WiWi-BSc-Q03
+1. Name des Moduls: Statistik 2 für Wirtschaftswissenschaften
+2. Fachgebiet / Verantwortlich: Prof. Dr. Daniel Rösch
+3. Inhalte des Moduls: - Stichprobenfunktionen
+- Punktschätzung
+- Eigenschaften von Punktschätzern
+- Einführung in die KQ- und ML-Schätzung
+- Konfidenzschätzung
+- Statistische Tests
+- Regressionsanalyse
+4. Qualifikationsziele des Moduls / zu Nach Abschluss des Moduls kennen die Studierenden die
+erwerbende Kompetenzen: wesentlichen Methoden der induktiven Statistik und können
+statistische  Schätz-  und  Testverfahren  durchführen  und
+interpretieren. Sie sind in der Lage, grundlegende Konzepte
+der  induktiven  Statistik  und  der  Regressionsanalyse
+insbesondere  mit  engem  Bezug  zu  ökonomischen
+Sachverhalten anzuwenden. Die Übung hat die Inhalte der
+Vorlesung  an  Beispielen  und  Fallstudien  vertieft  und  die
+Studierenden in die Lage versetzt, eigenständige statistische
+Analysen zu betreiben.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: WiWi-BSc-Q02 Statistik 1 für Wirtschaftswissenschaften
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc DB, PMG "Quantitative Grundlagen"
+7. Angebotsturnus des Moduls: im Turnus Sommersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 2. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Std.)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Statistik 2 2
+2 P Übung Statistik 2 2
+1213. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Statistik 2 Klausur 90 Prüfungszeitraum: 100
+erste bis vierte
+Woche nach
+Vorlesungsende
+14. Bemerkungen:
+-  Die  Wiederholungsprüfung  ist  grundsätzlich  nicht  für  Erstschreiber  offen  (Ausnahmen:  Krankheit  und
+Auslandsaufenthalt).
+- Bei einem geplanten Auslandsaufenthalt ist eine potentielle Modulanrechnung mit der Lehrperson im Vorfeld
+abzuklären.
+13Modul WiWi-BSc-Q01
+1. Name des Moduls: Mathematik
+2. Fachgebiet / Verantwortlich: Dr. Michael Oberländer
+3. Inhalte des Moduls: Grundlagen aus Analysis und linearer Algebra
+-  Eigenschaften  von  Funktionen  einer  und  mehrerer
+Variablen
+- Grenzwerte von Funktionen
+- Differentialrechnung einer und mehrerer Veränderlicher
+- Elastizitäten
+- Optimierung mit und ohne Nebenbedingungen
+- Grenzrate der Substitution
+- Integralrechnung
+- Vektorräume
+- Matrizenrechnung
+- Rang und Inverse einer Matrix
+- Lineare Gleichungssysteme
+- Lineare Programmierung
+- Einführung in die Finanzmathematik
+4. Qualifikationsziele des Moduls / zu Nach Abschluss dieses Moduls haben die Studierenden die
+erwerbende Kompetenzen: Grundlagen  aus  Analysis  und  linearer  Algebra  sowie  die
+Einführung in die mathematische Modellierung und Lösung
+ökonomischer Probleme vermittelt bekommen, die für ein
+wirtschaftswissenschaftliches Studium benötigt werden. Die
+Übung in Kleingruppen hat die Inhalte der Vorlesung durch
+das  Rechnen  von  Beispielaufgaben  vertieft  und  die
+Studierenden  in  die  Lage  versetzt,  die  richtigen
+mathematischen  Verfahren  zur  Lösung  eines  Problems
+auszuwählen und korrekt anzuwenden.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc DB, PMG "Quantitative Grundlagen"
+7. Angebotsturnus des Moduls: im Turnus Wintersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 1. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Std.)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Mathematik 2
+2 P Übung Mathematik 2
+1413. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Mathematik Klausur 90 Prüfungszeitraum: 100
+erste bis vierte
+Woche nach
+Vorlesungsende
+15Modul WI-BSc-QG-M01
+1. Name des Moduls: Mathematik für Wirtschaftsinformatiker
+2. Fachgebiet / Verantwortlich: Dr. Michael Oberländer
+3. Inhalte des Moduls: Graphentheorie
+- Kürzeste Wege in Netzen
+- Minimaler spannender Baum
+- Chinese Postman's Problem
+- Traveling Salesman Problem
+Grundlagen der Entscheidungstheorie
+-  Entscheidungsmodelle  als  Teil  des
+Entscheidungsfindungsprozesses
+- Entscheidungen bei Sicherheit
+- Entscheidungen bei Ungewissheit
+- Entscheidungen bei Risiko
+Lineare Optimierung
+-  Standardformen  und  Lösbarkeit  von  linearen
+Optimierungsproblemen
+- Simplex-Algorithmus
+- Dualität
+- Ganzzahlige lineare Optimierung
+4. Qualifikationsziele des Moduls / zu Nach  Abschluss  dieses  Moduls  haben  die  Studierenden
+erwerbende Kompetenzen: Kenntnisse  über  spezielle  mathematische  Grundlagen
+(Graphentheorie, Entscheidungslehre, Lineare Optimierung)
+erlernt, die für ein Studium der Wirtschaftsinformatik von
+Bedeutung sind. Nach Abschluss des Moduls können die
+Studierenden  Probleme  der  Praxis  in  die  Sprache  der
+Mathematik transformieren und kennen geeignete Verfahren
+zu  ihrer  Lösung.  Dabei  haben  sie  auch  die  Grenzen
+analytischer Modellbildung kennen gelernt. Die Übung hat
+die  Inhalte  der  Vorlesung  an  Beispielen  vertieft  und  die
+Studierenden in die Lage versetzt, Lösungsalgorithmen mit
+Hilfe des Computers anzuwenden.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: WiWi-BSc-Q01 Mathematik
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc DB, PMG "Quantitative Grundlagen"
+7. Angebotsturnus des Moduls: im Turnus Wintersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 3. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+1611. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Mathematik für 2
+Wirtschaftsinformatiker
+2 P Übung Mathematik für 2
+Wirtschaftsinformatiker
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Mathematik für Klausur 60 Prüfungszeitraum: 100
+Wirtschaftsinformatiker Minuten erste bis vierte
+Woche nach
+Vorlesungsende
+173. Pflichtmodulgruppe: Digitalisierung
+Qualifikationsziele der Modulgruppe:
+Nach Abschluss der Modulgruppe haben die Studierenden ein grundlegendes Verständnis für die Entwicklung,
+Gestaltung und Verwendung von informationstechnischen Systemen erlangt. Sie sind weiterhin in der Lage,
+Datenbankentwürfe  von  der  Anforderungsanalyse  über  den  konzeptuellen  bis  hin  zum  logischen  Entwurf
+selbständig  vorzunehmen.  Zudem  können  sie  standardkonforme  SQL-Abfragen  auf  komplexe  Datenquellen
+erstellen. Ebenso sind sie in der Lage die Aufbau- und Ablauforganisation des Unternehmens in Modellen zu
+beschreiben und zu bewerten. Der Einsatz, die Funktionalitäten und die Nutzungsformen betrieblicher und
+überbetrieblicher Informationssysteme können die Studierenden erkennen und eine Klassifikation der unter-
+schiedlichen Informationssysteme vornehmen.
+ECTS: 24; Modulgruppenverantwortliche*r: Prof. Dr. Günther Pernul
+Modulkennung Modulname P/WP/W SWS G
+WI-BSc-WI-M01 Betriebliche Informationssysteme Wahlpflicht 2V+2Ü 6
+WI-BSc-WI-M02 Unternehmensmodellierung Wahlpflicht 2V+2Ü 6
+WI-BSc-WI-M03 Datenbanken im Unternehmen Wahlpflicht 2V+2Ü 6
+WI-BSc-WI-M05 Grundlagen digitaler Wertschöpfungsketten Wahlpflicht 2V+2Ü 6
+WI-BSc-WI-M06 Datengetriebene, digitale Dienstleistungen Wahlpflicht 2V+2Ü 6
+18Modul WI-BSc-WI-M01
+1. Name des Moduls: Betriebliche Informationssysteme
+2. Fachgebiet / Verantwortlich: Dr. Norbert Meckl
+3. Inhalte des Moduls: Grundlagen  betrieblicher  Informationssysteme:  Begriffe,
+Aufgaben und Ziele; betriebliche Anwendungssysteme; ERP-
+Systeme;  funktionale,  integrierte,  branchenorientierte,
+innerbetriebliche und überbetriebliche Informationssysteme;
+E-Business:  Begriffe,  Überblick;  Bezahlsysteme:  Verfahren
+und Bewertung
+4. Qualifikationsziele des Moduls / zu Nach Abschluss dieses Moduls sind die Studierenden in der
+erwerbende Kompetenzen: Lage,  den  Einsatz,  die  Funktionalitäten  und  die
+Nutzungsformen  betrieblicher  und  überbetrieblicher
+Informationssysteme zu erkennen und eine Klassifikation der
+unterschiedlichen  Informationssysteme  vorzunehmen.  Die
+vermittelten Inhalte wurden durch reale Fallstudien aus der
+betrieblichen Praxis veranschaulicht.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc DB, PMG "Digitalisierung"
+7. Angebotsturnus des Moduls: im Turnus Wintersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 1. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS * 30 Std)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Betriebliche Informationssysteme 2
+2 P Übung Betriebliche Informationssysteme 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Betriebliche Klausur 90 Prüfungszeitraum: 100
+Informationssysteme erste bis vierte
+Woche nach
+Vorlesungsende
+19Modul WI-BSc-WI-M02
+1. Name des Moduls: Unternehmensmodellierung
+2. Fachgebiet / Verantwortlich: Prof. Dr. Susanne Leist
+3. Inhalte des Moduls: Grundlagen  der  Unternehmensmodellierung,  Ziele,
+Aufgaben, grundlegende Begriffe (u.a. Methode, Modell)
+Modellierungstechniken
+- Techniken für die Prozessmodellierung
+- Techniken für die Datenmodellierung
+- Weitere Techniken für die Modellierung
+Modellierungsmethoden und Anwendungsgebiete
+- Modellierung als Grundlage der Softwareentwicklung
+- Modellierung im Business Process Management
+Qualitätssicherung der Modellierung
+Werkzeuge der Modellierung
+4. Qualifikationsziele des Moduls / zu Nach  Abschluss  des  Moduls  können  die  Studierenden
+erwerbende Kompetenzen: verschiedene Techniken für die Analyse und den Entwurf
+(z.B. effizienter Prozessabläufe) im Unternehmens benennen
+und  aufzeigen,  mit  welcher  Zielsetzung  diese  eingesetzt
+werden können. Darüber hinaus sind die Studierenden nach
+Abschluss  des  Moduls  in  der  Lage  in  Abhängigkeit  der
+gewählten  Zielsetzung,  die  Techniken  exemplarisch  an
+Fallstudien anzuwenden. Die Übung hat dabei die Inhalte der
+Vorlesung an Beispielen vertieft und die Studierenden in die
+Lage  versetzt,  vor  allem  mit  einem  Werkzeug  zur
+Unternehmensmodellierung umzugehen (z.B. ARIS Architect).
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc DB, PMG "Digitalisierung"
+7. Angebotsturnus des Moduls: im Turnus Wintersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 3. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Stunden)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std. (2/3*Gesamtzeit)
+2011. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Unternehmensmodellierung 2
+2 P Übung Unternehmensmodellierung 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Unternehmensmodellierung Klausur 60 Prüfungszeitraum: 100
+erste bis vierte
+Woche nach
+Vorlesungsende
+21Modul WI-BSc-WI-M03
+1. Name des Moduls: Datenbanken im Unternehmen
+2. Fachgebiet / Verantwortlich: Prof. Dr. Günther Pernul
+3. Inhalte des Moduls: Datenbanksysteme gehören heute zur Basissoftware eines
+jeden IT-Systems und stellen in den meisten betrieblichen
+Anwendungssystemen  eine  zentrale  Softwarekomponente
+dar.  Diese  Vorlesung  bietet  eine  anwendungsorientierte
+Einführung  in  die  Datenmodellierung  und
+Datenbanktechnologie  unter  besonderer  Berücksichtigung
+der Anforderungen von Unternehmen. Die in der Vorlesung
+vermittelten Konzepte werden in einer begleitenden Übung
+praktisch geübt.
+Inhalte:
+- Anforderungserhebung- und Analyse
+- Konzeptueller Entwurf, Entity Relationship-Modellierung
+- Relationales Datenbankmodell
+- Logischer Entwurf
+- Datenbanksprachen, rel. Algebra, SQL
+- Formaler Datenbankentwurf
+- Datenbanktransaktionen
+4. Qualifikationsziele des Moduls / zu Die  Studierenden  sind  nach  erfolgreichem  Abschluss  des
+erwerbende Kompetenzen: Moduls  in  der  Lage,  Datenbankentwürfe  von  der
+Anforderungsanalyse über den konzeptuellen bis hin zum
+logischen Entwurf selbständig vorzunehmen. Zudem sind sie
+in der Lage, standard-konforme SQL-Abfragen auf komplexe
+Datenquellen  zu  erstellen  und  ein  kommerzielles
+Datenbanksystem administrativ zu bedienen. Im Weiteren
+weisen  die  Studierenden  des  Moduls  nach,  dass  sie  die
+erarbeiteten Entwurfstechniken im Rahmen einer Fallstudie
+praktisch anwenden und einsetzten können.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc DB, PMG "Digitalisierung"
+7. Angebotsturnus des Moduls: im Turnus Sommersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 2. bzw. 4. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Stunden)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+(2/3*Gesamtzeit)
+2211. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Datenbanken im Unternehmen 2
+2 P Übung Datenbanken im Unternehmen 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Datenbanken im Klausur 90 Prüfungszeitraum: 100
+Unternehmen Minuten erste bis vierte
+Woche nach
+Vorlesungsende
+23Modul WI-BSc-WI-M05
+1. Name des Moduls: Grundlagen digitaler Wertschöpfungsketten
+2. Fachgebiet / Verantwortlich: Prof. Dr. N N
+3. Inhalte des Moduls: Digitale  Wertschöpfungsketten  nehmen  heute  sowohl
+gesamtwirtschaftlich als auch gesellschaftlich eine zentrale
+Rolle ein. Charakteristisch dafür ist das Zusammenspiel einer
+Vielzahl  von  Akteuren  entlang  der  Internet-
+Wertschöpfungskette. Diese reicht von Unternehmen, die
+Netzwerkinfrastrukturdienste  anbieten  und  das  Netz  aus
+technischer Sicht betreiben, bis hin zu Unternehmen, die
+Dienste und Inhalte im Internet bereitstellen (z. B. Google
+oder Facebook). Im Rahmen dieser Vorlesung werden die
+technischen und ökonomischen Grundlagen gelegt, die für
+das Verständnis des Internet-Ökosystems entscheidend sind.
+Die  Veranstaltung  adressiert  u.a.  Historie  und  technische
+Grundlagen  des  Internets,  Architektur  und  Standards,
+Geschäftsmodelle  im  Internet,  Online-Werbung,
+Empfehlungssysteme,  Suchmaschinen-Optimierung,
+Netzwerkeffekte.
+4. Qualifikationsziele des Moduls / zu Ziel dieses Moduls ist, ein Verständnis für die wirtschaftliche
+erwerbende Kompetenzen: und technische Funktionsweise des Internet-Ökosystems und
+der digitalen Wertschöpfung zu erlangen. Die Studierenden
+sind  in  der  Lage,  ihr  Verständnis  zu  nutzen,  um
+Geschäftsmodelle  im  Internet  zu  analysieren,  eigene
+Geschäftsideen zu entwickeln und auf Veränderungen des
+Internet-Ökosystems entsprechend zu reagieren.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc DB, PMG "Digitalisierung"
+7. Angebotsturnus des Moduls: im Turnus Sommersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester:
+10. Arbeitsaufwand des Moduls (Workload) / Arbeitsaufwand:
+Anzahl Leistungspunkte: Gesamt in Stunden: 180 (6 ECTS*30 Stunden)
+davon:
+1. Präsenzzeit: 60 Stunden (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+2411. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Grundlagen digitaler Wertschöpfungs- 2
+ketten
+2 P Übung Grundlagen digitaler Wertschöpfungs- 2
+ketten
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Grundlagen digitaler Klausur 60 Im regulären 100
+Wertschöpfungs-ketten Minuten Klausurenzeitraum
+25Modul WI-BSc-WI-M06
+1. Name des Moduls: Datengetriebene, digitale Dienstleistungen
+2. Fachgebiet / Verantwortlich: Prof. Dr. N N
+3. Inhalte des Moduls: Der Kurs bietet Managementstudierenden einen Überblick
+über  das  multidisziplinäre  Feld  digitaler  Produkte  und
+Dienstleistungen. Zu den Themen gehören unter anderem
+die Datensammlung, -integration, -modellierung, -analyse,
+-visualisierung,  und  -vorhersage,  das  Datenmanagement,
+und  die  datengetriebene  Entscheidungsfindung.  Der  Kurs
+wird durch praktische Einheiten unterstützt, die sich auf die
+Datenanalyse und Programmierung konzentrieren.
+4. Qualifikationsziele des Moduls / zu Lernziel  des  Moduls  „Datengetriebene,  digitale
+erwerbende Kompetenzen: Dienstleistungen“ ist es, ein grundlegendes Verständnis für
+digitale  Dienstleistungen  und  Produkte,  Bewertung  und
+Wirkung von Daten und Informationen zu erzielen, um diese
+in rationale Entscheidungen für Konsumenten, Unternehmen
+und Partner einzubeziehen.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc DB, PMG "Digitalisierung"
+7. Angebotsturnus des Moduls: im Turnus Wintersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester:
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Stunden)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Stunden (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Datengetriebene, digitale 2
+Dienstleistungen
+2 P Übung Datengetriebene, digitale 2
+Dienstleistungen
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Datengetriebene, digitale Klausur 90 Prüfungszeitraum: 100
+Dienstleistungen Minuten erste bis vierte
+Woche nach
+Vorlesungsende
+264. Pflichtmodulgruppe: Technologien & Management der Digitalisierung
+Qualifikationsziele der Modulgruppe:
+In Informationsmanagement erhalten die Studierenden einen Einblick in die Aufgaben der Planung, Steuerung
+und  Kontrolle  des  Informationssystems  von  Unternehmen.  Sie  kennen  Methoden  und  Techniken  das
+Informationssystem zu analysieren und zu entwickeln. Internettechnologien setzt die Studierenden in die Lage,
+dynamische Webtechniken unter Verwendung eines MVC (Model-View-Controller) Frameworks zu nutzen, um mit
+Internet-Nutzern zu interagieren. Den Studierenden werden zudem die grundlegenden Konzepte und Methoden
+der Datenanaly-se vermittelt. In diesem Zusammenhang erfahren die Studierenden zudem einen vertieften Einblick
+in die Programmierung.
+ECTS: 12; Modulgruppenverantwortliche*r: Prof. Dr. Julia Klier
+Modulkennung Modulname P/WP/W SWS G
+WI-BSc-AWI-M01 Informationsmanagement Wahlpflicht 2V+2Ü 6
+WI-BSc-AWI-M02 Internettechnologien und Network Computing Wahlpflicht 2V+2Ü 6
+WI-BSc-WI-M07 Methoden des Projektmanagements Wahlpflicht 2V+2Ü 6
+27Modul WI-BSc-AWI-M01
+1. Name des Moduls: Informationsmanagement
+2. Fachgebiet / Verantwortlich: Prof. Dr. Susanne Leist
+3. Inhalte des Moduls: Strategisches IT-Management
+- IS-Strategie
+- IS-Architektur
+- IS-Portfolio
+Organisatorische Gestaltung des IT-Management
+- Aufgaben und Prozesse
+- IT-Aufbauorganisation (Outsourcing)
+- ITIL als Referenzmodell
+IT-Governance, COBIT
+4. Qualifikationsziele des Moduls / zu Nach Abschluss dieses Moduls haben die Studierenden einen
+erwerbende Kompetenzen: Überblick über das Informationsmanagement erhalten und
+relevante Aufgabenbereiche vertieft.
+Die  Studierenden  sind  darüber  hinaus  in  der  Lage,  den
+Aufgabenbereich  Informationswirtschaft  im
+Informationsmanagement  abzugrenzen,  und  kennen
+wichtige Techniken. Ebenfalls können sie die Eigenschaften
+der Datenqualität beschreiben und kennen Strategien, diese
+zu verbessern.
+Der Aufgabenbereich Management des Informationssystems
+ist den Studierenden ebenfalls bekannt, ebenso wie wichtige
+Techniken im Rahmen des Strategischen IT-Managements
+(u.a. Situationsanalyse, IT-Architektur, IT-Portfolio), die sie
+auch an Fallbeispielen anwenden können. Darüber hinaus
+haben  sie  einen  Einblick  in  die  Aufgaben  des  IT-
+Managements gewonnen. Sie kennen die Prozesse der IT-
+Abteilung  und  können  mit  Hilfe  von  Techniken  wichtige
+aufbau-  und  ablauforganisatorische  Fragestellungen
+beantworten. Ebenfalls kennen sie ITIL als Referenzmodell im
+IT-Servicemanagement.  Des  Weiteren  haben  sie  einen
+Überblick über die Aufgaben im IT-Governance und kennen
+COBIT als Referenzmodell. Die Übung hat dabei die Inhalte
+der Vorlesung an Beispielen vertieft und die Studierenden in
+die Lage versetzt, ausgewählte Techniken anzuwenden.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: Erfolgreicher Abschluss Bachelorphase 1
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc DB, PMG "Technologien & Management der
+Digitalisierung"
+7. Angebotsturnus des Moduls: im Turnus Sommersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 2. bzw. 4. Fachsemester
+2810. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Stunden)
+Anzahl Leistungspunkte: davon:
+1. Selbststudium (inkl. Prüfung): 180 Std.
+sowie ergänzend Gastvorträge und Übungen als
+Videokonferenzen
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Informationsmanagement 2
+2 P Übung Informationsmanagement 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Informationsmanagement Klausur 60 Prüfungszeitraum: 100
+Minuten erste bis vierte
+Woche nach
+Vorlesungsende
+14. Bemerkungen:
+Das Modul wird auf der virtuellen Hochschule Bayern zum Selbststudium angeboten.
+29Modul WI-BSc-AWI-M02
+1. Name des Moduls: Internettechnologien und Network Computing
+2. Fachgebiet / Verantwortlich: Prof. Dr. Günther Pernul
+3. Inhalte des Moduls: Der Kurs zeigt die Möglichkeiten und Einsatzbereiche von
+Internettechnologien.  Er  vermittelt  die  notwendigen
+Fähigkeiten und Kenntnisse zur Entwicklung von internet-
+und  webbasierten  Anwendungen.  Zunächst  werden  die
+grundlegenden  Netzwerktechniken  gemäß  dem  ISO/OSI
+Referenzmodell  vorgestellt.  Aufbauend  auf  diesen
+Basistechnologien  werden  das  Internet,  die  notwendigen
+Transportprotokolle,  das  WWW  sowie
+Erweiterungstechniken  des  WWW  zur  Realisierung
+dynamischer  Inhalte  behandelt.  Die  extensible  Markup
+Language als Auszeichnungssprache zur Beschreibung von
+strukturierter Information im Web und ihre Erweiterungen
+werden  beispielhaft  vorgestellt.  Service-orientierte
+Architekturen und Software-as-a-Service Konzepte werden
+als Anwendungen der vorgestellten Techniken beschrieben.
+4. Qualifikationsziele des Moduls / zu Nach Abschluss des Moduls haben die Studierenden Wissen
+erwerbende Kompetenzen: über  Basistechnologien  für  die  Gestaltung  von
+Kommunikationsnetzen  und  insbesondere  über  die
+Basistechnologien  des  Internets  erworben  und  können
+erklären,  welche  Kommunikationsmöglichkeiten  damit
+verbunden  sind.  In  diesem  Kontext  werden  auch  die
+notwendigen Fähigkeiten und Kenntnisse zur Entwicklung
+von internet- und webbasierten Anwendungen vermittelt.
+Darüber hinaus haben die Studierenden einen Einblick in die
+Möglichkeiten verteilter Systemarchitekturen erhalten.
+Die  Übung  hat  die  Inhalte  der  Vorlesung  an  Beispielen
+vertieft und die Studierenden in die Lage versetzt einfache
+Netzwerke  zu  modellieren,  den  Umgang  mit  gängigen
+Protokollen  und  Techniken  zu  erlernen,  statische  und
+dynamische  Webanwendungen  zu  entwickeln  und  die
+Mächtigkeit verteilter Systeme einschätzen zu lernen.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: WI-BSc-IT-M01 Objektorientierte Programmierung
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc DB, PMG "Technologien & Management der
+Digitalisierung"
+7. Angebotsturnus des Moduls: im Turnus Sommersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 4. Fachsemester
+3010. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Stunden)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+(2/3*Gesamtzeit)
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Internettechnologien und Network 2
+Computing
+2 P Übung Internettechnologien und Network 2
+Computing
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Internettechnologien und Klausur 90 Prüfungszeitraum: 100
+Network Computing erste bis vierte
+Woche nach
+Vorlesungsende
+31Modul WI-BSc-WI-M07
+1. Name des Moduls: Methoden des Projektmanagements
+2. Fachgebiet / Verantwortlich: Prof. Dr. Julia Klier
+3. Inhalte des Moduls: Grundlagen und Methoden zur Entwicklung von Software
+sowie zum Management von IT-Projekten. Im Besonderen
+Fokus auf:
+1) IT-Projektmanagement: Integrationsmanagement, Inhalts-
+und  Umfangsmanagement,  Terminmanagement,
+Kostenmanagement
+2) Phasen und Vorgehensmodelle der Softwareentwicklung:
+Charakteristika  und  Einsatzmöglichkeiten  von  klassischen
+Vorgehensmodellen  (z.  B.  Wasserfallmodell,  V-Modell,
+Spiralmodell), Charakteristika und Einsatzmöglichkeiten von
+agilen Vorgehensmodellen (z. B. Scrum)
+3)  Softwaremodellierung  mit  UML:  Use-Case-Diagramme,
+Aktivitätsdiagramme, Sequenzdiagramme
+4. Qualifikationsziele des Moduls / zu Nach  Abschluss  des  Moduls  können  die  Studierenden
+erwerbende Kompetenzen: Methoden  zum  Projektmanagement  anwenden  und
+Methoden zum Management von IT-Projekten benennen. Sie
+können  aufzeigen,  in  welchen  Projektphasen  und  mit
+welcher Zielsetzung Methoden zum IT-Projektmanagement
+angewendet werden. Darüber hinaus werden sie Vor- und
+Nachteile  verschiedener  Vorgehensmodelle  der
+Softwareentwicklung darlegen und erläutern können. Die
+Übung hat die Inhalte der Vorlesung an Beispielen vertieft.
+Studierende  sind  danach  in  der  Lage,  praktische
+Problemstellungen  zu  analysieren  und  praktische
+Handlungsempfehlungen abzuleiten.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc DB, PMG "Technologien & Management der
+Digitalisierung"
+7. Angebotsturnus des Moduls: im Turnus Sommersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 4. Semester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Stunden)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Stunden (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+3211. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Methoden des Projektmanagements 2
+2 P Übung Methoden des Projektmanagements 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Methoden des Klausur 60 100
+Projektmanagements Minuten
+14. Bemerkungen:
+Bei einem geplanten Auslandsaufenthalt ist eine potentielle Modulanrechnung mit der Lehrperson im Vorfeld
+abzuklären.
+Entspricht Methoden und Management der Softwareentwicklung im B.Sc. WI
+335. Pflichtmodulgruppe: Data Analytics
+Qualifikationsziele der Modulgruppe:
+Nach  Abschluss  der  Modulgruppe  haben  die  Studierenden  ein  fundiertes  Verständnis  von  grundlegenden
+Modellen und Methoden der Data Science, sind mit der Behandlung komplexer Datenstrukturen vertraut, und
+können Statistik als Prognose- und Entscheidungshilfe in realen Situationen der Praxis mit moderner Software
+einsetzen. Sie können darüber hinaus die Grundlagen ökonometrischer Werkzeuge und die zugrunde liegende
+ökonometrische Theorie benennen und aufzeigen, wie diese in der empirischen Analyse eingesetzt werden
+können. Ferner sind die Studierenden nach Abschluss des Moduls Einführung in die Ökonometrie in der Lage,
+eigenständig  die  gelernten  Verfahren  anzuwenden,  um  damit  einfache  empirisch-ökonometrische  Analysen
+durchzuführen und dabei auch die Unsicherheit der Ergebnisse zu bewerten.
+ECTS: 24; Modulgruppenverantwortliche*r: Prof. Dr. Daniel Rösch
+Modulkennung Modulname P/WP/W SWS G
+BWL-BSc-BA-M01 Applied Data Science Pflicht 2V+2Ü 6
+VWL-BSc-GL-M05 Einführung in die Ökonometrie Pflicht 2V+2Ü 6
+VWL-BSc-EW-M03 Zeitreihenökonometrie Pflicht 2V+2Ü 6
+WI-BSc-AWI-M03 Data Analytics: Methoden und Programmierung Pflicht 2V+2Ü 6
+34Modul BWL-BSc-BA-M01
+1. Name des Moduls: Applied Data Science
+2. Fachgebiet / Verantwortlich: Prof. Dr. Daniel Rösch
+3. Inhalte des Moduls: - Kurze Einführung in die Schätztheorie
+-  Statistische  Modellierung  und  angewandte
+Regressionsanalyse
+-  Einführung  Data  Science  (Supervised  und  Unsupervised
+Learning)
+4. Qualifikationsziele des Moduls / zu Nach  Abschluss  des  Moduls  haben  die  Studierenden  ein
+erwerbende Kompetenzen: fundiertes  Verständnis  von  grundlegenden  Modellen  und
+Methoden  der  Data  Science,  sind  mit  der  Behandlung
+komplexer Datenstrukturen vertraut, und können Statistik als
+Prognose- und Entscheidungshilfe in realen Situationen der
+Praxis mit moderner Software einsetzen.
+Die Übung hat dabei die Inhalte der Vorlesung an Beispielen
+und Fallstudien vertieft und die Studierenden in die Lage
+versetzt, eigenständige statistische Analysen zu betreiben.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: WiWi-BSc-Q02 Statistik 1 für Wirtschaftswissenschaften
+WiWi-BSc-Q03 Statistik 2 für Wirtschaftswissenschaften
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc DB, PMG "Data Analytics"
+7. Angebotsturnus des Moduls: im Turnus Sommersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 4. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Stunden)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Applied Data Science 2
+2 P Übung Applied Data Science 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Applied Data Science Klausur 90 Prüfungszeitraum: 100
+erste bis vierte
+Woche nach
+Vorlesungsende
+3514. Bemerkungen:
+-  Die  Wiederholungsprüfung  ist  grundsätzlich  nicht  für  Erstschreiber  offen  (Ausnahmen:  Krankheit  und
+Auslandsaufenthalt).
+- Bei einem geplanten Auslandsaufenthalt ist eine potentielle Modulanrechnung mit der Lehrperson im Vorfeld
+abzuklären.
+- Studierende, die Statistik III belegt haben, können diesen Kurs nicht belegen.
+36Modul VWL-BSc-GL-M05
+1. Name des Moduls: Einführung in die Ökonometrie
+2. Fachgebiet / Verantwortlich: Prof. Dr. Lea Cassar
+3. Inhalte des Moduls: Einführung in ökonometrische Methoden für die empirische
+Wirtschaftsforschung:
+- Erweiterung statistischer Grundkenntnisse
+- Das einfache und multiple lineare Regressionsmodell und
+die Interpretation der Modellparameter
+-  Der  Kleinst-Quadrate-Schätzer  (KQ-Schätzer)  und  der
+(anwendbar) verallgemeinerte KQ-Schätzer: statistische und
+algebraische Eigenschaften
+-  Statistische  Tests  für  eine  einzelne  und  von  mehreren
+Hypothesen (t-Test, F-Test); Konfidenzintervalle
+- Modellspezifikation und Modelldiagnose
+- Zulassen von Heteroskedastie beim Schätzen und Testen
+- Prognosen und Prognosefehler
+- Empirische Anwendungen mit R
+4. Qualifikationsziele des Moduls / zu Nach Abschluss des Moduls können die Studierenden die
+erwerbende Kompetenzen: Grundlagen ökonometrischer Werkzeuge und die zugrunde
+liegende ökonometrische Theorie benennen und aufzeigen,
+wie  diese  in  der  empirischen  Analyse  eingesetzt  werden
+können.  Darüber  hinaus  sind  die  Studierenden  nach
+Abschluss  des  Moduls  in  der  Lage,  eigenständig  die
+gelernten  Verfahren  anzuwenden,  um  damit  einfache
+empirisch-ökonometrische  Analysen  durchzuführen  und
+dabei auch die Unsicherheit der Ergebnisse zu bewerten. Die
+Übung hat die Inhalte der Vorlesung mit selbst zu lösenden
+Aufgaben  und  empirischen  Beispielen  vertieft  und  die
+Studierenden  in  die  Lage  versetzt,  mit  ökonometrischer
+Software (R) umzugehen.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: WiWi-BSc-Q02 Statistik 1 für Wirtschaftswissenschaften
+WiWi-BSc-Q03 Statistik 2 für Wirtschaftswissenschaften
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc DB, PMG "Data Analytics"
+7. Angebotsturnus des Moduls: im Turnus Wintersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 3. bzw. 5. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Std.)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+3711. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Einführung in die Ökonometrie 2
+2 P Übung Einführung in die Ökonometrie 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Einführung in die Klausur 90 Prüfungszeitraum: 100
+Ökonometrie Minuten Erste bis vierte
+Woche nach
+Vorlesungsende
+14. Bemerkungen:
+-  Die  Wiederholungsprüfung  ist  grundsätzlich  nicht  für  Erstschreiber  offen  (Ausnahmen:  Krankheit  und
+Auslandsaufenthalt).
+- Bei einem geplanten Auslandsaufenthalt ist eine potentielle Modulanrechnung mit der Lehrperson im Vorfeld
+abzuklären.
+38Modul VWL-BSc-EW-M03
+1. Name des Moduls: Zeitreihenökonometrie
+2. Fachgebiet / Verantwortlich: Prof. Dr. Rolf Tschernig
+3. Inhalte des Moduls: Einführung in ökonometrische Methoden für die empirische
+Analyse von Zeitreihendaten:
+- Autoregressive und dynamische Regressionsmodelle
+-  Regressionsmodelle  mit  autokorrelierten  und
+heteroskedastischen Fehlern
+- Modellierung von Trends und Saisonmuster
+-  Einheitswurzeltests:  Tests  zum  Überprüfen  der  Random
+Walk-Hypothese
+-  Fehlerkorrekturmodelle,  Kointegration  (Schätzung  und
+Tests)
+- Prognose und Prognoseintervalle
+- Anwenden der Verfahren mit R
+4. Qualifikationsziele des Moduls / zu Nach Abschluss des Moduls können die Studierenden die
+erwerbende Kompetenzen: wichtigsten  ökonometrischen  Werkzeuge  der
+Zeitreihenanalyse und die zugrunde liegende ökonometrische
+Theorie  benennen  und  aufzeigen,  wie  diese  in  der
+empirischen  Analyse  eingesetzt  werden  können.  Darüber
+hinaus sind die Studierenden nach Abschluss des Moduls in
+der Lage, eigenständig die gelernten Verfahren anzuwenden,
+um  damit  ökonometrische  Modelle  an  Zeitreihendaten
+anpassen und diese anwenden zu können. Die Übung hat
+dabei  die  Inhalte  der  Vorlesung  mit  selbst  zu  lösenden
+Aufgaben  und  Beispielen  vertieft  und  den  Studierenden
+ermöglicht,  empirische  Aufgaben  mit  ökonometrischer
+Software (R) zu lösen.
+Im Weiteren wiesen die Studierenden während des Moduls
+die  Fähigkeit  nach,  dass  sie  die  für  die  Lösung  von
+Übungsaufgaben erarbeitete methodische Vorgehensweise
+sowie die gewonnenen Ergebnisse auch mündlich vortragen
+und begründen können. Darüber hinaus wiesen sie während
+des Moduls einmalig nach, dass sie bereits erlernte Verfahren
+schriftlich darstellen und damit einfache Probleme bearbeiten
+können.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: VWL-BSc-GL-M05 Einführung in die Ökonometrie
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc DB, PMG "Data Analytics"
+7. Angebotsturnus des Moduls: im Turnus Sommersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 4. Fachsemester
+3910. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Stunden)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung):120 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Zeitreihenökonometrie 2
+2 P Übung Zeitreihenökonometrie 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Zeitreihenökonometrie Klausur 90 Prüfungszeitraum: 80
+Minuten Erste bis vierte
+, Dauer Woche nach
+mündlic Vorlesungsende
+h minde
+stens 10
+und höc
+hstens
+45
+Minuten
+2 Zeitreihenökonometrie Präsentation 40 Während der 10
+Minuten Vorlesungszeit
+3 Zeitreihenökonometrie Zwischenklausur 30 Während der 10
+Minuten Vorlesungszeit
+14. Bemerkungen:
+- Die Übung vertieft die Inhalte der Vorlesung mit selbst zu lösenden Aufgaben und empirischen Beispielen und
+versetzt die Studierenden in die Lage, mit ökonometrischer Software (R) umzugehen. Im Weiteren weisen die
+Studierenden während des Moduls die Fähigkeit nach, dass sie die für die Lösung von Übungsaufgaben
+erarbeitete methodische Vorgehensweise sowie die gewonnenen Ergebnisse auch mündlich vortragen und
+begründen können. Darüber hinaus weisen sie während des Moduls einmalig nach, dass sie bereits erlernte
+Verfahren schriftlich darstellen und damit einfache Probleme bearbeiten können.
+-  Die  Wiederholungsprüfung  ist  grundsätzlich  nicht  für  Erstschreiber  offen  (Ausnahmen:  Krankheit  und
+Auslandsaufenthalt).
+- Bei einem geplanten Auslandsaufenthalt ist eine potenzielle Modulanrechnung mit der Lehrperson im Vorfeld
+abzuklären.
+40Modul WI-BSc-AWI-M03
+1. Name des Moduls: Data Analytics: Methoden und Programmierung
+2. Fachgebiet / Verantwortlich: Prof. Dr. Bernd Heinrich
+3. Inhalte des Moduls: Inhaltlich umfasst die Veranstaltung folgende Thematiken:
+Grundlagen von Data Analytics, Konzepte, Methoden und
+praktische Umsetzung von Data Analytics in den Bereichen
+Klassifikation,  Clustering,  Assoziationsanalyse  und
+Regressionsanalyse,  Konzepte,  Methoden  und  praktische
+Umsetzung von Text Analytics, Visualisierung von Daten und
+Data  Analytics-Ergebnissen  und  Fortgeschrittene
+Anwendungen von Data Analytics.
+4. Qualifikationsziele des Moduls / zu Nach Abschluss dieses Moduls haben die Studierenden die
+erwerbende Kompetenzen: Bedeutung  und  ein  grundlegendes  Verständnis  der
+maschinellen  Datenanalyse,  insbesondere  hinsichtlich
+relevanter Konzepte und Methoden, vermittelt bekommen.
+Dazu  gehören  neben  Grundbegriffen  insbesondere
+Grundlagen  und  weiterführende  Kenntnisse  zu  den
+wichtigsten  Teilbereichen  der  maschinellen  Daten-  und
+Textanalyse.
+Nach Abschluss des Moduls sind die Studierenden in der
+Lage,  über  den  geeigneten  Einsatz  von  Methoden  der
+Datenanalyse zu entscheiden. Insbesondere kennen sie Vor-
+und  Nachteile  sowie  Anwendungsgebiete  verschiedener
+Methoden.  Zudem  können  sie  Daten  mittels  geeigneter
+Methoden  systematisch  analysieren  und  die  Ergebnisse
+einschätzen und interpretieren. Des Weiteren kennen die
+Studierenden grundlegende Verfahren der Textanalyse und
+können  diese  anwenden.  Sie  können  Daten  und
+Analyseergebnisse mittels Visualisierungen veranschaulichen
+und  weiterführende  Anwendungen  der  Datenanalyse
+abgrenzen und zuordnen.
+Die  Übung  hat  die  Inhalte  der  Vorlesung  vertieft,  unter
+anderem anhand von Beispielen, und die Studierenden in die
+Lage versetzt, die Programmiersprache Python und wichtige
+Python-Packages  zur  Datenanalyse  zu  verwenden  und
+grundlegende  Methoden  der  Daten-  und  Textanalyse  zu
+implementieren.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: WI-BSc-IT-M01 Objektorientierte Programmierung
+WI-BSc-IT-M02 Algorithmen, Datenstrukturen und
+Programmierung
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc DB, PMG "Data Analytics"
+7. Angebotsturnus des Moduls: im Turnus Sommersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 4. Fachsemester
+4110. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Stunden)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Stunden (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Data Analytics: Methoden und 2
+Programmierung
+2 P Übung Data Analytics: Methoden und 2
+Programmierung
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Data Analytics: Methoden und Klausur 90 Prüfungszeitraum: 100
+Programmierung erste bis vierte
+Woche nach
+Vorlesungsende
+14. Bemerkungen:
+Bei einem geplanten Auslandsaufenthalt ist eine potentielle Modulanrechnung mit der Lehrperson im Vorfeld
+abzuklären. Kann nicht zusammen mit Praxis des Programmierens belegt werden
+426. Schwerpunktmodulgruppen
+6.1. Schwerpunktmodulgruppe: Digital Information Systems
+Qualifikationsziele der Modulgruppe:
+Nach Abschluss des Moduls Internet Business I kennen die Studierenden die Bedeutung des Internet Business,
+wissen  über  innovative  Internettechnologien  Bescheid  und  haben  sich  mit  Internet  Business  sowohl  aus
+Konsumenten-  als  auch  aus  Anbieterperspektive  auseinandergesetzt.  Ebenfalls  wissen  Sie  um  die  Vor-  und
+Nachteile sowie Besonderheiten elektronischer Märkte Bescheid. Internet Business II vermittelt ein grundlegendes
+Verständnis der Prozesssimulation bei Unternehmen, insbesondere hinsichtlich der Gestaltung von Prozessen und
+Wertschöpfungsketten im Internet Business. Die Studierenden weisen mit erfolgreichem Abschluss der Module IT
+Security I und II Fachwissen über Grundlagen kryptographischer Verfahren, Grund-funktionen vertrauenswürdiger
+Systeme, strukturiertes IT-Sicherheitsmanagement nach BSI IT-Grundschutz und Sicherheitsaspekte nach. Die
+Studierenden lernen grundlegende Techniken und Systeme zur Wahrung dieser Schutzziele in der realen Welt
+kennen und verstehen deren technische sowie mathematischen Hintergründe.
+ECTS: 24; Modulgruppenverantwortliche*r: Prof. Dr. Stefan Schönig
+Modulkennung Modulname P/WP/W SWS G
+WI-BSc-IBIS-M01 Internet Business I Wahlpflicht 2V+2Ü 6
+WI-BSc-IBIS-M02 Internet Business II Wahlpflicht 2V+2Ü 6
+WI-BSc-IBIS-M03 IT Security I Wahlpflicht 2V+2Ü 6
+WI-BSc-IBIS-M04 IT Security II Wahlpflicht 2V+2Ü 6
+WI-BSc-AWI-M04 Architektur von Informationssystemen Wahlpflicht 2V+2Ü 6
+43Modul WI-BSc-IBIS-M01
+1. Name des Moduls: Internet Business I
+2. Fachgebiet / Verantwortlich: Prof. Dr. Susanne Leist
+3. Inhalte des Moduls: Grundlagen Internet Business
+- Grundlagen des Internet Business
+- Definitionen von Begriffen
+- Internet Business aus der Konsumentenperspektive
+- Internet Business aus der Anbieterperspektive
+- Elektronische Märkte
+Veränderungen von Geschäftsmodellen und Prozessen im
+Internet Business
+-  Digitale  Transformation  und  ihre  Wirkungen  auf
+Wertschöpfungsstrukturen, Geschäftsmodelle und Prozesse
+-  Weitere  Herausforderungen  (u.a.  Kollaborative
+Modellierung, Kultur)
+Digital Transformation Strategies and Structural Change
+- Grundlage IS/IT-Strategie
+- Business-IT Alignment
+- Digital Business Strategy
+4. Qualifikationsziele des Moduls / zu Nach Abschluss des Moduls kennen die Studierenden die
+erwerbende Kompetenzen: Bedeutung  des  Internet  Business,  wissen  über  innovative
+Internettechnologien Bescheid und haben sich mit Internet
+Business  sowohl  aus  Konsumenten-  als  auch  aus
+Anbieterperspektive auseinandergesetzt. Ebenfalls wissen sie
+um  die  Vor-  und  Nachteile  sowie  Besonderheiten
+elektronischer Märkte Bescheid.
+Insbesondere können sie Unternehmen im Internet Business
+anhand  von  Wertschöpfungsnetzwerke,  Geschäftsmodelle
+und Prozessmodelle beschreiben und modellieren, sowie auf
+Basis dessen, Gestaltungsempfehlungen ableiten.
+Darüber hinaus kennen sie IS-/IT-Strategien sowie die Phasen
+zur  Entwicklung  der  IS-/IT-Strategien.  Besonderheiten  der
+Strategien im Internet Business können abgegrenzt werden.
+Herausforderungen zur Entwicklung der IS-/IT-Strategie im
+Internet Business werden anhand von Modellen vertieft (u.a.
+Strategic  Alignment  Modell,  Blue  Ocean  Strategy).  Die
+Studierenden sind in der Lage, die Modelle an Fallbeispielen
+anzuwenden und Besonderheiten der Fallbeispiele anhand
+der vorgegebenen Dimensionen der Modelle zu diskutieren.
+Die Übung vertieft die Inhalte der Vorlesungen anhand von
+Beispielen  aus  dem  Internet  Business  und  versetzt  die
+Studierenden in die Lage, mit Werkzeugen zur Modellierung
+und Analyse umzugehen.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: WI-BSc-WI-M02 Unternehmensmodellierung
+    b) verpflichtende Nachweise: keine
+446. Verwendbarkeit des Moduls: BSc DB, SPMG "Digital Information Systems"
+7. Angebotsturnus des Moduls: im Turnus Wintersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 3. bzw. 5. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Stunden)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std. (2/3*Gesamtzeit)
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Internet Business I 2
+2 P Übung Internet Business I 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Internet Business I Klausur 60 Prüfungszeitraum: 100
+erste bis vierte
+Woche nach
+Vorlesungsende
+45Modul WI-BSc-IBIS-M02
+1. Name des Moduls: Internet Business II
+2. Fachgebiet / Verantwortlich: Prof. Dr. Bernd Heinrich
+3. Inhalte des Moduls: Simulation  von  Prozessen  und  Wertschöpfungsketten  im
+Internet Business
+-  Motivation  und  Begriffsdefinition,  Einsatzszenarien,
+Klassifizierung  von  Simulationsmodellen,  generelle
+Vorgehensweise zur Durchführung einer Simulationsstudie
+Netzeffekte & Internetstandards
+- Grundbegriffe der Einführung von Internetstandards und
+Technologien in Unternehmen
+- Modellierung des Standardisierungsproblems
+Informations- und Kommunikationssysteme
+- Grundbegriffe, Anforderungen
+- Modellierung und Diskussion der Informationsflüsse
+4. Qualifikationsziele des Moduls / zu Nach Abschluss dieses Moduls haben die Studierenden ein
+erwerbende Kompetenzen: grundlegendes Verständnis über die Prozesssimulation bei
+Unternehmen, insbesondere hinsichtlich der Gestaltung von
+Prozessen und Wertschöpfungsketten im Internet Business,
+vermittelt  bekommen.  Dazu  gehören  neben  wichtigen
+Begriffen  der  Prozesssimulation  auch  die  Klassifikation
+verschiedener Simulationsmodelle und Einsatzszenarien der
+Prozesssimulation,  sowie  die  Vorgehensweise  zur
+Durchführung einer Simulationsstudie. Nach Abschluss des
+Moduls sind die Studierenden in der Lage die Simulation als
+Methode  zur  Verbesserung  von  Prozessen  und
+Wertschöpfungsketten  systematisch  anzuwenden.  Sie
+kennen  die  Vorteile  einer  Standardisierung  von
+Informationssystemen  und  Internettechnologien  unter
+wirtschaftlichen Gesichtspunkten.
+Des Weiteren kennen die Studierenden Darstellungen von
+Informations-  und  Kommunikationssystemen  im  Internet
+Business und können die Informationsflüsse modellieren und
+interpretieren.  Auf  der  Grundlage  von
+Kommunikationsnetzwerken  können  sie  die  Effizienz  und
+Effektivität  des  Informationsaustausches  einschätzen  und
+kennen  Ansatzpunkte  zur  Gestaltung  der  Netzwerke.
+Basierend  auf  realen  Fallstudien  haben  die  Studierenden
+gelernt  mit  den  Methoden  aus  der  Vorlesung
+Realweltprobleme  zu  lösen.  In  der  Übung  wurden  die
+erworbenen Kenntnisse durch den unterstützenden Einsatz
+von Software-Werkzeugen angewendet.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: WI-BSc-IBIS-M01 Internet Business I
+WI-BSc-WI-M02 Unternehmensmodellierung
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc DB, SPMG "Digital Information Systems"
+467. Angebotsturnus des Moduls: im Turnus Wintersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 3. bzw. 5. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Internet Business II 2
+2 P Übung Internet Business II 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Internet Business II Klausur 60 Prüfungszeitraum: 100
+erste bis vierte
+Woche nach
+Vorlesungsende
+14. Bemerkungen:
+Bei einem geplanten Auslandsaufenthalt ist eine potentielle Modulanrechnung mit der Lehrperson im Vorfeld
+abzuklären.
+47Modul WI-BSc-IBIS-M03
+1. Name des Moduls: IT Security I
+2. Fachgebiet / Verantwortlich: Prof. Dr. Günther Pernul
+3. Inhalte des Moduls: In  dieser  Veranstaltung  werden  die  Grundlagen  zum
+Verständnis von Sicherheitsaspekten in IT-Systemen gelegt.
+Schwerpunkte  der  Wissensvermittlung  bilden
+kryptographische Verfahren (symmetrische & asymmetrische
+Verschlüsselung,  Hash-Verfahren),  Grundfunktionen
+vertrauenswürdiger  Systeme  sowie  Sicherheitsaspekte  in
+diversen  Anwendungsgebieten  (u.a.  zur
+Datenbanksicherheit).  Diese  Veranstaltung  bildet  die
+Grundlage zum Verständnis anderer Veranstaltungen zur IT-
+Sicherheit und wird zum Einstieg in die Thematik empfohlen.
+Inhalte:
+- Begriffsdefinition (IT-Sicherheit, Schutzziele, etc.)
+-  Kryptographische  Grundlagen,  symmetrische  &
+asymmetrische Verschlüsselung, Hash-Verfahren
+- Grundfunktionen vertrauenswürdiger Systeme
+-  Grundzüge  eines  strukturierten  Vorgehens  zum
+Sicherheitsmanagement
+-  Sicherheitsaspekte  nach  Anwendungsgebieten,  u.a.
+Datenbanksicherheit
+4. Qualifikationsziele des Moduls / zu Die Studierenden weisen mit erfolgreichem Abschluss des
+erwerbende Kompetenzen: Moduls  Fachwissen  über  Grundlagen  kryptographischer
+Verfahren,  Grundfunktionen  vertrauenswürdiger  Systeme,
+strukturiertes  IT-Sicherheitsmanagement  nach  BSI  IT-
+Grundschutz  und  Sicherheitsaspekte  nach.  Im  Weiteren
+wurden die Studierenden des Moduls darin geschult, das
+erworbene  Wissen  im  Rahmen  von  praxisorientierten
+Aufgaben einsetzen zu können.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc DB, SPMG "Digital Information Systems"
+7. Angebotsturnus des Moduls: im Turnus Wintersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 3. bzw. 5. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Stunden)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+4811. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung IT Security I 2
+2 P Übung IT Security I 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 IT Security I Klausur 90 Prüfungszeitraum: 95
+Minuten erste bis vierte
+Woche nach
+Vorlesungsende
+2 IT Security I Fallstudienarbeit Während des 5
+Semesters
+49Modul WI-BSc-IBIS-M04
+1. Name des Moduls: IT Security II
+2. Fachgebiet / Verantwortlich: Prof. Dr. Dogan Kesdogan
+3. Inhalte des Moduls: Aufbauend auf das Modul IT Security I werden vertiefende
+Aspekte der Kryptographie behandelt und weiterführende
+Anwendungen aufgezeigt. Daneben werden Bedrohungen
+für  einzelne  Rechner,  Dienste  und  Kommunikationsnetze
+sowie  entsprechende  Gegenmaßnahmen  diskutiert  und
+erläutert.
+Themengebiete:
+- Einführung und Grundlagen
+- Kryptographie
+- Netzwerksicherheit
+- Webseitensicherheit
+- Privacy
+4. Qualifikationsziele des Moduls / zu Sobald  schützenswerte  Daten  über  Rechnernetze
+erwerbende Kompetenzen: ausgetauscht  werden,  müssen  sie  gesichert  werden.  Die
+zentralen Schutzziele dabei sind Vertraulichkeit, Integrität,
+Zurechenbarkeit und Verfügbarkeit.
+Nach  Abschluss  dieses  Moduls  haben  die  Studierenden
+grundlegende Techniken und Systeme zur Wahrung dieser
+Schutzziele in der realen Welt kennen gelernt und deren
+technische sowie mathematischen Hintergründe verstanden.
+Insbesondere  wurden  Kenntnisse  im  Bereich  der
+Kryptographie und Angriffserkennung vermittelt sowie auf
+die spezielle Relevanz von Kommunikationsmetadaten zur
+sicheren und anonymen Kommunikation eingegangen.
+Die vorgenannten Aspekte wurden theoretisch eingeführt
+und  deren  Anwendung  anschließend  an  realitätsnahen
+Systemen erläutert.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: WI-BSc-IBIS-M03 IT Security I Programmierkenntnisse in
+Python (z.B. erworben in der Veranstaltung WI-BSc-AWI-
+M03 Data Analytics: Methoden und Programmierung)
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc DB, SPMG "Digital Information Systems"
+7. Angebotsturnus des Moduls: im Turnus Sommersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 6. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Stunden)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+5011. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung IT Security II 2
+2 P Übung IT Security II 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 IT Security II Klausur 90 Prüfungszeitraum: 100
+erste bis vierte
+Woche nach
+Vorlesungsende
+51Modul WI-BSc-AWI-M04
+1. Name des Moduls: Architektur von Informationssystemen
+2. Fachgebiet / Verantwortlich: Prof. Dr. Stefan Schönig
+3. Inhalte des Moduls: Datenhaltungs-Schicht:
+- Relationale Datenbank-Architektur
+-  Datenbanken-Schichten  (DB-  Pufferverwaltung,
+Satzverwaltung, Zugriffspfade, Indexstrukturen, Operatoren)
+-  Relationale  Datenbank-Transaktionen,  Serialisierung,
+Trigger
+- Dokumentenmanagement-Systeme (DMS)
+Prozess-Schicht:
+- Datenbasierte und deskriptive Prozesse
+- Implementierung prozessbasierter IS
+- Integration von DMS und IS
+- Prozessautomation
+Darstellungs-Schicht:
+- Benutzerschnittstellen/Interaktion (Usability, Barrierefreiheit,
+Mobile Geräte)
+4. Qualifikationsziele des Moduls / zu Nach Abschluss des Moduls haben Studierende Kenntnisse
+erwerbende Kompetenzen: über  den  Aufbau  von  modernen  Informationssystemen
+erworben. Sie verstehen die Architektur von relationalen und
+transaktionsbasierten Datenbanksystemen. Sie sind in der
+Lage  komplexe,  datenbasierte  Arbeitsabläufe  in  IS  zu
+modellieren und zu implementieren.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc DB, SPMG "Digital Information Systems"
+7. Angebotsturnus des Moduls: im Turnus Sommersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 4. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Stunden)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std. (2/3*Gesamtzeit)
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Architektur von Informationssystemen 2
+2 P Übung Architektur von Informationssystemen 2
+5213. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Architektur von Klausur 60 Prüfungszeitraum: 100
+Informationssystemen Minuten erste bis vierte
+Woche nach
+Vorlesungsende
+14. Bemerkungen:
+Vormals "Quantitative Grundlagen der Wirtschaftsinformatik";
+Kann nicht zusammen mit "Quantitative Grundlagen der Wirtschaftsinformatik" belegt werden;
+536.2. Schwerpunktmodulgruppe: BWL 1: Wertschöpfungsmanagement
+Qualifikationsziele der Modulgruppe:
+Das Qualifikationsziel der Schwerpunktmodulgruppe „Wertschöpfungsmanagement“ besteht darin, die in der
+Literatur  diskutierten  und  in  der  Praxis  eingesetzten  Konzepte  und  Instrumente  in  den  Bereichen  Logistik,
+Internationales  Management,  Personalmanagement,  Quantitative  Methoden  des  digitalen
+Produktionsmanagements sowie Strategisches Business Marketing auswählen und begründen zu können.
+ECTS: 18; Modulgruppenverantwortliche*r: Prof. Dr. Thomas Steger
+Modulkennung Modulname P/WP/W SWS G
+BWL-BSc-WM-M02 Logistik Wahlpflicht 2V+2Ü 6
+BWL-BSc-WM-M03 Personalmanagement Wahlpflicht 2V+2Ü 6
+BWL-BSc-WM-M05 Quantitative Methoden des digitalen Wahlpflicht 2V+2Ü 6
+Produktionsmanagements
+BWL-BSc-WM-M04 Strategisches Business Marketing Wahlpflicht 2V+2Ü 6
+BWL-BSc-WM-M01 Internationales Management Wahlpflicht 2V 6
+54Modul BWL-BSc-WM-M02
+1. Name des Moduls: Logistik
+2. Fachgebiet / Verantwortlich: Prof. Dr. Andreas Otto
+3. Inhalte des Moduls: Die  Vorlesung  gibt  eine  Einführung  in  die
+betriebswirtschaftliche  Logistik.  Dies  erfolgt  entlang  der
+elementaren  logistischen  Funktionen  Transport,
+Umschlag/Kommissionierung und Lager. Die Vorlesung endet
+mit  der  Vermittlung  der  in  der  Logistik  eingesetzten
+Nummerierungs-  und  Identifikationstechniken  sowie  einer
+kurzen  Diskussion  von  Trade-Off-Entscheidungen.  Die
+Ausführungen  konzentrieren  sich  immer  auf  die
+betriebswirtschaftlichen  Probleme.  Technische  Probleme
+werden nur am Rand angesprochen.
+4. Qualifikationsziele des Moduls / zu Nach Abschluss dieses Moduls sind die Studierenden in der
+erwerbende Kompetenzen: Lage,  logistische  Systeme  in  der  Praxis  qualitativ  und
+quantitativ zu analysieren, zu bewerten und konzeptbasiert
+Empfehlungen zu deren Gestaltung zu geben.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc DB, SPMG "BWL 1: Wertschöpfungsmanagement"
+7. Angebotsturnus des Moduls: im Turnus Sommersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 4. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS * 30 Stunden)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Logistik 2
+2 P Übung Logistik 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Logistik Klausur 60 Prüfungszeitraum 100
+erste bis vierte
+Woche nach
+Vorlesungsende
+55Modul BWL-BSc-WM-M03
+1. Name des Moduls: Personalmanagement
+2. Fachgebiet / Verantwortlich: Prof. Dr. Thomas Steger
+3. Inhalte des Moduls: Diese Grundlagenveranstaltung vermittelt den Studierenden
+einen Einstieg und Überblick über das Feld des modernen
+Personalmanagements.  Es  werden  zentrale  theoretische
+Ansätze  behandelt,  die  Akteure  und  Institutionen  des
+Personalmanagements beleuchtet sowie die verschiedenen
+Funktionen und Ausprägungen detailliert erörtert.
+Die  Übung  vertieft  die  in  der  Vorlesung  besprochenen
+Inhalte. Hierzu werden wissenschaftliche Texte besprochen
+und Fallstudien erarbeitet. Zudem werden in den Übungen
+wesentliche  Aspekte  des  generellen  wissenschaftlichen
+Arbeitens vermittelt.
+4. Qualifikationsziele des Moduls / zu Nach Beendigung dieses Moduls sind die Studierenden in der
+erwerbende Kompetenzen: Lage,  die  grundlegenden  theoretischen  Ansätze  des
+Personalmanagements  darzustellen,  zu  erklären  sowie
+selbständig anzuwenden.
+Weiterhin können die Studierenden die zentralen Funktionen
+des modernen Personalmanagements erläutern und die in
+diesem Kontext entstehenden Probleme kritisch erörtern und
+eigenständige  Lösungsansätze  entwickeln.  Im  Weiteren
+besitzen die Studierenden nach Abschluss des Moduls die
+Fähigkeit, Fälle aus dem Bereich des Personalmanagements
+zu  bearbeiten  und  mündlich  vorzutragen  sowie  einen
+eigenständigen wissenschaftlichen Text zu verfassen.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: BWL-BSc-PG-M04a Organisationslehre (PO 2015)
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc DB, SPMG "BWL 1: Wertschöpfungsmanagement"
+7. Angebotsturnus des Moduls: im Turnus Wintersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 5. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 LP*30 Stunden)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Personalmanagement 2
+2 P Übung Personalmanagement 2
+5613. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Personalmanagement Klausur 90 Prüfungszeitraum: 50
+erste bis vierte
+Woche nach
+Vorlesungsende
+2 Personalmanagement Mündliche Inhaltliche 10
+Prüfung Diskussionsbeiträge
+während der
+Vorlesungszeit
+3 Personalmanagement Projektarbeit 2 Miniatur 40
+arbeiten
+jeweils 3
+Seiten
+Inhalt
+14. Bemerkungen:
+Im Falle des Nichtbestehens der Klausur ist auch das Modul insgesamt nicht bestanden. Die bestmögliche
+Gesamtnote - nach Verrechnung mit den anderen Teilprüfungsleistungen - ist dann 4,3.
+57Modul BWL-BSc-WM-M05
+1. Name des Moduls: Quantitative Methoden des digitalen
+Produktionsmanagements
+2. Fachgebiet / Verantwortlich: Prof. Dr. Justus Arne Schwarz
+3. Inhalte des Moduls: Das  Treffen  von  Entscheidungen  hinsichtlich  von
+Planungsproblemen  in  digitalisierten  Produktionssystemen
+wird  vielfach  durch  quantitative  Methoden  unterstützt.
+Neben  der  Lösungsgüte  sind  dabei  insbesondere  bei
+operativen  Planungsproblemen  strenge  Zeitvorgaben
+hinsichtlich der erforderlichen Rechenzeit einzuhalten.
+Die Veranstaltung gibt einen Überblick über verschiedene
+Planungsprobleme des Produktionsmanagements. Für diese
+werden grundlegende Arten von Heuristiken und analytische
+Ansätze  zur  Lösung  von  linearen  und  nichtlinearen
+Optimierungsproblemen  aufgezeigt.  Insbesondere  werden
+verschiedene Meta-Heuristiken vorgestellt.
+4. Qualifikationsziele des Moduls / zu Die  Studierenden  erlangen  einen  Überblick  über
+erwerbende Kompetenzen: verschiedene  Arten  heuristischer  Lösungsverfahren  für
+Optimierungsprobleme in digitalen Produktionssystemen.
+Nach  Abschluss  des  Moduls  können  die  Studierenden
+heuristische Verfahren in Bezug auf ihre Anwendbarkeit auf
+neue  Problemstellungen  bewerten,  passende  Heuristiken
+auswählen und falls erforderlich geeignet anpassen.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: BWL-BSc-PG-M01 Leistungserstellung
+    b) verpflichtende Nachweise: BWL-BSc-PG-M03 Produktionsmanagement
+BWL-BSc-PG-M03 Produktionsmanagement
+BWL-BSc-PG-M03 Produktionsmanagement
+BWL-BSc-PG-M03 Produktionsmanagement
+BWL-BSc-PG-M03 Produktionsmanagement
+BWL-BSc-PG-M03 Produktionsmanagement
+BWL-BSc-PG-M03 Produktionsmanagement
+BWL-BSc-PG-M03 Produktionsmanagement
+BWL-BSc-PG-M03 Produktionsmanagement
+BWL-BSc-PG-M03 Produktionsmanagement
+BWL-BSc-PG-M03 Produktionsmanagement
+BWL-BSc-PG-M03 Produktionsmanagement
+BWL-BSc-PG-M03 Produktionsmanagement
+BWL-BSc-PG-M03 Produktionsmanagement
+BWL-BSc-PG-M03 Produktionsmanagement
+BWL-BSc-PG-M03 Produktionsmanagement
+BWL-BSc-PG-M03 Produktionsmanagement
+BWL-BSc-PG-M03 Produktionsmanagement
+BWL-BSc-PG-M03 Produktionsmanagement
+BWL-BSc-PG-M03 Produktionsmanagement
+BWL-BSc-PG-M03 Produktionsmanagement
+BWL-BSc-PG-M03 Produktionsmanagement
+BWL-BSc-PG-M03 Produktionsmanagement
+BWL-BSc-WM-M05 Produktionsmanagement
+6. Verwendbarkeit des Moduls: BSc DB, SPMG "BWL 1: Wertschöpfungsmanagement"
+587. Angebotsturnus des Moduls: im Turnus Sommersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 4. Semester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30Stunden)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Quantitative Methoden des digitalen 2
+Produktionsmanagements
+2 P Übung Quantitative Methoden des digitalen 2
+Produktionsmanagements
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Quantitative Methoden des Klausur 90 Im regulärem 100
+digitalen Minuten Prüfungszeitraum
+Produktionsmanagements
+59Modul BWL-BSc-WM-M04
+1. Name des Moduls: Strategisches Business Marketing
+2. Fachgebiet / Verantwortlich: Prof. Dr. Roland Helm
+3. Inhalte des Moduls: -  Grundlagen  der  Marketingplanung  und
+Strategieentwicklung
+- Planung und Kontrolle im strategischen Marketing
+- Marketing-Organisation
+- Strategische Analyse- und Planungskonzepte
+- Marktforschung und Marketing Intelligence
+- Marktdefinition und Segmentierung
+- Entwicklung von Basis-Marketingstrategien
+- Markteintrittsstrategien
+Vorlesung: deutsch; Übung: englisch
+4. Qualifikationsziele des Moduls / zu Nach  Abschluss  dieses  Moduls  haben  die  Studierenden
+erwerbende Kompetenzen: Kenntnisse  über  die  strategische  Planung  von
+Geschäftsfeldern  in  einem  ganzheitlichen  Ansatz,  der  die
+engere produktbezogene Perspektive der Veranstaltung zum
+Marketing entsprechend erweitert, erlangt. Ein Fokus lag
+dabei im Bereich des strategischen B2B-Marketings.
+Im Rahmen der Übung wurden Case Studies bearbeitet, die
+auf die Vorlesungsinhalte abgestimmt waren. Hier haben die
+Studierenden die Möglichkeit erhalten, interaktiv das Erlernte
+zu diskutieren. Im Weiteren wiesen die Studierenden nach
+Abschluss des Moduls die Fähigkeit nach, dass sie die für die
+Fallstudie erarbeitete methodische Vorgehensweise sowie die
+gewonnenen Ergebnisse (d.h. die Modelle) auch mündlich
+vortragen und begründen können.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: BWL-BSc-GL-M06 Marketing
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc DB, SPMG "BWL 1: Wertschöpfungsmanagement"
+7. Angebotsturnus des Moduls: im Turnus Sommersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 4. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Strategisches Business Marketing 2
+2 P Übung Strategisches Business Marketing 2
+6013. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Strategisches Business Klausur 60 Prüfungszeitraum: 65
+Marketing erste bis vierte
+Woche nach
+Vorlesungsende
+2 Strategisches Business Präsentation 20 Während der 35
+Marketing Vorlesungszeit
+61Modul BWL-BSc-WM-M01
+1. Name des Moduls: Internationales Management
+2. Fachgebiet / Verantwortlich: Prof. Dr. Michael Dowling
+3. Inhalte des Moduls: In der Vorlesung werden folgende Inhalte behandelt:
+-  Einführung  in  den  Themenkomplex  Internationales
+Management
+-  Ökonomische,  kulturelle,  politische  und  rechtliche
+Rahmenbedingungen
+-  Auswahl  von  geeigneten  internationalen
+Unternehmensstrategien
+- Strategieimplementierung
+- Internationales Marketing
+- Weltweite Innovation
+Die  gesamte  Veranstaltung  wird  in  englischer  Sprache
+abgehalten.
+Im Rahmen der Übung werden Case Studies bearbeitet, die
+auf die Vorlesungsinhalte abgestimmt sind. Hier erhalten die
+Studierenden  die  Möglichkeit,  interaktiv  das  Erlernte  zu
+diskutieren.
+Ein  weiteres  Element  der  Veranstaltung  ist  ein
+Gruppenprojekt. Hierzu werden die Studierenden in Teams
+eingeteilt.  Jede  Gruppe  hat  eine  Fragestellung  aus  dem
+Themengebiet  Internationales  Strategisches  Management
+eigenständig zu bearbeiten. Ziel ist es, eigene Forschung zur
+Thematik  zu  betreiben  und  eine  Analyse  mit
+Handlungsoptionen anzufertigen.
+4. Qualifikationsziele des Moduls / zu Nach Abschluss dieses Moduls sind die Studierenden in der
+erwerbende Kompetenzen: Lage, ihre bereits erworbenen Kenntnisse über die Konzepte
+und Techniken der Unternehmensführung auf die Probleme
+von globalen Branchen und multinationalen Unternehmen zu
+übertragen. Dazu wurden die entsprechenden Konzepte und
+Techniken zusätzlich im Rahmen einer Übung anhand von
+Fallstudien diskutiert und angewandt. Die Studierenden sind
+dadurch in der Lage, insbesondere die Vor- und Nachteile
+kooperativer  Strategien  und  die  Schwierigkeiten  der
+Implementierung  von  globalen  Strategien,  die  einerseits
+lokalen  Märkten  angepasst  werden  müssen,  andererseits
+globale  Kostenvorteile  erreichen  sollen,  analysieren  zu
+können.  Ferner  haben  Studierende  die  Fähigkeit  zur
+Koordinierung  und  Kontrolle  von  multinationalen
+Unternehmen  erworben,  was  einen  weiteren
+Hauptgliederungspunkt dieser Veranstaltung darstellte.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc DB, SPMG "BWL 1: Wertschöpfungsmanagement"
+7. Angebotsturnus des Moduls: im Turnus Wintersemester
+628. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 5. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Stunden)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 45 Std. (4 SWS)
+2. Übungsaufgaben: 65 Std.
+3. Nachbearbeitung: 35 Std.
+4. Prüfungsvorbereitung: 35 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Internationales Management 2
+2 P Fallstudie Internationales Management 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Internationales Management Klausur 90 Prüfungszeitraum: 50
+Minuten erste bis vierte
+Woche nach
+Vorlesungsende
+2 Internationales Management Fallstudienarbeit Während der 50
+Vorlesungszeit
+636.3. Schwerpunktmodulgruppe: BWL2: Finanzmanagement
+Qualifikationsziele der Modulgruppe:
+In dieser Modulgruppe soll zum einen das Bewusstsein für die Bedeutung der Besteuerung an-hand typischer
+unternehmerischer Entscheidungen geweckt werden (z.B. Gewinnermittlung, Standort- und Rechtsformwahl –
+national  und  international,  verbundene  Unternehmen,  Unter-nehmensnachfolge,  Unternehmenskauf,
+grenzüberschreitende Leistungsbeziehungen, Finanzie-rung). In Corporate Finance sollen die Studierenden die
+wichtigsten Konzepte zur Bewertung von Investitionsprojekten, Aktien und Unternehmen sicher beherrschen.
+Nach erfolgreichem Abschluss des Kurses Kapitalmarktmanagement sind die Studierenden in der Lage, die
+wesentli-chen theoretischen und praktischen Problemstellungen im Kapitalmarktsektor zu erkennen und zu lösen.
+Dazu sind Kenntnisse der Funktionsweise von Kapitalmärkten und der Erwerb eines fundierten theoretischen
+Basiswissens erforderlich: Rendite und Risiko von Portefeuilles und Termingeschäfte. Die Veranstaltung „Externe
+Unternehmensberichterstattung  II“  soll  für  bedeu-tende  nationale  sowie  internationale  Aspekte  der
+Unternehmensrechnung  konzeptionell  und  institutionell  sensibilisieren  und  das  relevante  Basiswissen  in  der
+Unternehmensberichterstat-tung  nach  HGB  und  IFRS  sowohl  auf  Unternehmens-  als  auch  Konzernebene
+vermitteln. Alle Mo-dule der Modulgruppe setzen fundierte Kenntnisse aus der Modulgruppe „Grundlagen der
+BWL“, der Modulgruppe „Quantitative Grundlagen“ sowie des Moduls „Steuerrechtliche Grundlagen“ voraus.
+ECTS: 18; Modulgruppenverantwortliche*r: Prof. Dr. Inga Hardeck
+Modulkennung Modulname P/WP/W SWS G
+BWL-BSc-FI-M01 Betriebswirtschaftliche Steuerlehre Wahlpflicht 2V+2Ü 6
+BWL-BSc-FI-M02 Corporate Finance Wahlpflicht 2V+2Ü 6
+BWL-BSc-FI-M03 Kapitalmarktmanagement Wahlpflicht 2V+2Ü 6
+BWL-BSc-FI-M04 Externe Unternehmensberichterstattung II Wahlpflicht 2V+2Ü 6
+DB-BSc-FI-M01 Digital Real Estate Wahlpflicht 2V+2Ü 6
+64Modul BWL-BSc-FI-M01
+1. Name des Moduls: Betriebswirtschaftliche Steuerlehre
+2. Fachgebiet / Verantwortlich: Prof. Dr. Inga Hardeck
+3. Inhalte des Moduls: Die Vorlesung "Betriebswirtschaftliche Steuerlehre" soll das
+Bewusstsein  für  die  Bedeutung  der  Besteuerung  anhand
+typischer  unternehmerischer  Entscheidungen  wecken
+(Gewinnermittlung, Standort- und Rechtsformwahl - national
+und  international,  verbundene  Unternehmen,
+Unternehmensnachfolge,  Unternehmenskauf,
+grenzüberschreitende  Leistungsbeziehungen,  Finanzierung,
+Unternehmenskrise). Dabei werden die Kenntnisse aus der
+Veranstaltung "Steuerrechtliche Grundlagen" vorausgesetzt.
+4. Qualifikationsziele des Moduls / zu Nach Abschluss des Moduls verstehen die Studierenden die
+erwerbende Kompetenzen: Systematik  der  deutschen  Unternehmensbesteuerung.  Sie
+können  die  unterschiedlichen  Besteuerungstatbestände
+subsumieren  und  die  damit  einhergehenden
+steuerrechtlichen  Konsequenzen  bestimmen.  Die
+Studierenden  wurden  in  die  Lage  versetzt  selbständig
+entstehende  Steuerbelastungen  zu  berechnen  sowie  evtl.
+bestehende Gestaltungsmöglichkeiten zu erkennen.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: BWL-BSc-PG-M02 Steuerrechtliche Grundlagen
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc DB, SPMG "BWL2: Finanzmanagement"
+7. Angebotsturnus des Moduls: im Turnus Sommersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 4. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Stunden)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std. (2/3*Gesamtzeit)
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Betriebswirtschaftliche Steuerlehre 2
+2 P Übung Betriebswirtschaftliche Steuerlehre 2
+6513. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Betriebswirtschaftliche Klausur 90 Prüfungszeitraum: 100
+Steuerlehre erste bis vierte
+Woche nach
+Vorlesungsende
+66Modul BWL-BSc-FI-M02
+1. Name des Moduls: Corporate Finance
+2. Fachgebiet / Verantwortlich: Prof. Dr. Gregor Dorfleitner
+3. Inhalte des Moduls: Die Veranstaltung beschäftigt sich mit dem Vorbereiten bzw.
+Treffen  betrieblicher  Finanzierungs-  und
+Investitionsentscheidungen,  der  Beurteilung  von
+Investitionsprojekten  und  Bewertung  von  Unternehmen
+sowie der Anleihen- und Aktienbewertung und dem Capital
+Asset Pricing Model (CAPM).
+4. Qualifikationsziele des Moduls / zu Nach erfolgreicher Beendigung dieses Moduls können die
+erwerbende Kompetenzen: Studierenden  die  Basis-Theorien  zur  Kapitalstruktur  eines
+Unternehmens und der marktgerechten, erwarteten Rendite
+einer Investition wiedergeben. Die Studierenden können mit
+Hilfe  dieser  Theorien  die  Projektbewertung  und  die
+Bewertung ganzer Unternehmen vornehmen und dabei die
+WACC-Methode, die APV-Methode und die Equity-Methode
+in  den  jeweils  angemessenen  Anwendungssituationen
+anwenden.  Sie  sind  ferner  in  der  Lage,  Cashflows  eines
+Projektes oder eines Unternehmens zu berechnen.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: BWL-BSc-GL-M03 Finanzierung
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc DB, SPMG "BWL2: Finanzmanagement"
+7. Angebotsturnus des Moduls: im Turnus Sommersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 4. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Stunden)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std. (2/3*Gesamtzeit)
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Corporate Finance 2
+2 P Übung Corporate Finance 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Corporate Finance Klausur 60 Prüfungszeitraum: 100
+erste bis vierte
+Woche nach
+Vorlesungsende
+6714. Bemerkungen:
+-  Die  Wiederholungsprüfung  ist  grundsätzlich  nicht  für  Erstschreiber  offen  (Ausnahmen:  Krankheit  und
+Auslandsaufenthalt).
+- Bei einem geplanten Auslandsaufenthalt ist eine potentielle Modulanrechnung mit der Lehrperson im Vorfeld
+abzuklären.
+68Modul BWL-BSc-FI-M03
+1. Name des Moduls: Kapitalmarktmanagement
+2. Fachgebiet / Verantwortlich: Prof. Dr. Klaus Röder
+3. Inhalte des Moduls: - Portfolio Theorie und praktische Anwendung
+- Risikomanagement
+- Asset Pricing Modelle
+- Performancemessung
+- Optionen und Futures
+- Nachhaltige Aktienanlage
+4. Qualifikationsziele des Moduls / zu Nach Abschluss dieses Moduls sind die Studierenden in der
+erwerbende Kompetenzen: Lage, moderne Kapitalmarkttheorien sowie die zugehörigen
+praktischen  Erkenntnisse  der  empirischen
+Kapitalmarktforschung, um ein tiefgreifendes Verständnis für
+den  Kapitalmarkt  zu  entwickeln  und  wissenschaftlich
+fundierte  Anlageentscheidungen  zu  treffen.  Das  Modul
+vermittelt Studierenden dazu die quantitativen Fähigkeiten
+der  angewandten  Kapitalmarktanalyse  mit
+Schwerpunktsetzung auf das Portfoliomanagement & Asset
+Pricing. Die im Modul vermittelten Inhalte sind insbesondere
+relevant  für  berufliche  Tätigkeiten  bei  Banken,
+Investmentfonds,  Vermögensverwaltungen  und
+Versicherungen sowie für die private Kapitalanlage.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: BWL-BSc-GL-M03 Finanzierung
+BWL-BSc-GL-M04 Investitionsentscheidungen
+WiWi-BSc-Q02 Statistik 1 für Wirtschaftswissenschaften
+WiWi-BSc-Q03 Statistik 2 für Wirtschaftswissenschaften
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc DB, SPMG "BWL2: Finanzmanagement"
+7. Angebotsturnus des Moduls: im Turnus Wintersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 3. bzw. 5. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Stunden)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std. (2/3*Gesamtzeit)
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Kapitalmarktmanagement 2
+2 P Übung Kapitalmarktmanagement 2
+6913. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Kapitalmarktmanagement Klausur 60 Prüfungszeitraum: 100
+erste bis vierte
+Woche nach
+Vorlesungsende
+14. Bemerkungen:
+-  Die  Wiederholungsprüfung  ist  grundsätzlich  nicht  für  Erstschreiber  offen  (Ausnahmen:  Krankheit  und
+Auslandsaufenthalt).
+- Bei einem geplanten Auslandsaufenthalt ist eine potentielle Modulanrechnung mit der Lehrperson im Vorfeld
+abzuklären.
+70Modul BWL-BSc-FI-M04
+1. Name des Moduls: Externe Unternehmensberichterstattung II
+2. Fachgebiet / Verantwortlich: Prof. Dr. Axel Haller
+3. Inhalte des Moduls: - Leistungsmaße der Unternehmensrechnung
+- Zentrale Rechnungslegungstheorien
+- Internationalisierung der Rechnungslegung in Deutschland
+-  Harmonisierung  und  Durchsetzung  der
+Unternehmensrechnung
+-  Aufbau  und  Grundsätze  der  International  Financial
+Reporting Standards (IFRS)
+- Wesentliche Regelungen zur Abschlusserstellung nach IFRS
+-  Zielsetzung  und  Ausgestaltung  von  zusätzlichen
+Instrumenten  der  Unternehmensberichterstattung  (z.B.
+Lagebericht,  Wertschöpfungsrechnung,  Sozial-  und
+Nachhaltigkeitsberichte,  Zwischenberichte,  Ad-Hoc-
+Publizität)
+- Grundlagen der Konzernrechnungslegung nach HGB und
+IFRS
+4. Qualifikationsziele des Moduls / zu Nach Abschluss dieses Moduls haben die Studierenden eine
+erwerbende Kompetenzen: Sensibilität  für  internationale  Aspekte  der
+Unternehmensrechnung entwickelt und zentrale theoretische
+Ansätze  der  Unternehmensrechnung  verstanden.  Darüber
+hinaus können sie wesentliche Sachverhalte im Jahres- und
+Konzernabschluss  nach  HGB  und  IFRS  abbilden  sowie
+interpretieren.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: BWL-BSc-GL-M02 Externe Unternehmensberichterstattung I
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc DB, SPMG "BWL2: Finanzmanagement"
+7. Angebotsturnus des Moduls: im Turnus Wintersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 5. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Std.)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Externe 2
+Unternehmensberichterstattung II
+2 P Übung Externe 2
+Unternehmensberichterstattung II
+7113. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Externe Unternehmensbericht Klausur 90 Prüfungszeitraum: 100
+erstattung II Minuten innerhalb der
+Vorlesungszeit
+14. Bemerkungen:
+Bei einem geplanten Auslandsaufenthalt ist eine potenzielle Modulanrechnung mit dem Prüfer oder der Prüferin
+im Vorfeld abzuklären.
+72Modul DB-BSc-FI-M01
+1. Name des Moduls: Digital Real Estate
+2. Fachgebiet / Verantwortlich: Prof. Dr. Wolfgang Schäfers
+3. Inhalte des Moduls: Die Veranstaltung „Digital Real Estate“ beschäftigt sich mit
+dem Thema des Innovations- und Gründungsmanagements
+in  der  Finanz-  und  Immobilienwirtschaft.  Die  wichtigsten
+aktuellen  technologischen  Trends,  sowie  deren
+Auswirkungen  auf  die  Finanz-  und  Immobilienwirtschaft
+werden  thematisiert  und  ausführlich  anhand  praktischer
+Beispiele dargestellt. Schwerpunktmäßig beschäftigt sich die
+Veranstaltung mit der „Blockchain-Technologie“. Neben den
+technologischen Grundlagen werden hierbei insbesondere
+sogenannte Kryptoassets und deren gesamtwirtschaftliche
+Bedeutung  im  Rahmen  der  Kryptoökonomie  besprochen.
+Beim Thema Gründungsmanagement werden die zentralen
+Bausteine  einer  Unternehmensgründung  im  fi-nanz-  und
+immobilienwirtschaftlichen Bereich (Prop-Techs vs. FinTechs)
+behandelt und weiterhin die Themen „Venture Capital“ und
+die Finanzierung von Prop-Techs & FinTechs angeschnitten.
+Im Rahmen einer jährlich wechselnden semesterbegleitenden
+Gruppenarbeit  erhalten  die  Studierenden  zudem  die
+Möglichkeit  ihre  Expertise  im  Bereich  Digitalisierung,
+Kryptoassets, Kryptowährungen und Blockchain-Technologie
+durch  die  Entwicklung  konkreter  Anwendungsbeispiele
+weiterzuentwickeln.
+4. Qualifikationsziele des Moduls / zu Nach Abschluss dieses Moduls haben die Studierenden eine
+erwerbende Kompetenzen: Sensibilität für aktuelle technologische Trends/Innovationen
+sowie  deren  Anwendungsmöglichkeit  in  der  Finanz-  und
+Immobilienwirtschaft. Durch die vertiefte Behandlung der
+„Blockchain-Technologie“ entwickeln die Studierende darüber
+hinaus  ein  tiefes  Verständnis  für  die  Bedeutung  von
+Kryptoassets  &  Kryptowährungen  im  betriebs-  und
+gesamtwirtschaft-lichen  Kontext.  Zusätzlich  erlangen  die
+Kursteilnehmer/innen  wichtige  Kenntnisse  im  Bereich  des
+Gründungsmanagements  und  sind  in  der  Lage  die
+wichtigsten Aspekte der Unternehmensgründung und deren
+Finanzierung voneinander abzugrenzen.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: Phase I abgeschlossen
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc DB, SPMG "BWL2: Finanzmanagement"
+7. Angebotsturnus des Moduls: im Turnus Sommersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 4. Fachsemester
+7310. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Stunden)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Digital Real Estate 2
+2 P Übung Digital Real Estate 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Digital Real Estate Klausur 60 Prüfungszeitraum: 50
+Minuten erste bis vierte
+Woche nach
+Vorlesungsende
+2 Digital Real Estate Fallstudienarbeit Max. 10 Innerhalb der Vorle- 50
+Seiten sungszeit
+Inhalt
+14. Bemerkungen:
+• Die Wiederholungsprüfung ist grundsätzlich nicht für Erstschreiber offen
+• Bei einem geplanten Auslandsaufenthalt ist eine potentielle Modulanrechnung mit der Lehrperson im Vorfeld
+abzuklären.
+747. Freie Schwerpunktmodulgruppen
+7.1. Freie Schwerpunktmodulgruppe: Wertschöpfungsmanagement
+Qualifikationsziele der Modulgruppe:
+Die  Pflichtmodulgruppe  erweitert  die  Kenntnisse  der  Studierenden  in  den  Basisdisziplinen  der  BWL  um
+fortgeschrittene Inhalte. In Organisationslehre werden Studierende in die Lage ver-setzt, Ziele, Aufgaben und den
+Aufbau von Organisationen zu verstehen und klassische wie mo-derne Organisationsformen zu kennen. Auch sind
+sie in der Lage, Organisationsstrukturen und Arbeitsprozesse zu überprüfen und den neuen Rahmenbedingungen
+anzupassen. In Management und Unternehmensgründung werden die grundsätzlichen Konzepte und Techniken
+des Manage-ments sowie der Unternehmensgründung vermittelt und durch ein Businessplanprojekt simu-liert.
+Die  Studierenden  sollen  Entscheidungsprobleme  der  betrieblichen  Leistungserstellung,  d.h.  des
+Produktionsmanagements,  insbesondere  der  Produktionsplanung  und  -steuerung  kennen  lernen  sowie  mit
+theoretisch  geeigneten  und  praktisch  erprobten  Lösungskonzepten  ver-traut  gemacht  werden.  Marketing
+behandelt Methoden der Gewinnung und Verarbeitung von Informationen für Marketing- Entscheidungen sowie
+Erkenntnisse über das Verhalten privater und institutioneller Käufer. Darauf baut die Erörterung von Konzepten
+und Methoden für strate-gische und instrumentelle Entscheidungen auf.
+ECTS: 18; Modulgruppenverantwortliche*r: Prof. Dr. Roland Helm
+Modulkennung Modulname P/WP/W SWS G
+BWL-BSc-PG-M03 Produktionsmanagement Wahlpflicht 2V+2Ü 6
+BWL-BSc-GL-M06 Marketing Wahlpflicht 2V+2Ü 6
+BWL-BSc-PG-M04 Organisationslehre (PO2021) Wahlpflicht 2V+2Ü 6
+BWL-BSc-PG-M05 Management und Unternehmensgründung Wahlpflicht 2V 6
+BWL-BSc-PG-M01 Leistungserstellung Wahlpflicht 2V+2Ü 6
+75Modul BWL-BSc-PG-M03
+1. Name des Moduls: Produktionsmanagement
+2. Fachgebiet / Verantwortlich: Prof. Dr. Justus Arne Schwarz
+3. Inhalte des Moduls: Der Kurs bietet eine Einführung in Konzepte und Methoden
+des  Produktionsmanagements  im  Kontext  von  schlanken
+Produktionssystemen und der Industrie 4.0. Ursachen und
+Auswirkungen  von  Variabilität  in  Produktionssystemen
+werden diskutiert.
+Es  werden  verschiedene  betriebswirtschaftliche
+Planungsprobleme betrachtet, dazu gehören beispielsweise
+die  Fließbandabstimmung,  die  Pufferallokation  und  die
+Losgrößenplanung.
+Die Studierenden werden an die Formalisierung und Lösung
+von  Planungsproblemen  mittels  gemischt-ganzzahliger
+Programmierung herangeführt. Dieser Lösungsansatz wird
+anhand von Praxisbeispielen diskutiert.
+4. Qualifikationsziele des Moduls / zu Nach Abschluss dieses Moduls sind die Studierenden in der
+erwerbende Kompetenzen: Lage, Planungsaufgaben in Produktionssystemen quantitativ
+zu  lösen.  Die  Studierenden  haben  nach  Abschluss  des
+Moduls:
+-  Einen  Überblick  über  Voraussetzungen,  Ziele  und
+Schlüsselkonzepte von schlanken Produktionssystemen.
+-  Ein  Verständnis  der  Ursachen  und  Auswirkungen  von
+Variabilität in Produktionssystemen.
+- Kenntnisse über neue Technologien der Industrie 4.0 und
+deren Einsatzpotenzial im Produktionsmanagement
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: BWL-BSc-PG-M01 Leistungserstellung
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc DB, FSG "Wertschöpfungsmanagement"
+7. Angebotsturnus des Moduls: im Turnus Wintersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 3. oder 5. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Stunden)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+7611. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Produktionsmanagement 2
+2 P Übung Produktionsmanagement 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Produktionsmanagement Klausur 90 Im regulärem 100
+Prüfungszeitraum
+77Modul BWL-BSc-GL-M06
+1. Name des Moduls: Marketing
+2. Fachgebiet / Verantwortlich: Prof. Dr. Roland Helm
+3. Inhalte des Moduls: 1. Grundsätze marktorientierter Unternehmenspolitik
+2.  Rationale  Informationsverarbeitung  und  Ableitung  von
+Entscheidungen
+3. Gesetzmäßigkeiten des Käuferverhaltens
+Marketing-Mix I: Leistungsgestaltung
+4. Produkt- und Innovationspolitik
+5. Preispolitik
+Marketing-Mix II: Leistungsvermittlung
+6. Distributionspolitik
+7. Kommunikationspolitik
+8. Besonderheiten ausgewählter institutioneller Bereiche des
+Marketing
+4. Qualifikationsziele des Moduls / zu Nach Abschluss dieses Moduls haben die Studierenden einen
+erwerbende Kompetenzen: Überblick  über  die  Grundlagen  marktorientierter
+Unternehmensplanung,  Entscheidungsrechnung,
+Käuferverhalten und der klassischen Marketing-Instrumente,
+um  Marketing-Entscheidungen  im  Unternehmen  zu
+verstehen,  gewonnen.  Die  Studierenden  können  nach
+Abschluss  des  Moduls  kleinere  Problemstellungen
+selbstständig lösen.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: BWL-BSc-GL-M05 Kosten- und Leistungsrechnung
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc DB, FSG "Wertschöpfungsmanagement"
+7. Angebotsturnus des Moduls: im Turnus Wintersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 3. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 LP*30 Std.)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Marketing 2
+2 P Übung Marketing 2
+7813. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Marketing Klausur 60 Prüfungszeitraum: 100
+erste bis vierte
+Woche nach
+Vorlesungsende
+14. Bemerkungen:
+Modulname geändert von "Grundlagen des Marketing" (PO 2015) auf "Marketing" (PO 2021)
+Eine Doppelbelegung des Moduls mit "altem Namen" und des Moduls mit "neuem Namen" ist nicht möglich.
+79Modul BWL-BSc-PG-M04
+1. Name des Moduls: Organisationslehre (PO2021)
+2. Fachgebiet / Verantwortlich: Prof. Dr. Thomas Steger
+3. Inhalte des Moduls: Diese Grundlagenveranstaltung vermittelt den Studierenden
+einen Einstieg und Überblick über die moderne Organisation
+bzw. die Organisationslehre. Zu Beginn werden wichtige,
+grundlegende Organisationstheorien behandelt. Danach wird
+die Organisation im weiteren Umweltkontext betrachtet und
+ihre  wesentlichen  Bausteine  (Struktur,  Kultur,  Strategie)
+eingehend erörtert. Abschließend geht die Veranstaltung auf
+zwei  weiterführende  Herausforderungen  ein  den
+organisatorischen Wandel sowie die Internationalisierung der
+Organisation.  Die  Übung  vertieft  die  in  der  Vorlesung
+besprochenen Inhalte. Hierzu werden in Gruppen Fallstudien
+bearbeitet.
+4. Qualifikationsziele des Moduls / zu Nach  Abschluss  des  Moduls  können  Studierende
+erwerbende Kompetenzen: grundlegende  Organisationstheorien  erläutern  sowie
+Aufgaben und Aufbau von Organisationen skizzieren. Darauf
+aufbauend sind sie in der Lage, Organisationen kritisch zu
+analysieren,  Probleme  zu  identifizieren  und
+Gestaltungsempfehlungen  für  konkrete  Problemstellungen
+(z.B. Struktur- und Strategieentwicklung) zu entwickeln. Im
+Weiteren haben die Studierenden die Fähigkeit erworben,
+Fälle aus dem Bereich der Organisationslehre zu bearbeiten
+und kritisch zu diskutieren.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc DB, FSG "Wertschöpfungsmanagement"
+7. Angebotsturnus des Moduls: im Turnus Sommersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 4. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 LP*30 Stunden)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Organisationslehre (PO2021) 2
+2 P Übung Organisationslehre (PO2021) 2
+8013. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Organisationslehre (PO2021) Klausur 90 erste bis vierte 50
+Minuten Woche nach
+Vorlesungsende
+2 Organisationslehre (PO2021) Mündliche Während der 10
+Prüfung Vorlesungszeit
+3 Organisationslehre (PO2021) Projektarbeit Schriftlic Während der 40
+he Haus- Vorlesungszeit
+arbeit,
+max. 10
+Seiten
+14. Bemerkungen:
+Im Falle des Nichtbestehens der Klausur ist auch das Modul insgesamt nicht bestanden. Die bestmögliche
+Gesamtnote - nach Verrechnung mit den anderen Teilprüfungsleistungen - ist dann 4,3.
+Die Projektarbeit wird in der Gruppe durchgeführt und umfasst eine schriftliche Hausarbeit, max. 10 Seiten.
+Die mündliche Prüfung besteht aus inhaltlichen Diskussionsbeiträgen.
+81Modul BWL-BSc-PG-M05
+1. Name des Moduls: Management und Unternehmensgründung
+2. Fachgebiet / Verantwortlich: Prof. Dr. Michael Dowling
+3. Inhalte des Moduls: In der Vorlesung werden folgende Lehrinhalte besprochen:
+- Einführung zum Thema Entrepreneurship
+- Erstellung eines Businessplans
+-  Einführung  in  das  Strategische  Management  von
+Unternehmen
+- Internationales Management
+- Management und Ethik
+Neben der Vorlesung dient die Veranstaltung auch dazu, die
+theoretisch  vermittelten  Lernziele  praktisch  anzuwenden.
+Dies  erfolgt  anhand  eines  Businessplanprojekts.  Die
+Studierenden werden dazu in Teams eingeteilt. Jedes Team
+muss einen Businessplan erarbeiten. Die zugrunde liegenden
+Geschäftsideen können real oder fiktiv sein, müssen in jedem
+Fall  aber  realistisch  sein.  Wichtige  Bestandteile  des
+Businessplans  sind  Executive  Summary,  Beschreibung  von
+Produkt/Dienstleistung  sowie  Analyse  von  Markt  und
+Wettbewerbsumfeld.
+4. Qualifikationsziele des Moduls / zu Nach Abschluss dieses Moduls sind die Studierenden in der
+erwerbende Kompetenzen: Lage,  grundsätzliche  Konzepte  und  Techniken  des
+Managements sowie des Entrepreneurship aufzuzeigen. Im
+Zentrum der Lehrveranstaltung standen Fragestellungen wie
+"Was  ist  Management?",  "Welche  Funktionen  muss  eine
+effektive  Unternehmensführung  erfüllen?",  "Welche
+Methoden und Instrumente gibt es?". Relevante Aspekte des
+Managements  von  Gründung  und  Wachstum  junger
+Unternehmen  wurden  hierbei  vertieft  behandelt.  Die
+Konzepte wurden durch ein Businessplanprojekt simuliert.
+Nach  der  Teilnahme  am  Modul  Management  und
+Unternehmensgründung  haben  die  Studierenden
+grundlegende Managementlehren verstanden sowie deren
+Vor- und Nachteile kennen gelernt. Studierende erlernten die
+Inhalte eines Businessplans sowie deren Bedeutung. Durch
+das Businessplanprojekt sind die Studierende in der Lage, die
+für  eine  Unternehmensgründung  relevanten
+betriebswirtschaftlichen  Problemfelder  zu  erkennen,  zu
+analysieren  und  mögliche  Wege  zu  Unternehmenserfolg
+nach der Gründung aufzuzeigen.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc DB, FSG "Wertschöpfungsmanagement"
+7. Angebotsturnus des Moduls: im Turnus Sommersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 4. Fachsemester
+8210. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Management und 2
+Unternehmensgründung
+2 P Fallstudie Management und 2
+Unternehmensgründung
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Management und Klausur 60 Prüfungszeitraum: 50
+Unternehmensgründung Minuten erste bis vierte
+Woche nach
+Vorlesungsende
+2 Management und Fallstudienarbeit Während der 50
+Unternehmensgründung Vorlesungszeit
+14. Bemerkungen:
+Für Austauschstudierende:
+Fundierte Sprachkenntnisse erforderlich; Vorlesung, Klausur & schriftlicher Businessplan auf Deutsch
+83Modul BWL-BSc-PG-M01
+1. Name des Moduls: Leistungserstellung
+2. Fachgebiet / Verantwortlich: Prof. Dr. Andreas Otto
+3. Inhalte des Moduls: Nach einer grundlegenden Einführung in die Aufgaben des
+Produktionsmanagements behandelt die Vorlesung zunächst
+die  Bedingungen  für  den  effizienten  Einsatz  der
+Produktionsfaktoren  Material,  Betriebsmittel  und
+menschliche Arbeit. Insbesondere geht es dabei um Fragen
+der Materialbeschaffung und -bereitstellung, Lagerhaltung,
+Fertigungsorganisation, Arbeitsgestaltung und -entlohnung.
+Daran  schließt  sich  eine  Darstellung  der  in  der  Praxis
+vorherrschenden  Produktionsplanungs-  und
+-steuerungssysteme an. Im Vordergrund stehen Konzepte der
+Prognoserechnung,  Produktionsprogrammplanung,
+Materialbedarfsplanung,  Termin-  und  Kapazitätsplanung,
+Produktionssteuerung  (Reihenfolgeplanung)  und  neuere
+Systeme wie Kanban oder Just-in-Time-Produktion.
+4. Qualifikationsziele des Moduls / zu Nach Abschluss dieses Moduls sind die Studierenden in der
+erwerbende Kompetenzen: Lage, die in der Literatur vorgeschlagenen und in der Praxis
+eingesetzten Konzepte und Instrumente zur Planung und
+Steuerung  industrieller  Leistungserstellungsprozesse
+auszuwählen und anwenden zu können.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: Quantitative Grundlagen aus der Studienphase 1.
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc DB, FSG "Wertschöpfungsmanagement"
+7. Angebotsturnus des Moduls: im Turnus Wintersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 3. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS * 30 Stunden)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Leistungserstellung 2
+2 P Übung Leistungserstellung 2
+8413. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Leistungserstellung Klausur 60 Prüfungszeitraum 100
+erste bis vierte
+Woche nach
+Vorlesungsende
+857.2. Freie Schwerpunktmodulgruppe: Finanzmanagement
+Qualifikationsziele der Modulgruppe:
+In  dieser  Modulgruppe  erwerben  die  Studierenden  Grundlagenwissen  im  Bereich  des  Finanzma-nagements.
+Externe Unternehmensberichterstattung I ermöglicht den Studierenden, Geschäftsvorfälle zu bilanzieren, deren
+Auswirkungen  auf  die  Bilanz,  die  GuV,  den  Anhang  und  den  Jahresabschluss  zu  beurteilen  und
+sachverhaltsgestaltende Maßnahmen im Rahmen der Bilanzpolitik vorzuschlagen. In den beiden Veranstaltungen
+Investitionsentscheidungen und Finanzierung werden dynamische Investitionsrechenverfahren wie die Barwert-,
+End-  und  Kapitalwertberech-nung  und  die  Methode  des  internen  Zinssatzes  sowie  Renten-  und
+Annuitätenrechnungen  behandelt.  Weiterhin  wird  die  Bewertung  von  Anleihen  und  Aktien  vermittelt.  Die
+Studierenden sollen in der Lage sein, grundlegende Investitionsentscheidungen zu treffen. Die Studierenden
+lernen zudem die wichtigsten derivativen Finanzinstrumente kennen und können einfache Be-wertungsmodelle
+dafür  rechnen.  Grundkenntnisse  des  Steuerrechts  und  der  betrieblichen  Steuerlehre  sind  für  angehende
+Betriebswirte unerlässlich. Studierende kennen am Ende der Veranstaltung die steuerrechtlichen Grundlagen der
+Einkommen-,  Körperschaft-,  Gewerbe-  und  Umsatzsteuer  sowie  grundlegende  Inhalte  des  Erbschaft-  /
+Schenkungssteuergesetzes bzw. des Grunderwerbsteuergesetzes
+ECTS: 18; Modulgruppenverantwortliche*r: Prof. Dr. Klaus Röder
+Modulkennung Modulname P/WP/W SWS G
+BWL-BSc-GL-M03 Finanzierung Wahlpflicht 2V+2Ü 6
+BWL-BSc-GL-M04 Investitionsentscheidungen Wahlpflicht 2V+2Ü 6
+BWL-BSc-GL-M02 Externe Unternehmensberichterstattung I Wahlpflicht 2V+2Ü 6
+BWL-BSc-PG-M02 Steuerrechtliche Grundlagen Wahlpflicht 2V+2Ü 6
+86Modul BWL-BSc-GL-M03
+1. Name des Moduls: Finanzierung
+2. Fachgebiet / Verantwortlich: Prof. Dr. Gregor Dorfleitner
+3. Inhalte des Moduls: - Grundlagen der Finanzwirtschaft
+- Modelle in der Finanzwirtschaft
+- Elementare Finanzmathematik
+- Investitionsrechnung
+- Finanzierung
+- Finanzinstitutionen
+- Derivative Wertpapiere
+4. Qualifikationsziele des Moduls / zu Nach erfolgreicher Beendigung dieses Moduls können die
+erwerbende Kompetenzen: Studierenden  die  Grundbegriffe  der  Finanzierung,
+insbesondere  die  verschiedenen  Finanzierungsformen,
+benennen  und  definieren.  Sie  können  die  wesentlichen
+theoretischen  Konzepte  der  Finanzierungslehre  wie  das
+Kapitalwertprinzip wiedergeben. Sie können den Kapitalwert
+berechnen und verschiedene Finanzinstrumente in einfachen
+Anwendungssituationen bewerten. Die Studierenden können
+finanzwirtschaftliche Basisprobleme der Betriebswirtschaft in
+stilisierter  Form  lösen,  also  die  wesentlichen
+betriebswirtschaftlichen Entscheidungen in den Teilbereichen
+wie Investition und Finanzierung vornehmen. Dazu gehören
+etwa  Entscheidungen  für  oder  gegen  die  Durchführung
+möglicher Projekte.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc DB, FSG "Finanzmanagement"
+7. Angebotsturnus des Moduls: im Turnus Wintersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 3. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Std.)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Finanzierung 2
+2 P Übung Finanzierung 2
+8713. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Finanzierung Klausur 90 Prüfungszeitraum. 100
+erste bis vierte
+Woche nach
+Vorlesungsende
+14. Bemerkungen:
+-  Die  Wiederholungsprüfung  ist  grundsätzlich  nicht  für  Erstschreiber  offen  (Ausnahmen:  Krankheit  und
+Auslandsaufenthalt).
+- Bei einem geplanten Auslandsaufenthalt ist eine potentielle Modulanrechnung mit der Lehrperson im Vorfeld
+abzuklären.
+88Modul BWL-BSc-GL-M04
+1. Name des Moduls: Investitionsentscheidungen
+2. Fachgebiet / Verantwortlich: Prof. Dr. Klaus Röder
+3. Inhalte des Moduls: - Darstellung von Zahlungsreihen anhand eines Zeitstrahls
+und Ermittlung des Zeitwerts des Geldes
+- Determinanten von Zinssätzen
+- Bewertung von Anleihen
+- Investitionsentscheidungen
+- Grundlagen der Investitionsplanung
+- Bewertung von Aktien
+4. Qualifikationsziele des Moduls / zu Nach dem erfolgreichen Abschluss des Moduls haben die
+erwerbende Kompetenzen: Studierenden  grundlegende  Kenntnisse  der
+Investitionsplanung, insbesondere der Entscheidungsfindung
+bei  Investitionen,  erfahren.  Sie  sind  in  der  Lage,
+unterschiedliche betriebliche Sachverhalte mit den relevanten
+Methoden  zu  lösen.  Die  Studierenden  können  die
+Auswirkungen  der  erfassten  Sachverhalte  auf  die
+Vermögens-, Finanz- und Ertragslage eines Unternehmens
+einschätzen.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: WiWi-BSc-Q02 Statistik 1 für Wirtschaftswissenschaften
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc DB, FSG "Finanzmanagement"
+7. Angebotsturnus des Moduls: im Turnus Sommersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 2. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Stunden)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Investitionsentscheidungen 2
+2 P Übung Investitionsentscheidungen 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Investitionsentscheidungen Klausur 60 Prüfungszeitraum: 100
+erste bis vierte
+Woche nach
+Vorlesungsende
+8914. Bemerkungen:
+-  Die  Wiederholungsprüfung  ist  grundsätzlich  nicht  für  Erstschreiber  offen  (Ausnahmen:  Krankheit  und
+Auslandsaufenthalt).
+- Bei einem geplanten Auslandsaufenthalt ist eine potentielle Modulanrechnung mit der Lehrperson im Vorfeld
+abzuklären.
+90Modul BWL-BSc-GL-M02
+1. Name des Moduls: Externe Unternehmensberichterstattung I
+2. Fachgebiet / Verantwortlich: Prof. Dr. Axel Haller
+3. Inhalte des Moduls: Im  Rahmen  des  Moduls  werden  den  Studierenden  im
+Wesentlichen  die  Grundlagen  des  Jahresabschlusses  nach
+deutschem Handelsrecht (HGB) vermittelt.
+Zentrale Inhalte sind:
+- Ziele der externen Unternehmensrechnung
+- Aufbau des Jahresabschlusses und Lageberichts
+- Regeln zu Bilanzansatz, -ausweis und bewertung
+- Wahlrechte bei der Bilanzierung
+- Grundlagen des steuerrechtlichen Abschlusses
+- Prüfungs- und Publizitätspflichten von Unternehmen
+- Grundzüge der Konzernrechnungslegung
+- Grundzüge der internationalen Rechnungslegung
+4. Qualifikationsziele des Moduls / zu Nach  dem  erfolgreichen  Abschluss  des  Moduls  sind  die
+erwerbende Kompetenzen: Studierenden in der Lage, Geschäftsvorfälle zu bilanzieren,
+deren  Auswirkungen  auf  die  Bilanz,  die  Gewinn-  und
+Verlustrechnung,  den  Anhang  und  den  Lagebericht  zu
+beurteilen  und  sachverhaltsgestaltende  Maßnahmen  im
+Rahmen der Bilanzpolitik vorzuschlagen. Ergänzend haben
+die  Studierenden  Kenntnisse  über  die  Grundlagen  der
+Konzernberichterstattung und Vorschriften zu Publizität und
+Prüfung  von  Jahresabschlüssen  erworben.  Des  Weiteren
+können  die  Studierenden  die  Notwendigkeit  der
+Internationalisierung  der  Rechnungslegung  (International
+Financial  Reporting  Standards,  IFRS)  abschätzen,  da  sie
+Einblicke in deren momentane Ausgestaltung in Grundzügen
+erhalten haben.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: BWL-BSc-GL-M01 Buchhaltung
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc DB, FSG "Finanzmanagement"
+7. Angebotsturnus des Moduls: im Turnus Sommersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 2. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Std.)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std.
+9111. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Externe 2
+Unternehmensberichterstattung I
+2 P Übung Externe 2
+Unternehmensberichterstattung I
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Externe Unternehmensbericht Klausur 90 Prüfungszeitraum: 100
+erstattung I Minuten erste bis vierte
+Woche nach
+Vorlesungsende
+14. Bemerkungen:
+Bei einem geplanten Auslandsaufenthalt ist eine potenzielle Modulanrechnung mit dem Prüfer oder der Prüferin
+im Vorfeld abzuklären.
+92Modul BWL-BSc-PG-M02
+1. Name des Moduls: Steuerrechtliche Grundlagen
+2. Fachgebiet / Verantwortlich: Prof. Dr. Inga Hardeck
+3. Inhalte des Moduls: In der Vorlesung werden die steuerrechtlichen Grundlagen
+der Einkommen-, Körperschaft-, Gewerbe und Umsatzsteuer
+vermittelt. Des Weiteren werden grundlegende Inhalte des
+Erbschaft-/Schenkungsteuergesetzes  bzw.  des
+Grunderwerbsteuergesetzes  dargestellt.  Die  Übung  ist
+vorlesungsbegleitend und vertieft bzw. ergänzt den Stoff in
+Form von Fallstudien.
+4. Qualifikationsziele des Moduls / zu Unternehmerische Entscheidungen, die ohne Beachtung ihrer
+erwerbende Kompetenzen: steuerlichen Konsequenzen getroffen werden können, sind
+eher selten. Deshalb sind Grundkenntnisse des Steuerrechts
+und der Betriebswirtschaftlichen Steuerlehre für Studierende
+der Betriebswirtschaftslehre sowie verwandter Studiengänge
+unerlässlich.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc DB, FSG "Finanzmanagement"
+7. Angebotsturnus des Moduls: im Turnus Wintersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 3. bzw. 5. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 180 (6 ECTS*30 Stunden)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 60 Std. (4 SWS)
+2. Selbststudium (inkl. Prüfung): 120 Std. (2/3*Gesamtzeit)
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Steuerrechtliche Grundlagen 2
+2 P Übung Steuerrechtliche Grundlagen 2
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Steuerrechtliche Grundlagen Klausur 90 Prüfungszeitraum: 100
+erste bis vierte
+Woche nach
+Vorlesungsende
+938. Wahlmodulgruppe Digital Business
+Qualifikationsziele der Modulgruppe:
+Ziel dieser Modulgruppe ist es, den Studierenden die Möglichkeit zu geben, ihre Interessen auch außerhalb des
+wirtschaftlichen Bereiches zu verfolgen und überfachliche Schlüsselqualifika-tionen zu erwerben.
+Die Studierenden haben die Möglichkeit, beliebige Module der Fakultät für Wirtschaftswissenschaften, anderer
+Fakultäten oder aus dem Lehrangebot zentraler Einrichtungen der Uni-versität Regensburg zu wählen. Zusätzlich
+können  hier  auch  Leistungen  eingebracht  werden,  die  im  Rahmen  eines  Studiums  an  einer  ausländischen
+Universität erworben wurden. Maximal 6 ECTS dürfen durch ein Betriebspraktikum abgedeckt werden. Im Falle
+eines Wechsels der Hoch-schule, entscheidet der Modulgruppenverantwortliche auf Antrag über die Anerkennung
+ande-rer, außerhalb der Universität Regensburg erbrachter, Leistungen.
+ECTS: 12; Modulgruppenverantwortliche*r: Prof. Dr. Thomas Steger
+Modulkennung Modulname P/WP/W SWS G
+aus dem Studienangebot der Fakultät Wahl max 12
+Wirtschaftswissenschaften
+aus dem Studienangebot anderer Fakultäten Wahl max 12
+oder zentraler Einrichtungen der Universität
+Regensburg
+aus einem Auslandsemester / Auslandjahr Wahl max 12
+von anderen Hochschulen im Falle eines Wahl max 12
+Studienortswech-sels
+949. Forschungsmodulgruppe Digital Business
+Qualifikationsziele der Modulgruppe:
+Die  Forschungsmodulgruppe  bildet  den  Abschluss  des  Studiengangs.  Hier  stellt  der  oder  die  Studierende
+seine/ihre Fähigkeit unter Beweis ein selbst gewähltes (bzw. angebotenes) betriebswirtschaftliches Thema unter
+Zuhilfenahme des im vorangegangenen Bachelor-Studium erworbenen Wissens und Methodenkenntnisse und
+unter Anleitung eines Betreuers kritisch und eigenständig bearbeiten zu können. Fähigkeiten zur kritischen
+Analyse sowie schriftlichen Exposition sind auch im Berufsleben wichtig, und so trägt die Forschungsmodulgruppe
+nicht  nur  zur  Abrundung  der  Kompetenzen  der  Bachelor-Studierenden,  sondern  auch  unmittelbar  zur
+Berufsqualifikation bei.
+ECTS: 12; Modulgruppenverantwortliche*r: Prof. Dr. Roland Helm
+Modulkennung Modulname P/WP/W SWS G
+BWL-BSc-F01 Bachelorarbeit Pflicht 10
+BWL-BSc-F02 Einführung in wissenschaftliches Arbeiten Pflicht 1V 2
+95Modul BWL-BSc-F01
+1. Name des Moduls: Bachelorarbeit
+2. Fachgebiet / Verantwortlich: Alle Professor:innen der BWL
+3. Inhalte des Moduls: Die  Studierenden  bearbeiten  ein  selbst  gewähltes  (bzw.
+angebotenes)  betriebswirtschaftliches  Thema  kritisch  und
+eigenständig. Die Bachelorarbeit stellt somit den inhaltlichen
+Abschluss des Bachelorstudiums dar.
+4. Qualifikationsziele des Moduls / zu Nach Abschluss dieses Moduls sollen die Studierenden in der
+erwerbende Kompetenzen: Lage  sein,  ein  anspruchsvolles  Thema  der
+Betriebswirtschaftslehre zu analysieren und auch schriftlich
+überzeugend  und  verständlich  für  Dritte  zu  fixieren.  Die
+beschriebene  selbständige  und  methodische  Bearbeitung
+eines  Themas  der  Betriebswirt-schaftslehre  baut  auf  den
+Lernergebnissen des Bachelorstudiums auf.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc DB, FMG "Forschungsmodulgruppe Digital Business"
+7. Angebotsturnus des Moduls: im Turnus Sommersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 6. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 300 (10 LP*30 Stunden)
+Anzahl Leistungspunkte: davon:
+Selbststudium 300 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+13. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Bachelorarbeit Schriftliche 90 Tage 20 - 40 100
+Hausarbeit Seiten
+96Modul BWL-BSc-F02
+1. Name des Moduls: Einführung in wissenschaftliches Arbeiten
+2. Fachgebiet / Verantwortlich: Alle Professor:innen der BWL
+3. Inhalte des Moduls: - Erläuterungen zu Zielen und Methodiken wissenschaftlichen
+Arbeitens
+-  Grundsätzliche  Vorgehensweise  beim  wissenschaftlichen
+Arbeiten
+- Verfassen einer schriftlichen wissenschaftlichen Arbeit
+- Bestandteile und Gliederung sowie formale Gestaltung der
+Arbeit
+- Verwendung sowie Zitieren von Literatur
+-  Hinweise  zur  Literaturrecherche  und  Nutzung  von
+Datenbanken
+- Ethische Grundsätze wissenschaftlichen Arbeitens
+- Hinweise zur Präsentation wissenschaftlicher Erkenntnis
+Neben  der  Einführung  zum  wissenschaftlichen  Arbeiten
+erfolgt ein intensives individuelles und persönliches Coaching
+der  Studierenden  während  der  Bearbeitungsphase  der
+Bachelorarbeit.
+4. Qualifikationsziele des Moduls / zu Nach  Abschluss  dieses  Moduls  haben  die  Studieren
+erwerbende Kompetenzen: Kompetenzen zur Erstellung einer wissenschaftlichen Arbeit
+(Bachelorarbeit) vermittelt bekommen, indem sie die kritische
+Auseinandersetzung  mit  einer  Problemstellung  unter
+Anwendung  wissenschaftlicher  Methoden  und  der
+einschlägigen Fachliteratur erlernten.
+5. Teilnahmevoraussetzungen:
+    a) empfohlene Kenntnisse: keine
+    b) verpflichtende Nachweise: keine
+6. Verwendbarkeit des Moduls: BSc DB, FMG "Forschungsmodulgruppe Digital Business"
+7. Angebotsturnus des Moduls: im Turnus Sommersemester
+8. Das Modul kann absolviert werden in: 1 Semester
+9. Empfohlenes Fachsemester: 6. Fachsemester
+10. Arbeitsaufwand des Moduls (Workload) / Gesamt in Stunden: 60 (2 LP*30 Stunden)
+Anzahl Leistungspunkte: davon:
+1. Präsenzzeit: 15 Std. (1 SWS)
+2. Selbststudium (inkl. Prüfung): 45 Std.
+11. Das Modul ist erfolgreich absolviert, wenn die unten näher beschriebenen Leistungen erfüllt sind:
+12. Modulbestandteile:
+Nr. P/WP/W Lehrform Themenbereich SWS Studienleistung
+1 P Vorlesung Einführung in wissenschaftliches 1
+Arbeiten
+9713. Modulprüfung:
+Nr. Kompetenz Art der Prüfung Dauer Seiten- Zeitpunkt Anteil (%)
+umfang
+1 Einführung in Mündliche 30 Vor Beginn der 100
+wissenschaftliches Arbeiten Prüfung Minuten Bearbeitungszeit der
+Bachelorarbeit
+14. Bemerkungen:
+- Die Veranstaltung Einführung in wissenschaftliches Arbeiten wird von jedem BWL-Lehrstuhl angeboten.
+- Der bzw. die Studierende ist verpflichtet, an der Veranstaltung des Lehrstuhls teilzunehmen, an dem er bzw. sie
+seine bzw. ihre Bachelorarbeit verfasst.
+98
+Powered by TCPDF (www.tcpdf.org)
