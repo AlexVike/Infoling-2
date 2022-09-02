@@ -1,0 +1,135 @@
+{% extends "base.html" %}
+{% block body %}
+
+    <div class="row mt-5 card card-body">    
+        <div class="col">
+            <div class="row">
+                <div class="col">
+                    <div class="form-floating">
+                        <select name="studiengang" id="studiengang" class="form-select" placeholder="" form="mainform">
+                            {% for studiengang in studiengaenge %}
+                            <option value="{{ studiengang }}">{{ studiengang }}</option>
+                            {% endfor %}
+                        </select>
+                        <label for="studiengang">Bitte wählen Sie den Studiengang:</label>
+                    </div>
+                </div>
+            </div>
+            <form class="row mt-2" action="javascript: void(0);" id="mainform">
+                <div class="col">
+                    <div class="form-floating">
+                        <input type="text" class="form-control" id="question" placeholder="" form="mainform" name="question">
+                        <label for="question">Bitte geben Sie eine Frage ein:</label>
+                    </div>
+                </div>
+            </form>
+            <div class="row justify-content-center align-items-center mt-3" id="wait" style="display: none;">
+                <div class="col">
+                    <div class="row justify-content-center">
+                        <div class="col-auto">
+                            <div class="spinner-border text-primary" role="status">
+                                <span class="visually-hidden">Loading...</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col text-center">
+                            Die Antwort wird geladen! Bitte warten...
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-center mt-2">
+                <div class="col-auto">
+                    <button class="btn btn-primary" type="button" onclick="qanda.submitData();" id="submit">Übernehmen</button>
+                </div>
+            </div>
+            <div class="row mt-2">
+                <div class="col">
+                    <div id="answerwrapper">
+
+                    </div>
+                </div>
+            </div>    
+        </div>
+
+    </div>
+
+{% endblock body %}
+{% block script %}
+<script>
+    class QandA{
+        constructor(){
+            this.inputQuestion = document.getElementById('question');
+            this.selectSg = document.getElementById('studiengang');
+            this.rowWait = document.getElementById('wait');
+            this.buttonSubmit = document.getElementById('submit');
+            this.divAnswers = document.getElementById('answerwrapper');
+        }
+
+        set WaitVisibility(status){
+            this.rowWait.style.display = (status == true) ? "" : "none";
+        }
+        
+        insertAnswers(answers){
+           for(let elem in answers){
+                this.insertRow(answers[elem]);
+           }
+        }
+
+        insertRow(answer){
+            console.log(this);
+            let row = document.createElement('div');
+            row.classList.add('row', 'justify-content-center', 'mt-2');
+            let col = this.insertCol();
+            row.appendChild(col);
+            col = this.insertCol(col);
+            row.appendChild(col);
+            row.appendChild(this.insertCol());
+            row.appendChild(this.insertCol());
+            row.children[0].innerText = answer.answer.replace('\n', '');
+            row.children[1].innerText = Math.round(parseFloat(answer.score)*100*1000)/1000 + '%';
+            this.divAnswers.appendChild(row);
+        }
+        insertCol(){
+            let col = document.createElement('div');
+            col.classList.add('col-6', 'text-break');
+            return col;
+        }
+
+        deleteAnswers(){
+            while(this.divAnswers.lastElementChild){
+                this.divAnswers.removeChild(this.divAnswers.lastElementChild);
+            }
+        }
+
+        submitData(){
+            let form = $('#mainform');
+            let formdata = form.serialize();
+            let self  = this;
+            this.WaitVisibility = true;
+            this.buttonSubmit.disabled = true;
+            this.deleteAnswers();
+            $.ajax({
+                method: "post",
+                url: "/index.html",
+                data: formdata,
+                timeout: 0,
+                success: function(data){
+                    self.WaitVisibility = false;
+                    self.buttonSubmit.disabled = false;
+                    console.log(data);
+                    self.insertAnswers(data.answers);
+                },
+                error: function(data){
+                    self.WaitVisibility = false;
+                    self.buttonSubmit.disabled = false;
+                    alert("Es ist ein Fehler aufgetreten, Brudi!")
+                    console.log(data);
+                }
+            })
+        }
+    }
+    var qanda = new QandA();
+</script>
+{% endblock script %}

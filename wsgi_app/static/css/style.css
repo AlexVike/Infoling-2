@@ -1,0 +1,7 @@
+.themecolorbg{
+    background-color: var(--themecolor-bg);
+}
+
+:root{
+    --themecolor-bg: #e0e0e0;
+}

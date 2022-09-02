@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="de">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Infoling 2</title>
+        <link href="/css/bootstrap.min.css" rel="stylesheet">
+        <link href="/css/style.css" rel="stylesheet">
+    </head>
+
+    <body class="themecolorbg">
+        <div class="container-fluid">
+            <div class="row pt-4 pb-2">
+                <div class="col text-center text-primary">
+                    <h2 class=".text-body">Projekt Infoling 2</h2>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            {% block body %}
+            {% endblock body %}
+        </div>
+        <script src="/js/bootstrap.bundle.js"></script>
+        <script src="/js/jquery-3-6-1.js"></script>
+    </body>
+    {% block script %}
+    {% endblock script %}
+</html>
