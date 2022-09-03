@@ -7,7 +7,9 @@
 - [04-QA](https://github.com/AlexVike/Infoling-2/tree/main/QA)
 - [04-WSGI_App](https://github.com/AlexVike/Infoling-2/tree/main/wsgi_app)
 
+## Instalation des Systems
 
+Um das QA System benutzen zu können, muss man die [Requierements](https://github.com/AlexVike/Infoling-2/tree/main/Conda_pip_requierements) (etnweder conda, oder  pip) installieren. Daraufhin benötigt man die Datenbank. Sobald die Datenbank gestartet wurde, kann `main.py` ausgeführt werden. Mit dem Befehl `ipconfig` kann im Terminal die IPv4-Adresse überprüft werden. Diese kann im Browser eingegeben werden. Nun können Fragen gestellt werden.
 
 ## Scraping des Datensatzes
 Als aller erstes musste der Datensatz für das Projekt gescraped werden. Dies erfolgte in 2 Schritten.
