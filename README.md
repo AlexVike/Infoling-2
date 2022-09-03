@@ -8,8 +8,19 @@
 
 Die Ordner und die Deliverables werden nun einzeln beschrieben:
 
-## 00-General
-In diesem Ordner ist das Bild zu finden, welches in dieser ReadMe Datei verwendet wurde. Es wurde auf Pixabay gefunden und ist somit lizenzfrei. Außerdem ist der Bericht dieses Projektes in diesem Ordner angelegt. Der Bericht enthält Erklärungen, Bilder und Deliverables des Projektes. Jeder einzelne Schritt, den das Team gemacht hat, ist in dem Bericht aufgeführt. Zusätzlich wird in dem Bericht an einigen Stellen auf Deliverables verwiesen, die in diesem GitHub Repository gefunden werden können. Der Projektplan, der zu Beginn erstellt wurde, ist in diesem Ordner hochgeladen worden.
+## Scraping des Datensatzes
+Als aller erstes musste der Datensatz für das Projekt gescraped werden. Dies erfolgte in 2 Schritten.
+
+Zuerst wurden alle Links die für das Projekt in Frage kommen der [Universitätswebseite](https://www.uni-regensburg.de/studium/studienangebot/studiengaenge-a-z) in einer Liste abgespeichert. Wichtig war, dass es nur Studiengänge sind, die man Erststudium absolvieren kann.
+```ruby
+"""Opening the website and then finding all the links that contain the words "schule/index.html" or "-ba/index.html" or "-bsc/index.html" and then appending them to the list links."""
+html = urlopen("https://www.uni-regensburg.de/studium/studienangebot/studiengaenge-a-z")
+soup = BeautifulSoup(html.read(), 'lxml')
+links = []
+for link in soup.find_all('a'):
+  if "schule/index.html" in str(link) or "-ba/index.html" in str(link) or "-bsc/index.html" in str(link):
+     links.append(link.get('href'))
+```
 
 ## 01-Anforderungserhebung
 In diesem Ordner sind alle Daten der durchgeführten Interviews, der Fokusgruppe und der Wettbewerbsanalyse zu finden. Diese Daten sind dazu genutzt worden, um die Bedürfnisse und die Pain Points der Nutzer zu erkennen. Dies stellte die Basis unserer Arbeit dar, auf der die App aufgebaut wurde.
