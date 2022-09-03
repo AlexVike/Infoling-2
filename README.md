@@ -9,7 +9,7 @@
 
 ## Instalation des Systems
 
-Um das QA-System zu nutzen, müssen Sie die [Requierements](https://github.com/AlexVike/Infoling-2/tree/main/Conda_pip_requierements) installieren (entweder conda oder pip). Danach benötigen Sie die Datenbank. Um sie zu verwenden, muss zuerst [Docker](https://www.docker.com/products/docker-desktop/) installiert werden. Danach kann das Docker-Image [hier](https://hub.docker.com/r/alexvike/infoling2/tags) heruntergeladen werden. Nun muss die Datenbank über Docker gestartet werden. Sollte der Vorgang Probleme bereiten, kann die Datenbank selbst mit [code](https://github.com/AlexVike/Infoling-2#elasticsearch) und Docker erstellt werden. Sobald die Datenbank gestartet ist, kann `main.py` ausgeführt werden. Mit dem Befehl `ipconfig` wird die IPv4-Adresse im Terminal überprüft. Diese wird im Browser eingegeben. Nun können Fragen gestellt werden.
+Um das QA-System zu nutzen, müssen Sie die [Requierements](https://github.com/AlexVike/Infoling-2/tree/main/Conda_pip_requierements) installieren (entweder conda oder pip). Danach benötigen Sie die Datenbank. Um sie zu verwenden, muss zuerst [Docker](https://www.docker.com/products/docker-desktop/) installiert werden. Danach kann das Docker-Image [hier](https://hub.docker.com/r/alexvike/infoling2/tags) heruntergeladen werden. Nun muss die Datenbank mit dem Port 9200 über Docker gestartet werden. Daraufhin muss zunächst `txt_to_doc.py` und dann `docs to elasticsearch.py` ausgeführt werden. Mit dem Befehl `ipconfig` wird die IPv4-Adresse im Terminal überprüft. Diese wird im Browser eingegeben. Nun können Fragen gestellt werden.
 
 ## Scraping des Datensatzes
 Als aller erstes musste der Datensatz für das Projekt gescraped werden. Dies erfolgte in 2 Schritten.

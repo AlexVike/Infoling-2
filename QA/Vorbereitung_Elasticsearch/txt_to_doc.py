@@ -13,7 +13,7 @@ def getdocs():
     Returns:
       A list of documents
     """
-    all_txt = convert_files_to_docs(dir_path="C:/Users/Alexa/OneDrive/Desktop/UE/Infoling-2/txt/1. all txt", encoding="utf-8")
+    all_txt = convert_files_to_docs(dir_path="txt/1. all txt", encoding="utf-8")
     print(all_txt)
 
     txt_preprocessor = PreProcessor(

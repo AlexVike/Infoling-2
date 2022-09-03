@@ -483,3 +483,5 @@ haystack.errors.HaystackError: Must provide a 'query' parameter for retrievers i
 2022-09-03 14:01:37,769 - __main__ - 1226 - INFO - 192.168.0.121 - - [2022-09-03 14:01:37] "GET /favicon.ico HTTP/1.1" 404 331 0.001000
 2022-09-03 14:02:06,496 - __main__ - 46 - DEBUG - ImmutableMultiDict([('studiengang', 'chemie-bsc'), ('question', 'Wie lange dauert ein Praktikum?')])
 2022-09-03 14:06:45,699 - __main__ - 1226 - INFO - 192.168.0.121 - - [2022-09-03 14:06:45] "POST /index.html HTTP/1.1" 200 159309 279.203734
+2022-09-03 14:18:02,739 - __main__ - 46 - DEBUG - ImmutableMultiDict([('studiengang', 'chemie-bsc'), ('question', 'Wie lange dauert ein Praktikum?')])
+2022-09-03 14:22:45,575 - __main__ - 1226 - INFO - 192.168.0.121 - - [2022-09-03 14:22:45] "POST /index.html HTTP/1.1" 200 159309 282.836634
