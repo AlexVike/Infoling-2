@@ -64,8 +64,138 @@ for webseite in links:
     file.write(f"{text}")
     file.flush()
 ```
-Im zweiten Schritt wurden die Modulkataloge und Prüfungsordnungen der Studiengänge heruntergeladen. Da diese teilweise auf den verschiedenen Webseiten verteilt waren, wurde diese händisch heruntergeladen. Daraufhin wurde versucht mit dem `PDFToTextConverter()` von Haystack die PDFs umzuwandeln damit diese in das Doc-Format umgwandelt werden können, welches bei Haystack benötigt wird. Wegen der Formatierung mancher PDFs der Universität war dies jedoch nicht möglich.
+Im zweiten Schritt wurden die Modulkataloge und Prüfungsordnungen der Studiengänge heruntergeladen. Da diese teilweise auf den verschiedenen Webseiten verteilt waren, wurden diese händisch heruntergeladen. Daraufhin wurde versucht mit dem `PDFToTextConverter()` von Haystack die PDFs umzuwandeln damit diese in das Doc-Format umgwandelt werden können, welches bei Haystack benötigt wird. Wegen der Formatierung mancher PDFs der Universität war dies jedoch nicht möglich. Aus diesen Grund wurde `pdfplumber` und `OCR` benutzt, um die PDFs in Textdateien umzuwandeln. Falls eine PDF Datei nicht von `pdfplumber` umgewandelt werden konnte wurde `OCR` verwendet.
 
+`pdfplumber`:
+```ruby
+import pdfplumber as pdfp
+import sys
+
+pdf_path = getpdfspaths()
+pdf_path = pdf_path[198:] # Ein Feher ist aufgetreten, bei der Konvertierung von einem PDF zu Text. Nach Behebung des Fehlers ab 198 nochmal durchgelaufen.
+for abspath in pdf_path:
+	print(f"scanning file {pdf_path.index(abspath)+1} of {len(pdf_path)}")
+	pdfToString = ""
+	with pdfp.open(abspath) as pdf:
+		for page in pdf.pages:
+			pdfToString += page.extract_text()
+	size = sys.getsizeof(pdfToString)
+	abspath_target ="/".join(abspath.split("/")[:-2])
+	file_name = abspath.split("/")[-1].replace(".pdf", ".txt")
+	if size > 500: # Bei einem PDF welches nicht mit pdfplumber konvertiert werden konnte, wird OCR verwendet.
+    
+		print(abspath_target+"/"+file_name)
+		file = open(abspath_target+"/"+file_name,"w", encoding="utf-8")
+		file.write("%s = %s\n" %("input_dictionary", pdfToString))
+	
+		file.close()
+		
+	
+		
+	else:
+		print("Using OCR")
+		ocr(abspath, abspath_target, file_name) 
+```
+
+`OCR`:
+```ruby
+# Quelle für OCR: https://www.geeksforgeeks.org/python-reading-contents-of-pdf-using-ocr-optical-character-recognition/?ref=lbp
+
+import platform
+from tempfile import TemporaryDirectory
+from pathlib import Path
+
+import pytesseract
+from pdf2image import convert_from_path
+from PIL import Image
+
+if platform.system() == "Windows":
+
+  pytesseract.pytesseract.tesseract_cmd = (
+    r"C:\Program Files\Tesseract-OCR\tesseract.exe"
+  )
+
+  # Windows also needs poppler_exe
+  path_to_poppler_exe = Path(r"C:\Users\Alexa\OneDrive\Desktop\UE\Infoling-2\pdf to txt\poppler-22.04.0\Library\bin")
+  
+  
+  out_directory = Path(r"~\Desktop").expanduser()
+else:
+  out_directory = Path("~").expanduser()  
+  
+  
+  
+def ocr(pdf, targetdir, targetfilename):
+  ''' Main execution point of the program'''
+  PDF_file = pdf
+  image_file_list = []
+  with TemporaryDirectory() as tempdir:
+    # Create a temporary directory to hold our temporary images.
+
+    """
+    Part #1 : Converting PDF to images
+    """
+
+    if platform.system() == "Windows":
+      pdf_pages = convert_from_path(
+        PDF_file, 500, poppler_path=path_to_poppler_exe
+      )
+    else:
+      pdf_pages = convert_from_path(PDF_file, 500)
+    # Read in the PDF file at 500 DPI
+
+    # Iterate through all the pages stored above
+    for page_enumeration, page in enumerate(pdf_pages, start=1):
+      # enumerate() "counts" the pages for us.
+
+      # Create a file name to store the image
+      filename = f"{tempdir}\page_{page_enumeration:03}.jpg"
+
+      # Declaring filename for each page of PDF as JPG
+      # For each page, filename will be:
+      # PDF page 1 -> page_001.jpg
+      # PDF page 2 -> page_002.jpg
+      # PDF page 3 -> page_003.jpg
+      # ....
+      # PDF page n -> page_00n.jpg
+
+      # Save the image of the page in system
+      page.save(filename, "JPEG")
+      image_file_list.append(filename)
+
+    """
+    Part #2 - Recognizing text from the images using OCR
+    """
+
+    with open(targetdir+"/"+targetfilename,"w", encoding="utf-8") as output_file:
+      # Open the file in append mode so that
+      # All contents of all images are added to the same file
+
+      # Iterate from 1 to total number of pages
+      for image_file in image_file_list:
+        text = str(((pytesseract.image_to_string(Image.open(image_file)))))
+
+        # The recognized text is stored in variable text
+        # Any string processing may be applied on text
+        # Here, basic formatting has been done:
+        # In many PDFs, at line ending, if a word can't
+        # be written fully, a 'hyphen' is added.
+        # The rest of the word is written in the next line
+        # Eg: This is a sample text this word here GeeksF-
+        # orGeeks is half on first line, remaining on next.
+        # To remove this, we replace every '-\n' to ''.
+        # text = text.replace("-\n", "")
+
+        # Finally, write the processed text to the file.
+        output_file.write(text)
+
+      # At the end of the with .. output_file block
+      # the file is closed after writing all the text.
+    # At the end of the with .. tempdir block, the
+    # TemporaryDirectory() we're using gets removed!  
+  # End of main function!
+  
+```
 
 ## 01-Anforderungserhebung
 In diesem Ordner sind alle Daten der durchgeführten Interviews, der Fokusgruppe und der Wettbewerbsanalyse zu finden. Diese Daten sind dazu genutzt worden, um die Bedürfnisse und die Pain Points der Nutzer zu erkennen. Dies stellte die Basis unserer Arbeit dar, auf der die App aufgebaut wurde.
