@@ -1,11 +1,10 @@
-# Tagebuch für Hunde App
+# Ein Question-Answer Ratgeber für Studiengänge an der Universität Regensburg
 
-Die Deliverables des Projektes sind aufgeteilt in vier Ordner in diesem Repository. Zusätzlich ist der Bericht in dem General Ordner zu finden:
-- [00-General](https://github.com/JaaaNina/-Tagebuch-fuer-Hunde--App/tree/main/00-General)
-- [01-Anforderungserhebung](https://github.com/JaaaNina/-Tagebuch-fuer-Hunde--App/tree/main/01-Anforderungserhebung)
-- [02-Anforderungsspezifizierung](https://github.com/JaaaNina/-Tagebuch-fuer-Hunde--App/tree/main/02-Anforderungsspezifizierung)
-- [03-Iterativer Designprozess](https://github.com/JaaaNina/-Tagebuch-fuer-Hunde--App/tree/main/03-Iterativer%20Designprozess)
-- [04-Summative Evaluation](https://github.com/JaaaNina/-Tagebuch-fuer-Hunde--App/tree/main/04-Summative%20Evaluation)
+- [00-Requierements](https://github.com/AlexVike/Infoling-2/tree/main/Conda_pip_requierements)
+- [01-HTML to txt](https://github.com/AlexVike/Infoling-2/tree/main/Hmtl%20to%20txt)
+- [02-PDF to txt](https://github.com/AlexVike/Infoling-2/tree/main/pdf%20to%20txt)
+- [03-Txt](https://github.com/AlexVike/Infoling-2/tree/main/txt)
+- [04-WSGI_App](https://github.com/AlexVike/Infoling-2/tree/main/wsgi_app)
 
 Die Ordner und die Deliverables werden nun einzeln beschrieben:
 
