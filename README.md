@@ -21,6 +21,50 @@ for link in soup.find_all('a'):
      links.append(link.get('href'))
 ```
 
+Mithilfe der Links kann nun der Inhalt der Webseiten gescraped werden. Da nur der Text wichtig ist werden die HTML Tags gelöscht. Daraufhin wird ein Ordner für die Webseite erstellt und die Text Datei darin gespeichert.
+```ruby
+for webseite in links:
+  name = webseite.split("/")[-2]
+  try:
+    url = f"https://www.uni-regensburg.de{webseite}"
+    html = urlopen(url).read()
+    soup = BeautifulSoup(html, features="html.parser")
+  except:
+     url = f"{webseite}"
+     html = urlopen(url).read()
+     soup = BeautifulSoup(html, features="html.parser")
+
+# kill all script and style elements
+  for script in soup(["script", "style"]):
+      script.extract()    # rip it out
+
+  
+  text = soup.get_text().replace("nach oben", "") 
+
+# break into lines and remove leading and trailing space on each
+  lines = (line.strip() for line in text.splitlines())
+# break multi-headlines into a line each
+  chunks = (phrase.strip() for line in lines for phrase in line.split("  "))
+# drop blank lines
+  text = '\n'.join(chunk for chunk in chunks if chunk)
+  
+   
+#Creating a directory for each link and saving the text of the website in a txt file.
+  directory = f"{name}"
+
+
+  parent_dir = "C:/Users/Alexa/OneDrive/Desktop/Infolin2/txt"
+
+
+  path = os.path.join(parent_dir, directory)
+
+  if not os.path.isdir(path): 
+    os.mkdir(path) 
+  with open(f"{path}/{name}.txt", "w",encoding="utf-8" ) as file:
+    file.write(f"{text}")
+    file.flush()
+```
+
 ## 01-Anforderungserhebung
 In diesem Ordner sind alle Daten der durchgeführten Interviews, der Fokusgruppe und der Wettbewerbsanalyse zu finden. Diese Daten sind dazu genutzt worden, um die Bedürfnisse und die Pain Points der Nutzer zu erkennen. Dies stellte die Basis unserer Arbeit dar, auf der die App aufgebaut wurde.
 - Interview: Beinhaltet die Vorabfragebögen und die Transkription der Interviews. Dabei wurden aus Datenschutzgründen die Namen entfernt. Daneben ist auch das Kategoriensystem des Leitfadens und der Interviewleitfaden zu finden. Der Interviewleitfaden basiert auf dem Kategoriensystem. Genauere Erläuterungen sind im Bericht zu finden. Abschließend ist in diesem Ordner die Kodierung der Interviews hochgeladen worden. Nur anhand dieser Daten konnten die Interviews ausgewertet werden.
@@ -43,8 +87,4 @@ In diesem Ordner sind drei Videos zu den unterschiedlichen Prototypen zu finden.
 In diesem Ordner ist die Evaluation des High-Fidelity-Prototype zu finden. Mithilfe dieser Auswertung ist der High-Fidelity-Prototype verbessert worden. Mehr dazu in dem Bericht in 00-General.
 - Evaluation des Prototypen: Beinhaltet die Vorabfragebögen der Teilnehmer der UE-Tests. Daneben ist exemplarisch eine Einverständniserklärung hochgeladen worden, die die Teilnehmer unterschrieben haben. Beobachter, Notizen und die Testunterlagen der UE-Tests sind hier zu finden. Diese zeigen die Vorbereitung auf die Tests und welche Notizen dabei entstanden sind. Mit diesen Notizen und den gesammelten Daten ist die Auswertung entstanden, die hier hochgeladen wurde.
 
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
+
