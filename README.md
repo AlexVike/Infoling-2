@@ -326,7 +326,7 @@ def pipe(user_input: str, studiengang):
 ```
 
 ## Finetuning
-Das Modell `deepset/gelectra-base-germanquad-distilled` wurde mit einem Datensatz, der Mithilfe des [Annotationstools von Haystack](https://annotate.deepset.ai/) erstellt wurde, gefinetuned.
+Das Modell `deepset/gelectra-base-germanquad-distilled` wurde mit einem Datensatz, der mithilfe des [Annotationstools von Haystack](https://annotate.deepset.ai/) erstellt wurde, gefinetuned.
 ```ruby
 from haystack.nodes import FARMReader
 
@@ -341,8 +341,6 @@ reader.save(directory="QA/my_model")
 new_reader = FARMReader(model_name_or_path="QA/my_model")
 ```
 
-## 04-Summative Evaluation
-In diesem Ordner ist die Evaluation des High-Fidelity-Prototype zu finden. Mithilfe dieser Auswertung ist der High-Fidelity-Prototype verbessert worden. Mehr dazu in dem Bericht in 00-General.
-- Evaluation des Prototypen: Beinhaltet die Vorabfragebögen der Teilnehmer der UE-Tests. Daneben ist exemplarisch eine Einverständniserklärung hochgeladen worden, die die Teilnehmer unterschrieben haben. Beobachter, Notizen und die Testunterlagen der UE-Tests sind hier zu finden. Diese zeigen die Vorbereitung auf die Tests und welche Notizen dabei entstanden sind. Mit diesen Notizen und den gesammelten Daten ist die Auswertung entstanden, die hier hochgeladen wurde.
-
+## Evaluation
+Auch bei der Evaluation ist ein Datensatz, der mit dem [Annotationstool von Haystack](https://annotate.deepset.ai/) erstellt wurde, zum Einsatz gekommen. Die Ergebnisse der Evaluation und der Code können [hier](https://github.com/AlexVike/Infoling-2/blob/main/QA/Evaluation/Evaluation.ipynb) eingesehen werden.
 
