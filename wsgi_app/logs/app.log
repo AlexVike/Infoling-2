@@ -475,3 +475,11 @@ haystack.errors.HaystackError: Must provide a 'query' parameter for retrievers i
 2022-09-02 14:55:18,551 - __main__ - 1226 - INFO - 192.168.0.121 - - [2022-09-02 14:55:18] "POST /index.html HTTP/1.1" 200 42095 79.845385
 2022-09-02 14:56:31,352 - __main__ - 46 - DEBUG - ImmutableMultiDict([('studiengang', 'erziehungswissenschaft-ba'), ('question', 'Wie lange dauert ein Praktikum?')])
 2022-09-02 14:59:36,764 - __main__ - 1226 - INFO - 192.168.0.121 - - [2022-09-02 14:59:36] "POST /index.html HTTP/1.1" 200 99887 185.412652
+2022-09-03 14:01:37,469 - __main__ - 1226 - INFO - 192.168.0.121 - - [2022-09-03 14:01:37] "GET / HTTP/1.1" 200 22454 0.010999
+2022-09-03 14:01:37,682 - __main__ - 1226 - INFO - 192.168.0.121 - - [2022-09-03 14:01:37] "GET /css/bootstrap.min.css HTTP/1.1" 304 148 0.149996
+2022-09-03 14:01:37,685 - __main__ - 1226 - INFO - 192.168.0.121 - - [2022-09-03 14:01:37] "GET /css/style.css HTTP/1.1" 304 140 0.001004
+2022-09-03 14:01:37,690 - __main__ - 1226 - INFO - 192.168.0.121 - - [2022-09-03 14:01:37] "GET /js/bootstrap.bundle.js HTTP/1.1" 304 150 0.002004
+2022-09-03 14:01:37,693 - __main__ - 1226 - INFO - 192.168.0.121 - - [2022-09-03 14:01:37] "GET /js/jquery-3-6-1.js HTTP/1.1" 304 146 0.002000
+2022-09-03 14:01:37,769 - __main__ - 1226 - INFO - 192.168.0.121 - - [2022-09-03 14:01:37] "GET /favicon.ico HTTP/1.1" 404 331 0.001000
+2022-09-03 14:02:06,496 - __main__ - 46 - DEBUG - ImmutableMultiDict([('studiengang', 'chemie-bsc'), ('question', 'Wie lange dauert ein Praktikum?')])
+2022-09-03 14:06:45,699 - __main__ - 1226 - INFO - 192.168.0.121 - - [2022-09-03 14:06:45] "POST /index.html HTTP/1.1" 200 159309 279.203734
