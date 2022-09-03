@@ -13,7 +13,6 @@ Als aller erstes musste der Datensatz für das Projekt gescraped werden. Dies er
 
 Zuerst wurden alle Links die für das Projekt in Frage kommen der [Universitätswebseite](https://www.uni-regensburg.de/studium/studienangebot/studiengaenge-a-z) in einer Liste abgespeichert. Wichtig war, dass es nur Studiengänge sind, die man Erststudium absolvieren kann.
 ```ruby
-"""Opening the website and then finding all the links that contain the words "schule/index.html" or "-ba/index.html" or "-bsc/index.html" and then appending them to the list links."""
 html = urlopen("https://www.uni-regensburg.de/studium/studienangebot/studiengaenge-a-z")
 soup = BeautifulSoup(html.read(), 'lxml')
 links = []
