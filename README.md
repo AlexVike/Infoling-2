@@ -250,7 +250,7 @@ def getdocs():
     print(f"n_files_input: {len(all_txt)}\nn_docs_output: {len(all_docs)}")
     return all_docs
 ```
-Anschließend wird die Datenbank initialisiert und die Docs werden übergeben. Durch Docker wurde ein Docker-Image geladen und ausgeführt für die Datenbank.
+Anschließend wird die Datenbank initialisiert und die Docs werden übergeben. Durch Docker wurde ein Docker-Image geladen und für die Datenbank ausgeführt .
 ```ruby
 docker pull docker.elastic.co/elasticsearch/elasticsearch:7.9.2
 docker run -d -p 9200:9200 -e "discovery.type=single-node" elasticsearch:7.9.2
@@ -266,11 +266,49 @@ studiengänge_document_store = ElasticsearchDocumentStore(host="localhost", user
 studiengänge_document_store.write_documents(getdocs())
 ```
 
-## 02-Anforderungsspezifizierung
-In diesem Ordner sind die Deliverables des Anforderungsdokument, der Hierarchischen Task Analyse und der Personas, User stories, Use-cases zu finden. In diesem Teil der Arbeit ist die Basis der Anforderungserhebung spezifiziert worden.
-- Personas, User stories, Use-cases: Beinhaltet eine PDF-Datei mit allen Personas, User stories und Use-cases.
-- Hierarchische Taskanalye: Beihnaltet die Schlüsseltasks und die Taskanalyse.
-- Anforderungsdokument: Beinhaltet das Anforderungsdokument welches auf der Anforderungserhebung und der restlichen Anforderungsspezifizierung basiert. Aus diesem wird ersichtlich, welche Features die App beinhalten sollte. Jedoch sind nicht alle Anforderungen des Dokumentes übernommen worden. Die Gründe dafür sind im Bericht zu finden.
+## QA-System
+Nun wurde die Pipeline für das QA-System erstellt.
+```ruby
+from haystack.document_stores import ElasticsearchDocumentStore
+from haystack.nodes import ElasticsearchRetriever
+from haystack.nodes import FARMReader
+from haystack.utils import print_answers
+from haystack.pipelines import ExtractiveQAPipeline
+
+# Creating a pipeline for the study programs.
+studiengänge_document_store = ElasticsearchDocumentStore(host="localhost", username="", password="", index="studiengänge")
+studiengänge_retriever = ElasticsearchRetriever(document_store=studiengänge_document_store)
+studiengänge_reader = FARMReader(model_name_or_path="QA/Finetuning/my_model", use_gpu=True, num_processes=0)
+studiengänge_pipe = ExtractiveQAPipeline(studiengänge_reader, studiengänge_retriever)
+```
+Damit das QA-System nur einen Studiengang übergeben bekommt wurde ein Dictionary erstellt. Der Ordner Name der Studiengänge dient dabei als Schlüssel und die Textdateien werden dem Schlüssel als Liste übergeben.
+
+```ruby
+import os
+import fnmatch
+from collections import defaultdict
+
+
+def getdic():
+    """
+    It walks through the directory tree, and for each file in the tree, it adds the file to a list in a
+    dictionary, where the key is the name of the directory the file is in
+    
+    Returns:
+      A dictionary with the names of the folders as keys and the names of the files in the folders as
+    values.
+    """
+    dic_studiengänge = defaultdict(list)
+    for path, dirs, files in os.walk(f'{os.getcwd()}/txt'):
+        for f in fnmatch.filter(files, '*.txt'):
+            dic_studiengänge[os.path.basename(path)].append(f)
+    return dic_studiengänge
+
+
+mydic = getdic()
+
+```
+
 
 ## 03-Iterativer Designprozess
 In diesem Ordner sind drei Videos zu den unterschiedlichen Prototypen zu finden. In diesem Projekt wurden ein Paper-Prototype, ein Medium-Fidelity-Prototype und ein High-Fidelity-Prototype erstellt. Zusätzlich ist der High-Fidelity-Prototype anhand der UE-Tests verbessert worden. Genaue Erklärungen und Bilder der Prototypen sind im Bericht zu finden.
