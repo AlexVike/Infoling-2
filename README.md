@@ -4,6 +4,7 @@
 - [01-HTML to txt](https://github.com/AlexVike/Infoling-2/tree/main/Hmtl%20to%20txt)
 - [02-PDF to txt](https://github.com/AlexVike/Infoling-2/tree/main/pdf%20to%20txt)
 - [03-Txt](https://github.com/AlexVike/Infoling-2/tree/main/txt)
+- [04-QA](https://github.com/AlexVike/Infoling-2/tree/main/QA)
 - [04-WSGI_App](https://github.com/AlexVike/Infoling-2/tree/main/wsgi_app)
 
 Die Ordner und die Deliverables werden nun einzeln beschrieben:
@@ -211,11 +212,44 @@ for item in os.listdir(default_path): #Fachordner = item
             shutil.copy(src_path, dst_path)
             print(default_path + "/" + item + "/" + element + ":wurde kopiert!")
 ```
-## 01-Anforderungserhebung
-In diesem Ordner sind alle Daten der durchgeführten Interviews, der Fokusgruppe und der Wettbewerbsanalyse zu finden. Diese Daten sind dazu genutzt worden, um die Bedürfnisse und die Pain Points der Nutzer zu erkennen. Dies stellte die Basis unserer Arbeit dar, auf der die App aufgebaut wurde.
-- Interview: Beinhaltet die Vorabfragebögen und die Transkription der Interviews. Dabei wurden aus Datenschutzgründen die Namen entfernt. Daneben ist auch das Kategoriensystem des Leitfadens und der Interviewleitfaden zu finden. Der Interviewleitfaden basiert auf dem Kategoriensystem. Genauere Erläuterungen sind im Bericht zu finden. Abschließend ist in diesem Ordner die Kodierung der Interviews hochgeladen worden. Nur anhand dieser Daten konnten die Interviews ausgewertet werden.
-- Wettbewerbsanalyse: Beinhaltet eine Feature-Matrix vom Apps, die Inhalte besitzen, die unserer Thematik entsprechen. Zusätzlich werden gute bzw. schlechte Features dieser Apps aufgezeigt, um daraufhin in der Wettbewerbsanalyse Schlussfolgerungen ziehen zu können.
-- Fokusgruppe: Beinhaltet die ungeschnittene Audiodatei der Fokusgruppe. Zusätzlich kann hier eine bearbeitete Version dieser Audiodatei gefunden werden, die anstatt einer Stunde nur fünf Minuten lang ist. Neben den Audiodateien sind der Leitfaden, die Screenshots der Mural Boards und die Präsentation der Fokusgruppe hochgeladen worden.
+## Elasticsearch
+Die Textdateien sollen nun der Datenbank übergeben werden. Dafür werden sie zunächst mit `convert_files_to_docs()` zu Docs umgewandelt. Diese werden dann mit dem `PreProcessor()` weiterverarbeitet.
+
+```ruby
+from haystack.utils import print_answers
+from haystack.nodes import PreProcessor
+from haystack.utils import convert_files_to_docs, print_answers
+
+
+def getdocs():
+    """
+    The function takes all the txt files in the folder "1. all txt" and splits them into smaller
+    documents of 200 sentences each. 
+    
+    The function returns a list of all the documents
+    
+    Returns:
+      A list of documents
+    """
+    all_txt = convert_files_to_docs(dir_path="C:/Users/Alexa/OneDrive/Desktop/UE/Infoling-2/txt/1. all txt", encoding="utf-8")
+    print(all_txt)
+
+    txt_preprocessor = PreProcessor(
+        clean_empty_lines=True,
+        clean_whitespace=True,
+        clean_header_footer=False,
+        split_by="sentence", # Dokument wird anhand von Sätzen getrennt
+        split_length=200, # Nach 200 Sätzen erfolgt die Trennung -> ein Dokument besteht aus 200 Sätzen
+        split_overlap = 2, # 2 Sätze Überlappung bei den einzelnen Dokumenten
+        split_respect_sentence_boundary = False,
+        language="de"
+    )
+    nested_docs = [txt_preprocessor.process(doc) for doc in all_txt]
+    all_docs = [doc for x in nested_docs for doc in x]
+    
+    print(f"n_files_input: {len(all_txt)}\nn_docs_output: {len(all_docs)}")
+    return all_docs
+```
 
 ## 02-Anforderungsspezifizierung
 In diesem Ordner sind die Deliverables des Anforderungsdokument, der Hierarchischen Task Analyse und der Personas, User stories, Use-cases zu finden. In diesem Teil der Arbeit ist die Basis der Anforderungserhebung spezifiziert worden.
