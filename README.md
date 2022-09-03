@@ -7,7 +7,7 @@
 - [04-QA](https://github.com/AlexVike/Infoling-2/tree/main/QA)
 - [04-WSGI_App](https://github.com/AlexVike/Infoling-2/tree/main/wsgi_app)
 
-Die Ordner und die Deliverables werden nun einzeln beschrieben:
+
 
 ## Scraping des Datensatzes
 Als aller erstes musste der Datensatz für das Projekt gescraped werden. Dies erfolgte in 2 Schritten.
@@ -343,4 +343,7 @@ new_reader = FARMReader(model_name_or_path="QA/my_model")
 
 ## Evaluation
 Auch bei der Evaluation ist ein Datensatz, der mit dem [Annotationstool von Haystack](https://annotate.deepset.ai/) erstellt wurde, zum Einsatz gekommen. Die Ergebnisse der Evaluation und der Code können [hier](https://github.com/AlexVike/Infoling-2/blob/main/QA/Evaluation/Evaluation.ipynb) eingesehen werden.
+
+## User Interface
+Für ein einfaches User Interface wurde ein `Flask Webserver` erstellt. Zusätzlich wurde `Bootstrap` verwendet.
 
