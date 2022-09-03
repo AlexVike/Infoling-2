@@ -458,3 +458,20 @@ haystack.errors.HaystackError: Must provide a 'query' parameter for retrievers i
 2022-09-01 19:58:36,920 - __main__ - 1226 - INFO - 192.168.0.121 - - [2022-09-01 19:58:36] "POST /index.html HTTP/1.1" 200 99849 185.923867
 2022-09-01 20:00:28,522 - __main__ - 46 - DEBUG - ImmutableMultiDict([('studiengang', 'erziehungswissenschaft-ba'), ('question', 'Was muss ich vor M06 machen?')])
 2022-09-01 20:03:15,474 - __main__ - 1226 - INFO - 192.168.0.121 - - [2022-09-01 20:03:15] "POST /index.html HTTP/1.1" 200 88720 166.952129
+2022-09-02 14:32:17,679 - __main__ - 1226 - INFO - 192.168.0.121 - - [2022-09-02 14:32:17] "GET / HTTP/1.1" 200 22394 0.010999
+2022-09-02 14:32:17,890 - __main__ - 1226 - INFO - 192.168.0.121 - - [2022-09-02 14:32:17] "GET /css/bootstrap.min.css HTTP/1.1" 200 194946 0.158995
+2022-09-02 14:32:17,893 - __main__ - 1226 - INFO - 192.168.0.121 - - [2022-09-02 14:32:17] "GET /css/style.css HTTP/1.1" 200 336 0.002000
+2022-09-02 14:32:17,898 - __main__ - 1226 - INFO - 192.168.0.121 - - [2022-09-02 14:32:17] "GET /js/bootstrap.bundle.js HTTP/1.1" 200 207346 0.003004
+2022-09-02 14:32:17,902 - __main__ - 1226 - INFO - 192.168.0.121 - - [2022-09-02 14:32:17] "GET /js/jquery-3-6-1.js HTTP/1.1" 200 89922 0.002011
+2022-09-02 14:32:17,987 - __main__ - 1226 - INFO - 192.168.0.121 - - [2022-09-02 14:32:17] "GET /favicon.ico HTTP/1.1" 404 331 0.000998
+2022-09-02 14:32:27,328 - __main__ - 46 - DEBUG - ImmutableMultiDict([('studiengang', 'erziehungswissenschaft-ba'), ('question', 'Wie lange dauert ein Praktikum?')])
+2022-09-02 14:35:25,092 - __main__ - 1226 - INFO - 192.168.0.121 - - [2022-09-02 14:35:25] "POST /index.html HTTP/1.1" 200 99887 177.765220
+2022-09-02 14:53:53,707 - __main__ - 1226 - INFO - 192.168.0.121 - - [2022-09-02 14:53:53] "GET / HTTP/1.1" 200 22454 0.005004
+2022-09-02 14:53:53,734 - __main__ - 1226 - INFO - 192.168.0.121 - - [2022-09-02 14:53:53] "GET /css/bootstrap.min.css HTTP/1.1" 304 148 0.003541
+2022-09-02 14:53:53,739 - __main__ - 1226 - INFO - 192.168.0.121 - - [2022-09-02 14:53:53] "GET /css/style.css HTTP/1.1" 304 140 0.002015
+2022-09-02 14:53:53,744 - __main__ - 1226 - INFO - 192.168.0.121 - - [2022-09-02 14:53:53] "GET /js/bootstrap.bundle.js HTTP/1.1" 304 150 0.001992
+2022-09-02 14:53:53,749 - __main__ - 1226 - INFO - 192.168.0.121 - - [2022-09-02 14:53:53] "GET /js/jquery-3-6-1.js HTTP/1.1" 304 146 0.001000
+2022-09-02 14:53:58,706 - __main__ - 46 - DEBUG - ImmutableMultiDict([('studiengang', 'amerikanistik-ba'), ('question', 'Wie lange dauert ein Praktikum?')])
+2022-09-02 14:55:18,551 - __main__ - 1226 - INFO - 192.168.0.121 - - [2022-09-02 14:55:18] "POST /index.html HTTP/1.1" 200 42095 79.845385
+2022-09-02 14:56:31,352 - __main__ - 46 - DEBUG - ImmutableMultiDict([('studiengang', 'erziehungswissenschaft-ba'), ('question', 'Wie lange dauert ein Praktikum?')])
+2022-09-02 14:59:36,764 - __main__ - 1226 - INFO - 192.168.0.121 - - [2022-09-02 14:59:36] "POST /index.html HTTP/1.1" 200 99887 185.412652

@@ -1,1 +1,41 @@
-# Infoling-2
+# Tagebuch für Hunde App
+
+Die Deliverables des Projektes sind aufgeteilt in vier Ordner in diesem Repository. Zusätzlich ist der Bericht in dem General Ordner zu finden:
+- [00-General](https://github.com/JaaaNina/-Tagebuch-fuer-Hunde--App/tree/main/00-General)
+- [01-Anforderungserhebung](https://github.com/JaaaNina/-Tagebuch-fuer-Hunde--App/tree/main/01-Anforderungserhebung)
+- [02-Anforderungsspezifizierung](https://github.com/JaaaNina/-Tagebuch-fuer-Hunde--App/tree/main/02-Anforderungsspezifizierung)
+- [03-Iterativer Designprozess](https://github.com/JaaaNina/-Tagebuch-fuer-Hunde--App/tree/main/03-Iterativer%20Designprozess)
+- [04-Summative Evaluation](https://github.com/JaaaNina/-Tagebuch-fuer-Hunde--App/tree/main/04-Summative%20Evaluation)
+
+Die Ordner und die Deliverables werden nun einzeln beschrieben:
+
+## 00-General
+In diesem Ordner ist das Bild zu finden, welches in dieser ReadMe Datei verwendet wurde. Es wurde auf Pixabay gefunden und ist somit lizenzfrei. Außerdem ist der Bericht dieses Projektes in diesem Ordner angelegt. Der Bericht enthält Erklärungen, Bilder und Deliverables des Projektes. Jeder einzelne Schritt, den das Team gemacht hat, ist in dem Bericht aufgeführt. Zusätzlich wird in dem Bericht an einigen Stellen auf Deliverables verwiesen, die in diesem GitHub Repository gefunden werden können. Der Projektplan, der zu Beginn erstellt wurde, ist in diesem Ordner hochgeladen worden.
+
+## 01-Anforderungserhebung
+In diesem Ordner sind alle Daten der durchgeführten Interviews, der Fokusgruppe und der Wettbewerbsanalyse zu finden. Diese Daten sind dazu genutzt worden, um die Bedürfnisse und die Pain Points der Nutzer zu erkennen. Dies stellte die Basis unserer Arbeit dar, auf der die App aufgebaut wurde.
+- Interview: Beinhaltet die Vorabfragebögen und die Transkription der Interviews. Dabei wurden aus Datenschutzgründen die Namen entfernt. Daneben ist auch das Kategoriensystem des Leitfadens und der Interviewleitfaden zu finden. Der Interviewleitfaden basiert auf dem Kategoriensystem. Genauere Erläuterungen sind im Bericht zu finden. Abschließend ist in diesem Ordner die Kodierung der Interviews hochgeladen worden. Nur anhand dieser Daten konnten die Interviews ausgewertet werden.
+- Wettbewerbsanalyse: Beinhaltet eine Feature-Matrix vom Apps, die Inhalte besitzen, die unserer Thematik entsprechen. Zusätzlich werden gute bzw. schlechte Features dieser Apps aufgezeigt, um daraufhin in der Wettbewerbsanalyse Schlussfolgerungen ziehen zu können.
+- Fokusgruppe: Beinhaltet die ungeschnittene Audiodatei der Fokusgruppe. Zusätzlich kann hier eine bearbeitete Version dieser Audiodatei gefunden werden, die anstatt einer Stunde nur fünf Minuten lang ist. Neben den Audiodateien sind der Leitfaden, die Screenshots der Mural Boards und die Präsentation der Fokusgruppe hochgeladen worden.
+
+## 02-Anforderungsspezifizierung
+In diesem Ordner sind die Deliverables des Anforderungsdokument, der Hierarchischen Task Analyse und der Personas, User stories, Use-cases zu finden. In diesem Teil der Arbeit ist die Basis der Anforderungserhebung spezifiziert worden.
+- Personas, User stories, Use-cases: Beinhaltet eine PDF-Datei mit allen Personas, User stories und Use-cases.
+- Hierarchische Taskanalye: Beihnaltet die Schlüsseltasks und die Taskanalyse.
+- Anforderungsdokument: Beinhaltet das Anforderungsdokument welches auf der Anforderungserhebung und der restlichen Anforderungsspezifizierung basiert. Aus diesem wird ersichtlich, welche Features die App beinhalten sollte. Jedoch sind nicht alle Anforderungen des Dokumentes übernommen worden. Die Gründe dafür sind im Bericht zu finden.
+
+## 03-Iterativer Designprozess
+In diesem Ordner sind drei Videos zu den unterschiedlichen Prototypen zu finden. In diesem Projekt wurden ein Paper-Prototype, ein Medium-Fidelity-Prototype und ein High-Fidelity-Prototype erstellt. Zusätzlich ist der High-Fidelity-Prototype anhand der UE-Tests verbessert worden. Genaue Erklärungen und Bilder der Prototypen sind im Bericht zu finden.
+- Low-Fidelity-Prototype: Beinhaltet das Video des Prototypen.
+- Medium-Fidelity-Prototype: Beinhaltet das Video des Prototypen.
+- High-Fidelity-Prototype: Beinhaltet das Video des Prototypen.
+
+## 04-Summative Evaluation
+In diesem Ordner ist die Evaluation des High-Fidelity-Prototype zu finden. Mithilfe dieser Auswertung ist der High-Fidelity-Prototype verbessert worden. Mehr dazu in dem Bericht in 00-General.
+- Evaluation des Prototypen: Beinhaltet die Vorabfragebögen der Teilnehmer der UE-Tests. Daneben ist exemplarisch eine Einverständniserklärung hochgeladen worden, die die Teilnehmer unterschrieben haben. Beobachter, Notizen und die Testunterlagen der UE-Tests sind hier zu finden. Diese zeigen die Vorbereitung auf die Tests und welche Notizen dabei entstanden sind. Mit diesen Notizen und den gesammelten Daten ist die Auswertung entstanden, die hier hochgeladen wurde.
+
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
