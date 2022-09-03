@@ -194,9 +194,23 @@ def ocr(pdf, targetdir, targetfilename):
     # At the end of the with .. tempdir block, the
     # TemporaryDirectory() we're using gets removed!  
   # End of main function!
-  
 ```
 
+Nun wurden alle Textdateien in einem Ordner abegspeichert, damit diese im nächsten Schritt umgwandelt werden können, so dass sie der Datenbank übergeben werden können.
+```ruby
+import shutil
+
+default_path = "C:/Users/Alexa/OneDrive/Desktop/UE/Infoling-2/txt"
+pdfabspath = []
+for item in os.listdir(default_path): #Fachordner = item
+   if os.path.isdir(default_path + "/" + item): 
+      for element in os.listdir(default_path + "/" + item): 
+         if "txt" in element:
+            src_path = default_path + "/" + item + "/" + element
+            dst_path = "C:/Users/Alexa/OneDrive/Desktop/UE/Infoling-2/txt/1. all txt"
+            shutil.copy(src_path, dst_path)
+            print(default_path + "/" + item + "/" + element + ":wurde kopiert!")
+```
 ## 01-Anforderungserhebung
 In diesem Ordner sind alle Daten der durchgeführten Interviews, der Fokusgruppe und der Wettbewerbsanalyse zu finden. Diese Daten sind dazu genutzt worden, um die Bedürfnisse und die Pain Points der Nutzer zu erkennen. Dies stellte die Basis unserer Arbeit dar, auf der die App aufgebaut wurde.
 - Interview: Beinhaltet die Vorabfragebögen und die Transkription der Interviews. Dabei wurden aus Datenschutzgründen die Namen entfernt. Daneben ist auch das Kategoriensystem des Leitfadens und der Interviewleitfaden zu finden. Der Interviewleitfaden basiert auf dem Kategoriensystem. Genauere Erläuterungen sind im Bericht zu finden. Abschließend ist in diesem Ordner die Kodierung der Interviews hochgeladen worden. Nur anhand dieser Daten konnten die Interviews ausgewertet werden.
