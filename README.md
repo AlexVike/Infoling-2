@@ -250,6 +250,21 @@ def getdocs():
     print(f"n_files_input: {len(all_txt)}\nn_docs_output: {len(all_docs)}")
     return all_docs
 ```
+Anschließend wird die Datenbank initialisiert und die Docs werden übergeben. Durch Docker wurde ein Docker-Image geladen und ausgeführt für die Datenbank.
+```ruby
+docker pull docker.elastic.co/elasticsearch/elasticsearch:7.9.2
+docker run -d -p 9200:9200 -e "discovery.type=single-node" elasticsearch:7.9.2
+```
+```ruby
+from haystack.document_stores import ElasticsearchDocumentStore
+from txt_to_doc import getdocs
+
+
+# Creating a document store and writing the documents to it.
+studiengänge_document_store = ElasticsearchDocumentStore(host="localhost", username="", password="", index="studiengänge")
+
+studiengänge_document_store.write_documents(getdocs())
+```
 
 ## 02-Anforderungsspezifizierung
 In diesem Ordner sind die Deliverables des Anforderungsdokument, der Hierarchischen Task Analyse und der Personas, User stories, Use-cases zu finden. In diesem Teil der Arbeit ist die Basis der Anforderungserhebung spezifiziert worden.
