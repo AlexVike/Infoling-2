@@ -64,6 +64,8 @@ for webseite in links:
     file.write(f"{text}")
     file.flush()
 ```
+Im zweiten Schritt wurden die Modulkataloge und Prüfungsordnungen der Studiengänge heruntergeladen. Da diese teilweise auf den verschiedenen Webseiten verteilt waren, wurde diese händisch heruntergeladen. Daraufhin wurde versucht mit dem `PDFToTextConverter()` von Haystack die PDFs umzuwandeln damit diese in das Doc-Format umgwandelt werden können, welches bei Haystack benötigt wird. Wegen der Formatierung mancher PDFs der Universität war dies jedoch nicht möglich.
+
 
 ## 01-Anforderungserhebung
 In diesem Ordner sind alle Daten der durchgeführten Interviews, der Fokusgruppe und der Wettbewerbsanalyse zu finden. Diese Daten sind dazu genutzt worden, um die Bedürfnisse und die Pain Points der Nutzer zu erkennen. Dies stellte die Basis unserer Arbeit dar, auf der die App aufgebaut wurde.
