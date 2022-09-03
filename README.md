@@ -308,7 +308,22 @@ def getdic():
 mydic = getdic()
 
 ```
-
+```ruby
+def pipe(user_input: str, studiengang):
+    """
+    The function takes a user input and a studiengang as parameters and returns the top 3 predictions
+    for the studiengang
+    
+    Args:
+      user_input (str): str = the user's input
+      studiengang: the name of the study program
+    
+    Returns:
+      The answer for the question
+    """
+    studiengang_prediction = studiengänge_pipe.run(query=user_input, params={"Retriever": {"top_k": 10}, "filters": {"name": mydic[f"{studiengang}"]}, "Reader": {"top_k": 3}})
+    return studiengang_prediction
+```
 
 ## 03-Iterativer Designprozess
 In diesem Ordner sind drei Videos zu den unterschiedlichen Prototypen zu finden. In diesem Projekt wurden ein Paper-Prototype, ein Medium-Fidelity-Prototype und ein High-Fidelity-Prototype erstellt. Zusätzlich ist der High-Fidelity-Prototype anhand der UE-Tests verbessert worden. Genaue Erklärungen und Bilder der Prototypen sind im Bericht zu finden.
