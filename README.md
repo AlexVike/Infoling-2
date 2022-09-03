@@ -325,11 +325,21 @@ def pipe(user_input: str, studiengang):
     return studiengang_prediction
 ```
 
-## 03-Iterativer Designprozess
-In diesem Ordner sind drei Videos zu den unterschiedlichen Prototypen zu finden. In diesem Projekt wurden ein Paper-Prototype, ein Medium-Fidelity-Prototype und ein High-Fidelity-Prototype erstellt. Zusätzlich ist der High-Fidelity-Prototype anhand der UE-Tests verbessert worden. Genaue Erklärungen und Bilder der Prototypen sind im Bericht zu finden.
-- Low-Fidelity-Prototype: Beinhaltet das Video des Prototypen.
-- Medium-Fidelity-Prototype: Beinhaltet das Video des Prototypen.
-- High-Fidelity-Prototype: Beinhaltet das Video des Prototypen.
+## Finetuning
+Das Modell `deepset/gelectra-base-germanquad-distilled` wurde mit einem Datensatz, der Mithilfe des (Annotationstools von Haystack)[https://annotate.deepset.ai/] erstellt wurde, gefinetuned.
+```ruby
+from haystack.nodes import FARMReader
+
+
+# Das Model deepset/gelectra-base-germanquad-distilled wird mit unseren Daten gefinetuned.
+reader = FARMReader(model_name_or_path="deepset/gelectra-base-germanquad-distilled", use_gpu=True, num_processes=1)
+data_dir = "QA/finetuning_data"
+
+reader.train(data_dir=data_dir, train_filename="training_data_finetuning.json", use_gpu=True, n_epochs=1, save_dir="QA/my_model", num_processes=1)
+# Das Model wird abgespeichert und für das Projekt verwendet.
+reader.save(directory="QA/my_model")
+new_reader = FARMReader(model_name_or_path="QA/my_model")
+```
 
 ## 04-Summative Evaluation
 In diesem Ordner ist die Evaluation des High-Fidelity-Prototype zu finden. Mithilfe dieser Auswertung ist der High-Fidelity-Prototype verbessert worden. Mehr dazu in dem Bericht in 00-General.
