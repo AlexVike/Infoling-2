@@ -326,7 +326,7 @@ def pipe(user_input: str, studiengang):
 ```
 
 ## Finetuning
-Das Modell `deepset/gelectra-base-germanquad-distilled` wurde mit einem Datensatz, der Mithilfe des (Annotationstools von Haystack)[https://annotate.deepset.ai/] erstellt wurde, gefinetuned.
+Das Modell `deepset/gelectra-base-germanquad-distilled` wurde mit einem Datensatz, der Mithilfe des [Annotationstools von Haystack](https://annotate.deepset.ai/) erstellt wurde, gefinetuned.
 ```ruby
 from haystack.nodes import FARMReader
 
