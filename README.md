@@ -347,7 +347,7 @@ new_reader = FARMReader(model_name_or_path="QA/my_model")
 Auch bei der Evaluation ist ein Datensatz, der mit dem [Annotationstool von Haystack](https://annotate.deepset.ai/) erstellt wurde, zum Einsatz gekommen. Die Ergebnisse der Evaluation und der Code können [hier](https://github.com/AlexVike/Infoling-2/blob/main/QA/Evaluation/Evaluation.ipynb) eingesehen werden.
 
 ## User Interface
-Für ein einfaches User Interface wurde ein `Flask Webserver` erstellt. Zusätzlich wurde `Bootstrap` verwendet.
+Zur Implementierung des Benutzerinterfaces wurde eine WSGI-App mit Flask implementiert. Diese wird von einem WSGI-Server bereitgestellt. Die Oberfläche wurde mit Hilfe von Bootstrap realisiert. 
 ```ruby
 from flask import Flask, render_template, request, redirect, url_for, flash, jsonify, abort
 from wsgi_app.logmodule import getLogger
@@ -361,12 +361,11 @@ class App(Flask):
     def __init__(self) -> None:
         Flask.__init__(self, __name__, static_url_path='', static_folder='wsgi_app/static/', template_folder='wsgi_app/templates/')
         self.config['TEMPLATES_AUTO_RELOAD'] = True
-        self.wsgiServer = WSGIServer(('', 4999), self)
         self.ip = "0.0.0.0"
         self.port = 4999
         print(f"Current working directory: {os.path.abspath(os.path.dirname(__file__))}")
         self.logger = getLogger(__name__, os.path.abspath(os.path.dirname(__file__)) + '/wsgi_app/logs/app.log', maxBytes=1024 * 100)
-        self.http_server = WSGIServer((self.ip, self.port), self, log=self.logger)
+        self.wsgi_server = WSGIServer((self.ip, self.port), self, log=self.logger)
         self.routes = {
             "/": (self.index, ["GET", "POST"]),
             "/index.html": (self.index, ["GET", "POST"]),
@@ -409,7 +408,7 @@ class App(Flask):
         """
         for key in self.routes.keys():
             self.route(key, methods=self.routes[key][1])(self.routes[key][0])
-        self.http_server.serve_forever()
+        self.wsgi_server.serve_forever()
 
 
 if __name__ == "__main__":
