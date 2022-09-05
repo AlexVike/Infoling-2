@@ -518,3 +518,5 @@ haystack.errors.HaystackError: Must provide a 'query' parameter for retrievers i
 2022-09-05 09:19:12,300 - __main__ - 1226 - INFO - 192.168.0.121 - - [2022-09-05 09:19:12] "POST /index.html HTTP/1.1" 200 99538 178.853303
 2022-09-05 09:34:11,373 - __main__ - 1226 - INFO - 192.168.0.121 - - [2022-09-05 09:34:11] "GET /css/bootstrap.min.css.map HTTP/1.1" 200 521711 0.161001
 2022-09-05 09:34:11,379 - __main__ - 1226 - INFO - 192.168.0.121 - - [2022-09-05 09:34:11] "GET /js/bootstrap.bundle.js.map HTTP/1.1" 200 449135 0.004998
+2022-09-05 09:59:34,373 - __main__ - 45 - DEBUG - ImmutableMultiDict([('studiengang', 'erziehungswissenschaft-ba'), ('question', 'Was ist M01?')])
+2022-09-05 10:02:17,639 - __main__ - 1226 - INFO - 192.168.0.121 - - [2022-09-05 10:02:17] "POST /index.html HTTP/1.1" 200 99847 163.266601

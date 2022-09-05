@@ -31,6 +31,7 @@ mydic = getdic()
 studiengänge_document_store = ElasticsearchDocumentStore(host="localhost", username="", password="", index="studiengänge")
 studiengänge_retriever = ElasticsearchRetriever(document_store=studiengänge_document_store)
 studiengänge_reader = FARMReader(model_name_or_path="QA/Finetuning/my_model", use_gpu=True, num_processes=0)
+#studiengänge_reader = FARMReader(model_name_or_path="deepset/gelectra-base-germanquad-distilled", use_gpu=True, num_processes=0)
 studiengänge_pipe = ExtractiveQAPipeline(studiengänge_reader, studiengänge_retriever)
 
 def pipe(user_input: str, studiengang):
