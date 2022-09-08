@@ -1,6 +1,6 @@
 # Ein Question Answering Ratgeber für Studiengänge an der Universität Regensburg
 
-- [00-Requierements](https://github.com/AlexVike/Infoling-2/tree/main/Conda_pip_requierements)
+- [00-Requirements](https://github.com/AlexVike/Infoling-2/tree/main/Conda_pip_requierements)
 - [01-HTML to txt](https://github.com/AlexVike/Infoling-2/tree/main/Hmtl%20to%20txt)
 - [02-PDF to txt](https://github.com/AlexVike/Infoling-2/tree/main/pdf%20to%20txt)
 - [03-Txt](https://github.com/AlexVike/Infoling-2/tree/main/txt)
