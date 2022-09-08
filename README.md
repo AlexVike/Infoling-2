@@ -1,4 +1,4 @@
-# Ein Question-Answer Ratgeber für Studiengänge an der Universität Regensburg
+# Ein Question Answering Ratgeber für Studiengänge an der Universität Regensburg
 
 - [00-Requierements](https://github.com/AlexVike/Infoling-2/tree/main/Conda_pip_requierements)
 - [01-HTML to txt](https://github.com/AlexVike/Infoling-2/tree/main/Hmtl%20to%20txt)
@@ -9,17 +9,17 @@
 
 ## Instalation des Systems
 
-Um das QA-System zu nutzen, müssen Sie die [Requierements](https://github.com/AlexVike/Infoling-2/tree/main/Conda_pip_requierements) installieren (entweder conda oder pip). Daraufhin muss das Repository gecloned werden. Danach benötigen Sie die Datenbank. Um sie zu verwenden, muss zuerst [Docker](https://www.docker.com/products/docker-desktop/) installiert werden. Danach kann das Docker-Image [hier](https://hub.docker.com/r/alexvike/infoling2/tags) heruntergeladen werden. Nun muss die Datenbank mit dem Port 9200 über Docker gestartet werden. Falls bei dem Herunterladen des Images nach der Instalation von Docker Probleme auftreten, kann dies durch folgende Befehle im Terminal ersetzt werden:
+Um das Question Answering System zu nutzen, müssen Sie die [Requirements](https://github.com/AlexVike/Infoling-2/tree/main/Conda_pip_requierements) installieren (entweder conda oder pip). Daraufhin muss das Repository geklont werden. Danach benötigen Sie die Datenbank. Um diese zu verwenden, muss zuerst [Docker](https://www.docker.com/products/docker-desktop/) installiert werden. Danach kann das Docker-Image [hier](https://hub.docker.com/r/alexvike/infoling2/tags) heruntergeladen werden. Nun muss die Datenbank mit dem Port 9200 über Docker gestartet werden. Falls bei dem Herunterladen des Images nach der Instalation von Docker Probleme auftreten, kann dies durch folgende Befehle im Terminal ersetzt werden:
 ```ruby
 docker pull docker.elastic.co/elasticsearch/elasticsearch:7.9.2
 docker run -d -p 9200:9200 -e "discovery.type=single-node" elasticsearch:7.9.2
 ```
-Daraufhin muss zunächst [`txt_to_doc.py` und dann `docs to elasticsearch.py`](https://github.com/AlexVike/Infoling-2/tree/main/QA/Vorbereitung_Elasticsearch) ausgeführt werden. Da das Modell, welches verwendet wurde zu groß ist für Github, wurde dies über [Dropbox](https://www.dropbox.com/scl/fo/fif40k9gzj399ngcx2sk7/h?dl=0&rlkey=b077xmdnhhc1uljcvkjyl1jrm) zur Verfügung gestellt. Laden Sie das Modell über Dropbox herunter und ersetzen sie die Datei mit dem Modell welches im Finetuning [Ordner](https://github.com/AlexVike/Infoling-2/tree/main/QA/Finetuning) zu finden ist. Falls dies Probleme bereitet, kann ein vortrainiertes Modell verwendet werden. Dafür muss in `QA_System.py` die entsprechende Zeile auskommentiert werden. Nun kann `main.py` ausgeführt werden. Mit dem Befehl `ipconfig` für Windows, `ifconfig` für Linux und Mac wird die IPv4-Adresse im Terminal überprüft. Diese wird im Browser eingegeben. Nun können Fragen gestellt werden.
+Daraufhin muss zunächst [`txt_to_doc.py` und dann `docs to elasticsearch.py`](https://github.com/AlexVike/Infoling-2/tree/main/QA/Vorbereitung_Elasticsearch) ausgeführt werden. Da das Modell, welches verwendet wurde zu groß ist für Github, wurde dies über [Dropbox](https://www.dropbox.com/scl/fo/fif40k9gzj399ngcx2sk7/h?dl=0&rlkey=b077xmdnhhc1uljcvkjyl1jrm) zur Verfügung gestellt. Laden Sie das Modell über Dropbox herunter und ersetzen Sie die Datei mit dem Modell, welches im Finetuning [Ordner](https://github.com/AlexVike/Infoling-2/tree/main/QA/Finetuning) zu finden ist. Falls dies Probleme bereitet, kann ein vortrainiertes Modell verwendet werden. Dafür muss in `QA_System.py` die entsprechende Zeile auskommentiert werden. Nun kann `main.py` ausgeführt werden. Mit dem Befehl `ipconfig` für Windows, `ifconfig` für Linux und Mac wird die IPv4-Adresse im Terminal überprüft. Diese wird im Browser eingegeben. Nun können Fragen gestellt werden.
 
 ## Scraping des Datensatzes
-Als aller erstes musste der Datensatz für das Projekt gescraped werden. Dies erfolgte in 2 Schritten.
+Als aller erstes musste der Datensatz für das Projekt gescraped werden. Dies erfolgte in zwei Schritten.
 
-Zuerst wurden alle Links die für das Projekt in Frage kommen der [Universitätswebseite](https://www.uni-regensburg.de/studium/studienangebot/studiengaenge-a-z) in einer Liste abgespeichert. Wichtig war, dass es nur Studiengänge sind, die man Erststudium absolvieren kann.
+Zuerst wurden alle Links, die für das Projekt in Frage kommen der [Universitätswebseite](https://www.uni-regensburg.de/studium/studienangebot/studiengaenge-a-z) in einer Liste abgespeichert. Wichtig war, dass es nur Studiengänge sind, die man im Erststudium absolvieren kann.
 ```ruby
 html = urlopen("https://www.uni-regensburg.de/studium/studienangebot/studiengaenge-a-z")
 soup = BeautifulSoup(html.read(), 'lxml')
@@ -72,7 +72,7 @@ for webseite in links:
     file.write(f"{text}")
     file.flush()
 ```
-Im zweiten Schritt wurden die Modulkataloge und Prüfungsordnungen der Studiengänge heruntergeladen. Da diese teilweise auf den verschiedenen Webseiten verteilt waren, wurden diese händisch heruntergeladen. Daraufhin wurde versucht mit dem `PDFToTextConverter()` von Haystack die PDFs umzuwandeln damit diese in das Doc-Format umgwandelt werden können, welches bei Haystack benötigt wird. Wegen der Formatierung mancher PDFs der Universität war dies jedoch nicht möglich. Aus diesen Grund wurde `pdfplumber` und `OCR` benutzt, um die PDFs in Textdateien umzuwandeln. Falls eine PDF Datei nicht von `pdfplumber` umgewandelt werden konnte wurde `OCR` verwendet.
+Im zweiten Schritt wurden die Modulkataloge und Prüfungsordnungen der Studiengänge heruntergeladen. Da diese teilweise auf den verschiedenen Webseiten verteilt waren, wurden diese händisch heruntergeladen. Daraufhin wurde versucht mit dem `PDFToTextConverter()` von Haystack die PDFs umzuwandeln, damit diese in das Doc-Format umgwandelt werden können, welches bei Haystack benötigt wird. Wegen der Formatierung mancher PDFs der Universität war dies jedoch nicht möglich. Aus diesen Grund wurde `pdfplumber` und `OCR` benutzt, um die PDFs in Textdateien umzuwandeln. Falls eine PDF Datei nicht von `pdfplumber` umgewandelt werden konnte wurde `OCR` verwendet.
 
 `pdfplumber`:
 ```ruby
@@ -204,7 +204,7 @@ def ocr(pdf, targetdir, targetfilename):
   # End of main function!
 ```
 
-Nun wurden alle Textdateien in einem Ordner abegspeichert, damit diese im nächsten Schritt umgwandelt werden können, so dass sie der Datenbank übergeben werden können.
+Nun wurden alle Textdateien in einem Ordner abegspeichert, damit diese im nächsten Schritt umgwandelt werden können, sodass sie der Datenbank übergeben werden können.
 ```ruby
 import shutil
 
@@ -273,7 +273,7 @@ studiengänge_document_store = ElasticsearchDocumentStore(host="localhost", user
 studiengänge_document_store.write_documents(getdocs())
 ```
 
-## QA-System
+## Question Answering System
 Nun wurde die Pipeline für das QA-System erstellt.
 ```ruby
 from haystack.document_stores import ElasticsearchDocumentStore
@@ -286,9 +286,11 @@ from haystack.pipelines import ExtractiveQAPipeline
 studiengänge_document_store = ElasticsearchDocumentStore(host="localhost", username="", password="", index="studiengänge")
 studiengänge_retriever = ElasticsearchRetriever(document_store=studiengänge_document_store)
 studiengänge_reader = FARMReader(model_name_or_path="QA/Finetuning/my_model", use_gpu=True, num_processes=0)
+# studiengänge_reader = FARMReader(model_name_or_path="deepset/gelectra-base-germanquad-distilled", use_gpu=True, num_processes=0) 
+# Bei Problemen mit dem gefinetunten Modell kann die obere Zeile eingekommentiert werden und die untere Zeile auskommentiert werden.
 studiengänge_pipe = ExtractiveQAPipeline(studiengänge_reader, studiengänge_retriever)
 ```
-Damit das QA-System nur einen Studiengang übergeben bekommt wurde ein Dictionary erstellt. Der Ordner Name der Studiengänge dient dabei als Schlüssel und die Textdateien werden dem Schlüssel als Liste übergeben.
+Damit das QA-System nur einen Studiengang übergeben bekommt, wurde ein Dictionary erstellt. Der Ordner Name der Studiengänge dient dabei als Schlüssel und die Textdateien werden dem Schlüssel als Liste übergeben.
 
 ```ruby
 import os
