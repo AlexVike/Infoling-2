@@ -7,7 +7,7 @@
 - [04-QA](https://github.com/AlexVike/Infoling-2/tree/main/QA)
 - [04-WSGI_App](https://github.com/AlexVike/Infoling-2/tree/main/wsgi_app)
 
-## Instalation des Systems
+## Installation des Systems
 
 Um das Question Answering System zu nutzen, müssen Sie die [Requirements](https://github.com/AlexVike/Infoling-2/tree/main/Conda_pip_requierements) installieren (entweder conda oder pip). Daraufhin muss das Repository geklont werden. Danach benötigen Sie die Datenbank. Um diese zu verwenden, muss zuerst [Docker](https://www.docker.com/products/docker-desktop/) installiert werden. Danach kann das Docker-Image [hier](https://hub.docker.com/r/alexvike/infoling2/tags) heruntergeladen werden. Nun muss die Datenbank mit dem Port 9200 über Docker gestartet werden. Falls bei dem Herunterladen des Images nach der Instalation von Docker Probleme auftreten, kann dies durch folgende Befehle im Terminal ersetzt werden:
 ```ruby
